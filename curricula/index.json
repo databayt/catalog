@@ -240,7 +240,7 @@
        "subject": "civics",
        "title": {
         "ar": "التربية المدنية",
-        "en": "Social Science — Political Science (Democratic Politics II)"
+        "en": "Civics"
        },
        "lang": "en",
        "status": "authored",
@@ -265,7 +265,7 @@
        "subject": "economics",
        "title": {
         "ar": "الاقتصاد",
-        "en": "Social Science — Economics (Understanding Economic Development)"
+        "en": "Economics"
        },
        "lang": "en",
        "status": "authored",
@@ -315,7 +315,7 @@
        "subject": "geography",
        "title": {
         "ar": "الجغرافيا",
-        "en": "Social Science — Geography (Contemporary India II)"
+        "en": "Geography"
        },
        "lang": "en",
        "status": "authored",
@@ -340,7 +340,7 @@
        "subject": "history",
        "title": {
         "ar": "التاريخ",
-        "en": "Social Science — History (India and the Contemporary World II)"
+        "en": "History"
        },
        "lang": "en",
        "status": "authored",
@@ -430,7 +430,7 @@
        "id": "gb-g1-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -605,7 +605,7 @@
        "id": "gb-g1-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -785,7 +785,7 @@
        "id": "gb-g2-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -960,7 +960,7 @@
        "id": "gb-g2-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -1140,7 +1140,7 @@
        "id": "gb-g3-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -1340,7 +1340,7 @@
        "id": "gb-g3-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -1520,7 +1520,7 @@
        "id": "gb-g4-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -1720,7 +1720,7 @@
        "id": "gb-g4-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -1900,7 +1900,7 @@
        "id": "gb-g5-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -2100,7 +2100,7 @@
        "id": "gb-g5-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -2280,7 +2280,7 @@
        "id": "gb-g6-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -2480,7 +2480,7 @@
        "id": "gb-g6-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -2660,7 +2660,7 @@
        "id": "gb-g7-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -2885,7 +2885,7 @@
        "id": "gb-g7-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -3065,7 +3065,7 @@
        "id": "gb-g8-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -3290,7 +3290,7 @@
        "id": "gb-g8-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -3470,7 +3470,7 @@
        "id": "gb-g9-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -3695,7 +3695,7 @@
        "id": "gb-g9-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -3875,7 +3875,7 @@
        "id": "gb-g10-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -4150,7 +4150,7 @@
        "id": "gb-g10-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -4280,7 +4280,7 @@
        "id": "gb-g11-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -4555,7 +4555,7 @@
        "id": "gb-g11-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -4685,7 +4685,7 @@
        "id": "gb-g12-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -4960,7 +4960,7 @@
        "id": "gb-g12-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -8787,7 +8787,7 @@
        "id": "us-g1-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -8887,7 +8887,7 @@
        "id": "us-g1-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -9067,7 +9067,7 @@
        "id": "us-g2-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -9167,7 +9167,7 @@
        "id": "us-g2-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -9347,7 +9347,7 @@
        "id": "us-g3-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -9447,7 +9447,7 @@
        "id": "us-g3-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -9627,7 +9627,7 @@
        "id": "us-g4-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -9727,7 +9727,7 @@
        "id": "us-g4-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -9907,7 +9907,7 @@
        "id": "us-g5-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -10007,7 +10007,7 @@
        "id": "us-g5-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -10187,7 +10187,7 @@
        "id": "us-g6-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -10312,7 +10312,7 @@
        "id": "us-g6-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -10467,7 +10467,7 @@
        "id": "us-g7-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -10592,7 +10592,7 @@
        "id": "us-g7-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -10747,7 +10747,7 @@
        "id": "us-g8-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -10872,7 +10872,7 @@
        "id": "us-g8-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -11027,7 +11027,7 @@
        "id": "us-g9-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -11152,7 +11152,7 @@
        "id": "us-g9-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -11282,7 +11282,7 @@
        "id": "us-g10-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -11407,7 +11407,7 @@
        "id": "us-g10-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -11537,7 +11537,7 @@
        "id": "us-g11-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -11637,7 +11637,7 @@
        "id": "us-g11-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",
@@ -11792,7 +11792,7 @@
        "id": "us-g12-arabic",
        "subject": "arabic",
        "title": {
-        "ar": "Arabic Language / اللغة العربية",
+        "ar": "اللغة العربية",
         "en": "Arabic Language"
        },
        "lang": "ar",
@@ -11917,7 +11917,7 @@
        "id": "us-g12-islamic-studies",
        "subject": "islamic-studies",
        "title": {
-        "ar": "Islamic Studies / التربية الإسلامية",
+        "ar": "التربية الإسلامية",
         "en": "Islamic Studies"
        },
        "lang": "ar",

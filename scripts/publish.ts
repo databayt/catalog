@@ -14,6 +14,7 @@
  *   pnpm publish:cdn                        dry run: list what would change
  *   pnpm publish:cdn --apply                upload new keys + invalidate
  *   pnpm publish:cdn --apply --overwrite    also replace live keys that differ
+ *   pnpm publish:cdn --apply sd gb          limit to some curricula
  */
 
 import { CloudFrontClient, CreateInvalidationCommand } from "@aws-sdk/client-cloudfront"
@@ -36,11 +37,27 @@ function* walk(dir: string): Generator<string> {
   }
 }
 
+// Optional curriculum filter: `pnpm publish:cdn --apply --overwrite gb us`
+const only = process.argv.slice(2).filter((a) => !a.startsWith("--"))
+
 const files: { key: string; file: string }[] = []
 for (const f of walk(join(REPO, CONTENT_ROOT)))
   files.push({ key: pathToKey(relative(REPO, f)), file: f })
 for (const n of readdirSync(join(REPO, "schema", "json")))
   files.push({ key: `catalog/schema/${n}`, file: join(REPO, "schema", "json", n) })
+
+if (only.length)
+  files.splice(
+    0,
+    files.length,
+    ...files.filter(
+      ({ key }) =>
+        // the index and schemas describe every curriculum, so they always go
+        key === "catalog/index.json" ||
+        key.startsWith("catalog/schema/") ||
+        only.some((c) => key.startsWith(`catalog/${c}/`))
+    )
+  )
 
 const remote = await listPrefix("catalog/")
 const overwrite = process.argv.includes("--overwrite")

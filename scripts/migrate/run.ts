@@ -566,11 +566,12 @@ function migrateSubject(legacyDir: string, grade: string, folder: string) {
   if (str(raw.subjectAr)) rawTitle.ar = str(raw.subjectAr)
   if (str(raw.subjectEn)) rawTitle.en = str(raw.subjectEn)
   const sn = str(raw.subject_name)
-  if (sn) {
-    const [en] = sn.split(" / ")
-    if (ARABIC.test(sn)) rawTitle.ar ??= sn
-    else rawTitle.en ??= en
-  }
+  // "Arabic Language / اللغة العربية", "Science / विज्ञान": one part per script.
+  if (sn)
+    for (const part of sn.split(" / ").map((x) => x.trim())) {
+      if (ARABIC.test(part)) rawTitle.ar ??= part
+      else if (/^[\x20-\x7E]+$/.test(part)) rawTitle.en ??= part
+    }
   const structure = compact({
     $schema: "../../../../schema/json/structure.schema.json",
     id,
