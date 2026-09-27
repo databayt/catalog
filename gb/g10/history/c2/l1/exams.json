@@ -10,7 +10,7 @@
     {
       "id": "g10-his-unit-02-conflict-tension-01-versailles-quiz",
       "title": "Quiz: The Treaty of Versailles",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-06-04-forming-quadratic-from-roots-lquiz",
       "title": "اختبار درس - تكوين معادلة الدرجة الثانية في متغير واحد إذا عُلم جذراها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c6-l4-1",
       "title": "تكوين معادلة الدرجة الثانية في متغير واحد إذا عُلم جذراها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

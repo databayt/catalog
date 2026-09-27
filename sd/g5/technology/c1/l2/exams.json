@@ -10,7 +10,7 @@
     {
       "id": "g5-tec-unit-1-02-العملياتاألساسيةللحاسوب-lquiz",
       "title": "اختبار - العمليات األساسية للحاسوب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

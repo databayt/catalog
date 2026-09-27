@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-09-modern-national-movement-lquiz",
       "title": "اختبار درس - الحركة الوطنية السودانية الحديثة 1918-1953م",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-history-c1-l9-1",
       "title": "الحركة الوطنية السودانية الحديثة 1918-1953م",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

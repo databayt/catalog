@@ -9,6 +9,7 @@
     {
       "id": "g6-art-unit-01-formal-elements-exam",
       "title": "Exam: Formal Elements & Techniques",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

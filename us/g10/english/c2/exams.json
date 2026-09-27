@@ -9,6 +9,7 @@
     {
       "id": "g10-eng-unit-02-research-exam",
       "title": "Exam: Research & Synthesis",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

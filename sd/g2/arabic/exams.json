@@ -8,6 +8,7 @@
     {
       "id": "g2-arabic-final-exam-4156",
       "title": "Final Exam - Arabic - G2",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

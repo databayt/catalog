@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-02-07-my-school-4-lquiz",
       "title": "اختبار - مدرستي (٤)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

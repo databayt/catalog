@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-03-writing-02-punctuation-quiz",
       "title": "Quiz: Capitalization & Punctuation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

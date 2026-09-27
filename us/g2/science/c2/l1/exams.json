@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-02-earth-01-landforms-quiz",
       "title": "Quiz: Landforms",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

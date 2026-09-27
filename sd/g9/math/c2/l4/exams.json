@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-04-multiplying-different-bases-lquiz",
       "title": "اختبار درس - ضرب أعداد ذات أساسات مختلفة وقوة موحدة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c2-l4-1",
       "title": "ضرب أعداد ذات أساسات مختلفة وقوة موحدة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

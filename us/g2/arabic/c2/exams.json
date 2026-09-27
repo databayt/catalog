@@ -9,6 +9,7 @@
     {
       "id": "g2-ara-unit-02-sentence-exam",
       "title": "Exam: الجملة المفيدة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

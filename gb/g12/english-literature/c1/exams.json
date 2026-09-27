@@ -9,6 +9,7 @@
     {
       "id": "g12-eng-unit-01-tragedy-exam",
       "title": "Exam: Aspects of Tragedy",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

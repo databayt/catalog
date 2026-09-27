@@ -10,7 +10,7 @@
     {
       "id": "g8-uae-unit-01-uae-world-02-coexistence-quiz",
       "title": "Quiz: Tolerance & Coexistence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

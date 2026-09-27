@@ -9,6 +9,7 @@
     {
       "id": "g5-soc-unit-02-us-geography-exam",
       "title": "Exam: US Geography",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

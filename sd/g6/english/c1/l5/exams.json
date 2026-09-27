@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-1-anna-and-the-fighter-05-chapter-5-lquiz",
       "title": "اختبار - Chapter 5: The Quest Continues",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

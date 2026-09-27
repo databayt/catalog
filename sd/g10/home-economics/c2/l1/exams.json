@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-2-lesson-4-lquiz",
       "title": "اختبار درس - علم تغذية الإنسان ودور الغذاء في الجسم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

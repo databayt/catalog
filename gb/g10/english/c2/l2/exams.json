@@ -10,7 +10,7 @@
     {
       "id": "g10-eng-unit-02-writing-02-narrative-quiz",
       "title": "Quiz: Narrative Writing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

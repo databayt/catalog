@@ -10,7 +10,7 @@
     {
       "id": "g6-com-unit-02-systems-01-hardware-quiz",
       "title": "Quiz: Hardware & Software",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

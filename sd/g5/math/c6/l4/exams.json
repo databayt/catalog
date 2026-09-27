@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-06-04-angles-from-intersecting-lines-lquiz",
       "title": "اختبار - الزوايا الناشئة من تقاطع المستقيمات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

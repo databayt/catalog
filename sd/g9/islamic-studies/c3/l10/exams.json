@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-10-accepting-excuses-lquiz",
       "title": "اختبار درس - قبول العذر في الإسلام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-10-accepting-excuses-lquiz-2",
       "title": "اختبار درس - قبول العذر في الإسلام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

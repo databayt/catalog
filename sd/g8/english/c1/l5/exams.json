@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-05-forest-fires-tornadoes-and-sandstorms-lquiz",
       "title": "اختبار - Forest Fires, Tornadoes and Sandstorms",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-05-01-perimeter-concept-lquiz",
       "title": "اختبار - مفهوم المحيط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

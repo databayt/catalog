@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-02-01-reading-lquiz",
       "title": "اختبار درس - القراءة: السلطنة الزرقاء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-02-01-reading-lquiz-2",
       "title": "اختبار درس - القراءة: السلطنة الزرقاء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

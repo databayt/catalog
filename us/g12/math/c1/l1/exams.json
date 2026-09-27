@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-01-trig-01-trig-ratios-quiz",
       "title": "Quiz: Trigonometric Ratios",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

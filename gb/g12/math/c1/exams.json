@@ -9,6 +9,7 @@
     {
       "id": "g12-mat-unit-01-pure-exam",
       "title": "Exam: Pure Mathematics: Calculus",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-01-ratios-rates-exam",
       "title": "Exam: Ratios & Rates",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

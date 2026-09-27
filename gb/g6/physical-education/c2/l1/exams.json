@@ -10,7 +10,7 @@
     {
       "id": "g6-phy-unit-02-health-01-fitness-quiz",
       "title": "Quiz: Staying Active",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

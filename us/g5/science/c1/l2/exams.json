@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-01-matter-systems-02-mixtures-quiz",
       "title": "Quiz: Mixtures & Solutions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

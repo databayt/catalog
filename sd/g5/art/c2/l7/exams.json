@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-07-geometric-decoration-lquiz",
       "title": "اختبار - الزخرفة الهندسية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g11-bio-final",
       "title": "الامتحان النهائي - الأحياء",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

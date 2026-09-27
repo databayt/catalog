@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-05-04-reward-of-trustworthiness-lquiz",
       "title": "اختبار - جزاء الأمانة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

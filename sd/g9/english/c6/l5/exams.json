@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-06-05-the-gold-rush-lquiz",
       "title": "اختبار درس - The Gold Rush",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-06-05-the-gold-rush-lquiz-2",
       "title": "اختبار درس - The Gold Rush",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

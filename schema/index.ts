@@ -214,11 +214,21 @@ export const QBank = z.strictObject({
 })
 export type QBank = z.infer<typeof QBank>
 
+/** Hogwarts' exam vocabulary, shared so every consumer means the same thing. */
+export const ExamType = z.enum([
+  "final",
+  "midterm",
+  "chapter_test",
+  "practice",
+  "quiz",
+  "diagnostic",
+])
+
 export const Exam = z
   .strictObject({
     id: z.string().min(1),
     title: z.string().min(1),
-    kind: z.enum(["quiz", "test", "exam"]).optional(),
+    type: ExamType,
     description: z.string().optional(),
     durationMinutes: z.number().int().positive().optional(),
     totalMarks: z.number().positive().optional(),

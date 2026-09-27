@@ -10,7 +10,7 @@
     {
       "id": "g5-eng-unit-01-reading-01-point-of-view-quiz",
       "title": "Quiz: Point of View",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

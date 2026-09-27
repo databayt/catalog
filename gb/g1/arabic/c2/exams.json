@@ -9,6 +9,7 @@
     {
       "id": "g1-ara-unit-02-harakat-exam",
       "title": "Exam: الحركات",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

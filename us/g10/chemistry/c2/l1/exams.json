@@ -10,7 +10,7 @@
     {
       "id": "g10-che-unit-02-bonding-reactions-01-bonding-quiz",
       "title": "Quiz: Chemical Bonding",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

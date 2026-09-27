@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-05-03-square-perimeter-lquiz",
       "title": "اختبار - محيط المربع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-soc-unit-02-modern-era-02-globalization-quiz",
       "title": "Quiz: Globalization Today",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-6-lesson-18-lquiz",
       "title": "اختبار درس - معالجات الخياطة والتفصيل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

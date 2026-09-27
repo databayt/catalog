@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-02-04-spelling-lquiz",
       "title": "اختبار درس - الإملاء: بعض من علامات الترقيم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-02-04-spelling-lquiz-2",
       "title": "اختبار درس - الإملاء: بعض من علامات الترقيم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

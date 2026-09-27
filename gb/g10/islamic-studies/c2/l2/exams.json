@@ -10,7 +10,7 @@
     {
       "id": "g10-isl-unit-02-hadith-02-sunnah-quiz",
       "title": "Quiz: السنة النبوية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

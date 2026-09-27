@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-02-argument-02-research-paper-quiz",
       "title": "Quiz: The Research Paper",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

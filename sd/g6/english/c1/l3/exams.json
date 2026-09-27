@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lquiz",
       "title": "اختبار - Chapter 3: The Journey Begins",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

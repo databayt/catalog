@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-04-01-circle-basics-lq01",
+      "id": "g9-mat-unit-04-01-circle-basics-q01",
       "type": "mcq",
       "question": "مجموع زوايا المثلث يساوي:",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "مجموع زوايا أي مثلث = 180°."
     },
     {
-      "id": "g9-mat-unit-04-01-circle-basics-lq02",
+      "id": "g9-mat-unit-04-01-circle-basics-q02",
       "type": "true_false",
       "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
       "options": [

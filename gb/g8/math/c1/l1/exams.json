@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-01-ratio-proportion-01-ratio-quiz",
       "title": "Quiz: Ratio",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

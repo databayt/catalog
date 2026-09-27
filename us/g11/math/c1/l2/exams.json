@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-01-quadratics-02-polynomials-quiz",
       "title": "Quiz: Polynomials",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

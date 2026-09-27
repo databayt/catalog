@@ -9,6 +9,7 @@
     {
       "id": "g10-che-unit-01-atomic-exam",
       "title": "Exam: Atomic Structure & the Periodic Table",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

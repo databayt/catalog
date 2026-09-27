@@ -10,7 +10,7 @@
     {
       "id": "g10-fre-module-1-unit-2-lquiz",
       "title": "اختبار درس - Unité 2: Qui c'est?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-01-rise-of-ottoman-state-lquiz",
       "title": "اختبار درس - نشأة الدولة العثمانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-02-01-rise-of-ottoman-state-lquiz-2",
       "title": "اختبار درس - نشأة الدولة العثمانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

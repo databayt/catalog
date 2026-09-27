@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-02-fractions-decimals-01-add-sub-fractions-quiz",
       "title": "Quiz: Adding & Subtracting Fractions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

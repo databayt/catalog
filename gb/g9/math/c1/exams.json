@@ -9,6 +9,7 @@
     {
       "id": "g9-mat-unit-01-algebra-exam",
       "title": "Exam: Algebra & Graphs",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

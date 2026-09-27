@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-02-exp-log-01-exponential-quiz",
       "title": "Quiz: Exponential Functions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

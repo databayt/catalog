@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-4-01-أوربافيعصورالظالم-lquiz",
       "title": "اختبار - أوربا في عصور الظالم ..............................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

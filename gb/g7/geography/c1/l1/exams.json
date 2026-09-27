@@ -10,7 +10,7 @@
     {
       "id": "g7-geo-unit-01-tectonics-01-earthquakes-quiz",
       "title": "Quiz: Earthquakes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

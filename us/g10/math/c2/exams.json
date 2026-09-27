@@ -9,6 +9,7 @@
     {
       "id": "g10-mat-unit-02-circles-area-exam",
       "title": "Exam: Circles, Area & Volume",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

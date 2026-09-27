@@ -8,6 +8,7 @@
     {
       "id": "g9-tec-final",
       "title": "الامتحان النهائي - technical-education",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g4-art-final-exam-2338",
       "title": "Final Exam - Art - G4",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

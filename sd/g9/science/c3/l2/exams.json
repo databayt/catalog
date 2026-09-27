@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-03-02-current-intensity-lquiz",
       "title": "اختبار درس - شدة التيار الكهربائي وقياسها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-03-02-current-intensity-lquiz-2",
       "title": "اختبار درس - شدة التيار الكهربائي وقياسها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g1-en-u3-q001",
+      "type": "mcq",
+      "question": "What colour is the sky?",
+      "options": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "answer": "Blue",
+      "explanation": "The sky is blue in colour."
+    },
+    {
+      "id": "g1-en-u3-q002",
+      "type": "true_false",
+      "question": "Grass is green in colour.",
+      "answer": true,
+      "explanation": "Yes, grass is green."
+    },
+    {
+      "id": "g1-en-u3-q003",
+      "type": "fill_blank",
+      "question": "The sun is _______ in colour.",
+      "answer": "yellow",
+      "explanation": "The sun appears yellow."
+    },
+    {
+      "id": "g1-en-u3-q004",
+      "type": "mcq",
+      "question": "What colour is an apple (usually)?",
+      "options": [
+        "Red",
+        "Blue",
+        "Purple",
+        "Black"
+      ],
+      "answer": "Red",
+      "explanation": "Apples are usually red (or green)."
+    },
+    {
+      "id": "g1-en-u3-q005",
+      "type": "short_answer",
+      "question": "Name three colours you know in English.",
+      "answer": "red, blue, green (or any three colours)",
+      "explanation": "Common colours include: red, blue, green, yellow, orange, purple, pink, black, white."
+    },
+    {
+      "id": "g1-en-u3-q006",
+      "type": "true_false",
+      "question": "A banana is orange in colour.",
+      "answer": false,
+      "explanation": "A banana is yellow, not orange."
+    },
+    {
+      "id": "g1-en-u3-q007",
+      "type": "mcq",
+      "question": "What colour is the night sky?",
+      "options": [
+        "Black",
+        "White",
+        "Red",
+        "Green"
+      ],
+      "answer": "Black",
+      "explanation": "The night sky appears black or very dark."
+    },
+    {
+      "id": "g1-en-u3-q008",
+      "type": "fill_blank",
+      "question": "Snow is _______ in colour.",
+      "answer": "white",
+      "explanation": "Snow is white in colour."
+    },
+    {
+      "id": "g1-en-u3-q009",
+      "type": "mcq",
+      "question": "Which of these is a colour?",
+      "options": [
+        "Red",
+        "Cat",
+        "Book",
+        "Run"
+      ],
+      "answer": "Red",
+      "explanation": "Red is a colour. Cat, book and run are not colours."
+    },
+    {
+      "id": "g1-en-u3-q010",
+      "type": "short_answer",
+      "question": "What colour is your school bag?",
+      "answer": "My school bag is [colour]. (e.g., blue, red, black)",
+      "explanation": "Describe the colour of your own school bag."
+    }
+  ]
+}

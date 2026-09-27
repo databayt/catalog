@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-01-rational-numbers-01-integers-quiz",
       "title": "Quiz: Adding & Subtracting Integers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

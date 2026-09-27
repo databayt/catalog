@@ -10,7 +10,7 @@
     {
       "id": "g12-eng-unit-02-poetry-criticism-02-context-quiz",
       "title": "Quiz: Context & Connections",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

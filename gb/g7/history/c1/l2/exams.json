@@ -10,7 +10,7 @@
     {
       "id": "g7-his-unit-01-norman-conquest-02-feudalism-quiz",
       "title": "Quiz: Castles & the Feudal System",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

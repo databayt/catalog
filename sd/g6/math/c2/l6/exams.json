@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-02-06-dividing-integers-lquiz",
       "title": "اختبار - قسمة الأعداد الصحيحة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

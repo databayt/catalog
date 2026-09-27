@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-industrial-revolution-01-industry-quiz",
       "title": "Quiz: Industry & Change",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

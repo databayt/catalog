@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-05-06-circle-circumference-lquiz",
       "title": "اختبار - محيط الدائرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g2-ara-unit-01-words-exam",
       "title": "Exam: المقاطع والكلمات",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

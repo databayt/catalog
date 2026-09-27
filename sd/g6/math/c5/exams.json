@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-05-quiz",
       "title": "اختبار - العمليات على المجموعات",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

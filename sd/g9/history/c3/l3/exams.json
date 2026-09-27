@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-03-03-effects-of-colonialism-lquiz",
       "title": "اختبار درس - آثار الاستعمار الأوربي على القارة الأفريقية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-03-03-effects-of-colonialism-lquiz-2",
       "title": "اختبار درس - آثار الاستعمار الأوربي على القارة الأفريقية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

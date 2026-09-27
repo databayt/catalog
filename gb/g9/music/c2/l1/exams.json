@@ -10,7 +10,7 @@
     {
       "id": "g9-mus-unit-02-composing-01-composing-quiz",
       "title": "Quiz: Composing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

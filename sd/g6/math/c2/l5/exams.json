@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-02-05-multiplying-integers-lquiz",
       "title": "اختبار - ضرب الأعداد الصحيحة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

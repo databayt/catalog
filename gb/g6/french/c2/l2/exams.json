@@ -10,7 +10,7 @@
     {
       "id": "g6-fre-unit-02-daily-life-02-grammar-quiz",
       "title": "Quiz: Articles & Gender",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

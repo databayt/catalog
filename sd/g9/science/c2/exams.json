@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-02-quiz",
       "title": "اختبار - الشحنة الكهربائية والقوى الكهربائية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-science-c2-1",
       "title": "الشحنة الكهربائية والقوى الكهربائية",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-04-01-ratio-lquiz",
       "title": "اختبار - النسبة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

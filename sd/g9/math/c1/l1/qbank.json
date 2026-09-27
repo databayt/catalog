@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-01-01-function-definition-lq01",
+      "id": "g9-mat-unit-01-01-function-definition-q01",
       "type": "mcq",
       "question": "أي العمليات الحسابية التالية صحيحة؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "15 ÷ 3 = 5 صحيحة."
     },
     {
-      "id": "g9-mat-unit-01-01-function-definition-lq02",
+      "id": "g9-mat-unit-01-01-function-definition-q02",
       "type": "true_false",
       "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
       "options": [

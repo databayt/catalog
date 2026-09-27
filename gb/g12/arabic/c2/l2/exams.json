@@ -10,7 +10,7 @@
     {
       "id": "g12-ara-unit-02-schools-02-modern-quiz",
       "title": "Quiz: المدارس الحديثة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

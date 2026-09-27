@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-04-04-word-problems-proportion-lquiz",
       "title": "اختبار - مسائل لفظية على التناسب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

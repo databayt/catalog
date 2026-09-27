@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-04-03-reflecting-on-self-lquiz",
       "title": "اختبار درس - التفكر والتأمل في الأنفس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-04-03-reflecting-on-self-lquiz-2",
       "title": "اختبار درس - التفكر والتأمل في الأنفس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

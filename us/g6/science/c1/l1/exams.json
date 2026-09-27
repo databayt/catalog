@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-01-cells-01-cell-theory-quiz",
       "title": "Quiz: Cells & Cell Theory",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

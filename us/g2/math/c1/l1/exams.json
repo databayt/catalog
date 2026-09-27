@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-01-place-value-1000-01-hundreds-tens-ones-quiz",
       "title": "Quiz: Hundreds, Tens, and Ones",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

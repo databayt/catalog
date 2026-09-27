@@ -9,6 +9,7 @@
     {
       "id": "g8-eng-unit-02-nonfiction-exam",
       "title": "Exam: Non-Fiction & Writing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

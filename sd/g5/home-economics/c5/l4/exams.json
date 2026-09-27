@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-05-30-making-shoe-lquiz",
       "title": "اختبار - صناعة الحذاء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

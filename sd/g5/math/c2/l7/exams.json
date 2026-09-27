@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-07-reciprocal-lquiz",
       "title": "اختبار - مقلوب الكسر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g10-qur-final",
       "title": "الامتحان النهائي - quran",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

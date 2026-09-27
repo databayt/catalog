@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-15-03-grammar-lquiz",
       "title": "اختبار درس - النحو: المجرورات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

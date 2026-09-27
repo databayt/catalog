@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-mat-unit-03-01-decimal-concept-lq01",
+      "id": "g5-mat-unit-03-01-decimal-concept-q01",
       "type": "mcq",
       "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "3 ÷ 4 = 0.75."
     },
     {
-      "id": "g5-mat-unit-03-01-decimal-concept-lq02",
+      "id": "g5-mat-unit-03-01-decimal-concept-q02",
       "type": "true_false",
       "question": "الكسر 1/2 يساوي 0.5.",
       "options": [

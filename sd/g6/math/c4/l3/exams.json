@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-04-03-equations-lquiz",
       "title": "اختبار - المعادلات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

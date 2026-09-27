@@ -9,6 +9,7 @@
     {
       "id": "g10-uae-unit-01-sustainability-exam",
       "title": "Exam: Sustainability & the Environment",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

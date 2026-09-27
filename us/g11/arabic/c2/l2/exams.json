@@ -10,7 +10,7 @@
     {
       "id": "g11-ara-unit-02-arud-02-qafiya-quiz",
       "title": "Quiz: القافية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

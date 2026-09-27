@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-01-exponents-02-scientific-notation-quiz",
       "title": "Quiz: Scientific Notation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

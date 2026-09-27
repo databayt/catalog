@@ -10,7 +10,7 @@
     {
       "id": "g2-ara-unit-02-sentence-02-word-order-quiz",
       "title": "Quiz: ترتيب الكلمات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

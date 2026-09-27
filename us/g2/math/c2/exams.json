@@ -9,6 +9,7 @@
     {
       "id": "g2-mat-unit-02-add-sub-100-exam",
       "title": "Exam: Addition & Subtraction within 100",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

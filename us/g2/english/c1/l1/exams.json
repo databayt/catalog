@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-01-phonics-01-long-vowels-quiz",
       "title": "Quiz: Long Vowel Patterns",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

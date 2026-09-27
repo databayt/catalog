@@ -9,6 +9,7 @@
     {
       "id": "g6-eng-unit-01-reading-lit-exam",
       "title": "Exam: Reading Literature",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

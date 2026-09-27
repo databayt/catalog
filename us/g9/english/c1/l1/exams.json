@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-literature-01-theme-fiction-quiz",
       "title": "Quiz: Theme in Fiction",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

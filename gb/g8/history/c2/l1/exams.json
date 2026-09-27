@@ -10,7 +10,7 @@
     {
       "id": "g8-his-unit-02-civil-war-empire-01-civil-war-quiz",
       "title": "Quiz: The English Civil War",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

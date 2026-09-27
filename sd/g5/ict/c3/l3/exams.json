@@ -10,7 +10,7 @@
     {
       "id": "g5-ict-unit-3-03-األشكالاألساسية-lquiz",
       "title": "اختبار - األشكال األساسية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g10-bio-unit-01-cell-biology-exam",
       "title": "Exam: Cell Biology",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

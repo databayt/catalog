@@ -10,7 +10,7 @@
     {
       "id": "g7-mor-unit-02-values-02-fairness-quiz",
       "title": "Quiz: Fairness & Justice",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

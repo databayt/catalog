@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-01-concept-of-sets-lquiz",
       "title": "اختبار - مفهوم المجموعة والعنصر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g5-eng-unit-2-quiz",
       "title": "اختبار - My Family and My Community",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

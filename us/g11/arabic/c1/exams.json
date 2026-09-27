@@ -9,6 +9,7 @@
     {
       "id": "g11-ara-unit-01-poetry-prose-exam",
       "title": "Exam: الشعر والنثر",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

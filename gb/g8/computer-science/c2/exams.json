@@ -9,6 +9,7 @@
     {
       "id": "g8-com-unit-02-systems-exam",
       "title": "Exam: Computer Systems & Networks",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

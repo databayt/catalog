@@ -10,7 +10,7 @@
     {
       "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-quiz",
       "title": "Quiz: Geographical Fieldwork",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

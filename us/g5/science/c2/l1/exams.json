@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-02-ecosystems-01-food-webs-quiz",
       "title": "Quiz: Food Webs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

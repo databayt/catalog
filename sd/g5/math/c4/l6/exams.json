@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-04-06-proportional-division-lquiz",
       "title": "اختبار - التقسيم التناسبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

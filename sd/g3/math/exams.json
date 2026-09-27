@@ -8,6 +8,7 @@
     {
       "id": "g3-math-final-exam-1086",
       "title": "Final Exam - Math - G3",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

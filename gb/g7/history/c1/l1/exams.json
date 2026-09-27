@@ -10,7 +10,7 @@
     {
       "id": "g7-his-unit-01-norman-conquest-01-1066-quiz",
       "title": "Quiz: 1066 and the Battle of Hastings",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g7-fre-unit-02-daily-life-exam",
       "title": "Exam: Daily Life & Grammar",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

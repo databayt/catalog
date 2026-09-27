@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-shakespeare-01-context-quiz",
       "title": "Quiz: Shakespeare in Context",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

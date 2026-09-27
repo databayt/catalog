@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-mat-unit-06-01-complementary-angles-lq01",
+      "id": "g5-mat-unit-06-01-complementary-angles-q01",
       "type": "mcq",
       "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
       "options": [
@@ -19,24 +19,6 @@
       ],
       "answer": "قراءة المسألة وفهمها",
       "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
-    },
-    {
-      "id": "g5-mat-unit-06-01-complementary-angles-lq02",
-      "type": "true_false",
-      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
-      "options": [
-        "صحيح",
-        "خاطئ"
-      ],
-      "answer": true,
-      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
-    },
-    {
-      "id": "g5-mat-unit-06-01-complementary-angles-lq03",
-      "type": "fill_blank",
-      "question": "ناتج 7 + 8 + 5 = ___.",
-      "answer": "20",
-      "explanation": "7 + 8 + 5 = 20."
     },
     {
       "id": "g5-mat-unit-06-01-complementary-angles-lq04",

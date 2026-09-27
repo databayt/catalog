@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-03-01-belief-in-last-day-lquiz",
       "title": "اختبار - الإيمان باليوم الآخر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

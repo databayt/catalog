@@ -9,6 +9,7 @@
     {
       "id": "g7-mat-unit-02-proportional-exam",
       "title": "Exam: Proportional Relationships",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

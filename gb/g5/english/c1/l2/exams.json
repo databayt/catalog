@@ -10,7 +10,7 @@
     {
       "id": "g5-eng-unit-01-reading-02-author-choice-quiz",
       "title": "Quiz: Author's Word Choice",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

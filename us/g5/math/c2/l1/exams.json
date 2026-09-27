@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-quiz",
       "title": "Quiz: Unlike Denominators",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

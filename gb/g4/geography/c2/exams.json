@@ -9,6 +9,7 @@
     {
       "id": "g4-geo-unit-02-climate-biomes-exam",
       "title": "Exam: Climate Zones & Biomes",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

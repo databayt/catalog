@@ -10,7 +10,7 @@
     {
       "id": "g12-isl-unit-01-thought-contemporary-01-thought-quiz",
       "title": "Quiz: الفكر الإسلامي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

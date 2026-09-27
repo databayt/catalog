@@ -9,6 +9,7 @@
     {
       "id": "g3-isl-unit-02-prophets-exam",
       "title": "Exam: قصص الأنبياء",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

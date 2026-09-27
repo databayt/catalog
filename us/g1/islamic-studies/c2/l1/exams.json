@@ -10,7 +10,7 @@
     {
       "id": "g1-isl-unit-02-manners-01-adab-quiz",
       "title": "Quiz: آداب السلام والطعام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

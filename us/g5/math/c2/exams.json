@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-02-fractions-advanced-exam",
       "title": "Exam: Fractions: Add, Subtract, Multiply",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

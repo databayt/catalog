@@ -9,6 +9,7 @@
     {
       "id": "g12-che-unit-01-physical-chemistry-exam",
       "title": "Exam: Physical Chemistry",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 10,
       "questions": [

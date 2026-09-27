@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-02-grammar-01-active-passive-quiz",
       "title": "Quiz: Active & Passive Voice",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g8-mat-unit-01-exponents-exam",
       "title": "Exam: Exponents & Scientific Notation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

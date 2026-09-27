@@ -10,7 +10,7 @@
     {
       "id": "g6-com-unit-01-programming-02-data-quiz",
       "title": "Quiz: Data Representation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

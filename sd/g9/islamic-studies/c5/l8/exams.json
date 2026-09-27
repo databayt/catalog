@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-08-zakat-on-crops-fruits-lquiz",
       "title": "اختبار درس - زكاة الزروع والثمار",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-08-zakat-on-crops-fruits-lquiz-2",
       "title": "اختبار درس - زكاة الزروع والثمار",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

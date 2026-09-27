@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-02-01-base-and-power-lq01",
+      "id": "g9-mat-unit-02-01-base-and-power-q01",
       "type": "mcq",
       "question": "ما قيمة 2³?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "2³ = 2 × 2 × 2 = 8."
     },
     {
-      "id": "g9-mat-unit-02-01-base-and-power-lq02",
+      "id": "g9-mat-unit-02-01-base-and-power-q02",
       "type": "true_false",
       "question": "a⁰ = 1 لأي عدد a ≠ 0.",
       "options": [

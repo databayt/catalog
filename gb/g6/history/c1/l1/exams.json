@@ -10,7 +10,7 @@
     {
       "id": "g6-his-unit-01-maya-01-maya-life-quiz",
       "title": "Quiz: The Ancient Maya",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

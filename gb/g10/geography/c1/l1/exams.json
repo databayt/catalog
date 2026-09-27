@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-living-world-01-ecosystems-quiz",
       "title": "Quiz: Ecosystems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

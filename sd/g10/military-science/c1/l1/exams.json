@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-introduction-lesson-1-lquiz",
       "title": "اختبار درس - المقدمة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

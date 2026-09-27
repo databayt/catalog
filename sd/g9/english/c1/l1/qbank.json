@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-eng-unit-01-01-what-is-science-lq01",
+      "id": "g9-eng-unit-01-01-what-is-science-q01",
       "type": "mcq",
       "question": "What does the word 'beneficial' mean?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "'Beneficial' means producing good results or advantages."
     },
     {
-      "id": "g9-eng-unit-01-01-what-is-science-lq02",
+      "id": "g9-eng-unit-01-01-what-is-science-q02",
       "type": "true_false",
       "question": "The word 'enormous' means very large.",
       "options": [

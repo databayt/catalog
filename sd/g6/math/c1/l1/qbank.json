@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g6-mat-unit-01-01-concept-of-sets-lq01",
+      "id": "g6-mat-unit-01-01-concept-of-sets-q01",
       "type": "mcq",
       "question": "ما الأعداد الأولية بين 1 و 20؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
     },
     {
-      "id": "g6-mat-unit-01-01-concept-of-sets-lq02",
+      "id": "g6-mat-unit-01-01-concept-of-sets-q02",
       "type": "true_false",
       "question": "العدد 1 يُعدّ عدداً أولياً.",
       "options": [

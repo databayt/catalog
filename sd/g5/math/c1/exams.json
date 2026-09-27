@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-01-quiz",
       "title": "اختبار - مجموعة الأعداد الطبيعية والعمليات عليها",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

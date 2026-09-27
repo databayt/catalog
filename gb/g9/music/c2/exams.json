@@ -9,6 +9,7 @@
     {
       "id": "g9-mus-unit-02-composing-exam",
       "title": "Exam: Composing & Performing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g9-geo-unit-02-quiz",
       "title": "اختبار - جغرافية السودان البشرية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-geo-unit-02-quiz-2",
       "title": "اختبار - جغرافية السودان البشرية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

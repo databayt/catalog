@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-shakespeare-02-language-quiz",
       "title": "Quiz: Analysing Dramatic Language",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

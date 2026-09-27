@@ -9,6 +9,7 @@
     {
       "id": "g10-che-unit-02-bonding-exam",
       "title": "Exam: Bonding & Quantitative Chemistry",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

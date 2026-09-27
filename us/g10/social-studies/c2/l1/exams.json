@@ -10,7 +10,7 @@
     {
       "id": "g10-soc-unit-02-modern-era-01-cold-war-quiz",
       "title": "Quiz: The Cold War",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

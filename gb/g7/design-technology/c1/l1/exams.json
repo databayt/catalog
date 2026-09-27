@@ -10,7 +10,7 @@
     {
       "id": "g7-des-unit-01-design-process-01-research-quiz",
       "title": "Quiz: Research & Specification",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

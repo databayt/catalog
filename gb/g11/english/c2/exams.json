@@ -9,6 +9,7 @@
     {
       "id": "g11-eng-unit-02-writing-exam",
       "title": "Exam: Writing to Present a Viewpoint",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

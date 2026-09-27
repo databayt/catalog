@@ -10,7 +10,7 @@
     {
       "id": "g10-mat-unit-01-congruence-01-triangle-rules-quiz",
       "title": "Quiz: Triangle Congruence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

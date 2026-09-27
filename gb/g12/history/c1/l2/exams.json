@@ -10,7 +10,7 @@
     {
       "id": "g12-his-unit-01-tudors-breadth-02-government-religion-quiz",
       "title": "Quiz: Government & Religion",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

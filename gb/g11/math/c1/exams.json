@@ -9,6 +9,7 @@
     {
       "id": "g11-mat-unit-01-number-ratio-exam",
       "title": "Exam: Number & Ratio",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

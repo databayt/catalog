@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-01-chemistry-01-reactions-quiz",
       "title": "Quiz: Chemical Reactions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

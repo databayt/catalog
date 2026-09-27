@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-04-03-sunnah-prayers-lquiz",
       "title": "اختبار - نوافل الصلاة القبلية والبعدية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

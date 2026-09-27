@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-06-03-special-cases-lquiz",
       "title": "اختبار درس - الحالات الخاصة لمعادلة الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c6-l3-1",
       "title": "الحالات الخاصة لمعادلة الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

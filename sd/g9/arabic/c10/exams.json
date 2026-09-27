@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-10-quiz",
       "title": "اختبار - الوحدة العاشرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

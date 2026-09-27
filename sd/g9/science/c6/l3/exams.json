@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-06-03-bacteria-lquiz",
       "title": "اختبار درس - البكتيريا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-06-03-bacteria-lquiz-2",
       "title": "اختبار درس - البكتيريا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-03-01-where-is-sudan-lquiz",
       "title": "اختبار درس - Where is Sudan?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-03-01-where-is-sudan-lquiz-2",
       "title": "اختبار درس - Where is Sudan?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

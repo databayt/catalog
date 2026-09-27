@@ -9,6 +9,7 @@
     {
       "id": "g9-psh-unit-01-wellbeing-exam",
       "title": "Exam: Health & Wellbeing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

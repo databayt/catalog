@@ -10,7 +10,7 @@
     {
       "id": "g1-isl-unit-01-pillars-islam-02-purity-quiz",
       "title": "Quiz: الطهارة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

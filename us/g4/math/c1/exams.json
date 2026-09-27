@@ -9,6 +9,7 @@
     {
       "id": "g4-mat-unit-01-place-value-multidigit-exam",
       "title": "Exam: Place Value & Multi-Digit Arithmetic",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

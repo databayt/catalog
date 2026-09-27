@@ -10,7 +10,7 @@
     {
       "id": "g3-geography-unit-03-exam-5472",
       "title": "Lesson Quiz - 03-home-neighborhood - Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

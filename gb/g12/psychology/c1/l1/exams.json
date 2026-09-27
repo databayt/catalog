@@ -10,7 +10,7 @@
     {
       "id": "g12-psy-unit-01-approaches-01-approaches-quiz",
       "title": "Quiz: Psychological Approaches",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

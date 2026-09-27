@@ -10,7 +10,7 @@
     {
       "id": "g8-sci-unit-01-physics-01-forces-quiz",
       "title": "Quiz: Forces",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

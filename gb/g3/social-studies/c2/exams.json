@@ -9,6 +9,7 @@
     {
       "id": "g3-uae-unit-02-tolerance-exam",
       "title": "Exam: Tolerance & Friendship",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

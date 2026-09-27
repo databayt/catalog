@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-01-modern-01-themes-quiz",
       "title": "Quiz: Themes in Modern Drama/Prose",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

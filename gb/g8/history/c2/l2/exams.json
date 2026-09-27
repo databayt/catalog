@@ -10,7 +10,7 @@
     {
       "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-quiz",
       "title": "Quiz: Empire & the Slave Trade",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

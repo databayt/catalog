@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-08-artisanal-mining-lquiz",
       "title": "اختبار درس - التعدين الأهلي وأثره على البيئة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-08-artisanal-mining-lquiz-2",
       "title": "اختبار درس - التعدين الأهلي وأثره على البيئة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

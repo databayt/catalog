@@ -1,0 +1,91 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "arabic",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g3-ar-u01-q001",
+      "type": "mcq",
+      "question": "اختر الإجابة الصحيحة: المفعول به يأتي ___ من الفعل والفاعل",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الاسم العام يشمل جميع أفراد النوع",
+      "answer": true,
+      "explanation": "The statement about Values Ethics is True."
+    },
+    {
+      "id": "g3-ar-u01-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الفاعل يرفع ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال: ما الفرق بين الفعل الماضي والمضارع؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q005",
+      "type": "mcq",
+      "question": "اختر الإجابة الصحيحة: الفعل المضارع يبدأ بـ ___",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q006",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الفعل المضارع يتغير مع الضمائر",
+      "answer": true,
+      "explanation": "The statement about Values Ethics is True."
+    },
+    {
+      "id": "g3-ar-u01-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: المذكر والمؤنث يختلفان في ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q009",
+      "type": "mcq",
+      "question": "اختر الإجابة الصحيحة: الجملة الفعلية تتكون من ___",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Values Ethics."
+    },
+    {
+      "id": "g3-ar-u01-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الفعل الماضي مبني دائماً على السكون",
+      "answer": true,
+      "explanation": "The statement about Values Ethics is True."
+    }
+  ]
+}

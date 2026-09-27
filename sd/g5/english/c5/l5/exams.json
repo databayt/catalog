@@ -10,7 +10,7 @@
     {
       "id": "g5-eng-unit-5-05-lesson-5-lquiz",
       "title": "اختبار - Lesson 5",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

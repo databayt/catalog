@@ -10,7 +10,7 @@
     {
       "id": "g12-env-unit-02-human-impact-01-pollution-climate-quiz",
       "title": "Quiz: Pollution & Climate Change",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

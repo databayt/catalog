@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-5-03-مميزاتاألرضالسودانية-lquiz",
       "title": "اختبار - مميزات األرض السودانية ...........................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

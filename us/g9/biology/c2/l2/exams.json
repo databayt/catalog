@@ -10,7 +10,7 @@
     {
       "id": "g9-bio-unit-02-genetics-02-inheritance-quiz",
       "title": "Quiz: Patterns of Inheritance",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

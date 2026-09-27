@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-03-12-tailoring-lquiz",
       "title": "اختبار - تفصيل الملابس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

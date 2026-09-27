@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-06-forestry-problems-lquiz",
       "title": "اختبار درس - مشكلات القطاع الغابي في السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-06-forestry-problems-lquiz-2",
       "title": "اختبار درس - مشكلات القطاع الغابي في السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

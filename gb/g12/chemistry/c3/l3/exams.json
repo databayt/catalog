@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-03-organic-chemistry-03-organic-analysis-quiz",
       "title": "Quiz: Organic Analysis",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

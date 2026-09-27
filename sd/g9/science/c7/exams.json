@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-07-quiz",
       "title": "اختبار - الأرض",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [
@@ -110,6 +111,7 @@
     {
       "id": "g9-sci-unit-07-quiz-2",
       "title": "اختبار - الأرض",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

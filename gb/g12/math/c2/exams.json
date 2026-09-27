@@ -9,6 +9,7 @@
     {
       "id": "g12-mat-unit-02-mechanics-stats-exam",
       "title": "Exam: Mechanics & Statistics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-08-factoring-quadratic-unit-coefficient-lquiz",
       "title": "اختبار درس - تحليل المقدار الجبري من الدرجة الثانية إذا كان معامل س² الواحد الصحيح",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l8-1",
       "title": "تحليل المقدار الجبري من الدرجة الثانية إذا كان معامل س² الواحد الصحيح",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g4-isl-unit-01-zakat-sawm-02-honesty-quiz",
       "title": "Quiz: الصدق والأمانة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

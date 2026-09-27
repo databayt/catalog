@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-12-quiz",
       "title": "اختبار - الوحدة الثانية عشرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

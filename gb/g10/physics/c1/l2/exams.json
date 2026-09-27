@@ -10,7 +10,7 @@
     {
       "id": "g10-phy-unit-01-energy-02-efficiency-quiz",
       "title": "Quiz: Efficiency",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

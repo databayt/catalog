@@ -10,7 +10,7 @@
     {
       "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-quiz",
       "title": "Quiz: Writing & Beliefs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

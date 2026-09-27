@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-quran-01-short-surahs-quiz",
       "title": "Quiz: قصار السور",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

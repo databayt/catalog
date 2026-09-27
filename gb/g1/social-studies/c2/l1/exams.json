@@ -10,7 +10,7 @@
     {
       "id": "g1-uae-unit-02-values-01-sharing-quiz",
       "title": "Quiz: Sharing & Caring",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

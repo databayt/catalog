@@ -9,6 +9,7 @@
     {
       "id": "g10-his-unit-01-germany-exam",
       "title": "Exam: Germany 1890-1945",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-bio-unit-01-cell-biology-02-cell-division-quiz",
       "title": "Quiz: Cell Division (Mitosis)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

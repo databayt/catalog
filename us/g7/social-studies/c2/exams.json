@@ -9,6 +9,7 @@
     {
       "id": "g7-soc-unit-02-world-regions-exam",
       "title": "Exam: World Regions & Cultures",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

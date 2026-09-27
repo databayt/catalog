@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-02-chemistry-02-elements-compounds-quiz",
       "title": "Quiz: Elements, Compounds & Mixtures",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

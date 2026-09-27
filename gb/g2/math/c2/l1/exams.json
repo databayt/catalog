@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-02-multiplication-01-times-tables-quiz",
       "title": "Quiz: 2, 5 and 10 Times Tables",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

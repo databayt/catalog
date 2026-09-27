@@ -10,7 +10,7 @@
     {
       "id": "g4-uae-unit-02-empathy-01-empathy-quiz",
       "title": "Quiz: Empathy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

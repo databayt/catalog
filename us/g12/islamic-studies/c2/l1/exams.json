@@ -10,7 +10,7 @@
     {
       "id": "g12-isl-unit-02-culture-01-civilization-quiz",
       "title": "Quiz: الحضارة الإسلامية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g2-soc-unit-02-economics-01-needs-wants-quiz",
       "title": "Quiz: Needs and Wants",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

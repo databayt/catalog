@@ -10,7 +10,7 @@
     {
       "id": "g7-cit-unit-02-society-02-economy-quiz",
       "title": "Quiz: Citizens & the Economy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

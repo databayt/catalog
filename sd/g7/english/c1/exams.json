@@ -9,6 +9,7 @@
     {
       "id": "g7-eng-unit-01-quiz",
       "title": "اختبار - Welcome Back!",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -117,6 +118,7 @@
     {
       "id": "g7-eng-unit-01-quiz-2",
       "title": "اختبار - Welcome Back!",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g9-bio-unit-01-cells-exam",
       "title": "Exam: Cell Structure & Function",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

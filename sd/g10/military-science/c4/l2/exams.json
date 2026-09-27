@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-3-lesson-5-lquiz",
       "title": "اختبار درس - نماذج لمعارك العهد البولندي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-08-quiz",
       "title": "اختبار - الوحدة الثامنة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-ara-unit-08-quiz-2",
       "title": "اختبار - الوحدة الثامنة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

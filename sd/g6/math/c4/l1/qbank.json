@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g6-mat-unit-04-01-algebraic-expressions-lq01",
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q01",
       "type": "mcq",
       "question": "ما حل المعادلة 5x = 35؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "x = 35 ÷ 5 = 7."
     },
     {
-      "id": "g6-mat-unit-04-01-algebraic-expressions-lq02",
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q02",
       "type": "true_false",
       "question": "في المعادلة x + 3 = 10، حل المعادلة هو x = 7.",
       "options": [
@@ -32,7 +32,7 @@
       "explanation": "x = 10 - 3 = 7."
     },
     {
-      "id": "g6-mat-unit-04-01-algebraic-expressions-lq03",
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q03",
       "type": "fill_blank",
       "question": "حل المعادلة 2x - 4 = 10 هو x = ___.",
       "answer": "7",

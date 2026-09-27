@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-isl-unit-04-01-congregational-prayer-lq01",
+      "id": "g5-isl-unit-04-01-congregational-prayer-q01",
       "type": "mcq",
       "question": "كم عدد فروض الوضوء الأساسية؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
     },
     {
-      "id": "g5-isl-unit-04-01-congregational-prayer-lq02",
+      "id": "g5-isl-unit-04-01-congregational-prayer-q02",
       "type": "true_false",
       "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
       "options": [

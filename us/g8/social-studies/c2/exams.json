@@ -9,6 +9,7 @@
     {
       "id": "g8-soc-unit-02-civil-war-exam",
       "title": "Exam: Expansion & Civil War",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

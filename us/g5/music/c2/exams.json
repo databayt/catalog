@@ -9,6 +9,7 @@
     {
       "id": "g5-mus-unit-02-performing-exam",
       "title": "Exam: Performing & Listening",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

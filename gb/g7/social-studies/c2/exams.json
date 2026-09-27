@@ -9,6 +9,7 @@
     {
       "id": "g7-uae-unit-02-values-exam",
       "title": "Exam: Ethics & Cooperation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

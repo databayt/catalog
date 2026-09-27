@@ -1,0 +1,35 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-ara-unit-1-01-almarafiq-al-aama-q01",
+      "type": "mcq",
+      "question": "ما الهدف من قراءة النصوص الأدبية في الوحدة 1؟",
+      "options": [
+        "تنمية مهارات الفهم والاستيعاب",
+        "حفظ المفردات فقط",
+        "تعلم الأرقام",
+        "دراسة الجغرافيا"
+      ],
+      "answer": "تنمية مهارات الفهم والاستيعاب",
+      "explanation": "القراءة تنمّي القدرة على الفهم والتحليل."
+    },
+    {
+      "id": "g5-ara-unit-1-01-almarafiq-al-aama-q02",
+      "type": "true_false",
+      "question": "الفهم القرائي يساعد الطالب على تحليل النصوص.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الفهم القرائي الجيد أساس تحليل النصوص."
+    }
+  ]
+}

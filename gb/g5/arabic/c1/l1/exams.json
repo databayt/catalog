@@ -10,7 +10,7 @@
     {
       "id": "g5-ara-unit-01-grammar-01-subject-object-quiz",
       "title": "Quiz: الفاعل والمفعول به",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

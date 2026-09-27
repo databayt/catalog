@@ -10,7 +10,7 @@
     {
       "id": "g2-his-unit-01-great-fire-01-great-fire-quiz",
       "title": "Quiz: The Great Fire of London (1666)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

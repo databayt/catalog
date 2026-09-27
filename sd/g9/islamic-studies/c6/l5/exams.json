@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-06-05-treaty-consequences-lquiz",
       "title": "اختبار درس - صلح الحديبية وما ترتب عليه من أحداث",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-06-05-treaty-consequences-lquiz-2",
       "title": "اختبار درس - صلح الحديبية وما ترتب عليه من أحداث",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

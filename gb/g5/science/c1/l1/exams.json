@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-01-earth-space-01-solar-system-quiz",
       "title": "Quiz: The Solar System",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

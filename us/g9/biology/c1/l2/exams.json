@@ -10,7 +10,7 @@
     {
       "id": "g9-bio-unit-01-cells-02-transport-quiz",
       "title": "Quiz: Cell Transport",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

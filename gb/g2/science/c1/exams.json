@@ -9,6 +9,7 @@
     {
       "id": "g2-sci-unit-01-living-exam",
       "title": "Exam: Living Things & Habitats",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

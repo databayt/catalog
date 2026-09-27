@@ -10,7 +10,7 @@
     {
       "id": "g8-sci-unit-02-biology-01-digestion-quiz",
       "title": "Quiz: Digestion & Nutrition",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

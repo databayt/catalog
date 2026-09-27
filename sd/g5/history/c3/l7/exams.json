@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-3-07-انتشاراإلسالمفيشمالإفريقيا-lquiz",
       "title": "اختبار - انتشار اإلسالم في شمال إفريقيا ....................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

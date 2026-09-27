@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-07-07-mode-lquiz",
       "title": "اختبار درس - المنوال",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c7-l7-1",
       "title": "المنوال",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

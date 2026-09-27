@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-aqeedah-akhlaq-01-aqeedah-quiz",
       "title": "Quiz: العقيدة الإسلامية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

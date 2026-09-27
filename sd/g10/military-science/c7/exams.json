@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-6-quiz",
       "title": "اختبار - التنظيم الإداري والعسكري",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g3-english-unit-07-exam-4660",
       "title": "Chapter Exam - unit-07 - English",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

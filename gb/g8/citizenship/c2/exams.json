@@ -9,6 +9,7 @@
     {
       "id": "g8-cit-unit-02-society-exam",
       "title": "Exam: The Citizen & Society",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

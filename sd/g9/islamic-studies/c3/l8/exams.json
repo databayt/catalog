@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-08-responsibility-in-islam-lquiz",
       "title": "اختبار درس - المسؤولية في الإسلام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-08-responsibility-in-islam-lquiz-2",
       "title": "اختبار درس - المسؤولية في الإسلام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g8-phy-unit-02-games-tactics-01-skills-quiz",
       "title": "Quiz: Skills & Techniques",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g1-sci-unit-02-animals-exam",
       "title": "Exam: Animals, Including Humans",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

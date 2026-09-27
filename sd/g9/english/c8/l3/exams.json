@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-08-03-a-matter-of-science-lquiz",
       "title": "اختبار درس - A Matter of Science",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-08-03-a-matter-of-science-lquiz-2",
       "title": "اختبار درس - A Matter of Science",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

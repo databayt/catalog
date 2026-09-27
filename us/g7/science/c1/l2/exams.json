@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-01-ecosystems-02-cycles-quiz",
       "title": "Quiz: Cycles of Matter",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

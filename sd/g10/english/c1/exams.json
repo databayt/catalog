@@ -9,6 +9,7 @@
     {
       "id": "g10-eng-unit-01-quiz",
       "title": "اختبار - Unit 1",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [
@@ -55,7 +56,7 @@
     {
       "id": "sd-g10-english-c1-1",
       "title": "Unit 1",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

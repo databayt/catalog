@@ -9,6 +9,7 @@
     {
       "id": "g11-bio-unit-01-bioenergetics-exam",
       "title": "Exam: Bioenergetics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

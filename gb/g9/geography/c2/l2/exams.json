@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-02-resources-02-sustainability-quiz",
       "title": "Quiz: Sustainability",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-06-02-islam-to-yathrib-delegation-lquiz",
       "title": "اختبار - عرض الإسلام على وفد يثرب من الأنصار",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

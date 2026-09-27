@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-5-lesson-14-lquiz",
       "title": "اختبار درس - الأمراض المعدية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

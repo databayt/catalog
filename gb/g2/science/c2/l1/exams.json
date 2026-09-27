@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-02-materials-01-properties-quiz",
       "title": "Quiz: Material Properties",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

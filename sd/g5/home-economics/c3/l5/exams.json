@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-03-16-quick-stitches-lquiz",
       "title": "اختبار - الغرز السريعة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

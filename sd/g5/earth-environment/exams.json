@@ -8,6 +8,7 @@
     {
       "id": "g5-ear-final",
       "title": "الامتحان النهائي - earth-environment",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

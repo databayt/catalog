@@ -9,6 +9,7 @@
     {
       "id": "g5-geo-unit-01-settlements-exam",
       "title": "Exam: Settlements & Land Use",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

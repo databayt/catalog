@@ -9,6 +9,7 @@
     {
       "id": "g7-sci-unit-02-forces-chem-exam",
       "title": "Exam: Chemical Reactions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

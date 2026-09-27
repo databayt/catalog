@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g11",
+    "subject": "math",
+    "chapter": "c4"
+  },
+  "questions": [
+    {
+      "id": "g11-mat-u04-q001",
+      "type": "mcq",
+      "question": "أوجد: ∫ 4x³ dx",
+      "options": [
+        "x⁴ + C",
+        "4x⁴ + C",
+        "12x² + C",
+        "x³ + C"
+      ],
+      "answer": "x⁴ + C",
+      "explanation": "∫ 4x³ dx = 4 × x⁴/4 + C = x⁴ + C باستخدام قاعدة القوة للتكامل."
+    },
+    {
+      "id": "g11-mat-u04-q002",
+      "type": "mcq",
+      "question": "أوجد: ∫₀² (2x + 1) dx",
+      "options": [
+        "6",
+        "5",
+        "8",
+        "4"
+      ],
+      "answer": "6",
+      "explanation": "∫₀² (2x + 1) dx = [x² + x]₀² = (4 + 2) - (0 + 0) = 6"
+    },
+    {
+      "id": "g11-mat-u04-q003",
+      "type": "mcq",
+      "question": "أوجد: ∫ cos(x) dx",
+      "options": [
+        "sin(x) + C",
+        "-sin(x) + C",
+        "cos(x) + C",
+        "tan(x) + C"
+      ],
+      "answer": "sin(x) + C",
+      "explanation": "تكامل cos(x) = sin(x) + C وهي قاعدة أساسية."
+    },
+    {
+      "id": "g11-mat-u04-q004",
+      "type": "mcq",
+      "question": "أوجد المساحة المحصورة بين المنحنى y = x² والمحور السيني من x = 0 إلى x = 3.",
+      "options": [
+        "9",
+        "27",
+        "3",
+        "6"
+      ],
+      "answer": "9",
+      "explanation": "المساحة = ∫₀³ x² dx = [x³/3]₀³ = 27/3 - 0 = 9"
+    },
+    {
+      "id": "g11-mat-u04-q005",
+      "type": "true_false",
+      "question": "التكامل المحدد ∫ₐᵇ f(x) dx يعطي دائماً قيمة موجبة.",
+      "answer": false,
+      "explanation": "خطأ، إذا كانت f(x) < 0 في الفترة [a, b] فإن التكامل يكون سالباً."
+    },
+    {
+      "id": "g11-mat-u04-q006",
+      "type": "true_false",
+      "question": "∫ₐᵇ f(x) dx = -∫ᵇₐ f(x) dx",
+      "answer": true,
+      "explanation": "صحيح، عكس حدود التكامل يغير الإشارة وهذه خاصية أساسية للتكامل المحدد."
+    },
+    {
+      "id": "g11-mat-u04-q007",
+      "type": "fill_blank",
+      "question": "∫ 6x² dx = _______",
+      "answer": "2x³ + C",
+      "explanation": "∫ 6x² dx = 6 × x³/3 + C = 2x³ + C"
+    },
+    {
+      "id": "g11-mat-u04-q008",
+      "type": "fill_blank",
+      "question": "∫₁³ 2x dx = _______",
+      "answer": "8",
+      "explanation": "∫₁³ 2x dx = [x²]₁³ = 9 - 1 = 8"
+    },
+    {
+      "id": "g11-mat-u04-q009",
+      "type": "short_answer",
+      "question": "اشرح الفرق بين التكامل المحدد والتكامل غير المحدد.",
+      "answer": "التكامل غير المحدد يعطي دالة عامة + ثابت التكامل C (مثال: ∫ 2x dx = x² + C). التكامل المحدد يعطي قيمة عددية تمثل المساحة تحت المنحنى بين حدين (مثال: ∫₀¹ 2x dx = 1).",
+      "explanation": "يُقبل أي إجابة توضح أن غير المحدد ينتج دالة والمحدد ينتج عدداً."
+    },
+    {
+      "id": "g11-mat-u04-q010",
+      "type": "short_answer",
+      "question": "ما نص النظرية الأساسية في حساب التفاضل والتكامل؟",
+      "answer": "إذا كانت F(x) دالة أصلية لـ f(x)، أي F'(x) = f(x)، فإن ∫ₐᵇ f(x) dx = F(b) - F(a). هذه النظرية تربط بين التفاضل والتكامل.",
+      "explanation": "يُقبل أي إجابة تصيغ النظرية بشكل صحيح وتوضح الربط بين التفاضل والتكامل."
+    }
+  ]
+}

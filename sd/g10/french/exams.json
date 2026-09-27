@@ -8,6 +8,7 @@
     {
       "id": "g10-fre-final",
       "title": "الامتحان النهائي - french",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

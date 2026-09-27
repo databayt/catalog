@@ -9,6 +9,7 @@
     {
       "id": "g10-isl-unit-02-hadith-exam",
       "title": "Exam: الحديث الشريف",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

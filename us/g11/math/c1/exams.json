@@ -9,6 +9,7 @@
     {
       "id": "g11-mat-unit-01-quadratics-exam",
       "title": "Exam: Quadratic & Polynomial Functions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

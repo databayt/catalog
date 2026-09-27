@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-03-geometry-shapes-01-2d-3d-shapes-quiz",
       "title": "Quiz: 2D and 3D Shapes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

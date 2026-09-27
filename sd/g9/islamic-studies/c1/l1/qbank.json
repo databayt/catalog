@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-isl-unit-01-01-review-lq01",
+      "id": "g9-isl-unit-01-01-review-q01",
       "type": "mcq",
       "question": "ما عدد سور القرآن الكريم؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "القرآن الكريم يتكون من 114 سورة."
     },
     {
-      "id": "g9-isl-unit-01-01-review-lq02",
+      "id": "g9-isl-unit-01-01-review-q02",
       "type": "true_false",
       "question": "سورة البقرة هي أطول سور القرآن الكريم.",
       "options": [

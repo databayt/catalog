@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-05-quiz",
       "title": "اختبار - حساب محيط الأشكال الهندسية المستوية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-02-writing-02-grammar-quiz",
       "title": "Quiz: Grammar & Usage",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

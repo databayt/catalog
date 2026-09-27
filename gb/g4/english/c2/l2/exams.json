@@ -10,7 +10,7 @@
     {
       "id": "g4-eng-unit-02-writing-02-prefixes-quiz",
       "title": "Quiz: Prefixes & Suffixes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

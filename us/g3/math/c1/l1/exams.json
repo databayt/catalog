@@ -10,7 +10,7 @@
     {
       "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-quiz",
       "title": "Quiz: Understanding Multiplication",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

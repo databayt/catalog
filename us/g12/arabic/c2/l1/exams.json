@@ -10,7 +10,7 @@
     {
       "id": "g12-ara-unit-02-schools-01-classical-quiz",
       "title": "Quiz: المدرسة الكلاسيكية (الإحياء)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

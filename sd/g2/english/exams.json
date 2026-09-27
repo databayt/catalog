@@ -8,6 +8,7 @@
     {
       "id": "g2-english-final-exam-7085",
       "title": "Final Exam - English - G2",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

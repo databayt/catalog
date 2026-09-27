@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-01-07-water-resources-lquiz",
       "title": "اختبار درس - الموارد المائية في السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-geography-c1-l7-1",
       "title": "الموارد المائية في السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

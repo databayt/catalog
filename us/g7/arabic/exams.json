@@ -8,7 +8,7 @@
     {
       "id": "us-g7-arabic-1",
       "title": "اختبار",
-      "kind": "test",
+      "type": "final",
       "durationMinutes": 60,
       "questions": [
         {

@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g1-en-u2-q001",
+      "type": "mcq",
+      "question": "How many fingers do you have on one hand?",
+      "options": [
+        "Five",
+        "Three",
+        "Seven",
+        "Ten"
+      ],
+      "answer": "Five",
+      "explanation": "We have five fingers on one hand."
+    },
+    {
+      "id": "g1-en-u2-q002",
+      "type": "true_false",
+      "question": "The number after 7 is 8.",
+      "answer": true,
+      "explanation": "The number sequence is: 7, 8, 9, 10..."
+    },
+    {
+      "id": "g1-en-u2-q003",
+      "type": "fill_blank",
+      "question": "One, two, three, _______, five",
+      "answer": "four",
+      "explanation": "The number after three is four."
+    },
+    {
+      "id": "g1-en-u2-q004",
+      "type": "mcq",
+      "question": "What comes after number 9?",
+      "options": [
+        "10",
+        "8",
+        "11",
+        "7"
+      ],
+      "answer": "10",
+      "explanation": "The number 10 comes after 9."
+    },
+    {
+      "id": "g1-en-u2-q005",
+      "type": "short_answer",
+      "question": "Write the number 'seven' in digits.",
+      "answer": "7",
+      "explanation": "The word 'seven' is written as 7 in digits."
+    },
+    {
+      "id": "g1-en-u2-q006",
+      "type": "true_false",
+      "question": "The number 5 comes before the number 4.",
+      "answer": false,
+      "explanation": "The number 4 comes before 5. The order is 4, 5."
+    },
+    {
+      "id": "g1-en-u2-q007",
+      "type": "mcq",
+      "question": "How do you write the number 'three'?",
+      "options": [
+        "3",
+        "13",
+        "30",
+        "33"
+      ],
+      "answer": "3",
+      "explanation": "The word 'three' is written as the digit 3."
+    },
+    {
+      "id": "g1-en-u2-q008",
+      "type": "fill_blank",
+      "question": "Count: six, seven, eight, _______, ten",
+      "answer": "nine",
+      "explanation": "The number between eight and ten is nine."
+    },
+    {
+      "id": "g1-en-u2-q009",
+      "type": "mcq",
+      "question": "What number comes before 6?",
+      "options": [
+        "5",
+        "7",
+        "4",
+        "8"
+      ],
+      "answer": "5",
+      "explanation": "The number 5 comes before 6."
+    },
+    {
+      "id": "g1-en-u2-q010",
+      "type": "short_answer",
+      "question": "Write the numbers 1 to 5 in words.",
+      "answer": "one, two, three, four, five",
+      "explanation": "1=one, 2=two, 3=three, 4=four, 5=five"
+    }
+  ]
+}

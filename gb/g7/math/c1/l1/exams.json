@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-01-number-01-operations-quiz",
       "title": "Quiz: Operations & Order",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

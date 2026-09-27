@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-01-a-traditional-story-lquiz",
       "title": "اختبار درس - A Traditional Story",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c2-l1-1",
       "title": "A Traditional Story",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

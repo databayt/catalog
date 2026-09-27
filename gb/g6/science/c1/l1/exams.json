@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-01-living-01-classification-quiz",
       "title": "Quiz: Classification",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

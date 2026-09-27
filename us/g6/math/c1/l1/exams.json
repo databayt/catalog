@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-ratios-rates-01-ratios-quiz",
       "title": "Quiz: Understanding Ratios",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g1-ma-u2-q001",
+      "type": "mcq",
+      "question": "ما ناتج: 3 + 4 = ؟",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": "7",
+      "explanation": "3 + 4 = 7"
+    },
+    {
+      "id": "g1-ma-u2-q002",
+      "type": "true_false",
+      "question": "2 + 2 = 5",
+      "answer": false,
+      "explanation": "2 + 2 = 4 وليس 5."
+    },
+    {
+      "id": "g1-ma-u2-q003",
+      "type": "fill_blank",
+      "question": "5 + _______ = 8",
+      "answer": "3",
+      "explanation": "5 + 3 = 8"
+    },
+    {
+      "id": "g1-ma-u2-q004",
+      "type": "mcq",
+      "question": "عندي 4 تفاحات وأضفت 3 تفاحات، كم صار عندي؟",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "5"
+      ],
+      "answer": "7",
+      "explanation": "4 + 3 = 7 تفاحات."
+    },
+    {
+      "id": "g1-ma-u2-q005",
+      "type": "short_answer",
+      "question": "احسب: 2 + 3 + 4 = ؟",
+      "answer": "9",
+      "explanation": "2 + 3 = 5، ثم 5 + 4 = 9"
+    },
+    {
+      "id": "g1-ma-u2-q006",
+      "type": "true_false",
+      "question": "1 + 8 = 9",
+      "answer": true,
+      "explanation": "1 + 8 = 9 صحيح."
+    },
+    {
+      "id": "g1-ma-u2-q007",
+      "type": "mcq",
+      "question": "ما ناتج: 0 + 6 = ؟",
+      "options": [
+        "6",
+        "0",
+        "7",
+        "5"
+      ],
+      "answer": "6",
+      "explanation": "أي عدد مجموعه مع الصفر يساوي نفسه: 0 + 6 = 6"
+    },
+    {
+      "id": "g1-ma-u2-q008",
+      "type": "fill_blank",
+      "question": "_______ + 4 = 7",
+      "answer": "3",
+      "explanation": "3 + 4 = 7"
+    },
+    {
+      "id": "g1-ma-u2-q009",
+      "type": "mcq",
+      "question": "ما ناتج: 5 + 4 = ؟",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "7"
+      ],
+      "answer": "9",
+      "explanation": "5 + 4 = 9"
+    },
+    {
+      "id": "g1-ma-u2-q010",
+      "type": "short_answer",
+      "question": "في الصف 3 بنات و5 أولاد. كم عدد التلاميذ في المجموع؟",
+      "answer": "8 تلاميذ (3 + 5 = 8)",
+      "explanation": "3 + 5 = 8 تلاميذ في المجموع."
+    }
+  ]
+}

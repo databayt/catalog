@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-04-quiz",
       "title": "اختبار - الفقه",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-che-unit-01-atomic-01-atom-quiz",
       "title": "Quiz: Structure of the Atom",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

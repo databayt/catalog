@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-02-fiqh-02-sawm-quiz",
       "title": "Quiz: الصيام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

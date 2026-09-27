@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-03-geometry-shapes-02-halves-quarters-quiz",
       "title": "Quiz: Halves and Quarters",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

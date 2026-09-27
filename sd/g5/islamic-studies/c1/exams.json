@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-01-quiz",
       "title": "اختبار - سور من القرآن الكريم",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

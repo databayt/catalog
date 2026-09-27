@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-05-04-spelling-lquiz",
       "title": "اختبار درس - الإملاء: الهمزة وفق الحركة الإعرابية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-05-04-spelling-lquiz-2",
       "title": "اختبار درس - الإملاء: الهمزة وفق الحركة الإعرابية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

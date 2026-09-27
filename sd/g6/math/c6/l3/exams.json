@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-06-03-area-of-trapezoid-lquiz",
       "title": "اختبار - مساحة شبه المنحرف",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-eng-unit-01-03-bones-lq01",
+      "id": "g9-eng-unit-01-03-bones-q01",
       "type": "mcq",
       "question": "What is the main purpose of reading comprehension exercises?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "Reading comprehension develops understanding and critical analysis skills."
     },
     {
-      "id": "g9-eng-unit-01-03-bones-lq02",
+      "id": "g9-eng-unit-01-03-bones-q02",
       "type": "true_false",
       "question": "Skimming a text means reading it slowly and carefully.",
       "options": [
@@ -44,33 +44,6 @@
       "question": "Name two reading strategies you can use to understand a difficult text.",
       "answer": "Context clues to infer meaning of unknown words; re-reading difficult passages; using prior knowledge.",
       "explanation": "Good readers use strategies to comprehend difficult texts."
-    },
-    {
-      "id": "5b58d549",
-      "type": "mcq",
-      "question": "What is the main purpose of reading comprehension?",
-      "options": [
-        "To read fast",
-        "To understand and extract meaning",
-        "To memorize text",
-        "To count words"
-      ],
-      "answer": "To understand and extract meaning",
-      "explanation": "Reading comprehension is about understanding the text"
-    },
-    {
-      "id": "a1f227af",
-      "type": "fill_blank",
-      "question": "A paragraph is a group of ___ that discuss one main idea",
-      "answer": "sentences",
-      "explanation": "Paragraphs contain sentences organized around one topic"
-    },
-    {
-      "id": "2e8847db",
-      "type": "true_false",
-      "question": "The main idea is the most important point in a paragraph",
-      "answer": true,
-      "explanation": "The main idea is the central theme of a passage"
     }
   ]
 }

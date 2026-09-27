@@ -10,7 +10,7 @@
     {
       "id": "g10-soc-unit-01-world-wars-02-wwii-quiz",
       "title": "Quiz: World War II",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

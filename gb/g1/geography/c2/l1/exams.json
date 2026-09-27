@@ -10,7 +10,7 @@
     {
       "id": "g1-geo-unit-02-weather-01-seasons-quiz",
       "title": "Quiz: The Four Seasons",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

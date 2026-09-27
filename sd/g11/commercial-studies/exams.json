@@ -8,6 +8,7 @@
     {
       "id": "g11-com-final",
       "title": "الامتحان النهائي - الدراسات التجارية",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

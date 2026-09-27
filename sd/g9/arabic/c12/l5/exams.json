@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-12-05-writing-lquiz",
       "title": "اختبار درس - التعبير: هناك بعض الناس يتلونون في معاملاتهم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

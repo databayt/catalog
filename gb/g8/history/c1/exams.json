@@ -9,6 +9,7 @@
     {
       "id": "g8-his-unit-01-tudors-exam",
       "title": "Exam: The Tudors & Reformation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-his-unit-01-cold-war-01-origins-quiz",
       "title": "Quiz: Origins of the Cold War",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

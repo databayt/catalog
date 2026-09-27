@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-02-proportional-01-proportions-quiz",
       "title": "Quiz: Solving Proportions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

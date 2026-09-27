@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-02-algebra-02-equations-quiz",
       "title": "Quiz: Linear Equations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

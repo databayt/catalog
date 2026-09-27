@@ -10,7 +10,7 @@
     {
       "id": "g2-uae-unit-01-community-02-responsibility-quiz",
       "title": "Quiz: Responsibility",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

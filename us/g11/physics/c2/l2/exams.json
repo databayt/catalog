@@ -10,7 +10,7 @@
     {
       "id": "g11-phy-unit-02-energy-waves-02-waves-quiz",
       "title": "Quiz: Waves",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

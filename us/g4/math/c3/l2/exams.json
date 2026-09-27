@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-03-geometry-angles-02-lines-symmetry-quiz",
       "title": "Quiz: Lines & Symmetry",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

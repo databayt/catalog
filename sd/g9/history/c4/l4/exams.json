@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-04-04-post-ww2-developments-lquiz",
       "title": "اختبار درس - التطورات العالمية بعد الحرب العالمية الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-04-04-post-ww2-developments-lquiz-2",
       "title": "اختبار درس - التطورات العالمية بعد الحرب العالمية الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

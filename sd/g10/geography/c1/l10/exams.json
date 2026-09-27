@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-10-water-lquiz",
       "title": "اختبار درس - المياه",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-10-water-lquiz-2",
       "title": "اختبار درس - المياه",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

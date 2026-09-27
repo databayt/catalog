@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-01-virtue-of-zakat-lquiz",
       "title": "اختبار درس - فضل الزكاة في الإسلام وحكمتها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-01-virtue-of-zakat-lquiz-2",
       "title": "اختبار درس - فضل الزكاة في الإسلام وحكمتها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

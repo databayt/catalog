@@ -10,7 +10,7 @@
     {
       "id": "g3-geography-unit-03-exam-5284",
       "title": "Lesson Quiz - 02-my-home - Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

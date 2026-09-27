@@ -9,6 +9,7 @@
     {
       "id": "g7-soc-unit-01-world-history-exam",
       "title": "Exam: World History: Medieval to Early Modern",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

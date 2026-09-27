@@ -10,7 +10,7 @@
     {
       "id": "g1-eng-unit-01-phonics-01-short-vowels-quiz",
       "title": "Quiz: Short Vowel Sounds",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g8-geo-unit-01-population-exam",
       "title": "Exam: Population & Urbanisation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

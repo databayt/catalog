@@ -10,7 +10,7 @@
     {
       "id": "g4-ara-unit-02-spelling-02-punctuation-quiz",
       "title": "Quiz: علامات الترقيم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

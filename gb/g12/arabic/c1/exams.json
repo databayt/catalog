@@ -9,6 +9,7 @@
     {
       "id": "g12-ara-unit-01-criticism-exam",
       "title": "Exam: النقد والتعبير",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

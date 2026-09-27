@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-01-number-exam",
       "title": "Exam: Number to 1,000,000",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-06-exam-7445",
       "title": "Lesson Quiz - 02-measuring-line-segment - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

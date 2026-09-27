@@ -10,7 +10,7 @@
     {
       "id": "g10-ara-unit-02-bayan-01-tashbih-quiz",
       "title": "Quiz: التشبيه",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

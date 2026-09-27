@@ -10,7 +10,7 @@
     {
       "id": "g4-com-unit-01-algorithms-01-algorithms-quiz",
       "title": "Quiz: What is an Algorithm?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

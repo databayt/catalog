@@ -10,7 +10,7 @@
     {
       "id": "g9-soc-unit-01-revolutions-02-revolutions-quiz",
       "title": "Quiz: Age of Revolutions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-08-01-protecting-animals-lquiz",
       "title": "اختبار درس - Protecting Animals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-08-01-protecting-animals-lquiz-2",
       "title": "اختبار درس - Protecting Animals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

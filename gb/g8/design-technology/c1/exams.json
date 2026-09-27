@@ -9,6 +9,7 @@
     {
       "id": "g8-des-unit-01-design-process-exam",
       "title": "Exam: The Design Process",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

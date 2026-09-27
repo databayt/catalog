@@ -10,7 +10,7 @@
     {
       "id": "g2-uae-unit-02-respect-02-honesty-quiz",
       "title": "Quiz: Honesty & Trust",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-01-decimals-operations-02-multiply-divide-decimals-quiz",
       "title": "Quiz: Multiplying & Dividing Decimals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

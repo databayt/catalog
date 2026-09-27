@@ -10,7 +10,7 @@
     {
       "id": "g10-mat-unit-02-geometry-01-pythagoras-quiz",
       "title": "Quiz: Pythagoras & Trigonometry",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

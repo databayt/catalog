@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-02-geometry-exam",
       "title": "Exam: Geometry & Measures",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

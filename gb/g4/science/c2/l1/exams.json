@@ -10,7 +10,7 @@
     {
       "id": "g4-sci-unit-02-sound-electricity-01-sound-quiz",
       "title": "Quiz: Sound",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

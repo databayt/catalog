@@ -9,6 +9,7 @@
     {
       "id": "g9-mat-unit-03-quiz",
       "title": "اختبار - المستوى الديكارتي والمعادلات الآنية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-math-c3-1",
       "title": "المستوى الديكارتي والمعادلات الآنية",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

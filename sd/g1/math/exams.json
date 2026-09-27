@@ -8,6 +8,7 @@
     {
       "id": "g1-ma-final-exam-01",
       "title": "الاختبار النهائي - الرياضيات - الصف الأول",
+      "type": "final",
       "durationMinutes": 45,
       "totalMarks": 20,
       "questions": [

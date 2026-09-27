@@ -10,7 +10,7 @@
     {
       "id": "g8-ara-unit-01-kana-02-derivatives-quiz",
       "title": "Quiz: المشتقات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

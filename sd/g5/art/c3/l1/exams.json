@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-03-01-mixed-materials-lquiz",
       "title": "اختبار - التشكيل بخامات متنوعة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

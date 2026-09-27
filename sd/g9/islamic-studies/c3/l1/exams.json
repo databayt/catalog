@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-01-importance-of-gentleness-lquiz",
       "title": "اختبار درس - أهمية الرفق في كل الأمور",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-01-importance-of-gentleness-lquiz-2",
       "title": "اختبار درس - أهمية الرفق في كل الأمور",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

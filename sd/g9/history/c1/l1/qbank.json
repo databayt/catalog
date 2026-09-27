@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-his-unit-01-01-causes-of-mahdist-revolution-lq01",
+      "id": "g9-his-unit-01-01-causes-of-mahdist-revolution-q01",
       "type": "mcq",
       "question": "ما اسم الحضارة القديمة التي قامت في وادي النيل بالسودان؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "قامت حضارة مروي في السودان القديم على ضفاف النيل."
     },
     {
-      "id": "g9-his-unit-01-01-causes-of-mahdist-revolution-lq02",
+      "id": "g9-his-unit-01-01-causes-of-mahdist-revolution-q02",
       "type": "true_false",
       "question": "السودان لديه تاريخ حضاري عريق يمتد لآلاف السنين.",
       "options": [

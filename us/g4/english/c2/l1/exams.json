@@ -10,7 +10,7 @@
     {
       "id": "g4-eng-unit-02-language-01-context-clues-quiz",
       "title": "Quiz: Context Clues",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-3-lesson-9-lquiz",
       "title": "اختبار درس - المجموعات الغذائية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

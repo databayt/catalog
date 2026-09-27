@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-01-03-grammar-lquiz",
       "title": "اختبار درس - النحو: مراجعة المبني والمعرب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-arabic-c1-l3-1",
       "title": "النحو: مراجعة المبني والمعرب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

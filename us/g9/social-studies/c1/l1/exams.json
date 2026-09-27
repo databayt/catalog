@@ -10,7 +10,7 @@
     {
       "id": "g9-soc-unit-01-revolutions-01-enlightenment-quiz",
       "title": "Quiz: The Enlightenment",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

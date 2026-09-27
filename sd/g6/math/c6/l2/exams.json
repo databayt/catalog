@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-06-02-area-of-parallelogram-lquiz",
       "title": "اختبار - مساحة متوازي الأضلاع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

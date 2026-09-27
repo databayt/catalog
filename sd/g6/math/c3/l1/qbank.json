@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g6-mat-unit-03-01-percentage-concept-lq01",
+      "id": "g6-mat-unit-03-01-percentage-concept-q01",
       "type": "mcq",
       "question": "ما النسبة المئوية لـ 45 من 150؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "(45/150) × 100 = 30%."
     },
     {
-      "id": "g6-mat-unit-03-01-percentage-concept-lq02",
+      "id": "g6-mat-unit-03-01-percentage-concept-q02",
       "type": "true_false",
       "question": "النسبة 3:4 تساوي 75%.",
       "options": [
@@ -32,7 +32,7 @@
       "explanation": "3÷4 = 0.75 = 75%."
     },
     {
-      "id": "g6-mat-unit-03-01-percentage-concept-lq03",
+      "id": "g6-mat-unit-03-01-percentage-concept-q03",
       "type": "fill_blank",
       "question": "إذا كانت نسبة الخصم 20% وسعر السلعة 500، فقيمة الخصم = ___ جنيه.",
       "answer": "100",

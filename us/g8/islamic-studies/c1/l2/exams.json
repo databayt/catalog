@@ -10,7 +10,7 @@
     {
       "id": "g8-isl-unit-01-fiqh-sahaba-02-sahaba-quiz",
       "title": "Quiz: الصحابة الكرام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

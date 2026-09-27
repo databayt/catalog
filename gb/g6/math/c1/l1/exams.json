@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-ratio-algebra-01-ratio-quiz",
       "title": "Quiz: Ratio & Proportion",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

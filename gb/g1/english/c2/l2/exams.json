@@ -10,7 +10,7 @@
     {
       "id": "g1-eng-unit-02-reading-02-sequence-quiz",
       "title": "Quiz: Story Sequence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

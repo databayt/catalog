@@ -10,7 +10,7 @@
     {
       "id": "g4-sci-unit-01-states-02-water-cycle-quiz",
       "title": "Quiz: The Water Cycle",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-his-unit-02-medicine-02-public-health-quiz",
       "title": "Quiz: Public Health",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

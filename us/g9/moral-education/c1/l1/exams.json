@@ -10,7 +10,7 @@
     {
       "id": "g9-mor-unit-01-economy-01-economy-quiz",
       "title": "Quiz: The UAE Economy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

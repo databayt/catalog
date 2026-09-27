@@ -9,6 +9,7 @@
     {
       "id": "g7-his-unit-01-norman-conquest-exam",
       "title": "Exam: The Norman Conquest",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

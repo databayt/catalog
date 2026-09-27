@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-03-20-making-cap-lquiz",
       "title": "اختبار - عمل طاقية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

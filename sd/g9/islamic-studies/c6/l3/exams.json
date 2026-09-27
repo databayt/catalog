@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-06-03-demoralizing-enemies-lquiz",
       "title": "اختبار درس - بث الخذلان في صفوف الأعداء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-06-03-demoralizing-enemies-lquiz-2",
       "title": "اختبار درس - بث الخذلان في صفوف الأعداء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

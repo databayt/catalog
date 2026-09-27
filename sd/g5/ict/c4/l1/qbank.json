@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-lq01",
+      "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-q01",
       "type": "mcq",
       "question": "ما برنامج Microsoft Word مستخدم لـ؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
     },
     {
-      "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-lq02",
+      "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-q02",
       "type": "true_false",
       "question": "يمكن حفظ مستندات Word بامتداد .docx.",
       "options": [

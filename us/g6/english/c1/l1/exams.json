@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-01-reading-lit-01-theme-quiz",
       "title": "Quiz: Determining Theme",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

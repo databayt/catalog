@@ -9,6 +9,7 @@
     {
       "id": "g12-bio-unit-01-molecules-exam",
       "title": "Exam: Biological Molecules",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

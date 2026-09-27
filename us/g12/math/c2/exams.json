@@ -9,6 +9,7 @@
     {
       "id": "g12-mat-unit-02-functions-limits-exam",
       "title": "Exam: Functions & Introduction to Limits",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

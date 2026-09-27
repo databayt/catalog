@@ -8,6 +8,7 @@
     {
       "id": "g3-english-final-exam-8151",
       "title": "Final Exam - English - G3",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

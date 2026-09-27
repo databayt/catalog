@@ -1,0 +1,25 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "c5",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-sci-unit-05-01-river-civilization-kush-q03",
+      "type": "fill_blank",
+      "question": "تسلسل نقل الطاقة من الشمس إلى الكائنات يسمى ___.",
+      "answer": "السلسلة الغذائية",
+      "explanation": "السلسلة الغذائية تنقل الطاقة من المنتجين للمستهلكين."
+    },
+    {
+      "id": "g5-sci-unit-05-01-river-civilization-kush-q04",
+      "type": "short_answer",
+      "question": "ما أهمية الغابات للبيئة؟",
+      "answer": "تنقية الهواء وامتصاص CO₂ وتوفير الأكسجين وحفظ التربة وتوفير مواطن للحيوانات.",
+      "explanation": "الغابات رئة الأرض وأهمية بيئية كبرى."
+    }
+  ]
+}

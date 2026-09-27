@@ -10,7 +10,7 @@
     {
       "id": "g7-soc-unit-02-world-regions-01-regions-quiz",
       "title": "Quiz: Regions of the World",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

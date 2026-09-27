@@ -9,6 +9,7 @@
     {
       "id": "g2-math-unit-6-geometry-exam-4523",
       "title": "Chapter Exam - unit-6-geometry - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

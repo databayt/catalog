@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-01-environment-and-ecosystems-lquiz",
       "title": "اختبار درس - مفهوم البيئة والنظم البيئية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-01-environment-and-ecosystems-lquiz-2",
       "title": "اختبار درس - مفهوم البيئة والنظم البيئية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

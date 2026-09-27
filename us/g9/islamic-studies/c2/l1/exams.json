@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-02-fiqh-01-taharah-quiz",
       "title": "Quiz: الطهارة والصلاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

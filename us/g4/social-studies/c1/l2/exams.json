@@ -10,7 +10,7 @@
     {
       "id": "g4-soc-unit-01-us-regions-02-states-quiz",
       "title": "Quiz: States & Capitals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

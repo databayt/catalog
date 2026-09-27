@@ -10,7 +10,7 @@
     {
       "id": "g8-hea-unit-02-wellbeing-02-safety-quiz",
       "title": "Quiz: Safety & Decisions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

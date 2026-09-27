@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-03-organic-chemistry-01-alkanes-alkenes-quiz",
       "title": "Quiz: Alkanes & Alkenes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

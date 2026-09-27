@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-3377",
       "title": "Lesson Quiz - 03-division-by-7-beyond-table - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-02-forces-chem-02-conservation-quiz",
       "title": "Quiz: Conservation of Mass",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

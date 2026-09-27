@@ -9,6 +9,7 @@
     {
       "id": "g12-geo-unit-01-water-carbon-exam",
       "title": "Exam: Water & Carbon Cycles",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

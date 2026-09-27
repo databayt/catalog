@@ -10,7 +10,7 @@
     {
       "id": "g4-his-unit-02-ancient-greece-02-greek-legacy-quiz",
       "title": "Quiz: Greek Ideas & Legacy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

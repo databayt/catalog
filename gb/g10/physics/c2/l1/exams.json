@@ -10,7 +10,7 @@
     {
       "id": "g10-phy-unit-02-electricity-01-circuits-quiz",
       "title": "Quiz: Current, Voltage & Resistance",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

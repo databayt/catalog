@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-01-number-01-rounding-quiz",
       "title": "Quiz: Rounding",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

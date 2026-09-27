@@ -10,7 +10,7 @@
     {
       "id": "g12-soc-unit-01-government-02-rights-participation-quiz",
       "title": "Quiz: Rights & Civic Participation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

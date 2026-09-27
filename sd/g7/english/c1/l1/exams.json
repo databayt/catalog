@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-01-01-you-and-me-lquiz",
       "title": "اختبار - You and Me",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-01-decimal-concept-lquiz",
       "title": "اختبار - مفهوم الكسر العشري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-02-decimals-02-money-quiz",
       "title": "Quiz: Money & Decimals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

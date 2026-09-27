@@ -9,6 +9,7 @@
     {
       "id": "g4-geo-unit-01-mountains-volcanoes-exam",
       "title": "Exam: Mountains & Volcanoes",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

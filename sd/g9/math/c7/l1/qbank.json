@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-07-01-frequency-table-lq01",
+      "id": "g9-mat-unit-07-01-frequency-table-q01",
       "type": "mcq",
       "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
     },
     {
-      "id": "g9-mat-unit-07-01-frequency-table-lq02",
+      "id": "g9-mat-unit-07-01-frequency-table-q02",
       "type": "true_false",
       "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
       "options": [

@@ -9,6 +9,7 @@
     {
       "id": "g11-eng-unit-01-nonfiction-exam",
       "title": "Exam: Comparing Non-Fiction",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

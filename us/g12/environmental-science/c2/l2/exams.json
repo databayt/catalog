@@ -10,7 +10,7 @@
     {
       "id": "g12-env-unit-02-human-impact-02-sustainability-quiz",
       "title": "Quiz: Sustainability & Resources",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

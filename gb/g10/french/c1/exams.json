@@ -9,6 +9,7 @@
     {
       "id": "g10-fre-unit-01-greetings-exam",
       "title": "Exam: Greetings & Self",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

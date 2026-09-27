@@ -9,6 +9,7 @@
     {
       "id": "g7-sci-unit-02-chemistry-exam",
       "title": "Exam: Chemistry: Particles",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g10-geo-final",
       "title": "الامتحان النهائي - geography",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

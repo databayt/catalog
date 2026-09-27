@@ -9,6 +9,7 @@
     {
       "id": "g5-sci-unit-01-matter-systems-exam",
       "title": "Exam: Matter & Its Interactions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

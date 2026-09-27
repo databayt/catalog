@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-01-03-sub-directions-lquiz",
       "title": "اختبار - الاتجاهات الفرعية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

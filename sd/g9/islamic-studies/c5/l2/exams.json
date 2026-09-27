@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-02-ruling-on-zakat-lquiz",
       "title": "اختبار درس - حكم زكاة الأموال وعقوبة مانعها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-02-ruling-on-zakat-lquiz-2",
       "title": "اختبار درس - حكم زكاة الأموال وعقوبة مانعها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-11-03-grammar-lquiz",
       "title": "اختبار درس - النحو: الإعراب التقديري للفعل المضارع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

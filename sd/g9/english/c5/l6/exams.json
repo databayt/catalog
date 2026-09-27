@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-05-06-honey-lquiz",
       "title": "اختبار درس - Honey",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-05-06-honey-lquiz-2",
       "title": "اختبار درس - Honey",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

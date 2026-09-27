@@ -8,7 +8,7 @@
     {
       "id": "sd-g8-science-1",
       "title": "اختبار",
-      "kind": "test",
+      "type": "final",
       "durationMinutes": 45,
       "questions": [
         {

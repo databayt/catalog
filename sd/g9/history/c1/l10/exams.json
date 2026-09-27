@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-10-political-developments-1954-1985-lquiz",
       "title": "اختبار درس - التطورات السياسية والاجتماعية في السودان 1954-1985م",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-history-c1-l10-1",
       "title": "التطورات السياسية والاجتماعية في السودان 1954-1985م",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

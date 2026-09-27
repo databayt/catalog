@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-06-05-angles-in-parallel-lines-lquiz",
       "title": "اختبار - الزوايا المتناظرة والمتبادلة والداخلية في حالة التوازي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-04-06-single-displacement-lquiz",
       "title": "اختبار درس - تفاعلات الإحلال البسيط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-04-06-single-displacement-lquiz-2",
       "title": "اختبار درس - تفاعلات الإحلال البسيط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

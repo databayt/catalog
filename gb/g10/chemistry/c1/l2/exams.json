@@ -10,7 +10,7 @@
     {
       "id": "g10-che-unit-01-atomic-structure-02-periodic-table-quiz",
       "title": "Quiz: The Periodic Table",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

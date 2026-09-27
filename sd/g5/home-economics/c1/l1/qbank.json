@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-hom-unit-01-01-importance-of-clothing-lq01",
+      "id": "g5-hom-unit-01-01-importance-of-clothing-q01",
       "type": "mcq",
       "question": "ما أهمية النظافة الشخصية؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "النظافة الشخصية تحمي الصحة وتُحسّن التفاعل الاجتماعي."
     },
     {
-      "id": "g5-hom-unit-01-01-importance-of-clothing-lq02",
+      "id": "g5-hom-unit-01-01-importance-of-clothing-q02",
       "type": "true_false",
       "question": "غسل اليدين قبل الأكل يمنع نقل الجراثيم.",
       "options": [

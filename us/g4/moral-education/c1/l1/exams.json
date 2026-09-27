@@ -10,7 +10,7 @@
     {
       "id": "g4-mor-unit-01-geography-01-geography-quiz",
       "title": "Quiz: Geography of the UAE",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g4-mor-unit-01-geography-exam",
       "title": "Exam: UAE Geography & Landmarks",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

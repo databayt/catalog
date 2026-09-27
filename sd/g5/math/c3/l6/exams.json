@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-06-rounding-lquiz",
       "title": "اختبار - التقريب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

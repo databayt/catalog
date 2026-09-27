@@ -10,7 +10,7 @@
     {
       "id": "g4-art-unit-01-elements-01-line-shape-quiz",
       "title": "Quiz: Line & Shape",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

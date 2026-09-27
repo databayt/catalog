@@ -10,7 +10,7 @@
     {
       "id": "g11-geo-unit-02-economic-world-02-resource-management-quiz",
       "title": "Quiz: Resource Management",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

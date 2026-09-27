@@ -9,6 +9,7 @@
     {
       "id": "g12-fur-unit-02-further-exam",
       "title": "Exam: Further Topics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g12-psy-unit-02-research-01-experiments-quiz",
       "title": "Quiz: Experiments & Sampling",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g4-art-unit-01-elements-exam",
       "title": "Exam: Elements of Art",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

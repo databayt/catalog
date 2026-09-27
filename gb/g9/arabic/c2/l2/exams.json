@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-02-styles-02-nida-quiz",
       "title": "Quiz: أسلوب النداء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

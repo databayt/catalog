@@ -10,7 +10,7 @@
     {
       "id": "g8-soc-unit-01-founding-01-constitution-quiz",
       "title": "Quiz: The Constitution",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

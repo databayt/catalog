@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-01-nonfiction-01-viewpoint-quiz",
       "title": "Quiz: Identifying Viewpoint",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

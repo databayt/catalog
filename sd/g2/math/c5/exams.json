@@ -9,6 +9,7 @@
     {
       "id": "g2-math-unit-5-measurement-exam-3648",
       "title": "Chapter Exam - unit-5-measurement - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

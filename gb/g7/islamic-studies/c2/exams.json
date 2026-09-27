@@ -9,6 +9,7 @@
     {
       "id": "g7-isl-unit-02-quran-exam",
       "title": "Exam: القرآن الكريم",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

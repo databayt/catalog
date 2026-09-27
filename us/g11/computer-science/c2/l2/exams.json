@@ -10,7 +10,7 @@
     {
       "id": "g11-com-unit-02-systems-02-networks-quiz",
       "title": "Quiz: Networks & the Internet",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

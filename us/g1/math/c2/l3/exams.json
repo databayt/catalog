@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-quiz",
       "title": "Quiz: Addition & Subtraction Word Problems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

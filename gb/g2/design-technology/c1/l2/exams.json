@@ -10,7 +10,7 @@
     {
       "id": "g2-des-unit-01-design-02-make-quiz",
       "title": "Quiz: Making & Evaluating",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

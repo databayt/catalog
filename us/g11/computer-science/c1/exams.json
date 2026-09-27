@@ -9,6 +9,7 @@
     {
       "id": "g11-com-unit-01-programming-exam",
       "title": "Exam: Programming",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

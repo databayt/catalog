@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-volume-02-coordinate-plane-quiz",
       "title": "Quiz: The Coordinate Plane",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g12-psy-unit-02-research-02-ethics-quiz",
       "title": "Quiz: Ethics & Data",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

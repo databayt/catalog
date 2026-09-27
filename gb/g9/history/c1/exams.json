@@ -9,6 +9,7 @@
     {
       "id": "g9-his-unit-01-industrial-revolution-exam",
       "title": "Exam: The Industrial Revolution",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

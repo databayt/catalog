@@ -9,6 +9,7 @@
     {
       "id": "g2-math-unit-2-addition-exam-9799",
       "title": "Chapter Exam - unit-2-addition - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

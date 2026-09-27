@@ -10,7 +10,7 @@
     {
       "id": "g7-des-unit-02-materials-02-sustainability-quiz",
       "title": "Quiz: Sustainable Design",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

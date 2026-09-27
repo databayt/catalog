@@ -10,7 +10,7 @@
     {
       "id": "g12-ara-unit-01-criticism-02-composition-quiz",
       "title": "Quiz: التعبير الكتابي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

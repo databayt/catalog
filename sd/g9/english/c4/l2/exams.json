@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-04-02-teachers-lquiz",
       "title": "اختبار درس - Teachers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-04-02-teachers-lquiz-2",
       "title": "اختبار درس - Teachers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

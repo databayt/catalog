@@ -10,7 +10,7 @@
     {
       "id": "g10-ara-unit-01-texts-01-analysis-quiz",
       "title": "Quiz: تحليل النص الأدبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

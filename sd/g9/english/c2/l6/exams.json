@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-06-calligraphy-lquiz",
       "title": "اختبار درس - Calligraphy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c2-l6-1",
       "title": "Calligraphy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

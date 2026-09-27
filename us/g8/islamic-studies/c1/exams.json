@@ -9,6 +9,7 @@
     {
       "id": "g8-isl-unit-01-fiqh-sahaba-exam",
       "title": "Exam: الفقه والصحابة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

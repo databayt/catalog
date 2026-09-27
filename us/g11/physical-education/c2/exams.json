@@ -9,6 +9,7 @@
     {
       "id": "g11-phy-unit-02-games-tactics-exam",
       "title": "Exam: Games & Tactics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

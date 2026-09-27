@@ -10,7 +10,7 @@
     {
       "id": "g11-mor-unit-01-identity-02-global-citizenship-quiz",
       "title": "Quiz: Global Citizenship",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g7-sci-unit-01-biology-exam",
       "title": "Exam: Biology: Cells & Organisms",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

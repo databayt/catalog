@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-04-05-my-hobby-and-my-job-lquiz",
       "title": "اختبار درس - My Hobby and My Job",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-04-05-my-hobby-and-my-job-lquiz-2",
       "title": "اختبار درس - My Hobby and My Job",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

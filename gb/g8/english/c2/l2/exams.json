@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-02-nonfiction-02-writing-viewpoint-quiz",
       "title": "Quiz: Writing to Present a Viewpoint",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

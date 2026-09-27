@@ -10,7 +10,7 @@
     {
       "id": "g5-mus-unit-02-performing-02-listening-quiz",
       "title": "Quiz: Listening to Music",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

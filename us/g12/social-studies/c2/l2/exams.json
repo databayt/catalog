@@ -10,7 +10,7 @@
     {
       "id": "g12-soc-unit-02-economics-02-macro-quiz",
       "title": "Quiz: The National Economy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

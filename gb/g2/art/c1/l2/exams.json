@@ -10,7 +10,7 @@
     {
       "id": "g2-art-unit-01-elements-02-colour-quiz",
       "title": "Quiz: Colour",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

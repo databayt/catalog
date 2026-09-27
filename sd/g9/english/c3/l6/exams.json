@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-03-06-a-trip-of-a-lifetime-lquiz",
       "title": "اختبار درس - A Trip of a Lifetime",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-03-06-a-trip-of-a-lifetime-lquiz-2",
       "title": "اختبار درس - A Trip of a Lifetime",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

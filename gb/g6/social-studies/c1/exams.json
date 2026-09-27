@@ -9,6 +9,7 @@
     {
       "id": "g6-uae-unit-01-heritage-exam",
       "title": "Exam: Emirati Heritage & Traditions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

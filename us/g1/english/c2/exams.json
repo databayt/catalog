@@ -9,6 +9,7 @@
     {
       "id": "g1-eng-unit-02-reading-exam",
       "title": "Exam: Reading Comprehension",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

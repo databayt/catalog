@@ -8,6 +8,7 @@
     {
       "id": "g6-ict-final",
       "title": "الامتحان النهائي - ict",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

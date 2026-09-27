@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-01-place-value-100-01-tens-ones-quiz",
       "title": "Quiz: Tens and Ones to 100",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

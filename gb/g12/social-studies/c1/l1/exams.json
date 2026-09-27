@@ -10,7 +10,7 @@
     {
       "id": "g12-uae-unit-01-future-01-innovation-quiz",
       "title": "Quiz: Innovation & the Future",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

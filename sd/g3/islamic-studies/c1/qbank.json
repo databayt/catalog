@@ -1,0 +1,91 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "islamic-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g3-is-u01-q001",
+      "type": "mcq",
+      "question": "اختر الإجابة: ما هي أطول سورة في القرآن؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g3-is-u01-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: محمد صلى الله عليه وسلم هو آخر الأنبياء",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    },
+    {
+      "id": "g3-is-u01-q003",
+      "type": "fill_blank",
+      "question": "أكمل: عدد الأنبياء المذكورين في القرآن ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Quran."
+    },
+    {
+      "id": "g3-is-u01-q004",
+      "type": "short_answer",
+      "question": "أجب: اذكر خمسة أنبياء من الأنبياء",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from Quran."
+    },
+    {
+      "id": "g3-is-u01-q005",
+      "type": "mcq",
+      "question": "اختر الإجابة: كم عدد سور القرآن الكريم؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g3-is-u01-q006",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: القرآن الكريم نزل دفعة واحدة",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    },
+    {
+      "id": "g3-is-u01-q007",
+      "type": "fill_blank",
+      "question": "أكمل: أول آية نزلت من القرآن ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Quran."
+    },
+    {
+      "id": "g3-is-u01-q009",
+      "type": "mcq",
+      "question": "اختر الإجابة: متى فرضت الصلاة؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g3-is-u01-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: سورة الفاتحة تسمى أم القرآن",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    }
+  ]
+}

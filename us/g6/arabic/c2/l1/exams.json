@@ -10,7 +10,7 @@
     {
       "id": "g6-ara-unit-02-naat-idafa-01-naat-quiz",
       "title": "Quiz: النعت",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

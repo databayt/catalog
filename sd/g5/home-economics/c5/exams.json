@@ -9,6 +9,7 @@
     {
       "id": "g5-hom-unit-05-quiz",
       "title": "اختبار - الأحذية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

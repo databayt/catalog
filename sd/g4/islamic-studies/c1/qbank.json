@@ -1,0 +1,91 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "islamic-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g4-is-u01-q001",
+      "type": "mcq",
+      "question": "اختر: ما هو أول سورة نزلت من القرآن؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g4-is-u01-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الآيات المكية تتحدث عن التوحيد",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    },
+    {
+      "id": "g4-is-u01-q003",
+      "type": "fill_blank",
+      "question": "أكمل: القرآن نزل في ___ سنة",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Quran."
+    },
+    {
+      "id": "g4-is-u01-q004",
+      "type": "short_answer",
+      "question": "أجب: ما الفرق بين الآيات المكية والمدنية؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from Quran."
+    },
+    {
+      "id": "g4-is-u01-q005",
+      "type": "mcq",
+      "question": "اختر: كم عدد أجزاء القرآن الكريم؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g4-is-u01-q006",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: سورة البقرة هي أطول سورة في القرآن",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    },
+    {
+      "id": "g4-is-u01-q007",
+      "type": "fill_blank",
+      "question": "أكمل: آخر سورة نزلت ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Quran."
+    },
+    {
+      "id": "g4-is-u01-q009",
+      "type": "mcq",
+      "question": "اختر: كيف يتم حفظ القرآن الكريم؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Quran."
+    },
+    {
+      "id": "g4-is-u01-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: القرآن الكريم نزل في 23 سنة",
+      "answer": true,
+      "explanation": "The statement about Quran is True."
+    }
+  ]
+}

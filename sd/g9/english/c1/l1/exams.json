@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-01-what-is-science-lquiz",
       "title": "اختبار درس - What is Science?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c1-l1-1",
       "title": "What is Science?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

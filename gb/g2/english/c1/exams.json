@@ -9,6 +9,7 @@
     {
       "id": "g2-eng-unit-01-grammar-exam",
       "title": "Exam: Grammar & Punctuation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

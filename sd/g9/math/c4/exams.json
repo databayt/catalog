@@ -9,6 +9,7 @@
     {
       "id": "g9-mat-unit-04-quiz",
       "title": "اختبار - الدائرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-math-c4-1",
       "title": "الدائرة",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

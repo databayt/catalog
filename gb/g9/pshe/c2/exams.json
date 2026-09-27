@@ -9,6 +9,7 @@
     {
       "id": "g9-psh-unit-02-relationships-exam",
       "title": "Exam: Relationships & the Wider World",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

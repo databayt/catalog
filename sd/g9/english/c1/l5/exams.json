@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-05-traditional-medicine-lquiz",
       "title": "اختبار درس - Traditional Medicine",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c1-l5-1",
       "title": "Traditional Medicine",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

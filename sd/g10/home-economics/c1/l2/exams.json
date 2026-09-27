@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-1-lesson-2-lquiz",
       "title": "اختبار درس - حيثية العلوم الأسرية في التشريع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-02-08-foreign-trade-food-security-lquiz",
       "title": "اختبار درس - التجارة الخارجية والأمن الغذائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-02-08-foreign-trade-food-security-lquiz-2",
       "title": "اختبار درس - التجارة الخارجية والأمن الغذائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g2-isl-unit-01-prayer-02-names-allah-quiz",
       "title": "Quiz: أسماء الله الحسنى",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

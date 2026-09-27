@@ -1,0 +1,35 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "history",
+    "chapter": "c3",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-his-unit-1-african-history-01-early-african-civilizations-q01",
+      "type": "mcq",
+      "question": "ما أبرز ممالك السودان القديمة؟",
+      "options": [
+        "كوش وأكسوم ومروي",
+        "فرعون وبابل وآشور",
+        "روما واليونان وفارس",
+        "غانا ومالي وسنغاي"
+      ],
+      "answer": "كوش وأكسوم ومروي",
+      "explanation": "السودان القديم شهد ممالك حضارية عريقة كمروي وكوش."
+    },
+    {
+      "id": "g6-his-unit-1-african-history-01-early-african-civilizations-q02",
+      "type": "true_false",
+      "question": "حضارة مروي كانت من أعظم الحضارات في أفريقيا القديمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مروي (في شمال السودان الحالي) كانت مركزاً حضارياً مهماً."
+    }
+  ]
+}

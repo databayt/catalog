@@ -9,6 +9,7 @@
     {
       "id": "g5-sci-unit-01-earth-space-exam",
       "title": "Exam: Earth & Space",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

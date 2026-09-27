@@ -9,6 +9,7 @@
     {
       "id": "g12-soc-unit-02-economics-exam",
       "title": "Exam: Economics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-01-03-free-time-lquiz",
       "title": "اختبار - Free Time",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

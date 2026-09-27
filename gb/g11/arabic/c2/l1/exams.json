@@ -10,7 +10,7 @@
     {
       "id": "g11-ara-unit-02-arud-01-arud-quiz",
       "title": "Quiz: الوزن والبحور",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

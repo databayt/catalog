@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-02-physical-landscapes-01-coasts-quiz",
       "title": "Quiz: Coastal Landscapes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

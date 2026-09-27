@@ -9,6 +9,7 @@
     {
       "id": "g1-soc-unit-01-families-communities-exam",
       "title": "Exam: Families & Communities",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

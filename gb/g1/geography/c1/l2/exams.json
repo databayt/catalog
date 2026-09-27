@@ -10,7 +10,7 @@
     {
       "id": "g1-geo-unit-01-uk-02-my-area-quiz",
       "title": "Quiz: My Local Area",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

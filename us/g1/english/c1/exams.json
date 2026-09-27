@@ -9,6 +9,7 @@
     {
       "id": "g1-eng-unit-01-phonics-exam",
       "title": "Exam: Phonics & Word Recognition",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

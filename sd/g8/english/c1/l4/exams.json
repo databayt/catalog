@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-04-protect-the-environment-lquiz",
       "title": "اختبار - Protect the Environment",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

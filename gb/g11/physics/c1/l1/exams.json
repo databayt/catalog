@@ -10,7 +10,7 @@
     {
       "id": "g11-phy-unit-01-forces-01-forces-quiz",
       "title": "Quiz: Forces & Newton's Laws",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

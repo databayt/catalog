@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-01-drought-lquiz",
       "title": "اختبار - Drought",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

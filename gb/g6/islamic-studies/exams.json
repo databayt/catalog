@@ -8,7 +8,7 @@
     {
       "id": "gb-g6-islamic-studies-1",
       "title": "اختبار",
-      "kind": "test",
+      "type": "final",
       "durationMinutes": 60,
       "questions": [
         {

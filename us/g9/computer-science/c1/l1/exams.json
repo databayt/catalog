@@ -10,7 +10,7 @@
     {
       "id": "g9-com-unit-01-programming-01-fundamentals-quiz",
       "title": "Quiz: Programming Fundamentals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

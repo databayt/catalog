@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-06-botanical-decoration-lquiz",
       "title": "اختبار - الزخرفة النباتية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

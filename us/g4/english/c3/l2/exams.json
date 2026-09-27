@@ -10,7 +10,7 @@
     {
       "id": "g4-eng-unit-03-writing-02-sentence-types-quiz",
       "title": "Quiz: Sentence Types",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

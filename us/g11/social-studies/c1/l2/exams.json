@@ -10,7 +10,7 @@
     {
       "id": "g11-soc-unit-01-20th-century-02-civil-rights-quiz",
       "title": "Quiz: The Civil Rights Movement",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

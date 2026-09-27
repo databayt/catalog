@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-01-quran-exam",
       "title": "Exam: القرآن الكريم وقصار السور",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

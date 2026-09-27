@@ -10,7 +10,7 @@
     {
       "id": "g8-fre-unit-01-greetings-01-greetings-quiz",
       "title": "Quiz: Greetings & Introductions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

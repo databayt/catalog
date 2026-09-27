@@ -10,7 +10,7 @@
     {
       "id": "g1-sci-unit-01-light-sound-01-sound-vibrations-quiz",
       "title": "Quiz: Sound and Vibration",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

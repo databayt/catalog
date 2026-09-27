@@ -9,6 +9,7 @@
     {
       "id": "g1-his-unit-01-changes-living-memory-exam",
       "title": "Exam: Changes Within Living Memory",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

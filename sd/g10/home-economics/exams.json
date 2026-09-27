@@ -8,6 +8,7 @@
     {
       "id": "g10-hom-final",
       "title": "الامتحان النهائي - home-economics",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

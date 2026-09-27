@@ -9,6 +9,7 @@
     {
       "id": "g11-mat-unit-02-exp-log-exam",
       "title": "Exam: Exponential & Logarithmic Functions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

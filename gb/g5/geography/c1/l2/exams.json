@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-01-settlements-02-land-use-quiz",
       "title": "Quiz: Land Use",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

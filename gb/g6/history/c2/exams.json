@@ -9,6 +9,7 @@
     {
       "id": "g6-his-unit-02-britain-wwii-exam",
       "title": "Exam: Britain at War (WWII Home Front)",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

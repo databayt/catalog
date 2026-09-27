@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-9705",
       "title": "Lesson Quiz - 10-division-by-9-with-remainder - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

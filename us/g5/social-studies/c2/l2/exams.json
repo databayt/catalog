@@ -10,7 +10,7 @@
     {
       "id": "g5-soc-unit-02-us-geography-02-movement-people-quiz",
       "title": "Quiz: Movement & Settlement",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

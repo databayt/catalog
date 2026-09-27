@@ -9,6 +9,7 @@
     {
       "id": "g10-mat-unit-02-geometry-exam",
       "title": "Exam: Geometry & Trigonometry",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

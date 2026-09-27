@@ -10,7 +10,7 @@
     {
       "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-quiz",
       "title": "Quiz: Plate Tectonics",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

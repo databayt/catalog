@@ -9,6 +9,7 @@
     {
       "id": "g9-geo-unit-03-quiz",
       "title": "اختبار - المشكلات البيئية في السودان",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-geo-unit-03-quiz-2",
       "title": "اختبار - المشكلات البيئية في السودان",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

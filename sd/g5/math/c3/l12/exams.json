@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-12-divide-decimal-by-10-100-1000-lquiz",
       "title": "اختبار - قسمة الكسور العشرية على ١٠، ١٠٠، ١٠٠٠",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

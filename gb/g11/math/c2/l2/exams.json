@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-02-statistics-02-probability-quiz",
       "title": "Quiz: Probability",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

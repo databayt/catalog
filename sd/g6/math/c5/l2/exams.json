@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-05-02-intersection-lquiz",
       "title": "اختبار - التقاطع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -68,13 +68,6 @@
       "explanation": "Complete the sentence about Welcome to English."
     },
     {
-      "id": "g3-en-u01-q008",
-      "type": "short_answer",
-      "question": "Answer: Write about your daily routine",
-      "answer": "Expected response about the topic",
-      "explanation": "A good answer explains the concept from Welcome to English."
-    },
-    {
       "id": "g3-en-u01-q009",
       "type": "mcq",
       "question": "Choose the correct answer: How do you spell the number 8?",

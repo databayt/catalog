@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-02-02-literature-lquiz",
       "title": "اختبار درس - الأدب: خطبة لعلي بن أبي طالب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-02-02-literature-lquiz-2",
       "title": "اختبار درس - الأدب: خطبة لعلي بن أبي طالب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g3-geo-unit-01-maps-exam",
       "title": "Exam: Maps, Atlases & Skills",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

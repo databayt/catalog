@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-02-fractions-decimals-02-decimal-notation-quiz",
       "title": "Quiz: Decimal Notation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

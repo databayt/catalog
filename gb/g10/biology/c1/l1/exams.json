@@ -10,7 +10,7 @@
     {
       "id": "g10-bio-unit-01-cell-biology-01-cell-structure-quiz",
       "title": "Quiz: Cell Structure",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

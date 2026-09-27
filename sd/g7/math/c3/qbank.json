@@ -1,0 +1,110 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g7-ma-unit03-q001",
+      "type": "mcq",
+      "question": "كم عدد زوايا المثلث؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "المثلث له 3 زوايا"
+    },
+    {
+      "id": "g7-ma-unit03-q002",
+      "type": "true_false",
+      "question": "مجموع زوايا المثلث = 180°",
+      "answer": true,
+      "explanation": "هذه قاعدة أساسية في الهندسة"
+    },
+    {
+      "id": "g7-ma-unit03-q003",
+      "type": "mcq",
+      "question": "كم عدد أضلاع الرباعي؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "الرباعي له 4 أضلاع"
+    },
+    {
+      "id": "g7-ma-unit03-q004",
+      "type": "fill_blank",
+      "question": "مجموع زوايا الرباعي = ___°",
+      "answer": "360",
+      "explanation": "لأي رباعي مجموع الزوايا = 360°"
+    },
+    {
+      "id": "g7-ma-unit03-q005",
+      "type": "mcq",
+      "question": "ما هي زاوية المثلث المنتظم الواحدة؟",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answer": "60°",
+      "explanation": "180° ÷ 3 = 60° لكل زاوية"
+    },
+    {
+      "id": "g7-ma-unit03-q006",
+      "type": "short_answer",
+      "question": "إذا كانت زاويتان في مثلث 50° و 60°، فما الزاوية الثالثة؟",
+      "answer": "70",
+      "explanation": "180 - 50 - 60 = 70°"
+    },
+    {
+      "id": "g7-ma-unit03-q007",
+      "type": "true_false",
+      "question": "المربع مثلث",
+      "answer": false,
+      "explanation": "المربع رباعي وليس مثلث"
+    },
+    {
+      "id": "g7-ma-unit03-q008",
+      "type": "mcq",
+      "question": "كم عدد الأضلاع في الخماسي المنتظم؟",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "الخماسي له 5 أضلاع"
+    },
+    {
+      "id": "g7-ma-unit03-q009",
+      "type": "fill_blank",
+      "question": "مجموع زوايا الخماسي = ___°",
+      "answer": "540",
+      "explanation": "(5-2) × 180 = 3 × 180 = 540°"
+    },
+    {
+      "id": "g7-ma-unit03-q010",
+      "type": "mcq",
+      "question": "مجموع زوايا السداسي المنتظم؟",
+      "options": [
+        "540°",
+        "720°",
+        "600°",
+        "800°"
+      ],
+      "answer": "720°",
+      "explanation": "(6-2) × 180 = 4 × 180 = 720°"
+    }
+  ]
+}

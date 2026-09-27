@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-ratios-rates-02-unit-rates-quiz",
       "title": "Quiz: Unit Rates",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

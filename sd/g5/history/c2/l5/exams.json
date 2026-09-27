@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-2-05-سقوطالدولةاألموية-lquiz",
       "title": "اختبار - سقوط الدولة األموية...............................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

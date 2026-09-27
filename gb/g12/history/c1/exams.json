@@ -9,6 +9,7 @@
     {
       "id": "g12-his-unit-01-tudors-breadth-exam",
       "title": "Exam: Breadth Study: The Tudors 1485-1603",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g6-mus-unit-02-performing-01-singing-playing-quiz",
       "title": "Quiz: Singing & Playing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

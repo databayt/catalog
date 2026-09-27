@@ -9,6 +9,7 @@
     {
       "id": "g5-his-unit-2-quiz",
       "title": "اختبار - تطور الدولة اإلسالمية حتى العصر األموي ......:",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

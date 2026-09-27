@@ -10,7 +10,7 @@
     {
       "id": "g9-uae-unit-02-ethics-01-responsibility-quiz",
       "title": "Quiz: Social Responsibility",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

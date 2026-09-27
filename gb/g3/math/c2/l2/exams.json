@@ -10,7 +10,7 @@
     {
       "id": "g3-mat-unit-02-fractions-02-equiv-quiz",
       "title": "Quiz: Equivalent Fractions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

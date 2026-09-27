@@ -10,7 +10,7 @@
     {
       "id": "g4-isl-unit-02-seerah-01-birth-quiz",
       "title": "Quiz: مولد النبي ﷺ ونشأته",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

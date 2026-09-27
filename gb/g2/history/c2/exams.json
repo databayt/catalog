@@ -9,6 +9,7 @@
     {
       "id": "g2-his-unit-02-significant-people-exam",
       "title": "Exam: Significant People & Places",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

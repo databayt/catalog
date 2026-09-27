@@ -10,7 +10,7 @@
     {
       "id": "g7-uae-unit-01-government-02-citizenship-quiz",
       "title": "Quiz: Active Citizenship",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

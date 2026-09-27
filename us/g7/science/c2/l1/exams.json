@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-02-forces-chem-01-reactions-quiz",
       "title": "Quiz: Chemical Reactions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

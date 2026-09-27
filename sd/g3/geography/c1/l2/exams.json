@@ -10,7 +10,7 @@
     {
       "id": "g3-geography-unit-01-exam-3768",
       "title": "Lesson Quiz - 02-environment-concept - Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

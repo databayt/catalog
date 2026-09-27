@@ -10,7 +10,7 @@
     {
       "id": "g12-eng-unit-01-tragedy-02-critical-quiz",
       "title": "Quiz: Critical Interpretations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

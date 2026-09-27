@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-01-biology-01-cells-quiz",
       "title": "Quiz: Cells",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

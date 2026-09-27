@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-03-righteousness-good-character-lquiz",
       "title": "اختبار درس - البر حسن الخلق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-03-righteousness-good-character-lquiz-2",
       "title": "اختبار درس - البر حسن الخلق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g10-qur-unit-1-quran-sciences-quiz",
       "title": "اختبار - علوم القرآن الكريم",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [
@@ -55,6 +56,7 @@
     {
       "id": "g10-qur-unit-1-quran-sciences-quiz-2",
       "title": "اختبار - علوم القرآن الكريم",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

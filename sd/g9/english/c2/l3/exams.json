@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-03-famous-sudanese-writers-lquiz",
       "title": "اختبار درس - Famous Sudanese Writers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c2-l3-1",
       "title": "Famous Sudanese Writers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-02-exam-9895",
       "title": "Lesson Quiz - 06-multiplying-by-100 - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-01-number-ratio-01-surds-indices-quiz",
       "title": "Quiz: Surds & Indices",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

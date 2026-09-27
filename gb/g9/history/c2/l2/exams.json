@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-wwi-02-trench-warfare-quiz",
       "title": "Quiz: Life in the Trenches",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

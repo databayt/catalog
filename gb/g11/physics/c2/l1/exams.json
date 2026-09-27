@@ -10,7 +10,7 @@
     {
       "id": "g11-phy-unit-02-waves-01-wave-properties-quiz",
       "title": "Quiz: Wave Properties",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

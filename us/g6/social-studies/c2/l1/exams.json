@@ -10,7 +10,7 @@
     {
       "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-quiz",
       "title": "Quiz: River Valley Civilizations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-algebra-01-straight-line-quiz",
       "title": "Quiz: Straight-Line Graphs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g1-geo-unit-02-weather-02-weather-quiz",
       "title": "Quiz: Daily Weather",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

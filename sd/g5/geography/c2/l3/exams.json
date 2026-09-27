@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-02-03-my-classroom-3-lquiz",
       "title": "اختبار - فصلي (٣)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

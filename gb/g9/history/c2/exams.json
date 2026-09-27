@@ -9,6 +9,7 @@
     {
       "id": "g9-his-unit-02-wwi-exam",
       "title": "Exam: World War One",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

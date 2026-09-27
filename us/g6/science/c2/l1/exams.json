@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-02-matter-energy-01-atoms-molecules-quiz",
       "title": "Quiz: Atoms & Molecules",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

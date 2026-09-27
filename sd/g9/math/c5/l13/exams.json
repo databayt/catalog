@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-13-difference-of-squares-applications-lquiz",
       "title": "اختبار درس - تطبيقات على الفرق بين مربعين",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l13-1",
       "title": "تطبيقات على الفرق بين مربعين",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

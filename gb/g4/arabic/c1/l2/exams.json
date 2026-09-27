@@ -10,7 +10,7 @@
     {
       "id": "g4-ara-unit-01-sentence-02-sentence-types-quiz",
       "title": "Quiz: الجملة الاسمية والفعلية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

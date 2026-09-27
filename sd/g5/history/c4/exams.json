@@ -9,6 +9,7 @@
     {
       "id": "g5-his-unit-4-quiz",
       "title": "اختبار - من تاريخ أوربا .............................:",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

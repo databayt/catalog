@@ -9,6 +9,7 @@
     {
       "id": "g4-sci-unit-02-sound-electricity-exam",
       "title": "Exam: Sound & Electricity",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

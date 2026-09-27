@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-03-09-electricity-in-life-lquiz",
       "title": "اختبار درس - الكهرباء في حياتنا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-03-09-electricity-in-life-lquiz-2",
       "title": "اختبار درس - الكهرباء في حياتنا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

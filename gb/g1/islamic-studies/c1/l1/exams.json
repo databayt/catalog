@@ -10,7 +10,7 @@
     {
       "id": "g1-isl-unit-01-pillars-islam-01-shahada-quiz",
       "title": "Quiz: الشهادتان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

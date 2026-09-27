@@ -10,7 +10,7 @@
     {
       "id": "g12-eco-unit-01-micro-01-supply-demand-quiz",
       "title": "Quiz: Supply & Demand",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

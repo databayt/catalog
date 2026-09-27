@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-15-04-spelling-lquiz",
       "title": "اختبار درس - الإملاء: مراجعة عامة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

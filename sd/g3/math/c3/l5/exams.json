@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-6605",
       "title": "Lesson Quiz - 05-division-by-8-no-remainder - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

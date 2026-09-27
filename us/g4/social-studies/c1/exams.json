@@ -9,6 +9,7 @@
     {
       "id": "g4-soc-unit-01-us-regions-exam",
       "title": "Exam: Regions of the United States",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

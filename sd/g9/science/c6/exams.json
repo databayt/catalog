@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-06-quiz",
       "title": "اختبار - الكائنات الحية الدقيقة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [
@@ -113,6 +114,7 @@
     {
       "id": "g9-sci-unit-06-quiz-2",
       "title": "اختبار - الكائنات الحية الدقيقة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

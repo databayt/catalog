@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-03-04-saudi-arabia-lquiz",
       "title": "اختبار درس - Saudi Arabia",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-03-04-saudi-arabia-lquiz-2",
       "title": "اختبار درس - Saudi Arabia",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

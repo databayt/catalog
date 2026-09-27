@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-06-governance-condominium-lquiz",
       "title": "اختبار درس - نظم الحكم والإدارة في فترة الحكم الثنائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-history-c1-l6-1",
       "title": "نظم الحكم والإدارة في فترة الحكم الثنائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

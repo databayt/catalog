@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-02-early-islamic-01-baghdad-quiz",
       "title": "Quiz: Baghdad, c. AD 900",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

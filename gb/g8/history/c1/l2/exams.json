@@ -10,7 +10,7 @@
     {
       "id": "g8-his-unit-01-tudors-02-elizabeth-quiz",
       "title": "Quiz: Elizabethan England",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

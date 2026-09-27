@@ -9,6 +9,7 @@
     {
       "id": "g3-sci-unit-01-rocks-exam",
       "title": "Exam: Rocks & Soils",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

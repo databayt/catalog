@@ -10,7 +10,7 @@
     {
       "id": "g7-isl-unit-02-quran-02-tadabbur-quiz",
       "title": "Quiz: التدبر والفهم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

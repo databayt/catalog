@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-3-lesson-4-lquiz",
       "title": "اختبار درس - نماذج من التاريخ العسكري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

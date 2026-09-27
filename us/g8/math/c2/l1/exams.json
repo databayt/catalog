@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-02-linear-functions-01-slope-quiz",
       "title": "Quiz: Slope & Linear Equations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

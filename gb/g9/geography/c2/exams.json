@@ -9,6 +9,7 @@
     {
       "id": "g9-geo-unit-02-resources-exam",
       "title": "Exam: Resource Management",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

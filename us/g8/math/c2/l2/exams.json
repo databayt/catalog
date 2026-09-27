@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-02-linear-functions-02-functions-quiz",
       "title": "Quiz: Functions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

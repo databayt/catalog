@@ -9,6 +9,7 @@
     {
       "id": "g3-math-unit-03-exam-9025",
       "title": "Chapter Exam - unit-03 - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

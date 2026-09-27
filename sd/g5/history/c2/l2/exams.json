@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-2-02-الدولةاإلسالميةفيعهدالخلفاءالراشدين-lquiz",
       "title": "اختبار - الدولة اإلسالمية في عهد الخلفاء الراشدين .........",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

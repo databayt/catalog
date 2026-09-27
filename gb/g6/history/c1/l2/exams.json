@@ -10,7 +10,7 @@
     {
       "id": "g6-his-unit-01-maya-02-comparing-civilisations-quiz",
       "title": "Quiz: Comparing Civilisations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

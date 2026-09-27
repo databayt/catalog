@@ -10,7 +10,7 @@
     {
       "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-quiz",
       "title": "Quiz: Tragic Conventions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

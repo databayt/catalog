@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-02-argument-01-claims-evidence-quiz",
       "title": "Quiz: Claims, Evidence & Reasoning",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

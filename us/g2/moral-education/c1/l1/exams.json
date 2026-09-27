@@ -10,7 +10,7 @@
     {
       "id": "g2-mor-unit-01-community-01-community-quiz",
       "title": "Quiz: My Community",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

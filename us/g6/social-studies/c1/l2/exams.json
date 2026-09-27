@@ -10,7 +10,7 @@
     {
       "id": "g6-soc-unit-01-world-geography-02-human-geography-quiz",
       "title": "Quiz: Human Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-04-02-ratio-properties-lquiz",
       "title": "اختبار - خواص النسبة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

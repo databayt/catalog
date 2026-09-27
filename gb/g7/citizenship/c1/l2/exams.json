@@ -10,7 +10,7 @@
     {
       "id": "g7-cit-unit-01-democracy-02-law-quiz",
       "title": "Quiz: Law & Rights",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

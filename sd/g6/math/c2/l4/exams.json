@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-02-04-subtracting-integers-lquiz",
       "title": "اختبار - طرح الأعداد الصحيحة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

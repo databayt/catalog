@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-01-quiz",
       "title": "اختبار - المجموعات",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

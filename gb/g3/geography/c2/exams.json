@@ -9,6 +9,7 @@
     {
       "id": "g3-geo-unit-02-rivers-exam",
       "title": "Exam: Rivers & the Water Cycle",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

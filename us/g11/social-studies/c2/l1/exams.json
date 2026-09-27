@@ -10,7 +10,7 @@
     {
       "id": "g11-soc-unit-02-modern-america-01-postwar-quiz",
       "title": "Quiz: Postwar America",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

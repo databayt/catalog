@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-03-overlapping-shapes-lquiz",
       "title": "اختبار - التداخل بين الأشكال",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

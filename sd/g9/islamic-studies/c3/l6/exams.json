@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-06-concise-words-of-prophet-lquiz",
       "title": "اختبار درس - من جوامع الكلم لرسول الله (ص)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-06-concise-words-of-prophet-lquiz-2",
       "title": "اختبار درس - من جوامع الكلم لرسول الله (ص)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

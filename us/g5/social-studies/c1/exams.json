@@ -9,6 +9,7 @@
     {
       "id": "g5-soc-unit-01-colonies-exam",
       "title": "Exam: Colonial America & Founding",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

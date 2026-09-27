@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-01-06-a-helping-hand-lquiz",
       "title": "اختبار - A Helping Hand",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

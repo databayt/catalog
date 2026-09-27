@@ -9,6 +9,7 @@
     {
       "id": "g3-soc-unit-01-local-government-exam",
       "title": "Exam: Local Community & Government",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

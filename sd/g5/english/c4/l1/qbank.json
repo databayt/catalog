@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-eng-unit-4-01-lesson-1-lq01",
+      "id": "g5-eng-unit-4-01-lesson-1-q01",
       "type": "mcq",
       "question": "What is the purpose of a thesis statement?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "A thesis statement presents the central argument of the essay."
     },
     {
-      "id": "g5-eng-unit-4-01-lesson-1-lq02",
+      "id": "g5-eng-unit-4-01-lesson-1-q02",
       "type": "true_false",
       "question": "Every paragraph should focus on one main idea.",
       "options": [

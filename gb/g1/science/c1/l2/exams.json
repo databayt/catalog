@@ -10,7 +10,7 @@
     {
       "id": "g1-sci-unit-01-plants-02-seasons-quiz",
       "title": "Quiz: Seasonal Changes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

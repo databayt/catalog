@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-05-05-the-greenhouse-lquiz",
       "title": "اختبار درس - The Greenhouse",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-05-05-the-greenhouse-lquiz-2",
       "title": "اختبار درس - The Greenhouse",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

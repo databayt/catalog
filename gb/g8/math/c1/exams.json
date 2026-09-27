@@ -9,6 +9,7 @@
     {
       "id": "g8-mat-unit-01-ratio-proportion-exam",
       "title": "Exam: Ratio & Proportion",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

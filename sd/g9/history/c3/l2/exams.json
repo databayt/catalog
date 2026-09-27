@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-03-02-types-of-colonialism-lquiz",
       "title": "اختبار درس - أنواع الاستعمار الأوربي لأفريقيا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-03-02-types-of-colonialism-lquiz-2",
       "title": "اختبار درس - أنواع الاستعمار الأوربي لأفريقيا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

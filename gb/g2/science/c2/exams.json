@@ -9,6 +9,7 @@
     {
       "id": "g2-sci-unit-02-materials-exam",
       "title": "Exam: Uses of Materials",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -7,8 +7,8 @@ From `/Users/abdout/hogwarts/curriculum` → the repo root (= catalog/ on the CD
 | subjects | 471 |
 | chapters | 1624 |
 | lessons | 5592 |
-| questions (in qbank.json) | 30954 |
-| exams | 3747 |
+| questions (in qbank.json) | 12438 |
+| exams | 3739 |
 | textbook.md twins | 44 |
 | pages-md files | 1093 |
 | binaries | 5462 |
@@ -16,7 +16,9 @@ From `/Users/abdout/hogwarts/curriculum` → the repo root (= catalog/ on the CD
 | subject renames | 249 |
 | chapter renames | 1624 |
 | lesson renames | 5592 |
-| placeholder questions dropped ("Question N about …") | 3194 |
+| placeholder questions dropped | 3754 |
+| duplicate questions removed (kept at deepest scope) | 18166 |
+| sd subject-level questions placed → lesson / chapter / subject | 7230 / 1918 / 159 |
 | questions dropped (no question or answer) | 12 |
 | errors | 0 |
 

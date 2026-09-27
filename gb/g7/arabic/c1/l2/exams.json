@@ -10,7 +10,7 @@
     {
       "id": "g7-ara-unit-01-syntax-02-adjective-quiz",
       "title": "Quiz: النعت (الصفة)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

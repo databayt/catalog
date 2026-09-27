@@ -10,7 +10,7 @@
     {
       "id": "g2-ara-unit-01-words-01-syllables-quiz",
       "title": "Quiz: تكوين الكلمات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

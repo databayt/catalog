@@ -8,6 +8,7 @@
     {
       "id": "g6-his-final",
       "title": "الامتحان النهائي - history",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

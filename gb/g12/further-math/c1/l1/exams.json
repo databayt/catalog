@@ -10,7 +10,7 @@
     {
       "id": "g12-fur-unit-01-core-pure-01-complex-quiz",
       "title": "Quiz: Complex Numbers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

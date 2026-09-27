@@ -9,6 +9,7 @@
     {
       "id": "g3-eng-unit-02-writing-exam",
       "title": "Exam: Writing & Grammar",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

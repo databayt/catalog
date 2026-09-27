@@ -10,7 +10,7 @@
     {
       "id": "g4-soc-unit-01-us-regions-01-regions-quiz",
       "title": "Quiz: US Regions & Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

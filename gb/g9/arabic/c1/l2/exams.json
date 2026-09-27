@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-01-inna-02-irab-quiz",
       "title": "Quiz: الإعراب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-phy-unit-01-fitness-02-training-quiz",
       "title": "Quiz: Training & Health",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-02-region-uae-02-comparing-regions-quiz",
       "title": "Quiz: Comparing Regions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

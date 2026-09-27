@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-02-writing-02-form-audience-quiz",
       "title": "Quiz: Form, Audience & Purpose",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

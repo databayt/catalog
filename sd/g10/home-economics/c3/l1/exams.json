@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-3-lesson-7-lquiz",
       "title": "اختبار درس - مشاكل نقص وزيادة الوزن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

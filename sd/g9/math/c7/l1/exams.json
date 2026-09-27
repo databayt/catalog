@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-07-01-frequency-table-lquiz",
       "title": "اختبار درس - الجدول التكراري ذو الفئات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c7-l1-1",
       "title": "الجدول التكراري ذو الفئات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

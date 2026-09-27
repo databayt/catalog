@@ -10,7 +10,7 @@
     {
       "id": "g4-isl-unit-01-zakat-sawm-01-sawm-quiz",
       "title": "Quiz: الصيام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

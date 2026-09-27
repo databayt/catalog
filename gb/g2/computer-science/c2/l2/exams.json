@@ -10,7 +10,7 @@
     {
       "id": "g2-com-unit-02-online-safety-02-devices-quiz",
       "title": "Quiz: Using Technology",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

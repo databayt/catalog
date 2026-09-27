@@ -9,6 +9,7 @@
     {
       "id": "g3-mus-unit-01-elements-exam",
       "title": "Exam: Elements of Music",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

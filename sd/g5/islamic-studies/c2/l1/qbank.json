@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-isl-unit-02-01-preserving-prayer-lq01",
+      "id": "g5-isl-unit-02-01-preserving-prayer-q01",
       "type": "mcq",
       "question": "كم عدد أركان الإسلام الخمسة؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
     },
     {
-      "id": "g5-isl-unit-02-01-preserving-prayer-lq02",
+      "id": "g5-isl-unit-02-01-preserving-prayer-q02",
       "type": "true_false",
       "question": "الشهادتان هما الركن الأول في الإسلام.",
       "options": [

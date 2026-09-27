@@ -10,7 +10,7 @@
     {
       "id": "g11-isl-unit-01-hadith-values-02-values-quiz",
       "title": "Quiz: القيم الإسلامية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

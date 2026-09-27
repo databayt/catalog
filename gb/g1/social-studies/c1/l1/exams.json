@@ -10,7 +10,7 @@
     {
       "id": "g1-uae-unit-01-myself-family-01-my-family-quiz",
       "title": "Quiz: My Family",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

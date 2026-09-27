@@ -10,7 +10,7 @@
     {
       "id": "g10-uae-unit-01-sustainability-02-vision-quiz",
       "title": "Quiz: National Vision",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

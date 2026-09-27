@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-06-tafkheem-tarqeeq-lquiz",
       "title": "اختبار درس - التفخيم والترقيق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-islamic-studies-c1-l6-1",
       "title": "التفخيم والترقيق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-6-lesson-12-lquiz",
       "title": "اختبار درس - قوات الدفاع الشعبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

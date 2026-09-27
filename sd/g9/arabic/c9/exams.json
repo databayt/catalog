@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-09-quiz",
       "title": "اختبار - الوحدة التاسعة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-ara-unit-09-quiz-2",
       "title": "اختبار - الوحدة التاسعة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-his-unit-01-germany-02-nazi-rise-quiz",
       "title": "Quiz: The Rise of the Nazis",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

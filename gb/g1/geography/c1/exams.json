@@ -9,6 +9,7 @@
     {
       "id": "g1-geo-unit-01-uk-exam",
       "title": "Exam: The United Kingdom",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

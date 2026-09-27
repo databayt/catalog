@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-1-anna-and-the-fighter-01-chapter-1-lquiz",
       "title": "اختبار - Chapter 1: Anna",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

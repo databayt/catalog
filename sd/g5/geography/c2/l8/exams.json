@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-02-08-review-lquiz",
       "title": "اختبار - تطبيقات ومراجعة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

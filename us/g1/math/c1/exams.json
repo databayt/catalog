@@ -9,6 +9,7 @@
     {
       "id": "g1-mat-unit-01-counting-place-value-exam",
       "title": "Exam: Counting & Place Value to 120",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 10,
       "questions": [

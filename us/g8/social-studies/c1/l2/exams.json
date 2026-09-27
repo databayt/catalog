@@ -10,7 +10,7 @@
     {
       "id": "g8-soc-unit-01-founding-02-principles-quiz",
       "title": "Quiz: Principles of Government",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

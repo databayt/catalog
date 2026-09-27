@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-03-types-of-sets-lquiz",
       "title": "اختبار - أنواع المجموعات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

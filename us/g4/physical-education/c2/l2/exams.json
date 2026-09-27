@@ -10,7 +10,7 @@
     {
       "id": "g4-phy-unit-02-health-02-gymnastics-quiz",
       "title": "Quiz: Balance & Coordination",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

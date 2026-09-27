@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-01-pure-02-integration-quiz",
       "title": "Quiz: Integration",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g7-sci-unit-01-ecosystems-exam",
       "title": "Exam: Ecosystems & Energy Flow",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

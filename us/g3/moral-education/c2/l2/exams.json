@@ -10,7 +10,7 @@
     {
       "id": "g3-mor-unit-02-tolerance-02-friendship-quiz",
       "title": "Quiz: Friendship",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

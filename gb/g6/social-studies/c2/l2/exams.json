@@ -10,7 +10,7 @@
     {
       "id": "g6-uae-unit-02-respect-diversity-02-self-discipline-quiz",
       "title": "Quiz: Self-Discipline",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

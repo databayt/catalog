@@ -10,7 +10,7 @@
     {
       "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-quiz",
       "title": "Quiz: The Cell Cycle & Mitosis",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

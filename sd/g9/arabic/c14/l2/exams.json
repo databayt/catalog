@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-14-02-literature-lquiz",
       "title": "اختبار درس - الأدب: وقفة على طلل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

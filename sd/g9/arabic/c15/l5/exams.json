@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-15-05-writing-lquiz",
       "title": "اختبار درس - التعبير: أمنية تسعى لتحقيقها بالعلم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

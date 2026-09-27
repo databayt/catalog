@@ -10,7 +10,7 @@
     {
       "id": "g5-fre-unit-02-daily-life-01-school-food-quiz",
       "title": "Quiz: School & Food",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-02-03-beloved-places-lquiz",
       "title": "اختبار - أحب الأماكن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

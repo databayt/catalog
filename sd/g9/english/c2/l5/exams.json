@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-05-robinson-crusoe-lquiz",
       "title": "اختبار درس - Robinson Crusoe",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c2-l5-1",
       "title": "Robinson Crusoe",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

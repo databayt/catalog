@@ -10,7 +10,7 @@
     {
       "id": "g3-art-unit-02-making-02-artists-quiz",
       "title": "Quiz: Looking at Artists",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

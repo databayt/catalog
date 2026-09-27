@@ -10,7 +10,7 @@
     {
       "id": "g3-ara-unit-02-words-02-synonyms-quiz",
       "title": "Quiz: الترادف والتضاد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

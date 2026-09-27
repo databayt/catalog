@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-02-electricity-light-02-light-rays-quiz",
       "title": "Quiz: How We See",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

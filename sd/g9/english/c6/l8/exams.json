@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-06-08-revision-the-cost-of-shopping-lquiz",
       "title": "اختبار درس - Revision: The Cost of Shopping",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-06-08-revision-the-cost-of-shopping-lquiz-2",
       "title": "اختبار درس - Revision: The Cost of Shopping",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g2-ara-unit-01-words-02-reading-quiz",
       "title": "Quiz: القراءة البسيطة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

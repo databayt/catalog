@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-geo-unit-01-01-location-and-area-lq01",
+      "id": "g9-geo-unit-01-01-location-and-area-q01",
       "type": "mcq",
       "question": "ما العاصمة السياسية للسودان؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
     },
     {
-      "id": "g9-geo-unit-01-01-location-and-area-lq02",
+      "id": "g9-geo-unit-01-01-location-and-area-q02",
       "type": "true_false",
       "question": "يقع السودان في شمال شرق أفريقيا.",
       "options": [

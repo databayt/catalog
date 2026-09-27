@@ -10,7 +10,7 @@
     {
       "id": "g8-sci-unit-01-forces-motion-02-gravity-quiz",
       "title": "Quiz: Gravity & Motion",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

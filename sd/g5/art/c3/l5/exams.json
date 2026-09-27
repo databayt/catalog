@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-03-05-clay-works-lquiz",
       "title": "اختبار - أعمال الطين",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g4-ara-unit-02-spelling-exam",
       "title": "Exam: الإملاء وعلامات الترقيم",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

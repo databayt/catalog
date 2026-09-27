@@ -10,7 +10,7 @@
     {
       "id": "g12-art-unit-01-formal-elements-01-composition-quiz",
       "title": "Quiz: Composition",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

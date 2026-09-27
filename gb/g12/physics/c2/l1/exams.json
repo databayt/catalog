@@ -10,7 +10,7 @@
     {
       "id": "g12-phy-unit-02-fields-01-gravitational-quiz",
       "title": "Quiz: Gravitational Fields",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

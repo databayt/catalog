@@ -9,6 +9,7 @@
     {
       "id": "g11-his-unit-02-medicine-exam",
       "title": "Exam: Health & Medicine Through Time",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

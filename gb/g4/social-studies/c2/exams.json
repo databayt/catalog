@@ -9,6 +9,7 @@
     {
       "id": "g4-uae-unit-02-empathy-exam",
       "title": "Exam: Empathy & Caring",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

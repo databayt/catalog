@@ -10,7 +10,7 @@
     {
       "id": "g10-fre-module-2-unit-4-lquiz",
       "title": "اختبار درس - Unité 4: Voici ma famille",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

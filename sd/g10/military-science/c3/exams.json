@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-2-quiz",
       "title": "اختبار - مدخل إلى التربية العسكرية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

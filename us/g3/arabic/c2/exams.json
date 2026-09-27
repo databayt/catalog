@@ -9,6 +9,7 @@
     {
       "id": "g3-ara-unit-02-words-exam",
       "title": "Exam: المفرد والجمع",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

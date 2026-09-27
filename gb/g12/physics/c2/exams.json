@@ -9,6 +9,7 @@
     {
       "id": "g12-phy-unit-02-fields-exam",
       "title": "Exam: Fields",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

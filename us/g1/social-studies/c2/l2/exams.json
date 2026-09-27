@@ -10,7 +10,7 @@
     {
       "id": "g1-soc-unit-02-maps-02-directions-quiz",
       "title": "Quiz: Directions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

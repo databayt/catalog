@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-01-counting-place-value-03-comparing-numbers-quiz",
       "title": "Quiz: Comparing Numbers (>, <, =)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

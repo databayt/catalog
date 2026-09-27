@@ -9,6 +9,7 @@
     {
       "id": "g7-ara-unit-01-syntax-exam",
       "title": "Exam: الجملة الاسمية والفعلية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

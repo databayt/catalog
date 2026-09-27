@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-03-climate-weather-maps-lquiz",
       "title": "اختبار درس - المناخ والخرائط المناخية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-03-climate-weather-maps-lquiz-2",
       "title": "اختبار درس - المناخ والخرائط المناخية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

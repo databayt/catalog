@@ -9,6 +9,7 @@
     {
       "id": "g5-eng-unit-5-quiz",
       "title": "اختبار - Helping Hands",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

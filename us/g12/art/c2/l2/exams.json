@@ -10,7 +10,7 @@
     {
       "id": "g12-art-unit-02-context-02-evaluation-quiz",
       "title": "Quiz: Evaluating Artwork",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

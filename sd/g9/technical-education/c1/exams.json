@@ -9,6 +9,7 @@
     {
       "id": "g9-tec-unit-1-technical-drawing-quiz",
       "title": "اختبار - الرسم الفني",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

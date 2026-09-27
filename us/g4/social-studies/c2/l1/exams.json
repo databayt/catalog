@@ -10,7 +10,7 @@
     {
       "id": "g4-soc-unit-02-native-peoples-01-native-peoples-quiz",
       "title": "Quiz: Native American Cultures",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

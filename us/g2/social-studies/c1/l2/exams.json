@@ -10,7 +10,7 @@
     {
       "id": "g2-soc-unit-01-citizenship-02-symbols-quiz",
       "title": "Quiz: National Symbols & Holidays",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

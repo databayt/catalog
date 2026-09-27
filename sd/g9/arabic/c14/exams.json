@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-14-quiz",
       "title": "اختبار - الوحدة الرابعة عشرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

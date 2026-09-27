@@ -9,6 +9,7 @@
     {
       "id": "g5-his-unit-3-quiz",
       "title": "اختبار - من تاريخ إفريقيا.............................:",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

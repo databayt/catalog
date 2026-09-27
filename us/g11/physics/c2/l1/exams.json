@@ -10,7 +10,7 @@
     {
       "id": "g11-phy-unit-02-energy-waves-01-energy-quiz",
       "title": "Quiz: Work & Energy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

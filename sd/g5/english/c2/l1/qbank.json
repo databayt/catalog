@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-eng-unit-2-01-lesson-1-lq01",
+      "id": "g5-eng-unit-2-01-lesson-1-q01",
       "type": "mcq",
       "question": "Which sentence is in the past continuous tense?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
     },
     {
-      "id": "g5-eng-unit-2-01-lesson-1-lq02",
+      "id": "g5-eng-unit-2-01-lesson-1-q02",
       "type": "true_false",
       "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
       "options": [

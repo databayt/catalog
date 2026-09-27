@@ -9,6 +9,7 @@
     {
       "id": "g4-his-unit-02-ancient-greece-exam",
       "title": "Exam: Ancient Greece",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

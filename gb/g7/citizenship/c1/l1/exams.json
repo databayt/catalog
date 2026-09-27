@@ -10,7 +10,7 @@
     {
       "id": "g7-cit-unit-01-democracy-01-democracy-quiz",
       "title": "Quiz: How Democracy Works",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

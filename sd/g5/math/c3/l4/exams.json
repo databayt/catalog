@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-04-adding-decimals-lquiz",
       "title": "اختبار - جمع الكسور العشرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

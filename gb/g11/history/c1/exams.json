@@ -9,6 +9,7 @@
     {
       "id": "g11-his-unit-01-cold-war-exam",
       "title": "Exam: The Cold War",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g8-ara-unit-02-definite-02-nakira-quiz",
       "title": "Quiz: النكرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

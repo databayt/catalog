@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-01-reading-lit-02-plot-quiz",
       "title": "Quiz: Plot & Conflict",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

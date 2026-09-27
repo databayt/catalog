@@ -9,6 +9,7 @@
     {
       "id": "g4-ict-unit-3-computer-basics-exam-9370",
       "title": "Chapter Exam - unit-3-computer-basics - Ict",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

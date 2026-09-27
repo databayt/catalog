@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-5-lesson-13-lquiz",
       "title": "اختبار درس - صحة الأسرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

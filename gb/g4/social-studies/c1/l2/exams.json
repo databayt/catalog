@@ -10,7 +10,7 @@
     {
       "id": "g4-uae-unit-01-geography-02-landmarks-quiz",
       "title": "Quiz: Famous Landmarks",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

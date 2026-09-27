@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-04-climate-zones-lquiz",
       "title": "اختبار درس - النطاقات المناخية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-04-climate-zones-lquiz-2",
       "title": "اختبار درس - النطاقات المناخية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

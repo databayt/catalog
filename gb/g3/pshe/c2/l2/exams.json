@@ -10,7 +10,7 @@
     {
       "id": "g3-psh-unit-02-relationships-02-money-world-quiz",
       "title": "Quiz: Money & Responsibility",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

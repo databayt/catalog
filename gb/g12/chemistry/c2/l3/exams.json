@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-quiz",
       "title": "Quiz: Transition Metals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

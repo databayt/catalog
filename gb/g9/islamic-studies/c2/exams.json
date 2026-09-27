@@ -9,6 +9,7 @@
     {
       "id": "g9-isl-unit-02-fiqh-exam",
       "title": "Exam: الفقه الإسلامي",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

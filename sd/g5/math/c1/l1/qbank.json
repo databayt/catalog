@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-mat-unit-01-01-natural-numbers-lq01",
+      "id": "g5-mat-unit-01-01-natural-numbers-q01",
       "type": "mcq",
       "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
     },
     {
-      "id": "g5-mat-unit-01-01-natural-numbers-lq02",
+      "id": "g5-mat-unit-01-01-natural-numbers-q02",
       "type": "true_false",
       "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
       "options": [

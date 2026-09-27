@@ -10,7 +10,7 @@
     {
       "id": "g9-bio-unit-01-cells-01-cell-organelles-quiz",
       "title": "Quiz: Cell Organelles",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

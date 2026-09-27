@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-2-quiz",
       "title": "اختبار - الوحدة الثانية: التغذية والصحة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

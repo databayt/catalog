@@ -10,7 +10,7 @@
     {
       "id": "g10-his-unit-01-germany-01-weimar-quiz",
       "title": "Quiz: The Weimar Republic",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

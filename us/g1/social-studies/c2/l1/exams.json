@@ -10,7 +10,7 @@
     {
       "id": "g1-soc-unit-02-maps-01-maps-quiz",
       "title": "Quiz: Maps and Globes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-03-03-two-interesting-places-lquiz",
       "title": "اختبار درس - Two Interesting Places",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-03-03-two-interesting-places-lquiz-2",
       "title": "اختبار درس - Two Interesting Places",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

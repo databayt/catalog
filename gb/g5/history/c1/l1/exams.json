@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-quiz",
       "title": "Quiz: Anglo-Saxon Britain",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

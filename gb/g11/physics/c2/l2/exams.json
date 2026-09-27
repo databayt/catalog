@@ -10,7 +10,7 @@
     {
       "id": "g11-phy-unit-02-waves-02-em-spectrum-quiz",
       "title": "Quiz: The Electromagnetic Spectrum",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

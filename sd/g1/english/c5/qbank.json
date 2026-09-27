@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c5"
+  },
+  "questions": [
+    {
+      "id": "g1-en-u5-q001",
+      "type": "mcq",
+      "question": "What do you use to write in your notebook?",
+      "options": [
+        "A pen",
+        "A cup",
+        "A chair",
+        "A door"
+      ],
+      "answer": "A pen",
+      "explanation": "A pen (or pencil) is used for writing."
+    },
+    {
+      "id": "g1-en-u5-q002",
+      "type": "true_false",
+      "question": "A teacher works in a school.",
+      "answer": true,
+      "explanation": "Yes, a teacher works in a school to help students learn."
+    },
+    {
+      "id": "g1-en-u5-q003",
+      "type": "fill_blank",
+      "question": "We read books in the school _______.",
+      "answer": "library",
+      "explanation": "The library is where we read and borrow books at school."
+    },
+    {
+      "id": "g1-en-u5-q004",
+      "type": "mcq",
+      "question": "What do students sit on in class?",
+      "options": [
+        "A chair",
+        "A table",
+        "A book",
+        "A board"
+      ],
+      "answer": "A chair",
+      "explanation": "Students sit on chairs in the classroom."
+    },
+    {
+      "id": "g1-en-u5-q005",
+      "type": "short_answer",
+      "question": "Name three things you find in a classroom.",
+      "answer": "desk, chair, board (or: book, pen, pencil)",
+      "explanation": "Classroom items include: desk, chair, board, book, pen, pencil."
+    },
+    {
+      "id": "g1-en-u5-q006",
+      "type": "true_false",
+      "question": "We play football in the classroom.",
+      "answer": false,
+      "explanation": "We play football in the playground, not the classroom."
+    },
+    {
+      "id": "g1-en-u5-q007",
+      "type": "mcq",
+      "question": "Where do students play during break time?",
+      "options": [
+        "Playground",
+        "Classroom",
+        "Library",
+        "Office"
+      ],
+      "answer": "Playground",
+      "explanation": "Students play in the playground during break time."
+    },
+    {
+      "id": "g1-en-u5-q008",
+      "type": "fill_blank",
+      "question": "The teacher writes on the _______.",
+      "answer": "board",
+      "explanation": "Teachers write on the board (blackboard or whiteboard) in class."
+    },
+    {
+      "id": "g1-en-u5-q009",
+      "type": "mcq",
+      "question": "What do you carry your books in?",
+      "options": [
+        "School bag",
+        "Cup",
+        "Plate",
+        "Pillow"
+      ],
+      "answer": "School bag",
+      "explanation": "A school bag (or backpack) is used to carry books and school items."
+    },
+    {
+      "id": "g1-en-u5-q010",
+      "type": "short_answer",
+      "question": "Do you like school? Why?",
+      "answer": "Yes, I like school because I learn new things / make friends.",
+      "explanation": "Students learn, make friends, and have fun at school."
+    }
+  ]
+}

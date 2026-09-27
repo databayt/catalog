@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g11",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g11-mat-u02-q001",
+      "type": "mcq",
+      "question": "ما قيمة log₂(32)؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "log₂(32) = log₂(2⁵) = 5"
+    },
+    {
+      "id": "g11-mat-u02-q002",
+      "type": "mcq",
+      "question": "بسّط: log₃(27) + log₃(9)",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "log₃(27) + log₃(9) = 3 + 2 = 5"
+    },
+    {
+      "id": "g11-mat-u02-q003",
+      "type": "mcq",
+      "question": "إذا كانت f(x) = 2ˣ، فما قيمة f(3)؟",
+      "options": [
+        "8",
+        "6",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "f(3) = 2³ = 8"
+    },
+    {
+      "id": "g11-mat-u02-q004",
+      "type": "mcq",
+      "question": "حل المعادلة: 3ˣ = 81",
+      "options": [
+        "x = 4",
+        "x = 3",
+        "x = 5",
+        "x = 27"
+      ],
+      "answer": "x = 4",
+      "explanation": "3ˣ = 81 = 3⁴، إذن x = 4"
+    },
+    {
+      "id": "g11-mat-u02-q005",
+      "type": "true_false",
+      "question": "log(a × b) = log(a) + log(b) لجميع القيم الموجبة لـ a وb.",
+      "answer": true,
+      "explanation": "صحيح، هذه خاصية لوغاريتم الضرب وهي صحيحة لجميع القيم الموجبة."
+    },
+    {
+      "id": "g11-mat-u02-q006",
+      "type": "true_false",
+      "question": "الدالة الأسية f(x) = eˣ دالة تناقصية.",
+      "answer": false,
+      "explanation": "خطأ، الدالة f(x) = eˣ دالة تزايدية لأن أساسها e ≈ 2.718 > 1."
+    },
+    {
+      "id": "g11-mat-u02-q007",
+      "type": "fill_blank",
+      "question": "log₁₀(1000) = _______",
+      "answer": "3",
+      "explanation": "log₁₀(1000) = log₁₀(10³) = 3"
+    },
+    {
+      "id": "g11-mat-u02-q008",
+      "type": "fill_blank",
+      "question": "إذا كان log₅(x) = 2، فإن x = _______",
+      "answer": "25",
+      "explanation": "log₅(x) = 2 يعني 5² = x = 25"
+    },
+    {
+      "id": "g11-mat-u02-q009",
+      "type": "short_answer",
+      "question": "اشرح العلاقة بين الدالة الأسية والدالة اللوغاريتمية.",
+      "answer": "الدالة اللوغاريتمية هي الدالة العكسية للدالة الأسية. إذا كانت y = aˣ فإن x = logₐ(y). بيانياً، كل منهما انعكاس للأخرى حول المستقيم y = x.",
+      "explanation": "يُقبل أي إجابة توضح علاقة التعاكس بين الدالتين."
+    },
+    {
+      "id": "g11-mat-u02-q010",
+      "type": "short_answer",
+      "question": "أوجد مجال ومدى الدالة f(x) = log₂(x - 1).",
+      "answer": "المجال: x > 1 أي (1, +∞). المدى: جميع الأعداد الحقيقية (-∞, +∞).",
+      "explanation": "يُقبل أي إجابة صحيحة توضح أن x - 1 > 0 للمجال وأن اللوغاريتم يأخذ جميع القيم الحقيقية."
+    }
+  ]
+}

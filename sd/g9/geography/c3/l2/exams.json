@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-02-air-pollution-lquiz",
       "title": "اختبار درس - تلوث الهواء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-02-air-pollution-lquiz-2",
       "title": "اختبار درس - تلوث الهواء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

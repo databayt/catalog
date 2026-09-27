@@ -9,6 +9,7 @@
     {
       "id": "g10-geo-unit-01-living-world-exam",
       "title": "Exam: The Living World",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

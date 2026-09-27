@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-01-surah-al-infitar-lquiz",
       "title": "اختبار - سورة الانفطار",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-01-decimals-operations-01-place-value-decimals-quiz",
       "title": "Quiz: Decimal Place Value",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

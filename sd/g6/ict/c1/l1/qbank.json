@@ -1,0 +1,35 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "ict",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-ict-unit-1-networks-and-communication-01-concept-of-network-q01",
+      "type": "mcq",
+      "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+      "options": [
+        "الماسح الضوئي (Scanner)",
+        "الطابعة",
+        "شاشة العرض",
+        "الميكروفون"
+      ],
+      "answer": "الماسح الضوئي (Scanner)",
+      "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+    },
+    {
+      "id": "g6-ict-unit-1-networks-and-communication-01-concept-of-network-q02",
+      "type": "true_false",
+      "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+    }
+  ]
+}

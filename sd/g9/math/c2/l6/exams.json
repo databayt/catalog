@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-06-zero-and-negative-exponents-lquiz",
       "title": "اختبار درس - الأس الصفري والأسس السالبة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c2-l6-1",
       "title": "الأس الصفري والأسس السالبة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

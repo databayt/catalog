@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-ara-unit-01-01-reading-lq01",
+      "id": "g9-ara-unit-01-01-reading-q01",
       "type": "mcq",
       "question": "ما الغرض الرئيسي من قراءة النصوص الأدبية في الوحدة 1؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "القراءة تنمي مهارات الفهم والاستيعاب لدى الطالب."
     },
     {
-      "id": "g9-ara-unit-01-01-reading-lq02",
+      "id": "g9-ara-unit-01-01-reading-q02",
       "type": "true_false",
       "question": "الفهم القرائي يساعد على استيعاب المعنى الكامل للنص.",
       "options": [

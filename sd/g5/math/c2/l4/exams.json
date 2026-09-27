@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-04-multiply-fraction-by-fraction-lquiz",
       "title": "اختبار - ضرب كسر عادي في كسر عادي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

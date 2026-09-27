@@ -9,6 +9,7 @@
     {
       "id": "g12-psy-unit-02-research-exam",
       "title": "Exam: Research Methods",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

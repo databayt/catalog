@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-04-surjective-function-lquiz",
       "title": "اختبار درس - أنواع من التطبيقات (التطبيق الشامل)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c1-l4-1",
       "title": "أنواع من التطبيقات (التطبيق الشامل)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

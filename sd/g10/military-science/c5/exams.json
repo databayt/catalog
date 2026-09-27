@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-4-quiz",
       "title": "اختبار - الحروب الشاملة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

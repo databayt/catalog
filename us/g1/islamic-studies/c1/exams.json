@@ -9,6 +9,7 @@
     {
       "id": "g1-isl-unit-01-pillars-islam-exam",
       "title": "Exam: أركان الإسلام",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

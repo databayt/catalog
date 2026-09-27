@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-4-lesson-11-lquiz",
       "title": "اختبار درس - البيئة وصحة الإنسان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

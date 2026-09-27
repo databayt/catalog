@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-1-07-الفتحاإلسالميألرضالسودان-lquiz",
       "title": "اختبار - الفتح اإلسالمي ألرض السودان....................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

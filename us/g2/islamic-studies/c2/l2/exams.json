@@ -10,7 +10,7 @@
     {
       "id": "g2-isl-unit-02-akhlaq-02-respect-quiz",
       "title": "Quiz: احترام الكبير",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

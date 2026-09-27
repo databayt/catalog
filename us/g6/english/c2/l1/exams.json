@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-02-writing-01-argument-quiz",
       "title": "Quiz: Argument Writing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

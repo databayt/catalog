@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-01-04-folk-heritage-lquiz",
       "title": "اختبار - التراث الشعبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

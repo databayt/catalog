@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-06-surah-al-mulk-lquiz",
       "title": "اختبار - سورة الملك",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-fre-unit-01-greetings-02-numbers-quiz",
       "title": "Quiz: Numbers & Age",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

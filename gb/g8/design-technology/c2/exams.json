@@ -9,6 +9,7 @@
     {
       "id": "g8-des-unit-02-materials-exam",
       "title": "Exam: Materials & Manufacture",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-02-geometry-01-angles-quiz",
       "title": "Quiz: Angles",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-linear-01-solving-linear-quiz",
       "title": "Quiz: Solving Linear Equations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

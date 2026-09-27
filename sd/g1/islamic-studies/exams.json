@@ -8,6 +8,7 @@
     {
       "id": "g1-is-final-exam-01",
       "title": "الاختبار النهائي - التربية الإسلامية - الصف الأول",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

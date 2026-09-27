@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-01-rivers-coasts-01-rivers-quiz",
       "title": "Quiz: River Processes & Landforms",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

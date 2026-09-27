@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-pythagoras-02-trig-quiz",
       "title": "Quiz: Trigonometry (SOHCAHTOA)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

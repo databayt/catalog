@@ -9,6 +9,7 @@
     {
       "id": "g2-mor-unit-01-community-exam",
       "title": "Exam: My Community & Helpers",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

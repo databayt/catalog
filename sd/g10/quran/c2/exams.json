@@ -9,6 +9,7 @@
     {
       "id": "g10-qur-unit-2-tajweed-quiz",
       "title": "اختبار - التجويد",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [
@@ -55,6 +56,7 @@
     {
       "id": "g10-qur-unit-2-tajweed-quiz-2",
       "title": "اختبار - التجويد",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

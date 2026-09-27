@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-01-reading-01-evidence-quiz",
       "title": "Quiz: Retrieval & Evidence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

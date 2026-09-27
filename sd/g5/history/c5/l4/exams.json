@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-5-04-إسهامالسودانفيالحضارةلإلنسان-lquiz",
       "title": "اختبار - إسهام السودان في الحضارة لإلنسان.................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-02-11-fabrics-lquiz",
       "title": "اختبار - الأقمشة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

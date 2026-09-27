@@ -10,7 +10,7 @@
     {
       "id": "g12-fur-unit-02-further-01-induction-quiz",
       "title": "Quiz: Proof by Induction",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-09-logarithm-lquiz",
       "title": "اختبار درس - اللوغاريثم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c2-l9-1",
       "title": "اللوغاريثم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -9,6 +9,7 @@
     {
       "id": "g5-his-unit-02-early-islamic-exam",
       "title": "Exam: Early Islamic Civilisation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

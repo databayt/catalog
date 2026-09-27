@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-01-chemistry-exam",
       "title": "Exam: Chemistry: Reactions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

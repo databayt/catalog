@@ -9,6 +9,7 @@
     {
       "id": "g9-mat-unit-02-functions-exam",
       "title": "Exam: Functions & Systems",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g11-geo-unit-02-economic-world-exam",
       "title": "Exam: The Changing Economic World",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

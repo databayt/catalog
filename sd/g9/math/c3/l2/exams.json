@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-03-02-linear-equation-two-variables-lquiz",
       "title": "اختبار درس - معادلة الدرجة الأولى في مجهولين والخط المستقيم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c3-l2-1",
       "title": "معادلة الدرجة الأولى في مجهولين والخط المستقيم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

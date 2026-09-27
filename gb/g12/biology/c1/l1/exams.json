@@ -10,7 +10,7 @@
     {
       "id": "g12-bio-unit-01-molecules-01-biomolecules-quiz",
       "title": "Quiz: Carbohydrates, Lipids & Proteins",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

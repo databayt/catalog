@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-01-matter-01-solids-liquids-quiz",
       "title": "Quiz: Solids, Liquids and Gases",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

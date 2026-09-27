@@ -9,6 +9,7 @@
     {
       "id": "g8-geo-unit-02-development-exam",
       "title": "Exam: Development & Globalisation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

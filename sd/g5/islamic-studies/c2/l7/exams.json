@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-02-07-maintaining-kinship-lquiz",
       "title": "اختبار - صلة الرحم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

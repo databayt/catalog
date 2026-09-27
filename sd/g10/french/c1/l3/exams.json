@@ -10,7 +10,7 @@
     {
       "id": "g10-fre-module-1-unit-3-lquiz",
       "title": "اختبار درس - Unité 3: J'aime, je n'aime pas",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

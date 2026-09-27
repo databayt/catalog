@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-07-02-applications-lquiz",
       "title": "اختبار - تطبيقات نظرية فيثاغورث",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

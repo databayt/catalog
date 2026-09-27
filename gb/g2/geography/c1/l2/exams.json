@@ -10,7 +10,7 @@
     {
       "id": "g2-geo-unit-01-continents-oceans-02-oceans-quiz",
       "title": "Quiz: The Oceans",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

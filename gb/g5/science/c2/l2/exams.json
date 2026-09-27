@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-02-materials-02-reversible-quiz",
       "title": "Quiz: Reversible & Irreversible Changes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

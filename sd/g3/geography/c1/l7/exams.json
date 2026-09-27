@@ -10,7 +10,7 @@
     {
       "id": "g3-geography-unit-01-exam-1869",
       "title": "Lesson Quiz - 07-map-elements - Geography",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

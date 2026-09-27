@@ -10,7 +10,7 @@
     {
       "id": "g9-soc-unit-02-industrialization-02-imperialism-quiz",
       "title": "Quiz: Imperialism",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

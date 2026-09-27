@@ -9,6 +9,7 @@
     {
       "id": "g11-uae-unit-02-justice-exam",
       "title": "Exam: Justice & Fairness",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

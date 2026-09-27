@@ -10,7 +10,7 @@
     {
       "id": "g10-eng-unit-02-novel-01-setting-quiz",
       "title": "Quiz: Setting & Atmosphere",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

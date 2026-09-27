@@ -10,7 +10,7 @@
     {
       "id": "g2-geo-unit-02-hot-cold-01-equator-poles-quiz",
       "title": "Quiz: The Equator and the Poles",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g3-mat-unit-02-fractions-01-understanding-fractions-quiz",
       "title": "Quiz: Understanding Fractions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

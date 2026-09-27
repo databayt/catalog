@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-01-01-scientific-models-lquiz",
       "title": "اختبار درس - النماذج العلمية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-science-c1-l1-1",
       "title": "النماذج العلمية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

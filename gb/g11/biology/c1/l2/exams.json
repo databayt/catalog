@@ -10,7 +10,7 @@
     {
       "id": "g11-bio-unit-01-bioenergetics-02-respiration-quiz",
       "title": "Quiz: Respiration",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-quiz",
       "title": "Quiz: قضايا معاصرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

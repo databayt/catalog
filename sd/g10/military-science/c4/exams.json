@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-3-quiz",
       "title": "اختبار - نماذج من التاريخ العسكري",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g6-geo-unit-01-trade-resources-01-resources-quiz",
       "title": "Quiz: Natural Resources",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

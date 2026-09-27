@@ -10,7 +10,7 @@
     {
       "id": "g2-geo-unit-01-continents-oceans-01-continents-quiz",
       "title": "Quiz: The Seven Continents",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-01-number-02-times-tables-quiz",
       "title": "Quiz: Times Tables to 12",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g4-sci-unit-01-energy-exam",
       "title": "Exam: Energy",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

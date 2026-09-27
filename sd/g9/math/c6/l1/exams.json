@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-06-01-general-form-lquiz",
       "title": "اختبار درس - الصورة العامة لمعادلة الدرجة الثانية في متغير واحد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c6-l1-1",
       "title": "الصورة العامة لمعادلة الدرجة الثانية في متغير واحد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

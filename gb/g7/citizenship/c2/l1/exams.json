@@ -10,7 +10,7 @@
     {
       "id": "g7-cit-unit-02-society-01-community-quiz",
       "title": "Quiz: Community & Identity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

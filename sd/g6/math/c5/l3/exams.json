@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-05-03-complement-lquiz",
       "title": "اختبار - المتممة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

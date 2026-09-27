@@ -10,7 +10,7 @@
     {
       "id": "g7-ara-unit-01-syntax-01-mubtada-khabar-quiz",
       "title": "Quiz: المبتدأ والخبر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

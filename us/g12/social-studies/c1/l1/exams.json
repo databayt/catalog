@@ -10,7 +10,7 @@
     {
       "id": "g12-soc-unit-01-government-01-constitution-quiz",
       "title": "Quiz: The Constitution & Branches",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

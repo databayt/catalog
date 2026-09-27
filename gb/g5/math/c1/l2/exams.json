@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-01-number-02-factors-primes-quiz",
       "title": "Quiz: Factors, Multiples & Primes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

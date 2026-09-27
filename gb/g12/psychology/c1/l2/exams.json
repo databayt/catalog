@@ -10,7 +10,7 @@
     {
       "id": "g12-psy-unit-01-approaches-02-memory-quiz",
       "title": "Quiz: Memory",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

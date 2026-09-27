@@ -9,6 +9,7 @@
     {
       "id": "g9-isl-unit-06-quiz",
       "title": "اختبار - السيرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-isl-unit-06-quiz-2",
       "title": "اختبار - السيرة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

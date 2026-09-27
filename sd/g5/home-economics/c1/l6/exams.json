@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-01-06-agricultural-operations-lquiz",
       "title": "اختبار - العمليات الزراعية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

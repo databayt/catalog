@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-02-mechanics-stats-02-distributions-quiz",
       "title": "Quiz: Probability Distributions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

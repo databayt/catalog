@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-05-quiz",
       "title": "اختبار - من مكارم الأخلاق",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

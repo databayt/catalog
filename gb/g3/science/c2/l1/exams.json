@@ -10,7 +10,7 @@
     {
       "id": "g3-sci-unit-02-light-01-light-shadows-quiz",
       "title": "Quiz: Light & Shadows",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

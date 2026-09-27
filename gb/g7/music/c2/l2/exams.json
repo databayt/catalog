@@ -10,7 +10,7 @@
     {
       "id": "g7-mus-unit-02-composing-02-genres-quiz",
       "title": "Quiz: Genres & Context",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

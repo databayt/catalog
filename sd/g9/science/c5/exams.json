@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-05-quiz",
       "title": "اختبار - التكاثر",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-sci-unit-05-quiz-2",
       "title": "اختبار - التكاثر",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

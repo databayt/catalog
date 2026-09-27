@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-04-soil-pollution-lquiz",
       "title": "اختبار درس - تلوث التربة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-04-soil-pollution-lquiz-2",
       "title": "اختبار درس - تلوث التربة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

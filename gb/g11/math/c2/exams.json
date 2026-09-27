@@ -9,6 +9,7 @@
     {
       "id": "g11-mat-unit-02-statistics-exam",
       "title": "Exam: Statistics & Probability",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g7-uae-unit-01-government-exam",
       "title": "Exam: Government & the Constitution",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-2052",
       "title": "Lesson Quiz - 01-division-by-7-no-remainder - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

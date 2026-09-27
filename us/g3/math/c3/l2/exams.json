@@ -10,7 +10,7 @@
     {
       "id": "g3-mat-unit-03-area-perimeter-02-perimeter-quiz",
       "title": "Quiz: Perimeter",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

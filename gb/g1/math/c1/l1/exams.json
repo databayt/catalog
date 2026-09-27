@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-01-number-to-20-01-counting-quiz",
       "title": "Quiz: Counting to 20",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

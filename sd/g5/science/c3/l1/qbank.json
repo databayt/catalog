@@ -1,0 +1,35 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "c3",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-sci-unit-03-01-environment-q01",
+      "type": "mcq",
+      "question": "ما العملية التي تصنع فيها النباتات الخضراء غذاءها؟",
+      "options": [
+        "البناء الضوئي",
+        "التنفس الخلوي",
+        "الهضم",
+        "الإخراج"
+      ],
+      "answer": "البناء الضوئي",
+      "explanation": "النباتات تستخدم الضوء والكلوروفيل لتصنيع غذائها."
+    },
+    {
+      "id": "g5-sci-unit-03-01-environment-q02",
+      "type": "true_false",
+      "question": "الحيوانات آكلة الأعشاب تسمى عاشبة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "العاشبة تقتصر في غذائها على النباتات."
+    }
+  ]
+}

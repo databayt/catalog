@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-03-06-substitution-method-lquiz",
       "title": "اختبار درس - الطريقة الثالثة: طريقة الحذف بالتعويض",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c3-l6-1",
       "title": "الطريقة الثالثة: طريقة الحذف بالتعويض",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

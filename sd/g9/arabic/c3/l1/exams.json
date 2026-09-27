@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-03-01-reading-lquiz",
       "title": "اختبار درس - القراءة: كرم امرأة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-03-01-reading-lquiz-2",
       "title": "اختبار درس - القراءة: كرم امرأة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

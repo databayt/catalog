@@ -10,7 +10,7 @@
     {
       "id": "g6-soc-unit-01-world-geography-01-continents-climate-quiz",
       "title": "Quiz: Continents & Climate",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g9-bio-unit-02-genetics-exam",
       "title": "Exam: Genetics & Heredity",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

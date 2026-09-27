@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-02-geometry-02-area-quiz",
       "title": "Quiz: Area & Volume",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

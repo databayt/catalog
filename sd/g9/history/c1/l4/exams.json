@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-04-military-confrontations-3-lquiz",
       "title": "اختبار درس - المواجهات العسكرية (٣)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-history-c1-l4-1",
       "title": "المواجهات العسكرية (٣)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g10-mor-unit-01-sustainability-01-environment-quiz",
       "title": "Quiz: Protecting the Environment",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

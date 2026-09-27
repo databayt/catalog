@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-09-perfect-square-lquiz",
       "title": "اختبار درس - المربع الكامل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l9-1",
       "title": "المربع الكامل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

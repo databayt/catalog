@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-02-05-electric-field-lquiz",
       "title": "اختبار درس - المجال الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-science-c2-l5-1",
       "title": "المجال الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

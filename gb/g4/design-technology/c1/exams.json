@@ -9,6 +9,7 @@
     {
       "id": "g4-des-unit-01-design-exam",
       "title": "Exam: Design & Make",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

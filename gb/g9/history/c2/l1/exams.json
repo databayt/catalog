@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-wwi-01-causes-quiz",
       "title": "Quiz: Causes of WWI",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

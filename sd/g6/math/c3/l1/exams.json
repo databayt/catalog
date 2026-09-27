@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-03-01-percentage-concept-lquiz",
       "title": "اختبار - مفهوم النسبة المئوية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

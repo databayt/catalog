@@ -9,6 +9,7 @@
     {
       "id": "g4-isl-unit-01-zakat-sawm-exam",
       "title": "Exam: الصيام والزكاة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-phy-unit-01-movement-02-games-quiz",
       "title": "Quiz: Playing Games",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

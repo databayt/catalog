@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-01-living-02-evolution-quiz",
       "title": "Quiz: Evolution & Adaptation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

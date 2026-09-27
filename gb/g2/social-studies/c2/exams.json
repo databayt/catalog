@@ -9,6 +9,7 @@
     {
       "id": "g2-uae-unit-02-respect-exam",
       "title": "Exam: Respect & Honesty",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

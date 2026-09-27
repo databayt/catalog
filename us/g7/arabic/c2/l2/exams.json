@@ -10,7 +10,7 @@
     {
       "id": "g7-ara-unit-02-verbs-02-mutall-quiz",
       "title": "Quiz: الفعل المعتل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

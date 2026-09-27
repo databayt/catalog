@@ -9,6 +9,7 @@
     {
       "id": "g6-his-unit-01-maya-exam",
       "title": "Exam: The Maya Civilisation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

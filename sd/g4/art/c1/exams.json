@@ -9,6 +9,7 @@
     {
       "id": "g4-art-unit-1-drawing-exam-8976",
       "title": "Chapter Exam - unit-1-drawing - Art",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

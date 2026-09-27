@@ -10,7 +10,7 @@
     {
       "id": "g7-ara-unit-02-verbs-01-sahih-quiz",
       "title": "Quiz: الفعل الصحيح",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

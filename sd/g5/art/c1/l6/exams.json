@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-01-06-tawaf-around-kaaba-lquiz",
       "title": "اختبار - الطواف حول الكعبة الشريفة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

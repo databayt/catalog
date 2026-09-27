@@ -9,6 +9,7 @@
     {
       "id": "g10-eng-unit-02-writing-exam",
       "title": "Exam: Writing: Description & Narrative",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

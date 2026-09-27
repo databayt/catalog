@@ -9,6 +9,7 @@
     {
       "id": "g9-his-unit-04-quiz",
       "title": "اختبار - من تاريخ العالم",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [
@@ -113,6 +114,7 @@
     {
       "id": "g9-his-unit-04-quiz-2",
       "title": "اختبار - من تاريخ العالم",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

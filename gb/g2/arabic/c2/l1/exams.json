@@ -10,7 +10,7 @@
     {
       "id": "g2-ara-unit-02-sentence-01-make-sentence-quiz",
       "title": "Quiz: تكوين الجملة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

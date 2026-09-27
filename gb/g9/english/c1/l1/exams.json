@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-poetry-01-poetic-devices-quiz",
       "title": "Quiz: Poetic Devices",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

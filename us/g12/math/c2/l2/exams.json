@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-02-functions-limits-02-limits-quiz",
       "title": "Quiz: Introduction to Limits",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

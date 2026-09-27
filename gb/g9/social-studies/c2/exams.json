@@ -9,6 +9,7 @@
     {
       "id": "g9-uae-unit-02-ethics-exam",
       "title": "Exam: Ethics & Responsibility",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

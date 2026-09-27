@@ -10,7 +10,7 @@
     {
       "id": "g2-des-unit-01-design-01-design-quiz",
       "title": "Quiz: Designing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

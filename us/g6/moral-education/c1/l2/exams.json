@@ -10,7 +10,7 @@
     {
       "id": "g6-mor-unit-01-heritage-02-identity-quiz",
       "title": "Quiz: Cultural Identity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

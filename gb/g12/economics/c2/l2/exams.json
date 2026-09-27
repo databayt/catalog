@@ -10,7 +10,7 @@
     {
       "id": "g12-eco-unit-02-macro-02-policy-quiz",
       "title": "Quiz: Economic Policy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

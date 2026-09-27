@@ -9,6 +9,7 @@
     {
       "id": "g10-geo-unit-02-physical-landscapes-exam",
       "title": "Exam: Physical Landscapes in the UK",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

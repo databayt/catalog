@@ -8,6 +8,7 @@
     {
       "id": "g4-islamic-final-exam-4308",
       "title": "Final Exam - Islamic - G4",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

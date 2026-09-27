@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-02-describing-sets-lquiz",
       "title": "اختبار - وصف المجموعات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g2-geo-unit-01-continents-oceans-exam",
       "title": "Exam: Continents & Oceans",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

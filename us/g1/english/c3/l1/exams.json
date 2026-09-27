@@ -10,7 +10,7 @@
     {
       "id": "g1-eng-unit-03-writing-01-sentences-quiz",
       "title": "Quiz: Complete Sentences",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-quiz",
       "title": "Quiz: Establishing the Tudor Dynasty",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

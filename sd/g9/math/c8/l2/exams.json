@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-08-02-rectangular-prism-volume-lquiz",
       "title": "اختبار درس - حجم المنشور (متوازي المستطيلات)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c8-l2-1",
       "title": "حجم المنشور (متوازي المستطيلات)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

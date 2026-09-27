@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-04-26-stain-removal-lquiz",
       "title": "اختبار - إزالة البقع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

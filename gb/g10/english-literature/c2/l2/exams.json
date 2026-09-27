@@ -10,7 +10,7 @@
     {
       "id": "g10-eng-unit-02-novel-02-theme-quiz",
       "title": "Quiz: Themes & Social Context",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

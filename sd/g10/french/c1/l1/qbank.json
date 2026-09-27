@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g10-fre-module-1-unit-1-lq01",
+      "id": "g10-fre-module-1-unit-1-q01",
       "type": "mcq",
       "question": "Quel est le verbe 'être' à la première personne du singulier?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "Le verbe être: je suis, tu es, il/elle est, nous sommes..."
     },
     {
-      "id": "g10-fre-module-1-unit-1-lq02",
+      "id": "g10-fre-module-1-unit-1-q02",
       "type": "true_false",
       "question": "En français, les adjectifs s'accordent en genre et en nombre avec le nom.",
       "options": [
@@ -32,7 +32,7 @@
       "explanation": "L'accord de l'adjectif est une règle fondamentale du français."
     },
     {
-      "id": "g10-fre-module-1-unit-1-lq03",
+      "id": "g10-fre-module-1-unit-1-q03",
       "type": "fill_blank",
       "question": "Comment dit-on 'thank you' en français? ___",
       "answer": "Merci",

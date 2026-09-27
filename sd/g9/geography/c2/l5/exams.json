@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-02-05-energy-petroleum-minerals-lquiz",
       "title": "اختبار درس - الطاقة والبترول والإنتاج المعدني",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-02-05-energy-petroleum-minerals-lquiz-2",
       "title": "اختبار درس - الطاقة والبترول والإنتاج المعدني",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

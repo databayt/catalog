@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-01-ratio-algebra-02-algebra-quiz",
       "title": "Quiz: Simple Algebra",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

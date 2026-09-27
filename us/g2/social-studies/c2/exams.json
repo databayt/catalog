@@ -9,6 +9,7 @@
     {
       "id": "g2-soc-unit-02-economics-exam",
       "title": "Exam: Needs, Wants & Work",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

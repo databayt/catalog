@@ -9,6 +9,7 @@
     {
       "id": "g9-sci-unit-01-quiz",
       "title": "اختبار - النماذج العلمية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [
@@ -55,7 +56,7 @@
     {
       "id": "sd-g9-science-c1-1",
       "title": "النماذج العلمية",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

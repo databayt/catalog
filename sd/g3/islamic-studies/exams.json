@@ -8,6 +8,7 @@
     {
       "id": "g3-islamic-final-exam-8793",
       "title": "Final Exam - Islamic - G3",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

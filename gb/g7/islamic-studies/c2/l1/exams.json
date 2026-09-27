@@ -10,7 +10,7 @@
     {
       "id": "g7-isl-unit-02-quran-01-tilawah-quiz",
       "title": "Quiz: التلاوة والتجويد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

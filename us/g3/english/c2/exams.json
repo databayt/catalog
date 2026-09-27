@@ -9,6 +9,7 @@
     {
       "id": "g3-eng-unit-02-informational-exam",
       "title": "Exam: Reading: Informational Text",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

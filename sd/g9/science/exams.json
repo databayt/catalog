@@ -8,6 +8,7 @@
     {
       "id": "g9-sci-final",
       "title": "الامتحان النهائي - science",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

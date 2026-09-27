@@ -9,6 +9,7 @@
     {
       "id": "g11-geo-unit-01-urban-exam",
       "title": "Exam: Urban Issues & Challenges",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

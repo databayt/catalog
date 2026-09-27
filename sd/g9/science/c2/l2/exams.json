@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-02-02-charge-properties-lquiz",
       "title": "اختبار درس - خصائص الشحنة الكهربائية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-science-c2-l2-1",
       "title": "خصائص الشحنة الكهربائية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

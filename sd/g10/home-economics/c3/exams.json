@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-3-quiz",
       "title": "اختبار - الوحدة الثالثة: مشاكل نقص وزيادة الوزن",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g3-isl-unit-02-prophets-02-nuh-quiz",
       "title": "Quiz: نوح عليه السلام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-isl-unit-01-01-surah-al-infitar-lq01",
+      "id": "g5-isl-unit-01-01-surah-al-infitar-q01",
       "type": "mcq",
       "question": "ما سورة الفاتحة في ترتيب القرآن؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
     },
     {
-      "id": "g5-isl-unit-01-01-surah-al-infitar-lq02",
+      "id": "g5-isl-unit-01-01-surah-al-infitar-q02",
       "type": "true_false",
       "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
       "options": [

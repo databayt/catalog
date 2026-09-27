@@ -1,0 +1,34 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "ict",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g6-ict-unit-2-internet-and-web-06-internet-basics-q01",
+      "type": "mcq",
+      "question": "ما الاختصار الكامل لـ WWW؟",
+      "options": [
+        "World Wide Web",
+        "World Web Window",
+        "Wide World Web",
+        "Web Wide World"
+      ],
+      "answer": "World Wide Web",
+      "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+    },
+    {
+      "id": "g6-ict-unit-2-internet-and-web-06-internet-basics-q02",
+      "type": "true_false",
+      "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+    }
+  ]
+}

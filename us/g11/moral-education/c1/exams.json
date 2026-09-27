@@ -9,6 +9,7 @@
     {
       "id": "g11-mor-unit-01-identity-exam",
       "title": "Exam: National & Global Identity",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-03-bones-lquiz",
       "title": "اختبار درس - Bones",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c1-l3-1",
       "title": "Bones",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

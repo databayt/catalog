@@ -10,7 +10,7 @@
     {
       "id": "g12-eng-unit-02-college-writing-02-professional-quiz",
       "title": "Quiz: Professional Communication",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

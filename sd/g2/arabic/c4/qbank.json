@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "c4"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u04-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الاستماع",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: التحدث",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الفهم",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    }
+  ]
+}

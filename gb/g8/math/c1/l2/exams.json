@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-01-ratio-proportion-02-percentage-change-quiz",
       "title": "Quiz: Percentage Change",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

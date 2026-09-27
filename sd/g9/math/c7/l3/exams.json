@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-07-03-histogram-lquiz",
       "title": "اختبار درس - تمثيل البيانات الإحصائية بيانياً بواسطة المدرج التكراري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c7-l3-1",
       "title": "تمثيل البيانات الإحصائية بيانياً بواسطة المدرج التكراري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

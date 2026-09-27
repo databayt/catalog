@@ -9,6 +9,7 @@
     {
       "id": "g5-ara-unit-01-grammar-exam",
       "title": "Exam: الفاعل والمفعول",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-07-04-learning-to-do-things-yourself-lquiz",
       "title": "اختبار درس - Learning to Do Things Yourself",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-07-04-learning-to-do-things-yourself-lquiz-2",
       "title": "اختبار درس - Learning to Do Things Yourself",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

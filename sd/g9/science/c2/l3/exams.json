@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-02-03-conductors-insulators-lquiz",
       "title": "اختبار درس - المواد الموصلة والعازلة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-science-c2-l3-1",
       "title": "المواد الموصلة والعازلة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

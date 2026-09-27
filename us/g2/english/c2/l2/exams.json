@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-02-reading-02-retelling-quiz",
       "title": "Quiz: Retelling a Story",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

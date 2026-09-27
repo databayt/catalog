@@ -10,7 +10,7 @@
     {
       "id": "g9-bio-unit-02-genetics-01-dna-quiz",
       "title": "Quiz: DNA & Genes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-eng-unit-01-reading-02-summarizing-quiz",
       "title": "Quiz: Summarizing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

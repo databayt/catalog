@@ -8,6 +8,7 @@
     {
       "id": "g5-isl-final",
       "title": "الامتحان النهائي - islamic",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

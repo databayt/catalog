@@ -10,7 +10,7 @@
     {
       "id": "g10-bio-unit-02-organisation-02-circulation-quiz",
       "title": "Quiz: The Circulatory System",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-03-ottoman-expansion-arab-lands-lquiz",
       "title": "اختبار درس - امتداد الدولة العثمانية في البلاد العربية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-02-03-ottoman-expansion-arab-lands-lquiz-2",
       "title": "اختبار درس - امتداد الدولة العثمانية في البلاد العربية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

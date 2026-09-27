@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-1976",
       "title": "Lesson Quiz - 09-division-by-9-no-remainder - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-bus-unit-02-finance-01-finance-quiz",
       "title": "Quiz: Business Finance",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

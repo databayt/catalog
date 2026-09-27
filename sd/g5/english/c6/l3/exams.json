@@ -10,7 +10,7 @@
     {
       "id": "g5-eng-unit-6-03-lesson-3-lquiz",
       "title": "اختبار - Lesson 3",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

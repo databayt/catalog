@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g1-ma-u1-q001",
+      "type": "mcq",
+      "question": "ما الرقم الذي يأتي بعد 4؟",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "ترتيب الأعداد: ... 3، 4، 5، 6 ..."
+    },
+    {
+      "id": "g1-ma-u1-q002",
+      "type": "true_false",
+      "question": "العدد 7 أكبر من العدد 9.",
+      "answer": false,
+      "explanation": "العدد 9 أكبر من 7. الترتيب: 7 < 9"
+    },
+    {
+      "id": "g1-ma-u1-q003",
+      "type": "fill_blank",
+      "question": "0 ، 1 ، 2 ، 3 ، _______ ، 5 ، 6 ، 7 ، 8 ، 9",
+      "answer": "4",
+      "explanation": "الرقم المفقود هو 4."
+    },
+    {
+      "id": "g1-ma-u1-q004",
+      "type": "mcq",
+      "question": "كم عدد الأصابع في اليد الواحدة؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "answer": "5",
+      "explanation": "لدينا 5 أصابع في كل يد."
+    },
+    {
+      "id": "g1-ma-u1-q005",
+      "type": "short_answer",
+      "question": "اكتب الأعداد من 1 إلى 9 بالترتيب.",
+      "answer": "1 ، 2 ، 3 ، 4 ، 5 ، 6 ، 7 ، 8 ، 9",
+      "explanation": "الأعداد المرتبة تصاعدياً من 1 إلى 9."
+    },
+    {
+      "id": "g1-ma-u1-q006",
+      "type": "true_false",
+      "question": "الصفر (0) هو عدد.",
+      "answer": true,
+      "explanation": "نعم، الصفر عدد يمثل لا شيء أو الفراغ."
+    },
+    {
+      "id": "g1-ma-u1-q007",
+      "type": "mcq",
+      "question": "أي العدد أكبر؟",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "3"
+      ],
+      "answer": "9",
+      "explanation": "العدد 9 هو الأكبر من بين 3، 5، 7، 9."
+    },
+    {
+      "id": "g1-ma-u1-q008",
+      "type": "fill_blank",
+      "question": "العدد الذي يأتي قبل 8 هو _______",
+      "answer": "7",
+      "explanation": "ترتيب الأعداد: ... 6، 7، 8، 9 - فالرقم قبل 8 هو 7."
+    },
+    {
+      "id": "g1-ma-u1-q009",
+      "type": "mcq",
+      "question": "ما الرمز المناسب: 5 ○ 3",
+      "options": [
+        ">",
+        "<",
+        "=",
+        "+"
+      ],
+      "answer": ">",
+      "explanation": "5 أكبر من 3، لذا نستخدم الرمز > (أكبر من)."
+    },
+    {
+      "id": "g1-ma-u1-q010",
+      "type": "short_answer",
+      "question": "رتّب الأعداد التالية تصاعدياً: 7 ، 2 ، 5 ، 9 ، 1",
+      "answer": "1 ، 2 ، 5 ، 7 ، 9",
+      "explanation": "الترتيب التصاعدي من الأصغر إلى الأكبر: 1، 2، 5، 7، 9"
+    }
+  ]
+}

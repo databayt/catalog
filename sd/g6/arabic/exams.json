@@ -8,6 +8,7 @@
     {
       "id": "g6-ara-final",
       "title": "الامتحان النهائي - arabic",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

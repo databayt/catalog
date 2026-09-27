@@ -9,6 +9,7 @@
     {
       "id": "g5-tec-unit-2-quiz",
       "title": "اختبار - نظام الويندوز لتشغيل احلاسوب",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

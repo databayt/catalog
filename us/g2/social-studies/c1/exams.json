@@ -9,6 +9,7 @@
     {
       "id": "g2-soc-unit-01-citizenship-exam",
       "title": "Exam: Communities & Citizenship",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

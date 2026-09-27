@@ -10,7 +10,7 @@
     {
       "id": "g1-sci-unit-02-living-things-02-parents-offspring-quiz",
       "title": "Quiz: Parents and Offspring",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

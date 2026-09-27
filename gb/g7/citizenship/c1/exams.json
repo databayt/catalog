@@ -9,6 +9,7 @@
     {
       "id": "g7-cit-unit-01-democracy-exam",
       "title": "Exam: Government & Democracy",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

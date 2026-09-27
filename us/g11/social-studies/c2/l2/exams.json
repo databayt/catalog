@@ -10,7 +10,7 @@
     {
       "id": "g11-soc-unit-02-modern-america-02-contemporary-quiz",
       "title": "Quiz: Contemporary Issues",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-art-unit-01-01-household-vessels-lq01",
+      "id": "g5-art-unit-01-01-household-vessels-q01",
       "type": "mcq",
       "question": "ما الألوان الثلاثة الأساسية في الفن؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "الألوان الأساسية هي الأحمر والأزرق والأصفر، لا يمكن تكوينها بمزج."
     },
     {
-      "id": "g5-art-unit-01-01-household-vessels-lq02",
+      "id": "g5-art-unit-01-01-household-vessels-q02",
       "type": "true_false",
       "question": "مزج اللون الأحمر مع الأصفر ينتج اللون البرتقالي.",
       "options": [

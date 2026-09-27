@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-poetry-02-comparison-quiz",
       "title": "Quiz: Comparing Poems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

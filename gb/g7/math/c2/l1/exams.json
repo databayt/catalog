@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-02-algebra-01-expressions-quiz",
       "title": "Quiz: Simplifying Expressions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

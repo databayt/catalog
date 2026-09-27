@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-02-surah-al-insan-lquiz",
       "title": "اختبار - سورة الإنسان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

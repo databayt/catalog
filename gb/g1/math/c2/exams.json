@@ -9,6 +9,7 @@
     {
       "id": "g1-mat-unit-02-addition-exam",
       "title": "Exam: Addition & Subtraction to 20",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

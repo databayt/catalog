@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-03-organic-chemistry-02-alcohols-halogenoalkanes-quiz",
       "title": "Quiz: Alcohols & Halogenoalkanes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-07-zakat-on-cattle-sheep-lquiz",
       "title": "اختبار درس - زكاة البقر والغنم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-07-zakat-on-cattle-sheep-lquiz-2",
       "title": "اختبار درس - زكاة البقر والغنم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

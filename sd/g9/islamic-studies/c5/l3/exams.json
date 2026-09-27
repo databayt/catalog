@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-03-conditions-of-zakat-lquiz",
       "title": "اختبار درس - شروط وجوب الزكاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-03-conditions-of-zakat-lquiz-2",
       "title": "اختبار درس - شروط وجوب الزكاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

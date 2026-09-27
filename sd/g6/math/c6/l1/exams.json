@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-06-01-area-of-triangle-lquiz",
       "title": "اختبار - مساحة المثلث",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

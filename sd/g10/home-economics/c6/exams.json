@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-6-quiz",
       "title": "اختبار - الوحدة السادسة: المهارات الأسرية والصنع",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

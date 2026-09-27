@@ -9,6 +9,7 @@
     {
       "id": "g10-soc-unit-01-world-wars-exam",
       "title": "Exam: The World Wars",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g12-isl-unit-02-culture-exam",
       "title": "Exam: الثقافة الإسلامية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

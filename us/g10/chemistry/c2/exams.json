@@ -9,6 +9,7 @@
     {
       "id": "g10-che-unit-02-bonding-reactions-exam",
       "title": "Exam: Bonding & Reactions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

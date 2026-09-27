@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-03-04-spray-printing-lquiz",
       "title": "اختبار - الطباعة بالبخ (الرش)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

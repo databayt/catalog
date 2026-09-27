@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-02-writing-02-description-quiz",
       "title": "Quiz: Descriptive Writing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-01-02-customs-and-traditions-lquiz",
       "title": "اختبار - أثر العادات والتقاليد في اختلاف الملابس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

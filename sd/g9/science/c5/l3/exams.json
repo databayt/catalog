@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-05-03-plant-reproduction-lquiz",
       "title": "اختبار درس - التكاثر في النبات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-05-03-plant-reproduction-lquiz-2",
       "title": "اختبار درس - التكاثر في النبات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

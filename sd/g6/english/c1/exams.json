@@ -9,6 +9,7 @@
     {
       "id": "g6-eng-unit-1-anna-and-the-fighter-quiz",
       "title": "اختبار - Unit 1: Anna and the Fighter",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

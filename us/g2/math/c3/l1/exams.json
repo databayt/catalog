@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-03-measurement-time-money-01-length-quiz",
       "title": "Quiz: Measuring Length",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

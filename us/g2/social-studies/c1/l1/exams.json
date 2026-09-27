@@ -10,7 +10,7 @@
     {
       "id": "g2-soc-unit-01-citizenship-01-rules-laws-quiz",
       "title": "Quiz: Rules and Laws",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-06-quiz",
       "title": "اختبار - مساحة الأشكال الهندسية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

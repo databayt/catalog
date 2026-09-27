@@ -10,7 +10,7 @@
     {
       "id": "g5-mor-unit-01-history-01-founding-quiz",
       "title": "Quiz: The Founding of the UAE",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

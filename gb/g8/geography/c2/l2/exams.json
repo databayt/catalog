@@ -10,7 +10,7 @@
     {
       "id": "g8-geo-unit-02-development-02-globalisation-quiz",
       "title": "Quiz: Globalisation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

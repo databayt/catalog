@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "c5"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u05-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النحو",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الإملاء",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: المفردات",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    }
+  ]
+}

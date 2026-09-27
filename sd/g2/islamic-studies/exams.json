@@ -8,6 +8,7 @@
     {
       "id": "g2-islamic-final-exam-5534",
       "title": "Final Exam - Islamic - G2",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-05-time-is-life-lquiz",
       "title": "اختبار درس - الوقت هو الحياة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-05-time-is-life-lquiz-2",
       "title": "اختبار درس - الوقت هو الحياة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

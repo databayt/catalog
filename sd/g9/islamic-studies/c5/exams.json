@@ -9,6 +9,7 @@
     {
       "id": "g9-isl-unit-05-quiz",
       "title": "اختبار - الفقه",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-isl-unit-05-quiz-2",
       "title": "اختبار - الفقه",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

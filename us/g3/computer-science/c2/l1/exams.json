@@ -10,7 +10,7 @@
     {
       "id": "g3-com-unit-02-online-safety-01-safety-quiz",
       "title": "Quiz: Staying Safe Online",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

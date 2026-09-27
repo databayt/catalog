@@ -10,7 +10,7 @@
     {
       "id": "g6-isl-unit-01-seerah-02-hadith-quiz",
       "title": "Quiz: الأحاديث النبوية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

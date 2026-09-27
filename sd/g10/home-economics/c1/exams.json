@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-1-quiz",
       "title": "اختبار - الوحدة الأولى: مدخل لدراسة العلوم الأسرية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g8-art-unit-02-context-exam",
       "title": "Exam: Artists & Context",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

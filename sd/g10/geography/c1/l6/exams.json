@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-06-earth-crust-lquiz",
       "title": "اختبار درس - القشرة الأرضية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-06-earth-crust-lquiz-2",
       "title": "اختبار درس - القشرة الأرضية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

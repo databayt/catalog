@@ -9,6 +9,7 @@
     {
       "id": "g8-mor-unit-01-uae-world-exam",
       "title": "Exam: The UAE & the World",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

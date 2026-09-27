@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-05-surah-al-muzzammil-lquiz",
       "title": "اختبار - سورة المزمل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

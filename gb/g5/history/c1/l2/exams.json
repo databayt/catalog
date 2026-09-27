@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-quiz",
       "title": "Quiz: The Vikings",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g8-isl-unit-02-muamalat-01-amanah-quiz",
       "title": "Quiz: الأمانة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

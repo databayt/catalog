@@ -10,7 +10,7 @@
     {
       "id": "g6-uae-unit-01-heritage-01-heritage-quiz",
       "title": "Quiz: Emirati Heritage",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

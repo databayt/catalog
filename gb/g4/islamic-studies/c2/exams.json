@@ -9,6 +9,7 @@
     {
       "id": "g4-isl-unit-02-seerah-exam",
       "title": "Exam: السيرة النبوية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

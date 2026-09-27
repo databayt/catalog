@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-algebra-02-quadratics-quiz",
       "title": "Quiz: Introducing Quadratics",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

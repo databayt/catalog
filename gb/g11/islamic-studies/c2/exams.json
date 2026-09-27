@@ -9,6 +9,7 @@
     {
       "id": "g11-isl-unit-02-values-exam",
       "title": "Exam: القيم الإسلامية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

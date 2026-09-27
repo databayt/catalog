@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-06-08-triangle-angle-sum-lquiz",
       "title": "اختبار - مجموع قياس زوايا المثلث",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-06-02-solving-quadratic-equations-lquiz",
       "title": "اختبار درس - حل معادلات الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c6-l2-1",
       "title": "حل معادلات الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

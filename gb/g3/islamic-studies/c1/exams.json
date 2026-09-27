@@ -9,6 +9,7 @@
     {
       "id": "g3-isl-unit-01-iman-exam",
       "title": "Exam: أركان الإيمان",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

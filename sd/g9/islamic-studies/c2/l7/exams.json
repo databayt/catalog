@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-02-07-selected-verses-lquiz",
       "title": "اختبار درس - آيات مختارة للفهم والتلاوة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-02-07-selected-verses-lquiz-2",
       "title": "اختبار درس - آيات مختارة للفهم والتلاوة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-07-factors-affecting-earth-elevation-lquiz",
       "title": "اختبار درس - العوامل المؤثرة في ارتفاع سطح الأرض",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-07-factors-affecting-earth-elevation-lquiz-2",
       "title": "اختبار درس - العوامل المؤثرة في ارتفاع سطح الأرض",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

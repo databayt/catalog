@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-06-03-vanguards-of-migration-lquiz",
       "title": "اختبار - طلائع الهجرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

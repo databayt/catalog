@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-01-inna-01-inna-quiz",
       "title": "Quiz: إنّ وأخواتها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

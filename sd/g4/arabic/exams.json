@@ -8,6 +8,7 @@
     {
       "id": "g4-arabic-final-exam-5671",
       "title": "Final Exam - Arabic - G4",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

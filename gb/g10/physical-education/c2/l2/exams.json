@@ -10,7 +10,7 @@
     {
       "id": "g10-phy-unit-02-games-tactics-02-tactics-quiz",
       "title": "Quiz: Tactics & Teamwork",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-01-number-02-fractions-quiz",
       "title": "Quiz: Fractions, Decimals & Percentages",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

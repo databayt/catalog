@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-quiz",
       "title": "Quiz: Adding Two-Digit Numbers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

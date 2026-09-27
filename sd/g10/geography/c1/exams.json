@@ -9,6 +9,7 @@
     {
       "id": "g10-geo-unit-01-quiz",
       "title": "اختبار - أسس الجغرافيا الطبيعية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g10-geo-unit-01-quiz-2",
       "title": "اختبار - أسس الجغرافيا الطبيعية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

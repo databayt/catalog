@@ -9,6 +9,7 @@
     {
       "id": "g6-isl-unit-01-seerah-exam",
       "title": "Exam: السيرة النبوية والأحاديث",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

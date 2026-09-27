@@ -10,7 +10,7 @@
     {
       "id": "g11-ara-unit-01-poetry-prose-02-prose-quiz",
       "title": "Quiz: النثر الأدبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

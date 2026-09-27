@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-02-inorganic-chemistry-01-periodicity-quiz",
       "title": "Quiz: Periodicity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

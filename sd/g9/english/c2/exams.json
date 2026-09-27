@@ -9,6 +9,7 @@
     {
       "id": "g9-eng-unit-02-quiz",
       "title": "اختبار - Arts and Literature",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-english-c2-1",
       "title": "Arts and Literature",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

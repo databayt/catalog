@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-07-03-history-of-university-of-khartoum-lquiz",
       "title": "اختبار درس - The History of the University of Khartoum",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-07-03-history-of-university-of-khartoum-lquiz-2",
       "title": "اختبار درس - The History of the University of Khartoum",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

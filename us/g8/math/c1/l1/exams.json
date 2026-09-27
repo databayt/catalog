@@ -10,7 +10,7 @@
     {
       "id": "g8-mat-unit-01-exponents-01-exponents-quiz",
       "title": "Quiz: Laws of Exponents",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

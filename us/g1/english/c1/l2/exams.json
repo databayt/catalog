@@ -10,7 +10,7 @@
     {
       "id": "g1-eng-unit-01-phonics-02-blends-digraphs-quiz",
       "title": "Quiz: Blends & Digraphs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

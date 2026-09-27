@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-01-02-terrain-lquiz",
       "title": "اختبار درس - السطح والتضاريس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-geography-c1-l2-1",
       "title": "السطح والتضاريس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g1-geo-unit-01-uk-01-four-countries-quiz",
       "title": "Quiz: The Four Countries of the UK",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-5-lesson-8-lquiz",
       "title": "اختبار درس - نماذج لحروب حديثة في القرن العشرين",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

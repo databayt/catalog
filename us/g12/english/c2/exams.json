@@ -9,6 +9,7 @@
     {
       "id": "g12-eng-unit-02-college-writing-exam",
       "title": "Exam: College & Career Writing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

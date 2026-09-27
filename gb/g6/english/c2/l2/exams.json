@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-02-grammar-02-punctuation-quiz",
       "title": "Quiz: Advanced Punctuation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

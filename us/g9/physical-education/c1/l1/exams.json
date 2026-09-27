@@ -10,7 +10,7 @@
     {
       "id": "g9-phy-unit-01-fitness-01-components-quiz",
       "title": "Quiz: Components of Fitness",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

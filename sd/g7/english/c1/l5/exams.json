@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-01-05-time-lquiz",
       "title": "اختبار - Time",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

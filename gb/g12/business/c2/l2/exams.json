@@ -10,7 +10,7 @@
     {
       "id": "g12-bus-unit-02-finance-02-operations-quiz",
       "title": "Quiz: Operations & People",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

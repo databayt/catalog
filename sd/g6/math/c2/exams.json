@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-02-quiz",
       "title": "اختبار - مجموعة الأعداد الصحيحة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

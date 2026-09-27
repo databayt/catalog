@@ -9,6 +9,7 @@
     {
       "id": "g5-art-unit-02-quiz",
       "title": "اختبار - التصميم والزخرفة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-02-national-dress-lquiz",
       "title": "اختبار درس - National Dress",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c2-l2-1",
       "title": "National Dress",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

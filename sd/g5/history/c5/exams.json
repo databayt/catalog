@@ -9,6 +9,7 @@
     {
       "id": "g5-his-unit-5-quiz",
       "title": "اختبار - فن التربية الوطنية.........................:",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

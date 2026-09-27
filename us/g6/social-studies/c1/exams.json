@@ -9,6 +9,7 @@
     {
       "id": "g6-soc-unit-01-world-geography-exam",
       "title": "Exam: World Geography",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

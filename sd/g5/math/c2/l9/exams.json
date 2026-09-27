@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-09-divide-fraction-by-whole-lquiz",
       "title": "اختبار - قسمة كسر على عدد صحيح",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

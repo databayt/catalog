@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-05-solar-radiation-lquiz",
       "title": "اختبار درس - الإشعاع الشمسي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-05-solar-radiation-lquiz-2",
       "title": "اختبار درس - الإشعاع الشمسي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

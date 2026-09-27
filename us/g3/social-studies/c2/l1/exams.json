@@ -10,7 +10,7 @@
     {
       "id": "g3-soc-unit-02-geography-skills-01-map-elements-quiz",
       "title": "Quiz: Map Elements",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-uae-unit-01-economy-02-sustainable-dev-quiz",
       "title": "Quiz: Sustainable Development",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

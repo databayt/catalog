@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-04-11-theorem-12-lquiz",
       "title": "اختبار درس - النظرية (١٢)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c4-l11-1",
       "title": "النظرية (١٢)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

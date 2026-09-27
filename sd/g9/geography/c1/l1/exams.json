@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-01-01-location-and-area-lquiz",
       "title": "اختبار درس - السودان: الموقع والمساحة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-geography-c1-l1-1",
       "title": "السودان: الموقع والمساحة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

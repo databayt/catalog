@@ -9,6 +9,7 @@
     {
       "id": "g10-che-unit-01-atomic-structure-exam",
       "title": "Exam: Atomic Structure",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

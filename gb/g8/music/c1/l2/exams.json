@@ -10,7 +10,7 @@
     {
       "id": "g8-mus-unit-01-theory-02-harmony-quiz",
       "title": "Quiz: Harmony & Texture",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

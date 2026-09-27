@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-06-04-area-of-circle-lquiz",
       "title": "اختبار - مساحة الدائرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

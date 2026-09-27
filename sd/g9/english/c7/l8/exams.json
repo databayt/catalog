@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-07-08-revision-test-your-learning-lquiz",
       "title": "اختبار درس - Revision: Test Your Learning",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-07-08-revision-test-your-learning-lquiz-2",
       "title": "اختبار درس - Revision: Test Your Learning",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

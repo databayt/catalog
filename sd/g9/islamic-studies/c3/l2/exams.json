@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-02-danger-of-gossip-lquiz",
       "title": "اختبار درس - خطورة النميمة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-02-danger-of-gossip-lquiz-2",
       "title": "اختبار درس - خطورة النميمة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

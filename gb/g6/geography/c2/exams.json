@@ -9,6 +9,7 @@
     {
       "id": "g6-geo-unit-02-map-fieldwork-exam",
       "title": "Exam: Map Skills & Fieldwork",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

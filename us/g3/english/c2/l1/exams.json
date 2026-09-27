@@ -10,7 +10,7 @@
     {
       "id": "g3-eng-unit-02-informational-01-text-features-quiz",
       "title": "Quiz: Text Features",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g1-ma-u3-q001",
+      "type": "mcq",
+      "question": "ما ناتج: 8 - 3 = ؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "8 - 3 = 5"
+    },
+    {
+      "id": "g1-ma-u3-q002",
+      "type": "true_false",
+      "question": "9 - 4 = 5",
+      "answer": true,
+      "explanation": "9 - 4 = 5 صحيح."
+    },
+    {
+      "id": "g1-ma-u3-q003",
+      "type": "fill_blank",
+      "question": "7 - _______ = 4",
+      "answer": "3",
+      "explanation": "7 - 3 = 4"
+    },
+    {
+      "id": "g1-ma-u3-q004",
+      "type": "mcq",
+      "question": "كان عندي 6 تفاحات وأكلت 2، كم بقي معي؟",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "8"
+      ],
+      "answer": "4",
+      "explanation": "6 - 2 = 4 تفاحات."
+    },
+    {
+      "id": "g1-ma-u3-q005",
+      "type": "short_answer",
+      "question": "احسب: 9 - 5 = ؟",
+      "answer": "4",
+      "explanation": "9 - 5 = 4"
+    },
+    {
+      "id": "g1-ma-u3-q006",
+      "type": "true_false",
+      "question": "5 - 5 = 1",
+      "answer": false,
+      "explanation": "5 - 5 = 0. أي عدد مطروح من نفسه يساوي صفراً."
+    },
+    {
+      "id": "g1-ma-u3-q007",
+      "type": "mcq",
+      "question": "ما ناتج: 7 - 0 = ؟",
+      "options": [
+        "7",
+        "0",
+        "6",
+        "1"
+      ],
+      "answer": "7",
+      "explanation": "أي عدد مطروح منه صفر يساوي نفسه: 7 - 0 = 7"
+    },
+    {
+      "id": "g1-ma-u3-q008",
+      "type": "fill_blank",
+      "question": "_______ - 3 = 6",
+      "answer": "9",
+      "explanation": "9 - 3 = 6"
+    },
+    {
+      "id": "g1-ma-u3-q009",
+      "type": "mcq",
+      "question": "ما ناتج: 8 - 8 = ؟",
+      "options": [
+        "0",
+        "1",
+        "8",
+        "16"
+      ],
+      "answer": "0",
+      "explanation": "8 - 8 = 0. أي عدد مطروح من نفسه يساوي صفراً."
+    },
+    {
+      "id": "g1-ma-u3-q010",
+      "type": "short_answer",
+      "question": "في الحديقة 9 عصافير، طارت 4 منها. كم بقي في الحديقة؟",
+      "answer": "5 عصافير (9 - 4 = 5)",
+      "explanation": "9 - 4 = 5 عصافير بقيت في الحديقة."
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-03-madd-lazim-lquiz",
       "title": "اختبار درس - المد اللازم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-islamic-studies-c1-l3-1",
       "title": "المد اللازم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

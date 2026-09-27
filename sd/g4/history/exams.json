@@ -8,6 +8,7 @@
     {
       "id": "g4-history-final-exam-4160",
       "title": "Final Exam - History - G4",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

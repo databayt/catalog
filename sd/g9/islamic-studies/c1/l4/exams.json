@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-04-madd-lazim-harfi-lquiz",
       "title": "اختبار درس - المد اللازم الحرفي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-islamic-studies-c1-l4-1",
       "title": "المد اللازم الحرفي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

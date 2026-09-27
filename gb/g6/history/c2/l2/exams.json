@@ -10,7 +10,7 @@
     {
       "id": "g6-his-unit-02-britain-wwii-02-sources-quiz",
       "title": "Quiz: Using Historical Sources",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

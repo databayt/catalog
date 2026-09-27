@@ -9,6 +9,7 @@
     {
       "id": "g2-mat-unit-01-place-value-1000-exam",
       "title": "Exam: Place Value to 1,000",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

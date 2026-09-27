@@ -10,7 +10,7 @@
     {
       "id": "g1-his-unit-02-significant-people-01-florence-nightingale-quiz",
       "title": "Quiz: Florence Nightingale",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

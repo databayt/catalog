@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-03-quiz",
       "title": "اختبار - النسبة المئوية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

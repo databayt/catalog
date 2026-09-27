@@ -10,7 +10,7 @@
     {
       "id": "g3-soc-unit-01-local-government-01-government-quiz",
       "title": "Quiz: Why We Have Government",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

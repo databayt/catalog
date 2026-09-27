@@ -10,7 +10,7 @@
     {
       "id": "g11-uae-unit-01-identity-01-national-identity-quiz",
       "title": "Quiz: National Identity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

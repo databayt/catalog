@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-lq01",
+      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q01",
       "type": "mcq",
       "question": "ما ناتج (x + 3)(x - 3)؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
     },
     {
-      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-lq02",
+      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q02",
       "type": "true_false",
       "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
       "options": [

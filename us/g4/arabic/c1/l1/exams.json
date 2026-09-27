@@ -10,7 +10,7 @@
     {
       "id": "g4-ara-unit-01-sentence-01-noun-verb-quiz",
       "title": "Quiz: الاسم والفعل والحرف",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

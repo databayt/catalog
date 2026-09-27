@@ -10,7 +10,7 @@
     {
       "id": "g5-ict-unit-3-01-الرسام-lquiz",
       "title": "اختبار - الرسام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

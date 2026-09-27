@@ -8,7 +8,7 @@
     {
       "id": "gb-g12-further-math-1",
       "title": "Test",
-      "kind": "test",
+      "type": "final",
       "durationMinutes": 60,
       "questions": [
         {

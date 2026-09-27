@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-02-physics-01-electricity-quiz",
       "title": "Quiz: Electricity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

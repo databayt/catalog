@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-05-03-consequence-of-chivalry-lquiz",
       "title": "اختبار - عاقبة المروءة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

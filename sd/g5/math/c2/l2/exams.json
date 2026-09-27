@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-02-improper-to-mixed-lquiz",
       "title": "اختبار - تحويل الكسر غير العادي إلى كسر مركب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

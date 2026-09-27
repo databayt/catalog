@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-04-10-tangent-lquiz",
       "title": "اختبار درس - مماس الدائرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c4-l10-1",
       "title": "مماس الدائرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

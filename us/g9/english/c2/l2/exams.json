@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-02-composition-02-rhetoric-quiz",
       "title": "Quiz: Rhetorical Appeals",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

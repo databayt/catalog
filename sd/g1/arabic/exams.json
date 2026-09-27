@@ -8,6 +8,7 @@
     {
       "id": "g1-ar-final-exam-01",
       "title": "الاختبار النهائي - اللغة العربية - الصف الأول",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

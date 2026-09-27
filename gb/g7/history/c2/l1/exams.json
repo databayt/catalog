@@ -10,7 +10,7 @@
     {
       "id": "g7-his-unit-02-medieval-church-01-church-power-quiz",
       "title": "Quiz: The Power of the Church",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

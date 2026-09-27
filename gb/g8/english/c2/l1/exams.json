@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-02-nonfiction-01-analysis-quiz",
       "title": "Quiz: Analysing Non-Fiction",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

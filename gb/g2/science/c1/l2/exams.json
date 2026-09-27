@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-01-living-02-living-nonliving-quiz",
       "title": "Quiz: Living, Dead & Never Alive",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

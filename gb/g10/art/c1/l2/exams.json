@@ -10,7 +10,7 @@
     {
       "id": "g10-art-unit-01-formal-elements-02-media-quiz",
       "title": "Quiz: Media & Techniques",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

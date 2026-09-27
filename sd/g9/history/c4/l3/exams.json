@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-04-03-united-nations-lquiz",
       "title": "اختبار درس - هيأة الأمم المتحدة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-04-03-united-nations-lquiz-2",
       "title": "اختبار درس - هيأة الأمم المتحدة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

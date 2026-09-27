@@ -10,7 +10,7 @@
     {
       "id": "g1-ara-unit-01-letters-02-letter-sounds-quiz",
       "title": "Quiz: أصوات الحروف",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

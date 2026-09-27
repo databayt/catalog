@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-02-forests-deserts-and-mountains-lquiz",
       "title": "اختبار - Forests, Deserts and Mountains",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

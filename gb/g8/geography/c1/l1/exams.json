@@ -10,7 +10,7 @@
     {
       "id": "g8-geo-unit-01-population-01-population-quiz",
       "title": "Quiz: Population Distribution",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

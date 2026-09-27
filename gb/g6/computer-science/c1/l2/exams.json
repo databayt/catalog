@@ -10,7 +10,7 @@
     {
       "id": "g6-com-unit-01-algorithms-02-programming-quiz",
       "title": "Quiz: Simple Programs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

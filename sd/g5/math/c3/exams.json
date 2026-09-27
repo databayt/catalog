@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-03-quiz",
       "title": "اختبار - الكسور العشرية والعمليات عليها",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g8-sci-unit-02-earth-space-exam",
       "title": "Exam: Earth & Space Systems",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-03-10-environmental-awareness-lquiz",
       "title": "اختبار درس - دور الثقافة والتوعية البيئية والمجتمع المدني",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-03-10-environmental-awareness-lquiz-2",
       "title": "اختبار درس - دور الثقافة والتوعية البيئية والمجتمع المدني",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

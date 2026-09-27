@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-02-writing-01-conjunctions-quiz",
       "title": "Quiz: Joining Words",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

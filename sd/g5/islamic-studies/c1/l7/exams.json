@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-07-surah-al-qalam-lquiz",
       "title": "اختبار - سورة القلم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

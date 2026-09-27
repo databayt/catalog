@@ -9,6 +9,7 @@
     {
       "id": "g9-tec-unit-2-woodwork-quiz",
       "title": "اختبار - الأعمال الخشبية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

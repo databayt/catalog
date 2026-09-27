@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-02-resources-01-resources-quiz",
       "title": "Quiz: Managing Resources",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

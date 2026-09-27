@@ -10,7 +10,7 @@
     {
       "id": "g5-soc-unit-01-colonies-02-independence-quiz",
       "title": "Quiz: The American Revolution",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

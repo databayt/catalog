@@ -9,6 +9,7 @@
     {
       "id": "g10-geo-unit-02-quiz",
       "title": "اختبار - المناخ والظواهر الطبيعية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [
@@ -93,6 +94,7 @@
     {
       "id": "g10-geo-unit-02-quiz-2",
       "title": "اختبار - المناخ والظواهر الطبيعية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

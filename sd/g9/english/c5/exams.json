@@ -9,6 +9,7 @@
     {
       "id": "g9-eng-unit-05-quiz",
       "title": "اختبار - Food and Health",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-eng-unit-05-quiz-2",
       "title": "اختبار - Food and Health",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

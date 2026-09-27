@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-07-06-median-lquiz",
       "title": "اختبار درس - الوسيط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c7-l6-1",
       "title": "الوسيط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

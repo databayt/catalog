@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-03-01-electric-current-concept-lquiz",
       "title": "اختبار درس - مفهوم التيار الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-03-01-electric-current-concept-lquiz-2",
       "title": "اختبار درس - مفهوم التيار الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

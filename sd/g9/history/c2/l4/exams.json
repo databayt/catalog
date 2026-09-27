@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-04-ottoman-governance-system-lquiz",
       "title": "اختبار درس - نظم الحكم العثماني للولايات العربية ونتائجها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-02-04-ottoman-governance-system-lquiz-2",
       "title": "اختبار درس - نظم الحكم العثماني للولايات العربية ونتائجها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

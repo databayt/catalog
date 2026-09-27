@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-03-geometry-angles-01-angle-types-quiz",
       "title": "Quiz: Types of Angles",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

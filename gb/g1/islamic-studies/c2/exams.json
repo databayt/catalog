@@ -9,6 +9,7 @@
     {
       "id": "g1-isl-unit-02-manners-exam",
       "title": "Exam: الآداب الإسلامية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

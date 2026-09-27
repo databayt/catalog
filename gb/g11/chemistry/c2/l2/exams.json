@@ -10,7 +10,7 @@
     {
       "id": "g11-che-unit-02-rates-energy-02-energy-quiz",
       "title": "Quiz: Energy Changes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

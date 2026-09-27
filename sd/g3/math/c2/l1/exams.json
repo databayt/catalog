@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-02-exam-7043",
       "title": "Lesson Quiz - 01-multiplying-by-1-and-0 - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

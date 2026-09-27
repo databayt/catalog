@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-mat-unit-05-01-perimeter-concept-lq01",
+      "id": "g5-mat-unit-05-01-perimeter-concept-q01",
       "type": "mcq",
       "question": "ما محيط مربع طول ضلعه 7 سم؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
     },
     {
-      "id": "g5-mat-unit-05-01-perimeter-concept-lq02",
+      "id": "g5-mat-unit-05-01-perimeter-concept-q02",
       "type": "true_false",
       "question": "المستطيل له أربعة زوايا قائمة.",
       "options": [

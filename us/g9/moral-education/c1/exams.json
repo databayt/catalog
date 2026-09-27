@@ -9,6 +9,7 @@
     {
       "id": "g9-mor-unit-01-economy-exam",
       "title": "Exam: Economy & Development",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

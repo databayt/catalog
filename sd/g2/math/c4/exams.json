@@ -9,6 +9,7 @@
     {
       "id": "g2-math-unit-4-division-exam-7226",
       "title": "Chapter Exam - unit-4-division - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

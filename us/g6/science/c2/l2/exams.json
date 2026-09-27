@@ -10,7 +10,7 @@
     {
       "id": "g6-sci-unit-02-matter-energy-02-energy-quiz",
       "title": "Quiz: Energy & Heat Transfer",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

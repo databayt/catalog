@@ -10,7 +10,7 @@
     {
       "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-quiz",
       "title": "Quiz: Climate Zones",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

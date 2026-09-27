@@ -10,7 +10,7 @@
     {
       "id": "g6-his-unit-02-britain-wwii-01-home-front-quiz",
       "title": "Quiz: The Home Front",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

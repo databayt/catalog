@@ -1,0 +1,110 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g8-ma-unitproportion-q001",
+      "type": "mcq",
+      "question": "ما النسبة بين 4 و 8؟",
+      "options": [
+        "1:2",
+        "2:4",
+        "4:8",
+        "كل ما سبق"
+      ],
+      "answer": "كل ما سبق",
+      "explanation": "جميع هذه النسب متكافئة"
+    },
+    {
+      "id": "g8-ma-unitproportion-q002",
+      "type": "true_false",
+      "question": "4:6 و 2:3 نسبتان متكافئتان",
+      "answer": true,
+      "explanation": "صحيح، 4/6 = 2/3"
+    },
+    {
+      "id": "g8-ma-unitproportion-q003",
+      "type": "mcq",
+      "question": "حل النسبة: x/5 = 6/10",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "x = (5×6)/10 = 3"
+    },
+    {
+      "id": "g8-ma-unitproportion-q004",
+      "type": "fill_blank",
+      "question": "إذا كانت 3:x = 6:10، فإن x = ___",
+      "answer": "5",
+      "explanation": "3×10 = 6×x، x = 5"
+    },
+    {
+      "id": "g8-ma-unitproportion-q005",
+      "type": "mcq",
+      "question": "في التناسب a:b = c:d، ما يسمى الحدود الوسطى؟",
+      "options": [
+        "a و d",
+        "b و c",
+        "a و b",
+        "c و d"
+      ],
+      "answer": "b و c",
+      "explanation": "b و c هما الحدود الوسطى"
+    },
+    {
+      "id": "g8-ma-unitproportion-q006",
+      "type": "short_answer",
+      "question": "قسم 100 بنسبة 3:2",
+      "answer": "60 و 40",
+      "explanation": "3/(3+2) × 100 = 60 و 2/5 × 100 = 40"
+    },
+    {
+      "id": "g8-ma-unitproportion-q007",
+      "type": "true_false",
+      "question": "1:2 = 5:10",
+      "answer": true,
+      "explanation": "صحيح، كلاهما يساوي 1/2"
+    },
+    {
+      "id": "g8-ma-unitproportion-q008",
+      "type": "mcq",
+      "question": "ما حاصل ضرب الحدود الطرفية في التناسب 2:3 = 4:6؟",
+      "options": [
+        "8",
+        "12",
+        "18",
+        "24"
+      ],
+      "answer": "12",
+      "explanation": "2×6 = 12"
+    },
+    {
+      "id": "g8-ma-unitproportion-q009",
+      "type": "fill_blank",
+      "question": "في التناسب a:b = c:d، نسميها ___",
+      "answer": "تناسب",
+      "explanation": "عندما تكون النسب متساوية"
+    },
+    {
+      "id": "g8-ma-unitproportion-q010",
+      "type": "mcq",
+      "question": "إذا كانت النسبة 1:5، فكم الجزء من الكل؟",
+      "options": [
+        "1/5",
+        "1/6",
+        "5/6",
+        "2/5"
+      ],
+      "answer": "1/6",
+      "explanation": "1/(1+5) = 1/6"
+    }
+  ]
+}

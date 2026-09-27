@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-02-writing-02-citing-quiz",
       "title": "Quiz: Citing Evidence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

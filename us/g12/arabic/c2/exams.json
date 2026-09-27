@@ -9,6 +9,7 @@
     {
       "id": "g12-ara-unit-02-schools-exam",
       "title": "Exam: المدارس الأدبية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

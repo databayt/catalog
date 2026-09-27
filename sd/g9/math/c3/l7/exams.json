@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-03-07-word-problems-lquiz",
       "title": "اختبار درس - مسائل لفظية على المعادلات الآنية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c3-l7-1",
       "title": "مسائل لفظية على المعادلات الآنية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

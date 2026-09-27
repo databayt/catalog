@@ -10,7 +10,7 @@
     {
       "id": "g7-uae-unit-01-government-01-government-quiz",
       "title": "Quiz: How the UAE is Governed",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

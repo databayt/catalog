@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-03-03-graphical-solution-lquiz",
       "title": "اختبار درس - حل المعادلات الآنية من الدرجة الأولى في مجهولين بيانياً",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c3-l3-1",
       "title": "حل المعادلات الآنية من الدرجة الأولى في مجهولين بيانياً",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

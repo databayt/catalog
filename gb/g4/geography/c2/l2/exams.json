@@ -10,7 +10,7 @@
     {
       "id": "g4-geo-unit-02-climate-biomes-02-biomes-quiz",
       "title": "Quiz: World Biomes",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

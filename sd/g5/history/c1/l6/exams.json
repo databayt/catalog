@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-1-06-ممالكالنوبةالمسيحية-lquiz",
       "title": "اختبار - ممالك النوبة المسيحية..............................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g4-art-unit-02-making-exam",
       "title": "Exam: Making Art",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

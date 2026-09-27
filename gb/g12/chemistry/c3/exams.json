@@ -9,6 +9,7 @@
     {
       "id": "g12-che-unit-03-organic-chemistry-exam",
       "title": "Exam: Organic Chemistry",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 10,
       "questions": [

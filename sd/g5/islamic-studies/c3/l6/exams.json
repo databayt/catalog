@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-03-06-names-of-allah-3-lquiz",
       "title": "اختبار - المجموعة الثالثة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

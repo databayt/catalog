@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-03-a-clean-environment-lquiz",
       "title": "اختبار - A Clean Environment",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

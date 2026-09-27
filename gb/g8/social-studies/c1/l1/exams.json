@@ -10,7 +10,7 @@
     {
       "id": "g8-uae-unit-01-uae-world-01-diplomacy-quiz",
       "title": "Quiz: The UAE in the World",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

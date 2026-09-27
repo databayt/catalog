@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-03-03-doing-good-deeds-lquiz",
       "title": "اختبار - فعل الخيرات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

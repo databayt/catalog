@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-02-styles-01-istfham-quiz",
       "title": "Quiz: أسلوب الاستفهام",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

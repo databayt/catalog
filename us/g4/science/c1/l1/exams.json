@@ -10,7 +10,7 @@
     {
       "id": "g4-sci-unit-01-energy-01-energy-forms-quiz",
       "title": "Quiz: Forms of Energy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

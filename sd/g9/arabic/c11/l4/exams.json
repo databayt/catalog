@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-11-04-spelling-lquiz",
       "title": "اختبار درس - الإملاء: من الدليل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

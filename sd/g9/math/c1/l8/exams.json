@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-08-inverse-function-lquiz",
       "title": "اختبار درس - التطبيق العكسي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c1-l8-1",
       "title": "التطبيق العكسي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

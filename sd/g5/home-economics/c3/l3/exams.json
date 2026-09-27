@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-03-14-cutting-apron-lquiz",
       "title": "اختبار - قص مريلة لطفل صغير",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,37 +8,6 @@
   },
   "questions": [
     {
-      "id": "g9-mat-unit-08-01-volume-concept-lq01",
-      "type": "mcq",
-      "question": "أي العمليات الحسابية التالية صحيحة؟",
-      "options": [
-        "15 ÷ 3 = 5",
-        "15 ÷ 3 = 6",
-        "15 ÷ 3 = 4",
-        "15 ÷ 3 = 3"
-      ],
-      "answer": "15 ÷ 3 = 5",
-      "explanation": "15 ÷ 3 = 5 صحيحة."
-    },
-    {
-      "id": "g9-mat-unit-08-01-volume-concept-lq02",
-      "type": "true_false",
-      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
-      "options": [
-        "صحيح",
-        "خاطئ"
-      ],
-      "answer": true,
-      "explanation": "الأعداد السالبة على يسار الصفر."
-    },
-    {
-      "id": "g9-mat-unit-08-01-volume-concept-lq03",
-      "type": "fill_blank",
-      "question": "ناتج 7 × 8 = ___.",
-      "answer": "56",
-      "explanation": "7 × 8 = 56."
-    },
-    {
       "id": "g9-mat-unit-08-01-volume-concept-lq04",
       "type": "short_answer",
       "question": "ما القانون المستخدم لحل الفصل 8 في مادة الرياضيات؟",

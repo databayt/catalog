@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-01-02-literature-lquiz",
       "title": "اختبار درس - الأدب: كن جميلاً (إيليا أبو ماضي)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-arabic-c1-l2-1",
       "title": "الأدب: كن جميلاً (إيليا أبو ماضي)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

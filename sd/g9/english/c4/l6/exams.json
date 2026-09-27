@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-04-06-who-gets-paid-the-most-lquiz",
       "title": "اختبار درس - Who Gets Paid the Most?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-04-06-who-gets-paid-the-most-lquiz-2",
       "title": "اختبار درس - Who Gets Paid the Most?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

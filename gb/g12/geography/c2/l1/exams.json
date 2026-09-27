@@ -10,7 +10,7 @@
     {
       "id": "g12-geo-unit-02-global-places-01-global-systems-quiz",
       "title": "Quiz: Global Systems & Governance",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g8-isl-unit-01-fiqh-sahaba-01-fiqh-quiz",
       "title": "Quiz: الفقه: الطهارة والصلاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g3-his-unit-01-stone-age-01-stone-age-quiz",
       "title": "Quiz: Life in the Stone Age",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

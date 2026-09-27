@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-3-06-عواملووسائلانتشاراإلسالمفيإفريقيا-lquiz",
       "title": "اختبار - عوامل ووسائل انتشار اإلسالم في إفريقيا ........",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

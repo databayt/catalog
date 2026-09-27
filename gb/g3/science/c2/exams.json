@@ -9,6 +9,7 @@
     {
       "id": "g3-sci-unit-02-light-exam",
       "title": "Exam: Light",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

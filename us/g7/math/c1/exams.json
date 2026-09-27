@@ -9,6 +9,7 @@
     {
       "id": "g7-mat-unit-01-rational-numbers-exam",
       "title": "Exam: Operations with Rational Numbers",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

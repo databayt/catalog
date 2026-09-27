@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-07-01-learning-a-lesson-lquiz",
       "title": "اختبار درس - Learning a Lesson",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-07-01-learning-a-lesson-lquiz-2",
       "title": "اختبار درس - Learning a Lesson",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

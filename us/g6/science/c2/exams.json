@@ -9,6 +9,7 @@
     {
       "id": "g6-sci-unit-02-matter-energy-exam",
       "title": "Exam: Matter & Energy",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

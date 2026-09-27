@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-06-02-preparing-for-battle-lquiz",
       "title": "اختبار درس - الاستعداد لمقابلة الأعداء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-06-02-preparing-for-battle-lquiz-2",
       "title": "اختبار درس - الاستعداد لمقابلة الأعداء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-soc-unit-02-native-peoples-02-exploration-quiz",
       "title": "Quiz: European Exploration",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

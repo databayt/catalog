@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g1-en-u1-q001",
+      "type": "mcq",
+      "question": "How do you greet someone? Choose the correct answer.",
+      "options": [
+        "Hello!",
+        "Goodbye!",
+        "Thank you!",
+        "Sorry!"
+      ],
+      "answer": "Hello!",
+      "explanation": "'Hello!' is a greeting used to say hi to someone."
+    },
+    {
+      "id": "g1-en-u1-q002",
+      "type": "true_false",
+      "question": "We say 'Hello' when we meet someone for the first time.",
+      "answer": true,
+      "explanation": "'Hello' is used as a greeting when we meet someone."
+    },
+    {
+      "id": "g1-en-u1-q003",
+      "type": "fill_blank",
+      "question": "Complete: My _______ is Fatma. (name / color / age)",
+      "answer": "name",
+      "explanation": "We say 'My name is...' to introduce ourselves."
+    },
+    {
+      "id": "g1-en-u1-q004",
+      "type": "mcq",
+      "question": "What do you say when someone says 'Hello'?",
+      "options": [
+        "Hello!",
+        "Sit down!",
+        "Open your book!",
+        "Stand up!"
+      ],
+      "answer": "Hello!",
+      "explanation": "We reply to 'Hello' with 'Hello!'"
+    },
+    {
+      "id": "g1-en-u1-q005",
+      "type": "short_answer",
+      "question": "What is your name? Write your answer.",
+      "answer": "My name is [student name].",
+      "explanation": "We use 'My name is...' to introduce ourselves."
+    },
+    {
+      "id": "g1-en-u1-q006",
+      "type": "true_false",
+      "question": "'Hi' and 'Hello' both mean the same thing.",
+      "answer": true,
+      "explanation": "'Hi' and 'Hello' are both informal greetings."
+    },
+    {
+      "id": "g1-en-u1-q007",
+      "type": "mcq",
+      "question": "Which word is a greeting?",
+      "options": [
+        "Hello",
+        "Apple",
+        "Book",
+        "Chair"
+      ],
+      "answer": "Hello",
+      "explanation": "'Hello' is a greeting word."
+    },
+    {
+      "id": "g1-en-u1-q008",
+      "type": "fill_blank",
+      "question": "What's your _______? My name's Cathy.",
+      "answer": "name",
+      "explanation": "The question 'What's your name?' asks for your name."
+    },
+    {
+      "id": "g1-en-u1-q009",
+      "type": "mcq",
+      "question": "How do you say goodbye in English?",
+      "options": [
+        "Goodbye!",
+        "Hello!",
+        "Good morning!",
+        "Please!"
+      ],
+      "answer": "Goodbye!",
+      "explanation": "'Goodbye!' is used when leaving or saying farewell."
+    },
+    {
+      "id": "g1-en-u1-q010",
+      "type": "short_answer",
+      "question": "Write a sentence to greet your teacher.",
+      "answer": "Hello, teacher! / Good morning, teacher!",
+      "explanation": "We greet our teacher with 'Hello' or 'Good morning'."
+    }
+  ]
+}

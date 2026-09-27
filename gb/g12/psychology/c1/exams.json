@@ -9,6 +9,7 @@
     {
       "id": "g12-psy-unit-01-approaches-exam",
       "title": "Exam: Approaches & Studies",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

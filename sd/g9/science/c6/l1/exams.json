@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-06-01-protozoa-lquiz",
       "title": "اختبار درس - الأوليات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-06-01-protozoa-lquiz-2",
       "title": "اختبار درس - الأوليات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

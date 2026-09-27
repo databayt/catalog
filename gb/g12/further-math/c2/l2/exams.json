@@ -10,7 +10,7 @@
     {
       "id": "g12-fur-unit-02-further-02-algorithms-quiz",
       "title": "Quiz: Decision Maths",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

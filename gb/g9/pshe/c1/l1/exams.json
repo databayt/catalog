@@ -10,7 +10,7 @@
     {
       "id": "g9-psh-unit-01-wellbeing-01-healthy-living-quiz",
       "title": "Quiz: Healthy Living",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

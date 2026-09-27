@@ -9,6 +9,7 @@
     {
       "id": "g5-hom-unit-02-quiz",
       "title": "اختبار - صناعة الملابس",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-02-decorative-design-lquiz",
       "title": "اختبار - تصميم زخرفي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

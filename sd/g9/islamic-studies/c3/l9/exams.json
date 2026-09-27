@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-03-09-alcohol-key-to-evil-lquiz",
       "title": "اختبار درس - الخمر مفتاح الشر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-03-09-alcohol-key-to-evil-lquiz-2",
       "title": "اختبار درس - الخمر مفتاح الشر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

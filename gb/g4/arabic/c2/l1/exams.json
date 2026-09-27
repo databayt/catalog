@@ -10,7 +10,7 @@
     {
       "id": "g4-ara-unit-02-spelling-01-spelling-quiz",
       "title": "Quiz: الإملاء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g4-isl-unit-02-seerah-02-akhlaq-quiz",
       "title": "Quiz: أخلاق النبي ﷺ",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

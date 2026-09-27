@@ -9,6 +9,7 @@
     {
       "id": "g9-ara-unit-02-styles-exam",
       "title": "Exam: الأساليب اللغوية",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

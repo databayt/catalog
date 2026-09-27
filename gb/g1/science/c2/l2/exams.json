@@ -10,7 +10,7 @@
     {
       "id": "g1-sci-unit-02-animals-02-senses-quiz",
       "title": "Quiz: The Five Senses",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

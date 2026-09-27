@@ -9,6 +9,7 @@
     {
       "id": "g12-eng-unit-02-poetry-criticism-exam",
       "title": "Exam: Poetry & Literary Criticism",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

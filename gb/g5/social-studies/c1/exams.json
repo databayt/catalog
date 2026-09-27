@@ -9,6 +9,7 @@
     {
       "id": "g5-uae-unit-01-history-exam",
       "title": "Exam: UAE History & Founding",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

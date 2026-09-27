@@ -10,7 +10,7 @@
     {
       "id": "g5-eng-unit-01-reading-01-themes-quiz",
       "title": "Quiz: Themes & Conventions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

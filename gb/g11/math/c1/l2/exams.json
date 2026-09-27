@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-01-number-ratio-02-percentages-quiz",
       "title": "Quiz: Percentages & Growth",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

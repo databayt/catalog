@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u02-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النطق الصحيح",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: تركيب الجمل",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الدرس الثاني",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    }
+  ]
+}

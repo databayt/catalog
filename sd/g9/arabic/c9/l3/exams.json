@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-09-03-grammar-lquiz",
       "title": "اختبار درس - النحو: نصب الفعل المضارع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-ara-unit-09-03-grammar-lquiz-2",
       "title": "اختبار درس - النحو: نصب الفعل المضارع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

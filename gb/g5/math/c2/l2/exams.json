@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-fractions-decimals-percent-02-add-fractions-quiz",
       "title": "Quiz: Adding Fractions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

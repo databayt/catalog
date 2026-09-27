@@ -9,6 +9,7 @@
     {
       "id": "g6-com-unit-01-algorithms-exam",
       "title": "Exam: Algorithms & Programming",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

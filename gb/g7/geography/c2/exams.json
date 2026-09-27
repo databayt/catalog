@@ -9,6 +9,7 @@
     {
       "id": "g7-geo-unit-02-weather-climate-exam",
       "title": "Exam: Weather & Climate",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

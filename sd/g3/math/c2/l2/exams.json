@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-02-exam-5073",
       "title": "Lesson Quiz - 02-multiplication-table-7 - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-04-08-acids-and-bases-lquiz",
       "title": "اختبار درس - الأحماض والقواعد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-04-08-acids-and-bases-lquiz-2",
       "title": "اختبار درس - الأحماض والقواعد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

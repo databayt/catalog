@@ -9,6 +9,7 @@
     {
       "id": "g4-ict-unit-4-computer-safety-exam-7998",
       "title": "Chapter Exam - unit-4-computer-safety - Ict",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

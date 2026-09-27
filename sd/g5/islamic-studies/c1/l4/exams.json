@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-04-surah-al-muddaththir-lquiz",
       "title": "اختبار - سورة المدثر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-ict-unit-4-02-العملياتاألساسية-lquiz",
       "title": "اختبار - العمليات األساسية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

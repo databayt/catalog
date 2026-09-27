@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-06-01-presenting-islam-to-all-lquiz",
       "title": "اختبار - عرض الإسلام على الجميع",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

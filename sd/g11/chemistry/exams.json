@@ -8,6 +8,7 @@
     {
       "id": "g11-che-final",
       "title": "الامتحان النهائي - الكيمياء",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

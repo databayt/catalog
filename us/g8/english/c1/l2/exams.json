@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-reading-02-compare-mediums-quiz",
       "title": "Quiz: Analyzing Across Texts",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

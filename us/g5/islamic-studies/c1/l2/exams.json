@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-01-quran-02-hajj-quiz",
       "title": "Quiz: الحج",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

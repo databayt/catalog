@@ -9,6 +9,7 @@
     {
       "id": "g11-che-unit-01-chemical-changes-exam",
       "title": "Exam: Chemical Changes",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

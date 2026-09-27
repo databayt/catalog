@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-03-writing-01-paragraphs-quiz",
       "title": "Quiz: Writing a Paragraph",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

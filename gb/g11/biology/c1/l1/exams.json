@@ -10,7 +10,7 @@
     {
       "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-quiz",
       "title": "Quiz: Photosynthesis",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

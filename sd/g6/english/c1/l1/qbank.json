@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g6-eng-unit-1-anna-and-the-fighter-01-chapter-1-lq01",
+      "id": "g6-eng-unit-1-anna-and-the-fighter-01-chapter-1-q01",
       "type": "mcq",
       "question": "What does 'environment' mean?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "'Environment' refers to the natural world and surroundings."
     },
     {
-      "id": "g6-eng-unit-1-anna-and-the-fighter-01-chapter-1-lq02",
+      "id": "g6-eng-unit-1-anna-and-the-fighter-01-chapter-1-q02",
       "type": "true_false",
       "question": "The word 'annual' means happening every year.",
       "options": [

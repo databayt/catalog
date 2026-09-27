@@ -10,7 +10,7 @@
     {
       "id": "g1-sci-unit-01-plants-01-plant-parts-quiz",
       "title": "Quiz: Parts of a Plant",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

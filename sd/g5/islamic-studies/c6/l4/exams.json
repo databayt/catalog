@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-06-04-bilal-ibn-rabah-lquiz",
       "title": "اختبار - سيدنا بلال بن رباح رضي الله عنه",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-his-unit-3-02-موقعإفريقياوسكانها-lquiz",
       "title": "اختبار - موقع إفريقيا وسكانها .................................",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

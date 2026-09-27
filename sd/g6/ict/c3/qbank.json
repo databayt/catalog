@@ -1,0 +1,34 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "ict",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g6-ict-unit-4-office-applications-18-presentations-q01",
+      "type": "mcq",
+      "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+      "options": [
+        "معالجة النصوص والكتابة",
+        "تحرير الصور",
+        "تشغيل الألعاب",
+        "إرسال الرسائل"
+      ],
+      "answer": "معالجة النصوص والكتابة",
+      "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+    },
+    {
+      "id": "g6-ict-unit-4-office-applications-18-presentations-q02",
+      "type": "true_false",
+      "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": ".docx هو امتداد ملفات Word."
+    }
+  ]
+}

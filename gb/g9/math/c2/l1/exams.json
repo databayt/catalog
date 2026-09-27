@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-pythagoras-01-pythagoras-quiz",
       "title": "Quiz: Pythagoras' Theorem",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

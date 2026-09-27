@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-02-01-population-lquiz",
       "title": "اختبار درس - سكان السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-geo-unit-02-01-population-lquiz-2",
       "title": "اختبار درس - سكان السودان",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

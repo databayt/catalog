@@ -10,7 +10,7 @@
     {
       "id": "g4-art-unit-02-making-01-drawing-quiz",
       "title": "Quiz: Observational Drawing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

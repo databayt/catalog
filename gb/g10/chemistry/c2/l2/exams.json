@@ -10,7 +10,7 @@
     {
       "id": "g10-che-unit-02-bonding-02-moles-quiz",
       "title": "Quiz: Moles & Reacting Masses",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

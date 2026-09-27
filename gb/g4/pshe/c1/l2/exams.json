@@ -10,7 +10,7 @@
     {
       "id": "g4-psh-unit-01-wellbeing-02-emotions-quiz",
       "title": "Quiz: Emotions & Mental Health",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

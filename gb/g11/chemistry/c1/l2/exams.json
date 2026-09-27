@@ -10,7 +10,7 @@
     {
       "id": "g11-che-unit-01-chemical-changes-02-electrolysis-quiz",
       "title": "Quiz: Electrolysis",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

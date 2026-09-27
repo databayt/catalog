@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-14-divide-whole-by-decimal-lquiz",
       "title": "اختبار - قسمة عدد صحيح على كسر عشري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

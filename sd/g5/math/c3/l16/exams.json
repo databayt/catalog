@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-16-finding-missing-number-lquiz",
       "title": "اختبار - إيجاد العدد المفقود",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

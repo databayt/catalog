@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-08-07-sphere-volume-lquiz",
       "title": "اختبار درس - حجم الكرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c8-l7-1",
       "title": "حجم الكرة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

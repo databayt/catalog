@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-01-pure-01-differentiation-quiz",
       "title": "Quiz: Differentiation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

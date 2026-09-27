@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-quiz",
       "title": "Quiz: Conservation of Matter",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

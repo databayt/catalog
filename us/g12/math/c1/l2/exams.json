@@ -10,7 +10,7 @@
     {
       "id": "g12-mat-unit-01-trig-02-identities-quiz",
       "title": "Quiz: Trig Identities",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

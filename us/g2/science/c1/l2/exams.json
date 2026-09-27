@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-01-matter-02-changes-quiz",
       "title": "Quiz: Changing Materials",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

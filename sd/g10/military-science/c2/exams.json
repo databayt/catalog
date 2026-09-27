@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-1-quiz",
       "title": "اختبار - مصطلحات عسكرية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

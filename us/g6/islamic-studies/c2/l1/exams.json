@@ -10,7 +10,7 @@
     {
       "id": "g6-isl-unit-02-worship-01-prayer-quiz",
       "title": "Quiz: الصلاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

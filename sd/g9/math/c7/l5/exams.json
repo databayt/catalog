@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-07-05-arithmetic-mean-lquiz",
       "title": "اختبار درس - الوسط الحسابي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c7-l5-1",
       "title": "الوسط الحسابي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

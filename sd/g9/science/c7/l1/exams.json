@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-07-01-minerals-lquiz",
       "title": "اختبار درس - المعادن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-07-01-minerals-lquiz-2",
       "title": "اختبار درس - المعادن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

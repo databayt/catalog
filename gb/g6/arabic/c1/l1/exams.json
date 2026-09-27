@@ -10,7 +10,7 @@
     {
       "id": "g6-ara-unit-01-tenses-01-tenses-quiz",
       "title": "Quiz: الماضي والمضارع والأمر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

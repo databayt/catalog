@@ -9,6 +9,7 @@
     {
       "id": "g11-eng-unit-02-poetry-exam",
       "title": "Exam: Poetry Anthology & Unseen",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

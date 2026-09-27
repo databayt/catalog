@@ -10,7 +10,7 @@
     {
       "id": "g12-bus-unit-01-enterprise-02-marketing-quiz",
       "title": "Quiz: The Marketing Mix",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

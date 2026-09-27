@@ -10,7 +10,7 @@
     {
       "id": "g5-geo-unit-01-01-what-is-geography-lquiz",
       "title": "اختبار - ما هي الجغرافيا",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

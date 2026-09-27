@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-04-04-making-up-prayers-lquiz",
       "title": "اختبار - قضاء الفوائت",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g5-eng-unit-1-01-lesson-1-lq01",
+      "id": "g5-eng-unit-1-01-lesson-1-q01",
       "type": "mcq",
       "question": "What does 'environment' mean?",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "'Environment' refers to the natural world and surroundings."
     },
     {
-      "id": "g5-eng-unit-1-01-lesson-1-lq02",
+      "id": "g5-eng-unit-1-01-lesson-1-q02",
       "type": "true_false",
       "question": "The word 'annual' means happening every year.",
       "options": [

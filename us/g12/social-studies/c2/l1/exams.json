@@ -10,7 +10,7 @@
     {
       "id": "g12-soc-unit-02-economics-01-micro-quiz",
       "title": "Quiz: Markets, Supply & Demand",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-03-03-electric-potential-lquiz",
       "title": "اختبار درس - الجهد الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-03-03-electric-potential-lquiz-2",
       "title": "اختبار درس - الجهد الكهربائي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

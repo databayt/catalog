@@ -10,7 +10,7 @@
     {
       "id": "g5-tec-unit-4-06-طباعةاملستند-lquiz",
       "title": "اختبار - طباعة املستند",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g12-geo-unit-02-global-places-exam",
       "title": "Exam: Global Systems & Changing Places",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

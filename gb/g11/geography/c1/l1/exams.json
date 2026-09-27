@@ -10,7 +10,7 @@
     {
       "id": "g11-geo-unit-01-urban-01-urban-growth-quiz",
       "title": "Quiz: Urban Growth in LICs/NEEs",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

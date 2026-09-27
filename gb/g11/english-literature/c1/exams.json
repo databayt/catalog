@@ -9,6 +9,7 @@
     {
       "id": "g11-eng-unit-01-modern-exam",
       "title": "Exam: Modern Texts",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

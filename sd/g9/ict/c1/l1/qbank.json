@@ -1,0 +1,42 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "ict",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g9-ict-unit-01-01-technology-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-01-01-technology-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-01-01-technology-q03",
+      "type": "fill_blank",
+      "question": "الجيل الخامس من شبكات الاتصال يُعرف بشبكة ___.",
+      "answer": "5G",
+      "explanation": "5G الجيل الخامس من تقنية الاتصالات اللاسلكية."
+    }
+  ]
+}

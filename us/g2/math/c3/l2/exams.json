@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-03-measurement-time-money-02-time-money-quiz",
       "title": "Quiz: Telling Time & Counting Money",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

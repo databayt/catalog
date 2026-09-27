@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-01-04-divisibility-by-8-lquiz",
       "title": "اختبار - قابلية القسمة على ٨",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

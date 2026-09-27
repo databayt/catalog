@@ -10,7 +10,7 @@
     {
       "id": "g12-ara-unit-01-criticism-01-criticism-quiz",
       "title": "Quiz: النقد الأدبي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-04-01-greatness-of-allah-lquiz",
       "title": "اختبار درس - عظمة الله جلّ جلاله",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-04-01-greatness-of-allah-lquiz-2",
       "title": "اختبار درس - عظمة الله جلّ جلاله",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

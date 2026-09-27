@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-03-05-marco-polo-lquiz",
       "title": "اختبار درس - Marco Polo",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-03-05-marco-polo-lquiz-2",
       "title": "اختبار درس - Marco Polo",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

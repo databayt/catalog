@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-01-quadratics-01-quadratics-quiz",
       "title": "Quiz: Quadratic Functions",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

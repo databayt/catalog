@@ -10,7 +10,7 @@
     {
       "id": "g4-mat-unit-01-place-value-multidigit-02-multiply-multidigit-quiz",
       "title": "Quiz: Multi-Digit Multiplication",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

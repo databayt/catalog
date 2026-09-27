@@ -10,7 +10,7 @@
     {
       "id": "g2-sci-unit-01-living-01-habitats-quiz",
       "title": "Quiz: Habitats",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

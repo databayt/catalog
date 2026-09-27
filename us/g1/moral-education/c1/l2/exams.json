@@ -10,7 +10,7 @@
     {
       "id": "g1-mor-unit-01-myself-family-02-being-kind-quiz",
       "title": "Quiz: Being Kind & Respectful",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

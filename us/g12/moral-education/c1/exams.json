@@ -9,6 +9,7 @@
     {
       "id": "g12-mor-unit-01-future-exam",
       "title": "Exam: The UAE's Future & Innovation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

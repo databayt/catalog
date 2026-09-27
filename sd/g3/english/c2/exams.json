@@ -9,6 +9,7 @@
     {
       "id": "g3-english-unit-02-exam-7767",
       "title": "Chapter Exam - unit-02 - English",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

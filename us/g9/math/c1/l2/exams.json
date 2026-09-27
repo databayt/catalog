@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-linear-02-inequalities-quiz",
       "title": "Quiz: Linear Inequalities",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

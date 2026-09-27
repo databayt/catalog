@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-13-04-spelling-lquiz",
       "title": "اختبار درس - الإملاء: حذف ألف ما الاستفهامية باتصالها بحروف الجر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

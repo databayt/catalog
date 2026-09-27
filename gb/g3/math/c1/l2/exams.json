@@ -10,7 +10,7 @@
     {
       "id": "g3-mat-unit-01-place-value-1000-02-add-sub-quiz",
       "title": "Quiz: Adding & Subtracting 3-Digit Numbers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

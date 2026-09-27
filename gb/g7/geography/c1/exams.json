@@ -9,6 +9,7 @@
     {
       "id": "g7-geo-unit-01-tectonics-exam",
       "title": "Exam: Tectonic Hazards",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

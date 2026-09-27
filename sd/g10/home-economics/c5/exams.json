@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-5-quiz",
       "title": "اختبار - الوحدة الخامسة: صحة الأسرة والأمراض المعدية",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

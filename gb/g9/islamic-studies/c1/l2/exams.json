@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-aqeedah-akhlaq-02-ethics-quiz",
       "title": "Quiz: أخلاق المسلم",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

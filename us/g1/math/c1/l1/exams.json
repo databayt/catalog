@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-quiz",
       "title": "Quiz: Counting to 120",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

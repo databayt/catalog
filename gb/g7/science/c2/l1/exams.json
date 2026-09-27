@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-02-chemistry-01-states-quiz",
       "title": "Quiz: States of Matter",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

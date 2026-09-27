@@ -120,6 +120,8 @@ const report = {
   scratch: 0,
   droppedQuestions: [] as string[],
   placeholderQuestions: 0,
+  placed: { subject: 0, chapter: 0, lesson: 0 },
+  duplicates: 0,
   archived: [] as string[],
   errors: [] as string[],
 }
@@ -259,6 +261,25 @@ type Q = {
   explanation?: string
 }
 
+/**
+ * Template filler: "Question 2 about <unit>" + "Generic explanation", and the
+ * family hogwarts' sd-content gate caught ("Which concept is most important in
+ * unit-01?", options "A) Concept 1", "Based on the curriculum…").
+ */
+function isPlaceholder(question: string, q: Record<string, unknown>): boolean {
+  const explanation = String(q.explanation ?? "")
+  const options = Array.isArray(q.options) ? q.options.map(String) : []
+  return (
+    /^Question \d+ about /.test(question) ||
+    explanation === "Generic explanation" ||
+    (/unit-?\d+/i.test(question) && /concept/i.test(question)) ||
+    /Important concepts from unit/i.test(question) ||
+    /^Explain the main topics covered in/i.test(question) ||
+    options.some((o) => /^[A-D]\)\s*(Concept|Option)\s*\d/i.test(o)) ||
+    /^Based on the curriculum/i.test(explanation)
+  )
+}
+
 function normQuestions(raw: unknown, where: string): Q[] {
   if (!Array.isArray(raw)) return []
   const out: Q[] = []
@@ -283,11 +304,8 @@ function normQuestions(raw: unknown, where: string): Q[] {
       if (typeof answer !== "boolean") answer = undefined
     }
     if (typeof answer === "string") answer = answer.trim()
-    // Scaffolding from an early generator: "Question 2 about <unit>" + "Generic explanation".
-    if (
-      question &&
-      (/^Question \d+ about /.test(question) || q.explanation === "Generic explanation")
-    ) {
+    // Scaffolding from two early generators — never real content.
+    if (question && isPlaceholder(question, q)) {
       report.placeholderQuestions++
       continue
     }
@@ -336,7 +354,10 @@ function scopeId(s: Scope) {
 
 function addQbank(dir: string, scope: Scope, file: string) {
   const d = readJson(file)
-  const qs = normQuestions(d.questions, relative(FROM, file))
+  addQuestions(dir, scope, normQuestions(d.questions, relative(FROM, file)))
+}
+
+function addQuestions(dir: string, scope: Scope, qs: Q[]) {
   if (!qs.length) return
   const key = join(dir, "qbank.json")
   const cur = pending.qbank.get(key) ?? { scope, questions: [] }
@@ -350,60 +371,201 @@ function addQbank(dir: string, scope: Scope, file: string) {
   pending.qbank.set(key, cur)
 }
 
-function addExams(dir: string, scope: Scope, file: string, lang: string) {
+/** Hogwarts' exam vocabulary (Exam.examType). */
+const EXAM_TYPES = new Set(["final", "midterm", "chapter_test", "practice", "quiz", "diagnostic"])
+
+/**
+ * Route a subject-level exam that names a `unit` to that chapter's folder;
+ * everything else stays where its file was.
+ */
+type ExamRoute = (unit: number) => { dir: string; scope: Scope } | null
+
+function addExams(
+  dir: string,
+  scope: Scope,
+  file: string,
+  lang: string,
+  bank: Map<string, Q> = new Map(),
+  route?: ExamRoute
+) {
   const d = readJson(file)
   const where = relative(FROM, file)
-  const base = scopeId(scope).replace(/\//g, "-")
   const label = lang === "ar" ? "اختبار" : lang === "fr" ? "Évaluation" : "Test"
   const raw: Record<string, unknown>[] = []
-  if (Array.isArray(d.exams)) raw.push(...d.exams)
-  else if (d.quiz && typeof d.quiz === "object") raw.push({ ...d.quiz, kind: "quiz" })
+  if (Array.isArray(d.exams)) {
+    const exams = d.exams as Record<string, unknown>[]
+    // Hybrid shape (g12 biology/chemistry): one meta-only exam + top-level questions.
+    if (exams.length === 1 && !Array.isArray(exams[0]!.questions) && Array.isArray(d.questions))
+      raw.push({ ...exams[0], questions: d.questions })
+    else raw.push(...exams)
+  } else if (d.quiz && typeof d.quiz === "object") raw.push({ ...d.quiz, type: "quiz" })
   else if (Array.isArray(d.questions))
     raw.push({
-      title: d.lesson_title ?? d.chapter_title ?? label,
+      title: d.lesson_title ?? d.chapter_title,
+      type: d.type,
       duration: d.duration ?? d.duration_minutes,
       questions: d.questions,
-      kind: scope.lesson ? "quiz" : "test",
     })
-  const key = join(dir, "exams.json")
-  const cur = pending.exams.get(key) ?? {
-    scope,
-    exams: [] as Record<string, unknown>[],
-  }
-  const ids = new Set((cur.exams as { id: string }[]).map((e) => e.id))
+
   raw.forEach((e, i) => {
-    const questions = e.questions ? normQuestions(e.questions, `${where}:${i}`) : undefined
-    const questionIds = Array.isArray(e.question_ids)
-      ? (e.question_ids as unknown[]).map(String)
-      : undefined
-    if (!questions?.length && !questionIds?.length) return
+    let target = { dir, scope }
+    if (!scope.chapter && route && typeof e.unit === "number" && e.unit >= 1)
+      target = route(e.unit) ?? target
+    const base = scopeId(target.scope).replace(/\//g, "-")
+    // Inline everything: an exam that pointed into the qbank by id carries the
+    // questions itself, so moving qbank questions to their chapters never
+    // leaves it dangling.
+    const referenced = Array.isArray(e.question_ids)
+      ? (e.question_ids as unknown[]).map((id) => bank.get(String(id))).filter((q): q is Q => !!q)
+      : []
+    const questions = [
+      ...(e.questions ? normQuestions(e.questions, `${where}:${i}`) : []),
+      ...referenced,
+    ]
+    if (!questions.length) return
+    const key = join(target.dir, "exams.json")
+    const cur = pending.exams.get(key) ?? {
+      scope: target.scope,
+      exams: [] as Record<string, unknown>[],
+    }
+    const ids = new Set((cur.exams as { id: string }[]).map((x) => x.id))
     let id = String(e.id ?? `${base}-${i + 1}`)
     for (let n = 2; ids.has(id); n++) id = `${e.id ?? base}-${n}`
-    ids.add(id)
-    const kind =
-      str(e.kind) ??
-      (typeof e.type === "string" && /quiz/.test(e.type)
-        ? "quiz"
-        : scope.lesson
+    const rawType = str(e.type) ?? str(e.kind)
+    const type =
+      rawType && EXAM_TYPES.has(rawType)
+        ? rawType
+        : rawType && /quiz/.test(rawType)
           ? "quiz"
-          : undefined)
+          : target.scope.lesson
+            ? "quiz"
+            : target.scope.chapter
+              ? "chapter_test"
+              : "final"
     cur.exams.push(
       compact({
         id,
         title: str(e.title) ?? label,
-        kind: kind === "quiz" || kind === "test" || kind === "exam" ? kind : undefined,
+        type,
         description: str(e.description),
         durationMinutes: int(e.duration ?? e.duration_minutes),
         totalMarks:
           typeof e.total_marks === "number" && e.total_marks > 0 ? e.total_marks : undefined,
         passingMarks: typeof e.passing_marks === "number" ? e.passing_marks : undefined,
-        questions: questions?.length ? questions : undefined,
-        questionIds: questionIds?.length ? questionIds : undefined,
+        questions,
       })
     )
+    pending.exams.set(key, cur)
     report.exams++
   })
-  if (cur.exams.length) pending.exams.set(key, cur)
+}
+
+// ---------------------------------------------------------------- placement
+
+/**
+ * Where an sd subject-level question belongs, read from its authored id —
+ * ported from hogwarts `prisma/seeds/catalog/sd-content.ts`, whose rules put
+ * 94 % of production's SD questions on a chapter. The catalog now stores each
+ * question in its chapter/lesson folder, so no consumer ever parses ids again.
+ *
+ *   g1–g4 sd-…-u03-q012 · g7/g8 …-unit01-q001 · g12 military …-chap12-q001   → unit
+ *   g5/g9/g10 …-unit-01-02-<slug>-q01 · g6 ict …-unit-1-<ch>-02-<l>-q01       → unit + lesson
+ *   g10 …-chapter-1-lesson-1-q01 · …-module-1-unit-1-q01 · …-introduction-lesson-1-q01
+ *   g11/g12 …-u01-l01-q001                                                    → unit + lesson
+ *
+ * A boundary-safe slug scan over the id runs first; then unit → chapter by
+ * position (a single-chapter subject absorbs everything); lesson by slug, then
+ * position. Unresolvable questions stay at subject level — never mis-filed.
+ */
+interface ParsedId {
+  unit?: number
+  lessonNum?: number
+  lessonSlug?: string
+  unitName?: string
+}
+
+function parseQuestionId(id: string): ParsedId {
+  let m: RegExpMatchArray | null
+  if ((m = id.match(/-u0*(\d{1,2})-l0*(\d{1,2})-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]! }
+  if ((m = id.match(/-chapter-0*(\d{1,2})-lesson-0*(\d{1,2})-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]! }
+  if ((m = id.match(/-chapter-0*(\d{1,2})-0*(\d{1,2})-(.+?)-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]!, lessonSlug: m[3] }
+  if ((m = id.match(/-module-0*(\d{1,2})-unit-0*(\d{1,2})-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]! }
+  if ((m = id.match(/-unit-0*(\d{1,2})-0*(\d{1,2})-(.+?)-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]!, lessonSlug: m[3] }
+  if ((m = id.match(/-unit-0*(\d{1,2})-.+?-0*(\d{1,2})-(.+?)-l?q\d+$/)))
+    return { unit: +m[1]!, lessonNum: +m[2]!, lessonSlug: m[3] }
+  if ((m = id.match(/-chap0*(\d{1,2})-l?q\d+$/))) return { unit: +m[1]! }
+  if ((m = id.match(/-u(?:nit)?-?0*(\d{1,2})[a-z]{0,3}(?:\b|-)/))) return { unit: +m[1]! }
+  if ((m = id.match(/-unit([a-z][a-z-]*?)-l?q\d+$/))) return { unitName: m[1] }
+  if ((m = id.match(/-([a-z][a-z0-9-]*?)-lesson-0*(\d{1,2})-l?q\d+$/)))
+    return { unitName: m[1], lessonNum: +m[2]! }
+  return {}
+}
+
+/** g1 files predate the g1 rebuild: unit (1-based) -> chapter index (0-based), hand-verified. */
+const G1_UNIT_TO_CHAPTER: Record<string, Record<number, number>> = {
+  math: { 1: 0, 2: 1, 3: 2, 4: 3, 5: 3, 6: 3, 7: 4, 8: 4 },
+  islamic: { 1: 0, 2: 0, 3: 1, 4: 2, 5: 3, 6: 5, 7: 4, 8: 2 },
+}
+
+const stripSeq = (slug: string) => slug.replace(/^\d+-/, "")
+const idContainsSlug = (id: string, slug: string) => `-${id}-`.includes(`-${slug}-`)
+
+function placeQuestion(
+  id: string,
+  grade: string,
+  legacyFolder: string,
+  chapters: { slug: string; lessons: { slug: string }[] }[]
+): { chapter?: number; lesson?: number } {
+  const parsed = parseQuestionId(id)
+  let unit = parsed.unit
+  if (grade === "g1" && unit != null) {
+    const mapped = G1_UNIT_TO_CHAPTER[legacyFolder]?.[unit]
+    if (mapped != null) unit = mapped + 1
+  }
+  let ci: number | null = null
+  let best = 0
+  chapters.forEach((c, i) => {
+    const slug = stripSeq(c.slug)
+    if (slug.length > best && idContainsSlug(id, slug)) {
+      ci = i
+      best = slug.length
+    }
+  })
+  if (ci == null) {
+    if (chapters.length === 1) ci = 0
+    else if (unit != null && unit - 1 < chapters.length) ci = unit - 1
+    else if (parsed.unitName) {
+      const wanted = parsed.unitName.replace(/-/g, "")
+      const found = chapters.findIndex((c) => {
+        const have = stripSeq(c.slug).replace(/-/g, "")
+        return have.includes(wanted) || wanted.includes(have)
+      })
+      ci = found >= 0 ? found : null
+    }
+  }
+  if (ci == null) return {}
+  const lessons = chapters[ci]!.lessons
+  let li: number | null = null
+  let bestL = 0
+  lessons.forEach((l, i) => {
+    const slug = stripSeq(l.slug)
+    if (slug.length > bestL && idContainsSlug(id, slug)) {
+      li = i
+      bestL = slug.length
+    }
+  })
+  if (li == null && parsed.lessonSlug) {
+    const found = lessons.findIndex((l) => stripSeq(l.slug) === parsed.lessonSlug)
+    li = found >= 0 ? found : null
+  }
+  if (li == null && parsed.lessonNum != null && parsed.lessonNum - 1 < lessons.length)
+    li = parsed.lessonNum - 1
+  return { chapter: ci, lesson: li ?? undefined }
 }
 
 // ---------------------------------------------------------------- subject
@@ -595,8 +757,35 @@ function migrateSubject(legacyDir: string, grade: string, folder: string) {
 
   // assessments: subject level
   const scope: Scope = { curriculum: cur.id, grade, subject }
-  if (existsSync(join(src, "qbank.json"))) addQbank(dst, scope, join(src, "qbank.json"))
-  if (existsSync(join(src, "exams.json"))) addExams(dst, scope, join(src, "exams.json"), lang)
+  const bankRaw = existsSync(join(src, "qbank.json")) ? readJson(join(src, "qbank.json")) : null
+  const bankQs = bankRaw
+    ? normQuestions(bankRaw.questions, relative(FROM, join(src, "qbank.json")))
+    : []
+  const bank = new Map(bankQs.map((q) => [q.id, q]))
+  const legacyTree = rawChapters.map((c) => ({
+    slug: c.slug,
+    lessons: (c.lessons ?? []).filter((l) => l && typeof l === "object"),
+  }))
+  const at = (ci?: number, li?: number): { dir: string; scope: Scope } => {
+    if (ci == null) return { dir: dst, scope }
+    const ch = `c${ci + 1}`
+    if (li == null) return { dir: join(dst, ch), scope: { ...scope, chapter: ch } }
+    const l = `l${li + 1}`
+    return { dir: join(dst, ch, l), scope: { ...scope, chapter: ch, lesson: l } }
+  }
+  if (legacyDir === "sd") {
+    // Place each subject-level question in its chapter/lesson (see placeQuestion).
+    for (const q of bankQs) {
+      const p = placeQuestion(q.id, grade, folder, legacyTree)
+      const t = at(p.chapter, p.lesson)
+      addQuestions(t.dir, t.scope, [q])
+      report.placed[p.lesson != null ? "lesson" : p.chapter != null ? "chapter" : "subject"]++
+    }
+  } else addQuestions(dst, scope, bankQs)
+  if (existsSync(join(src, "exams.json")))
+    addExams(dst, scope, join(src, "exams.json"), lang, bank, (unit) =>
+      unit - 1 < rawChapters.length ? at(unit - 1) : null
+    )
 
   // chapter/lesson dirs live under chapters/<slug> or directly under the subject
   const byNumber = new Map<number, string>()
@@ -832,7 +1021,35 @@ if (WRITE) {
 }
 for (const legacyDir of Object.keys(CURRICULUM_DIRS)) migrateCurriculum(legacyDir)
 
+// One question, one home: within a subject a question text lives once, at its
+// deepest scope (lesson > chapter > subject). The generated gb/us trees carried
+// every lesson question again in its chapter and subject files; those rollups
+// are consumer views, not content.
+{
+  const depth = (sc: Scope) => (sc.lesson ? 2 : sc.chapter ? 1 : 0)
+  const bySubject = new Map<string, [string, { scope: Scope; questions: Q[] }][]>()
+  for (const entry of pending.qbank) {
+    const sc = entry[1].scope
+    const k = `${sc.curriculum}/${sc.grade}/${sc.subject}`
+    bySubject.set(k, [...(bySubject.get(k) ?? []), entry])
+  }
+  for (const entries of bySubject.values()) {
+    const seen = new Set<string>()
+    for (const [, v] of [...entries].sort((a, b) => depth(b[1].scope) - depth(a[1].scope))) {
+      const before = v.questions.length
+      v.questions = v.questions.filter((q) => {
+        const t = q.question.replace(/\s+/g, " ").trim()
+        if (seen.has(t)) return false
+        seen.add(t)
+        return true
+      })
+      report.duplicates += before - v.questions.length
+    }
+  }
+}
+
 for (const [file, { scope, questions }] of pending.qbank) {
+  if (!questions.length) continue
   writeJson(file, { scope, questions })
   report.questions += questions.length
 }
@@ -860,7 +1077,9 @@ const summary = [
   `| subject renames | ${renames.subjects.length} |`,
   `| chapter renames | ${renames.chapters.length} |`,
   `| lesson renames | ${renames.lessons.length} |`,
-  `| placeholder questions dropped ("Question N about …") | ${report.placeholderQuestions} |`,
+  `| placeholder questions dropped | ${report.placeholderQuestions} |`,
+  `| duplicate questions removed (kept at deepest scope) | ${report.duplicates} |`,
+  `| sd subject-level questions placed → lesson / chapter / subject | ${report.placed.lesson} / ${report.placed.chapter} / ${report.placed.subject} |`,
   `| questions dropped (no question or answer) | ${report.droppedQuestions.length} |`,
   `| errors | ${report.errors.length} |`,
   ``,

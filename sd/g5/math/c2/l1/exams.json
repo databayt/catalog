@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-01-mixed-fractions-lquiz",
       "title": "اختبار - الكسر المركب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

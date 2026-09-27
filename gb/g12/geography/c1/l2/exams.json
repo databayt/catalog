@@ -10,7 +10,7 @@
     {
       "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-quiz",
       "title": "Quiz: The Carbon Cycle",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

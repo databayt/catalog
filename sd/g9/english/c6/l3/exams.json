@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-06-03-saving-for-a-rainy-day-lquiz",
       "title": "اختبار درس - Saving for a Rainy Day!",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-06-03-saving-for-a-rainy-day-lquiz-2",
       "title": "اختبار درس - Saving for a Rainy Day!",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,7 +8,7 @@
   },
   "questions": [
     {
-      "id": "g10-hom-unit-1-lesson-1-lq01",
+      "id": "g10-hom-unit-1-lesson-1-q01",
       "type": "mcq",
       "question": "ما العناصر الغذائية الأساسية التي يحتاجها جسم الإنسان؟",
       "options": [
@@ -21,7 +21,7 @@
       "explanation": "الغذاء الصحي يتضمن جميع العناصر الغذائية بنسب متوازنة."
     },
     {
-      "id": "g10-hom-unit-1-lesson-1-lq02",
+      "id": "g10-hom-unit-1-lesson-1-q02",
       "type": "true_false",
       "question": "الغذاء الصحي يساهم في الوقاية من الأمراض المزمنة.",
       "options": [
@@ -32,7 +32,7 @@
       "explanation": "التغذية السليمة تحمي من أمراض القلب والسكري وغيرها."
     },
     {
-      "id": "g10-hom-unit-1-lesson-1-lq03",
+      "id": "g10-hom-unit-1-lesson-1-q03",
       "type": "fill_blank",
       "question": "المصدر الرئيسي لفيتامين د هو أشعة ___.",
       "answer": "الشمس",

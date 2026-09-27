@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-04-09-cyclic-quadrilateral-lquiz",
       "title": "اختبار درس - الرباعي الدائري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c4-l9-1",
       "title": "الرباعي الدائري",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

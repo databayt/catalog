@@ -9,6 +9,7 @@
     {
       "id": "g11-soc-unit-01-20th-century-exam",
       "title": "Exam: 20th-Century America",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

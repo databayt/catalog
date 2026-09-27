@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-05-04-zakat-on-gold-silver-currency-lquiz",
       "title": "اختبار درس - زكاة الذهب والفضة والعملة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-isl-unit-05-04-zakat-on-gold-silver-currency-lquiz-2",
       "title": "اختبار درس - زكاة الذهب والفضة والعملة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

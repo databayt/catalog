@@ -10,7 +10,7 @@
     {
       "id": "g9-isl-unit-01-02-madd-sukoon-lquiz",
       "title": "اختبار درس - المد بسبب السكون",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-islamic-studies-c1-l2-1",
       "title": "المد بسبب السكون",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g3-isl-unit-01-iman-02-seerah-childhood-quiz",
       "title": "Quiz: طفولة النبي ﷺ",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-03-06-seed-forming-lquiz",
       "title": "اختبار - التشكيل بالحبوب",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g6-mus-unit-01-elements-02-pitch-quiz",
       "title": "Quiz: Pitch & Melody",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

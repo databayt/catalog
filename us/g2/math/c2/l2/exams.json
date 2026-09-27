@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-quiz",
       "title": "Quiz: Subtracting Two-Digit Numbers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

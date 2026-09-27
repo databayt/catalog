@@ -10,7 +10,7 @@
     {
       "id": "g4-sci-unit-02-sound-electricity-02-circuits-quiz",
       "title": "Quiz: Electric Circuits",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

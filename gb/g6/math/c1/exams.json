@@ -9,6 +9,7 @@
     {
       "id": "g6-mat-unit-01-ratio-algebra-exam",
       "title": "Exam: Ratio & Algebra",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

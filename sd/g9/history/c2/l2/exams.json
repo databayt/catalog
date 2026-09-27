@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-02-02-ottoman-expansion-lquiz",
       "title": "اختبار درس - اتساع وفتوحات الإمارة العثمانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-his-unit-02-02-ottoman-expansion-lquiz-2",
       "title": "اختبار درس - اتساع وفتوحات الإمارة العثمانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

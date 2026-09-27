@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-02-poetry-02-unseen-quiz",
       "title": "Quiz: Analysing Unseen Poetry",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

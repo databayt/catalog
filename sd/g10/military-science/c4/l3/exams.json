@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-3-lesson-6-lquiz",
       "title": "اختبار درس - نماذج لمعارك الدولة الإسلامية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "c6"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u06-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الكلمات",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الحروف",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الجمل البسيطة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    }
+  ]
+}

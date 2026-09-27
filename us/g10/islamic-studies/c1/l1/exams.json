@@ -10,7 +10,7 @@
     {
       "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-quiz",
       "title": "Quiz: علوم القرآن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

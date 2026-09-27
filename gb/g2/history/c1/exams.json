@@ -9,6 +9,7 @@
     {
       "id": "g2-his-unit-01-great-fire-exam",
       "title": "Exam: The Great Fire of London",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

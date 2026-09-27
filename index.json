@@ -5,7 +5,7 @@
   "subjects": 471,
   "chapters": 1624,
   "lessons": 5592,
-  "questions": 30954
+  "questions": 12438
  },
  "curricula": [
   {
@@ -439,7 +439,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -464,7 +464,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -489,7 +489,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -514,7 +514,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -539,7 +539,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -564,7 +564,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -589,7 +589,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -614,7 +614,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -639,7 +639,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -664,7 +664,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -689,7 +689,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -714,7 +714,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -739,7 +739,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -764,7 +764,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -794,7 +794,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 15,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -819,7 +819,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -844,7 +844,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -869,7 +869,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -894,7 +894,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -919,7 +919,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -944,7 +944,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -969,7 +969,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -994,7 +994,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1019,7 +1019,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1044,7 +1044,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1069,7 +1069,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1094,7 +1094,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1119,7 +1119,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1149,7 +1149,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1174,7 +1174,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1199,7 +1199,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1224,7 +1224,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -1249,7 +1249,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1274,7 +1274,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1299,7 +1299,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1324,7 +1324,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1349,7 +1349,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1374,7 +1374,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1399,7 +1399,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1424,7 +1424,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1449,7 +1449,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1474,7 +1474,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1499,7 +1499,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1529,7 +1529,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1554,7 +1554,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1579,7 +1579,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1604,7 +1604,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -1629,7 +1629,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1654,7 +1654,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1679,7 +1679,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1704,7 +1704,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1729,7 +1729,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1754,7 +1754,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1779,7 +1779,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1804,7 +1804,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1829,7 +1829,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1854,7 +1854,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1879,7 +1879,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1909,7 +1909,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1934,7 +1934,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1959,7 +1959,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -1984,7 +1984,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -2009,7 +2009,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2034,7 +2034,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2059,7 +2059,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2084,7 +2084,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2109,7 +2109,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2134,7 +2134,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2159,7 +2159,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2184,7 +2184,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2209,7 +2209,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2234,7 +2234,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2259,7 +2259,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2289,7 +2289,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2314,7 +2314,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2339,7 +2339,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2364,7 +2364,7 @@
        "publisher": "aldar",
        "chapters": 1,
        "lessons": 2,
-       "questions": 24,
+       "questions": 8,
        "exams": 4,
        "assets": {
         "textbook": false,
@@ -2389,7 +2389,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2414,7 +2414,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2439,7 +2439,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2464,7 +2464,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2489,7 +2489,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2514,7 +2514,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2539,7 +2539,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2564,7 +2564,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2589,7 +2589,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2614,7 +2614,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2639,7 +2639,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2669,7 +2669,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2694,7 +2694,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2719,7 +2719,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2744,7 +2744,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2769,7 +2769,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2794,7 +2794,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2819,7 +2819,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2844,7 +2844,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2869,7 +2869,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2894,7 +2894,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2919,7 +2919,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2944,7 +2944,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2969,7 +2969,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -2994,7 +2994,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3019,7 +3019,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3044,7 +3044,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3074,7 +3074,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3099,7 +3099,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3124,7 +3124,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3149,7 +3149,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3174,7 +3174,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3199,7 +3199,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3224,7 +3224,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3249,7 +3249,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3274,7 +3274,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3299,7 +3299,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3324,7 +3324,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3349,7 +3349,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3374,7 +3374,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3399,7 +3399,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3424,7 +3424,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3449,7 +3449,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3479,7 +3479,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3504,7 +3504,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3529,7 +3529,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3554,7 +3554,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3579,7 +3579,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3604,7 +3604,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3629,7 +3629,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3654,7 +3654,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3679,7 +3679,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3704,7 +3704,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3729,7 +3729,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3754,7 +3754,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3779,7 +3779,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3804,7 +3804,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3829,7 +3829,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3854,7 +3854,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3884,7 +3884,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 15,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3909,7 +3909,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3934,7 +3934,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3959,7 +3959,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -3984,7 +3984,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4009,7 +4009,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4034,7 +4034,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4059,7 +4059,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4084,7 +4084,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4109,7 +4109,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4134,7 +4134,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4159,7 +4159,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4184,7 +4184,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4209,7 +4209,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4234,7 +4234,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4259,7 +4259,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4289,7 +4289,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4314,7 +4314,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4339,7 +4339,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4364,7 +4364,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4389,7 +4389,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4414,7 +4414,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4439,7 +4439,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4464,7 +4464,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4489,7 +4489,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4514,7 +4514,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4539,7 +4539,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4564,7 +4564,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4589,7 +4589,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4614,7 +4614,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4639,7 +4639,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4664,7 +4664,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4694,7 +4694,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4719,7 +4719,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4744,7 +4744,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4769,7 +4769,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4794,7 +4794,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 10,
-       "questions": 120,
+       "questions": 31,
        "exams": 14,
        "assets": {
         "textbook": false,
@@ -4819,7 +4819,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4844,7 +4844,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4869,7 +4869,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4894,7 +4894,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4919,7 +4919,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4944,7 +4944,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4969,7 +4969,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 14,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -4994,7 +4994,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -5019,7 +5019,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -5044,7 +5044,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -5069,7 +5069,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -5350,7 +5350,7 @@
        "publisher": "sd-ncerd",
        "chapters": 1,
        "lessons": 55,
-       "questions": 150,
+       "questions": 88,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5455,7 +5455,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 45,
-       "questions": 120,
+       "questions": 42,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5480,7 +5480,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 40,
-       "questions": 50,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5505,7 +5505,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 36,
-       "questions": 60,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5530,7 +5530,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 10,
-       "questions": 120,
+       "questions": 9,
        "exams": 7,
        "assets": {
         "textbook": true,
@@ -5560,7 +5560,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 30,
-       "questions": 60,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5585,7 +5585,7 @@
        "publisher": "sd-ncerd",
        "chapters": 12,
        "lessons": 96,
-       "questions": 240,
+       "questions": 9,
        "exams": 13,
        "assets": {
         "textbook": true,
@@ -5610,7 +5610,7 @@
        "publisher": "sd-ncerd",
        "chapters": 3,
        "lessons": 21,
-       "questions": 90,
+       "questions": 9,
        "exams": 25,
        "assets": {
         "textbook": true,
@@ -5635,7 +5635,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 29,
-       "questions": 60,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5660,7 +5660,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 44,
-       "questions": 230,
+       "questions": 9,
        "exams": 46,
        "assets": {
         "textbook": true,
@@ -5715,7 +5715,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 25,
-       "questions": 50,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5740,7 +5740,7 @@
        "publisher": "sd-ncerd",
        "chapters": 2,
        "lessons": 10,
-       "questions": 40,
+       "questions": 9,
        "exams": 3,
        "assets": {
         "textbook": true,
@@ -5765,7 +5765,7 @@
        "publisher": "sd-ncerd",
        "chapters": 12,
        "lessons": 96,
-       "questions": 120,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5790,7 +5790,7 @@
        "publisher": "sd-ncerd",
        "chapters": 1,
        "lessons": 5,
-       "questions": 20,
+       "questions": 9,
        "exams": 2,
        "assets": {
         "textbook": true,
@@ -5815,7 +5815,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 14,
-       "questions": 80,
+       "questions": 9,
        "exams": 5,
        "assets": {
         "textbook": true,
@@ -5840,7 +5840,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 32,
-       "questions": 60,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5920,7 +5920,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 31,
-       "questions": 44,
+       "questions": 8,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5945,7 +5945,7 @@
        "publisher": "sd-ncerd",
        "chapters": 1,
        "lessons": 45,
-       "questions": 16,
+       "questions": 4,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -5970,7 +5970,7 @@
        "publisher": "sd-ncerd",
        "chapters": 3,
        "lessons": 21,
-       "questions": 144,
+       "questions": 4,
        "exams": 25,
        "assets": {
         "textbook": true,
@@ -5995,7 +5995,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 30,
-       "questions": 16,
+       "questions": 4,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6020,7 +6020,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 18,
-       "questions": 20,
+       "questions": 4,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6045,7 +6045,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 48,
-       "questions": 312,
+       "questions": 16,
        "exams": 55,
        "assets": {
         "textbook": true,
@@ -6070,7 +6070,7 @@
        "publisher": "sd-ncerd",
        "chapters": 3,
        "lessons": 12,
-       "questions": 94,
+       "questions": 4,
        "exams": 16,
        "assets": {
         "textbook": true,
@@ -6095,7 +6095,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 29,
-       "questions": 210,
+       "questions": 8,
        "exams": 35,
        "assets": {
         "textbook": true,
@@ -6120,7 +6120,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 30,
-       "questions": 212,
+       "questions": 4,
        "exams": 36,
        "assets": {
         "textbook": true,
@@ -6145,7 +6145,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 16,
-       "questions": 136,
+       "questions": 8,
        "exams": 21,
        "assets": {
         "textbook": true,
@@ -6170,7 +6170,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 33,
-       "questions": 244,
+       "questions": 16,
        "exams": 40,
        "assets": {
         "textbook": true,
@@ -6195,7 +6195,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 53,
-       "questions": 332,
+       "questions": 16,
        "exams": 60,
        "assets": {
         "textbook": true,
@@ -6220,7 +6220,7 @@
        "publisher": "sd-ncerd",
        "chapters": 7,
        "lessons": 24,
-       "questions": 50,
+       "questions": 8,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6245,7 +6245,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 16,
-       "questions": 136,
+       "questions": 7,
        "exams": 21,
        "assets": {
         "textbook": true,
@@ -6275,7 +6275,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 27,
-       "questions": 40,
+       "questions": 13,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6325,7 +6325,7 @@
        "publisher": "sd-ncerd",
        "chapters": 1,
        "lessons": 6,
-       "questions": 44,
+       "questions": 4,
        "exams": 8,
        "assets": {
         "textbook": true,
@@ -6350,7 +6350,7 @@
        "publisher": "sd-ncerd",
        "chapters": 3,
        "lessons": 10,
-       "questions": 24,
+       "questions": 2,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6375,7 +6375,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 20,
-       "questions": 38,
+       "questions": 2,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6400,7 +6400,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 21,
-       "questions": 53,
+       "questions": 7,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6425,7 +6425,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 30,
-       "questions": 41,
+       "questions": 10,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -6450,7 +6450,7 @@
        "publisher": "sd-ncerd",
        "chapters": 7,
        "lessons": 26,
-       "questions": 230,
+       "questions": 12,
        "exams": 34,
        "assets": {
         "textbook": true,
@@ -6555,7 +6555,7 @@
        "publisher": "sd-ncerd",
        "chapters": 8,
        "lessons": 64,
-       "questions": 46,
+       "questions": 10,
        "exams": 11,
        "assets": {
         "textbook": true,
@@ -6785,7 +6785,7 @@
        "publisher": "sd-ncerd",
        "chapters": 8,
        "lessons": 64,
-       "questions": 46,
+       "questions": 10,
        "exams": 11,
        "assets": {
         "textbook": true,
@@ -6990,7 +6990,7 @@
        "publisher": "sd-ncerd",
        "chapters": 15,
        "lessons": 75,
-       "questions": 864,
+       "questions": 43,
        "exams": 145,
        "assets": {
         "textbook": true,
@@ -7015,7 +7015,7 @@
        "publisher": "sd-ncerd",
        "chapters": 8,
        "lessons": 64,
-       "questions": 735,
+       "questions": 34,
        "exams": 145,
        "assets": {
         "textbook": true,
@@ -7040,7 +7040,7 @@
        "publisher": "sd-ncerd",
        "chapters": 3,
        "lessons": 25,
-       "questions": 283,
+       "questions": 14,
        "exams": 57,
        "assets": {
         "textbook": true,
@@ -7065,7 +7065,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 25,
-       "questions": 304,
+       "questions": 17,
        "exams": 59,
        "assets": {
         "textbook": true,
@@ -7090,7 +7090,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 16,
-       "questions": 49,
+       "questions": 3,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -7115,7 +7115,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 47,
-       "questions": 548,
+       "questions": 29,
        "exams": 107,
        "assets": {
         "textbook": true,
@@ -7140,7 +7140,7 @@
        "publisher": "sd-ncerd",
        "chapters": 8,
        "lessons": 69,
-       "questions": 715,
+       "questions": 101,
        "exams": 155,
        "assets": {
         "textbook": true,
@@ -7165,7 +7165,7 @@
        "publisher": "sd-ncerd",
        "chapters": 7,
        "lessons": 36,
-       "questions": 463,
+       "questions": 31,
        "exams": 87,
        "assets": {
         "textbook": true,
@@ -7190,7 +7190,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 0,
-       "questions": 48,
+       "questions": 9,
        "exams": 7,
        "assets": {
         "textbook": true,
@@ -7370,7 +7370,7 @@
        "publisher": "sd-ncerd",
        "chapters": 8,
        "lessons": 0,
-       "questions": 102,
+       "questions": 26,
        "exams": 17,
        "assets": {
         "textbook": true,
@@ -7420,7 +7420,7 @@
        "publisher": "sd-ncerd",
        "chapters": 2,
        "lessons": 6,
-       "questions": 60,
+       "questions": 4,
        "exams": 9,
        "assets": {
         "textbook": true,
@@ -7445,7 +7445,7 @@
        "publisher": "sd-ncerd",
        "chapters": 2,
        "lessons": 12,
-       "questions": 150,
+       "questions": 4,
        "exams": 29,
        "assets": {
         "textbook": true,
@@ -7495,7 +7495,7 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 18,
-       "questions": 176,
+       "questions": 4,
        "exams": 25,
        "assets": {
         "textbook": true,
@@ -7570,7 +7570,7 @@
        "publisher": "sd-ncerd",
        "chapters": 7,
        "lessons": 13,
-       "questions": 130,
+       "questions": 4,
        "exams": 21,
        "assets": {
         "textbook": true,
@@ -7645,7 +7645,7 @@
        "publisher": "sd-ncerd",
        "chapters": 5,
        "lessons": 0,
-       "questions": 60,
+       "questions": 8,
        "exams": 11,
        "assets": {
         "textbook": true,
@@ -7700,8 +7700,8 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 37,
-       "questions": 30,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -7775,8 +7775,8 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 23,
-       "questions": 40,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -7875,7 +7875,7 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 20,
-       "questions": 40,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -7900,8 +7900,8 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 23,
-       "questions": 30,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -7925,7 +7925,7 @@
        "publisher": "sd-ncerd",
        "chapters": 12,
        "lessons": 60,
-       "questions": 10,
+       "questions": 9,
        "exams": 1,
        "assets": {
         "textbook": true,
@@ -8075,8 +8075,8 @@
        "publisher": "sd-ncerd",
        "chapters": 7,
        "lessons": 2,
-       "questions": 10,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -8125,8 +8125,8 @@
        "publisher": "sd-ncerd",
        "chapters": 4,
        "lessons": 28,
-       "questions": 20,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -8480,8 +8480,8 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 38,
-       "questions": 60,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -8555,8 +8555,8 @@
        "publisher": "sd-ncerd",
        "chapters": 6,
        "lessons": 14,
-       "questions": 40,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -8705,8 +8705,8 @@
        "publisher": "sd-ncerd",
        "chapters": 13,
        "lessons": 0,
-       "questions": 120,
-       "exams": 1,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": true,
@@ -8796,7 +8796,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8821,7 +8821,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8846,7 +8846,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8871,7 +8871,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -8896,7 +8896,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8921,7 +8921,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 8,
-       "questions": 96,
+       "questions": 32,
        "exams": 12,
        "assets": {
         "textbook": false,
@@ -8946,7 +8946,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8971,7 +8971,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -8996,7 +8996,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9021,7 +9021,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9046,7 +9046,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9076,7 +9076,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 15,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9101,7 +9101,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9126,7 +9126,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9151,7 +9151,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -9176,7 +9176,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9201,7 +9201,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -9226,7 +9226,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9251,7 +9251,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9276,7 +9276,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9301,7 +9301,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9326,7 +9326,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9356,7 +9356,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9381,7 +9381,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9406,7 +9406,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9431,7 +9431,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -9456,7 +9456,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9481,7 +9481,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 7,
-       "questions": 84,
+       "questions": 28,
        "exams": 11,
        "assets": {
         "textbook": false,
@@ -9506,7 +9506,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9531,7 +9531,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9556,7 +9556,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9581,7 +9581,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9606,7 +9606,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9636,7 +9636,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9661,7 +9661,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9686,7 +9686,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9711,7 +9711,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -9736,7 +9736,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9761,7 +9761,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -9786,7 +9786,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9811,7 +9811,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9836,7 +9836,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9861,7 +9861,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9886,7 +9886,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9916,7 +9916,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9941,7 +9941,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9966,7 +9966,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -9991,7 +9991,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -10016,7 +10016,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10041,7 +10041,7 @@
        "publisher": "aldar",
        "chapters": 3,
        "lessons": 6,
-       "questions": 72,
+       "questions": 24,
        "exams": 10,
        "assets": {
         "textbook": false,
@@ -10066,7 +10066,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10091,7 +10091,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10116,7 +10116,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10141,7 +10141,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10166,7 +10166,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10196,7 +10196,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10221,7 +10221,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10246,7 +10246,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10271,7 +10271,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10296,7 +10296,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10321,7 +10321,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10346,7 +10346,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10371,7 +10371,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10396,7 +10396,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10421,7 +10421,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10446,7 +10446,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10476,7 +10476,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10501,7 +10501,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10526,7 +10526,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10551,7 +10551,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10576,7 +10576,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10601,7 +10601,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10626,7 +10626,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10651,7 +10651,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10676,7 +10676,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10701,7 +10701,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10726,7 +10726,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10756,7 +10756,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10781,7 +10781,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10806,7 +10806,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10831,7 +10831,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10856,7 +10856,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10881,7 +10881,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10906,7 +10906,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10931,7 +10931,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10956,7 +10956,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -10981,7 +10981,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11006,7 +11006,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11036,7 +11036,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11061,7 +11061,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11086,7 +11086,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11111,7 +11111,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11136,7 +11136,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11161,7 +11161,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11186,7 +11186,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11211,7 +11211,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11236,7 +11236,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11261,7 +11261,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11291,7 +11291,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 15,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11316,7 +11316,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11341,7 +11341,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11366,7 +11366,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11391,7 +11391,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11416,7 +11416,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11441,7 +11441,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11466,7 +11466,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11491,7 +11491,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11516,7 +11516,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11546,7 +11546,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11571,7 +11571,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11596,7 +11596,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11621,7 +11621,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11646,7 +11646,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11671,7 +11671,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11696,7 +11696,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11721,7 +11721,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11746,7 +11746,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11771,7 +11771,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11801,7 +11801,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11826,7 +11826,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11851,7 +11851,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11876,7 +11876,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11901,7 +11901,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11926,7 +11926,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 14,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11951,7 +11951,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -11976,7 +11976,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -12001,7 +12001,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,
@@ -12026,7 +12026,7 @@
        "publisher": "aldar",
        "chapters": 2,
        "lessons": 4,
-       "questions": 48,
+       "questions": 16,
        "exams": 7,
        "assets": {
         "textbook": false,

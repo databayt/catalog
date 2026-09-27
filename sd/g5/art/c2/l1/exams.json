@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-01-artistic-design-lquiz",
       "title": "اختبار - التصميم الفني",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

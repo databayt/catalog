@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-03-08-parallel-resistors-lquiz",
       "title": "اختبار درس - توصيل المقاومات على التوازي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-03-08-parallel-resistors-lquiz-2",
       "title": "اختبار درس - توصيل المقاومات على التوازي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

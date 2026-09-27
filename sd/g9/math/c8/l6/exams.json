@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-08-06-cone-volume-lquiz",
       "title": "اختبار درس - حجم المخروط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c8-l6-1",
       "title": "حجم المخروط",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u03-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: القراءة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النطق",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الكتابة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    }
+  ]
+}

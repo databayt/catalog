@@ -9,6 +9,7 @@
     {
       "id": "g10-bus-unit-02-finance-exam",
       "title": "Exam: Finance & Operations",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

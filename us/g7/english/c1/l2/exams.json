@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-01-reading-02-author-purpose-quiz",
       "title": "Quiz: Author's Purpose & Point of View",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

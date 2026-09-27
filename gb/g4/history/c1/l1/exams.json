@@ -10,7 +10,7 @@
     {
       "id": "g4-his-unit-01-roman-britain-01-roman-invasion-quiz",
       "title": "Quiz: The Roman Invasion",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

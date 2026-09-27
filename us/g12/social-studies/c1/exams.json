@@ -9,6 +9,7 @@
     {
       "id": "g12-soc-unit-01-government-exam",
       "title": "Exam: US Government & Civics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

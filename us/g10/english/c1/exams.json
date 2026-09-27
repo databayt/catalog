@@ -9,6 +9,7 @@
     {
       "id": "g10-eng-unit-01-world-lit-exam",
       "title": "Exam: World Literature",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

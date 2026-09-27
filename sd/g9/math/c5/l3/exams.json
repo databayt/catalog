@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-03-common-factor-lquiz",
       "title": "اختبار درس - التحليل باستخراج العامل المشترك",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l3-1",
       "title": "التحليل باستخراج العامل المشترك",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

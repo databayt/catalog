@@ -10,7 +10,7 @@
     {
       "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-quiz",
       "title": "Quiz: Inherited Traits",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g5-tec-unit-4-quiz",
       "title": "اختبار - الربامج التطبيقية ()MS Word",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

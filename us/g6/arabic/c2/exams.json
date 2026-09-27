@@ -9,6 +9,7 @@
     {
       "id": "g6-ara-unit-02-naat-idafa-exam",
       "title": "Exam: النعت والإضافة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

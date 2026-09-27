@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-10-multiply-decimal-by-whole-lquiz",
       "title": "اختبار - ضرب الكسر العشري في عدد صحيح",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

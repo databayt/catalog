@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-1-lesson-2-lquiz",
       "title": "اختبار درس - مصطلحات عسكرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

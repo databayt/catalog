@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-02-fractions-decimals-percent-exam",
       "title": "Exam: Fractions, Decimals & Percentages",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

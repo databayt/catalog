@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-01-08-revision-science-lquiz",
       "title": "اختبار درس - Revision: Science",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-english-c1-l8-1",
       "title": "Revision: Science",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

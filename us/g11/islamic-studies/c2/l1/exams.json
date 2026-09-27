@@ -10,7 +10,7 @@
     {
       "id": "g11-isl-unit-02-values-01-justice-quiz",
       "title": "Quiz: العدل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

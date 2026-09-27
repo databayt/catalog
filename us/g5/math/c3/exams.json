@@ -9,6 +9,7 @@
     {
       "id": "g5-mat-unit-03-volume-exam",
       "title": "Exam: Volume & Coordinate Plane",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

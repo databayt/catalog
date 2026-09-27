@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-04-01-algebraic-expressions-lquiz",
       "title": "اختبار - التعابير الجبرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

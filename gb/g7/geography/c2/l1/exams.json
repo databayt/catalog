@@ -10,7 +10,7 @@
     {
       "id": "g7-geo-unit-02-weather-climate-01-weather-systems-quiz",
       "title": "Quiz: Weather Systems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

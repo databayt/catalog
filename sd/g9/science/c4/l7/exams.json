@@ -10,7 +10,7 @@
     {
       "id": "g9-sci-unit-04-07-double-displacement-lquiz",
       "title": "اختبار درس - تفاعلات الإحلال المزدوج",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-sci-unit-04-07-double-displacement-lquiz-2",
       "title": "اختبار درس - تفاعلات الإحلال المزدوج",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

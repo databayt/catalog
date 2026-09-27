@@ -10,7 +10,7 @@
     {
       "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-quiz",
       "title": "Quiz: Poetic Methods",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

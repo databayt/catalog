@@ -10,7 +10,7 @@
     {
       "id": "g10-eng-unit-01-reading-02-structure-quiz",
       "title": "Quiz: Structural Features",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

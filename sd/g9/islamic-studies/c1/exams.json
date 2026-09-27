@@ -9,6 +9,7 @@
     {
       "id": "g9-isl-unit-01-quiz",
       "title": "اختبار - التجويد",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-islamic-studies-c1-1",
       "title": "التجويد",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

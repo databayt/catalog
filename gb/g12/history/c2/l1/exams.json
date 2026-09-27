@@ -10,7 +10,7 @@
     {
       "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-quiz",
       "title": "Quiz: Superpower Relations",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

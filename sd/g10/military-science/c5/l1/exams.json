@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-4-lesson-7-lquiz",
       "title": "اختبار درس - نماذج للحروب الشاملة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

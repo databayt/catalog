@@ -10,7 +10,7 @@
     {
       "id": "g6-ara-unit-02-naat-idafa-02-idafa-quiz",
       "title": "Quiz: الإضافة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

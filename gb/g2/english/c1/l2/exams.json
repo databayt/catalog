@@ -10,7 +10,7 @@
     {
       "id": "g2-eng-unit-01-grammar-02-tenses-quiz",
       "title": "Quiz: Past & Present Tense",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

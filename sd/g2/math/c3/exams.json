@@ -9,6 +9,7 @@
     {
       "id": "g2-math-unit-3-multiplication-exam-6722",
       "title": "Chapter Exam - unit-3-multiplication - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

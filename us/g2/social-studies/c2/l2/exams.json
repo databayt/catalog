@@ -10,7 +10,7 @@
     {
       "id": "g2-soc-unit-02-economics-02-goods-services-quiz",
       "title": "Quiz: Goods and Services",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

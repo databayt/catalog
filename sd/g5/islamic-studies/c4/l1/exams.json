@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-04-01-congregational-prayer-lquiz",
       "title": "اختبار - صلاة الجماعة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

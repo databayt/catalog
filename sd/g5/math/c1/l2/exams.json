@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-01-02-divisibility-by-9-lquiz",
       "title": "اختبار - قابلية القسمة على ٩",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

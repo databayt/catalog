@@ -9,6 +9,7 @@
     {
       "id": "g6-eng-unit-02-writing-exam",
       "title": "Exam: Writing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

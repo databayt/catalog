@@ -68,13 +68,6 @@
       "explanation": "Complete the sentence about المجال الأول: الرسم."
     },
     {
-      "id": "g4-at-u1dr-q008",
-      "type": "short_answer",
-      "question": "أجب: اشرح ما هو الفن بمفهومك الخاص",
-      "answer": "Expected response about the topic",
-      "explanation": "A good answer explains the concept from المجال الأول: الرسم."
-    },
-    {
       "id": "g4-at-u1dr-q009",
       "type": "mcq",
       "question": "اختر: كيف يختلط اللون الأحمر والأزرق؟",

@@ -10,7 +10,7 @@
     {
       "id": "g12-bio-unit-02-cells-transport-01-membranes-quiz",
       "title": "Quiz: Cell Membranes & Transport",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

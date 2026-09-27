@@ -10,7 +10,7 @@
     {
       "id": "g9-des-unit-01-design-process-02-prototype-quiz",
       "title": "Quiz: Prototyping & Testing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

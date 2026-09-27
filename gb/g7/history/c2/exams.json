@@ -9,6 +9,7 @@
     {
       "id": "g7-his-unit-02-medieval-church-exam",
       "title": "Exam: Power & the Medieval Church",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

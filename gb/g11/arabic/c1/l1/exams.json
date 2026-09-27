@@ -10,7 +10,7 @@
     {
       "id": "g11-ara-unit-01-poetry-prose-01-poetry-quiz",
       "title": "Quiz: الشعر العربي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

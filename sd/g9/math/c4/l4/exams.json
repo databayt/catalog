@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-04-04-theorem-3-lquiz",
       "title": "اختبار درس - النظرية (٣) - العمود النازل من مركز الدائرة على الوتر ينصف الوتر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c4-l4-1",
       "title": "النظرية (٣) - العمود النازل من مركز الدائرة على الوتر ينصف الوتر",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

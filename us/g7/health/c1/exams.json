@@ -9,6 +9,7 @@
     {
       "id": "g7-hea-unit-01-personal-health-exam",
       "title": "Exam: Personal Health",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g11-eng-final",
       "title": "الامتحان النهائي - english",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

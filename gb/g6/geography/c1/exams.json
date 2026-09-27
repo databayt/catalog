@@ -9,6 +9,7 @@
     {
       "id": "g6-geo-unit-01-trade-resources-exam",
       "title": "Exam: Trade & Natural Resources",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

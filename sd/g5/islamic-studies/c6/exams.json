@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-06-quiz",
       "title": "اختبار - من السيرة النبوية الشريفة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 8,
       "questions": [

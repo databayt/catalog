@@ -10,7 +10,7 @@
     {
       "id": "g10-geo-unit-01-09-erosion-processes-lquiz",
       "title": "اختبار درس - عمليات التعرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g10-geo-unit-01-09-erosion-processes-lquiz-2",
       "title": "اختبار درس - عمليات التعرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

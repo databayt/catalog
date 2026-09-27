@@ -10,7 +10,7 @@
     {
       "id": "g10-his-unit-02-conflict-tension-02-road-to-war-quiz",
       "title": "Quiz: The Road to WWII",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

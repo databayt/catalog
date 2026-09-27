@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-01-01-reading-lquiz",
       "title": "اختبار درس - القراءة: عباد الرحمن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-arabic-c1-l1-1",
       "title": "القراءة: عباد الرحمن",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

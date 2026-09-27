@@ -8,6 +8,7 @@
     {
       "id": "g11-mat-final",
       "title": "الامتحان النهائي - الرياضيات",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

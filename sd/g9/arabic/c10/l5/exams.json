@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-10-05-writing-lquiz",
       "title": "اختبار درس - التعبير: دور الشباب في الكوارث الطبيعية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

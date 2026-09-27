@@ -9,6 +9,7 @@
     {
       "id": "g3-mat-unit-01-multiplication-exam",
       "title": "Exam: Multiplication & Division",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 10,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-sci-unit-01-earth-space-02-forces-quiz",
       "title": "Quiz: Forces & Gravity",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

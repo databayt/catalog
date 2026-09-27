@@ -9,6 +9,7 @@
     {
       "id": "g3-math-unit-04-exam-8332",
       "title": "Chapter Exam - unit-04 - Math",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

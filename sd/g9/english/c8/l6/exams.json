@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-08-06-a-time-for-tea-lquiz",
       "title": "اختبار درس - A Time for Tea",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-08-06-a-time-for-tea-lquiz-2",
       "title": "اختبار درس - A Time for Tea",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g2-geo-unit-02-hot-cold-exam",
       "title": "Exam: Hot & Cold Places",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

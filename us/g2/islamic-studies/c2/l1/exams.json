@@ -10,7 +10,7 @@
     {
       "id": "g2-isl-unit-02-akhlaq-01-truth-quiz",
       "title": "Quiz: الصدق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

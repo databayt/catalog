@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-02-proportional-02-percent-quiz",
       "title": "Quiz: Percent Problems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

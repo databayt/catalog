@@ -10,7 +10,7 @@
     {
       "id": "g12-bus-unit-01-enterprise-01-enterprise-quiz",
       "title": "Quiz: Enterprise",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g5-sci-unit-02-ecosystems-exam",
       "title": "Exam: Ecosystems & Energy Flow",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

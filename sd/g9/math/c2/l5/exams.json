@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-02-05-dividing-powers-lquiz",
       "title": "اختبار درس - قسمة القوى",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c2-l5-1",
       "title": "قسمة القوى",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

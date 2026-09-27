@@ -10,7 +10,7 @@
     {
       "id": "g3-soc-unit-02-geography-skills-02-landforms-quiz",
       "title": "Quiz: Landforms & Bodies of Water",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

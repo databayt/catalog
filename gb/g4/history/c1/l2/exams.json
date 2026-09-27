@@ -10,7 +10,7 @@
     {
       "id": "g4-his-unit-01-roman-britain-02-roman-life-quiz",
       "title": "Quiz: Roman Life & Legacy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

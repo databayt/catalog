@@ -10,7 +10,7 @@
     {
       "id": "g12-bio-unit-01-molecules-02-nucleic-acids-quiz",
       "title": "Quiz: Nucleic Acids",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

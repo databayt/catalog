@@ -9,6 +9,7 @@
     {
       "id": "g10-isl-unit-01-quran-fiqh-exam",
       "title": "Exam: علوم القرآن والفقه",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

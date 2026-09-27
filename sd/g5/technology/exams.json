@@ -8,6 +8,7 @@
     {
       "id": "g5-tec-final",
       "title": "الامتحان النهائي - technology",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

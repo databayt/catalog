@@ -10,7 +10,7 @@
     {
       "id": "g6-eng-unit-1-anna-and-the-fighter-06-chapter-6-lquiz",
       "title": "اختبار - Chapter 6: Lessons Learned",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -52,12 +52,15 @@
             "type": "string",
             "minLength": 1
           },
-          "kind": {
+          "type": {
             "type": "string",
             "enum": [
+              "final",
+              "midterm",
+              "chapter_test",
+              "practice",
               "quiz",
-              "test",
-              "exam"
+              "diagnostic"
             ]
           },
           "description": {
@@ -145,7 +148,8 @@
         },
         "required": [
           "id",
-          "title"
+          "title",
+          "type"
         ],
         "additionalProperties": false
       }

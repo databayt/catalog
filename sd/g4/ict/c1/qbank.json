@@ -68,13 +68,6 @@
       "explanation": "Complete the sentence about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
     },
     {
-      "id": "g4-ic-u1ic-q008",
-      "type": "short_answer",
-      "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
-      "answer": "Expected response about the topic",
-      "explanation": "A good answer explains the concept from الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
-    },
-    {
       "id": "g4-ic-u1ic-q009",
       "type": "mcq",
       "question": "اختر: كيف نحمي بيانتنا من الفيروسات؟",

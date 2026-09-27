@@ -9,6 +9,7 @@
     {
       "id": "g7-mus-unit-01-theory-exam",
       "title": "Exam: Music Theory & Notation",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

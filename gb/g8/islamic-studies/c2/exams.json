@@ -9,6 +9,7 @@
     {
       "id": "g8-isl-unit-02-muamalat-exam",
       "title": "Exam: الأخلاق والمعاملات",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

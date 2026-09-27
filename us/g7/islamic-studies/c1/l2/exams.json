@@ -10,7 +10,7 @@
     {
       "id": "g7-isl-unit-01-worship-akhlaq-02-parents-quiz",
       "title": "Quiz: بر الوالدين",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

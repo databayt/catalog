@@ -9,6 +9,7 @@
     {
       "id": "g7-ara-unit-02-verbs-exam",
       "title": "Exam: الفعل الصحيح والمعتل",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

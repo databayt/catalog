@@ -10,7 +10,7 @@
     {
       "id": "g10-che-unit-01-atomic-structure-01-atoms-quiz",
       "title": "Quiz: Atoms & Elements",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

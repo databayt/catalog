@@ -10,7 +10,7 @@
     {
       "id": "g8-eng-unit-01-08-the-world-lquiz",
       "title": "اختبار - The World",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 2,
       "questions": [

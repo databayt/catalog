@@ -10,7 +10,7 @@
     {
       "id": "g2-mat-unit-02-multiplication-02-sharing-quiz",
       "title": "Quiz: Division as Sharing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

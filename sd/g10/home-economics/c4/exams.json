@@ -9,6 +9,7 @@
     {
       "id": "g10-hom-unit-4-quiz",
       "title": "اختبار - الوحدة الرابعة: الصحة والأمراض",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 9,
       "questions": [

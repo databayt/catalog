@@ -10,7 +10,7 @@
     {
       "id": "g7-soc-unit-01-world-history-01-middle-ages-quiz",
       "title": "Quiz: The Middle Ages",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

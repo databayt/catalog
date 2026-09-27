@@ -9,6 +9,7 @@
     {
       "id": "g2-mat-unit-03-measurement-time-money-exam",
       "title": "Exam: Measurement, Time & Money",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

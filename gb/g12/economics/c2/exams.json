@@ -9,6 +9,7 @@
     {
       "id": "g12-eco-unit-02-macro-exam",
       "title": "Exam: Macroeconomics",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

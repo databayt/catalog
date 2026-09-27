@@ -8,6 +8,7 @@
     {
       "id": "g4-english-final-exam-1928",
       "title": "Final Exam - English - G4",
+      "type": "final",
       "durationMinutes": 40,
       "totalMarks": 20,
       "questions": [

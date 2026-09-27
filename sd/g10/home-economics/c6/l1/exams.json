@@ -10,7 +10,7 @@
     {
       "id": "g10-hom-unit-6-lesson-15-lquiz",
       "title": "اختبار درس - إعداد الأطعمة وتأثير الطهي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -8,6 +8,7 @@
     {
       "id": "g5-sci-final",
       "title": "الامتحان النهائي - science",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

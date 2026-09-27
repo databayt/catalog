@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-12-02-literature-lquiz",
       "title": "اختبار درس - الأدب: دع الأيام تفعل ما تشاء",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

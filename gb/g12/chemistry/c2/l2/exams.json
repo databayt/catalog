@@ -10,7 +10,7 @@
     {
       "id": "g12-che-unit-02-inorganic-chemistry-02-group-2-group-7-quiz",
       "title": "Quiz: Group 2 & Group 7",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

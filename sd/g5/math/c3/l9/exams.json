@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-03-09-multiply-decimal-by-10-100-1000-lquiz",
       "title": "اختبار - ضرب الكسر العشري في ١٠، ١٠٠، ١٠٠٠",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

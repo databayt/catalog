@@ -10,7 +10,7 @@
     {
       "id": "g9-his-unit-01-08-resistance-to-condominium-lquiz",
       "title": "اختبار درس - مقاومة السودانيين للحكم الثنائي: حركات المقاومة الدينية والقبلية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-history-c1-l8-1",
       "title": "مقاومة السودانيين للحكم الثنائي: حركات المقاومة الدينية والقبلية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

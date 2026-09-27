@@ -10,7 +10,7 @@
     {
       "id": "g1-his-unit-01-changes-living-memory-01-toys-then-now-quiz",
       "title": "Quiz: Toys Then and Now",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

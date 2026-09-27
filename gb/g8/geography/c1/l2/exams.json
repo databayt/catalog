@@ -10,7 +10,7 @@
     {
       "id": "g8-geo-unit-01-population-02-urbanisation-quiz",
       "title": "Quiz: Urbanisation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

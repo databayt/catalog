@@ -10,7 +10,7 @@
     {
       "id": "g9-ara-unit-11-05-writing-lquiz",
       "title": "اختبار درس - التعبير: ثورة المعلومات",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

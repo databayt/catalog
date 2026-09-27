@@ -10,7 +10,7 @@
     {
       "id": "g7-hea-unit-01-personal-health-01-nutrition-quiz",
       "title": "Quiz: Nutrition & Fitness",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

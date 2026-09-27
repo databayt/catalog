@@ -9,6 +9,7 @@
     {
       "id": "g1-mat-unit-01-number-to-20-exam",
       "title": "Exam: Number & Place Value to 20",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

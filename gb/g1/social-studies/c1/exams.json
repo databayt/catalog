@@ -9,6 +9,7 @@
     {
       "id": "g1-uae-unit-01-myself-family-exam",
       "title": "Exam: My Family & Myself",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g7-eng-unit-02-writing-exam",
       "title": "Exam: Creative & Persuasive Writing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

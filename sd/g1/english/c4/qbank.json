@@ -1,0 +1,104 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c4"
+  },
+  "questions": [
+    {
+      "id": "g1-en-u4-q001",
+      "type": "mcq",
+      "question": "How do you ask someone's age?",
+      "options": [
+        "How old are you?",
+        "What is your name?",
+        "Where are you from?",
+        "How are you?"
+      ],
+      "answer": "How old are you?",
+      "explanation": "We ask 'How old are you?' to find out someone's age."
+    },
+    {
+      "id": "g1-en-u4-q002",
+      "type": "true_false",
+      "question": "'I am from Sudan' tells us where someone is from.",
+      "answer": true,
+      "explanation": "Yes, 'I am from...' tells us the country or place someone comes from."
+    },
+    {
+      "id": "g1-en-u4-q003",
+      "type": "fill_blank",
+      "question": "I am _______ years old. (age / name / colour)",
+      "answer": "age",
+      "explanation": "We use 'I am ... years old' to tell our age."
+    },
+    {
+      "id": "g1-en-u4-q004",
+      "type": "mcq",
+      "question": "How do you ask where someone is from?",
+      "options": [
+        "Where are you from?",
+        "How old are you?",
+        "What is your name?",
+        "How are you?"
+      ],
+      "answer": "Where are you from?",
+      "explanation": "'Where are you from?' asks about someone's country or city."
+    },
+    {
+      "id": "g1-en-u4-q005",
+      "type": "short_answer",
+      "question": "Answer: Where are you from?",
+      "answer": "I am from Sudan.",
+      "explanation": "We answer 'I am from [country/city]'."
+    },
+    {
+      "id": "g1-en-u4-q006",
+      "type": "true_false",
+      "question": "We say 'I am good' when someone asks 'How are you?'",
+      "answer": true,
+      "explanation": "Yes, 'I am good' or 'I am fine' are correct responses to 'How are you?'"
+    },
+    {
+      "id": "g1-en-u4-q007",
+      "type": "mcq",
+      "question": "What does 'How are you?' mean?",
+      "options": [
+        "How do you feel?",
+        "What is your name?",
+        "Where do you live?",
+        "How old are you?"
+      ],
+      "answer": "How do you feel?",
+      "explanation": "'How are you?' is asking about your wellbeing or how you feel."
+    },
+    {
+      "id": "g1-en-u4-q008",
+      "type": "fill_blank",
+      "question": "_______ are you from? — I am from Sudan.",
+      "answer": "Where",
+      "explanation": "We use 'Where' to ask about a place."
+    },
+    {
+      "id": "g1-en-u4-q009",
+      "type": "mcq",
+      "question": "Which sentence introduces yourself?",
+      "options": [
+        "My name is Ali.",
+        "The cat is black.",
+        "I like apples.",
+        "Open the door."
+      ],
+      "answer": "My name is Ali.",
+      "explanation": "'My name is...' introduces yourself."
+    },
+    {
+      "id": "g1-en-u4-q010",
+      "type": "short_answer",
+      "question": "Write two sentences about yourself.",
+      "answer": "My name is [name]. I am from Sudan. / I am [age] years old.",
+      "explanation": "Use 'My name is...', 'I am from...', and 'I am ... years old.'"
+    }
+  ]
+}

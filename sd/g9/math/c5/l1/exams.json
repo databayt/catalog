@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-lquiz",
       "title": "اختبار درس - ضرب المقادير الجبرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l1-1",
       "title": "ضرب المقادير الجبرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

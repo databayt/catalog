@@ -10,7 +10,7 @@
     {
       "id": "g5-isl-unit-03-04-names-of-allah-1-lquiz",
       "title": "اختبار - أسماء الله الحسنى (١)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

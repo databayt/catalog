@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-06-06-omdurman-market-lquiz",
       "title": "اختبار درس - Omdurman Market",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-06-06-omdurman-market-lquiz-2",
       "title": "اختبار درس - Omdurman Market",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

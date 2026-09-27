@@ -10,7 +10,7 @@
     {
       "id": "g3-math-unit-03-exam-3223",
       "title": "Lesson Quiz - 08-word-problems-2 - Math",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 5,
       "questions": [

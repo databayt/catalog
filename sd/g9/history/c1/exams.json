@@ -9,6 +9,7 @@
     {
       "id": "g9-his-unit-01-quiz",
       "title": "اختبار - من تاريخ السودان: الثورة والدولة المهدية 1881 - 1898م",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,7 +138,7 @@
     {
       "id": "sd-g9-history-c1-1",
       "title": "من تاريخ السودان: الثورة والدولة المهدية 1881 - 1898م",
-      "kind": "test",
+      "type": "quiz",
       "durationMinutes": 25,
       "questions": [
         {

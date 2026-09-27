@@ -9,6 +9,7 @@
     {
       "id": "g10-mil-chapter-5-quiz",
       "title": "اختبار - الحروب الحديثة",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 4,
       "questions": [

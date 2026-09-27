@@ -9,6 +9,7 @@
     {
       "id": "g5-ara-unit-02-tenses-exam",
       "title": "Exam: الأفعال والأزمنة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

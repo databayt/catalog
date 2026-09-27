@@ -10,7 +10,7 @@
     {
       "id": "g10-mat-unit-02-geometry-02-circles-quiz",
       "title": "Quiz: Circle Theorems",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

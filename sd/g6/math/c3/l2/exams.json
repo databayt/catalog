@@ -10,7 +10,7 @@
     {
       "id": "g6-mat-unit-03-02-converting-percentages-lquiz",
       "title": "اختبار - تحويل النسبة المئوية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

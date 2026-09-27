@@ -10,7 +10,7 @@
     {
       "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-quiz",
       "title": "Quiz: Tens and Ones",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

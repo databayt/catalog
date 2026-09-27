@@ -9,6 +9,7 @@
     {
       "id": "g3-soc-unit-02-geography-skills-exam",
       "title": "Exam: Geography Skills",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

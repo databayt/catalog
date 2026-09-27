@@ -10,7 +10,7 @@
     {
       "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-quiz",
       "title": "Quiz: Multiplying & Dividing Integers",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

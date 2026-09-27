@@ -9,6 +9,7 @@
     {
       "id": "g5-geo-unit-02-region-uae-exam",
       "title": "Exam: A Region Study: The UAE",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

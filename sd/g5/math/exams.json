@@ -8,6 +8,7 @@
     {
       "id": "g5-mat-final",
       "title": "الامتحان النهائي - math",
+      "type": "final",
       "durationMinutes": 60,
       "totalMarks": 30,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g5-hom-unit-03-quiz",
       "title": "اختبار - تفصيل الملابس وتطريزها",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

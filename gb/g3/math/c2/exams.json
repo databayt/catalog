@@ -9,6 +9,7 @@
     {
       "id": "g3-mat-unit-02-fractions-exam",
       "title": "Exam: Fractions",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

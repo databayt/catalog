@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-02-06-multiply-fractions-lquiz",
       "title": "اختبار - ضرب الكسور",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

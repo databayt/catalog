@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-01-nonfiction-02-evaluation-quiz",
       "title": "Quiz: Evaluating Texts",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

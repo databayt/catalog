@@ -10,7 +10,7 @@
     {
       "id": "g8-ara-unit-01-kana-01-kana-quiz",
       "title": "Quiz: كان وأخواتها",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g6-soc-unit-02-ancient-civilizations-exam",
       "title": "Exam: Ancient Civilizations",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

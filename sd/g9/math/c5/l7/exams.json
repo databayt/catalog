@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-05-07-quadratic-expression-lquiz",
       "title": "اختبار درس - المقدار الجبري من الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c5-l7-1",
       "title": "المقدار الجبري من الدرجة الثانية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g11-mat-unit-02-exp-log-02-logarithms-quiz",
       "title": "Quiz: Logarithms",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

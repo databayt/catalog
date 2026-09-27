@@ -10,7 +10,7 @@
     {
       "id": "g9-eng-unit-08-05-discovering-the-world-lquiz",
       "title": "اختبار درس - Discovering the World",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "g9-eng-unit-08-05-discovering-the-world-lquiz-2",
       "title": "اختبار درس - Discovering the World",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g5-mat-unit-06-06-triangle-classification-by-angles-lquiz",
       "title": "اختبار - تصنيف المثلث حسب زواياه",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

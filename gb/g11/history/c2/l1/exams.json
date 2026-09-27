@@ -10,7 +10,7 @@
     {
       "id": "g11-his-unit-02-medicine-01-medical-progress-quiz",
       "title": "Quiz: Medical Progress",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

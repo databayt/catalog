@@ -1,0 +1,35 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-geo-unit-1-geographic-environment-01-location-and-place-q01",
+      "type": "mcq",
+      "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+      "options": [
+        "الخرطوم",
+        "القاهرة",
+        "أديس أبابا",
+        "أسمرة"
+      ],
+      "answer": "الخرطوم",
+      "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+    },
+    {
+      "id": "g6-geo-unit-1-geographic-environment-01-location-and-place-q02",
+      "type": "true_false",
+      "question": "السودان يمتلك سواحل على البحر الأحمر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+    }
+  ]
+}

@@ -9,6 +9,7 @@
     {
       "id": "g2-sci-unit-01-matter-exam",
       "title": "Exam: Properties of Matter",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

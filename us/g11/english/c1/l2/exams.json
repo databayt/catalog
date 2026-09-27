@@ -10,7 +10,7 @@
     {
       "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-quiz",
       "title": "Quiz: American Rhetoric",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

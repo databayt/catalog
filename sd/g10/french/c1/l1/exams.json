@@ -10,7 +10,7 @@
     {
       "id": "g10-fre-module-1-unit-1-lquiz",
       "title": "اختبار درس - Unité 1: Je m'appelle",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

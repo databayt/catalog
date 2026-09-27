@@ -10,7 +10,7 @@
     {
       "id": "g2-his-unit-02-significant-people-02-local-history-quiz",
       "title": "Quiz: Our Local History",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

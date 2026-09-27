@@ -10,7 +10,7 @@
     {
       "id": "g5-art-unit-02-04-prayer-rug-design-lquiz",
       "title": "اختبار - تصميم مُصلاية أو سجادة الصلاة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

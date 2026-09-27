@@ -10,7 +10,7 @@
     {
       "id": "g7-sci-unit-01-ecosystems-01-food-webs-quiz",
       "title": "Quiz: Food Webs & Energy",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

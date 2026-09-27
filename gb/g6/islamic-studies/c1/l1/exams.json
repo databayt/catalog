@@ -10,7 +10,7 @@
     {
       "id": "g6-isl-unit-01-seerah-01-bithah-quiz",
       "title": "Quiz: البعثة والدعوة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

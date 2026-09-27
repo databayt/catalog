@@ -10,7 +10,7 @@
     {
       "id": "g11-geo-unit-01-urban-02-sustainable-urban-quiz",
       "title": "Quiz: Sustainable Cities",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g11-bio-unit-02-ecology-01-ecosystems-quiz",
       "title": "Quiz: Ecosystems & Interdependence",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

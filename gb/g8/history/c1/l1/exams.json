@@ -10,7 +10,7 @@
     {
       "id": "g8-his-unit-01-tudors-01-henry-viii-quiz",
       "title": "Quiz: Henry VIII & the Reformation",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

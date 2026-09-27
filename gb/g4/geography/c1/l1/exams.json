@@ -10,7 +10,7 @@
     {
       "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-quiz",
       "title": "Quiz: Mountains",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

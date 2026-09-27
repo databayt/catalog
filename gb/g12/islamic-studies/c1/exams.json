@@ -9,6 +9,7 @@
     {
       "id": "g12-isl-unit-01-thought-contemporary-exam",
       "title": "Exam: الفكر الإسلامي وقضايا معاصرة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

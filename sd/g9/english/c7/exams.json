@@ -9,6 +9,7 @@
     {
       "id": "g9-eng-unit-07-quiz",
       "title": "اختبار - Learning",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [
@@ -137,6 +138,7 @@
     {
       "id": "g9-eng-unit-07-quiz-2",
       "title": "اختبار - Learning",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

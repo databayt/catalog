@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-03-01-cartesian-plane-lquiz",
       "title": "اختبار درس - تعيين موضع النقط في المستوى الديكارتي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c3-l1-1",
       "title": "تعيين موضع النقط في المستوى الديكارتي",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

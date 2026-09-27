@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-04-23-water-soap-cleanliness-lquiz",
       "title": "اختبار - أهمية الماء والصابون في النظافة",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

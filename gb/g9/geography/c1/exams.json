@@ -9,6 +9,7 @@
     {
       "id": "g9-geo-unit-01-rivers-coasts-exam",
       "title": "Exam: Rivers & Coasts",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

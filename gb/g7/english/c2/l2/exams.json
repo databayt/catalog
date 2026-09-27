@@ -10,7 +10,7 @@
     {
       "id": "g7-eng-unit-02-writing-02-persuasive-quiz",
       "title": "Quiz: Persuasive Writing",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

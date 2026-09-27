@@ -10,7 +10,7 @@
     {
       "id": "g10-mil-chapter-2-lesson-3-lquiz",
       "title": "اختبار درس - مدخل إلى التربية العسكرية",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

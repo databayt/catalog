@@ -9,6 +9,7 @@
     {
       "id": "g5-uae-unit-02-civic-exam",
       "title": "Exam: Civic Responsibility",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

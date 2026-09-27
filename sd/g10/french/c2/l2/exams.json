@@ -10,7 +10,7 @@
     {
       "id": "g10-fre-module-2-unit-5-lquiz",
       "title": "اختبار درس - Unité 5: Qu'est ce que c'est?",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -9,6 +9,7 @@
     {
       "id": "g3-his-unit-01-stone-age-exam",
       "title": "Exam: Stone Age to Iron Age",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

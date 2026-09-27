@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-02-quiz",
       "title": "اختبار - من الحديث النبوي الشريف",
+      "type": "chapter_test",
       "durationMinutes": 20,
       "totalMarks": 10,
       "questions": [

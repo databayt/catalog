@@ -10,7 +10,7 @@
     {
       "id": "g5-tec-unit-2-01-املظهرالعاملويندوز-lquiz",
       "title": "اختبار - املظهر العام لويندوز",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

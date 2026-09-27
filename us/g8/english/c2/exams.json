@@ -9,6 +9,7 @@
     {
       "id": "g8-eng-unit-02-language-exam",
       "title": "Exam: Language & Writing",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

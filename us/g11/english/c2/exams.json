@@ -9,6 +9,7 @@
     {
       "id": "g11-eng-unit-02-argument-exam",
       "title": "Exam: Advanced Argument",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

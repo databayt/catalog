@@ -10,7 +10,7 @@
     {
       "id": "g5-hom-unit-01-01-importance-of-clothing-lquiz",
       "title": "اختبار - أهمية الملابس",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

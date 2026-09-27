@@ -9,6 +9,7 @@
     {
       "id": "g5-isl-unit-02-akhlaq-exam",
       "title": "Exam: الأخلاق الحميدة",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

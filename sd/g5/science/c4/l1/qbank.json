@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "c4",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-sci-unit-04-01-world-environments-q04",
+      "type": "short_answer",
+      "question": "ما خطوات إجراء تجربة علمية بسيطة؟",
+      "answer": "تحديد الهدف، التخطيط، جمع المواد، إجراء التجربة، تسجيل النتائج، الاستنتاج.",
+      "explanation": "التجربة العلمية لها خطوات منهجية."
+    }
+  ]
+}

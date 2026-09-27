@@ -9,6 +9,7 @@
     {
       "id": "g6-sci-unit-01-cells-exam",
       "title": "Exam: Cells & Living Systems",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

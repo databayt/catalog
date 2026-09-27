@@ -9,6 +9,7 @@
     {
       "id": "g9-soc-unit-01-revolutions-exam",
       "title": "Exam: Revolutions & Enlightenment",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

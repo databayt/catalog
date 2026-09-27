@@ -9,6 +9,7 @@
     {
       "id": "g1-mat-unit-03-geometry-shapes-exam",
       "title": "Exam: Shapes & Fractions of Shapes",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [

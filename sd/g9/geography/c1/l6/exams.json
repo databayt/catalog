@@ -10,7 +10,7 @@
     {
       "id": "g9-geo-unit-01-06-nile-basin-lquiz",
       "title": "اختبار درس - حوض نهر النيل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-geography-c1-l6-1",
       "title": "حوض نهر النيل",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

@@ -10,7 +10,7 @@
     {
       "id": "g1-ara-unit-02-harakat-02-madd-quiz",
       "title": "Quiz: حروف المد",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

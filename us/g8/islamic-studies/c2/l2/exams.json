@@ -10,7 +10,7 @@
     {
       "id": "g8-isl-unit-02-muamalat-02-neighbours-quiz",
       "title": "Quiz: حقوق الجار",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [

@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-03-range-lquiz",
       "title": "اختبار درس - مدى التطبيق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c1-l3-1",
       "title": "مدى التطبيق",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

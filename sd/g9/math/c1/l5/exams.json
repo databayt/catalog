@@ -10,7 +10,7 @@
     {
       "id": "g9-mat-unit-01-05-injective-function-lquiz",
       "title": "اختبار درس - التطبيق المتباين (واحد لواحد)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "totalMarks": 4,
       "questions": [
@@ -57,7 +57,7 @@
     {
       "id": "sd-g9-math-c1-l5-1",
       "title": "التطبيق المتباين (واحد لواحد)",
-      "kind": "quiz",
+      "type": "quiz",
       "durationMinutes": 10,
       "questions": [
         {

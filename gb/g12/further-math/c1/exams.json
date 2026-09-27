@@ -9,6 +9,7 @@
     {
       "id": "g12-fur-unit-01-core-pure-exam",
       "title": "Exam: Core Pure",
+      "type": "chapter_test",
       "durationMinutes": 30,
       "totalMarks": 8,
       "questions": [
