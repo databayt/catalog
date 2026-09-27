@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "arabic",
+    "chapter": "02-schools",
+    "lesson": "01-classical"
+  },
+  "questions": [
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq01",
+      "type": "mcq",
+      "question": "مدرسة الإحياء دعت إلى العودة إلى:",
+      "options": [
+        "الشعر القديم وقوته",
+        "النثر فقط",
+        "ترك الشعر",
+        "العامية"
+      ],
+      "answer": "الشعر القديم وقوته",
+      "explanation": "الإحياء والبعث."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq02",
+      "type": "true_false",
+      "question": "من رواد مدرسة الإحياء أحمد شوقي والبارودي.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الإحياء."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq03",
+      "type": "fill_blank",
+      "question": "مدرسة العودة إلى نمط القصيدة القديمة هي مدرسة ___.",
+      "answer": "الإحياء",
+      "explanation": "الكلاسيكية."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq04",
+      "type": "short_answer",
+      "question": "بمَ تميزت مدرسة الإحياء؟",
+      "answer": "بمحاكاة الشعر العربي القديم وإحياء قوته.",
+      "explanation": "المدارس."
+    }
+  ]
+}

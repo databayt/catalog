@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "02-language",
+    "lesson": "01-figurative"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-02-language-01-figurative-lq01",
+      "type": "mcq",
+      "question": "'The stars danced' is an example of:",
+      "options": [
+        "simile",
+        "metaphor",
+        "personification",
+        "alliteration"
+      ],
+      "answer": "personification",
+      "explanation": "Giving human action to stars."
+    },
+    {
+      "id": "g5-eng-unit-02-language-01-figurative-lq02",
+      "type": "true_false",
+      "question": "A simile uses 'like' or 'as'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., 'brave as a lion'."
+    },
+    {
+      "id": "g5-eng-unit-02-language-01-figurative-lq03",
+      "type": "fill_blank",
+      "question": "'Time is a thief' is a ___.",
+      "answer": "metaphor",
+      "explanation": "Direct comparison without like/as."
+    },
+    {
+      "id": "g5-eng-unit-02-language-01-figurative-lq04",
+      "type": "short_answer",
+      "question": "Write a simile about the wind.",
+      "answer": "e.g., 'The wind was as cold as ice.'",
+      "explanation": "Uses like/as."
+    }
+  ]
+}

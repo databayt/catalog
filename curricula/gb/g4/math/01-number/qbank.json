@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "math",
+    "chapter": "01-number"
+  },
+  "questions": [
+    {
+      "id": "g4-mat-unit-01-number-01-rounding-lq01",
+      "type": "mcq",
+      "question": "367 rounded to the nearest 100 is:",
+      "options": [
+        "300",
+        "370",
+        "400",
+        "360"
+      ],
+      "answer": "400",
+      "explanation": "67 rounds up."
+    },
+    {
+      "id": "g4-mat-unit-01-number-01-rounding-lq02",
+      "type": "true_false",
+      "question": "45 rounds to 50 (nearest 10).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "5 rounds up."
+    },
+    {
+      "id": "g4-mat-unit-01-number-01-rounding-lq03",
+      "type": "fill_blank",
+      "question": "Round 1,280 to nearest 1000: ___.",
+      "answer": "1000",
+      "explanation": "280 < 500."
+    },
+    {
+      "id": "g4-mat-unit-01-number-01-rounding-lq04",
+      "type": "short_answer",
+      "question": "Why round numbers?",
+      "answer": "To estimate quickly and check answers.",
+      "explanation": "Estimation."
+    },
+    {
+      "id": "g4-mat-unit-01-number-02-times-tables-lq01",
+      "type": "mcq",
+      "question": "7 × 8 = ?",
+      "options": [
+        "54",
+        "56",
+        "48",
+        "64"
+      ],
+      "answer": "56",
+      "explanation": "Times table fact."
+    },
+    {
+      "id": "g4-mat-unit-01-number-02-times-tables-lq02",
+      "type": "true_false",
+      "question": "6 × 9 = 54.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Multiplication fact."
+    },
+    {
+      "id": "g4-mat-unit-01-number-02-times-tables-lq03",
+      "type": "fill_blank",
+      "question": "12 × 11 = ___.",
+      "answer": "132",
+      "explanation": "12 elevens."
+    },
+    {
+      "id": "g4-mat-unit-01-number-02-times-tables-lq04",
+      "type": "short_answer",
+      "question": "What is 9 × 9?",
+      "answer": "81",
+      "explanation": "Nine nines."
+    }
+  ]
+}

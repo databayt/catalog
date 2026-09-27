@@ -1,0 +1,299 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g12",
+    "subject": "french"
+  },
+  "exams": [
+    {
+      "id": "g12-fre-final",
+      "title": "الامتحان النهائي - french",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g12-fre-chap01-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap01-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap01-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap01-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap01-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-01 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap01-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-01 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap01-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap01-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap01-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-01.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-fre-chap01-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-01.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-fre-chap06-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-06?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap06-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-06?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap06-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-06?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap06-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-06?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap06-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-06 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap06-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-06 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap06-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap06-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap06-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-06.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-fre-chap06-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-06.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-fre-chap05-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-05?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap05-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-05?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap05-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-05?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap05-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-05?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-fre-chap05-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-05 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap05-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-05 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap05-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap05-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-fre-chap05-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-05.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-fre-chap05-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-05.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        }
+      ]
+    }
+  ]
+}

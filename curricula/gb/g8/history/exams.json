@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-his-unit-01-tudors-01-henry-viii-lq01",
+          "type": "mcq",
+          "question": "Henry VIII broke with the Pope to do what?",
+          "options": [
+            "start a war",
+            "get a divorce/control the Church",
+            "build castles",
+            "explore America"
+          ],
+          "answer": "get a divorce/control the Church",
+          "explanation": "English Reformation."
+        },
+        {
+          "id": "g8-his-unit-01-tudors-01-henry-viii-lq02",
+          "type": "true_false",
+          "question": "Henry VIII made himself head of the Church of England.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Act of Supremacy."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq01",
+          "type": "mcq",
+          "question": "The English Civil War was fought between the King and:",
+          "options": [
+            "Parliament",
+            "France",
+            "Scotland only",
+            "the Church"
+          ],
+          "answer": "Parliament",
+          "explanation": "King vs Parliament."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq02",
+          "type": "true_false",
+          "question": "King Charles I was executed in 1649.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Regicide."
+        }
+      ]
+    }
+  ]
+}

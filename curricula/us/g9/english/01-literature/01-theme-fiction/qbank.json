@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "01-literature",
+    "lesson": "01-theme-fiction"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-01-literature-01-theme-fiction-lq01",
+      "type": "mcq",
+      "question": "A theme is a text's:",
+      "options": [
+        "plot summary",
+        "central insight about life",
+        "setting",
+        "narrator"
+      ],
+      "answer": "central insight about life",
+      "explanation": "Theme = message."
+    },
+    {
+      "id": "g9-eng-unit-01-literature-01-theme-fiction-lq02",
+      "type": "true_false",
+      "question": "A theme is usually universal rather than tied to one character.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Applies broadly."
+    },
+    {
+      "id": "g9-eng-unit-01-literature-01-theme-fiction-lq03",
+      "type": "fill_blank",
+      "question": "A recurring idea or image supporting theme is a ___.",
+      "answer": "motif",
+      "explanation": "Motif."
+    },
+    {
+      "id": "g9-eng-unit-01-literature-01-theme-fiction-lq04",
+      "type": "short_answer",
+      "question": "How do you trace a theme through a story?",
+      "answer": "Track how recurring ideas develop across conflicts and resolution.",
+      "explanation": "Theme development."
+    }
+  ]
+}

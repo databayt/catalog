@@ -1,0 +1,151 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g12-physical-education",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "physical-education",
+  "title": {
+    "ar": "التربية الرياضية",
+    "en": "Physical Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "sport",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "التربية الرياضية — الصف الثالث الثانوي — رقم الإيداع ٧٩٣/٢٠٠٨",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-importance-of-physical-activity-in-human",
+      "title": {
+        "ar": "أهمية النشاط البدني في حياة الإنسان",
+        "en": "The Importance of Physical Activity in Human Life"
+      },
+      "concept": "sport",
+      "image": "clickview/high-healthy-lifestyle-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "02-football",
+      "title": {
+        "ar": "كرة القدم",
+        "en": "Football"
+      },
+      "concept": "sport",
+      "image": "clickview/high-soccer-cover.jpg",
+      "page": 9,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "03-basketball",
+      "title": {
+        "ar": "كرة السلة",
+        "en": "Basketball"
+      },
+      "concept": "sport",
+      "image": "clickview/high-basketball-cover.jpg",
+      "page": 27,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "04-volleyball",
+      "title": {
+        "ar": "الكرة الطائرة",
+        "en": "Volleyball"
+      },
+      "concept": "sport",
+      "image": "clickview/high-personal-training-cover.jpg",
+      "page": 46,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "05-handball",
+      "title": {
+        "ar": "كرة اليد",
+        "en": "Handball"
+      },
+      "concept": "sport",
+      "image": "clickview/high-sports-psychology-cover.jpg",
+      "page": 63,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "06-table-tennis",
+      "title": {
+        "ar": "تنس الطاولة",
+        "en": "Table Tennis"
+      },
+      "concept": "sport",
+      "image": "clickview/high-tennis-cover.jpg",
+      "page": 74,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "07-traditional-games",
+      "title": {
+        "ar": "الألعاب الشعبية",
+        "en": "Traditional Games"
+      },
+      "concept": "sport",
+      "image": "clickview/high-running-cover.jpg",
+      "page": 92,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "08-sports-injuries-and-first-aid",
+      "title": {
+        "ar": "إصابات الملاعب والإسعافات الأولية",
+        "en": "Sports Injuries and First Aid"
+      },
+      "concept": "health",
+      "image": "clickview/high-exercise-physiology-cover.jpg",
+      "page": 100,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "09-organising-tournaments-trips-and-camps",
+      "title": {
+        "ar": "تنظيم الدورات الرياضية والرحلات والمعسكرات",
+        "en": "Organising Tournaments, Trips and Camps"
+      },
+      "concept": "skills",
+      "image": "clickview/high-leadership-skills-cover.jpg",
+      "page": 107,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "10-the-modern-olympic-games",
+      "title": {
+        "ar": "الألعاب الأولمبية الحديثة",
+        "en": "The Modern Olympic Games"
+      },
+      "concept": "sport",
+      "image": "clickview/high-2024-olympic-games-cover.jpg",
+      "page": 119,
+      "lessonsGeneric": false,
+      "lessons": []
+    }
+  ]
+}

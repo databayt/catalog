@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature",
+    "chapter": "01-tragedy"
+  },
+  "exams": [
+    {
+      "id": "g12-eng-unit-01-tragedy-exam",
+      "title": "Exam: Aspects of Tragedy",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq01",
+          "type": "mcq",
+          "question": "A 'tragic hero' typically has a fatal:",
+          "options": [
+            "friend",
+            "flaw (hamartia)",
+            "fortune",
+            "castle"
+          ],
+          "answer": "flaw (hamartia)",
+          "explanation": "Hamartia."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq02",
+          "type": "true_false",
+          "question": "Catharsis is the emotional release felt by the audience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Aristotelian term."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq03",
+          "type": "fill_blank",
+          "question": "The downfall of the tragic hero is the tragic ___.",
+          "answer": "fall",
+          "explanation": "Peripeteia/fall."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq04",
+          "type": "short_answer",
+          "question": "Name two conventions of tragedy.",
+          "answer": "e.g., a tragic hero, hamartia, downfall, catharsis (any two).",
+          "explanation": "Tragedy."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq01",
+          "type": "mcq",
+          "question": "Considering different critical readings shows a text can be:",
+          "options": [
+            "fixed",
+            "open to interpretation",
+            "unimportant",
+            "unread"
+          ],
+          "answer": "open to interpretation",
+          "explanation": "Multiple readings."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq02",
+          "type": "true_false",
+          "question": "A-Level analysis values informed personal interpretation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "AO5."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq03",
+          "type": "fill_blank",
+          "question": "Reading a text through theory uses a critical ___.",
+          "answer": "lens",
+          "explanation": "Critical perspective."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq04",
+          "type": "short_answer",
+          "question": "Why engage with critical interpretations?",
+          "answer": "To develop and support a sophisticated personal reading.",
+          "explanation": "Criticism."
+        }
+      ]
+    }
+  ]
+}

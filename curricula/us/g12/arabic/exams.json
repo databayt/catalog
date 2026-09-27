@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g12-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq01",
+          "type": "mcq",
+          "question": "النقد الأدبي يهتم بـ:",
+          "options": [
+            "تقييم النص وتحليله",
+            "عدّ الصفحات",
+            "الخط",
+            "الطباعة"
+          ],
+          "answer": "تقييم النص وتحليله",
+          "explanation": "النقد."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq02",
+          "type": "true_false",
+          "question": "للناقد أن يبدي رأياً معللاً في النص.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الحكم النقدي."
+        },
+        {
+          "id": "g12-ara-unit-02-schools-01-classical-lq01",
+          "type": "mcq",
+          "question": "مدرسة الإحياء دعت إلى العودة إلى:",
+          "options": [
+            "الشعر القديم وقوته",
+            "النثر فقط",
+            "ترك الشعر",
+            "العامية"
+          ],
+          "answer": "الشعر القديم وقوته",
+          "explanation": "الإحياء والبعث."
+        },
+        {
+          "id": "g12-ara-unit-02-schools-01-classical-lq02",
+          "type": "true_false",
+          "question": "من رواد مدرسة الإحياء أحمد شوقي والبارودي.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الإحياء."
+        }
+      ]
+    }
+  ]
+}

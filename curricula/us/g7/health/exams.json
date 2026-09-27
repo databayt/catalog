@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "health"
+  },
+  "exams": [
+    {
+      "id": "us-g7-health-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-hea-unit-01-personal-health-01-nutrition-lq01",
+          "type": "mcq",
+          "question": "Which provides the body with quick energy?",
+          "options": [
+            "carbohydrates",
+            "plastic",
+            "metal",
+            "water only"
+          ],
+          "answer": "carbohydrates",
+          "explanation": "Nutrition."
+        },
+        {
+          "id": "g7-hea-unit-01-personal-health-01-nutrition-lq02",
+          "type": "true_false",
+          "question": "Regular exercise benefits both body and mind.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Fitness."
+        },
+        {
+          "id": "g7-hea-unit-02-wellbeing-01-mental-health-lq01",
+          "type": "mcq",
+          "question": "A healthy way to cope with stress is to:",
+          "options": [
+            "talk to someone",
+            "bottle it up",
+            "skip sleep",
+            "isolate fully"
+          ],
+          "answer": "talk to someone",
+          "explanation": "Coping."
+        },
+        {
+          "id": "g7-hea-unit-02-wellbeing-01-mental-health-lq02",
+          "type": "true_false",
+          "question": "Mental health is as important as physical health.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Wellbeing."
+        }
+      ]
+    }
+  ]
+}

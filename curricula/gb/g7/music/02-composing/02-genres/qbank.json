@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "music",
+    "chapter": "02-composing",
+    "lesson": "02-genres"
+  },
+  "questions": [
+    {
+      "id": "g7-mus-unit-02-composing-02-genres-lq01",
+      "type": "mcq",
+      "question": "Jazz and classical are examples of musical:",
+      "options": [
+        "genres",
+        "instruments",
+        "clefs",
+        "beats"
+      ],
+      "answer": "genres",
+      "explanation": "Genres."
+    },
+    {
+      "id": "g7-mus-unit-02-composing-02-genres-lq02",
+      "type": "true_false",
+      "question": "Music styles develop within cultural and historical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context."
+    },
+    {
+      "id": "g7-mus-unit-02-composing-02-genres-lq03",
+      "type": "fill_blank",
+      "question": "A category or style of music is a ___.",
+      "answer": "genre",
+      "explanation": "Genre."
+    },
+    {
+      "id": "g7-mus-unit-02-composing-02-genres-lq04",
+      "type": "short_answer",
+      "question": "Name two musical genres.",
+      "answer": "e.g., classical and pop (also jazz, folk, etc.).",
+      "explanation": "Genres."
+    }
+  ]
+}

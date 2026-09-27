@@ -1,0 +1,345 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g10-entrepreneurship",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "entrepreneurship",
+  "title": {
+    "ar": "ريادة الأعمال",
+    "en": "Entrepreneurship"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "career",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "ريادة الأعمال — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "pdf"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-entrepreneurship-and-its-foundations",
+      "title": {
+        "ar": "الريادة ومقوماتها",
+        "en": "Entrepreneurship and Its Foundations"
+      },
+      "concept": "economy",
+      "image": "clickview/high-entrepreneurship-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-concept-of-entrepreneurship",
+          "title": {
+            "ar": "مفهوم الريادة",
+            "en": "The Concept of Entrepreneurship"
+          },
+          "page": 6
+        },
+        {
+          "slug": "02-the-entrepreneur-and-their-characteristics",
+          "title": {
+            "ar": "رائد الأعمال وخصائصه",
+            "en": "The Entrepreneur and Their Characteristics"
+          },
+          "page": 10,
+          "image": "clickview/high-entrepreneurial-skills-cover.jpg"
+        },
+        {
+          "slug": "03-creativity-and-innovation",
+          "title": {
+            "ar": "الإبداع والابتكار",
+            "en": "Creativity and Innovation"
+          },
+          "page": 16,
+          "image": "clickview/high-innovation-cover.jpg"
+        },
+        {
+          "slug": "04-ways-and-methods-of-developing-entrepreneurship",
+          "title": {
+            "ar": "طرق وأساليب تنمية الريادة",
+            "en": "Ways and Methods of Developing Entrepreneurship"
+          },
+          "page": 20
+        },
+        {
+          "slug": "05-innovation-and-the-knowledge-economy",
+          "title": {
+            "ar": "الابتكار واقتصاد المعرفة",
+            "en": "Innovation and the Knowledge Economy"
+          },
+          "page": 25,
+          "image": "clickview/high-economic-principles-and-systems-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-fields-of-entrepreneurship",
+      "title": {
+        "ar": "مجالات الريادة",
+        "en": "Fields of Entrepreneurship"
+      },
+      "concept": "economy",
+      "image": "clickview/high-innovation-cover.jpg",
+      "page": 29,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-innovating-a-new-product",
+          "title": {
+            "ar": "ابتكار منتج جديد",
+            "en": "Innovating a New Product"
+          },
+          "page": 30
+        },
+        {
+          "slug": "02-innovating-new-production-methods",
+          "title": {
+            "ar": "ابتكار طرق إنتاج جديدة",
+            "en": "Innovating New Production Methods"
+          },
+          "page": 33
+        },
+        {
+          "slug": "03-marketing-innovation",
+          "title": {
+            "ar": "الابتكار التسويقي",
+            "en": "Marketing Innovation"
+          },
+          "page": 36,
+          "image": "clickview/high-marketing-cover.jpg"
+        },
+        {
+          "slug": "04-social-innovation",
+          "title": {
+            "ar": "الابتكار الاجتماعي",
+            "en": "Social Innovation"
+          },
+          "page": 40,
+          "image": "clickview/high-corporate-social-responsibility-cover.jpg"
+        },
+        {
+          "slug": "05-managerial-innovation",
+          "title": {
+            "ar": "الابتكار الإداري",
+            "en": "Managerial Innovation"
+          },
+          "page": 43,
+          "image": "clickview/high-management-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-studying-the-product-market",
+      "title": {
+        "ar": "دراسة سوق المنتج",
+        "en": "Studying the Product Market"
+      },
+      "concept": "economy",
+      "image": "clickview/high-marketing-cover.jpg",
+      "page": 48,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-market-research",
+          "title": {
+            "ar": "دراسة السوق",
+            "en": "Market Research"
+          },
+          "page": 49
+        },
+        {
+          "slug": "02-competition",
+          "title": {
+            "ar": "المنافسة",
+            "en": "Competition"
+          },
+          "page": 54
+        },
+        {
+          "slug": "03-the-marketing-plan",
+          "title": {
+            "ar": "خطة التسويق",
+            "en": "The Marketing Plan"
+          },
+          "page": 58
+        },
+        {
+          "slug": "04-the-marketing-mix",
+          "title": {
+            "ar": "المزيج التسويقي",
+            "en": "The Marketing Mix"
+          },
+          "page": 61
+        }
+      ]
+    },
+    {
+      "slug": "04-financing-the-entrepreneurial-project",
+      "title": {
+        "ar": "تمويل المشروع الريادي",
+        "en": "Financing the Entrepreneurial Project"
+      },
+      "concept": "economy",
+      "image": "clickview/high-financial-literacy-cover.jpg",
+      "page": 68,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-capital-of-the-entrepreneurial-project",
+          "title": {
+            "ar": "رأس مال المشروع الريادي",
+            "en": "Capital of the Entrepreneurial Project"
+          },
+          "page": 69
+        },
+        {
+          "slug": "02-financing-from-family-and-friends",
+          "title": {
+            "ar": "التمويل من العائلة والأصدقاء",
+            "en": "Financing from Family and Friends"
+          },
+          "page": 73
+        },
+        {
+          "slug": "03-bank-financing",
+          "title": {
+            "ar": "التمويل من البنوك",
+            "en": "Bank Financing"
+          },
+          "page": 77,
+          "image": "clickview/high-accounting-and-finance-cover.jpg"
+        },
+        {
+          "slug": "04-islamic-financing-modes",
+          "title": {
+            "ar": "صيغ التمويل الإسلامية",
+            "en": "Islamic Financing Modes"
+          },
+          "page": 79,
+          "image": "clickview/high-accounting-and-finance-cover.jpg"
+        },
+        {
+          "slug": "05-comparing-the-different-types-of-financing",
+          "title": {
+            "ar": "المفاضلة بين أنواع التمويل المختلفة",
+            "en": "Comparing the Different Types of Financing"
+          },
+          "page": 82
+        }
+      ]
+    },
+    {
+      "slug": "05-technology-of-the-entrepreneurial-project",
+      "title": {
+        "ar": "تكنولوجيا المشروع الريادي",
+        "en": "Technology of the Entrepreneurial Project"
+      },
+      "concept": "economy",
+      "image": "clickview/high-the-impact-of-innovation-cover.jpg",
+      "page": 85,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-technology-of-the-entrepreneurial-project",
+          "title": {
+            "ar": "تكنولوجيا المشروع الريادي",
+            "en": "Technology of the Entrepreneurial Project"
+          },
+          "page": 86
+        },
+        {
+          "slug": "02-the-development-of-technology",
+          "title": {
+            "ar": "تطور التكنولوجيا",
+            "en": "The Development of Technology"
+          },
+          "page": 88
+        },
+        {
+          "slug": "03-the-industrial-revolutions",
+          "title": {
+            "ar": "الثورات الصناعية",
+            "en": "The Industrial Revolutions"
+          },
+          "page": 91,
+          "image": "clickview/middle-the-industrial-revolution-cover.jpg"
+        },
+        {
+          "slug": "04-artificial-intelligence-technology",
+          "title": {
+            "ar": "تكنولوجيا الذكاء الاصطناعي",
+            "en": "Artificial Intelligence Technology"
+          },
+          "page": 95,
+          "image": "clickview/high-artificial-intelligence-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-human-resources-for-the-entrepreneurial-project",
+      "title": {
+        "ar": "الموارد البشرية للمشروع الريادي",
+        "en": "Human Resources for the Entrepreneurial Project"
+      },
+      "concept": "career",
+      "image": "clickview/high-workplace-skills-cover.jpg",
+      "page": 99,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-importance-of-human-resources",
+          "title": {
+            "ar": "أهمية الموارد البشرية",
+            "en": "The Importance of Human Resources"
+          },
+          "page": 100
+        },
+        {
+          "slug": "02-choosing-the-work-team",
+          "title": {
+            "ar": "اختيار فريق العمل",
+            "en": "Choosing the Work Team"
+          },
+          "page": 103
+        },
+        {
+          "slug": "03-methods-of-attracting-human-resources",
+          "title": {
+            "ar": "أساليب استقطاب الموارد البشرية",
+            "en": "Methods of Attracting Human Resources"
+          },
+          "page": 106
+        },
+        {
+          "slug": "04-the-curriculum-vitae",
+          "title": {
+            "ar": "السيرة الذاتية",
+            "en": "The Curriculum Vitae"
+          },
+          "page": 108,
+          "image": "clickview/high-applications-and-job-interviews-cover.jpg"
+        },
+        {
+          "slug": "05-leadership-in-entrepreneurship",
+          "title": {
+            "ar": "القيادة في ريادة الأعمال",
+            "en": "Leadership in Entrepreneurship"
+          },
+          "page": 113,
+          "image": "clickview/high-leadership-skills-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

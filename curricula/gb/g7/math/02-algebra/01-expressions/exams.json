@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "02-algebra",
+    "lesson": "01-expressions"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-02-algebra-01-expressions-quiz",
+      "title": "Quiz: Simplifying Expressions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq01",
+          "type": "mcq",
+          "question": "Simplify 3a + 2a:",
+          "options": [
+            "5a",
+            "6a",
+            "a",
+            "5"
+          ],
+          "answer": "5a",
+          "explanation": "Like terms."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq02",
+          "type": "true_false",
+          "question": "3x and 3y are like terms.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Different variables."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq03",
+          "type": "fill_blank",
+          "question": "Expand 2(x + 3) = ___.",
+          "answer": "2x+6",
+          "explanation": "Distribute."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq04",
+          "type": "short_answer",
+          "question": "What are like terms?",
+          "answer": "Terms with the same variable part.",
+          "explanation": "Like terms."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "01-the-environment-around-us",
+    "lesson": "06-directions"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-01-exam-6502",
+      "title": "Lesson Quiz - 06-directions - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: النيل أطول نهر في العالم",
+          "answer": true,
+          "explanation": "The statement about البيئة من حولنا is True."
+        }
+      ]
+    }
+  ]
+}

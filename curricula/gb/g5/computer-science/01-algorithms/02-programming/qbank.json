@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "computer-science",
+    "chapter": "01-algorithms",
+    "lesson": "02-programming"
+  },
+  "questions": [
+    {
+      "id": "g5-com-unit-01-algorithms-02-programming-lq01",
+      "type": "mcq",
+      "question": "A bug in a program is a(n):",
+      "options": [
+        "error",
+        "insect pet",
+        "colour",
+        "sound"
+      ],
+      "answer": "error",
+      "explanation": "Bug = error."
+    },
+    {
+      "id": "g5-com-unit-01-algorithms-02-programming-lq02",
+      "type": "true_false",
+      "question": "Debugging means finding and fixing errors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Debugging."
+    },
+    {
+      "id": "g5-com-unit-01-algorithms-02-programming-lq03",
+      "type": "fill_blank",
+      "question": "Repeating a set of instructions is called a ___.",
+      "answer": "loop",
+      "explanation": "Loops."
+    },
+    {
+      "id": "g5-com-unit-01-algorithms-02-programming-lq04",
+      "type": "short_answer",
+      "question": "What is debugging?",
+      "answer": "Finding and fixing mistakes in a program.",
+      "explanation": "Debugging."
+    }
+  ]
+}

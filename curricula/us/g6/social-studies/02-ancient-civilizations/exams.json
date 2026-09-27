@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "social-studies",
+    "chapter": "02-ancient-civilizations"
+  },
+  "exams": [
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-exam",
+      "title": "Exam: Ancient Civilizations",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq01",
+          "type": "mcq",
+          "question": "Ancient Egypt developed along the river:",
+          "options": [
+            "Nile",
+            "Amazon",
+            "Hudson",
+            "Thames"
+          ],
+          "answer": "Nile",
+          "explanation": "River civilization."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq02",
+          "type": "true_false",
+          "question": "Early civilizations often began near rivers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Water for farming."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq03",
+          "type": "fill_blank",
+          "question": "Mesopotamia developed between the Tigris and ___ rivers.",
+          "answer": "Euphrates",
+          "explanation": "Fertile Crescent."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq04",
+          "type": "short_answer",
+          "question": "Why did early civilizations form near rivers?",
+          "answer": "Rivers provided water, fertile soil, and transport.",
+          "explanation": "River civilizations."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq01",
+          "type": "mcq",
+          "question": "Ancient Rome is known for advances in law and:",
+          "options": [
+            "engineering",
+            "spaceflight",
+            "computers",
+            "cars"
+          ],
+          "answer": "engineering",
+          "explanation": "Roman engineering."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq02",
+          "type": "true_false",
+          "question": "Ancient Greece contributed ideas about democracy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Greek legacy."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq03",
+          "type": "fill_blank",
+          "question": "A system of writing using pictures in Egypt is ___.",
+          "answer": "hieroglyphics",
+          "explanation": "Egyptian writing."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq04",
+          "type": "short_answer",
+          "question": "Name one lasting contribution of an ancient civilization.",
+          "answer": "e.g., Greek democracy, Roman roads, or Egyptian writing.",
+          "explanation": "Contributions."
+        }
+      ]
+    }
+  ]
+}

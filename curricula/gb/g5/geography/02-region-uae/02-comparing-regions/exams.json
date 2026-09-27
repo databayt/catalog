@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "geography",
+    "chapter": "02-region-uae",
+    "lesson": "02-comparing-regions"
+  },
+  "exams": [
+    {
+      "id": "g5-geo-unit-02-region-uae-02-comparing-regions-quiz",
+      "title": "Quiz: Comparing Regions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-geo-unit-02-region-uae-02-comparing-regions-lq01",
+          "type": "mcq",
+          "question": "Comparing the UAE and UK looks at climate, landscape and:",
+          "options": [
+            "prices",
+            "ways of life",
+            "fonts",
+            "ages"
+          ],
+          "answer": "ways of life",
+          "explanation": "Human geography."
+        },
+        {
+          "id": "g5-geo-unit-02-region-uae-02-comparing-regions-lq02",
+          "type": "true_false",
+          "question": "The UAE generally has a hotter, drier climate than the UK.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Climate contrast."
+        },
+        {
+          "id": "g5-geo-unit-02-region-uae-02-comparing-regions-lq03",
+          "type": "fill_blank",
+          "question": "Comparing places shows their similarities and ___.",
+          "answer": "differences",
+          "explanation": "Comparison."
+        },
+        {
+          "id": "g5-geo-unit-02-region-uae-02-comparing-regions-lq04",
+          "type": "short_answer",
+          "question": "Name one difference between the UAE and the UK.",
+          "answer": "e.g., climate, landscape, or population density.",
+          "explanation": "Region comparison."
+        }
+      ]
+    }
+  ]
+}

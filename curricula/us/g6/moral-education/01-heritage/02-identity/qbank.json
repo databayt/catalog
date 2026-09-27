@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "moral-education",
+    "chapter": "01-heritage",
+    "lesson": "02-identity"
+  },
+  "questions": [
+    {
+      "id": "g6-mor-unit-01-heritage-02-identity-lq01",
+      "type": "mcq",
+      "question": "Cultural identity includes language, customs and:",
+      "options": [
+        "values",
+        "weather",
+        "prices",
+        "fonts"
+      ],
+      "answer": "values",
+      "explanation": "Identity elements."
+    },
+    {
+      "id": "g6-mor-unit-01-heritage-02-identity-lq02",
+      "type": "true_false",
+      "question": "The Arabic language is part of Emirati identity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Language and identity."
+    },
+    {
+      "id": "g6-mor-unit-01-heritage-02-identity-lq03",
+      "type": "fill_blank",
+      "question": "The traditional gathering place for discussion is the ___.",
+      "answer": "majlis",
+      "explanation": "Majlis."
+    },
+    {
+      "id": "g6-mor-unit-01-heritage-02-identity-lq04",
+      "type": "short_answer",
+      "question": "Why is preserving cultural identity important?",
+      "answer": "It keeps a society's history, values and traditions alive.",
+      "explanation": "Identity."
+    }
+  ]
+}

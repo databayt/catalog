@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "moral-education",
+    "chapter": "02-values",
+    "lesson": "02-fairness"
+  },
+  "exams": [
+    {
+      "id": "g7-mor-unit-02-values-02-fairness-quiz",
+      "title": "Quiz: Fairness & Justice",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mor-unit-02-values-02-fairness-lq01",
+          "type": "mcq",
+          "question": "Being fair means treating people:",
+          "options": [
+            "equally and justly",
+            "differently for no reason",
+            "unkindly",
+            "with bias"
+          ],
+          "answer": "equally and justly",
+          "explanation": "Fairness."
+        },
+        {
+          "id": "g7-mor-unit-02-values-02-fairness-lq02",
+          "type": "true_false",
+          "question": "Justice means giving people their rights.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Justice."
+        },
+        {
+          "id": "g7-mor-unit-02-values-02-fairness-lq03",
+          "type": "fill_blank",
+          "question": "Treating everyone without bias is ___.",
+          "answer": "fairness",
+          "explanation": "Fairness."
+        },
+        {
+          "id": "g7-mor-unit-02-values-02-fairness-lq04",
+          "type": "short_answer",
+          "question": "Give an example of fairness.",
+          "answer": "e.g., applying the same rules to everyone.",
+          "explanation": "Fairness."
+        }
+      ]
+    }
+  ]
+}

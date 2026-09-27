@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g11-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-american-lit-01-movements-lq01",
+          "type": "mcq",
+          "question": "Transcendentalism emphasized:",
+          "options": [
+            "industry",
+            "individualism and nature",
+            "monarchy",
+            "warfare"
+          ],
+          "answer": "individualism and nature",
+          "explanation": "Emerson/Thoreau."
+        },
+        {
+          "id": "g11-eng-unit-01-american-lit-01-movements-lq02",
+          "type": "true_false",
+          "question": "The Harlem Renaissance celebrated African American culture.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1920s movement."
+        },
+        {
+          "id": "g11-eng-unit-02-argument-01-claims-evidence-lq01",
+          "type": "mcq",
+          "question": "A rebuttal responds to:",
+          "options": [
+            "your own claim",
+            "a counterargument",
+            "the title",
+            "the bibliography"
+          ],
+          "answer": "a counterargument",
+          "explanation": "Refutes opposition."
+        },
+        {
+          "id": "g11-eng-unit-02-argument-01-claims-evidence-lq02",
+          "type": "true_false",
+          "question": "Logical fallacies weaken an argument.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Avoid faulty reasoning."
+        }
+      ]
+    }
+  ]
+}

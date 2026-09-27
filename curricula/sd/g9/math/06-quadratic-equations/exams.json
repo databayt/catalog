@@ -1,0 +1,203 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "06-quadratic-equations"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-06-quiz",
+      "title": "اختبار - معادلات الدرجة الثانية",
+      "durationMinutes": 20,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-mat-unit-06-01-general-form-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-06-01-general-form-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-06-02-solving-quadratic-equations-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-06-02-solving-quadratic-equations-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-06-03-special-cases-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-06-03-special-cases-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-06-04-forming-quadratic-from-roots-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-06-04-forming-quadratic-from-roots-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-06-quadratic-equations-1",
+      "title": "معادلات الدرجة الثانية",
+      "kind": "test",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "9ea30af3",
+          "type": "mcq",
+          "question": "ما الصيغة العامة لمعادلة الدرجة الثانية؟",
+          "options": [
+            "ax + b = 0",
+            "ax² + bx + c = 0",
+            "ax³ + bx² + cx = 0",
+            "ax² = 0"
+          ],
+          "answer": "ax² + bx + c = 0",
+          "explanation": "الصيغة العامة لمعادلة الدرجة الثانية في متغير واحد"
+        },
+        {
+          "id": "fb66564b",
+          "type": "fill_blank",
+          "question": "حل المعادلة x² - 4 = 0 هو x = ___ أو x = ___",
+          "answer": "2 و -2",
+          "explanation": "x² = 4، فإن x = ±2"
+        },
+        {
+          "id": "453ae7bf",
+          "type": "true_false",
+          "question": "يمكن حل معادلات الدرجة الثانية بالتحليل أو الصيغة العامة",
+          "answer": true,
+          "explanation": "كلا الطريقتين صحيحة"
+        },
+        {
+          "id": "4a6958a5",
+          "type": "short_answer",
+          "question": "حل: x² - 5x + 6 = 0",
+          "answer": "x = 2 أو x = 3",
+          "explanation": "(x-2)(x-3) = 0، فالحلول هي 2 و 3"
+        },
+        {
+          "id": "cc457c24",
+          "type": "mcq",
+          "question": "كم عدد جذور المعادلة الثنائية؟",
+          "options": [
+            "جذر واحد",
+            "جذران",
+            "ثلاثة جذور",
+            "يعتمد على المعادلة"
+          ],
+          "answer": "جذران",
+          "explanation": "معادلة الدرجة الثانية لها جذران (قد تكونان متساويتين)"
+        },
+        {
+          "id": "4a2ad83f",
+          "type": "true_false",
+          "question": "جذرا المعادلة x² - 3x + 2 = 0 هما 1 و 2",
+          "answer": true,
+          "explanation": "(x-1)(x-2) = 0، الجذران هما 1 و 2"
+        },
+        {
+          "id": "18b33d2a",
+          "type": "fill_blank",
+          "question": "في المعادلة ax² + bx + c = 0، المميز Δ = ___",
+          "answer": "b² - 4ac",
+          "explanation": "المميز يحدد طبيعة الجذور"
+        },
+        {
+          "id": "527d3f49",
+          "type": "short_answer",
+          "question": "كون معادلة جذراها 3 و 4",
+          "answer": "x² - 7x + 12 = 0",
+          "explanation": "(x-3)(x-4) = 0 ينفك إلى x² - 7x + 12 = 0"
+        },
+        {
+          "id": "7054fa01",
+          "type": "mcq",
+          "question": "حل المعادلة 2x² - 8 = 0:",
+          "options": [
+            "x = 2",
+            "x = -2",
+            "x = ±2",
+            "لا يوجد حل"
+          ],
+          "answer": "x = ±2",
+          "explanation": "2x² = 8، x² = 4، x = ±2"
+        }
+      ]
+    }
+  ]
+}

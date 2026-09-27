@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "social-studies",
+    "chapter": "02-justice",
+    "lesson": "02-rights"
+  },
+  "exams": [
+    {
+      "id": "g11-uae-unit-02-justice-02-rights-quiz",
+      "title": "Quiz: Human Rights",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-uae-unit-02-justice-02-rights-lq01",
+          "type": "mcq",
+          "question": "Human rights belong to:",
+          "options": [
+            "every person",
+            "some people only",
+            "leaders only",
+            "adults only"
+          ],
+          "answer": "every person",
+          "explanation": "Universal rights."
+        },
+        {
+          "id": "g11-uae-unit-02-justice-02-rights-lq02",
+          "type": "true_false",
+          "question": "Respecting human rights is a shared responsibility.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rights."
+        },
+        {
+          "id": "g11-uae-unit-02-justice-02-rights-lq03",
+          "type": "fill_blank",
+          "question": "Basic freedoms that belong to all people are human ___.",
+          "answer": "rights",
+          "explanation": "Human rights."
+        },
+        {
+          "id": "g11-uae-unit-02-justice-02-rights-lq04",
+          "type": "short_answer",
+          "question": "Name one basic human right.",
+          "answer": "e.g., education, freedom of belief, or fair treatment.",
+          "explanation": "Human rights."
+        }
+      ]
+    }
+  ]
+}

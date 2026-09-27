@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "business",
+    "chapter": "01-enterprise",
+    "lesson": "02-marketing"
+  },
+  "questions": [
+    {
+      "id": "g11-bus-unit-01-enterprise-02-marketing-lq01",
+      "type": "mcq",
+      "question": "The 4 Ps include Product, Price, Place and:",
+      "options": [
+        "Promotion",
+        "Plants",
+        "Players",
+        "Pixels"
+      ],
+      "answer": "Promotion",
+      "explanation": "Marketing mix."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-02-marketing-lq02",
+      "type": "true_false",
+      "question": "Market research helps a business understand customers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Research."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-02-marketing-lq03",
+      "type": "fill_blank",
+      "question": "Advertising a product to customers is ___.",
+      "answer": "promotion",
+      "explanation": "Promotion."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-02-marketing-lq04",
+      "type": "short_answer",
+      "question": "What is the marketing mix?",
+      "answer": "The combination of Product, Price, Place and Promotion.",
+      "explanation": "Marketing mix."
+    }
+  ]
+}

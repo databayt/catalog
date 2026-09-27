@@ -1,0 +1,306 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g6-arabic",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-general-review",
+      "title": {
+        "ar": "الوحدة الأولى: مراجعة عامة",
+        "en": "Unit 1: General Review"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-hatim-al-tai-generosity",
+          "title": {
+            "ar": "أكرم من هاتم الطائي",
+            "en": "The Generosity of Hatim al-Ta'i"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-rationalizing-water-use",
+          "title": {
+            "ar": "ترشيد استهلاك المياه",
+            "en": "Rationalizing Water Consumption"
+          },
+          "page": 5
+        },
+        {
+          "slug": "03-al-mamun-and-his-sons-tutor",
+          "title": {
+            "ar": "المأمون ومؤدب ولده",
+            "en": "Al-Ma'mun and His Son's Tutor"
+          },
+          "page": 8
+        },
+        {
+          "slug": "04-wise-mans-counsels",
+          "title": {
+            "ar": "من وصايا الحكيم",
+            "en": "From the Wise Man's Counsels"
+          },
+          "page": 11
+        }
+      ]
+    },
+    {
+      "slug": "02-art-of-writing",
+      "title": {
+        "ar": "الوحدة الثانية: فن الكتابة",
+        "en": "Unit 2: The Art of Writing"
+      },
+      "concept": "language",
+      "image": "clickview/middle-writing-skills-cover.jpg",
+      "page": 13,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-key-to-success",
+          "title": {
+            "ar": "مفتاح النجاح",
+            "en": "The Key to Success"
+          },
+          "page": 14
+        },
+        {
+          "slug": "02-importance-of-time",
+          "title": {
+            "ar": "أهمية الوقت",
+            "en": "The Importance of Time"
+          },
+          "page": 18
+        },
+        {
+          "slug": "03-freedom",
+          "title": {
+            "ar": "الحرية",
+            "en": "Freedom"
+          },
+          "page": 21
+        },
+        {
+          "slug": "04-loyalty-of-the-dog",
+          "title": {
+            "ar": "وفاء الكلب",
+            "en": "The Dog's Loyalty"
+          },
+          "page": 24
+        },
+        {
+          "slug": "05-decent-work",
+          "title": {
+            "ar": "عمل لائق",
+            "en": "Decent Work"
+          },
+          "page": 28
+        },
+        {
+          "slug": "06-revolt-of-the-books",
+          "title": {
+            "ar": "ثورة الكتب",
+            "en": "The Revolt of the Books"
+          },
+          "page": 31
+        },
+        {
+          "slug": "07-proverbs-and-wisdom",
+          "title": {
+            "ar": "حكم وأمثال",
+            "en": "Wisdoms and Proverbs"
+          },
+          "page": 37
+        }
+      ]
+    },
+    {
+      "slug": "03-wisdom-and-anecdotes",
+      "title": {
+        "ar": "الوحدة الثالثة: حكم وطرائف",
+        "en": "Unit 3: Wisdom and Anecdotes"
+      },
+      "concept": "language",
+      "image": "clickview/middle-genre-cover.jpg",
+      "page": 44,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-tales-of-fools",
+          "title": {
+            "ar": "من أخبار الحمقى والمغفلين",
+            "en": "Tales of Fools and the Simple-Minded"
+          },
+          "page": 45
+        },
+        {
+          "slug": "02-tales-of-misers",
+          "title": {
+            "ar": "من أخبار البخلاء",
+            "en": "Tales of the Misers"
+          },
+          "page": 48
+        },
+        {
+          "slug": "03-my-times",
+          "title": {
+            "ar": "أوقاتي",
+            "en": "My Times"
+          },
+          "page": 51
+        },
+        {
+          "slug": "04-proverbs-and-sayings",
+          "title": {
+            "ar": "أمثال وحكم",
+            "en": "Proverbs and Sayings"
+          },
+          "page": 59
+        },
+        {
+          "slug": "05-the-bedouins-reading",
+          "title": {
+            "ar": "قراءة البدوي",
+            "en": "The Bedouin's Reading"
+          },
+          "page": 64
+        }
+      ]
+    },
+    {
+      "slug": "04-miscellaneous",
+      "title": {
+        "ar": "الوحدة الرابعة: متفرقات",
+        "en": "Unit 4: Miscellaneous"
+      },
+      "concept": "language",
+      "image": "clickview/middle-inference-cover.jpg",
+      "page": 70,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-wisdom-sought-in-his-house",
+          "title": {
+            "ar": "في بيته يؤتى الحكم",
+            "en": "In His House Wisdom Is Sought"
+          },
+          "page": 71
+        },
+        {
+          "slug": "02-sons-of-the-schools",
+          "title": {
+            "ar": "أبناء المدارس",
+            "en": "Sons of the Schools"
+          },
+          "page": 73
+        },
+        {
+          "slug": "03-verdict-of-al-tanbouri",
+          "title": {
+            "ar": "قضاء الطنبوري",
+            "en": "The Judgment of Al-Tanbouri"
+          },
+          "page": 76
+        },
+        {
+          "slug": "04-a-girls-beauty-in-her-character",
+          "title": {
+            "ar": "جمال الفتاة في أخلاقها",
+            "en": "A Girl's Beauty Is in Her Character"
+          },
+          "page": 81
+        },
+        {
+          "slug": "05-the-dentist",
+          "title": {
+            "ar": "طبيب الأسنان",
+            "en": "The Dentist"
+          },
+          "page": 85
+        },
+        {
+          "slug": "06-leader-of-the-people",
+          "title": {
+            "ar": "رئيس القوم",
+            "en": "The Leader of the People"
+          },
+          "page": 93
+        }
+      ]
+    },
+    {
+      "slug": "05-my-homeland",
+      "title": {
+        "ar": "الوحدة الخامسة: وطني",
+        "en": "Unit 5: My Homeland"
+      },
+      "concept": "language",
+      "image": "clickview/middle-imagery-cover.jpg",
+      "page": 96,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-coral-gardens-of-the-sea",
+          "title": {
+            "ar": "حدائق البحر المرجانية",
+            "en": "The Coral Gardens of the Sea"
+          },
+          "page": 97
+        },
+        {
+          "slug": "02-nubian-anthem",
+          "title": {
+            "ar": "نشيد نوبي",
+            "en": "A Nubian Anthem"
+          },
+          "page": 103,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-al-tijani-al-mahi",
+          "title": {
+            "ar": "التجاني الماحي",
+            "en": "Al-Tijani Al-Mahi"
+          },
+          "page": 111
+        },
+        {
+          "slug": "04-dinder-tourist-reserve",
+          "title": {
+            "ar": "محمية الدندر السياحية",
+            "en": "The Dinder Tourist Reserve"
+          },
+          "page": 115
+        },
+        {
+          "slug": "05-sudans-wedding",
+          "title": {
+            "ar": "عرس السودان",
+            "en": "Sudan's Wedding"
+          },
+          "page": 119
+        }
+      ]
+    }
+  ]
+}

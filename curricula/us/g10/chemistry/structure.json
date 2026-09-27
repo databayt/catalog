@@ -1,0 +1,98 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "us-g10-chemistry",
+  "curriculum": "us",
+  "grade": "g10",
+  "subject": "chemistry",
+  "title": {
+    "ar": "الكيمياء",
+    "en": "Chemistry"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "chemistry",
+  "source": {
+    "publisher": "aldar",
+    "title": "Chemistry (Massachusetts/Common Core/NGSS aligned)",
+    "url": "https://www.doe.mass.edu/frameworks/",
+    "license": "LicenseRef-Publisher",
+    "standards": "NGSS Physical Science",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science); Advanced Placement (College Board); American High School Diploma",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "OpenStax — free, CC-licensed textbooks (Biology/Chemistry/Physics)",
+      "url": "https://openstax.org/subjects"
+    },
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    },
+    {
+      "title": "Advanced Placement (College Board) — course frameworks",
+      "url": "https://apstudents.collegeboard.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-atomic",
+      "title": {
+        "en": "Atomic Structure & the Periodic Table"
+      },
+      "lessons": [
+        {
+          "slug": "01-atom",
+          "title": {
+            "en": "Structure of the Atom"
+          }
+        },
+        {
+          "slug": "02-periodic-table",
+          "title": {
+            "en": "The Periodic Table"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-bonding-reactions",
+      "title": {
+        "en": "Bonding & Reactions"
+      },
+      "lessons": [
+        {
+          "slug": "01-bonding",
+          "title": {
+            "en": "Chemical Bonding"
+          }
+        },
+        {
+          "slug": "02-reactions",
+          "title": {
+            "en": "Chemical Reactions"
+          }
+        }
+      ]
+    }
+  ]
+}

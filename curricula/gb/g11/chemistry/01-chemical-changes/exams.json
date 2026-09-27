@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "chemistry",
+    "chapter": "01-chemical-changes"
+  },
+  "exams": [
+    {
+      "id": "g11-che-unit-01-chemical-changes-exam",
+      "title": "Exam: Chemical Changes",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq01",
+          "type": "mcq",
+          "question": "An acid has a pH:",
+          "options": [
+            "7",
+            "above 7",
+            "below 7",
+            "exactly 14"
+          ],
+          "answer": "below 7",
+          "explanation": "Acidic."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq02",
+          "type": "true_false",
+          "question": "Acid + base → salt + water (neutralisation).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Neutralisation."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq03",
+          "type": "fill_blank",
+          "question": "A solution with pH 7 is ___.",
+          "answer": "neutral",
+          "explanation": "Neutral."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq04",
+          "type": "short_answer",
+          "question": "What is produced when an acid reacts with a metal?",
+          "answer": "A salt and hydrogen gas.",
+          "explanation": "Acid + metal."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq01",
+          "type": "mcq",
+          "question": "Electrolysis uses electricity to break down a(n):",
+          "options": [
+            "element",
+            "compound",
+            "mixture",
+            "gas"
+          ],
+          "answer": "compound",
+          "explanation": "Decomposition."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq02",
+          "type": "true_false",
+          "question": "Positive ions move to the negative electrode (cathode).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Attraction."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq03",
+          "type": "fill_blank",
+          "question": "The negative electrode is the ___.",
+          "answer": "cathode",
+          "explanation": "Cathode."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq04",
+          "type": "short_answer",
+          "question": "Why must a substance be molten or in solution for electrolysis?",
+          "answer": "So ions are free to move and carry charge.",
+          "explanation": "Electrolyte."
+        }
+      ]
+    }
+  ]
+}

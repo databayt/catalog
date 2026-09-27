@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "physical-education"
+  },
+  "exams": [
+    {
+      "id": "us-g8-physical-education-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-phy-unit-01-fitness-01-components-lq01",
+          "type": "mcq",
+          "question": "Which is a component of fitness?",
+          "options": [
+            "stamina",
+            "spelling",
+            "singing",
+            "sleeping in"
+          ],
+          "answer": "stamina",
+          "explanation": "Cardiovascular endurance."
+        },
+        {
+          "id": "g8-phy-unit-01-fitness-01-components-lq02",
+          "type": "true_false",
+          "question": "Flexibility is the range of movement at a joint.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Flexibility."
+        },
+        {
+          "id": "g8-phy-unit-02-games-tactics-01-skills-lq01",
+          "type": "mcq",
+          "question": "Practising a skill repeatedly helps:",
+          "options": [
+            "improve performance",
+            "get worse",
+            "waste time",
+            "do nothing"
+          ],
+          "answer": "improve performance",
+          "explanation": "Practice."
+        },
+        {
+          "id": "g8-phy-unit-02-games-tactics-01-skills-lq02",
+          "type": "true_false",
+          "question": "Good technique improves both performance and safety.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Technique."
+        }
+      ]
+    }
+  ]
+}

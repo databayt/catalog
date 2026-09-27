@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-geo-unit-01-urban-01-urban-growth-lq01",
+          "type": "mcq",
+          "question": "Rapid city growth in poorer countries can create:",
+          "options": [
+            "squatter settlements",
+            "empty cities",
+            "no migration",
+            "more farms"
+          ],
+          "answer": "squatter settlements",
+          "explanation": "Informal housing."
+        },
+        {
+          "id": "g11-geo-unit-01-urban-01-urban-growth-lq02",
+          "type": "true_false",
+          "question": "Push and pull factors drive rural-to-urban migration.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Migration factors."
+        },
+        {
+          "id": "g11-geo-unit-02-economic-world-01-development-gap-lq01",
+          "type": "mcq",
+          "question": "The difference in wealth between richer and poorer countries is the development:",
+          "options": [
+            "gap",
+            "bridge",
+            "road",
+            "wall"
+          ],
+          "answer": "gap",
+          "explanation": "Global inequality."
+        },
+        {
+          "id": "g11-geo-unit-02-economic-world-01-development-gap-lq02",
+          "type": "true_false",
+          "question": "Aid and trade can help reduce the development gap.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Development strategies."
+        }
+      ]
+    }
+  ]
+}

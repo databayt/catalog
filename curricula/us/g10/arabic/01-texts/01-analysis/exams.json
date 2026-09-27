@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "arabic",
+    "chapter": "01-texts",
+    "lesson": "01-analysis"
+  },
+  "exams": [
+    {
+      "id": "g10-ara-unit-01-texts-01-analysis-quiz",
+      "title": "Quiz: تحليل النص الأدبي",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq01",
+          "type": "mcq",
+          "question": "الغرض من تحليل النص هو فهم:",
+          "options": [
+            "عدد الكلمات",
+            "المعنى والأساليب",
+            "الخط",
+            "السعر"
+          ],
+          "answer": "المعنى والأساليب",
+          "explanation": "التحليل الأدبي."
+        },
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq02",
+          "type": "true_false",
+          "question": "الصورة الفنية تعتمد على التشبيه والاستعارة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الصور البلاغية."
+        },
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq03",
+          "type": "fill_blank",
+          "question": "تشبيه شيء بشيء بأداة تشبيه يسمى ___.",
+          "answer": "التشبيه",
+          "explanation": "البلاغة."
+        },
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq04",
+          "type": "short_answer",
+          "question": "لماذا نحلل النصوص الأدبية؟",
+          "answer": "لفهم أفكار الكاتب وأساليبه الجمالية.",
+          "explanation": "التحليل."
+        }
+      ]
+    }
+  ]
+}

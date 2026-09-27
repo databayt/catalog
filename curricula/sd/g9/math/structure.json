@@ -1,0 +1,531 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g9-math",
+  "curriculum": "sd",
+  "grade": "g9",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "math",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-functions-mappings",
+      "title": {
+        "ar": "الدالة (التطبيق)",
+        "en": "Functions (Mappings)"
+      },
+      "concept": "math",
+      "image": "clickview/high-functions-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-function-definition",
+          "title": {
+            "ar": "تعريف الدالة (التطبيق)"
+          }
+        },
+        {
+          "slug": "02-image-of-element",
+          "title": {
+            "ar": "صورة العنصر"
+          }
+        },
+        {
+          "slug": "03-range",
+          "title": {
+            "ar": "مدى التطبيق"
+          }
+        },
+        {
+          "slug": "04-surjective-function",
+          "title": {
+            "ar": "أنواع من التطبيقات (التطبيق الشامل)"
+          }
+        },
+        {
+          "slug": "05-injective-function",
+          "title": {
+            "ar": "التطبيق المتباين (واحد لواحد)"
+          }
+        },
+        {
+          "slug": "06-bijective-function",
+          "title": {
+            "ar": "التقابل"
+          }
+        },
+        {
+          "slug": "07-graphing-functions",
+          "title": {
+            "ar": "تمثيل التطبيق بيانياً"
+          }
+        },
+        {
+          "slug": "08-inverse-function",
+          "title": {
+            "ar": "التطبيق العكسي"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-exponents-and-logarithms",
+      "title": {
+        "ar": "الأسس واللوغاريتمات",
+        "en": "Exponents and Logarithms"
+      },
+      "concept": "math",
+      "image": "clickview/high-exponents-powers-and-radicals-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-base-and-power",
+          "title": {
+            "ar": "الأساس والقوة"
+          }
+        },
+        {
+          "slug": "02-multiplying-powers",
+          "title": {
+            "ar": "ضرب القوى"
+          }
+        },
+        {
+          "slug": "03-power-of-power",
+          "title": {
+            "ar": "رفع قوة لقوة"
+          }
+        },
+        {
+          "slug": "04-multiplying-different-bases",
+          "title": {
+            "ar": "ضرب أعداد ذات أساسات مختلفة وقوة موحدة"
+          }
+        },
+        {
+          "slug": "05-dividing-powers",
+          "title": {
+            "ar": "قسمة القوى"
+          }
+        },
+        {
+          "slug": "06-zero-and-negative-exponents",
+          "title": {
+            "ar": "الأس الصفري والأسس السالبة"
+          }
+        },
+        {
+          "slug": "07-dividing-same-power",
+          "title": {
+            "ar": "قسمة الأعداد ذات القوة الموحدة"
+          }
+        },
+        {
+          "slug": "08-cumulative-review",
+          "title": {
+            "ar": "مراجعة تراكمية"
+          }
+        },
+        {
+          "slug": "09-logarithm",
+          "title": {
+            "ar": "اللوغاريثم"
+          },
+          "image": "clickview/high-logarithms-cover.jpg"
+        },
+        {
+          "slug": "10-common-logarithm",
+          "title": {
+            "ar": "اللوغاريثمات المعتادة (اللوغاريثم العشري)"
+          },
+          "image": "clickview/high-logarithms-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-the-cartesian-plane-and-simultaneous-equations",
+      "title": {
+        "ar": "المستوى الديكارتي والمعادلات الآنية",
+        "en": "The Cartesian Plane and Simultaneous Equations"
+      },
+      "concept": "math",
+      "image": "clickview/high-systems-of-equations-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-cartesian-plane",
+          "title": {
+            "ar": "تعيين موضع النقط في المستوى الديكارتي"
+          }
+        },
+        {
+          "slug": "02-linear-equation-two-variables",
+          "title": {
+            "ar": "معادلة الدرجة الأولى في مجهولين والخط المستقيم"
+          },
+          "image": "clickview/high-linear-equations-cover.jpg"
+        },
+        {
+          "slug": "03-graphical-solution",
+          "title": {
+            "ar": "حل المعادلات الآنية من الدرجة الأولى في مجهولين بيانياً"
+          }
+        },
+        {
+          "slug": "04-algebraic-solution",
+          "title": {
+            "ar": "حل المعادلات الآنية من الدرجة الأولى في مجهولين جبرياً"
+          }
+        },
+        {
+          "slug": "05-elimination-method",
+          "title": {
+            "ar": "الطريقة الثانية: طريقة الحذف بالمقابلة"
+          }
+        },
+        {
+          "slug": "06-substitution-method",
+          "title": {
+            "ar": "الطريقة الثالثة: طريقة الحذف بالتعويض"
+          }
+        },
+        {
+          "slug": "07-word-problems",
+          "title": {
+            "ar": "مسائل لفظية على المعادلات الآنية"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-the-circle",
+      "title": {
+        "ar": "الدائرة",
+        "en": "The Circle"
+      },
+      "concept": "math",
+      "image": "clickview/high-analytic-geometry-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-circle-basics",
+          "title": {
+            "ar": "المفاهيم الأساسية للدائرة"
+          }
+        },
+        {
+          "slug": "02-equal-chords-and-arcs",
+          "title": {
+            "ar": "الأوتار المتساوية والأقواس المتساوية"
+          }
+        },
+        {
+          "slug": "03-theorem-2",
+          "title": {
+            "ar": "النظرية (٢) - المستقيم الذي يصل منتصف الوتر بمركز الدائرة"
+          }
+        },
+        {
+          "slug": "04-theorem-3",
+          "title": {
+            "ar": "النظرية (٣) - العمود النازل من مركز الدائرة على الوتر ينصف الوتر"
+          }
+        },
+        {
+          "slug": "05-perpendicular-from-center",
+          "title": {
+            "ar": "تطبيقات على العمود النازل من مركز الدائرة"
+          }
+        },
+        {
+          "slug": "06-central-angle",
+          "title": {
+            "ar": "الزاوية المركزية"
+          }
+        },
+        {
+          "slug": "07-inscribed-angles",
+          "title": {
+            "ar": "الزوايا المحيطية"
+          }
+        },
+        {
+          "slug": "08-intersecting-chords",
+          "title": {
+            "ar": "الأوتار المتقاطعة"
+          }
+        },
+        {
+          "slug": "09-cyclic-quadrilateral",
+          "title": {
+            "ar": "الرباعي الدائري"
+          }
+        },
+        {
+          "slug": "10-tangent",
+          "title": {
+            "ar": "مماس الدائرة"
+          }
+        },
+        {
+          "slug": "11-theorem-12",
+          "title": {
+            "ar": "النظرية (١٢)"
+          }
+        },
+        {
+          "slug": "12-theorem-13",
+          "title": {
+            "ar": "النظرية (١٣)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-multiplying-and-factoring-algebraic-expressions",
+      "title": {
+        "ar": "ضرب وتحليل المقادير الجبرية",
+        "en": "Multiplying and Factoring Algebraic Expressions"
+      },
+      "concept": "math",
+      "image": "clickview/high-algebraic-expressions-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-multiplying-algebraic-expressions",
+          "title": {
+            "ar": "ضرب المقادير الجبرية"
+          }
+        },
+        {
+          "slug": "02-factoring-algebraic-expression",
+          "title": {
+            "ar": "تحليل المقدار الجبري"
+          }
+        },
+        {
+          "slug": "03-common-factor",
+          "title": {
+            "ar": "التحليل باستخراج العامل المشترك"
+          }
+        },
+        {
+          "slug": "04-relation-x-minus-y",
+          "title": {
+            "ar": "العلاقة بين المقدار الجبري (س - ص) والمقدار الجبري (ص - س)"
+          }
+        },
+        {
+          "slug": "05-relation-and-common-factor",
+          "title": {
+            "ar": "العلاقة بين (س – ص) و(ص – س) واستخراج العامل المشترك"
+          }
+        },
+        {
+          "slug": "06-factoring-by-grouping",
+          "title": {
+            "ar": "التحليل بواسطة التجميع"
+          }
+        },
+        {
+          "slug": "07-quadratic-expression",
+          "title": {
+            "ar": "المقدار الجبري من الدرجة الثانية"
+          }
+        },
+        {
+          "slug": "08-factoring-quadratic-unit-coefficient",
+          "title": {
+            "ar": "تحليل المقدار الجبري من الدرجة الثانية إذا كان معامل س² الواحد الصحيح"
+          }
+        },
+        {
+          "slug": "09-perfect-square",
+          "title": {
+            "ar": "المربع الكامل"
+          }
+        },
+        {
+          "slug": "10-identifying-perfect-square",
+          "title": {
+            "ar": "تمييز المربع الكامل"
+          }
+        },
+        {
+          "slug": "11-factoring-perfect-square",
+          "title": {
+            "ar": "تحليل المربع الكامل"
+          }
+        },
+        {
+          "slug": "12-difference-of-squares",
+          "title": {
+            "ar": "تحليل الفرق بين مربعين"
+          }
+        },
+        {
+          "slug": "13-difference-of-squares-applications",
+          "title": {
+            "ar": "تطبيقات على الفرق بين مربعين"
+          }
+        },
+        {
+          "slug": "14-sum-and-difference-of-cubes",
+          "title": {
+            "ar": "تحليل مجموع مكعبين والفرق بينهما"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-quadratic-equations",
+      "title": {
+        "ar": "معادلات الدرجة الثانية",
+        "en": "Quadratic Equations"
+      },
+      "concept": "math",
+      "image": "clickview/high-quadratics-and-polynomials-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-general-form",
+          "title": {
+            "ar": "الصورة العامة لمعادلة الدرجة الثانية في متغير واحد"
+          }
+        },
+        {
+          "slug": "02-solving-quadratic-equations",
+          "title": {
+            "ar": "حل معادلات الدرجة الثانية"
+          }
+        },
+        {
+          "slug": "03-special-cases",
+          "title": {
+            "ar": "الحالات الخاصة لمعادلة الدرجة الثانية"
+          }
+        },
+        {
+          "slug": "04-forming-quadratic-from-roots",
+          "title": {
+            "ar": "تكوين معادلة الدرجة الثانية في متغير واحد إذا عُلم جذراها"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-statistics",
+      "title": {
+        "ar": "الإحصاء",
+        "en": "Statistics"
+      },
+      "concept": "math",
+      "image": "clickview/high-statistical-concepts-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-frequency-table",
+          "title": {
+            "ar": "الجدول التكراري ذو الفئات"
+          }
+        },
+        {
+          "slug": "02-constructing-frequency-table",
+          "title": {
+            "ar": "إنشاء الجدول التكراري ذي الفئات"
+          }
+        },
+        {
+          "slug": "03-histogram",
+          "title": {
+            "ar": "تمثيل البيانات الإحصائية بيانياً بواسطة المدرج التكراري"
+          }
+        },
+        {
+          "slug": "04-frequency-polygon",
+          "title": {
+            "ar": "تمثيل البيانات الإحصائية بيانياً بواسطة المضلع التكراري"
+          }
+        },
+        {
+          "slug": "05-arithmetic-mean",
+          "title": {
+            "ar": "الوسط الحسابي"
+          },
+          "image": "clickview/high-analyzing-data-cover.jpg"
+        },
+        {
+          "slug": "06-median",
+          "title": {
+            "ar": "الوسيط"
+          },
+          "image": "clickview/high-analyzing-data-cover.jpg"
+        },
+        {
+          "slug": "07-mode",
+          "title": {
+            "ar": "المنوال"
+          },
+          "image": "clickview/high-analyzing-data-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "08-volumes",
+      "title": {
+        "ar": "الحجوم",
+        "en": "Volumes"
+      },
+      "concept": "math",
+      "image": "clickview/middle-area-perimeter-surface-area-and-volume-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-volume-concept",
+          "title": {
+            "ar": "مفهوم الحجم ووحدة قياسه"
+          }
+        },
+        {
+          "slug": "02-rectangular-prism-volume",
+          "title": {
+            "ar": "حجم المنشور (متوازي المستطيلات)"
+          }
+        },
+        {
+          "slug": "03-cube-volume",
+          "title": {
+            "ar": "حجم المكعب"
+          }
+        },
+        {
+          "slug": "04-pyramid-volume",
+          "title": {
+            "ar": "حجم الهرم"
+          }
+        },
+        {
+          "slug": "05-cylinder-volume",
+          "title": {
+            "ar": "حجم الأسطوانة"
+          }
+        },
+        {
+          "slug": "06-cone-volume",
+          "title": {
+            "ar": "حجم المخروط"
+          }
+        },
+        {
+          "slug": "07-sphere-volume",
+          "title": {
+            "ar": "حجم الكرة"
+          }
+        }
+      ]
+    }
+  ]
+}

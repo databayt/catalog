@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "02-sentence"
+  },
+  "questions": [
+    {
+      "id": "g2-ara-unit-02-sentence-01-make-sentence-lq01",
+      "type": "mcq",
+      "question": "أي مما يلي جملة مفيدة؟",
+      "options": [
+        "الكتابُ مفيدٌ",
+        "كتاب على",
+        "في إلى",
+        "وَ ثم"
+      ],
+      "answer": "الكتابُ مفيدٌ",
+      "explanation": "تعطي معنى تاماً."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-01-make-sentence-lq02",
+      "type": "true_false",
+      "question": "الجملة المفيدة تعطي معنى تاماً.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف الجملة."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-01-make-sentence-lq03",
+      "type": "fill_blank",
+      "question": "أكمل: الطائر ___ (يطير).",
+      "answer": "يطير",
+      "explanation": "فعل مناسب."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-01-make-sentence-lq04",
+      "type": "short_answer",
+      "question": "كوّن جملة مفيدة عن المدرسة.",
+      "answer": "مثل: المدرسةُ نظيفةٌ.",
+      "explanation": "تكوين جملة."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-02-word-order-lq01",
+      "type": "mcq",
+      "question": "رتّب: (الولدُ - يلعبُ) لتكوين جملة فعلية صحيحة:",
+      "options": [
+        "يلعبُ الولدُ",
+        "الولدُ الولدُ",
+        "يلعبُ يلعبُ",
+        "لا شيء"
+      ],
+      "answer": "يلعبُ الولدُ",
+      "explanation": "الفعل ثم الفاعل."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-02-word-order-lq02",
+      "type": "true_false",
+      "question": "نبدأ الجملة الفعلية بالفعل.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "ترتيب الجملة الفعلية."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-02-word-order-lq03",
+      "type": "fill_blank",
+      "question": "الجملة التي تبدأ باسم تسمى الجملة ___.",
+      "answer": "الاسمية",
+      "explanation": "الاسمية."
+    },
+    {
+      "id": "g2-ara-unit-02-sentence-02-word-order-lq04",
+      "type": "short_answer",
+      "question": "اجعل (يكتبُ الطالبُ) جملة اسمية.",
+      "answer": "الطالبُ يكتبُ.",
+      "explanation": "تحويل الجملة."
+    }
+  ]
+}

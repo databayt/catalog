@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "moral-education"
+  },
+  "exams": [
+    {
+      "id": "us-g7-moral-education-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq01",
+          "type": "mcq",
+          "question": "The UAE is a federation led by the:",
+          "options": [
+            "Federal Supreme Council",
+            "one city",
+            "a company",
+            "a school"
+          ],
+          "answer": "Federal Supreme Council",
+          "explanation": "Federation."
+        },
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq02",
+          "type": "true_false",
+          "question": "Each emirate has its own ruler.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rulers."
+        },
+        {
+          "id": "g7-mor-unit-02-values-01-cooperation-lq01",
+          "type": "mcq",
+          "question": "Cooperation means working:",
+          "options": [
+            "together",
+            "alone always",
+            "against others",
+            "never"
+          ],
+          "answer": "together",
+          "explanation": "Teamwork."
+        },
+        {
+          "id": "g7-mor-unit-02-values-01-cooperation-lq02",
+          "type": "true_false",
+          "question": "Teams achieve more when members cooperate.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cooperation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "science",
+    "chapter": "02-physics",
+    "lesson": "02-waves"
+  },
+  "exams": [
+    {
+      "id": "g9-sci-unit-02-physics-02-waves-quiz",
+      "title": "Quiz: Waves",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-sci-unit-02-physics-02-waves-lq01",
+          "type": "mcq",
+          "question": "Sound waves are:",
+          "options": [
+            "transverse",
+            "longitudinal",
+            "electromagnetic",
+            "still"
+          ],
+          "answer": "longitudinal",
+          "explanation": "Compressions/rarefactions."
+        },
+        {
+          "id": "g9-sci-unit-02-physics-02-waves-lq02",
+          "type": "true_false",
+          "question": "Light is a transverse wave.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "EM wave."
+        },
+        {
+          "id": "g9-sci-unit-02-physics-02-waves-lq03",
+          "type": "fill_blank",
+          "question": "The number of waves per second is the ___.",
+          "answer": "frequency",
+          "explanation": "Measured in Hz."
+        },
+        {
+          "id": "g9-sci-unit-02-physics-02-waves-lq04",
+          "type": "short_answer",
+          "question": "What is the difference between a longitudinal and transverse wave?",
+          "answer": "Longitudinal vibrates along the direction of travel; transverse vibrates at right angles to it.",
+          "explanation": "Wave types."
+        }
+      ]
+    }
+  ]
+}

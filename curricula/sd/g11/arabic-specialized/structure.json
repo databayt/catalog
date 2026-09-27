@@ -1,0 +1,557 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-arabic-specialized",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "arabic-specialized",
+  "title": {
+    "ar": "اللغة العربية الخاصة",
+    "en": "Specialised Arabic"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "اللغة العربية الخاصة — الصف الثاني الثانوي — الطبعة الأولى رجب ١٤٢٨هـ / يوليو ٢٠٠٧م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-no-legacy-structure"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-lesson-1-review",
+      "title": {
+        "ar": "الدرس الأول: مراجعة",
+        "en": "Lesson 1: Review"
+      },
+      "concept": "language",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-review-review",
+          "title": {
+            "ar": "مراجعة (مراجعة)",
+            "en": "Review (Review)"
+          },
+          "page": 1
+        }
+      ]
+    },
+    {
+      "slug": "02-lesson-2-love-of-books",
+      "title": {
+        "ar": "الدرس الثاني: حب الكتاب",
+        "en": "Lesson 2: Love of Books"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 8,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-love-of-books-reading",
+          "title": {
+            "ar": "حب الكتاب (قراءة)",
+            "en": "Love of Books (Reading)"
+          },
+          "page": 8
+        }
+      ]
+    },
+    {
+      "slug": "03-lesson-3-the-eternal-nile",
+      "title": {
+        "ar": "الدرس الثالث: النيل الخالد",
+        "en": "Lesson 3: The Eternal Nile"
+      },
+      "concept": "geography",
+      "image": "clickview/high-rivers-cover.jpg",
+      "page": 13,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-eternal-nile-reading",
+          "title": {
+            "ar": "النيل الخالد (قراءة)",
+            "en": "The Eternal Nile (Reading)"
+          },
+          "page": 13
+        }
+      ]
+    },
+    {
+      "slug": "04-lesson-4-the-nile-poem",
+      "title": {
+        "ar": "الدرس الرابع: قصيدة النيل",
+        "en": "Lesson 4: The Nile Poem"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-forms-and-structure-cover.jpg",
+      "page": 20,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-nile-poem-poem",
+          "title": {
+            "ar": "قصيدة النيل (نص شعري)",
+            "en": "The Nile Poem (Poem)"
+          },
+          "page": 20
+        }
+      ]
+    },
+    {
+      "slug": "05-lesson-5-listening-text",
+      "title": {
+        "ar": "الدرس الخامس: قراءة استماع",
+        "en": "Lesson 5: Listening Text"
+      },
+      "concept": "skills",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 25,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-listening-text-listening",
+          "title": {
+            "ar": "قراءة استماع (استماع)",
+            "en": "Listening Text (Listening)"
+          },
+          "page": 25
+        }
+      ]
+    },
+    {
+      "slug": "06-lesson-6-abbas-mahmoud-al-aqqad",
+      "title": {
+        "ar": "الدرس السادس: عباس محمود العقاد",
+        "en": "Lesson 6: Abbas Mahmoud al-Aqqad"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-forms-and-structure-cover.jpg",
+      "page": 28,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-abbas-mahmoud-al-aqqad-reading",
+          "title": {
+            "ar": "عباس محمود العقاد (قراءة)",
+            "en": "Abbas Mahmoud al-Aqqad (Reading)"
+          },
+          "page": 28
+        }
+      ]
+    },
+    {
+      "slug": "07-lesson-7-the-arabic-language-poem",
+      "title": {
+        "ar": "الدرس السابع: قصيدة اللغة العربية",
+        "en": "Lesson 7: The Arabic Language Poem"
+      },
+      "concept": "language",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 33,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-arabic-language-poem-poem",
+          "title": {
+            "ar": "قصيدة اللغة العربية (نص شعري)",
+            "en": "The Arabic Language Poem (Poem)"
+          },
+          "page": 33
+        }
+      ]
+    },
+    {
+      "slug": "08-lesson-8-arabic-calligraphy",
+      "title": {
+        "ar": "الدرس الثامن: الخط العربي",
+        "en": "Lesson 8: Arabic Calligraphy"
+      },
+      "concept": "art",
+      "image": "clickview/high-art-and-culture-cover.jpg",
+      "page": 37,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-arabic-calligraphy-reading",
+          "title": {
+            "ar": "الخط العربي (قراءة)",
+            "en": "Arabic Calligraphy (Reading)"
+          },
+          "page": 37
+        }
+      ]
+    },
+    {
+      "slug": "09-lesson-9-folk-music",
+      "title": {
+        "ar": "الدرس التاسع: الموسيقا الشعبية",
+        "en": "Lesson 9: Folk Music"
+      },
+      "concept": "art",
+      "image": "clickview/high-music-genre-cover.jpg",
+      "page": 43,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-folk-music-reading",
+          "title": {
+            "ar": "الموسيقا الشعبية (قراءة)",
+            "en": "Folk Music (Reading)"
+          },
+          "page": 43
+        }
+      ]
+    },
+    {
+      "slug": "10-lesson-10-listening-text",
+      "title": {
+        "ar": "الدرس العاشر: قراءة استماع",
+        "en": "Lesson 10: Listening Text"
+      },
+      "concept": "skills",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 50,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-listening-text-listening",
+          "title": {
+            "ar": "قراءة استماع (استماع)",
+            "en": "Listening Text (Listening)"
+          },
+          "page": 50
+        }
+      ]
+    },
+    {
+      "slug": "11-lesson-11-general-review",
+      "title": {
+        "ar": "الدرس الحادي عشر: درس مراجعة عامة",
+        "en": "Lesson 11: General Review"
+      },
+      "concept": "skills",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 54,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-general-review-review",
+          "title": {
+            "ar": "درس مراجعة عامة (مراجعة)",
+            "en": "General Review (Review)"
+          },
+          "page": 54
+        }
+      ]
+    },
+    {
+      "slug": "12-lesson-12-the-nobel-prize",
+      "title": {
+        "ar": "الدرس الثاني عشر: جائزة نوبل",
+        "en": "Lesson 12: The Nobel Prize"
+      },
+      "concept": "career",
+      "image": "clickview/high-the-impact-of-innovation-cover.jpg",
+      "page": 60,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-nobel-prize-reading",
+          "title": {
+            "ar": "جائزة نوبل (قراءة)",
+            "en": "The Nobel Prize (Reading)"
+          },
+          "page": 60
+        }
+      ]
+    },
+    {
+      "slug": "13-lesson-13-the-peace-poem",
+      "title": {
+        "ar": "الدرس الثالث عشر: قصيدة السلام",
+        "en": "Lesson 13: The Peace Poem"
+      },
+      "concept": "civic",
+      "image": "clickview/high-international-day-of-peace-cover.jpg",
+      "page": 65,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-peace-poem-poem",
+          "title": {
+            "ar": "قصيدة السلام (نص شعري)",
+            "en": "The Peace Poem (Poem)"
+          },
+          "page": 65
+        }
+      ]
+    },
+    {
+      "slug": "14-lesson-14-how-we-protect-the-earth",
+      "title": {
+        "ar": "الدرس الرابع عشر: كيف نحافظ على الأرض",
+        "en": "Lesson 14: How We Protect the Earth"
+      },
+      "concept": "earth",
+      "image": "clickview/high-natural-resources-cover.jpg",
+      "page": 70,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-how-we-protect-the-earth-reading",
+          "title": {
+            "ar": "كيف نحافظ على الأرض (قراءة)",
+            "en": "How We Protect the Earth (Reading)"
+          },
+          "page": 70
+        }
+      ]
+    },
+    {
+      "slug": "15-lesson-15-coral-gardens-of-the-sea",
+      "title": {
+        "ar": "الدرس الخامس عشر: حدائق البحر المرجانية",
+        "en": "Lesson 15: Coral Gardens of the Sea"
+      },
+      "concept": "nature",
+      "image": "clickview/high-oceans-cover.jpg",
+      "page": 75,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-coral-gardens-of-the-sea-reading",
+          "title": {
+            "ar": "حدائق البحر المرجانية (قراءة)",
+            "en": "Coral Gardens of the Sea (Reading)"
+          },
+          "page": 75
+        }
+      ]
+    },
+    {
+      "slug": "16-lesson-16-poem",
+      "title": {
+        "ar": "الدرس السادس عشر: قصيدة",
+        "en": "Lesson 16: Poem"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-forms-and-structure-cover.jpg",
+      "page": 81,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-poem-poem",
+          "title": {
+            "ar": "قصيدة (نص شعري)",
+            "en": "Poem (Poem)"
+          },
+          "page": 81
+        }
+      ]
+    },
+    {
+      "slug": "17-lesson-17-babiker-badri",
+      "title": {
+        "ar": "الدرس السابع عشر: بابكر بدري",
+        "en": "Lesson 17: Babiker Badri"
+      },
+      "concept": "teaching",
+      "image": "clickview/high-pedagogy-cover.jpg",
+      "page": 86,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-babiker-badri-reading",
+          "title": {
+            "ar": "بابكر بدري (قراءة)",
+            "en": "Babiker Badri (Reading)"
+          },
+          "page": 86
+        }
+      ]
+    },
+    {
+      "slug": "18-lesson-18-friendship",
+      "title": {
+        "ar": "الدرس الثامن عشر: الصداقة",
+        "en": "Lesson 18: Friendship"
+      },
+      "concept": "skills",
+      "image": "clickview/high-emotional-intelligence-cover.jpg",
+      "page": 92,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-friendship-reading",
+          "title": {
+            "ar": "الصداقة (قراءة)",
+            "en": "Friendship (Reading)"
+          },
+          "page": 92
+        }
+      ]
+    },
+    {
+      "slug": "19-lesson-19-abu-bakr-al-razi",
+      "title": {
+        "ar": "الدرس التاسع عشر: أبو بكر الرازي",
+        "en": "Lesson 19: Abu Bakr al-Razi"
+      },
+      "concept": "science",
+      "image": "clickview/high-thinking-scientifically-cover.jpg",
+      "page": 100,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-abu-bakr-al-razi-reading",
+          "title": {
+            "ar": "أبو بكر الرازي (قراءة)",
+            "en": "Abu Bakr al-Razi (Reading)"
+          },
+          "page": 100
+        }
+      ]
+    },
+    {
+      "slug": "20-lesson-20-listening-text",
+      "title": {
+        "ar": "الدرس العشرون: قراءة استماع",
+        "en": "Lesson 20: Listening Text"
+      },
+      "concept": "skills",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 105,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-listening-text-listening",
+          "title": {
+            "ar": "قراءة استماع (استماع)",
+            "en": "Listening Text (Listening)"
+          },
+          "page": 105
+        }
+      ]
+    },
+    {
+      "slug": "21-lesson-21-harmful-practices",
+      "title": {
+        "ar": "الدرس الحادي والعشرون: من الممارسات الضارة",
+        "en": "Lesson 21: Harmful Practices"
+      },
+      "concept": "society",
+      "image": "clickview/high-human-rights-cover.jpg",
+      "page": 108,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-harmful-practices-reading",
+          "title": {
+            "ar": "من الممارسات الضارة (قراءة)",
+            "en": "Harmful Practices (Reading)"
+          },
+          "page": 108
+        }
+      ]
+    },
+    {
+      "slug": "22-lesson-22-freedom",
+      "title": {
+        "ar": "الدرس الثاني والعشرون: الحرية",
+        "en": "Lesson 22: Freedom"
+      },
+      "concept": "civic",
+      "image": "clickview/high-human-rights-cover.jpg",
+      "page": 115,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-freedom-reading",
+          "title": {
+            "ar": "الحرية (قراءة)",
+            "en": "Freedom (Reading)"
+          },
+          "page": 115
+        }
+      ]
+    },
+    {
+      "slug": "23-lesson-23-malikat-al-dar-muhammad-abdallah",
+      "title": {
+        "ar": "الدرس الثالث والعشرون: ملكة الدار محمد عبد الله",
+        "en": "Lesson 23: Malikat al-Dar Muhammad Abdallah"
+      },
+      "concept": "society",
+      "image": "clickview/high-changing-roles-of-women-cover.jpg",
+      "page": 121,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-malikat-al-dar-muhammad-abdallah-reading",
+          "title": {
+            "ar": "ملكة الدار محمد عبد الله (قراءة)",
+            "en": "Malikat al-Dar Muhammad Abdallah (Reading)"
+          },
+          "page": 121
+        }
+      ]
+    },
+    {
+      "slug": "24-lesson-24-listening-text",
+      "title": {
+        "ar": "الدرس الرابع والعشرون: قراءة استماع",
+        "en": "Lesson 24: Listening Text"
+      },
+      "concept": "skills",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 128,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-listening-text-listening",
+          "title": {
+            "ar": "قراءة استماع (استماع)",
+            "en": "Listening Text (Listening)"
+          },
+          "page": 128
+        }
+      ]
+    },
+    {
+      "slug": "25-lesson-25-khalil-farah",
+      "title": {
+        "ar": "الدرس الخامس والعشرون: خليل فرح",
+        "en": "Lesson 25: Khalil Farah"
+      },
+      "concept": "art",
+      "image": "clickview/high-music-genre-cover.jpg",
+      "page": 131,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-khalil-farah-reading",
+          "title": {
+            "ar": "خليل فرح (قراءة)",
+            "en": "Khalil Farah (Reading)"
+          },
+          "page": 131
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "business"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-business-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-bus-unit-01-enterprise-01-enterprise-lq01",
+          "type": "mcq",
+          "question": "An entrepreneur is someone who:",
+          "options": [
+            "starts a business",
+            "only spends",
+            "avoids risk always",
+            "never works"
+          ],
+          "answer": "starts a business",
+          "explanation": "Enterprise."
+        },
+        {
+          "id": "g10-bus-unit-01-enterprise-01-enterprise-lq02",
+          "type": "true_false",
+          "question": "A business aims to meet customer needs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Purpose."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq01",
+          "type": "mcq",
+          "question": "Revenue minus costs equals:",
+          "options": [
+            "profit",
+            "tax",
+            "price",
+            "stock"
+          ],
+          "answer": "profit",
+          "explanation": "Profit."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq02",
+          "type": "true_false",
+          "question": "A business can raise money from loans or investors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Finance sources."
+        }
+      ]
+    }
+  ]
+}

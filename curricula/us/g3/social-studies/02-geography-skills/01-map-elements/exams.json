@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "02-geography-skills",
+    "lesson": "01-map-elements"
+  },
+  "exams": [
+    {
+      "id": "g3-soc-unit-02-geography-skills-01-map-elements-quiz",
+      "title": "Quiz: Map Elements",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq01",
+          "type": "mcq",
+          "question": "A map's key/legend explains its:",
+          "options": [
+            "price",
+            "symbols",
+            "author",
+            "title only"
+          ],
+          "answer": "symbols",
+          "explanation": "Map legend."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq02",
+          "type": "true_false",
+          "question": "A compass rose shows direction on a map.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Direction tool."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq03",
+          "type": "fill_blank",
+          "question": "A map's ___ shows how distance relates to real distance.",
+          "answer": "scale",
+          "explanation": "Map scale."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq04",
+          "type": "short_answer",
+          "question": "Name two elements found on a map.",
+          "answer": "e.g., title, key, scale, or compass rose.",
+          "explanation": "Map elements."
+        }
+      ]
+    }
+  ]
+}

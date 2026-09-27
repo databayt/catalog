@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "art"
+  },
+  "questions": [
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq01",
+      "type": "mcq",
+      "question": "Which is an element of art?",
+      "options": [
+        "line",
+        "lunch",
+        "loud",
+        "late"
+      ],
+      "answer": "line",
+      "explanation": "Lines are a basic art element."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq02",
+      "type": "true_false",
+      "question": "A shape can be made by joining lines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Closed lines form shapes."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq03",
+      "type": "fill_blank",
+      "question": "A mark made by a pencil moving across paper is a ___.",
+      "answer": "line",
+      "explanation": "Line."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq04",
+      "type": "short_answer",
+      "question": "Name two elements of art.",
+      "answer": "e.g., line and colour (also shape, form, texture).",
+      "explanation": "Art elements."
+    },
+    {
+      "id": "g3-art-unit-01-elements-02-colour-lq01",
+      "type": "mcq",
+      "question": "The primary colours are red, yellow and:",
+      "options": [
+        "green",
+        "blue",
+        "pink",
+        "brown"
+      ],
+      "answer": "blue",
+      "explanation": "Primary colours."
+    },
+    {
+      "id": "g3-art-unit-01-elements-02-colour-lq02",
+      "type": "true_false",
+      "question": "Mixing blue and yellow makes green.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Secondary colour."
+    },
+    {
+      "id": "g3-art-unit-01-elements-02-colour-lq03",
+      "type": "fill_blank",
+      "question": "Red, yellow and blue are the ___ colours.",
+      "answer": "primary",
+      "explanation": "Primary colours."
+    },
+    {
+      "id": "g3-art-unit-01-elements-02-colour-lq04",
+      "type": "short_answer",
+      "question": "How do you make a secondary colour?",
+      "answer": "Mix two primary colours together.",
+      "explanation": "Colour mixing."
+    },
+    {
+      "id": "g3-art-unit-02-making-01-drawing-lq01",
+      "type": "mcq",
+      "question": "Drawing what you really see in front of you is:",
+      "options": [
+        "observational drawing",
+        "copying photos",
+        "tracing",
+        "colouring only"
+      ],
+      "answer": "observational drawing",
+      "explanation": "From observation."
+    },
+    {
+      "id": "g3-art-unit-02-making-01-drawing-lq02",
+      "type": "true_false",
+      "question": "Shading can make a drawing look 3D.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tone adds depth."
+    },
+    {
+      "id": "g3-art-unit-02-making-01-drawing-lq03",
+      "type": "fill_blank",
+      "question": "Light and dark areas in a drawing are called ___.",
+      "answer": "shading",
+      "explanation": "Tone/shading."
+    },
+    {
+      "id": "g3-art-unit-02-making-01-drawing-lq04",
+      "type": "short_answer",
+      "question": "Why look carefully before drawing an object?",
+      "answer": "To capture its real shape, detail and proportions.",
+      "explanation": "Observation."
+    },
+    {
+      "id": "g3-art-unit-02-making-02-artists-lq01",
+      "type": "mcq",
+      "question": "Studying a famous artist helps us learn about:",
+      "options": [
+        "styles and techniques",
+        "cooking",
+        "sports",
+        "maths only"
+      ],
+      "answer": "styles and techniques",
+      "explanation": "Art appreciation."
+    },
+    {
+      "id": "g3-art-unit-02-making-02-artists-lq02",
+      "type": "true_false",
+      "question": "Different artists use different styles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Personal style."
+    },
+    {
+      "id": "g3-art-unit-02-making-02-artists-lq03",
+      "type": "fill_blank",
+      "question": "A painting of a person is called a ___.",
+      "answer": "portrait",
+      "explanation": "Portrait."
+    },
+    {
+      "id": "g3-art-unit-02-making-02-artists-lq04",
+      "type": "short_answer",
+      "question": "Name one thing you can learn from a famous artwork.",
+      "answer": "e.g., technique, colour use, or how it expresses feeling.",
+      "explanation": "Art study."
+    }
+  ]
+}

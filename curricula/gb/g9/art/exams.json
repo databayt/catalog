@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "art"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-art-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq01",
+          "type": "mcq",
+          "question": "Composition is how parts of an artwork are:",
+          "options": [
+            "arranged",
+            "priced",
+            "framed only",
+            "signed"
+          ],
+          "answer": "arranged",
+          "explanation": "Arrangement."
+        },
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq02",
+          "type": "true_false",
+          "question": "A focal point draws the viewer's eye.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Emphasis."
+        },
+        {
+          "id": "g9-art-unit-02-context-01-movements-lq01",
+          "type": "mcq",
+          "question": "Impressionism is an example of an art:",
+          "options": [
+            "movement",
+            "sport",
+            "recipe",
+            "equation"
+          ],
+          "answer": "movement",
+          "explanation": "Art movement."
+        },
+        {
+          "id": "g9-art-unit-02-context-01-movements-lq02",
+          "type": "true_false",
+          "question": "Art can reflect the time and culture it was made in.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context."
+        }
+      ]
+    }
+  ]
+}

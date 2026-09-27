@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g7-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq01",
+          "type": "mcq",
+          "question": "Using BIDMAS, 2 + 3 × 4 = ?",
+          "options": [
+            "20",
+            "14",
+            "24",
+            "9"
+          ],
+          "answer": "14",
+          "explanation": "Multiply first."
+        },
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq02",
+          "type": "true_false",
+          "question": "BIDMAS means brackets are done first.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Order of operations."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq01",
+          "type": "mcq",
+          "question": "Simplify 3a + 2a:",
+          "options": [
+            "5a",
+            "6a",
+            "a",
+            "5"
+          ],
+          "answer": "5a",
+          "explanation": "Like terms."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-01-expressions-lq02",
+          "type": "true_false",
+          "question": "3x and 3y are like terms.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Different variables."
+        }
+      ]
+    }
+  ]
+}

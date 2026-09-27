@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english-literature",
+    "chapter": "02-poetry",
+    "lesson": "02-unseen"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-unit-02-poetry-02-unseen-quiz",
+      "title": "Quiz: Analysing Unseen Poetry",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-eng-unit-02-poetry-02-unseen-lq01",
+          "type": "mcq",
+          "question": "For an unseen poem you should first identify the:",
+          "options": [
+            "price",
+            "subject and tone",
+            "poet's age",
+            "publisher"
+          ],
+          "answer": "subject and tone",
+          "explanation": "First read."
+        },
+        {
+          "id": "g11-eng-unit-02-poetry-02-unseen-lq02",
+          "type": "true_false",
+          "question": "Form and structure contribute to a poem's meaning.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Form matters."
+        },
+        {
+          "id": "g11-eng-unit-02-poetry-02-unseen-lq03",
+          "type": "fill_blank",
+          "question": "The feeling a poem creates is its ___.",
+          "answer": "mood",
+          "explanation": "Mood/atmosphere."
+        },
+        {
+          "id": "g11-eng-unit-02-poetry-02-unseen-lq04",
+          "type": "short_answer",
+          "question": "How do you approach an unseen poem?",
+          "answer": "Read for meaning, then analyse language, form and structure with evidence.",
+          "explanation": "Unseen approach."
+        }
+      ]
+    }
+  ]
+}

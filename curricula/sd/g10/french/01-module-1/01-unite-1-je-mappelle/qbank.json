@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "french",
+    "chapter": "01-module-1",
+    "lesson": "01-unite-1-je-mappelle"
+  },
+  "questions": [
+    {
+      "id": "g10-fre-module-1-unit-1-lq01",
+      "type": "mcq",
+      "question": "Quel est le verbe 'être' à la première personne du singulier?",
+      "options": [
+        "je suis",
+        "tu es",
+        "il est",
+        "nous sommes"
+      ],
+      "answer": "je suis",
+      "explanation": "Le verbe être: je suis, tu es, il/elle est, nous sommes..."
+    },
+    {
+      "id": "g10-fre-module-1-unit-1-lq02",
+      "type": "true_false",
+      "question": "En français, les adjectifs s'accordent en genre et en nombre avec le nom.",
+      "options": [
+        "Vrai",
+        "Faux"
+      ],
+      "answer": true,
+      "explanation": "L'accord de l'adjectif est une règle fondamentale du français."
+    },
+    {
+      "id": "g10-fre-module-1-unit-1-lq03",
+      "type": "fill_blank",
+      "question": "Comment dit-on 'thank you' en français? ___",
+      "answer": "Merci",
+      "explanation": "Merci est l'expression de gratitude en français."
+    },
+    {
+      "id": "g10-fre-module-1-unit-1-lq04",
+      "type": "short_answer",
+      "question": "Quelle est la différence entre les verbes réguliers et irréguliers?",
+      "answer": "Les verbes réguliers suivent des modèles de conjugaison standard (-er, -ir, -re), les irréguliers ont leurs propres formes.",
+      "explanation": "La distinction entre verbes réguliers et irréguliers est essentielle en français."
+    }
+  ]
+}

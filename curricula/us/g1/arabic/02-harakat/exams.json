@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "arabic",
+    "chapter": "02-harakat"
+  },
+  "exams": [
+    {
+      "id": "g1-ara-unit-02-harakat-exam",
+      "title": "Exam: الحركات",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq01",
+          "type": "mcq",
+          "question": "الحركة ( َ ) فوق الحرف تسمى:",
+          "options": [
+            "فتحة",
+            "ضمة",
+            "كسرة",
+            "سكون"
+          ],
+          "answer": "فتحة",
+          "explanation": "الفتحة فوق الحرف."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq02",
+          "type": "true_false",
+          "question": "الكسرة توضع تحت الحرف.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الكسرة أسفل الحرف."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq03",
+          "type": "fill_blank",
+          "question": "الحركة التي تكتب على شكل واو صغيرة هي ___.",
+          "answer": "الضمة",
+          "explanation": "الضمة فوق الحرف."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq04",
+          "type": "short_answer",
+          "question": "ما الحركات القصيرة في العربية؟",
+          "answer": "الفتحة والضمة والكسرة.",
+          "explanation": "الحركات الثلاث."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-02-madd-lq01",
+          "type": "mcq",
+          "question": "حروف المد هي:",
+          "options": [
+            "ا و ي",
+            "ب ت ث",
+            "ق ك ل",
+            "م ن هـ"
+          ],
+          "answer": "ا و ي",
+          "explanation": "الألف والواو والياء."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-02-madd-lq02",
+          "type": "true_false",
+          "question": "كلمة (نور) فيها مدّ بالواو.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "مدّ بالواو."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-02-madd-lq03",
+          "type": "fill_blank",
+          "question": "في كلمة (كتاب) حرف المد هو ___.",
+          "answer": "الألف",
+          "explanation": "مدّ بالألف."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-02-madd-lq04",
+          "type": "short_answer",
+          "question": "اذكر كلمة فيها مدّ بالياء.",
+          "answer": "مثل: فيل، كبير.",
+          "explanation": "مدّ بالياء."
+        }
+      ]
+    }
+  ]
+}

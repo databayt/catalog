@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "history",
+    "chapter": "01-maya"
+  },
+  "questions": [
+    {
+      "id": "g6-his-unit-01-maya-01-maya-life-lq01",
+      "type": "mcq",
+      "question": "The Maya civilisation was located in:",
+      "options": [
+        "Central America",
+        "Britain",
+        "Egypt",
+        "China"
+      ],
+      "answer": "Central America",
+      "explanation": "Mesoamerica."
+    },
+    {
+      "id": "g6-his-unit-01-maya-01-maya-life-lq02",
+      "type": "true_false",
+      "question": "The Maya built large stone pyramids and temples.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Maya architecture."
+    },
+    {
+      "id": "g6-his-unit-01-maya-01-maya-life-lq03",
+      "type": "fill_blank",
+      "question": "The Maya developed an accurate ___ based on the stars.",
+      "answer": "calendar",
+      "explanation": "Maya calendar."
+    },
+    {
+      "id": "g6-his-unit-01-maya-01-maya-life-lq04",
+      "type": "short_answer",
+      "question": "Name one achievement of the Maya.",
+      "answer": "e.g., advanced calendar, writing, mathematics, or astronomy.",
+      "explanation": "Maya achievements."
+    },
+    {
+      "id": "g6-his-unit-01-maya-02-comparing-civilisations-lq01",
+      "type": "mcq",
+      "question": "Comparing the Maya and Anglo-Saxons looks at similarities and:",
+      "options": [
+        "prices",
+        "differences",
+        "fonts",
+        "ages"
+      ],
+      "answer": "differences",
+      "explanation": "Comparison."
+    },
+    {
+      "id": "g6-his-unit-01-maya-02-comparing-civilisations-lq02",
+      "type": "true_false",
+      "question": "Different civilisations could exist at the same time in different places.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Concurrent history."
+    },
+    {
+      "id": "g6-his-unit-01-maya-02-comparing-civilisations-lq03",
+      "type": "fill_blank",
+      "question": "Putting events from different places side by side uses a ___.",
+      "answer": "timeline",
+      "explanation": "Chronology."
+    },
+    {
+      "id": "g6-his-unit-01-maya-02-comparing-civilisations-lq04",
+      "type": "short_answer",
+      "question": "Why compare different civilisations?",
+      "answer": "To understand how societies developed differently around the world.",
+      "explanation": "Comparison purpose."
+    }
+  ]
+}

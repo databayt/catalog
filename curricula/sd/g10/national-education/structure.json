@@ -1,0 +1,267 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g10-national-education",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "national-education",
+  "title": {
+    "ar": "التربية الوطنية",
+    "en": "National Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "civic",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "التربية الوطنية — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-sudanese-personality",
+      "title": {
+        "ar": "الشخصية السودانية",
+        "en": "The Sudanese Personality"
+      },
+      "concept": "civic",
+      "image": "clickview/high-self-awareness-cover.jpg",
+      "page": 7,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-components-of-the-sudanese-personality",
+          "title": {
+            "ar": "مكونات الشخصية السودانية",
+            "en": "Components of the Sudanese Personality"
+          },
+          "page": 8
+        },
+        {
+          "slug": "02-characteristics-of-the-sudanese-personality",
+          "title": {
+            "ar": "خصائص الشخصية السودانية",
+            "en": "Characteristics of the Sudanese Personality"
+          },
+          "page": 11
+        },
+        {
+          "slug": "03-strengths-and-weaknesses-of-the-sudanese",
+          "title": {
+            "ar": "إيجابيات وسلبيات الشخصية السودانية",
+            "en": "Strengths and Weaknesses of the Sudanese Personality"
+          },
+          "page": 13
+        }
+      ]
+    },
+    {
+      "slug": "02-sudanese-society",
+      "title": {
+        "ar": "المجتمع السوداني",
+        "en": "Sudanese Society"
+      },
+      "concept": "society",
+      "image": "clickview/middle-identity-and-community-cover.jpg",
+      "page": 16,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-general-features-of-sudanese-society",
+          "title": {
+            "ar": "السمات العامة للمجتمع السوداني",
+            "en": "General Features of Sudanese Society"
+          },
+          "page": 17
+        },
+        {
+          "slug": "02-cultural-diversity-1",
+          "title": {
+            "ar": "التنوع الثقافي (1)",
+            "en": "Cultural Diversity (1)"
+          },
+          "page": 19
+        },
+        {
+          "slug": "03-cultural-diversity-2",
+          "title": {
+            "ar": "التنوع الثقافي (2)",
+            "en": "Cultural Diversity (2)"
+          },
+          "page": 22
+        },
+        {
+          "slug": "04-the-impact-of-incoming-cultures",
+          "title": {
+            "ar": "أثر الثقافات الوافدة",
+            "en": "The Impact of Incoming Cultures"
+          },
+          "page": 26,
+          "image": "clickview/high-globalization-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-sudan-and-opportunities-for-economic-growth",
+      "title": {
+        "ar": "السودان وفرص النمو الاقتصادي",
+        "en": "Sudan and Opportunities for Economic Growth"
+      },
+      "concept": "economy",
+      "image": "clickview/high-natural-resources-cover.jpg",
+      "page": 30,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-characteristics-and-importance-of-sudans",
+          "title": {
+            "ar": "خصائص وأهمية موقع السودان",
+            "en": "Characteristics and Importance of Sudan's Location"
+          },
+          "page": 31,
+          "image": "clickview/high-international-trade-cover.jpg"
+        },
+        {
+          "slug": "02-sudans-economic-foundations",
+          "title": {
+            "ar": "المقومات الاقتصادية للسودان",
+            "en": "Sudan's Economic Foundations"
+          },
+          "page": 33,
+          "image": "clickview/high-economic-principles-and-systems-cover.jpg"
+        },
+        {
+          "slug": "03-sudans-natural-potential",
+          "title": {
+            "ar": "إمكانيات السودان الطبيعية",
+            "en": "Sudan's Natural Potential"
+          },
+          "page": 35
+        }
+      ]
+    },
+    {
+      "slug": "04-sudans-contribution-to-human-civilisation",
+      "title": {
+        "ar": "إسهام السودان في الحضارة الإنسانية",
+        "en": "Sudan's Contribution to Human Civilisation"
+      },
+      "concept": "history",
+      "image": "clickview/high-ancient-egypt-cover.jpg",
+      "page": 38,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sudans-contribution-to-human-civilisation-1",
+          "title": {
+            "ar": "إسهام السودان في الحضارة الإنسانية (1)",
+            "en": "Sudan's Contribution to Human Civilisation (1)"
+          },
+          "page": 40
+        },
+        {
+          "slug": "02-sudans-contribution-to-human-civilisation-2",
+          "title": {
+            "ar": "إسهام السودان في الحضارة الإنسانية (2)",
+            "en": "Sudan's Contribution to Human Civilisation (2)"
+          },
+          "page": 44
+        },
+        {
+          "slug": "03-sudans-contribution-to-human-civilisation-3",
+          "title": {
+            "ar": "إسهام السودان في الحضارة الإنسانية (3)",
+            "en": "Sudan's Contribution to Human Civilisation (3)"
+          },
+          "page": 46
+        }
+      ]
+    },
+    {
+      "slug": "05-citizenship-rights-and-duties",
+      "title": {
+        "ar": "المواطنة: الحقوق والواجبات",
+        "en": "Citizenship: Rights and Duties"
+      },
+      "concept": "civic",
+      "image": "clickview/high-human-rights-cover.jpg",
+      "page": 49,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-concept-of-citizenship",
+          "title": {
+            "ar": "مفهوم المواطنة",
+            "en": "The Concept of Citizenship"
+          },
+          "page": 50
+        },
+        {
+          "slug": "02-citizenship-rights",
+          "title": {
+            "ar": "حقوق المواطنة",
+            "en": "Citizenship Rights"
+          },
+          "page": 53
+        },
+        {
+          "slug": "03-citizenship-duties",
+          "title": {
+            "ar": "واجبات المواطنة",
+            "en": "Citizenship Duties"
+          },
+          "page": 55,
+          "image": "clickview/high-systems-of-government-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-neo-colonialism",
+      "title": {
+        "ar": "الاستعمار الجديد",
+        "en": "Neo-colonialism"
+      },
+      "concept": "civic",
+      "image": "clickview/high-the-global-economy-cover.jpg",
+      "page": 57,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-concept-of-neo-colonialism",
+          "title": {
+            "ar": "مفهوم الاستعمار الجديد",
+            "en": "The Concept of Neo-colonialism"
+          },
+          "page": 58
+        },
+        {
+          "slug": "02-motives-and-methods-of-neo-colonialism",
+          "title": {
+            "ar": "دوافع وأساليب الاستعمار الجديد",
+            "en": "Motives and Methods of Neo-colonialism"
+          },
+          "page": 61,
+          "image": "clickview/high-multinational-corporations-cover.jpg"
+        },
+        {
+          "slug": "03-dangers-of-neo-colonialism-and-ways-to-resist-it",
+          "title": {
+            "ar": "مخاطر الاستعمار الجديد وطرق مقاومته",
+            "en": "Dangers of Neo-colonialism and Ways to Resist It"
+          },
+          "page": 64,
+          "image": "clickview/high-the-history-of-activism-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

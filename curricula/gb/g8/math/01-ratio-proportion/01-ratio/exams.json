@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "01-ratio-proportion",
+    "lesson": "01-ratio"
+  },
+  "exams": [
+    {
+      "id": "g8-mat-unit-01-ratio-proportion-01-ratio-quiz",
+      "title": "Quiz: Ratio",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq01",
+          "type": "mcq",
+          "question": "Simplify the ratio 10:15:",
+          "options": [
+            "2:3",
+            "3:2",
+            "1:2",
+            "10:15"
+          ],
+          "answer": "2:3",
+          "explanation": "Divide by 5."
+        },
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq02",
+          "type": "true_false",
+          "question": "Ratio 4:8 simplifies to 1:2.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Divide by 4."
+        },
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq03",
+          "type": "fill_blank",
+          "question": "Share £20 in ratio 1:3 → £5 and £___.",
+          "answer": "15",
+          "explanation": "4 parts."
+        },
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq04",
+          "type": "short_answer",
+          "question": "How do you simplify a ratio?",
+          "answer": "Divide all parts by their highest common factor.",
+          "explanation": "HCF."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "french",
+    "chapter": "02-daily-life",
+    "lesson": "01-school-food"
+  },
+  "questions": [
+    {
+      "id": "g7-fre-unit-02-daily-life-01-school-food-lq01",
+      "type": "mcq",
+      "question": "'L'école' means:",
+      "options": [
+        "the school",
+        "the house",
+        "the car",
+        "the dog"
+      ],
+      "answer": "the school",
+      "explanation": "Vocabulary."
+    },
+    {
+      "id": "g7-fre-unit-02-daily-life-01-school-food-lq02",
+      "type": "true_false",
+      "question": "'Le pain' means bread.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Food vocab."
+    },
+    {
+      "id": "g7-fre-unit-02-daily-life-01-school-food-lq03",
+      "type": "fill_blank",
+      "question": "'J'aime' means 'I ___'.",
+      "answer": "like",
+      "explanation": "J'aime = I like."
+    },
+    {
+      "id": "g7-fre-unit-02-daily-life-01-school-food-lq04",
+      "type": "short_answer",
+      "question": "How do you say 'I like school' in French?",
+      "answer": "J'aime l'école.",
+      "explanation": "Expressing likes."
+    }
+  ]
+}

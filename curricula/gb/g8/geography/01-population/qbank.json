@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "geography",
+    "chapter": "01-population"
+  },
+  "questions": [
+    {
+      "id": "g8-geo-unit-01-population-01-population-lq01",
+      "type": "mcq",
+      "question": "Areas with many people per km² have a high population:",
+      "options": [
+        "density",
+        "colour",
+        "age",
+        "height"
+      ],
+      "answer": "density",
+      "explanation": "Population density."
+    },
+    {
+      "id": "g8-geo-unit-01-population-01-population-lq02",
+      "type": "true_false",
+      "question": "People often cluster where there is water, jobs and good climate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Pull factors."
+    },
+    {
+      "id": "g8-geo-unit-01-population-01-population-lq03",
+      "type": "fill_blank",
+      "question": "The number of people in an area per square km is population ___.",
+      "answer": "density",
+      "explanation": "Density."
+    },
+    {
+      "id": "g8-geo-unit-01-population-01-population-lq04",
+      "type": "short_answer",
+      "question": "Why are some areas sparsely populated?",
+      "answer": "Harsh climate, poor resources, or difficult terrain.",
+      "explanation": "Sparse population."
+    },
+    {
+      "id": "g8-geo-unit-01-population-02-urbanisation-lq01",
+      "type": "mcq",
+      "question": "Urbanisation is the growth of:",
+      "options": [
+        "forests",
+        "towns and cities",
+        "deserts",
+        "oceans"
+      ],
+      "answer": "towns and cities",
+      "explanation": "Urban growth."
+    },
+    {
+      "id": "g8-geo-unit-01-population-02-urbanisation-lq02",
+      "type": "true_false",
+      "question": "Many people migrate to cities seeking work.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Rural-urban migration."
+    },
+    {
+      "id": "g8-geo-unit-01-population-02-urbanisation-lq03",
+      "type": "fill_blank",
+      "question": "Very large cities with over 10 million people are ___.",
+      "answer": "megacities",
+      "explanation": "Megacity."
+    },
+    {
+      "id": "g8-geo-unit-01-population-02-urbanisation-lq04",
+      "type": "short_answer",
+      "question": "Name one challenge caused by rapid urbanisation.",
+      "answer": "e.g., overcrowding, housing shortages, or pollution.",
+      "explanation": "Urban challenges."
+    }
+  ]
+}

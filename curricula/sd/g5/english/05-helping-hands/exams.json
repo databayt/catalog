@@ -1,0 +1,138 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "05-helping-hands"
+  },
+  "exams": [
+    {
+      "id": "g5-eng-unit-5-quiz",
+      "title": "اختبار - Helping Hands",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g5-eng-unit-5-01-lesson-1-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-5-01-lesson-1-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-5-02-lesson-2-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-5-02-lesson-2-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-5-03-lesson-3-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-5-03-lesson-3-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-5-04-lesson-4-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-5-04-lesson-4-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-5-05-lesson-5-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-5-05-lesson-5-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        }
+      ]
+    }
+  ]
+}

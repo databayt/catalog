@@ -1,0 +1,24 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "01-the-environment-around-us",
+    "lesson": "01-geography-concept"
+  },
+  "questions": [
+    {
+      "id": "g3-ge-u01-q001",
+      "type": "mcq",
+      "question": "اختر: عدد قارات العالم ___",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for البيئة من حولنا."
+    }
+  ]
+}

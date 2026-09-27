@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g3-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-soc-unit-01-local-government-01-government-lq01",
+          "type": "mcq",
+          "question": "Government makes and enforces:",
+          "options": [
+            "toys",
+            "laws",
+            "weather",
+            "clouds"
+          ],
+          "answer": "laws",
+          "explanation": "Rule of law."
+        },
+        {
+          "id": "g3-soc-unit-01-local-government-01-government-lq02",
+          "type": "true_false",
+          "question": "People in a democracy vote to choose leaders.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Democracy."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq01",
+          "type": "mcq",
+          "question": "A map's key/legend explains its:",
+          "options": [
+            "price",
+            "symbols",
+            "author",
+            "title only"
+          ],
+          "answer": "symbols",
+          "explanation": "Map legend."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq02",
+          "type": "true_false",
+          "question": "A compass rose shows direction on a map.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Direction tool."
+        }
+      ]
+    }
+  ]
+}

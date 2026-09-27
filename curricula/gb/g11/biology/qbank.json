@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "biology"
+  },
+  "questions": [
+    {
+      "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq01",
+      "type": "mcq",
+      "question": "Photosynthesis produces glucose and:",
+      "options": [
+        "carbon dioxide",
+        "oxygen",
+        "nitrogen",
+        "protein"
+      ],
+      "answer": "oxygen",
+      "explanation": "Byproduct O₂."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq02",
+      "type": "true_false",
+      "question": "Photosynthesis requires light energy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Light-driven."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq03",
+      "type": "fill_blank",
+      "question": "Photosynthesis occurs in the ___ of plant cells.",
+      "answer": "chloroplast",
+      "explanation": "Chloroplasts."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq04",
+      "type": "short_answer",
+      "question": "Write the word equation for photosynthesis.",
+      "answer": "Carbon dioxide + water → glucose + oxygen (with light).",
+      "explanation": "Equation."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-02-respiration-lq01",
+      "type": "mcq",
+      "question": "Aerobic respiration releases energy using:",
+      "options": [
+        "nitrogen",
+        "oxygen",
+        "carbon",
+        "helium"
+      ],
+      "answer": "oxygen",
+      "explanation": "Aerobic."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-02-respiration-lq02",
+      "type": "true_false",
+      "question": "Anaerobic respiration in muscles produces lactic acid.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Without oxygen."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-02-respiration-lq03",
+      "type": "fill_blank",
+      "question": "Respiration transfers energy from ___.",
+      "answer": "glucose",
+      "explanation": "Energy source."
+    },
+    {
+      "id": "g11-bio-unit-01-bioenergetics-02-respiration-lq04",
+      "type": "short_answer",
+      "question": "How does respiration differ from photosynthesis?",
+      "answer": "Respiration releases energy from glucose; photosynthesis stores energy in glucose.",
+      "explanation": "Contrast."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-01-ecosystems-lq01",
+      "type": "mcq",
+      "question": "A community plus its abiotic environment is an:",
+      "options": [
+        "organism",
+        "ecosystem",
+        "organ",
+        "atom"
+      ],
+      "answer": "ecosystem",
+      "explanation": "Eco unit."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-01-ecosystems-lq02",
+      "type": "true_false",
+      "question": "Organisms compete for resources like food and space.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Competition."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-01-ecosystems-lq03",
+      "type": "fill_blank",
+      "question": "A food chain begins with a ___.",
+      "answer": "producer",
+      "explanation": "Energy source."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-01-ecosystems-lq04",
+      "type": "short_answer",
+      "question": "What does interdependence mean in an ecosystem?",
+      "answer": "Species rely on each other for food, pollination, shelter, etc.",
+      "explanation": "Interdependence."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-02-cycles-lq01",
+      "type": "mcq",
+      "question": "Decomposers return nutrients to the:",
+      "options": [
+        "sky",
+        "soil",
+        "sun",
+        "ocean only"
+      ],
+      "answer": "soil",
+      "explanation": "Decomposition."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-02-cycles-lq02",
+      "type": "true_false",
+      "question": "The carbon cycle moves carbon between organisms and the atmosphere.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Carbon cycle."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-02-cycles-lq03",
+      "type": "fill_blank",
+      "question": "Water is returned to the air by evaporation and ___.",
+      "answer": "transpiration",
+      "explanation": "Water cycle."
+    },
+    {
+      "id": "g11-bio-unit-02-ecology-02-cycles-lq04",
+      "type": "short_answer",
+      "question": "Why are decomposers essential?",
+      "answer": "They recycle nutrients so they can be reused by producers.",
+      "explanation": "Recycling."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g11-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq01",
+          "type": "mcq",
+          "question": "البيت الشعري يتكون من:",
+          "options": [
+            "سطر واحد",
+            "شطرين",
+            "ثلاثة أسطر",
+            "فقرة"
+          ],
+          "answer": "شطرين",
+          "explanation": "الصدر والعجز."
+        },
+        {
+          "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq02",
+          "type": "true_false",
+          "question": "القافية تتكرر في نهاية الأبيات.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "القافية."
+        },
+        {
+          "id": "g11-ara-unit-02-arud-01-arud-lq01",
+          "type": "mcq",
+          "question": "علم العروض يبحث في:",
+          "options": [
+            "وزن الشعر",
+            "معاني الكلمات",
+            "الإملاء",
+            "النحو فقط"
+          ],
+          "answer": "وزن الشعر",
+          "explanation": "العروض."
+        },
+        {
+          "id": "g11-ara-unit-02-arud-01-arud-lq02",
+          "type": "true_false",
+          "question": "للشعر العربي بحور لها أوزان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "البحور."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "02-proportional",
+    "lesson": "01-proportions"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-02-proportional-01-proportions-quiz",
+      "title": "Quiz: Solving Proportions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq01",
+          "type": "mcq",
+          "question": "Solve 3/4 = x/12:",
+          "options": [
+            "6",
+            "9",
+            "8",
+            "16"
+          ],
+          "answer": "9",
+          "explanation": "Cross-multiply: 3×12÷4=9."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq02",
+          "type": "true_false",
+          "question": "In a proportion, cross-products are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "a/b = c/d → ad = bc."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq03",
+          "type": "fill_blank",
+          "question": "If 2 pens cost $3, 6 pens cost $___.",
+          "answer": "9",
+          "explanation": "Scale by 3."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq04",
+          "type": "short_answer",
+          "question": "What makes a relationship proportional?",
+          "answer": "A constant ratio (constant of proportionality) between quantities.",
+          "explanation": "Constant ratio."
+        }
+      ]
+    }
+  ]
+}

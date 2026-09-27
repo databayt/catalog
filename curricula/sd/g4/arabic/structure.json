@@ -1,0 +1,297 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g4-arabic",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-values-and-manners",
+      "title": {
+        "ar": "قيم وآداب",
+        "en": "Values and Manners"
+      },
+      "concept": "skills",
+      "image": "clickview/elementary-civic-values-and-virtues-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-supplications",
+          "title": {
+            "ar": "ابتهالات",
+            "en": "Supplications"
+          },
+          "page": 6
+        },
+        {
+          "slug": "02-friendship-is-a-treasure",
+          "title": {
+            "ar": "الصداقة كنز لا يفنى",
+            "en": "Friendship Is an Everlasting Treasure"
+          },
+          "page": 9,
+          "image": "clickview/elementary-friendship-cover.jpg"
+        },
+        {
+          "slug": "03-courage-and-nobility",
+          "title": {
+            "ar": "شجاعة ونبل",
+            "en": "Courage and Nobility"
+          },
+          "page": 16
+        },
+        {
+          "slug": "04-freedom-peace-justice",
+          "title": {
+            "ar": "حرية سلام وعدالة",
+            "en": "Freedom, Peace and Justice"
+          },
+          "page": 21
+        },
+        {
+          "slug": "05-a-mothers-advice-to-her-daughter",
+          "title": {
+            "ar": "نصيحة أم لابنتها",
+            "en": "A Mother's Advice to Her Daughter"
+          },
+          "page": 25
+        }
+      ]
+    },
+    {
+      "slug": "02-the-environment",
+      "title": {
+        "ar": "البيئة",
+        "en": "The Environment"
+      },
+      "concept": "earth",
+      "image": "clickview/elementary-natural-resources-cover.jpg",
+      "page": 28,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-water-in-our-life",
+          "title": {
+            "ar": "الماء في حياتنا",
+            "en": "Water in Our Life"
+          },
+          "page": 29,
+          "image": "clickview/elementary-the-water-cycle-cover.jpg"
+        },
+        {
+          "slug": "02-the-rain",
+          "title": {
+            "ar": "المطر",
+            "en": "The Rain"
+          },
+          "page": 31,
+          "image": "clickview/elementary-the-water-cycle-cover.jpg"
+        },
+        {
+          "slug": "03-forests-of-sudan",
+          "title": {
+            "ar": "غابات السودان",
+            "en": "Forests of Sudan"
+          },
+          "page": 34,
+          "image": "clickview/elementary-forests-rainforests-and-grasslands-cover.jpg"
+        },
+        {
+          "slug": "04-the-foolish-fig-tree",
+          "title": {
+            "ar": "التينة الحمقاء",
+            "en": "The Foolish Fig Tree"
+          },
+          "page": 38
+        },
+        {
+          "slug": "05-water-and-air-pollution",
+          "title": {
+            "ar": "تلوث الماء والهواء",
+            "en": "Water and Air Pollution"
+          },
+          "page": 41,
+          "image": "clickview/elementary-pollution-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-great-people-of-my-country",
+      "title": {
+        "ar": "عظماء من بلادي",
+        "en": "Great People of My Country"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-using-sources-cover.jpg",
+      "page": 45,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-babiker-badri",
+          "title": {
+            "ar": "بابكر بدري",
+            "en": "Babiker Badri"
+          },
+          "page": 46
+        },
+        {
+          "slug": "02-ismail-al-azhari",
+          "title": {
+            "ar": "إسماعيل الأزهري",
+            "en": "Ismail Al-Azhari"
+          },
+          "page": 50
+        },
+        {
+          "slug": "03-abdel-gadir-okir",
+          "title": {
+            "ar": "عبد القادر أوكير",
+            "en": "Abdel Gadir Okir"
+          },
+          "page": 54
+        },
+        {
+          "slug": "04-sheikha-amuna",
+          "title": {
+            "ar": "الشيخة أمونة",
+            "en": "Sheikha Amuna"
+          },
+          "page": 57
+        },
+        {
+          "slug": "05-khalil-farah",
+          "title": {
+            "ar": "خليل فرح (المغني الثائر)",
+            "en": "Khalil Farah (the Revolutionary Singer)"
+          },
+          "page": 60
+        }
+      ]
+    },
+    {
+      "slug": "04-animal-stories",
+      "title": {
+        "ar": "من قصص الحيوان",
+        "en": "From Animal Stories"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-animals-cover.jpg",
+      "page": 62,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-animal-language",
+          "title": {
+            "ar": "لغة الحيوان",
+            "en": "Animal Language"
+          },
+          "page": 64
+        },
+        {
+          "slug": "02-loyalty-of-animals",
+          "title": {
+            "ar": "من وفاء الحيوان",
+            "en": "From the Loyalty of Animals"
+          },
+          "page": 67
+        },
+        {
+          "slug": "03-the-ringed-dove",
+          "title": {
+            "ar": "الحمامة المطوقة",
+            "en": "The Ringed Dove"
+          },
+          "page": 73,
+          "image": "clickview/elementary-birds-cover.jpg"
+        },
+        {
+          "slug": "04-i-was-eaten-the-day-the-white-bull-was-eaten",
+          "title": {
+            "ar": "أكلت يوم أكل الثور الأبيض",
+            "en": "I Was Eaten the Day the White Bull Was Eaten"
+          },
+          "page": 76
+        },
+        {
+          "slug": "05-who-will-bell-the-cat",
+          "title": {
+            "ar": "من يعلق الجرس؟",
+            "en": "Who Will Bell the Cat?"
+          },
+          "page": 80
+        }
+      ]
+    },
+    {
+      "slug": "05-varied-topics",
+      "title": {
+        "ar": "موضوعات متنوعة",
+        "en": "Varied Topics"
+      },
+      "concept": "civic",
+      "image": "clickview/elementary-community-cover.jpg",
+      "page": 85,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-moonlight",
+          "title": {
+            "ar": "نور القمر",
+            "en": "Moonlight"
+          },
+          "page": 86,
+          "image": "clickview/elementary-the-moon-cover.jpg"
+        },
+        {
+          "slug": "02-the-hunter-and-the-skull",
+          "title": {
+            "ar": "الصياد والجمجمة",
+            "en": "The Hunter and the Skull"
+          },
+          "page": 89
+        },
+        {
+          "slug": "03-the-flag",
+          "title": {
+            "ar": "العلم",
+            "en": "The Flag"
+          },
+          "page": 93
+        },
+        {
+          "slug": "04-childrens-rights",
+          "title": {
+            "ar": "حقوق الطفل",
+            "en": "Children's Rights"
+          },
+          "page": 99,
+          "image": "clickview/elementary-childrens-rights-cover.jpg"
+        },
+        {
+          "slug": "05-my-country",
+          "title": {
+            "ar": "بلادي",
+            "en": "My Country"
+          },
+          "page": 103
+        }
+      ]
+    }
+  ]
+}

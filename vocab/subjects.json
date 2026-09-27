@@ -1,0 +1,498 @@
+{
+  "$comment": "Canonical subject ids. A subject folder is an id, optionally followed by one qualifier. Aliases are old names that resolve to the id.",
+  "qualifiers": {
+    "specialized": {
+      "ar": "متخصص",
+      "en": "Specialized"
+    },
+    "optional": {
+      "ar": "اختياري",
+      "en": "Elective"
+    }
+  },
+  "subjects": [
+    {
+      "id": "arabic",
+      "title": {
+        "ar": "اللغة العربية",
+        "en": "Arabic Language"
+      },
+      "concept": "language",
+      "aliases": [
+        "arabic-v2"
+      ]
+    },
+    {
+      "id": "arabic-grammar",
+      "title": {
+        "ar": "قواعد النحو",
+        "en": "Arabic Grammar"
+      },
+      "concept": "language",
+      "aliases": [
+        "grammar"
+      ]
+    },
+    {
+      "id": "arabic-literature",
+      "title": {
+        "ar": "المطالعة والأدب",
+        "en": "Arabic Reading & Literature"
+      },
+      "concept": "language",
+      "aliases": [
+        "literature"
+      ]
+    },
+    {
+      "id": "arabic-rhetoric",
+      "title": {
+        "ar": "البلاغة والتعبير",
+        "en": "Arabic Rhetoric & Expression"
+      },
+      "concept": "language",
+      "aliases": [
+        "rhetoric"
+      ]
+    },
+    {
+      "id": "arabic-reader",
+      "title": {
+        "ar": "المورد",
+        "en": "Arabic Reader (Al-Mawrid)"
+      },
+      "concept": "language",
+      "aliases": [
+        "resources"
+      ]
+    },
+    {
+      "id": "english",
+      "title": {
+        "ar": "اللغة الإنجليزية",
+        "en": "English Language"
+      },
+      "concept": "english",
+      "aliases": [
+        "english-language",
+        "english-language-arts",
+        "english-v2"
+      ]
+    },
+    {
+      "id": "english-literature",
+      "title": {
+        "ar": "الأدب الإنجليزي",
+        "en": "English Literature"
+      },
+      "concept": "english",
+      "aliases": []
+    },
+    {
+      "id": "french",
+      "title": {
+        "ar": "اللغة الفرنسية",
+        "en": "French Language"
+      },
+      "concept": "language",
+      "aliases": []
+    },
+    {
+      "id": "literary-studies",
+      "title": {
+        "ar": "دراسات أدبية ولغوية",
+        "en": "Literary & Linguistic Studies"
+      },
+      "concept": "language",
+      "aliases": []
+    },
+    {
+      "id": "math",
+      "title": {
+        "ar": "الرياضيات",
+        "en": "Mathematics"
+      },
+      "concept": "math",
+      "aliases": [
+        "mathematics",
+        "basic-math"
+      ]
+    },
+    {
+      "id": "further-math",
+      "title": {
+        "ar": "الرياضيات الإضافية",
+        "en": "Further Mathematics"
+      },
+      "concept": "math",
+      "aliases": [
+        "further-mathematics"
+      ]
+    },
+    {
+      "id": "science",
+      "title": {
+        "ar": "العلوم",
+        "en": "Science"
+      },
+      "concept": "science",
+      "aliases": [
+        "general-science"
+      ]
+    },
+    {
+      "id": "biology",
+      "title": {
+        "ar": "الأحياء",
+        "en": "Biology"
+      },
+      "concept": "life",
+      "aliases": [
+        "life-science",
+        "life-sciences"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "title": {
+        "ar": "الكيمياء",
+        "en": "Chemistry"
+      },
+      "concept": "chemistry",
+      "aliases": [
+        "chemical-science"
+      ]
+    },
+    {
+      "id": "physics",
+      "title": {
+        "ar": "الفيزياء",
+        "en": "Physics"
+      },
+      "concept": "physics",
+      "aliases": []
+    },
+    {
+      "id": "earth-environment",
+      "title": {
+        "ar": "الأرض بيئة الحياة",
+        "en": "Earth, the Environment of Life"
+      },
+      "concept": "earth",
+      "aliases": []
+    },
+    {
+      "id": "environmental-science",
+      "title": {
+        "ar": "علوم البيئة",
+        "en": "Environmental Science"
+      },
+      "concept": "nature",
+      "aliases": []
+    },
+    {
+      "id": "agriculture",
+      "title": {
+        "ar": "الإنتاج الزراعي والحيواني",
+        "en": "Agriculture & Animal Production"
+      },
+      "concept": "nature",
+      "aliases": []
+    },
+    {
+      "id": "geography",
+      "title": {
+        "ar": "الجغرافيا",
+        "en": "Geography"
+      },
+      "concept": "geography",
+      "aliases": []
+    },
+    {
+      "id": "history",
+      "title": {
+        "ar": "التاريخ",
+        "en": "History"
+      },
+      "concept": "history",
+      "aliases": []
+    },
+    {
+      "id": "social-studies",
+      "title": {
+        "ar": "الدراسات الاجتماعية",
+        "en": "Social Studies"
+      },
+      "concept": "society",
+      "aliases": [
+        "uae-social-studies"
+      ]
+    },
+    {
+      "id": "national-education",
+      "title": {
+        "ar": "التربية الوطنية",
+        "en": "National Education"
+      },
+      "concept": "civic",
+      "aliases": []
+    },
+    {
+      "id": "citizenship",
+      "title": {
+        "ar": "المواطنة",
+        "en": "Citizenship"
+      },
+      "concept": "civic",
+      "aliases": []
+    },
+    {
+      "id": "civics",
+      "title": {
+        "ar": "التربية المدنية",
+        "en": "Civics"
+      },
+      "concept": "civic",
+      "aliases": [
+        "civics-and-government"
+      ]
+    },
+    {
+      "id": "moral-education",
+      "title": {
+        "ar": "التربية الأخلاقية والاجتماعية",
+        "en": "Moral & Social Education"
+      },
+      "concept": "society",
+      "aliases": []
+    },
+    {
+      "id": "economics",
+      "title": {
+        "ar": "الاقتصاد",
+        "en": "Economics"
+      },
+      "concept": "economy",
+      "aliases": []
+    },
+    {
+      "id": "business",
+      "title": {
+        "ar": "دراسات الأعمال",
+        "en": "Business Studies"
+      },
+      "concept": "economy",
+      "aliases": [
+        "business-studies"
+      ]
+    },
+    {
+      "id": "commercial-studies",
+      "title": {
+        "ar": "العلوم التجارية",
+        "en": "Commercial Studies"
+      },
+      "concept": "economy",
+      "aliases": [
+        "commerce"
+      ]
+    },
+    {
+      "id": "entrepreneurship",
+      "title": {
+        "ar": "ريادة الأعمال",
+        "en": "Entrepreneurship"
+      },
+      "concept": "career",
+      "aliases": []
+    },
+    {
+      "id": "psychology",
+      "title": {
+        "ar": "علم النفس",
+        "en": "Psychology"
+      },
+      "concept": "mind",
+      "aliases": []
+    },
+    {
+      "id": "islamic-studies",
+      "title": {
+        "ar": "التربية الإسلامية",
+        "en": "Islamic Studies"
+      },
+      "concept": "faith",
+      "aliases": [
+        "islamic",
+        "islamic-education"
+      ]
+    },
+    {
+      "id": "quran",
+      "title": {
+        "ar": "القرآن الكريم",
+        "en": "Holy Quran"
+      },
+      "concept": "faith",
+      "aliases": [
+        "quran-studies"
+      ]
+    },
+    {
+      "id": "christian-education",
+      "title": {
+        "ar": "التربية المسيحية",
+        "en": "Christian Education"
+      },
+      "concept": "faith",
+      "aliases": []
+    },
+    {
+      "id": "art",
+      "title": {
+        "ar": "التربية الفنية",
+        "en": "Art & Design"
+      },
+      "concept": "art",
+      "aliases": [
+        "arts",
+        "arts-design"
+      ]
+    },
+    {
+      "id": "music",
+      "title": {
+        "ar": "الموسيقى",
+        "en": "Music"
+      },
+      "concept": "art",
+      "aliases": []
+    },
+    {
+      "id": "physical-education",
+      "title": {
+        "ar": "التربية البدنية",
+        "en": "Physical Education"
+      },
+      "concept": "sport",
+      "aliases": []
+    },
+    {
+      "id": "health",
+      "title": {
+        "ar": "التربية الصحية",
+        "en": "Health"
+      },
+      "concept": "health",
+      "aliases": []
+    },
+    {
+      "id": "pshe",
+      "title": {
+        "ar": "التربية الشخصية والاجتماعية والصحية",
+        "en": "PSHE & Wellbeing"
+      },
+      "concept": "health",
+      "aliases": []
+    },
+    {
+      "id": "computer-science",
+      "title": {
+        "ar": "علوم الحاسوب",
+        "en": "Computer Science"
+      },
+      "concept": "computer",
+      "aliases": [
+        "computing",
+        "computer"
+      ]
+    },
+    {
+      "id": "ict",
+      "title": {
+        "ar": "تكنولوجيا المعلومات والاتصالات",
+        "en": "Information & Communication Technology"
+      },
+      "concept": "computer",
+      "aliases": [
+        "communication-tech"
+      ]
+    },
+    {
+      "id": "technology",
+      "title": {
+        "ar": "التقنية",
+        "en": "Technology"
+      },
+      "concept": "computer",
+      "aliases": []
+    },
+    {
+      "id": "technical-education",
+      "title": {
+        "ar": "التربية التقنية",
+        "en": "Technical Education"
+      },
+      "concept": "skills",
+      "aliases": []
+    },
+    {
+      "id": "design-technology",
+      "title": {
+        "ar": "التصميم والتكنولوجيا",
+        "en": "Design & Technology"
+      },
+      "concept": "skills",
+      "aliases": []
+    },
+    {
+      "id": "engineering",
+      "title": {
+        "ar": "العلوم الهندسية",
+        "en": "Engineering Sciences"
+      },
+      "concept": "physics",
+      "aliases": []
+    },
+    {
+      "id": "home-economics",
+      "title": {
+        "ar": "الاقتصاد المنزلي",
+        "en": "Home Economics"
+      },
+      "concept": "life",
+      "aliases": [
+        "family-sciences"
+      ]
+    },
+    {
+      "id": "clothing",
+      "title": {
+        "ar": "ملبسنا",
+        "en": "Our Clothing"
+      },
+      "concept": "life",
+      "aliases": []
+    },
+    {
+      "id": "military-science",
+      "title": {
+        "ar": "العلوم العسكرية",
+        "en": "Military Science"
+      },
+      "concept": "civic",
+      "aliases": [
+        "military-sciences"
+      ]
+    },
+    {
+      "id": "core",
+      "title": {
+        "ar": "جوهر البكالوريا الدولية",
+        "en": "IB Core (TOK, EE, CAS)"
+      },
+      "concept": "mind",
+      "aliases": []
+    }
+  ]
+}

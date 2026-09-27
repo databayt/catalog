@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "object",
+      "properties": {
+        "curriculum": {
+          "type": "string",
+          "maxLength": 64,
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "grade": {
+          "type": "string",
+          "pattern": "^(kg[1-2]|g([1-9]|1[0-2]))$"
+        },
+        "subject": {
+          "type": "string",
+          "maxLength": 64,
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "chapter": {
+          "type": "string",
+          "maxLength": 64,
+          "pattern": "^\\d{2}-[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "lesson": {
+          "type": "string",
+          "maxLength": 64,
+          "pattern": "^\\d{2}-[a-z0-9]+(-[a-z0-9]+)*$"
+        }
+      },
+      "required": [
+        "curriculum",
+        "grade",
+        "subject"
+      ],
+      "additionalProperties": false
+    },
+    "questions": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "mcq",
+              "true_false",
+              "fill_blank",
+              "short_answer"
+            ]
+          },
+          "question": {
+            "type": "string",
+            "minLength": 1
+          },
+          "options": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "answer": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "number"
+              },
+              {
+                "type": "boolean"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ]
+          },
+          "explanation": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "type",
+          "question",
+          "answer"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "scope",
+    "questions"
+  ],
+  "additionalProperties": false,
+  "$id": "https://cdn.databayt.org/catalog/schema/qbank.schema.json",
+  "title": "qbank"
+}

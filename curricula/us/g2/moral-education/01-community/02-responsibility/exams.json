@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "moral-education",
+    "chapter": "01-community",
+    "lesson": "02-responsibility"
+  },
+  "exams": [
+    {
+      "id": "g2-mor-unit-01-community-02-responsibility-quiz",
+      "title": "Quiz: Responsibility",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mor-unit-01-community-02-responsibility-lq01",
+          "type": "mcq",
+          "question": "Being responsible means you:",
+          "options": [
+            "do your duties",
+            "forget tasks",
+            "blame others",
+            "do nothing"
+          ],
+          "answer": "do your duties",
+          "explanation": "Responsibility."
+        },
+        {
+          "id": "g2-mor-unit-01-community-02-responsibility-lq02",
+          "type": "true_false",
+          "question": "Keeping our environment clean is everyone's responsibility.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Shared duty."
+        },
+        {
+          "id": "g2-mor-unit-01-community-02-responsibility-lq03",
+          "type": "fill_blank",
+          "question": "Doing what you are supposed to do is being ___.",
+          "answer": "responsible",
+          "explanation": "Responsibility."
+        },
+        {
+          "id": "g2-mor-unit-01-community-02-responsibility-lq04",
+          "type": "short_answer",
+          "question": "Name one responsibility you have at home or school.",
+          "answer": "e.g., tidying up, homework, or helping others.",
+          "explanation": "Responsibility."
+        }
+      ]
+    }
+  ]
+}

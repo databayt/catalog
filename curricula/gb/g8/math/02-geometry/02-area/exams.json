@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "02-geometry",
+    "lesson": "02-area"
+  },
+  "exams": [
+    {
+      "id": "g8-mat-unit-02-geometry-02-area-quiz",
+      "title": "Quiz: Area & Volume",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-mat-unit-02-geometry-02-area-lq01",
+          "type": "mcq",
+          "question": "Area of a triangle base 6, height 4:",
+          "options": [
+            "24",
+            "12",
+            "10",
+            "20"
+          ],
+          "answer": "12",
+          "explanation": "½ × 6 × 4."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-02-area-lq02",
+          "type": "true_false",
+          "question": "Volume of a cuboid = length × width × height.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "V = lwh."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-02-area-lq03",
+          "type": "fill_blank",
+          "question": "Area of a circle uses the formula πr² where r is the ___.",
+          "answer": "radius",
+          "explanation": "Radius."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-02-area-lq04",
+          "type": "short_answer",
+          "question": "How do you find the area of a parallelogram?",
+          "answer": "Base × perpendicular height.",
+          "explanation": "Area formula."
+        }
+      ]
+    }
+  ]
+}

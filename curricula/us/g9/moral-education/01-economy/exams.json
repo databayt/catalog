@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "moral-education",
+    "chapter": "01-economy"
+  },
+  "exams": [
+    {
+      "id": "g9-mor-unit-01-economy-exam",
+      "title": "Exam: Economy & Development",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-mor-unit-01-economy-01-economy-lq01",
+          "type": "mcq",
+          "question": "The UAE's economy has diversified beyond oil into tourism and:",
+          "options": [
+            "finance",
+            "fishing only",
+            "farming only",
+            "mining only"
+          ],
+          "answer": "finance",
+          "explanation": "Diversification."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-01-economy-lq02",
+          "type": "true_false",
+          "question": "The UAE invests in renewable energy and innovation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Future economy."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-01-economy-lq03",
+          "type": "fill_blank",
+          "question": "Reducing dependence on oil is economic ___.",
+          "answer": "diversification",
+          "explanation": "Diversification."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-01-economy-lq04",
+          "type": "short_answer",
+          "question": "Why does the UAE diversify its economy?",
+          "answer": "To build a sustainable economy not reliant on oil.",
+          "explanation": "Diversification."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-02-sustainable-dev-lq01",
+          "type": "mcq",
+          "question": "Sustainable development meets today's needs without harming:",
+          "options": [
+            "future generations",
+            "the economy only",
+            "cities only",
+            "fonts"
+          ],
+          "answer": "future generations",
+          "explanation": "Sustainability."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-02-sustainable-dev-lq02",
+          "type": "true_false",
+          "question": "The UAE has goals for clean energy and sustainability.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "UAE Vision."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-02-sustainable-dev-lq03",
+          "type": "fill_blank",
+          "question": "Energy from the sun and wind is ___ energy.",
+          "answer": "renewable",
+          "explanation": "Renewables."
+        },
+        {
+          "id": "g9-mor-unit-01-economy-02-sustainable-dev-lq04",
+          "type": "short_answer",
+          "question": "Name one sustainability goal of the UAE.",
+          "answer": "e.g., clean energy, reducing emissions, or food security.",
+          "explanation": "Sustainability."
+        }
+      ]
+    }
+  ]
+}

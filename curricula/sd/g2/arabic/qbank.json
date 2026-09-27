@@ -1,0 +1,1065 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "arabic"
+  },
+  "questions": [
+    {
+      "id": "g2-ar-u01-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: القراءة والكتابة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الأول is True."
+    },
+    {
+      "id": "g2-ar-u01-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الحروف العربية",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الأول is True."
+    },
+    {
+      "id": "g2-ar-u01-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: أ ب ج د",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الأول."
+    },
+    {
+      "id": "g2-ar-u01-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الأول is True."
+    },
+    {
+      "id": "g2-ar-u02-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النطق الصحيح",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني is True."
+    },
+    {
+      "id": "g2-ar-u02-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: تركيب الجمل",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني is True."
+    },
+    {
+      "id": "g2-ar-u02-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الدرس الثاني",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني."
+    },
+    {
+      "id": "g2-ar-u02-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني is True."
+    },
+    {
+      "id": "g2-ar-u03-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: القراءة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الثالث is True."
+    },
+    {
+      "id": "g2-ar-u03-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النطق",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الثالث is True."
+    },
+    {
+      "id": "g2-ar-u03-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الكتابة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثالث."
+    },
+    {
+      "id": "g2-ar-u03-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الثالث is True."
+    },
+    {
+      "id": "g2-ar-u04-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الاستماع",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الرابع is True."
+    },
+    {
+      "id": "g2-ar-u04-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: التحدث",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الرابع is True."
+    },
+    {
+      "id": "g2-ar-u04-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الفهم",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الرابع."
+    },
+    {
+      "id": "g2-ar-u04-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الرابع is True."
+    },
+    {
+      "id": "g2-ar-u05-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: النحو",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الخامس is True."
+    },
+    {
+      "id": "g2-ar-u05-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الإملاء",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الخامس is True."
+    },
+    {
+      "id": "g2-ar-u05-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: المفردات",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الخامس."
+    },
+    {
+      "id": "g2-ar-u05-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الخامس is True."
+    },
+    {
+      "id": "g2-ar-u06-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الكلمات",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس السادس is True."
+    },
+    {
+      "id": "g2-ar-u06-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الحروف",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس السادس is True."
+    },
+    {
+      "id": "g2-ar-u06-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الجمل البسيطة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السادس."
+    },
+    {
+      "id": "g2-ar-u06-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس السادس is True."
+    },
+    {
+      "id": "g2-ar-u07-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: المعنى",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس السابع is True."
+    },
+    {
+      "id": "g2-ar-u07-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الاستخدام",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس السابع is True."
+    },
+    {
+      "id": "g2-ar-u07-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: التركيب",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس السابع."
+    },
+    {
+      "id": "g2-ar-u07-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس السابع is True."
+    },
+    {
+      "id": "g2-ar-u08-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الاسم",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الثامن is True."
+    },
+    {
+      "id": "g2-ar-u08-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الحرف",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الثامن is True."
+    },
+    {
+      "id": "g2-ar-u08-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الفعل والفاعل",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثامن."
+    },
+    {
+      "id": "g2-ar-u08-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الثامن is True."
+    },
+    {
+      "id": "g2-ar-u09-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الأسماء",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس التاسع is True."
+    },
+    {
+      "id": "g2-ar-u09-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الأفعال",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس التاسع is True."
+    },
+    {
+      "id": "g2-ar-u09-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الضمائر",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس التاسع."
+    },
+    {
+      "id": "g2-ar-u09-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس التاسع is True."
+    },
+    {
+      "id": "g2-ar-u10-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الجمع والمفرد",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس العاشر is True."
+    },
+    {
+      "id": "g2-ar-u10-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الماضي والحاضر",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس العاشر is True."
+    },
+    {
+      "id": "g2-ar-u10-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: المؤنث والمذكر",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس العاشر."
+    },
+    {
+      "id": "g2-ar-u10-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس العاشر is True."
+    },
+    {
+      "id": "g2-ar-u11-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الشدة والسكون",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الحادي عشر is True."
+    },
+    {
+      "id": "g2-ar-u11-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الفتحة والضمة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الحادي عشر is True."
+    },
+    {
+      "id": "g2-ar-u11-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: التعريف والتنكير",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الحادي عشر."
+    },
+    {
+      "id": "g2-ar-u11-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الحادي عشر is True."
+    },
+    {
+      "id": "g2-ar-u12-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الجملة الفعلية",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: في اللغة العربية ضمائر معلنة وضمائر مستترة",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني عشر is True."
+    },
+    {
+      "id": "g2-ar-u12-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الضمائر تدل على ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q004",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: شبه الجملة",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: اللغة العربية تُكتب من اليسار إلى اليمين",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني عشر is True."
+    },
+    {
+      "id": "g2-ar-u12-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: الجملة الاسمية تبدأ ب___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q008",
+      "type": "short_answer",
+      "question": "أجب عن السؤال التالي: ما الفرق بين الاسم والفعل؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: الجملة الاسمية",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الدرس الثاني عشر."
+    },
+    {
+      "id": "g2-ar-u12-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة أم خاطئة: الحروف العربية عددها 28 حرفاً",
+      "answer": true,
+      "explanation": "The statement about الدرس الثاني عشر is True."
+    }
+  ]
+}

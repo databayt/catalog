@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-01-linear-01-solving-linear-lq01",
+      "type": "mcq",
+      "question": "Solve 2x - 3 = 7:",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "10"
+      ],
+      "answer": "5",
+      "explanation": "2x=10, x=5."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-01-solving-linear-lq02",
+      "type": "true_false",
+      "question": "Adding the same value to both sides keeps an equation balanced.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Property of equality."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-01-solving-linear-lq03",
+      "type": "fill_blank",
+      "question": "Solve 3(x+2)=15 → x = ___.",
+      "answer": "3",
+      "explanation": "x+2=5."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-01-solving-linear-lq04",
+      "type": "short_answer",
+      "question": "What is the first step to solve 5x + 4 = 19?",
+      "answer": "Subtract 4 from both sides.",
+      "explanation": "Isolate the variable."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-02-inequalities-lq01",
+      "type": "mcq",
+      "question": "Solve x + 3 > 5:",
+      "options": [
+        "x>2",
+        "x<2",
+        "x>8",
+        "x=2"
+      ],
+      "answer": "x>2",
+      "explanation": "Subtract 3."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-02-inequalities-lq02",
+      "type": "true_false",
+      "question": "Dividing an inequality by a negative flips the sign.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Inequality rule."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-02-inequalities-lq03",
+      "type": "fill_blank",
+      "question": "The solution to 2x < 10 is x < ___.",
+      "answer": "5",
+      "explanation": "Divide by 2."
+    },
+    {
+      "id": "g9-mat-unit-01-linear-02-inequalities-lq04",
+      "type": "short_answer",
+      "question": "Why flip the inequality when dividing by a negative?",
+      "answer": "Because it reverses the order of the numbers.",
+      "explanation": "Sign flip."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-01-slope-intercept-lq01",
+      "type": "mcq",
+      "question": "In y = mx + b, m is the:",
+      "options": [
+        "intercept",
+        "slope",
+        "input",
+        "output"
+      ],
+      "answer": "slope",
+      "explanation": "Slope = m."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-01-slope-intercept-lq02",
+      "type": "true_false",
+      "question": "Parallel lines have equal slopes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Same gradient."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-01-slope-intercept-lq03",
+      "type": "fill_blank",
+      "question": "The slope between (0,1) and (2,5) is ___.",
+      "answer": "2",
+      "explanation": "(5-1)/(2-0)."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-01-slope-intercept-lq04",
+      "type": "short_answer",
+      "question": "What does b represent in y = mx + b?",
+      "answer": "The y-intercept (where the line crosses the y-axis).",
+      "explanation": "Intercept."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-02-systems-lq01",
+      "type": "mcq",
+      "question": "A system with no solution has lines that are:",
+      "options": [
+        "intersecting",
+        "parallel",
+        "the same",
+        "perpendicular"
+      ],
+      "answer": "parallel",
+      "explanation": "No intersection."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-02-systems-lq02",
+      "type": "true_false",
+      "question": "Substitution and elimination both solve systems.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Two methods."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-02-systems-lq03",
+      "type": "fill_blank",
+      "question": "If y=x and y=2x, they intersect at x = ___.",
+      "answer": "0",
+      "explanation": "x=2x → x=0."
+    },
+    {
+      "id": "g9-mat-unit-02-functions-02-systems-lq04",
+      "type": "short_answer",
+      "question": "What does the solution to a system represent graphically?",
+      "answer": "The point(s) where the lines intersect.",
+      "explanation": "Intersection."
+    }
+  ]
+}

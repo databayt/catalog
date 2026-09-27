@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g6-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq01",
+          "type": "mcq",
+          "question": "Scientists group living things to:",
+          "options": [
+            "confuse us",
+            "organise and study them",
+            "make art",
+            "cook"
+          ],
+          "answer": "organise and study them",
+          "explanation": "Classification."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq02",
+          "type": "true_false",
+          "question": "Mammals feed their young with milk.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Mammal trait."
+        },
+        {
+          "id": "g6-sci-unit-02-electricity-light-01-circuit-symbols-lq01",
+          "type": "mcq",
+          "question": "More cells (batteries) in a circuit usually make a bulb:",
+          "options": [
+            "dimmer",
+            "brighter",
+            "off",
+            "cooler"
+          ],
+          "answer": "brighter",
+          "explanation": "More voltage."
+        },
+        {
+          "id": "g6-sci-unit-02-electricity-light-01-circuit-symbols-lq02",
+          "type": "true_false",
+          "question": "Scientists use symbols to draw circuits.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Circuit diagrams."
+        }
+      ]
+    }
+  ]
+}

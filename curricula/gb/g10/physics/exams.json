@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "physics"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-physics-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq01",
+          "type": "mcq",
+          "question": "Energy stored in a stretched spring is:",
+          "options": [
+            "kinetic",
+            "elastic potential",
+            "thermal",
+            "nuclear"
+          ],
+          "answer": "elastic potential",
+          "explanation": "Elastic store."
+        },
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq02",
+          "type": "true_false",
+          "question": "Energy can be transferred but not created or destroyed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation."
+        },
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq01",
+          "type": "mcq",
+          "question": "Ohm's law states V = I ×:",
+          "options": [
+            "P",
+            "R",
+            "Q",
+            "t"
+          ],
+          "answer": "R",
+          "explanation": "V = IR."
+        },
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq02",
+          "type": "true_false",
+          "question": "In a series circuit current is the same everywhere.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Single path."
+        }
+      ]
+    }
+  ]
+}

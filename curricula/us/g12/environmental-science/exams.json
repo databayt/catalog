@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "environmental-science"
+  },
+  "exams": [
+    {
+      "id": "us-g12-environmental-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq01",
+          "type": "mcq",
+          "question": "Organisms that produce their own food are:",
+          "options": [
+            "consumers",
+            "producers",
+            "decomposers",
+            "predators"
+          ],
+          "answer": "producers",
+          "explanation": "Autotrophs."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq02",
+          "type": "true_false",
+          "question": "Only about 10% of energy passes to the next trophic level.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "10% rule."
+        },
+        {
+          "id": "g12-env-unit-02-human-impact-01-pollution-climate-lq01",
+          "type": "mcq",
+          "question": "A major greenhouse gas is:",
+          "options": [
+            "oxygen",
+            "carbon dioxide",
+            "nitrogen",
+            "argon"
+          ],
+          "answer": "carbon dioxide",
+          "explanation": "CO₂ traps heat."
+        },
+        {
+          "id": "g12-env-unit-02-human-impact-01-pollution-climate-lq02",
+          "type": "true_false",
+          "question": "Burning fossil fuels increases atmospheric CO₂.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Combustion."
+        }
+      ]
+    }
+  ]
+}

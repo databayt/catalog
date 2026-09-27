@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "g2-islamic-final-exam-5534",
+      "title": "Final Exam - Islamic - G2",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g2-is-u01-q001",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: من مؤسس الدولة الإسلامية؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الصيام في رمضان فرض",
+          "answer": true,
+          "explanation": "The statement about Quran Tajweed is True."
+        },
+        {
+          "id": "g2-is-u01-q003",
+          "type": "fill_blank",
+          "question": "أكمل: سورة الفاتحة تسمى أم ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q004",
+          "type": "short_answer",
+          "question": "أجب: اذكر أركان الإسلام الخمسة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q005",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: كم عدد أركان الإسلام؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الزكاة أحد أركان الإسلام",
+          "answer": true,
+          "explanation": "The statement about Quran Tajweed is True."
+        },
+        {
+          "id": "g2-is-u01-q007",
+          "type": "fill_blank",
+          "question": "أكمل: أول شهر في السنة الهجرية ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q008",
+          "type": "short_answer",
+          "question": "أجب: اذكر أركان الإسلام الخمسة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q009",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: ما هو لون العلم السعودي؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran Tajweed."
+        },
+        {
+          "id": "g2-is-u01-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الصلاة فرض على كل مسلم",
+          "answer": true,
+          "explanation": "The statement about Quran Tajweed is True."
+        },
+        {
+          "id": "g2-is-u02-q001",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: من مؤسس الدولة الإسلامية؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran."
+        },
+        {
+          "id": "g2-is-u02-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الصيام في رمضان فرض",
+          "answer": true,
+          "explanation": "The statement about Quran is True."
+        },
+        {
+          "id": "g2-is-u02-q003",
+          "type": "fill_blank",
+          "question": "أكمل: سورة الفاتحة تسمى أم ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Quran."
+        },
+        {
+          "id": "g2-is-u02-q004",
+          "type": "short_answer",
+          "question": "أجب: اذكر أركان الإسلام الخمسة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Quran."
+        },
+        {
+          "id": "g2-is-u02-q005",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: كم عدد أركان الإسلام؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran."
+        },
+        {
+          "id": "g2-is-u02-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الزكاة أحد أركان الإسلام",
+          "answer": true,
+          "explanation": "The statement about Quran is True."
+        },
+        {
+          "id": "g2-is-u02-q007",
+          "type": "fill_blank",
+          "question": "أكمل: أول شهر في السنة الهجرية ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Quran."
+        },
+        {
+          "id": "g2-is-u02-q008",
+          "type": "short_answer",
+          "question": "أجب: اذكر أركان الإسلام الخمسة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Quran."
+        },
+        {
+          "id": "g2-is-u02-q009",
+          "type": "mcq",
+          "question": "ما الإجابة الصحيحة: ما هو لون العلم السعودي؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Quran."
+        },
+        {
+          "id": "g2-is-u02-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الصلاة فرض على كل مسلم",
+          "answer": true,
+          "explanation": "The statement about Quran is True."
+        }
+      ]
+    }
+  ]
+}

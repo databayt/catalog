@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "01-reading-literature",
+    "lesson": "01-character-traits"
+  },
+  "questions": [
+    {
+      "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq01",
+      "type": "mcq",
+      "question": "A character trait is:",
+      "options": [
+        "what a character looks like only",
+        "a way to describe how a character is",
+        "the setting",
+        "the title"
+      ],
+      "answer": "a way to describe how a character is",
+      "explanation": "Traits = qualities (brave, kind)."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq02",
+      "type": "true_false",
+      "question": "Actions can show character traits.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "We infer traits from behavior."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq03",
+      "type": "fill_blank",
+      "question": "A character who shares is ___.",
+      "answer": "generous",
+      "explanation": "Trait word (example)."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq04",
+      "type": "short_answer",
+      "question": "Name a trait and evidence for it.",
+      "answer": "e.g., 'Brave — she entered the dark cave.'",
+      "explanation": "Trait + text evidence."
+    }
+  ]
+}

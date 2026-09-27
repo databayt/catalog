@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-uae-unit-01-economy-01-economy-lq01",
+          "type": "mcq",
+          "question": "The UAE's economy has diversified beyond oil into tourism and:",
+          "options": [
+            "finance",
+            "fishing only",
+            "farming only",
+            "mining only"
+          ],
+          "answer": "finance",
+          "explanation": "Diversification."
+        },
+        {
+          "id": "g9-uae-unit-01-economy-01-economy-lq02",
+          "type": "true_false",
+          "question": "The UAE invests in renewable energy and innovation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Future economy."
+        },
+        {
+          "id": "g9-uae-unit-02-ethics-01-responsibility-lq01",
+          "type": "mcq",
+          "question": "Social responsibility means caring about your impact on:",
+          "options": [
+            "society and environment",
+            "yourself only",
+            "games",
+            "fonts"
+          ],
+          "answer": "society and environment",
+          "explanation": "Responsibility."
+        },
+        {
+          "id": "g9-uae-unit-02-ethics-01-responsibility-lq02",
+          "type": "true_false",
+          "question": "Individuals and companies can act responsibly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "CSR."
+        }
+      ]
+    }
+  ]
+}

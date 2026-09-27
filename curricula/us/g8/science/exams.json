@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "us-g8-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq01",
+          "type": "mcq",
+          "question": "An object at rest stays at rest unless acted on by a:",
+          "options": [
+            "color",
+            "force",
+            "sound",
+            "cell"
+          ],
+          "answer": "force",
+          "explanation": "Newton's first law (inertia)."
+        },
+        {
+          "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq02",
+          "type": "true_false",
+          "question": "Force = mass × acceleration (Newton's second law).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "F = ma."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq01",
+          "type": "mcq",
+          "question": "Earthquakes often occur at:",
+          "options": [
+            "plate boundaries",
+            "mountain tops only",
+            "the equator",
+            "the poles"
+          ],
+          "answer": "plate boundaries",
+          "explanation": "Plates interact."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq02",
+          "type": "true_false",
+          "question": "Earth's crust is broken into moving plates.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tectonic plates."
+        }
+      ]
+    }
+  ]
+}

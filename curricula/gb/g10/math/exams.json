@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-mat-unit-01-algebra-01-quadratics-lq01",
+          "type": "mcq",
+          "question": "Solve x² = 49:",
+          "options": [
+            "7",
+            "±7",
+            "24.5",
+            "14"
+          ],
+          "answer": "±7",
+          "explanation": "Two roots."
+        },
+        {
+          "id": "g10-mat-unit-01-algebra-01-quadratics-lq02",
+          "type": "true_false",
+          "question": "Factorising x²+5x+6 gives (x+2)(x+3).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Factors of 6 summing 5."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq01",
+          "type": "mcq",
+          "question": "In a right triangle, sin = opposite ÷ :",
+          "options": [
+            "adjacent",
+            "hypotenuse",
+            "angle",
+            "area"
+          ],
+          "answer": "hypotenuse",
+          "explanation": "SOH."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq02",
+          "type": "true_false",
+          "question": "Pythagoras: a² + b² = c² for right triangles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Hypotenuse rule."
+        }
+      ]
+    }
+  ]
+}

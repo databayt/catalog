@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g8-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq01",
+          "type": "mcq",
+          "question": "The central idea is the:",
+          "options": [
+            "smallest detail",
+            "main point of a text",
+            "author's name",
+            "first word"
+          ],
+          "answer": "main point of a text",
+          "explanation": "Central/main idea."
+        },
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq02",
+          "type": "true_false",
+          "question": "A good summary includes your personal opinion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Summaries are objective."
+        },
+        {
+          "id": "g8-eng-unit-02-language-01-figurative-lq01",
+          "type": "mcq",
+          "question": "'Her smile was sunshine' is a:",
+          "options": [
+            "simile",
+            "metaphor",
+            "pun",
+            "fact"
+          ],
+          "answer": "metaphor",
+          "explanation": "Direct comparison."
+        },
+        {
+          "id": "g8-eng-unit-02-language-01-figurative-lq02",
+          "type": "true_false",
+          "question": "Tone is the author's attitude toward the subject.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Attitude/mood."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq01",
+          "type": "mcq",
+          "question": "A writer's attitude towards a subject is their:",
+          "options": [
+            "viewpoint",
+            "font",
+            "title",
+            "index"
+          ],
+          "answer": "viewpoint",
+          "explanation": "Perspective."
+        },
+        {
+          "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq02",
+          "type": "true_false",
+          "question": "Two texts on the same topic can present different viewpoints.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Comparison."
+        },
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq01",
+          "type": "mcq",
+          "question": "A rhetorical question is used to:",
+          "options": [
+            "confuse",
+            "persuade/make readers think",
+            "end a text",
+            "fill space"
+          ],
+          "answer": "persuade/make readers think",
+          "explanation": "Persuasive device."
+        },
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq02",
+          "type": "true_false",
+          "question": "Counterarguments can make persuasion more convincing.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Address opposition."
+        }
+      ]
+    }
+  ]
+}

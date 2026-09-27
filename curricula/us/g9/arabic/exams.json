@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g9-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq01",
+          "type": "mcq",
+          "question": "(إنّ) تنصب الاسم وترفع:",
+          "options": [
+            "الفاعل",
+            "الخبر",
+            "المفعول",
+            "الحرف"
+          ],
+          "answer": "الخبر",
+          "explanation": "عكس كان."
+        },
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq02",
+          "type": "true_false",
+          "question": "(إنّ، أنّ، لكنّ، ليت) من أخوات إنّ.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الحروف الناسخة."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq01",
+          "type": "mcq",
+          "question": "أداة استفهام مما يلي:",
+          "options": [
+            "هل",
+            "لم",
+            "لن",
+            "قد"
+          ],
+          "answer": "هل",
+          "explanation": "أداة استفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq02",
+          "type": "true_false",
+          "question": "(متى، أين، كيف) أدوات استفهام.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاستفهام."
+        }
+      ]
+    }
+  ]
+}

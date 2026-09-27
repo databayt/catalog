@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "01-earth-space",
+    "lesson": "02-forces"
+  },
+  "questions": [
+    {
+      "id": "g5-sci-unit-01-earth-space-02-forces-lq01",
+      "type": "mcq",
+      "question": "Gravity pulls objects:",
+      "options": [
+        "up",
+        "towards Earth's centre",
+        "sideways",
+        "away"
+      ],
+      "answer": "towards Earth's centre",
+      "explanation": "Downward pull."
+    },
+    {
+      "id": "g5-sci-unit-01-earth-space-02-forces-lq02",
+      "type": "true_false",
+      "question": "Air resistance slows falling objects.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Friction with air."
+    },
+    {
+      "id": "g5-sci-unit-01-earth-space-02-forces-lq03",
+      "type": "fill_blank",
+      "question": "A force that opposes motion between surfaces is ___.",
+      "answer": "friction",
+      "explanation": "Friction."
+    },
+    {
+      "id": "g5-sci-unit-01-earth-space-02-forces-lq04",
+      "type": "short_answer",
+      "question": "Give an example of a useful force.",
+      "answer": "e.g., friction to grip, gravity to keep us down.",
+      "explanation": "Forces in life."
+    }
+  ]
+}

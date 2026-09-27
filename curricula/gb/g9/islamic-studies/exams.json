@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-isl-unit-01-aqeedah-akhlaq-01-aqeedah-lq01",
+          "type": "mcq",
+          "question": "التوحيد هو إفراد الله بـ:",
+          "options": [
+            "العبادة",
+            "الطعام",
+            "المال",
+            "اللعب"
+          ],
+          "answer": "العبادة",
+          "explanation": "توحيد العبادة."
+        },
+        {
+          "id": "g9-isl-unit-01-aqeedah-akhlaq-01-aqeedah-lq02",
+          "type": "true_false",
+          "question": "الشرك بالله من أكبر الذنوب.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الشرك."
+        },
+        {
+          "id": "g9-isl-unit-02-fiqh-01-taharah-lq01",
+          "type": "mcq",
+          "question": "من شروط صحة الصلاة:",
+          "options": [
+            "الطهارة",
+            "الجوع",
+            "النوم",
+            "اللعب"
+          ],
+          "answer": "الطهارة",
+          "explanation": "شروط الصلاة."
+        },
+        {
+          "id": "g9-isl-unit-02-fiqh-01-taharah-lq02",
+          "type": "true_false",
+          "question": "الوضوء شرط لصحة الصلاة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الطهارة."
+        }
+      ]
+    }
+  ]
+}

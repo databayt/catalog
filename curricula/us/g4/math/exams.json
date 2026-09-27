@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g4-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-mat-unit-01-place-value-multidigit-01-place-value-millions-lq01",
+          "type": "mcq",
+          "question": "In 3,452,000 the 4 is in the:",
+          "options": [
+            "thousands",
+            "ten-thousands",
+            "hundred-thousands",
+            "millions"
+          ],
+          "answer": "hundred-thousands",
+          "explanation": "4 sits in the hundred-thousands place."
+        },
+        {
+          "id": "g4-mat-unit-01-place-value-multidigit-01-place-value-millions-lq02",
+          "type": "true_false",
+          "question": "In 5,000, the value of 5 is five thousand.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "5 × 1000."
+        },
+        {
+          "id": "g4-mat-unit-02-fractions-decimals-01-add-sub-fractions-lq01",
+          "type": "mcq",
+          "question": "2/5 + 1/5 = ?",
+          "options": [
+            "3/10",
+            "3/5",
+            "1/5",
+            "2/25"
+          ],
+          "answer": "3/5",
+          "explanation": "Add numerators over like denominator."
+        },
+        {
+          "id": "g4-mat-unit-02-fractions-decimals-01-add-sub-fractions-lq02",
+          "type": "true_false",
+          "question": "To add like fractions, add the numerators only.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Denominator stays the same."
+        },
+        {
+          "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq01",
+          "type": "mcq",
+          "question": "A 90° angle is called:",
+          "options": [
+            "acute",
+            "right",
+            "obtuse",
+            "straight"
+          ],
+          "answer": "right",
+          "explanation": "90° is a right angle."
+        },
+        {
+          "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq02",
+          "type": "true_false",
+          "question": "An obtuse angle is greater than 90°.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Between 90° and 180°."
+        }
+      ]
+    }
+  ]
+}

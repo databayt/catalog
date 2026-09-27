@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "02-geometry"
+  },
+  "questions": [
+    {
+      "id": "g8-mat-unit-02-geometry-01-angles-lq01",
+      "type": "mcq",
+      "question": "Angles in a triangle sum to:",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "180°",
+      "explanation": "Triangle angle sum."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-01-angles-lq02",
+      "type": "true_false",
+      "question": "Angles on a straight line sum to 180°.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Straight line."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-01-angles-lq03",
+      "type": "fill_blank",
+      "question": "Angles in a quadrilateral sum to ___°.",
+      "answer": "360",
+      "explanation": "Four-sided sum."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-01-angles-lq04",
+      "type": "short_answer",
+      "question": "Find the third angle of a triangle with 60° and 70°.",
+      "answer": "50°",
+      "explanation": "180 - 130."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-02-area-lq01",
+      "type": "mcq",
+      "question": "Area of a triangle base 6, height 4:",
+      "options": [
+        "24",
+        "12",
+        "10",
+        "20"
+      ],
+      "answer": "12",
+      "explanation": "½ × 6 × 4."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-02-area-lq02",
+      "type": "true_false",
+      "question": "Volume of a cuboid = length × width × height.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "V = lwh."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-02-area-lq03",
+      "type": "fill_blank",
+      "question": "Area of a circle uses the formula πr² where r is the ___.",
+      "answer": "radius",
+      "explanation": "Radius."
+    },
+    {
+      "id": "g8-mat-unit-02-geometry-02-area-lq04",
+      "type": "short_answer",
+      "question": "How do you find the area of a parallelogram?",
+      "answer": "Base × perpendicular height.",
+      "explanation": "Area formula."
+    }
+  ]
+}

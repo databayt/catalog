@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "further-math",
+    "chapter": "02-further",
+    "lesson": "02-algorithms"
+  },
+  "questions": [
+    {
+      "id": "g12-fur-unit-02-further-02-algorithms-lq01",
+      "type": "mcq",
+      "question": "A step-by-step procedure to solve a problem is an:",
+      "options": [
+        "algorithm",
+        "axiom",
+        "angle",
+        "asset"
+      ],
+      "answer": "algorithm",
+      "explanation": "Algorithms."
+    },
+    {
+      "id": "g12-fur-unit-02-further-02-algorithms-lq02",
+      "type": "true_false",
+      "question": "Graph theory studies networks of nodes and edges.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Graphs."
+    },
+    {
+      "id": "g12-fur-unit-02-further-02-algorithms-lq03",
+      "type": "fill_blank",
+      "question": "In graph theory, connections between nodes are called ___.",
+      "answer": "edges",
+      "explanation": "Edges."
+    },
+    {
+      "id": "g12-fur-unit-02-further-02-algorithms-lq04",
+      "type": "short_answer",
+      "question": "Name one application of decision mathematics.",
+      "answer": "e.g., shortest-path routing or scheduling.",
+      "explanation": "Decision maths."
+    }
+  ]
+}

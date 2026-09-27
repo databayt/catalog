@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english-literature",
+    "chapter": "02-novel",
+    "lesson": "01-setting"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-02-novel-01-setting-quiz",
+      "title": "Quiz: Setting & Atmosphere",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq01",
+          "type": "mcq",
+          "question": "A gloomy setting can create a sense of:",
+          "options": [
+            "joy",
+            "foreboding",
+            "comedy",
+            "boredom"
+          ],
+          "answer": "foreboding",
+          "explanation": "Atmosphere."
+        },
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq02",
+          "type": "true_false",
+          "question": "Setting can reflect a character's mood (pathetic fallacy).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pathetic fallacy."
+        },
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq03",
+          "type": "fill_blank",
+          "question": "The time and place of a story is its ___.",
+          "answer": "setting",
+          "explanation": "Setting."
+        },
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq04",
+          "type": "short_answer",
+          "question": "How can setting contribute to meaning?",
+          "answer": "It builds atmosphere and can mirror themes or character.",
+          "explanation": "Setting."
+        }
+      ]
+    }
+  ]
+}

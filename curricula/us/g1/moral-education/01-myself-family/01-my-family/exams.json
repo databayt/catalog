@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "moral-education",
+    "chapter": "01-myself-family",
+    "lesson": "01-my-family"
+  },
+  "exams": [
+    {
+      "id": "g1-mor-unit-01-myself-family-01-my-family-quiz",
+      "title": "Quiz: My Family",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-mor-unit-01-myself-family-01-my-family-lq01",
+          "type": "mcq",
+          "question": "Who is part of a family?",
+          "options": [
+            "parents and children",
+            "cars",
+            "trees",
+            "phones"
+          ],
+          "answer": "parents and children",
+          "explanation": "Family members."
+        },
+        {
+          "id": "g1-mor-unit-01-myself-family-01-my-family-lq02",
+          "type": "true_false",
+          "question": "Families care for and help each other.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Caring."
+        },
+        {
+          "id": "g1-mor-unit-01-myself-family-01-my-family-lq03",
+          "type": "fill_blank",
+          "question": "People who look after you at home are your ___.",
+          "answer": "family",
+          "explanation": "Family."
+        },
+        {
+          "id": "g1-mor-unit-01-myself-family-01-my-family-lq04",
+          "type": "short_answer",
+          "question": "Name one way your family helps you.",
+          "answer": "e.g., feeds, protects and teaches me.",
+          "explanation": "Family roles."
+        }
+      ]
+    }
+  ]
+}

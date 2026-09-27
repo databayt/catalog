@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq01",
+          "type": "mcq",
+          "question": "The Tudor dynasty began after victory at the Battle of:",
+          "options": [
+            "Bosworth",
+            "Hastings",
+            "Waterloo",
+            "Trafalgar"
+          ],
+          "answer": "Bosworth",
+          "explanation": "1485, Henry VII."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq02",
+          "type": "true_false",
+          "question": "Henry VII strengthened royal finances and reduced noble power.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Consolidation."
+        },
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq01",
+          "type": "mcq",
+          "question": "Detente in the 1970s meant a period of:",
+          "options": [
+            "eased tension",
+            "open war",
+            "no contact",
+            "colonisation"
+          ],
+          "answer": "eased tension",
+          "explanation": "Relaxation of tension."
+        },
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq02",
+          "type": "true_false",
+          "question": "The Cold War ended around 1991 with the collapse of the USSR.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1991."
+        }
+      ]
+    }
+  ]
+}

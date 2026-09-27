@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "chemistry",
+    "chapter": "02-bonding",
+    "lesson": "02-moles"
+  },
+  "exams": [
+    {
+      "id": "g10-che-unit-02-bonding-02-moles-quiz",
+      "title": "Quiz: Moles & Reacting Masses",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-che-unit-02-bonding-02-moles-lq01",
+          "type": "mcq",
+          "question": "One mole of a substance contains about:",
+          "options": [
+            "6.02×10²³ particles",
+            "100 particles",
+            "12 particles",
+            "1 particle"
+          ],
+          "answer": "6.02×10²³ particles",
+          "explanation": "Avogadro's number."
+        },
+        {
+          "id": "g10-che-unit-02-bonding-02-moles-lq02",
+          "type": "true_false",
+          "question": "Mass is conserved in a chemical reaction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation of mass."
+        },
+        {
+          "id": "g10-che-unit-02-bonding-02-moles-lq03",
+          "type": "fill_blank",
+          "question": "Moles = mass ÷ relative formula ___.",
+          "answer": "mass",
+          "explanation": "n = m/Mr."
+        },
+        {
+          "id": "g10-che-unit-02-bonding-02-moles-lq04",
+          "type": "short_answer",
+          "question": "How do you calculate the number of moles?",
+          "answer": "Divide the mass by the relative formula mass (Mr).",
+          "explanation": "Moles."
+        }
+      ]
+    }
+  ]
+}

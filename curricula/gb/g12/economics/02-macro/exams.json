@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "economics",
+    "chapter": "02-macro"
+  },
+  "exams": [
+    {
+      "id": "g12-eco-unit-02-macro-exam",
+      "title": "Exam: Macroeconomics",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq01",
+          "type": "mcq",
+          "question": "GDP measures a country's total:",
+          "options": [
+            "output",
+            "population",
+            "area",
+            "rainfall"
+          ],
+          "answer": "output",
+          "explanation": "GDP."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq02",
+          "type": "true_false",
+          "question": "Inflation is a sustained rise in the general price level.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Inflation."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq03",
+          "type": "fill_blank",
+          "question": "The percentage of the labour force without work is the ___ rate.",
+          "answer": "unemployment",
+          "explanation": "Unemployment."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq04",
+          "type": "short_answer",
+          "question": "Why do economists track GDP?",
+          "answer": "To measure the size and growth of the economy.",
+          "explanation": "GDP."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-02-policy-lq01",
+          "type": "mcq",
+          "question": "Changing taxes and government spending is ___ policy.",
+          "options": [
+            "fiscal",
+            "musical",
+            "foreign",
+            "fashion"
+          ],
+          "answer": "fiscal",
+          "explanation": "Fiscal policy."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-02-policy-lq02",
+          "type": "true_false",
+          "question": "Central banks use interest rates as monetary policy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Monetary policy."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-02-policy-lq03",
+          "type": "fill_blank",
+          "question": "Policy using interest rates and money supply is ___ policy.",
+          "answer": "monetary",
+          "explanation": "Monetary policy."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-02-policy-lq04",
+          "type": "short_answer",
+          "question": "Name one goal of macroeconomic policy.",
+          "answer": "e.g., stable prices, growth, or low unemployment.",
+          "explanation": "Policy goals."
+        }
+      ]
+    }
+  ]
+}

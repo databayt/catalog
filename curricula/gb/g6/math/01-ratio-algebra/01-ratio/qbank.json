@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "01-ratio-algebra",
+    "lesson": "01-ratio"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq01",
+      "type": "mcq",
+      "question": "The ratio 2:4 simplifies to:",
+      "options": [
+        "1:2",
+        "2:1",
+        "1:4",
+        "4:2"
+      ],
+      "answer": "1:2",
+      "explanation": "Divide both by 2."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq02",
+      "type": "true_false",
+      "question": "A ratio compares two quantities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Part-to-part."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq03",
+      "type": "fill_blank",
+      "question": "Share 12 in the ratio 1:2 → 4 and ___.",
+      "answer": "8",
+      "explanation": "3 parts: 4 and 8."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq04",
+      "type": "short_answer",
+      "question": "If 3 pens cost £6, what do 6 pens cost?",
+      "answer": "£12",
+      "explanation": "Double the amount."
+    }
+  ]
+}

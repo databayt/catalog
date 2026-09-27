@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "01-people-and-science",
+    "lesson": "06-wonders-of-engineering"
+  },
+  "exams": [
+    {
+      "id": "g9-eng-unit-01-06-wonders-of-engineering-lquiz",
+      "title": "اختبار درس - Wonders of Engineering",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-eng-unit-01-06-wonders-of-engineering-lq01",
+          "type": "mcq",
+          "question": "Which sentence uses the Present Perfect correctly?",
+          "options": [
+            "I have visited Paris twice.",
+            "I visited Paris twice.",
+            "I will visit Paris twice.",
+            "I was visiting Paris twice."
+          ],
+          "answer": "I have visited Paris twice.",
+          "explanation": "Present Perfect uses have/has + past participle for past experiences."
+        },
+        {
+          "id": "g9-eng-unit-01-06-wonders-of-engineering-lq02",
+          "type": "true_false",
+          "question": "In English, adjectives usually come before the noun they modify.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "In English, adjectives typically precede the noun they describe."
+        },
+        {
+          "id": "g9-eng-unit-01-06-wonders-of-engineering-lq03",
+          "type": "fill_blank",
+          "question": "She ___ (study) English for five years now.",
+          "answer": "has been studying",
+          "explanation": "Present Perfect Continuous shows an action ongoing from past to present."
+        },
+        {
+          "id": "g9-eng-unit-01-06-wonders-of-engineering-lq04",
+          "type": "short_answer",
+          "question": "What is the difference between active and passive voice?",
+          "answer": "Active voice: subject performs action (He wrote the letter). Passive voice: subject receives action (The letter was written).",
+          "explanation": "Voice indicates the relationship between subject and verb action."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-english-01-people-and-science-06-wonders-of-engineering-1",
+      "title": "Wonders of Engineering",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "b1d19c05",
+          "type": "mcq",
+          "question": "What is the main purpose of reading comprehension?",
+          "options": [
+            "To read fast",
+            "To understand and extract meaning",
+            "To memorize text",
+            "To count words"
+          ],
+          "answer": "To understand and extract meaning",
+          "explanation": "Reading comprehension is about understanding the text"
+        },
+        {
+          "id": "de298c7c",
+          "type": "fill_blank",
+          "question": "A paragraph is a group of ___ that discuss one main idea",
+          "answer": "sentences",
+          "explanation": "Paragraphs contain sentences organized around one topic"
+        },
+        {
+          "id": "dd5a2e47",
+          "type": "true_false",
+          "question": "The main idea is the most important point in a paragraph",
+          "answer": true,
+          "explanation": "The main idea is the central theme of a passage"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "01-anna-and-the-fighter",
+    "lesson": "03-chapter-3"
+  },
+  "exams": [
+    {
+      "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lquiz",
+      "title": "اختبار - Chapter 3: The Journey Begins",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lq01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lq02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lq03",
+          "type": "fill_blank",
+          "question": "The opposite of 'ancient' is ___.",
+          "answer": "modern/new",
+          "explanation": "Ancient and modern are antonyms."
+        },
+        {
+          "id": "g6-eng-unit-1-anna-and-the-fighter-03-chapter-3-lq04",
+          "type": "short_answer",
+          "question": "Write a sentence using the word 'communicate'.",
+          "answer": "We use technology to communicate with people around the world.",
+          "explanation": "'Communicate' means to share information or ideas."
+        }
+      ]
+    }
+  ]
+}

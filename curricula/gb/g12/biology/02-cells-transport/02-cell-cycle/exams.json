@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "biology",
+    "chapter": "02-cells-transport",
+    "lesson": "02-cell-cycle"
+  },
+  "exams": [
+    {
+      "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-quiz",
+      "title": "Quiz: The Cell Cycle & Mitosis",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-lq01",
+          "type": "mcq",
+          "question": "DNA is replicated during which phase?",
+          "options": [
+            "mitosis",
+            "interphase",
+            "telophase",
+            "cytokinesis"
+          ],
+          "answer": "interphase",
+          "explanation": "S phase."
+        },
+        {
+          "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-lq02",
+          "type": "true_false",
+          "question": "Mitosis produces genetically identical daughter cells.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Clones."
+        },
+        {
+          "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-lq03",
+          "type": "fill_blank",
+          "question": "Division of the cytoplasm is called ___.",
+          "answer": "cytokinesis",
+          "explanation": "Final stage."
+        },
+        {
+          "id": "g12-bio-unit-02-cells-transport-02-cell-cycle-lq04",
+          "type": "short_answer",
+          "question": "Why is control of the cell cycle important?",
+          "answer": "Loss of control can lead to uncontrolled division (cancer).",
+          "explanation": "Cell cycle control."
+        }
+      ]
+    }
+  ]
+}

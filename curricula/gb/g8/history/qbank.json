@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "history"
+  },
+  "questions": [
+    {
+      "id": "g8-his-unit-01-tudors-01-henry-viii-lq01",
+      "type": "mcq",
+      "question": "Henry VIII broke with the Pope to do what?",
+      "options": [
+        "start a war",
+        "get a divorce/control the Church",
+        "build castles",
+        "explore America"
+      ],
+      "answer": "get a divorce/control the Church",
+      "explanation": "English Reformation."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-01-henry-viii-lq02",
+      "type": "true_false",
+      "question": "Henry VIII made himself head of the Church of England.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Act of Supremacy."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-01-henry-viii-lq03",
+      "type": "fill_blank",
+      "question": "Henry VIII closed the monasteries in the Dissolution of the ___.",
+      "answer": "Monasteries",
+      "explanation": "1530s."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-01-henry-viii-lq04",
+      "type": "short_answer",
+      "question": "Why did Henry VIII break with Rome?",
+      "answer": "To annul his marriage and gain control (and wealth) over the Church.",
+      "explanation": "Reformation cause."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-02-elizabeth-lq01",
+      "type": "mcq",
+      "question": "Elizabeth I defeated the Spanish:",
+      "options": [
+        "Armada",
+        "Legion",
+        "Crusade",
+        "Empire"
+      ],
+      "answer": "Armada",
+      "explanation": "1588 Armada."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-02-elizabeth-lq02",
+      "type": "true_false",
+      "question": "The Elizabethan era is seen as a golden age of theatre.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Shakespeare's time."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-02-elizabeth-lq03",
+      "type": "fill_blank",
+      "question": "A famous Elizabethan playwright was William ___.",
+      "answer": "Shakespeare",
+      "explanation": "Theatre."
+    },
+    {
+      "id": "g8-his-unit-01-tudors-02-elizabeth-lq04",
+      "type": "short_answer",
+      "question": "Why is Elizabeth I's reign called a 'golden age'?",
+      "answer": "Achievements in exploration, theatre and defeating the Armada.",
+      "explanation": "Golden age."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq01",
+      "type": "mcq",
+      "question": "The English Civil War was fought between the King and:",
+      "options": [
+        "Parliament",
+        "France",
+        "Scotland only",
+        "the Church"
+      ],
+      "answer": "Parliament",
+      "explanation": "King vs Parliament."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq02",
+      "type": "true_false",
+      "question": "King Charles I was executed in 1649.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Regicide."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq03",
+      "type": "fill_blank",
+      "question": "Parliament's leader who later ruled was Oliver ___.",
+      "answer": "Cromwell",
+      "explanation": "Lord Protector."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq04",
+      "type": "short_answer",
+      "question": "What was the main cause of the Civil War?",
+      "answer": "A struggle for power between the King and Parliament.",
+      "explanation": "Civil War cause."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq01",
+      "type": "mcq",
+      "question": "The transatlantic slave trade forcibly transported people from:",
+      "options": [
+        "Africa",
+        "Antarctica",
+        "Australia",
+        "the Arctic"
+      ],
+      "answer": "Africa",
+      "explanation": "Atlantic slave trade."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq02",
+      "type": "true_false",
+      "question": "The slave trade was eventually abolished in the British Empire.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1807/1833."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq03",
+      "type": "fill_blank",
+      "question": "Enslaved people were transported across the ___ Ocean.",
+      "answer": "Atlantic",
+      "explanation": "Middle Passage."
+    },
+    {
+      "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq04",
+      "type": "short_answer",
+      "question": "Why is studying the slave trade important?",
+      "answer": "To understand a grave injustice and its lasting impact.",
+      "explanation": "Significance."
+    }
+  ]
+}

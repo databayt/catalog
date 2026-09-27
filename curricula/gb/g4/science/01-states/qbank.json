@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "01-states"
+  },
+  "questions": [
+    {
+      "id": "g4-sci-unit-01-states-01-states-lq01",
+      "type": "mcq",
+      "question": "Which has a fixed shape and volume?",
+      "options": [
+        "gas",
+        "liquid",
+        "solid",
+        "plasma"
+      ],
+      "answer": "solid",
+      "explanation": "Solids hold shape."
+    },
+    {
+      "id": "g4-sci-unit-01-states-01-states-lq02",
+      "type": "true_false",
+      "question": "Gases spread to fill their container.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "No fixed shape/volume."
+    },
+    {
+      "id": "g4-sci-unit-01-states-01-states-lq03",
+      "type": "fill_blank",
+      "question": "Water vapour is the ___ state of water.",
+      "answer": "gas",
+      "explanation": "Gaseous water."
+    },
+    {
+      "id": "g4-sci-unit-01-states-01-states-lq04",
+      "type": "short_answer",
+      "question": "What happens to particles when a solid melts?",
+      "answer": "They gain energy and move more freely.",
+      "explanation": "Melting."
+    },
+    {
+      "id": "g4-sci-unit-01-states-02-water-cycle-lq01",
+      "type": "mcq",
+      "question": "Water turning to vapour is:",
+      "options": [
+        "condensation",
+        "evaporation",
+        "freezing",
+        "melting"
+      ],
+      "answer": "evaporation",
+      "explanation": "Liquid to gas."
+    },
+    {
+      "id": "g4-sci-unit-01-states-02-water-cycle-lq02",
+      "type": "true_false",
+      "question": "Condensation forms clouds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Vapour to droplets."
+    },
+    {
+      "id": "g4-sci-unit-01-states-02-water-cycle-lq03",
+      "type": "fill_blank",
+      "question": "Rain and snow are ___.",
+      "answer": "precipitation",
+      "explanation": "Falling water."
+    },
+    {
+      "id": "g4-sci-unit-01-states-02-water-cycle-lq04",
+      "type": "short_answer",
+      "question": "Describe one stage of the water cycle.",
+      "answer": "e.g., evaporation: the Sun heats water into vapour.",
+      "explanation": "Cycle stage."
+    }
+  ]
+}

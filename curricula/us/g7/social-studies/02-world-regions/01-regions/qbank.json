@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "social-studies",
+    "chapter": "02-world-regions",
+    "lesson": "01-regions"
+  },
+  "questions": [
+    {
+      "id": "g7-soc-unit-02-world-regions-01-regions-lq01",
+      "type": "mcq",
+      "question": "Studying a region examines its geography, history and:",
+      "options": [
+        "culture",
+        "fonts",
+        "prices only",
+        "weather only"
+      ],
+      "answer": "culture",
+      "explanation": "Regional study."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-01-regions-lq02",
+      "type": "true_false",
+      "question": "Trade connected distant regions in the past.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Trade networks."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-01-regions-lq03",
+      "type": "fill_blank",
+      "question": "The trade route linking Asia and Europe was the Silk ___.",
+      "answer": "Road",
+      "explanation": "Silk Road."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-01-regions-lq04",
+      "type": "short_answer",
+      "question": "Why study different world regions?",
+      "answer": "To understand diverse cultures and global connections.",
+      "explanation": "Regional study."
+    }
+  ]
+}

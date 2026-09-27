@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "math",
+    "chapter": "02-mechanics-stats",
+    "lesson": "02-distributions"
+  },
+  "exams": [
+    {
+      "id": "g12-mat-unit-02-mechanics-stats-02-distributions-quiz",
+      "title": "Quiz: Probability Distributions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-02-distributions-lq01",
+          "type": "mcq",
+          "question": "The normal distribution is shaped like a:",
+          "options": [
+            "square",
+            "bell curve",
+            "line",
+            "spiral"
+          ],
+          "answer": "bell curve",
+          "explanation": "Gaussian."
+        },
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-02-distributions-lq02",
+          "type": "true_false",
+          "question": "In a binomial distribution there are fixed trials with two outcomes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Binomial conditions."
+        },
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-02-distributions-lq03",
+          "type": "fill_blank",
+          "question": "The mean of a data set is a measure of central ___.",
+          "answer": "tendency",
+          "explanation": "Central tendency."
+        },
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-02-distributions-lq04",
+          "type": "short_answer",
+          "question": "When is a binomial model appropriate?",
+          "answer": "Fixed number of independent trials, each success/failure with constant p.",
+          "explanation": "Binomial."
+        }
+      ]
+    }
+  ]
+}

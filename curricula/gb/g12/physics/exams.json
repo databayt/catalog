@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "physics"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-physics-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-phy-unit-01-mechanics-01-kinematics-lq01",
+          "type": "mcq",
+          "question": "The area under a velocity-time graph gives:",
+          "options": [
+            "acceleration",
+            "displacement",
+            "force",
+            "mass"
+          ],
+          "answer": "displacement",
+          "explanation": "Area = displacement."
+        },
+        {
+          "id": "g12-phy-unit-01-mechanics-01-kinematics-lq02",
+          "type": "true_false",
+          "question": "Newton's second law can be written F = rate of change of momentum.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "F = dp/dt."
+        },
+        {
+          "id": "g12-phy-unit-02-fields-01-gravitational-lq01",
+          "type": "mcq",
+          "question": "Gravitational field strength near Earth is about:",
+          "options": [
+            "1 N/kg",
+            "9.8 N/kg",
+            "100 N/kg",
+            "0 N/kg"
+          ],
+          "answer": "9.8 N/kg",
+          "explanation": "g ≈ 9.8."
+        },
+        {
+          "id": "g12-phy-unit-02-fields-01-gravitational-lq02",
+          "type": "true_false",
+          "question": "Gravitational force follows an inverse-square law.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1/r²."
+        }
+      ]
+    }
+  ]
+}

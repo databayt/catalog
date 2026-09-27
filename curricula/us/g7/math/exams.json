@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g7-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-mat-unit-01-rational-numbers-01-integers-lq01",
+          "type": "mcq",
+          "question": "-5 + 8 = ?",
+          "options": [
+            "3",
+            "-3",
+            "13",
+            "-13"
+          ],
+          "answer": "3",
+          "explanation": "8 - 5 = 3."
+        },
+        {
+          "id": "g7-mat-unit-01-rational-numbers-01-integers-lq02",
+          "type": "true_false",
+          "question": "Subtracting a negative is the same as adding.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "-(-3) = +3."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq01",
+          "type": "mcq",
+          "question": "Solve 3/4 = x/12:",
+          "options": [
+            "6",
+            "9",
+            "8",
+            "16"
+          ],
+          "answer": "9",
+          "explanation": "Cross-multiply: 3×12÷4=9."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq02",
+          "type": "true_false",
+          "question": "In a proportion, cross-products are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "a/b = c/d → ad = bc."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "01-surahs-of-the-holy-quran",
+    "lesson": "07-surah-al-qalam"
+  },
+  "exams": [
+    {
+      "id": "g5-isl-unit-01-07-surah-al-qalam-lquiz",
+      "title": "اختبار - سورة القلم",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-isl-unit-01-07-surah-al-qalam-lq01",
+          "type": "mcq",
+          "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+          "options": [
+            "السورة الأولى",
+            "الثانية",
+            "الثالثة",
+            "العاشرة"
+          ],
+          "answer": "السورة الأولى",
+          "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+        },
+        {
+          "id": "g5-isl-unit-01-07-surah-al-qalam-lq02",
+          "type": "true_false",
+          "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+        },
+        {
+          "id": "g5-isl-unit-01-07-surah-al-qalam-lq03",
+          "type": "fill_blank",
+          "question": "أول كلمة نزلت من القرآن هي كلمة '___'.",
+          "answer": "اقرأ",
+          "explanation": "نزل قوله 'اقرأ باسم ربك الذي خلق' أول ما نزل."
+        },
+        {
+          "id": "g5-isl-unit-01-07-surah-al-qalam-lq04",
+          "type": "short_answer",
+          "question": "ما فضل حفظ القرآن الكريم؟",
+          "answer": "أجر عظيم، ورفعة في الدنيا والآخرة، وحماية من المعاصي، وشفاعة لأهله.",
+          "explanation": "للقرآن الكريم فضائل عظيمة لحافظه وتاليه."
+        }
+      ]
+    }
+  ]
+}

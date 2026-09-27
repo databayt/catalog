@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g11-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq01",
+          "type": "mcq",
+          "question": "الحديث الصحيح هو ما اتصل سنده بنقل:",
+          "options": [
+            "العدل الضابط",
+            "أي شخص",
+            "الشعراء",
+            "التجار"
+          ],
+          "answer": "العدل الضابط",
+          "explanation": "شروط الصحيح."
+        },
+        {
+          "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq02",
+          "type": "true_false",
+          "question": "علم مصطلح الحديث يبحث في صحة الأحاديث.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "مصطلح الحديث."
+        },
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq01",
+          "type": "mcq",
+          "question": "العدل يعني:",
+          "options": [
+            "إعطاء كل ذي حق حقه",
+            "الظلم",
+            "المحاباة",
+            "الإهمال"
+          ],
+          "answer": "إعطاء كل ذي حق حقه",
+          "explanation": "العدل."
+        },
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq02",
+          "type": "true_false",
+          "question": "أمر الله بالعدل والإحسان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الآية."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-mat-unit-01-number-01-rounding-lq01",
+          "type": "mcq",
+          "question": "367 rounded to the nearest 100 is:",
+          "options": [
+            "300",
+            "370",
+            "400",
+            "360"
+          ],
+          "answer": "400",
+          "explanation": "67 rounds up."
+        },
+        {
+          "id": "g4-mat-unit-01-number-01-rounding-lq02",
+          "type": "true_false",
+          "question": "45 rounds to 50 (nearest 10).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "5 rounds up."
+        },
+        {
+          "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq01",
+          "type": "mcq",
+          "question": "0.3 = ?",
+          "options": [
+            "3/10",
+            "3/100",
+            "3",
+            "30"
+          ],
+          "answer": "3/10",
+          "explanation": "Tenths."
+        },
+        {
+          "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq02",
+          "type": "true_false",
+          "question": "0.25 = 25/100.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Hundredths."
+        }
+      ]
+    }
+  ]
+}

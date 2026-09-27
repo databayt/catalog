@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "01-biology",
+    "lesson": "01-cells"
+  },
+  "questions": [
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq01",
+      "type": "mcq",
+      "question": "Which part controls a cell's activities?",
+      "options": [
+        "cell wall",
+        "nucleus",
+        "membrane",
+        "vacuole"
+      ],
+      "answer": "nucleus",
+      "explanation": "Control centre."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq02",
+      "type": "true_false",
+      "question": "Plant cells have a cell wall.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Made of cellulose."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq03",
+      "type": "fill_blank",
+      "question": "The jelly-like substance filling a cell is the ___.",
+      "answer": "cytoplasm",
+      "explanation": "Cell contents."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq04",
+      "type": "short_answer",
+      "question": "Name one structure found only in plant cells.",
+      "answer": "e.g., cell wall, chloroplast, or large vacuole.",
+      "explanation": "Plant cell features."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-computer-science",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "computer-science",
+  "title": {
+    "ar": "علوم الحاسوب",
+    "en": "Computer Science"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "computer",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "مقدمة في نظم معالجة البيانات والبرمجة — الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م (ردمك 978-99942-53-26-5)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1-data-processing-systems",
+      "title": {
+        "ar": "الوحدة الأولى: نظم معالجة البيانات",
+        "en": "Unit 1: Data Processing Systems"
+      },
+      "concept": "computer",
+      "image": "clickview/high-data-and-information-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-and-types-of-data-processing",
+          "title": {
+            "ar": "مقدمة وأنواع معالجة البيانات",
+            "en": "Introduction and Types of Data Processing"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-mechanisms-methods-and-software-of-data",
+          "title": {
+            "ar": "آلية معالجة البيانات وطرقها وبرمجياتها",
+            "en": "Mechanisms, Methods and Software of Data Processing"
+          },
+          "page": 3
+        },
+        {
+          "slug": "03-file-types-master-input-historical-and-auxiliary",
+          "title": {
+            "ar": "أنواع الملفات: الرئيسة والإدخال والتاريخية والمساعدة",
+            "en": "File Types: Master, Input, Historical and Auxiliary"
+          },
+          "page": 4
+        },
+        {
+          "slug": "04-file-security-in-automated-information-systems",
+          "title": {
+            "ar": "أمن الملفات في النظم الآلية للمعلومات",
+            "en": "File Security in Automated Information Systems"
+          },
+          "page": 6,
+          "image": "clickview/high-encryption-cover.jpg"
+        },
+        {
+          "slug": "05-input-and-output-in-data-processing-systems",
+          "title": {
+            "ar": "الإدخال والإخراج في نظم معالجة البيانات",
+            "en": "Input and Output in Data Processing Systems"
+          },
+          "page": 7
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2-analysis-and-design-of-computerised-data",
+      "title": {
+        "ar": "الوحدة الثانية: تحليل وتصميم النظم المحوسبة لمعالجة البيانات",
+        "en": "Unit 2: Analysis and Design of Computerised Data Processing Systems"
+      },
+      "concept": "computer",
+      "image": "clickview/high-user-experience-cover.jpg",
+      "page": 11,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-the-systems-life-cycle",
+          "title": {
+            "ar": "مقدمة في دورة حياة النظم",
+            "en": "Introduction: The Systems Life Cycle"
+          },
+          "page": 11
+        },
+        {
+          "slug": "02-systems-analysis",
+          "title": {
+            "ar": "تحليل النظم",
+            "en": "Systems Analysis"
+          },
+          "page": 12
+        },
+        {
+          "slug": "03-systems-design",
+          "title": {
+            "ar": "تصميم النظم",
+            "en": "Systems Design"
+          },
+          "page": 12
+        },
+        {
+          "slug": "04-a-live-example-a-spare-parts-factory",
+          "title": {
+            "ar": "مثال لنظام حي (مصنع قطع غيار)",
+            "en": "A Live Example: A Spare-Parts Factory"
+          },
+          "page": 13,
+          "image": "clickview/high-understanding-business-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3-programming-principles",
+      "title": {
+        "ar": "الوحدة الثالثة: قواعد البرمجة",
+        "en": "Unit 3: Programming Principles"
+      },
+      "concept": "computer",
+      "image": "clickview/high-programming-language-cover.jpg",
+      "page": 26,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-programming-languages-and-coding",
+          "title": {
+            "ar": "لغات البرمجة والتشفير",
+            "en": "Programming Languages and Coding"
+          },
+          "page": 27
+        },
+        {
+          "slug": "02-programming-constructs-sequence-selection",
+          "title": {
+            "ar": "قواعد البرمجة: التتابع والاختيار والتكرار والتفرع",
+            "en": "Programming Constructs: Sequence, Selection, Iteration and Branching"
+          },
+          "page": 31
+        },
+        {
+          "slug": "03-steps-in-building-a-program",
+          "title": {
+            "ar": "خطوات بناء البرنامج",
+            "en": "Steps in Building a Program"
+          },
+          "page": 32
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4-programming-in-basic",
+      "title": {
+        "ar": "الوحدة الرابعة: البرمجة بلغة بيسك",
+        "en": "Unit 4: Programming in BASIC"
+      },
+      "concept": "computer",
+      "image": "clickview/high-programming-language-cover.jpg",
+      "page": 36,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-basic-interpreter-and-compiler",
+          "title": {
+            "ar": "مفسر ومترجم بيسك",
+            "en": "The BASIC Interpreter and Compiler"
+          },
+          "page": 36
+        },
+        {
+          "slug": "02-standard-words-in-basic",
+          "title": {
+            "ar": "الكلمات القياسية في لغة بيسك",
+            "en": "Standard Words in BASIC"
+          },
+          "page": 38
+        },
+        {
+          "slug": "03-constants-variables-and-arrays",
+          "title": {
+            "ar": "الثوابت والمتغيرات والمصفوفات",
+            "en": "Constants, Variables and Arrays"
+          },
+          "page": 39
+        },
+        {
+          "slug": "04-direct-and-programmed-data-input",
+          "title": {
+            "ar": "إدخال البيانات المباشر وعن طريق البرنامج",
+            "en": "Direct and Programmed Data Input"
+          },
+          "page": 41
+        },
+        {
+          "slug": "05-arithmetic-precedence",
+          "title": {
+            "ar": "أولويات المعالجة الحسابية",
+            "en": "Arithmetic Precedence"
+          },
+          "page": 44
+        },
+        {
+          "slug": "06-comparison-control-statements-and-flowcharts",
+          "title": {
+            "ar": "جمل المقارنة والتحكم وخرائط التدفق",
+            "en": "Comparison, Control Statements and Flowcharts"
+          },
+          "page": 49,
+          "image": "clickview/high-discrete-math-cover.jpg"
+        },
+        {
+          "slug": "07-branching-with-a-counter",
+          "title": {
+            "ar": "التفريع بطريقة العداد",
+            "en": "Branching with a Counter"
+          },
+          "page": 58
+        },
+        {
+          "slug": "08-built-in-and-user-defined-functions-in-basic",
+          "title": {
+            "ar": "الدوال المحجوزة والدوال المبرمجة في لغة بيسك",
+            "en": "Built-in and User-Defined Functions in BASIC"
+          },
+          "page": 62
+        }
+      ]
+    }
+  ]
+}

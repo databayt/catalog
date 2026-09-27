@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "art",
+    "chapter": "02-context",
+    "lesson": "02-evaluation"
+  },
+  "questions": [
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq01",
+      "type": "mcq",
+      "question": "Evaluating your work means judging its:",
+      "options": [
+        "strengths and improvements",
+        "price",
+        "frame",
+        "date only"
+      ],
+      "answer": "strengths and improvements",
+      "explanation": "Reflection."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq02",
+      "type": "true_false",
+      "question": "Annotating means writing notes to explain your work.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Annotation."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq03",
+      "type": "fill_blank",
+      "question": "Reviewing and improving your work is ___.",
+      "answer": "evaluation",
+      "explanation": "Evaluating."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq04",
+      "type": "short_answer",
+      "question": "Why evaluate your own artwork?",
+      "answer": "To recognise what works and how to improve.",
+      "explanation": "Evaluation."
+    }
+  ]
+}

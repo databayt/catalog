@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "geography",
+    "chapter": "02-development",
+    "lesson": "01-development"
+  },
+  "exams": [
+    {
+      "id": "g8-geo-unit-02-development-01-development-quiz",
+      "title": "Quiz: Measuring Development",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq01",
+          "type": "mcq",
+          "question": "A common measure of a country's wealth is:",
+          "options": [
+            "GDP",
+            "temperature",
+            "area only",
+            "population only"
+          ],
+          "answer": "GDP",
+          "explanation": "Economic indicator."
+        },
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq02",
+          "type": "true_false",
+          "question": "HDI combines income, education and life expectancy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Human Development Index."
+        },
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq03",
+          "type": "fill_blank",
+          "question": "Richer, more developed countries are called ___ countries.",
+          "answer": "developed",
+          "explanation": "HICs/MEDCs."
+        },
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq04",
+          "type": "short_answer",
+          "question": "Why use HDI rather than money alone?",
+          "answer": "It also reflects health and education, giving a fuller picture.",
+          "explanation": "Development measures."
+        }
+      ]
+    }
+  ]
+}

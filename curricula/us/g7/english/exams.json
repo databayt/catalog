@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g7-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq01",
+          "type": "mcq",
+          "question": "An inference combines text clues with:",
+          "options": [
+            "random guesses",
+            "prior knowledge",
+            "the title only",
+            "page count"
+          ],
+          "answer": "prior knowledge",
+          "explanation": "Clues + knowledge."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq02",
+          "type": "true_false",
+          "question": "Authors can imply ideas without stating them.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Implicit meaning."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-01-informative-lq01",
+          "type": "mcq",
+          "question": "An informative essay aims to:",
+          "options": [
+            "argue an opinion",
+            "explain a topic",
+            "tell a story",
+            "rhyme"
+          ],
+          "answer": "explain a topic",
+          "explanation": "Inform/explain."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-01-informative-lq02",
+          "type": "true_false",
+          "question": "Transitions help connect ideas.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cohesion."
+        }
+      ]
+    }
+  ]
+}

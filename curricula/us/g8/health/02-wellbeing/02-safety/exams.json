@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "health",
+    "chapter": "02-wellbeing",
+    "lesson": "02-safety"
+  },
+  "exams": [
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-quiz",
+      "title": "Quiz: Safety & Decisions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-hea-unit-02-wellbeing-02-safety-lq01",
+          "type": "mcq",
+          "question": "Making healthy choices means thinking about the:",
+          "options": [
+            "consequences",
+            "fonts",
+            "prices only",
+            "weather"
+          ],
+          "answer": "consequences",
+          "explanation": "Decisions."
+        },
+        {
+          "id": "g8-hea-unit-02-wellbeing-02-safety-lq02",
+          "type": "true_false",
+          "question": "Avoiding harmful substances protects your health.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Substance awareness."
+        },
+        {
+          "id": "g8-hea-unit-02-wellbeing-02-safety-lq03",
+          "type": "fill_blank",
+          "question": "Thinking ahead about risks is making a safe ___.",
+          "answer": "decision",
+          "explanation": "Decision-making."
+        },
+        {
+          "id": "g8-hea-unit-02-wellbeing-02-safety-lq04",
+          "type": "short_answer",
+          "question": "Why think before making a health decision?",
+          "answer": "To choose options that keep you safe and healthy.",
+          "explanation": "Decision-making."
+        }
+      ]
+    }
+  ]
+}

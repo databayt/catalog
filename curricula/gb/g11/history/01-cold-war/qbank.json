@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history",
+    "chapter": "01-cold-war"
+  },
+  "questions": [
+    {
+      "id": "g11-his-unit-01-cold-war-01-origins-lq01",
+      "type": "mcq",
+      "question": "The Cold War was a rivalry between the USA and the:",
+      "options": [
+        "USSR",
+        "UK",
+        "France",
+        "Japan"
+      ],
+      "answer": "USSR",
+      "explanation": "Superpower rivalry."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-01-origins-lq02",
+      "type": "true_false",
+      "question": "The Cold War involved tension but rarely direct fighting between the superpowers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cold, not hot."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-01-origins-lq03",
+      "type": "fill_blank",
+      "question": "Europe was divided by what Churchill called the Iron ___.",
+      "answer": "Curtain",
+      "explanation": "East-West divide."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-01-origins-lq04",
+      "type": "short_answer",
+      "question": "Name one cause of Cold War tension.",
+      "answer": "e.g., ideological differences (capitalism vs communism).",
+      "explanation": "Cold War causes."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq01",
+      "type": "mcq",
+      "question": "In 1962 the world neared nuclear war over missiles in:",
+      "options": [
+        "Cuba",
+        "Canada",
+        "India",
+        "Egypt"
+      ],
+      "answer": "Cuba",
+      "explanation": "Cuban Missile Crisis."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq02",
+      "type": "true_false",
+      "question": "The Berlin Wall divided the city from 1961.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Berlin Wall."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq03",
+      "type": "fill_blank",
+      "question": "The Cold War standoff over Cuba in 1962 is the Cuban Missile ___.",
+      "answer": "Crisis",
+      "explanation": "13 days."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq04",
+      "type": "short_answer",
+      "question": "Why was the Cuban Missile Crisis significant?",
+      "answer": "It brought the superpowers closest to nuclear war.",
+      "explanation": "Significance."
+    }
+  ]
+}

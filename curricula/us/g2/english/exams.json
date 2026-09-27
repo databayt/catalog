@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g2-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-eng-unit-01-phonics-01-long-vowels-lq01",
+          "type": "mcq",
+          "question": "Which word has a long 'a' (silent e)?",
+          "options": [
+            "cap",
+            "cape",
+            "cat",
+            "can"
+          ],
+          "answer": "cape",
+          "explanation": "Silent e makes a long."
+        },
+        {
+          "id": "g2-eng-unit-01-phonics-01-long-vowels-lq02",
+          "type": "true_false",
+          "question": "'rain' has a long a sound.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "ai = long a."
+        },
+        {
+          "id": "g2-eng-unit-02-reading-01-asking-questions-lq01",
+          "type": "mcq",
+          "question": "A 'where' question asks about:",
+          "options": [
+            "time",
+            "place",
+            "reason",
+            "person"
+          ],
+          "answer": "place",
+          "explanation": "Where = location."
+        },
+        {
+          "id": "g2-eng-unit-02-reading-01-asking-questions-lq02",
+          "type": "true_false",
+          "question": "'Why' questions ask for a reason.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cause/reason."
+        },
+        {
+          "id": "g2-eng-unit-03-writing-01-paragraphs-lq01",
+          "type": "mcq",
+          "question": "A paragraph starts with a:",
+          "options": [
+            "topic sentence",
+            "question mark",
+            "capital Z",
+            "picture"
+          ],
+          "answer": "topic sentence",
+          "explanation": "States the main idea."
+        },
+        {
+          "id": "g2-eng-unit-03-writing-01-paragraphs-lq02",
+          "type": "true_false",
+          "question": "A paragraph is a group of related sentences.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "About one idea."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g4-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq01",
+          "type": "mcq",
+          "question": "The US is often divided into regions like the Northeast and the:",
+          "options": [
+            "Southwest",
+            "Sahara",
+            "Amazon",
+            "Alps"
+          ],
+          "answer": "Southwest",
+          "explanation": "US regions."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq02",
+          "type": "true_false",
+          "question": "Different US regions have different climates and resources.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Regional diversity."
+        },
+        {
+          "id": "g4-soc-unit-02-native-peoples-01-native-peoples-lq01",
+          "type": "mcq",
+          "question": "Native Americans lived in North America:",
+          "options": [
+            "only recently",
+            "long before Europeans arrived",
+            "never",
+            "only in cities"
+          ],
+          "answer": "long before Europeans arrived",
+          "explanation": "First peoples."
+        },
+        {
+          "id": "g4-soc-unit-02-native-peoples-01-native-peoples-lq02",
+          "type": "true_false",
+          "question": "Different Native nations had different languages and ways of life.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cultural diversity."
+        }
+      ]
+    }
+  ]
+}

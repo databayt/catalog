@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g6-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq01",
+          "type": "mcq",
+          "question": "A theme is best described as:",
+          "options": [
+            "the setting",
+            "a central message",
+            "the narrator",
+            "the title"
+          ],
+          "answer": "a central message",
+          "explanation": "Theme = underlying message."
+        },
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq02",
+          "type": "true_false",
+          "question": "Theme is usually stated directly in the first line.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Theme is inferred."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq01",
+          "type": "mcq",
+          "question": "A claim in an argument is:",
+          "options": [
+            "a fun fact",
+            "the position you take",
+            "a question",
+            "the title"
+          ],
+          "answer": "the position you take",
+          "explanation": "Claim = stance."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq02",
+          "type": "true_false",
+          "question": "Evidence supports a claim.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Backs it up."
+        }
+      ]
+    }
+  ]
+}

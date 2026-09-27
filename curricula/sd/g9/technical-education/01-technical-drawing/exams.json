@@ -1,0 +1,56 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "technical-education",
+    "chapter": "01-technical-drawing"
+  },
+  "exams": [
+    {
+      "id": "g9-tec-unit-1-technical-drawing-quiz",
+      "title": "اختبار - الرسم الفني",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-tec-unit-1-technical-drawing-q01",
+          "type": "mcq",
+          "question": "ما أهمية التعليم التقني في تنمية المجتمع؟",
+          "options": [
+            "إعداد كوادر بشرية ماهرة للصناعة",
+            "الترفيه فقط",
+            "تعلم القراءة والكتابة",
+            "دراسة التاريخ"
+          ],
+          "answer": "إعداد كوادر بشرية ماهرة للصناعة",
+          "explanation": "التعليم التقني يُعدّ الكوادر البشرية الماهرة لسوق العمل."
+        },
+        {
+          "id": "g9-tec-unit-1-technical-drawing-q02",
+          "type": "true_false",
+          "question": "السلامة المهنية جزء أساسي من التعليم التقني.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السلامة المهنية تحمي العمال من حوادث العمل وإصاباته."
+        },
+        {
+          "id": "g9-tec-unit-1-technical-drawing-q03",
+          "type": "fill_blank",
+          "question": "الأداة المستخدمة لقياس الأطوال في الورشة تسمى ___ القياس.",
+          "answer": "شريط / مسطرة",
+          "explanation": "شريط القياس أو المسطرة تُستخدم لقياس الأبعاد."
+        },
+        {
+          "id": "g9-tec-unit-1-technical-drawing-q04",
+          "type": "short_answer",
+          "question": "ما المهارات التي يكتسبها الطالب من الوحدة 1 في التعليم التقني؟",
+          "answer": "المهارات العملية والنظرية المرتبطة بتقنيات الإنتاج والسلامة المهنية.",
+          "explanation": "التعليم التقني يجمع بين النظرية والتطبيق العملي."
+        }
+      ]
+    }
+  ]
+}

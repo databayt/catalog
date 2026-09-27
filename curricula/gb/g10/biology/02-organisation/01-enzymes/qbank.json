@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "biology",
+    "chapter": "02-organisation",
+    "lesson": "01-enzymes"
+  },
+  "questions": [
+    {
+      "id": "g10-bio-unit-02-organisation-01-enzymes-lq01",
+      "type": "mcq",
+      "question": "Enzymes are biological:",
+      "options": [
+        "fuels",
+        "catalysts",
+        "cells",
+        "gases"
+      ],
+      "answer": "catalysts",
+      "explanation": "Speed reactions."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-01-enzymes-lq02",
+      "type": "true_false",
+      "question": "Enzymes work best at an optimum temperature and pH.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Conditions."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-01-enzymes-lq03",
+      "type": "fill_blank",
+      "question": "An enzyme that breaks down starch is ___.",
+      "answer": "amylase",
+      "explanation": "Carbohydrase."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-01-enzymes-lq04",
+      "type": "short_answer",
+      "question": "What happens to an enzyme if it is denatured?",
+      "answer": "Its active site changes shape and it stops working.",
+      "explanation": "Denaturation."
+    }
+  ]
+}

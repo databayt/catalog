@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "01-tajweed",
+    "lesson": "02-madd-sukoon"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-unit-01-02-madd-sukoon-lquiz",
+      "title": "اختبار درس - المد بسبب السكون",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-lq01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-lq02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-lq03",
+          "type": "fill_blank",
+          "question": "أول ما نزل من القرآن الكريم سورة ___.",
+          "answer": "العلق (اقرأ)",
+          "explanation": "أول ما نزل قوله تعالى 'اقرأ باسم ربك الذي خلق'."
+        },
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-lq04",
+          "type": "short_answer",
+          "question": "ما أهمية تلاوة القرآن الكريم؟",
+          "answer": "تزكية النفس وهداية القلب والحصول على الأجر والثواب.",
+          "explanation": "للقرآن فضائل عظيمة في الدنيا والآخرة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-islamic-studies-01-tajweed-02-madd-sukoon-1",
+      "title": "المد بسبب السكون",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "150eb4cb",
+          "type": "mcq",
+          "question": "كم عدد أركان الإسلام؟",
+          "options": [
+            "ثلاثة",
+            "أربعة",
+            "خمسة",
+            "ستة"
+          ],
+          "answer": "خمسة",
+          "explanation": "الأركان: الشهادة، الصلاة، الزكاة، الصوم، الحج"
+        },
+        {
+          "id": "83e9251e",
+          "type": "fill_blank",
+          "question": "أول ركن من أركان الإسلام هو ___",
+          "answer": "الشهادة",
+          "explanation": "الشهادة بأن لا إله إلا الله وأن محمد رسول الله"
+        },
+        {
+          "id": "7bb510b7",
+          "type": "true_false",
+          "question": "الصلاة عمود الدين",
+          "answer": true,
+          "explanation": "الصلاة من أهم أركان الإسلام"
+        }
+      ]
+    }
+  ]
+}

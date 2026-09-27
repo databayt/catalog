@@ -1,0 +1,24 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "04-fractions",
+    "lesson": "01-unit-fractions"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u04-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥٦ ÷ ٧ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الكسور."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "01-phonics",
+    "lesson": "02-tricky-words"
+  },
+  "questions": [
+    {
+      "id": "g1-eng-unit-01-phonics-02-tricky-words-lq01",
+      "type": "mcq",
+      "question": "Which is a common 'tricky' word?",
+      "options": [
+        "the",
+        "cat",
+        "run",
+        "big"
+      ],
+      "answer": "the",
+      "explanation": "Not fully decodable."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-tricky-words-lq02",
+      "type": "true_false",
+      "question": "'said' is read by sight as a tricky word.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "High-frequency."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-tricky-words-lq03",
+      "type": "fill_blank",
+      "question": "Tricky word: I ___ to school. (went)",
+      "answer": "went",
+      "explanation": "Past tense."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-tricky-words-lq04",
+      "type": "short_answer",
+      "question": "Why learn tricky words by sight?",
+      "answer": "They don't follow simple phonics rules.",
+      "explanation": "Sight reading."
+    }
+  ]
+}

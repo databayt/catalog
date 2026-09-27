@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "ict"
+  },
+  "exams": [
+    {
+      "id": "g4-ict-final-exam-5457",
+      "title": "Final Exam - Ict - G4",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g4-ic-u1ic-q001",
+          "type": "mcq",
+          "question": "اختر: كيف نحفظ الملفات في الحاسوب؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الذاكرة العشوائية تُفقد بيانتها عند إطفاء الحاسوب",
+          "answer": true,
+          "explanation": "The statement about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات is True."
+        },
+        {
+          "id": "g4-ic-u1ic-q003",
+          "type": "fill_blank",
+          "question": "أكمل: البرامج الضارة تسمى ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q005",
+          "type": "mcq",
+          "question": "اختر: ما هو نظام التشغيل الأساسي للحاسوب؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الإنترنت آمن تماماً",
+          "answer": true,
+          "explanation": "The statement about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات is True."
+        },
+        {
+          "id": "g4-ic-u1ic-q007",
+          "type": "fill_blank",
+          "question": "أكمل: الإنترنت يربط الحواسيب عبر ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q009",
+          "type": "mcq",
+          "question": "اختر: كيف نحمي بيانتنا من الفيروسات؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات."
+        },
+        {
+          "id": "g4-ic-u1ic-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الحاسوب يحتاج إلى نظام تشغيل",
+          "answer": true,
+          "explanation": "The statement about الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات is True."
+        },
+        {
+          "id": "g4-ic-u2co-q001",
+          "type": "mcq",
+          "question": "اختر: كيف نحفظ الملفات في الحاسوب؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الذاكرة العشوائية تُفقد بيانتها عند إطفاء الحاسوب",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الحاسوب من حولنا is True."
+        },
+        {
+          "id": "g4-ic-u2co-q003",
+          "type": "fill_blank",
+          "question": "أكمل: البرامج الضارة تسمى ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q005",
+          "type": "mcq",
+          "question": "اختر: ما هو نظام التشغيل الأساسي للحاسوب؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الإنترنت آمن تماماً",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الحاسوب من حولنا is True."
+        },
+        {
+          "id": "g4-ic-u2co-q007",
+          "type": "fill_blank",
+          "question": "أكمل: الإنترنت يربط الحواسيب عبر ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q009",
+          "type": "mcq",
+          "question": "اختر: كيف نحمي بيانتنا من الفيروسات؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الحاسوب من حولنا."
+        },
+        {
+          "id": "g4-ic-u2co-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الحاسوب يحتاج إلى نظام تشغيل",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الحاسوب من حولنا is True."
+        }
+      ]
+    }
+  ]
+}

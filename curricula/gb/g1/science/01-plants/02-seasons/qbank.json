@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "science",
+    "chapter": "01-plants",
+    "lesson": "02-seasons"
+  },
+  "questions": [
+    {
+      "id": "g1-sci-unit-01-plants-02-seasons-lq01",
+      "type": "mcq",
+      "question": "Which season is usually coldest?",
+      "options": [
+        "summer",
+        "winter",
+        "spring",
+        "autumn"
+      ],
+      "answer": "winter",
+      "explanation": "Cold season."
+    },
+    {
+      "id": "g1-sci-unit-01-plants-02-seasons-lq02",
+      "type": "true_false",
+      "question": "Leaves often fall in autumn.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Seasonal change."
+    },
+    {
+      "id": "g1-sci-unit-01-plants-02-seasons-lq03",
+      "type": "fill_blank",
+      "question": "Days are longest in ___.",
+      "answer": "summer",
+      "explanation": "Long daylight."
+    },
+    {
+      "id": "g1-sci-unit-01-plants-02-seasons-lq04",
+      "type": "short_answer",
+      "question": "Name the four seasons.",
+      "answer": "Spring, summer, autumn, winter.",
+      "explanation": "Seasons."
+    }
+  ]
+}

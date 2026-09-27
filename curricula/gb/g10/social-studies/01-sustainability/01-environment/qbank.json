@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "social-studies",
+    "chapter": "01-sustainability",
+    "lesson": "01-environment"
+  },
+  "questions": [
+    {
+      "id": "g10-uae-unit-01-sustainability-01-environment-lq01",
+      "type": "mcq",
+      "question": "Conserving water and energy helps protect the:",
+      "options": [
+        "environment",
+        "fonts",
+        "prices",
+        "weather reports"
+      ],
+      "answer": "environment",
+      "explanation": "Conservation."
+    },
+    {
+      "id": "g10-uae-unit-01-sustainability-01-environment-lq02",
+      "type": "true_false",
+      "question": "The UAE invests in clean energy projects like solar power.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Clean energy."
+    },
+    {
+      "id": "g10-uae-unit-01-sustainability-01-environment-lq03",
+      "type": "fill_blank",
+      "question": "The careful use of resources for the future is ___.",
+      "answer": "sustainability",
+      "explanation": "Sustainability."
+    },
+    {
+      "id": "g10-uae-unit-01-sustainability-01-environment-lq04",
+      "type": "short_answer",
+      "question": "Name one way to protect the environment.",
+      "answer": "e.g., recycling, saving water/energy, or planting trees.",
+      "explanation": "Environment."
+    }
+  ]
+}

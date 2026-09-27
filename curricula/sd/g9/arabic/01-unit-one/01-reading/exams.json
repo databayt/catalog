@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "01-unit-one",
+    "lesson": "01-reading"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-01-01-reading-lquiz",
+      "title": "اختبار درس - القراءة: عباد الرحمن",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-ara-unit-01-01-reading-lq01",
+          "type": "mcq",
+          "question": "ما الغرض الرئيسي من قراءة النصوص الأدبية في الوحدة 1؟",
+          "options": [
+            "تنمية مهارات الفهم والاستيعاب",
+            "حفظ المفردات فقط",
+            "تعلم قواعد النحو",
+            "كتابة القصص"
+          ],
+          "answer": "تنمية مهارات الفهم والاستيعاب",
+          "explanation": "القراءة تنمي مهارات الفهم والاستيعاب لدى الطالب."
+        },
+        {
+          "id": "g9-ara-unit-01-01-reading-lq02",
+          "type": "true_false",
+          "question": "الفهم القرائي يساعد على استيعاب المعنى الكامل للنص.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الفهم القرائي أساس استيعاب النصوص."
+        },
+        {
+          "id": "g9-ara-unit-01-01-reading-lq03",
+          "type": "fill_blank",
+          "question": "النص الذي يُروى فيه أحداث متسلسلة يسمى نصاً ___.",
+          "answer": "سردياً",
+          "explanation": "النص السردي يروي أحداثاً متسلسلة."
+        },
+        {
+          "id": "g9-ara-unit-01-01-reading-lq04",
+          "type": "short_answer",
+          "question": "اذكر ثلاثة أنواع من النصوص التي تدرسها في مادة اللغة العربية.",
+          "answer": "النص السردي، النص الوصفي، النص الحواري",
+          "explanation": "أنواع النصوص الأدبية متعددة ومتنوعة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-arabic-01-unit-one-01-reading-1",
+      "title": "القراءة: عباد الرحمن",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "8d8f079e",
+          "type": "mcq",
+          "question": "ما هو الفرق بين اللغة الفصحى والعامية؟",
+          "options": [
+            "لا فرق",
+            "الفصحى معيارية والعامية محلية",
+            "العامية أصح",
+            "الفصحى للكتابة فقط"
+          ],
+          "answer": "الفصحى معيارية والعامية محلية",
+          "explanation": "الفصحى لغة موحدة معيارية، العامية تختلف حسب الجهة"
+        },
+        {
+          "id": "08ea3d8f",
+          "type": "fill_blank",
+          "question": "النحو هو العلم الذي يدرس ___",
+          "answer": "قواعد اللغة",
+          "explanation": "النحو يضبط قواعد الكلام العربي"
+        },
+        {
+          "id": "a6b3c4af",
+          "type": "true_false",
+          "question": "الاسم يدل على معنى بدون ارتباط بزمن",
+          "answer": true,
+          "explanation": "الأسماء لا تتقيد بأزمنة محددة"
+        }
+      ]
+    }
+  ]
+}

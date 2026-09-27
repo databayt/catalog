@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "04-unit-4"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-04-q01",
+      "type": "mcq",
+      "question": "Which type of essay presents arguments for and against a topic?",
+      "options": [
+        "Argumentative/Discussion essay",
+        "Narrative essay",
+        "Descriptive essay",
+        "Personal essay"
+      ],
+      "answer": "Argumentative/Discussion essay",
+      "explanation": "Discussion essays present multiple viewpoints on a controversial topic."
+    },
+    {
+      "id": "g10-eng-unit-04-q02",
+      "type": "true_false",
+      "question": "Coherence in writing means ideas flow logically and are connected.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Coherence ensures smooth flow of ideas using transitions and logical order."
+    },
+    {
+      "id": "g10-eng-unit-04-q03",
+      "type": "fill_blank",
+      "question": "Transition words like 'however', 'moreover', and 'therefore' help create ___ in writing.",
+      "answer": "coherence/cohesion",
+      "explanation": "Transition words link ideas and create cohesion in writing."
+    },
+    {
+      "id": "g10-eng-unit-04-q04",
+      "type": "short_answer",
+      "question": "What are the characteristics of formal academic writing?",
+      "answer": "Objective tone, complex sentences, no contractions, evidence-based claims, formal vocabulary.",
+      "explanation": "Academic writing follows specific conventions that differ from informal writing."
+    },
+    {
+      "id": "g10-eng-unit-04-q01-2",
+      "type": "mcq",
+      "question": "Which type of essay presents arguments for and against a topic?",
+      "options": [
+        "Argumentative/Discussion essay",
+        "Narrative essay",
+        "Descriptive essay",
+        "Personal essay"
+      ],
+      "answer": "Argumentative/Discussion essay",
+      "explanation": "Discussion essays present multiple viewpoints on a controversial topic."
+    },
+    {
+      "id": "g10-eng-unit-04-q02-2",
+      "type": "true_false",
+      "question": "Coherence in writing means ideas flow logically and are connected.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Coherence ensures smooth flow of ideas using transitions and logical order."
+    },
+    {
+      "id": "g10-eng-unit-04-q03-2",
+      "type": "fill_blank",
+      "question": "Transition words like 'however', 'moreover', and 'therefore' help create ___ in writing.",
+      "answer": "coherence/cohesion",
+      "explanation": "Transition words link ideas and create cohesion in writing."
+    },
+    {
+      "id": "g10-eng-unit-04-q04-2",
+      "type": "short_answer",
+      "question": "What are the characteristics of formal academic writing?",
+      "answer": "Objective tone, complex sentences, no contractions, evidence-based claims, formal vocabulary.",
+      "explanation": "Academic writing follows specific conventions that differ from informal writing."
+    }
+  ]
+}

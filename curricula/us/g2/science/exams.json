@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "us-g2-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq01",
+          "type": "mcq",
+          "question": "Which keeps its own shape?",
+          "options": [
+            "water",
+            "air",
+            "a rock",
+            "milk"
+          ],
+          "answer": "a rock",
+          "explanation": "Solids hold their shape."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq02",
+          "type": "true_false",
+          "question": "A liquid takes the shape of its container.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Liquids flow."
+        },
+        {
+          "id": "g2-sci-unit-02-earth-01-landforms-lq01",
+          "type": "mcq",
+          "question": "A very tall landform is a:",
+          "options": [
+            "lake",
+            "mountain",
+            "river",
+            "pond"
+          ],
+          "answer": "mountain",
+          "explanation": "Mountains rise high."
+        },
+        {
+          "id": "g2-sci-unit-02-earth-01-landforms-lq02",
+          "type": "true_false",
+          "question": "A river is a body of moving water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Flowing water."
+        }
+      ]
+    }
+  ]
+}

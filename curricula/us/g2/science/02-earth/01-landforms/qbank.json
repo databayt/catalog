@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "02-earth",
+    "lesson": "01-landforms"
+  },
+  "questions": [
+    {
+      "id": "g2-sci-unit-02-earth-01-landforms-lq01",
+      "type": "mcq",
+      "question": "A very tall landform is a:",
+      "options": [
+        "lake",
+        "mountain",
+        "river",
+        "pond"
+      ],
+      "answer": "mountain",
+      "explanation": "Mountains rise high."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-01-landforms-lq02",
+      "type": "true_false",
+      "question": "A river is a body of moving water.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Flowing water."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-01-landforms-lq03",
+      "type": "fill_blank",
+      "question": "A large body of salt water is an ___.",
+      "answer": "ocean",
+      "explanation": "Oceans."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-01-landforms-lq04",
+      "type": "short_answer",
+      "question": "Name one landform and one water body.",
+      "answer": "e.g., hill (land), lake (water).",
+      "explanation": "Land vs water."
+    }
+  ]
+}

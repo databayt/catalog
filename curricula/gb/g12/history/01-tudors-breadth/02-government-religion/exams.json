@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "history",
+    "chapter": "01-tudors-breadth",
+    "lesson": "02-government-religion"
+  },
+  "exams": [
+    {
+      "id": "g12-his-unit-01-tudors-breadth-02-government-religion-quiz",
+      "title": "Quiz: Government & Religion",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-his-unit-01-tudors-breadth-02-government-religion-lq01",
+          "type": "mcq",
+          "question": "Across the Tudor period, religion in England shifted between:",
+          "options": [
+            "Catholic and Protestant",
+            "no religions",
+            "only Islam",
+            "only Judaism"
+          ],
+          "answer": "Catholic and Protestant",
+          "explanation": "Reformation swings."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-02-government-religion-lq02",
+          "type": "true_false",
+          "question": "Historians debate whether a 'revolution in government' occurred under the Tudors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Historiography."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-02-government-religion-lq03",
+          "type": "fill_blank",
+          "question": "Elizabeth I's religious compromise is called the ___ Settlement.",
+          "answer": "Religious",
+          "explanation": "1559."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-02-government-religion-lq04",
+          "type": "short_answer",
+          "question": "Why is continuity and change a key theme in Tudor study?",
+          "answer": "Because government and religion both evolved and persisted across the period.",
+          "explanation": "Breadth themes."
+        }
+      ]
+    }
+  ]
+}

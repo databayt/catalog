@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "geography",
+    "chapter": "01-tectonics"
+  },
+  "questions": [
+    {
+      "id": "g7-geo-unit-01-tectonics-01-earthquakes-lq01",
+      "type": "mcq",
+      "question": "Earthquakes are caused by movement of Earth's:",
+      "options": [
+        "clouds",
+        "tectonic plates",
+        "oceans",
+        "forests"
+      ],
+      "answer": "tectonic plates",
+      "explanation": "Plate movement."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-01-earthquakes-lq02",
+      "type": "true_false",
+      "question": "Earthquakes are common near plate boundaries.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Boundary zones."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-01-earthquakes-lq03",
+      "type": "fill_blank",
+      "question": "Earthquake strength is measured on the ___ scale.",
+      "answer": "Richter",
+      "explanation": "Magnitude scale."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-01-earthquakes-lq04",
+      "type": "short_answer",
+      "question": "Why do some places experience more earthquakes?",
+      "answer": "They lie on or near active tectonic plate boundaries.",
+      "explanation": "Earthquake distribution."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-02-volcanoes-lq01",
+      "type": "mcq",
+      "question": "A volcano forms where magma reaches the:",
+      "options": [
+        "core",
+        "surface",
+        "mantle only",
+        "ocean floor only"
+      ],
+      "answer": "surface",
+      "explanation": "Eruption."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-02-volcanoes-lq02",
+      "type": "true_false",
+      "question": "Volcanic eruptions can create new land.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Lava builds land."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-02-volcanoes-lq03",
+      "type": "fill_blank",
+      "question": "The opening where lava erupts is the ___.",
+      "answer": "vent",
+      "explanation": "Volcanic vent."
+    },
+    {
+      "id": "g7-geo-unit-01-tectonics-02-volcanoes-lq04",
+      "type": "short_answer",
+      "question": "Name one positive effect of volcanoes.",
+      "answer": "e.g., fertile soils or geothermal energy.",
+      "explanation": "Volcano benefits."
+    }
+  ]
+}

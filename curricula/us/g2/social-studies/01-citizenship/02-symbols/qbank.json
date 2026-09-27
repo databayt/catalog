@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "01-citizenship",
+    "lesson": "02-symbols"
+  },
+  "questions": [
+    {
+      "id": "g2-soc-unit-01-citizenship-02-symbols-lq01",
+      "type": "mcq",
+      "question": "A flag is an example of a national:",
+      "options": [
+        "symbol",
+        "food",
+        "animal only",
+        "game"
+      ],
+      "answer": "symbol",
+      "explanation": "National symbols."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-02-symbols-lq02",
+      "type": "true_false",
+      "question": "Holidays often celebrate important people or events.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Commemoration."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-02-symbols-lq03",
+      "type": "fill_blank",
+      "question": "A national ___ represents a country, like a flag.",
+      "answer": "symbol",
+      "explanation": "Symbols."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-02-symbols-lq04",
+      "type": "short_answer",
+      "question": "Name one national symbol.",
+      "answer": "e.g., a flag, national anthem, or emblem.",
+      "explanation": "Symbols."
+    }
+  ]
+}

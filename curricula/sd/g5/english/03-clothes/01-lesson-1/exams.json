@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "03-clothes",
+    "lesson": "01-lesson-1"
+  },
+  "exams": [
+    {
+      "id": "g5-eng-unit-3-01-lesson-1-lquiz",
+      "title": "اختبار - Lesson 1",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-lq01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-lq02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        },
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-lq03",
+          "type": "fill_blank",
+          "question": "A ___ is a short summary of the main points of a text.",
+          "answer": "synopsis/summary",
+          "explanation": "A summary captures the main points briefly."
+        },
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-lq04",
+          "type": "short_answer",
+          "question": "What reading strategy helps you understand a difficult passage?",
+          "answer": "Re-reading, using context clues, breaking down sentences, and looking up unknown words.",
+          "explanation": "Good readers use various strategies to understand difficult texts."
+        }
+      ]
+    }
+  ]
+}

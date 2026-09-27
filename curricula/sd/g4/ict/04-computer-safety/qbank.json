@@ -1,0 +1,98 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "ict",
+    "chapter": "04-computer-safety"
+  },
+  "questions": [
+    {
+      "id": "g4-ic-u4co-q001",
+      "type": "mcq",
+      "question": "اختر: كيف نحفظ الملفات في الحاسوب؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الذاكرة العشوائية تُفقد بيانتها عند إطفاء الحاسوب",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: الأمان في استخدام الحاسوب is True."
+    },
+    {
+      "id": "g4-ic-u4co-q003",
+      "type": "fill_blank",
+      "question": "أكمل: البرامج الضارة تسمى ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q004",
+      "type": "short_answer",
+      "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q005",
+      "type": "mcq",
+      "question": "اختر: ما هو نظام التشغيل الأساسي للحاسوب؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q006",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الإنترنت آمن تماماً",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: الأمان في استخدام الحاسوب is True."
+    },
+    {
+      "id": "g4-ic-u4co-q007",
+      "type": "fill_blank",
+      "question": "أكمل: الإنترنت يربط الحواسيب عبر ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q008",
+      "type": "short_answer",
+      "question": "أجب: اشرح ما هي مكونات الحاسوب الأساسية",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q009",
+      "type": "mcq",
+      "question": "اختر: كيف نحمي بيانتنا من الفيروسات؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: الأمان في استخدام الحاسوب."
+    },
+    {
+      "id": "g4-ic-u4co-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الحاسوب يحتاج إلى نظام تشغيل",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: الأمان في استخدام الحاسوب is True."
+    }
+  ]
+}

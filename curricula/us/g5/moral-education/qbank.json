@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "moral-education"
+  },
+  "questions": [
+    {
+      "id": "g5-mor-unit-01-history-01-founding-lq01",
+      "type": "mcq",
+      "question": "The UAE was founded as a union in:",
+      "options": [
+        "1971",
+        "1999",
+        "2001",
+        "1950"
+      ],
+      "answer": "1971",
+      "explanation": "2 December 1971."
+    },
+    {
+      "id": "g5-mor-unit-01-history-01-founding-lq02",
+      "type": "true_false",
+      "question": "Sheikh Zayed bin Sultan Al Nahyan was a founding father of the UAE.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Founding father."
+    },
+    {
+      "id": "g5-mor-unit-01-history-01-founding-lq03",
+      "type": "fill_blank",
+      "question": "The UAE was formed by uniting seven ___.",
+      "answer": "emirates",
+      "explanation": "Union."
+    },
+    {
+      "id": "g5-mor-unit-01-history-01-founding-lq04",
+      "type": "short_answer",
+      "question": "Who was the founding father and first President of the UAE?",
+      "answer": "Sheikh Zayed bin Sultan Al Nahyan.",
+      "explanation": "UAE founding."
+    },
+    {
+      "id": "g5-mor-unit-01-history-02-zayed-lq01",
+      "type": "mcq",
+      "question": "Sheikh Zayed is remembered for tolerance and:",
+      "options": [
+        "generosity",
+        "selfishness",
+        "anger",
+        "neglect"
+      ],
+      "answer": "generosity",
+      "explanation": "His values."
+    },
+    {
+      "id": "g5-mor-unit-01-history-02-zayed-lq02",
+      "type": "true_false",
+      "question": "Sheikh Zayed cared about education and the environment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "His legacy."
+    },
+    {
+      "id": "g5-mor-unit-01-history-02-zayed-lq03",
+      "type": "fill_blank",
+      "question": "Sheikh Zayed is known as the Father of the ___.",
+      "answer": "Nation",
+      "explanation": "Father of the Nation."
+    },
+    {
+      "id": "g5-mor-unit-01-history-02-zayed-lq04",
+      "type": "short_answer",
+      "question": "Name one value Sheikh Zayed promoted.",
+      "answer": "e.g., tolerance, generosity, unity, or care for the land.",
+      "explanation": "Zayed's values."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-01-citizenship-lq01",
+      "type": "mcq",
+      "question": "A good citizen:",
+      "options": [
+        "follows laws and helps others",
+        "breaks rules",
+        "litters",
+        "is unkind"
+      ],
+      "answer": "follows laws and helps others",
+      "explanation": "Citizenship."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-01-citizenship-lq02",
+      "type": "true_false",
+      "question": "Respecting public property is part of good citizenship.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Civic duty."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-01-citizenship-lq03",
+      "type": "fill_blank",
+      "question": "Following the rules of society is part of being a good ___.",
+      "answer": "citizen",
+      "explanation": "Citizenship."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-01-citizenship-lq04",
+      "type": "short_answer",
+      "question": "Name one duty of a good citizen.",
+      "answer": "e.g., obey laws, respect others, care for the community.",
+      "explanation": "Civic duty."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-02-rights-duties-lq01",
+      "type": "mcq",
+      "question": "With rights also come:",
+      "options": [
+        "responsibilities",
+        "nothing",
+        "rewards only",
+        "holidays"
+      ],
+      "answer": "responsibilities",
+      "explanation": "Balance."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-02-rights-duties-lq02",
+      "type": "true_false",
+      "question": "Everyone has the right to be treated fairly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fairness."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-02-rights-duties-lq03",
+      "type": "fill_blank",
+      "question": "Things we should do for society are our ___.",
+      "answer": "duties",
+      "explanation": "Duties."
+    },
+    {
+      "id": "g5-mor-unit-02-civic-02-rights-duties-lq04",
+      "type": "short_answer",
+      "question": "Give an example of a right and a duty.",
+      "answer": "Right: education; Duty: respect others' rights.",
+      "explanation": "Rights and duties."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "physical-education",
+    "chapter": "02-games-tactics",
+    "lesson": "02-tactics"
+  },
+  "questions": [
+    {
+      "id": "g7-phy-unit-02-games-tactics-02-tactics-lq01",
+      "type": "mcq",
+      "question": "A plan to outplay opponents in a game is a:",
+      "options": [
+        "tactic",
+        "snack",
+        "song",
+        "drawing"
+      ],
+      "answer": "tactic",
+      "explanation": "Tactics."
+    },
+    {
+      "id": "g7-phy-unit-02-games-tactics-02-tactics-lq02",
+      "type": "true_false",
+      "question": "Communication helps a team work together.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g7-phy-unit-02-games-tactics-02-tactics-lq03",
+      "type": "fill_blank",
+      "question": "A planned approach to win a game is a ___.",
+      "answer": "tactic",
+      "explanation": "Tactic/strategy."
+    },
+    {
+      "id": "g7-phy-unit-02-games-tactics-02-tactics-lq04",
+      "type": "short_answer",
+      "question": "Give an example of a tactic in a team sport.",
+      "answer": "e.g., marking an opponent or pressing for the ball.",
+      "explanation": "Tactics."
+    }
+  ]
+}

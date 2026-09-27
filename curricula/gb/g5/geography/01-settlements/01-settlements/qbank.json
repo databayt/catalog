@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "geography",
+    "chapter": "01-settlements",
+    "lesson": "01-settlements"
+  },
+  "questions": [
+    {
+      "id": "g5-geo-unit-01-settlements-01-settlements-lq01",
+      "type": "mcq",
+      "question": "A very large settlement is a:",
+      "options": [
+        "hamlet",
+        "village",
+        "city",
+        "farm"
+      ],
+      "answer": "city",
+      "explanation": "Large settlement."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-01-settlements-lq02",
+      "type": "true_false",
+      "question": "Settlements often grow near water and good land.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Site factors."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-01-settlements-lq03",
+      "type": "fill_blank",
+      "question": "A small settlement smaller than a village is a ___.",
+      "answer": "hamlet",
+      "explanation": "Settlement hierarchy."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-01-settlements-lq04",
+      "type": "short_answer",
+      "question": "Why do settlements grow near rivers?",
+      "answer": "Water for drinking, farming, transport and trade.",
+      "explanation": "Site factors."
+    }
+  ]
+}

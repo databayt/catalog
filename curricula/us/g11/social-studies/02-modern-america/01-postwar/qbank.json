@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "social-studies",
+    "chapter": "02-modern-america",
+    "lesson": "01-postwar"
+  },
+  "questions": [
+    {
+      "id": "g11-soc-unit-02-modern-america-01-postwar-lq01",
+      "type": "mcq",
+      "question": "After WWII, the US emerged as a global:",
+      "options": [
+        "superpower",
+        "colony",
+        "empire of Rome",
+        "village"
+      ],
+      "answer": "superpower",
+      "explanation": "Postwar power."
+    },
+    {
+      "id": "g11-soc-unit-02-modern-america-01-postwar-lq02",
+      "type": "true_false",
+      "question": "The US and USSR competed during the Cold War.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Superpower rivalry."
+    },
+    {
+      "id": "g11-soc-unit-02-modern-america-01-postwar-lq03",
+      "type": "fill_blank",
+      "question": "The space race included the US landing on the ___ in 1969.",
+      "answer": "Moon",
+      "explanation": "Apollo 11."
+    },
+    {
+      "id": "g11-soc-unit-02-modern-america-01-postwar-lq04",
+      "type": "short_answer",
+      "question": "How did WWII change America's global role?",
+      "answer": "It became a leading economic and military superpower.",
+      "explanation": "Postwar role."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-uae-unit-01-future-01-innovation-lq01",
+          "type": "mcq",
+          "question": "The UAE promotes innovation in science, space and:",
+          "options": [
+            "technology",
+            "isolation",
+            "conflict",
+            "neglect"
+          ],
+          "answer": "technology",
+          "explanation": "Innovation."
+        },
+        {
+          "id": "g12-uae-unit-01-future-01-innovation-lq02",
+          "type": "true_false",
+          "question": "The UAE has a space programme and sent a mission to Mars.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Hope Probe."
+        },
+        {
+          "id": "g12-uae-unit-02-leadership-01-leadership-lq01",
+          "type": "mcq",
+          "question": "A good leader acts with vision and:",
+          "options": [
+            "integrity",
+            "selfishness",
+            "dishonesty",
+            "fear"
+          ],
+          "answer": "integrity",
+          "explanation": "Leadership."
+        },
+        {
+          "id": "g12-uae-unit-02-leadership-01-leadership-lq02",
+          "type": "true_false",
+          "question": "Leaders should serve and inspire their community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Servant leadership."
+        }
+      ]
+    }
+  ]
+}

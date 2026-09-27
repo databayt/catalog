@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "04-fractions",
+    "lesson": "04-equivalent-fractions"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-04-exam-3872",
+      "title": "Lesson Quiz - 04-equivalent-fractions - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u04-q004",
+          "type": "short_answer",
+          "question": "حل: اشرح كيف تضرب عددين",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الكسور."
+        }
+      ]
+    }
+  ]
+}

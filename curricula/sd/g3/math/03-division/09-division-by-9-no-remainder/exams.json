@@ -1,0 +1,33 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "03-division",
+    "lesson": "09-division-by-9-no-remainder"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-03-exam-1976",
+      "title": "Lesson Quiz - 09-division-by-9-no-remainder - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u03-q009",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: مضاعفات العدد ٥ هي: ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for القسمة."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-uae-unit-01-identity-01-national-identity-lq01",
+          "type": "mcq",
+          "question": "National identity is the shared sense of belonging to a:",
+          "options": [
+            "nation",
+            "sports team only",
+            "school only",
+            "company"
+          ],
+          "answer": "nation",
+          "explanation": "Identity."
+        },
+        {
+          "id": "g11-uae-unit-01-identity-01-national-identity-lq02",
+          "type": "true_false",
+          "question": "Language, history and values shape national identity.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Identity elements."
+        },
+        {
+          "id": "g11-uae-unit-02-justice-01-justice-lq01",
+          "type": "mcq",
+          "question": "Justice means upholding people's:",
+          "options": [
+            "rights fairly",
+            "privileges only",
+            "fonts",
+            "prices"
+          ],
+          "answer": "rights fairly",
+          "explanation": "Justice."
+        },
+        {
+          "id": "g11-uae-unit-02-justice-01-justice-lq02",
+          "type": "true_false",
+          "question": "Rule of law treats everyone equally.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Equality before law."
+        }
+      ]
+    }
+  ]
+}

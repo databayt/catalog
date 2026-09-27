@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "social-studies",
+    "chapter": "01-world-wars",
+    "lesson": "01-wwi"
+  },
+  "questions": [
+    {
+      "id": "g10-soc-unit-01-world-wars-01-wwi-lq01",
+      "type": "mcq",
+      "question": "WWI was triggered partly by an assassination in:",
+      "options": [
+        "Sarajevo",
+        "London",
+        "Tokyo",
+        "Cairo"
+      ],
+      "answer": "Sarajevo",
+      "explanation": "1914."
+    },
+    {
+      "id": "g10-soc-unit-01-world-wars-01-wwi-lq02",
+      "type": "true_false",
+      "question": "Alliances helped turn a local conflict into a world war.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Alliance system."
+    },
+    {
+      "id": "g10-soc-unit-01-world-wars-01-wwi-lq03",
+      "type": "fill_blank",
+      "question": "WWI ended with the Treaty of ___ in 1919.",
+      "answer": "Versailles",
+      "explanation": "Peace treaty."
+    },
+    {
+      "id": "g10-soc-unit-01-world-wars-01-wwi-lq04",
+      "type": "short_answer",
+      "question": "Name one long-term cause of WWI.",
+      "answer": "e.g., militarism, alliances, imperialism, nationalism.",
+      "explanation": "WWI causes."
+    }
+  ]
+}

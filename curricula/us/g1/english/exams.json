@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g1-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-eng-unit-01-phonics-01-short-vowels-lq01",
+          "type": "mcq",
+          "question": "Which word has a short 'a' sound?",
+          "options": [
+            "cake",
+            "cat",
+            "car",
+            "cape"
+          ],
+          "answer": "cat",
+          "explanation": "'cat' uses the short a."
+        },
+        {
+          "id": "g1-eng-unit-01-phonics-01-short-vowels-lq02",
+          "type": "true_false",
+          "question": "The word 'bed' has a short 'e' sound.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e as in bed."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-01-main-idea-lq01",
+          "type": "mcq",
+          "question": "The main idea of a story is:",
+          "options": [
+            "a small detail",
+            "what it is mostly about",
+            "the title only",
+            "the last word"
+          ],
+          "answer": "what it is mostly about",
+          "explanation": "Main idea = central message."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-01-main-idea-lq02",
+          "type": "true_false",
+          "question": "Details support the main idea.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "They give more information."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq01",
+          "type": "mcq",
+          "question": "A sentence must begin with a:",
+          "options": [
+            "small letter",
+            "capital letter",
+            "number",
+            "comma"
+          ],
+          "answer": "capital letter",
+          "explanation": "Sentences start with capitals."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq02",
+          "type": "true_false",
+          "question": "A telling sentence ends with a period.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Statements end with '.'."
+        }
+      ]
+    }
+  ]
+}

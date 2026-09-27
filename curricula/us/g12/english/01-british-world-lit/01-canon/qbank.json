@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "english",
+    "chapter": "01-british-world-lit",
+    "lesson": "01-canon"
+  },
+  "questions": [
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq01",
+      "type": "mcq",
+      "question": "A 'canonical' work is one that is:",
+      "options": [
+        "new",
+        "widely regarded as important",
+        "unpublished",
+        "translated only"
+      ],
+      "answer": "widely regarded as important",
+      "explanation": "Established significance."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq02",
+      "type": "true_false",
+      "question": "Allusion is a reference to another text or event.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Literary allusion."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq03",
+      "type": "fill_blank",
+      "question": "A long narrative poem about a hero is an ___.",
+      "answer": "epic",
+      "explanation": "Epic poem."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq04",
+      "type": "short_answer",
+      "question": "Why study classic literature?",
+      "answer": "To engage with influential ideas, forms, and language across time.",
+      "explanation": "Canon value."
+    }
+  ]
+}

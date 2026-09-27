@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "moral-education",
+    "chapter": "02-responsibility",
+    "lesson": "02-digital-citizenship"
+  },
+  "questions": [
+    {
+      "id": "g10-mor-unit-02-responsibility-02-digital-citizenship-lq01",
+      "type": "mcq",
+      "question": "A good digital citizen is:",
+      "options": [
+        "responsible and respectful online",
+        "rude online",
+        "a hacker",
+        "careless"
+      ],
+      "answer": "responsible and respectful online",
+      "explanation": "Digital citizenship."
+    },
+    {
+      "id": "g10-mor-unit-02-responsibility-02-digital-citizenship-lq02",
+      "type": "true_false",
+      "question": "We should protect our privacy and respect others online.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Online ethics."
+    },
+    {
+      "id": "g10-mor-unit-02-responsibility-02-digital-citizenship-lq03",
+      "type": "fill_blank",
+      "question": "Being safe and respectful online is digital ___.",
+      "answer": "citizenship",
+      "explanation": "Digital citizenship."
+    },
+    {
+      "id": "g10-mor-unit-02-responsibility-02-digital-citizenship-lq04",
+      "type": "short_answer",
+      "question": "Name one rule of good digital citizenship.",
+      "answer": "e.g., be respectful, protect privacy, and verify information.",
+      "explanation": "Digital citizenship."
+    }
+  ]
+}

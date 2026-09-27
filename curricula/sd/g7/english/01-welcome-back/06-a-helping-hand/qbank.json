@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "01-welcome-back",
+    "lesson": "06-a-helping-hand"
+  },
+  "questions": [
+    {
+      "id": "g7-en-unit01-q001",
+      "type": "mcq",
+      "question": "What is the plural of 'child'?",
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "child"
+      ],
+      "answer": "children",
+      "explanation": "Child is an irregular noun"
+    },
+    {
+      "id": "g7-en-unit01-q002",
+      "type": "true_false",
+      "question": "'I am going to school' uses the present continuous tense",
+      "answer": true,
+      "explanation": "Yes, 'am going' is present continuous"
+    }
+  ]
+}

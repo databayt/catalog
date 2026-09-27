@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "02-earth-space",
+    "lesson": "02-solar-system"
+  },
+  "questions": [
+    {
+      "id": "g8-sci-unit-02-earth-space-02-solar-system-lq01",
+      "type": "mcq",
+      "question": "The force that keeps planets in orbit is:",
+      "options": [
+        "magnetism",
+        "gravity",
+        "friction",
+        "tension"
+      ],
+      "answer": "gravity",
+      "explanation": "Sun's gravity."
+    },
+    {
+      "id": "g8-sci-unit-02-earth-space-02-solar-system-lq02",
+      "type": "true_false",
+      "question": "A light-year measures distance, not time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Distance light travels in a year."
+    },
+    {
+      "id": "g8-sci-unit-02-earth-space-02-solar-system-lq03",
+      "type": "fill_blank",
+      "question": "Earth's seasons are caused by the tilt of its ___.",
+      "answer": "axis",
+      "explanation": "Axial tilt."
+    },
+    {
+      "id": "g8-sci-unit-02-earth-space-02-solar-system-lq04",
+      "type": "short_answer",
+      "question": "Why does the Moon have phases?",
+      "answer": "We see different lit portions as it orbits Earth.",
+      "explanation": "Moon phases."
+    }
+  ]
+}

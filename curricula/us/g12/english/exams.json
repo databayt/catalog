@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g12-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-eng-unit-01-british-world-lit-01-canon-lq01",
+          "type": "mcq",
+          "question": "A 'canonical' work is one that is:",
+          "options": [
+            "new",
+            "widely regarded as important",
+            "unpublished",
+            "translated only"
+          ],
+          "answer": "widely regarded as important",
+          "explanation": "Established significance."
+        },
+        {
+          "id": "g12-eng-unit-01-british-world-lit-01-canon-lq02",
+          "type": "true_false",
+          "question": "Allusion is a reference to another text or event.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Literary allusion."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq01",
+          "type": "mcq",
+          "question": "A literary analysis essay focuses on:",
+          "options": [
+            "plot retelling",
+            "how a text creates meaning",
+            "the author's bio",
+            "the cover"
+          ],
+          "answer": "how a text creates meaning",
+          "explanation": "Analysis not summary."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq02",
+          "type": "true_false",
+          "question": "Strong analysis explains how evidence supports the thesis.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Explain the link."
+        }
+      ]
+    }
+  ]
+}

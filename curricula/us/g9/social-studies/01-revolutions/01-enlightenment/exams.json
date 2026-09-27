@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "social-studies",
+    "chapter": "01-revolutions",
+    "lesson": "01-enlightenment"
+  },
+  "exams": [
+    {
+      "id": "g9-soc-unit-01-revolutions-01-enlightenment-quiz",
+      "title": "Quiz: The Enlightenment",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq01",
+          "type": "mcq",
+          "question": "Enlightenment thinkers emphasized reason and individual:",
+          "options": [
+            "rights",
+            "kings",
+            "armies",
+            "castles"
+          ],
+          "answer": "rights",
+          "explanation": "Reason & rights."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq02",
+          "type": "true_false",
+          "question": "Enlightenment ideas influenced modern democracies.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Influence."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq03",
+          "type": "fill_blank",
+          "question": "The idea that government power comes from the people is popular ___.",
+          "answer": "sovereignty",
+          "explanation": "Enlightenment idea."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq04",
+          "type": "short_answer",
+          "question": "Name one Enlightenment idea.",
+          "answer": "e.g., natural rights, separation of powers, or social contract.",
+          "explanation": "Enlightenment."
+        }
+      ]
+    }
+  ]
+}

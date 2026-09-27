@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "gb-g7-english",
+  "curriculum": "gb",
+  "grade": "g7",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "english",
+  "source": {
+    "publisher": "aldar",
+    "title": "National Curriculum in England: English",
+    "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-english-programmes-of-study",
+    "license": "LicenseRef-Publisher",
+    "standards": "England NC KS3 g7",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-reading",
+      "title": {
+        "en": "Reading Fiction"
+      },
+      "lessons": [
+        {
+          "slug": "01-language-analysis",
+          "title": {
+            "en": "Analysing Language"
+          }
+        },
+        {
+          "slug": "02-inference",
+          "title": {
+            "en": "Inference & Evidence"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-writing",
+      "title": {
+        "en": "Creative & Persuasive Writing"
+      },
+      "lessons": [
+        {
+          "slug": "01-creative",
+          "title": {
+            "en": "Creative Writing"
+          }
+        },
+        {
+          "slug": "02-persuasive",
+          "title": {
+            "en": "Persuasive Writing"
+          }
+        }
+      ]
+    }
+  ]
+}

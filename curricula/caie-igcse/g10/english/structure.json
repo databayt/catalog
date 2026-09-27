@@ -1,0 +1,108 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "caie-igcse-g10-english",
+  "curriculum": "caie-igcse",
+  "grade": "g10",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English - First Language (0500)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "english",
+  "source": {
+    "publisher": "cambridge",
+    "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-reading-and-comprehension",
+      "title": {
+        "en": "Reading and Comprehension"
+      },
+      "lessons": [
+        {
+          "slug": "01-reading-and-comprehension",
+          "title": {
+            "en": "Reading and Comprehension"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-summary-writing",
+      "title": {
+        "en": "Summary Writing"
+      },
+      "lessons": [
+        {
+          "slug": "01-summary-writing",
+          "title": {
+            "en": "Summary Writing"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-directed-writing",
+      "title": {
+        "en": "Directed Writing"
+      },
+      "lessons": [
+        {
+          "slug": "01-directed-writing",
+          "title": {
+            "en": "Directed Writing"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-composition-narrative",
+      "title": {
+        "en": "Composition: Narrative"
+      },
+      "lessons": [
+        {
+          "slug": "01-composition-narrative",
+          "title": {
+            "en": "Composition: Narrative"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-composition-descriptive",
+      "title": {
+        "en": "Composition: Descriptive"
+      },
+      "lessons": [
+        {
+          "slug": "01-composition-descriptive",
+          "title": {
+            "en": "Composition: Descriptive"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-composition-argumentative",
+      "title": {
+        "en": "Composition: Argumentative"
+      },
+      "lessons": [
+        {
+          "slug": "01-composition-argumentative",
+          "title": {
+            "en": "Composition: Argumentative"
+          }
+        }
+      ]
+    }
+  ]
+}

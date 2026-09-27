@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq01",
+          "type": "mcq",
+          "question": "The Cold War was a rivalry between the USA and the:",
+          "options": [
+            "USSR",
+            "UK",
+            "France",
+            "Japan"
+          ],
+          "answer": "USSR",
+          "explanation": "Superpower rivalry."
+        },
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq02",
+          "type": "true_false",
+          "question": "The Cold War involved tension but rarely direct fighting between the superpowers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cold, not hot."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq01",
+          "type": "mcq",
+          "question": "Edward Jenner developed the first vaccine against:",
+          "options": [
+            "smallpox",
+            "cancer",
+            "colds",
+            "malaria"
+          ],
+          "answer": "smallpox",
+          "explanation": "1796 vaccine."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq02",
+          "type": "true_false",
+          "question": "Germ theory showed that microbes cause disease.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pasteur/Koch."
+        }
+      ]
+    }
+  ]
+}

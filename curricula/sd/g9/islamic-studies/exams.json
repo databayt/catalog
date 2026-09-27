@@ -1,0 +1,377 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-final",
+      "title": "الامتحان النهائي - islamic",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g9-isl-unit-01-01-review-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-01-review-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-02-madd-sukoon-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-01-03-madd-lazim-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-03-madd-lazim-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-01-04-madd-lazim-harfi-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-04-madd-lazim-harfi-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-01-05-madd-lazim-harfi-summary-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-01-05-madd-lazim-harfi-summary-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-03-01-importance-of-gentleness-q01",
+          "type": "mcq",
+          "question": "من جمع أصح الأحاديث في كتاب 'الجامع الصحيح'؟",
+          "options": [
+            "البخاري",
+            "مسلم",
+            "أحمد",
+            "الترمذي"
+          ],
+          "answer": "البخاري",
+          "explanation": "صحيح البخاري هو أصح كتاب بعد القرآن الكريم."
+        },
+        {
+          "id": "g9-isl-unit-03-01-importance-of-gentleness-q02",
+          "type": "true_false",
+          "question": "الحديث الصحيح يجب أن يكون متصل السند.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "من شروط الحديث الصحيح اتصال السند."
+        },
+        {
+          "id": "g9-isl-unit-03-02-danger-of-gossip-q01",
+          "type": "mcq",
+          "question": "من جمع أصح الأحاديث في كتاب 'الجامع الصحيح'؟",
+          "options": [
+            "البخاري",
+            "مسلم",
+            "أحمد",
+            "الترمذي"
+          ],
+          "answer": "البخاري",
+          "explanation": "صحيح البخاري هو أصح كتاب بعد القرآن الكريم."
+        },
+        {
+          "id": "g9-isl-unit-03-02-danger-of-gossip-q02",
+          "type": "true_false",
+          "question": "الحديث الصحيح يجب أن يكون متصل السند.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "من شروط الحديث الصحيح اتصال السند."
+        },
+        {
+          "id": "g9-isl-unit-03-03-righteousness-good-character-q01",
+          "type": "mcq",
+          "question": "من جمع أصح الأحاديث في كتاب 'الجامع الصحيح'؟",
+          "options": [
+            "البخاري",
+            "مسلم",
+            "أحمد",
+            "الترمذي"
+          ],
+          "answer": "البخاري",
+          "explanation": "صحيح البخاري هو أصح كتاب بعد القرآن الكريم."
+        },
+        {
+          "id": "g9-isl-unit-03-03-righteousness-good-character-q02",
+          "type": "true_false",
+          "question": "الحديث الصحيح يجب أن يكون متصل السند.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "من شروط الحديث الصحيح اتصال السند."
+        },
+        {
+          "id": "g9-isl-unit-03-04-seeking-help-from-allah-q01",
+          "type": "mcq",
+          "question": "من جمع أصح الأحاديث في كتاب 'الجامع الصحيح'؟",
+          "options": [
+            "البخاري",
+            "مسلم",
+            "أحمد",
+            "الترمذي"
+          ],
+          "answer": "البخاري",
+          "explanation": "صحيح البخاري هو أصح كتاب بعد القرآن الكريم."
+        },
+        {
+          "id": "g9-isl-unit-03-04-seeking-help-from-allah-q02",
+          "type": "true_false",
+          "question": "الحديث الصحيح يجب أن يكون متصل السند.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "من شروط الحديث الصحيح اتصال السند."
+        },
+        {
+          "id": "g9-isl-unit-03-05-time-is-life-q01",
+          "type": "mcq",
+          "question": "من جمع أصح الأحاديث في كتاب 'الجامع الصحيح'؟",
+          "options": [
+            "البخاري",
+            "مسلم",
+            "أحمد",
+            "الترمذي"
+          ],
+          "answer": "البخاري",
+          "explanation": "صحيح البخاري هو أصح كتاب بعد القرآن الكريم."
+        },
+        {
+          "id": "g9-isl-unit-03-05-time-is-life-q02",
+          "type": "true_false",
+          "question": "الحديث الصحيح يجب أن يكون متصل السند.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "من شروط الحديث الصحيح اتصال السند."
+        }
+      ]
+    }
+  ]
+}

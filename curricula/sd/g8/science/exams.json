@@ -1,0 +1,217 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "sd-g8-science-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 45,
+      "questions": [
+        {
+          "id": "g8-sc-unitscience-q001",
+          "type": "mcq",
+          "question": "ما تعريف العلم؟",
+          "options": [
+            "المعرفة فقط",
+            "دراسة منظمة للطبيعة",
+            "الكتب",
+            "الآلات"
+          ],
+          "answer": "دراسة منظمة للطبيعة",
+          "explanation": "العلم يعتمد على الملاحظة والتجربة"
+        },
+        {
+          "id": "g8-sc-unitscience-q002",
+          "type": "true_false",
+          "question": "المنهج العلمي يبدأ بالفرضية",
+          "answer": false,
+          "explanation": "خطأ، يبدأ بالملاحظة والسؤال"
+        },
+        {
+          "id": "g8-sc-unitscience-q003",
+          "type": "mcq",
+          "question": "ما خطوات المنهج العلمي؟",
+          "options": [
+            "الملاحظة والفرضية والتجربة",
+            "الملاحظة والسؤال والفرضية والتجربة والنتيجة",
+            "التجربة فقط",
+            "الفرضية فقط"
+          ],
+          "answer": "الملاحظة والسؤال والفرضية والتجربة والنتيجة",
+          "explanation": "هذه الخطوات الأساسية"
+        },
+        {
+          "id": "g8-sc-unitscience-q004",
+          "type": "fill_blank",
+          "question": "الفرضية هي ___ يمكن اختبارها",
+          "answer": "تنبؤ",
+          "explanation": "تتنبأ بنتيجة معينة"
+        },
+        {
+          "id": "g8-sc-unitscience-q005",
+          "type": "mcq",
+          "question": "ما الفرق بين الملاحظة والاستنتاج؟",
+          "options": [
+            "لا فرق",
+            "الملاحظة مباشرة والاستنتاج استنتاج",
+            "الاستنتاج مباشر",
+            "الملاحظة استنتاج"
+          ],
+          "answer": "الملاحظة مباشرة والاستنتاج استنتاج",
+          "explanation": "نلاحظ مباشرة ونستنتج من البيانات"
+        },
+        {
+          "id": "g8-sc-unitscience-q006",
+          "type": "short_answer",
+          "question": "اذكر أنواع المتغيرات في التجربة",
+          "answer": "المستقل والتابع والضابط",
+          "explanation": "ثلاث أنواع من المتغيرات"
+        },
+        {
+          "id": "g8-sc-unitscience-q007",
+          "type": "true_false",
+          "question": "الملاحظة يجب أن تكون دقيقة وموضوعية",
+          "answer": true,
+          "explanation": "صحيح، الدقة أساسية"
+        },
+        {
+          "id": "g8-sc-unitscience-q008",
+          "type": "mcq",
+          "question": "ما المتغير المستقل؟",
+          "options": [
+            "ما نغيره نحن",
+            "ما يتغير نتيجة",
+            "ما نراقبه",
+            "الجميع"
+          ],
+          "answer": "ما نغيره نحن",
+          "explanation": "المتغير الذي يتحكم به الباحث"
+        },
+        {
+          "id": "g8-sc-unitscience-q009",
+          "type": "fill_blank",
+          "question": "يجب إجراء التجربة عدة ___ للتأكد من النتائج",
+          "answer": "مرات",
+          "explanation": "لتأكيد موثوقية النتائج"
+        },
+        {
+          "id": "g8-sc-unitscience-q010",
+          "type": "mcq",
+          "question": "ما أهمية المنهج العلمي؟",
+          "options": [
+            "التخمين",
+            "الوصول لمعرفة موثوقة",
+            "اللعب",
+            "الكسل"
+          ],
+          "answer": "الوصول لمعرفة موثوقة",
+          "explanation": "يضمن موثوقية النتائج"
+        },
+        {
+          "id": "g8-sc-unitenergy-q001",
+          "type": "mcq",
+          "question": "ما تعريف الطاقة؟",
+          "options": [
+            "الحرارة",
+            "القدرة على فعل شيء",
+            "الحركة",
+            "الضوء"
+          ],
+          "answer": "القدرة على فعل شيء",
+          "explanation": "الطاقة القدرة على إحداث تغيير"
+        },
+        {
+          "id": "g8-sc-unitenergy-q002",
+          "type": "true_false",
+          "question": "الطاقة لا تُفنى ولا تُستحدث",
+          "answer": true,
+          "explanation": "صحيح، قانون حفظ الطاقة"
+        },
+        {
+          "id": "g8-sc-unitenergy-q003",
+          "type": "mcq",
+          "question": "كم أنواع الطاقة الأساسية؟",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "5",
+          "explanation": "حرارية وحركية وكهربائية وضوئية وكيميائية"
+        },
+        {
+          "id": "g8-sc-unitenergy-q004",
+          "type": "fill_blank",
+          "question": "الطاقة الحرارية تنتقل من الأجسام ___ للأجسام الباردة",
+          "answer": "الساخنة",
+          "explanation": "انتقال الحرارة"
+        },
+        {
+          "id": "g8-sc-unitenergy-q005",
+          "type": "mcq",
+          "question": "ما وحدة قياس الطاقة؟",
+          "options": [
+            "كيلوجرام",
+            "جول",
+            "مول",
+            "أمبير"
+          ],
+          "answer": "جول",
+          "explanation": "الجول وحدة الطاقة الدولية"
+        },
+        {
+          "id": "g8-sc-unitenergy-q006",
+          "type": "short_answer",
+          "question": "اذكر ثلاث مصادر للطاقة",
+          "answer": "الشمس والماء والهواء",
+          "explanation": "مصادر طاقة متجددة"
+        },
+        {
+          "id": "g8-sc-unitenergy-q007",
+          "type": "true_false",
+          "question": "الطاقة الكهربائية تنتج من حركة الإلكترونات",
+          "answer": true,
+          "explanation": "صحيح، التيار الكهربائي"
+        },
+        {
+          "id": "g8-sc-unitenergy-q008",
+          "type": "mcq",
+          "question": "ما الفرق بين الطاقة الحركية والكامنة؟",
+          "options": [
+            "لا فرق",
+            "الحركية من الحركة والكامنة من الموضع",
+            "الكامنة من الحركة",
+            "الحركية ثابتة"
+          ],
+          "answer": "الحركية من الحركة والكامنة من الموضع",
+          "explanation": "الحركية = 1/2 mv² والكامنة = mgh"
+        },
+        {
+          "id": "g8-sc-unitenergy-q009",
+          "type": "fill_blank",
+          "question": "تحويل الطاقة من شكل إلى آخر يسمى ___",
+          "answer": "تحويل الطاقة",
+          "explanation": "الطاقة تتحول بين أشكالها"
+        },
+        {
+          "id": "g8-sc-unitenergy-q010",
+          "type": "mcq",
+          "question": "الطاقة الشمسية تُصنف كـ:",
+          "options": [
+            "غير متجددة",
+            "متجددة",
+            "كهربائية",
+            "حرارية"
+          ],
+          "answer": "متجددة",
+          "explanation": "مصدر الطاقة المتجددة الرئيسي"
+        }
+      ]
+    }
+  ]
+}

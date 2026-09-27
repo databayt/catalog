@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "social-studies",
+    "chapter": "02-world-regions",
+    "lesson": "02-trade-exchange"
+  },
+  "questions": [
+    {
+      "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq01",
+      "type": "mcq",
+      "question": "The exchange of goods and ideas between cultures is cultural:",
+      "options": [
+        "diffusion",
+        "erosion",
+        "decay",
+        "division"
+      ],
+      "answer": "diffusion",
+      "explanation": "Cultural diffusion."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq02",
+      "type": "true_false",
+      "question": "Trade spread religions and technologies between regions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Exchange."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq03",
+      "type": "fill_blank",
+      "question": "Goods traded over long distances included spices and ___.",
+      "answer": "silk",
+      "explanation": "Luxury goods."
+    },
+    {
+      "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq04",
+      "type": "short_answer",
+      "question": "How did trade affect cultures?",
+      "answer": "It spread goods, ideas, religions and technology.",
+      "explanation": "Cultural exchange."
+    }
+  ]
+}

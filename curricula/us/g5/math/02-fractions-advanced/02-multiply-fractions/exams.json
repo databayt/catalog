@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "02-fractions-advanced",
+    "lesson": "02-multiply-fractions"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-quiz",
+      "title": "Quiz: Multiplying Fractions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq01",
+          "type": "mcq",
+          "question": "2/3 × 3/4 = ?",
+          "options": [
+            "6/12",
+            "5/7",
+            "1/2",
+            "6/7"
+          ],
+          "answer": "6/12",
+          "explanation": "Multiply across: 6/12 = 1/2."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq02",
+          "type": "true_false",
+          "question": "Multiplying a number by 1/2 makes it smaller.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiplying by a proper fraction reduces it."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq03",
+          "type": "fill_blank",
+          "question": "1/2 × 1/2 = ___.",
+          "answer": "1/4",
+          "explanation": "Half of a half."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq04",
+          "type": "short_answer",
+          "question": "How do you multiply two fractions?",
+          "answer": "Multiply numerators together and denominators together.",
+          "explanation": "Then simplify."
+        }
+      ]
+    }
+  ]
+}

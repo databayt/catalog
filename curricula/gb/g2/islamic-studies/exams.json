@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g2-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq01",
+          "type": "mcq",
+          "question": "كم عدد الصلوات المفروضة في اليوم؟",
+          "options": [
+            "ثلاث",
+            "أربع",
+            "خمس",
+            "ست"
+          ],
+          "answer": "خمس",
+          "explanation": "الصلوات الخمس."
+        },
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq02",
+          "type": "true_false",
+          "question": "صلاة الفجر ركعتان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الفجر ركعتان."
+        },
+        {
+          "id": "g2-isl-unit-02-akhlaq-01-truth-lq01",
+          "type": "mcq",
+          "question": "الصدق هو قول:",
+          "options": [
+            "الحق",
+            "الكذب",
+            "الباطل",
+            "لا شيء"
+          ],
+          "answer": "الحق",
+          "explanation": "الصدق."
+        },
+        {
+          "id": "g2-isl-unit-02-akhlaq-01-truth-lq02",
+          "type": "true_false",
+          "question": "الصدق خلق حميد يحبه الله.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الأخلاق."
+        }
+      ]
+    }
+  ]
+}

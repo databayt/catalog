@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "computer-science",
+    "chapter": "01-programming"
+  },
+  "questions": [
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq01",
+      "type": "mcq",
+      "question": "A named store for a value in a program is a:",
+      "options": [
+        "variable",
+        "virus",
+        "cable",
+        "pixel"
+      ],
+      "answer": "variable",
+      "explanation": "Variables."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq02",
+      "type": "true_false",
+      "question": "Selection uses conditions like if-statements.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Selection."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq03",
+      "type": "fill_blank",
+      "question": "Repeating code is called iteration or a ___.",
+      "answer": "loop",
+      "explanation": "Iteration."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq04",
+      "type": "short_answer",
+      "question": "What is a variable used for?",
+      "answer": "To store and reuse a value in a program.",
+      "explanation": "Variables."
+    },
+    {
+      "id": "g11-com-unit-01-programming-02-data-lq01",
+      "type": "mcq",
+      "question": "Computers store data using the binary digits:",
+      "options": [
+        "0 and 1",
+        "A and B",
+        "yes/maybe",
+        "red/blue"
+      ],
+      "answer": "0 and 1",
+      "explanation": "Binary."
+    },
+    {
+      "id": "g11-com-unit-01-programming-02-data-lq02",
+      "type": "true_false",
+      "question": "A bit is the smallest unit of data.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bit."
+    },
+    {
+      "id": "g11-com-unit-01-programming-02-data-lq03",
+      "type": "fill_blank",
+      "question": "Eight bits make one ___.",
+      "answer": "byte",
+      "explanation": "Byte."
+    },
+    {
+      "id": "g11-com-unit-01-programming-02-data-lq04",
+      "type": "short_answer",
+      "question": "Why do computers use binary?",
+      "answer": "Because circuits have two states (on/off), matching 0 and 1.",
+      "explanation": "Binary."
+    }
+  ]
+}

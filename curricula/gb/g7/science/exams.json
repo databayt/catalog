@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g7-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-sci-unit-01-biology-01-cells-lq01",
+          "type": "mcq",
+          "question": "Which part controls a cell's activities?",
+          "options": [
+            "cell wall",
+            "nucleus",
+            "membrane",
+            "vacuole"
+          ],
+          "answer": "nucleus",
+          "explanation": "Control centre."
+        },
+        {
+          "id": "g7-sci-unit-01-biology-01-cells-lq02",
+          "type": "true_false",
+          "question": "Plant cells have a cell wall.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Made of cellulose."
+        },
+        {
+          "id": "g7-sci-unit-02-chemistry-01-states-lq01",
+          "type": "mcq",
+          "question": "Which state has particles packed in a fixed pattern?",
+          "options": [
+            "gas",
+            "liquid",
+            "solid",
+            "plasma"
+          ],
+          "answer": "solid",
+          "explanation": "Fixed arrangement."
+        },
+        {
+          "id": "g7-sci-unit-02-chemistry-01-states-lq02",
+          "type": "true_false",
+          "question": "Gas particles move freely and fill the container.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Random, spread out."
+        }
+      ]
+    }
+  ]
+}

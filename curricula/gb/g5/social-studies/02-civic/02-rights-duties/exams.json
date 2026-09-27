@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "social-studies",
+    "chapter": "02-civic",
+    "lesson": "02-rights-duties"
+  },
+  "exams": [
+    {
+      "id": "g5-uae-unit-02-civic-02-rights-duties-quiz",
+      "title": "Quiz: Rights & Duties",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-uae-unit-02-civic-02-rights-duties-lq01",
+          "type": "mcq",
+          "question": "With rights also come:",
+          "options": [
+            "responsibilities",
+            "nothing",
+            "rewards only",
+            "holidays"
+          ],
+          "answer": "responsibilities",
+          "explanation": "Balance."
+        },
+        {
+          "id": "g5-uae-unit-02-civic-02-rights-duties-lq02",
+          "type": "true_false",
+          "question": "Everyone has the right to be treated fairly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Fairness."
+        },
+        {
+          "id": "g5-uae-unit-02-civic-02-rights-duties-lq03",
+          "type": "fill_blank",
+          "question": "Things we should do for society are our ___.",
+          "answer": "duties",
+          "explanation": "Duties."
+        },
+        {
+          "id": "g5-uae-unit-02-civic-02-rights-duties-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a right and a duty.",
+          "answer": "Right: education; Duty: respect others' rights.",
+          "explanation": "Rights and duties."
+        }
+      ]
+    }
+  ]
+}

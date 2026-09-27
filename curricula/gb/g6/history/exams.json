@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g6-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-his-unit-01-maya-01-maya-life-lq01",
+          "type": "mcq",
+          "question": "The Maya civilisation was located in:",
+          "options": [
+            "Central America",
+            "Britain",
+            "Egypt",
+            "China"
+          ],
+          "answer": "Central America",
+          "explanation": "Mesoamerica."
+        },
+        {
+          "id": "g6-his-unit-01-maya-01-maya-life-lq02",
+          "type": "true_false",
+          "question": "The Maya built large stone pyramids and temples.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Maya architecture."
+        },
+        {
+          "id": "g6-his-unit-02-britain-wwii-01-home-front-lq01",
+          "type": "mcq",
+          "question": "During WWII, children were moved from cities for safety in the:",
+          "options": [
+            "evacuation",
+            "invasion",
+            "coronation",
+            "exhibition"
+          ],
+          "answer": "evacuation",
+          "explanation": "Evacuees."
+        },
+        {
+          "id": "g6-his-unit-02-britain-wwii-01-home-front-lq02",
+          "type": "true_false",
+          "question": "Rationing limited the food people could buy during WWII.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rationing."
+        }
+      ]
+    }
+  ]
+}

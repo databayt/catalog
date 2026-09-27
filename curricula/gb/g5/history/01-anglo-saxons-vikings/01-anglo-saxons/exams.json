@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "history",
+    "chapter": "01-anglo-saxons-vikings",
+    "lesson": "01-anglo-saxons"
+  },
+  "exams": [
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-quiz",
+      "title": "Quiz: Anglo-Saxon Britain",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq01",
+          "type": "mcq",
+          "question": "The Anglo-Saxons came to Britain from areas of modern:",
+          "options": [
+            "Germany/Denmark",
+            "Spain",
+            "Egypt",
+            "India"
+          ],
+          "answer": "Germany/Denmark",
+          "explanation": "North European settlers."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq02",
+          "type": "true_false",
+          "question": "England's name comes from the 'Angles'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Angle-land."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq03",
+          "type": "fill_blank",
+          "question": "Anglo-Saxon kingdoms included Wessex and ___.",
+          "answer": "Mercia",
+          "explanation": "Heptarchy kingdoms."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq04",
+          "type": "short_answer",
+          "question": "How do we know about the Anglo-Saxons?",
+          "answer": "From burials like Sutton Hoo, artefacts and written chronicles.",
+          "explanation": "Evidence."
+        }
+      ]
+    }
+  ]
+}

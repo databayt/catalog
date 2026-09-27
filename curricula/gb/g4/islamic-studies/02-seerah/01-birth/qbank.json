@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "islamic-studies",
+    "chapter": "02-seerah",
+    "lesson": "01-birth"
+  },
+  "questions": [
+    {
+      "id": "g4-isl-unit-02-seerah-01-birth-lq01",
+      "type": "mcq",
+      "question": "وُلد النبي ﷺ في:",
+      "options": [
+        "مكة",
+        "المدينة",
+        "الطائف",
+        "بغداد"
+      ],
+      "answer": "مكة",
+      "explanation": "المولد."
+    },
+    {
+      "id": "g4-isl-unit-02-seerah-01-birth-lq02",
+      "type": "true_false",
+      "question": "كفل النبيَّ ﷺ جدُّه ثم عمُّه.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "نشأته."
+    },
+    {
+      "id": "g4-isl-unit-02-seerah-01-birth-lq03",
+      "type": "fill_blank",
+      "question": "لُقّب النبي ﷺ قبل البعثة بالصادق ___.",
+      "answer": "الأمين",
+      "explanation": "الصادق الأمين."
+    },
+    {
+      "id": "g4-isl-unit-02-seerah-01-birth-lq04",
+      "type": "short_answer",
+      "question": "بمَ عُرف النبي ﷺ بين قومه قبل البعثة؟",
+      "answer": "بالصدق والأمانة.",
+      "explanation": "نشأته."
+    }
+  ]
+}

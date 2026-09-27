@@ -1,0 +1,377 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-final",
+      "title": "الامتحان النهائي - math",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g9-mat-unit-01-01-function-definition-q01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-01-01-function-definition-q02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-01-02-image-of-element-q01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-01-02-image-of-element-q02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-01-03-range-q01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-01-03-range-q02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-01-04-surjective-function-q01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-01-04-surjective-function-q02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-01-05-injective-function-q01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-01-05-injective-function-q02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-02-01-base-and-power-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-01-base-and-power-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-02-multiplying-powers-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-02-multiplying-powers-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-03-power-of-power-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-03-power-of-power-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-04-multiplying-different-bases-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-04-multiplying-different-bases-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-05-dividing-powers-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-05-dividing-powers-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-03-01-cartesian-plane-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-01-cartesian-plane-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-03-02-linear-equation-two-variables-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-02-linear-equation-two-variables-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-03-03-graphical-solution-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-03-graphical-solution-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-03-04-algebraic-solution-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-04-algebraic-solution-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-q01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-q02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        }
+      ]
+    }
+  ]
+}

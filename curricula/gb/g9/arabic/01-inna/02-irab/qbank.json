@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "01-inna",
+    "lesson": "02-irab"
+  },
+  "questions": [
+    {
+      "id": "g9-ara-unit-01-inna-02-irab-lq01",
+      "type": "mcq",
+      "question": "علامة رفع الاسم المفرد هي:",
+      "options": [
+        "الفتحة",
+        "الضمة",
+        "الكسرة",
+        "السكون"
+      ],
+      "answer": "الضمة",
+      "explanation": "الرفع بالضمة."
+    },
+    {
+      "id": "g9-ara-unit-01-inna-02-irab-lq02",
+      "type": "true_false",
+      "question": "المفعول به منصوب.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "علامة النصب الفتحة."
+    },
+    {
+      "id": "g9-ara-unit-01-inna-02-irab-lq03",
+      "type": "fill_blank",
+      "question": "علامة جر الاسم المفرد هي ___.",
+      "answer": "الكسرة",
+      "explanation": "الجر بالكسرة."
+    },
+    {
+      "id": "g9-ara-unit-01-inna-02-irab-lq04",
+      "type": "short_answer",
+      "question": "أعرب كلمة (الطالبُ) في (نجح الطالبُ).",
+      "answer": "فاعل مرفوع وعلامة رفعه الضمة.",
+      "explanation": "الإعراب."
+    }
+  ]
+}

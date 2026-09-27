@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g2-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-sci-unit-01-living-01-habitats-lq01",
+          "type": "mcq",
+          "question": "A habitat is a place where:",
+          "options": [
+            "toys are kept",
+            "a living thing lives",
+            "food is cooked",
+            "cars park"
+          ],
+          "answer": "a living thing lives",
+          "explanation": "Home of an organism."
+        },
+        {
+          "id": "g2-sci-unit-01-living-01-habitats-lq02",
+          "type": "true_false",
+          "question": "A pond is a habitat for frogs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Frog habitat."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq01",
+          "type": "mcq",
+          "question": "Glass is usually:",
+          "options": [
+            "transparent",
+            "soft",
+            "bendy",
+            "magnetic"
+          ],
+          "answer": "transparent",
+          "explanation": "See-through."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq02",
+          "type": "true_false",
+          "question": "Rubber is flexible.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Bends easily."
+        }
+      ]
+    }
+  ]
+}

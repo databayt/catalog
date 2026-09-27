@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "music"
+  },
+  "exams": [
+    {
+      "id": "gb-g1-music-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-mus-unit-01-elements-01-pulse-rhythm-lq01",
+          "type": "mcq",
+          "question": "The steady beat in music is the:",
+          "options": [
+            "pulse",
+            "colour",
+            "title",
+            "volume"
+          ],
+          "answer": "pulse",
+          "explanation": "Beat/pulse."
+        },
+        {
+          "id": "g1-mus-unit-01-elements-01-pulse-rhythm-lq02",
+          "type": "true_false",
+          "question": "Rhythm is a pattern of long and short sounds.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rhythm."
+        },
+        {
+          "id": "g1-mus-unit-02-performing-01-singing-playing-lq01",
+          "type": "mcq",
+          "question": "Playing music together as a group is performing in an:",
+          "options": [
+            "ensemble",
+            "office",
+            "oven",
+            "army"
+          ],
+          "answer": "ensemble",
+          "explanation": "Ensemble."
+        },
+        {
+          "id": "g1-mus-unit-02-performing-01-singing-playing-lq02",
+          "type": "true_false",
+          "question": "We should keep in time with others when playing together.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Ensemble skills."
+        }
+      ]
+    }
+  ]
+}

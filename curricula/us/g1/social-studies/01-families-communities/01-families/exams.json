@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "social-studies",
+    "chapter": "01-families-communities",
+    "lesson": "01-families"
+  },
+  "exams": [
+    {
+      "id": "g1-soc-unit-01-families-communities-01-families-quiz",
+      "title": "Quiz: Families",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-soc-unit-01-families-communities-01-families-lq01",
+          "type": "mcq",
+          "question": "A group of people related and living together is a:",
+          "options": [
+            "family",
+            "factory",
+            "forest",
+            "river"
+          ],
+          "answer": "family",
+          "explanation": "Family unit."
+        },
+        {
+          "id": "g1-soc-unit-01-families-communities-01-families-lq02",
+          "type": "true_false",
+          "question": "Families can look different from one another.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Family diversity."
+        },
+        {
+          "id": "g1-soc-unit-01-families-communities-01-families-lq03",
+          "type": "fill_blank",
+          "question": "Rules at home help keep everyone ___.",
+          "answer": "safe",
+          "explanation": "Rules' purpose."
+        },
+        {
+          "id": "g1-soc-unit-01-families-communities-01-families-lq04",
+          "type": "short_answer",
+          "question": "Name one way families help each other.",
+          "answer": "e.g., caring, sharing, and helping with chores.",
+          "explanation": "Family roles."
+        }
+      ]
+    }
+  ]
+}

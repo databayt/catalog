@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "01-place-value-1000",
+    "lesson": "01-hundreds"
+  },
+  "exams": [
+    {
+      "id": "g3-mat-unit-01-place-value-1000-01-hundreds-quiz",
+      "title": "Quiz: Hundreds, Tens and Ones",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq01",
+          "type": "mcq",
+          "question": "In 482, the 4 represents:",
+          "options": [
+            "4",
+            "40",
+            "400",
+            "4000"
+          ],
+          "answer": "400",
+          "explanation": "Hundreds place."
+        },
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq02",
+          "type": "true_false",
+          "question": "305 = 300 + 5.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No tens."
+        },
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq03",
+          "type": "fill_blank",
+          "question": "6 hundreds 2 tens 0 ones = ___.",
+          "answer": "620",
+          "explanation": "600+20."
+        },
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq04",
+          "type": "short_answer",
+          "question": "Write 'seven hundred and nine' in digits.",
+          "answer": "709",
+          "explanation": "709."
+        }
+      ]
+    }
+  ]
+}

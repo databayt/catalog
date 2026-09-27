@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "biology",
+    "chapter": "02-genetics",
+    "lesson": "01-dna"
+  },
+  "questions": [
+    {
+      "id": "g9-bio-unit-02-genetics-01-dna-lq01",
+      "type": "mcq",
+      "question": "DNA's shape is a:",
+      "options": [
+        "single line",
+        "double helix",
+        "circle",
+        "triangle"
+      ],
+      "answer": "double helix",
+      "explanation": "Watson-Crick model."
+    },
+    {
+      "id": "g9-bio-unit-02-genetics-01-dna-lq02",
+      "type": "true_false",
+      "question": "Genes are segments of DNA that code for traits.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Units of heredity."
+    },
+    {
+      "id": "g9-bio-unit-02-genetics-01-dna-lq03",
+      "type": "fill_blank",
+      "question": "DNA bases pair A with T and C with ___.",
+      "answer": "G",
+      "explanation": "Base pairing."
+    },
+    {
+      "id": "g9-bio-unit-02-genetics-01-dna-lq04",
+      "type": "short_answer",
+      "question": "What is the role of DNA?",
+      "answer": "To store genetic instructions for building proteins.",
+      "explanation": "DNA function."
+    }
+  ]
+}

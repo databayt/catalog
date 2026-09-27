@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g5-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-mat-unit-01-decimals-operations-01-place-value-decimals-lq01",
+          "type": "mcq",
+          "question": "In 3.146, the 4 is in the:",
+          "options": [
+            "tenths",
+            "hundredths",
+            "thousandths",
+            "ones"
+          ],
+          "answer": "hundredths",
+          "explanation": "4 is the second place after the point."
+        },
+        {
+          "id": "g5-mat-unit-01-decimals-operations-01-place-value-decimals-lq02",
+          "type": "true_false",
+          "question": "0.1 is ten times 0.01.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Each place is 10×."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq01",
+          "type": "mcq",
+          "question": "1/2 + 1/3 = ?",
+          "options": [
+            "2/5",
+            "5/6",
+            "2/6",
+            "3/5"
+          ],
+          "answer": "5/6",
+          "explanation": "Common denominator 6: 3/6+2/6=5/6."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq02",
+          "type": "true_false",
+          "question": "You need a common denominator to add unlike fractions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Parts must be equal-sized."
+        },
+        {
+          "id": "g5-mat-unit-03-volume-01-volume-lq01",
+          "type": "mcq",
+          "question": "Volume of a 2×3×4 box (cubic units)?",
+          "options": [
+            "9",
+            "24",
+            "14",
+            "12"
+          ],
+          "answer": "24",
+          "explanation": "V = l×w×h = 24."
+        },
+        {
+          "id": "g5-mat-unit-03-volume-01-volume-lq02",
+          "type": "true_false",
+          "question": "Volume is measured in cubic units.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., cm³."
+        }
+      ]
+    }
+  ]
+}

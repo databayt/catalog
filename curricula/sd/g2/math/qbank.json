@@ -1,0 +1,537 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g2-ma-u1nu-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الأولى: العدد (100) is True."
+    },
+    {
+      "id": "g2-ma-u1nu-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الأولى: العدد (100) is True."
+    },
+    {
+      "id": "g2-ma-u1nu-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الأولى: العدد (100)."
+    },
+    {
+      "id": "g2-ma-u1nu-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الأولى: العدد (100) is True."
+    },
+    {
+      "id": "g2-ma-u2ad-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثانية: الجمع is True."
+    },
+    {
+      "id": "g2-ma-u2ad-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثانية: الجمع is True."
+    },
+    {
+      "id": "g2-ma-u2ad-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+    },
+    {
+      "id": "g2-ma-u2ad-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثانية: الجمع is True."
+    },
+    {
+      "id": "g2-ma-u3mu-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    },
+    {
+      "id": "g2-ma-u3mu-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    },
+    {
+      "id": "g2-ma-u3mu-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    },
+    {
+      "id": "g2-ma-u4di-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: القسمة is True."
+    },
+    {
+      "id": "g2-ma-u4di-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: القسمة is True."
+    },
+    {
+      "id": "g2-ma-u4di-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الرابعة: القسمة."
+    },
+    {
+      "id": "g2-ma-u4di-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الرابعة: القسمة is True."
+    },
+    {
+      "id": "g2-ma-u5me-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الخامسة: القياس is True."
+    },
+    {
+      "id": "g2-ma-u5me-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الخامسة: القياس is True."
+    },
+    {
+      "id": "g2-ma-u5me-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الخامسة: القياس."
+    },
+    {
+      "id": "g2-ma-u5me-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الخامسة: القياس is True."
+    },
+    {
+      "id": "g2-ma-u6ge-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة السادسة: الهندسة is True."
+    },
+    {
+      "id": "g2-ma-u6ge-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة السادسة: الهندسة is True."
+    },
+    {
+      "id": "g2-ma-u6ge-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة السادسة: الهندسة."
+    },
+    {
+      "id": "g2-ma-u6ge-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة السادسة: الهندسة is True."
+    }
+  ]
+}

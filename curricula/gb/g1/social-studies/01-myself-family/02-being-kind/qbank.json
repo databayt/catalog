@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "social-studies",
+    "chapter": "01-myself-family",
+    "lesson": "02-being-kind"
+  },
+  "questions": [
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq01",
+      "type": "mcq",
+      "question": "Being kind means we treat others with:",
+      "options": [
+        "respect",
+        "rudeness",
+        "anger",
+        "fear"
+      ],
+      "answer": "respect",
+      "explanation": "Kindness/respect."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq02",
+      "type": "true_false",
+      "question": "Saying 'please' and 'thank you' shows good manners.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Politeness."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq03",
+      "type": "fill_blank",
+      "question": "Treating others as we wish to be treated is being ___.",
+      "answer": "kind",
+      "explanation": "Kindness."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq04",
+      "type": "short_answer",
+      "question": "Give one example of being kind at school.",
+      "answer": "e.g., sharing, helping a friend, or listening.",
+      "explanation": "Kindness."
+    }
+  ]
+}

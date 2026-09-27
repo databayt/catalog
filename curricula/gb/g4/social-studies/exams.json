@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-uae-unit-01-geography-01-geography-lq01",
+          "type": "mcq",
+          "question": "Much of the UAE's land is:",
+          "options": [
+            "desert",
+            "rainforest",
+            "ice",
+            "swamp"
+          ],
+          "answer": "desert",
+          "explanation": "Arid climate."
+        },
+        {
+          "id": "g4-uae-unit-01-geography-01-geography-lq02",
+          "type": "true_false",
+          "question": "The UAE has a coastline on the Arabian Gulf.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Coastline."
+        },
+        {
+          "id": "g4-uae-unit-02-empathy-01-empathy-lq01",
+          "type": "mcq",
+          "question": "Empathy means understanding others':",
+          "options": [
+            "feelings",
+            "heights",
+            "ages only",
+            "names"
+          ],
+          "answer": "feelings",
+          "explanation": "Empathy."
+        },
+        {
+          "id": "g4-uae-unit-02-empathy-01-empathy-lq02",
+          "type": "true_false",
+          "question": "Helping someone in need shows empathy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Caring."
+        }
+      ]
+    }
+  ]
+}

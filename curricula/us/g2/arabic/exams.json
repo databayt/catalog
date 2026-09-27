@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g2-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-ara-unit-01-words-01-syllables-lq01",
+          "type": "mcq",
+          "question": "كلمة (مَدْرَسَة) تتكون من كم مقطع؟",
+          "options": [
+            "مقطعان",
+            "ثلاثة",
+            "أربعة",
+            "واحد"
+          ],
+          "answer": "أربعة",
+          "explanation": "مَدْ-رَ-سَ-ة."
+        },
+        {
+          "id": "g2-ara-unit-01-words-01-syllables-lq02",
+          "type": "true_false",
+          "question": "نجمع الحروف لتكوين الكلمات.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تكوين الكلمة."
+        },
+        {
+          "id": "g2-ara-unit-02-sentence-01-make-sentence-lq01",
+          "type": "mcq",
+          "question": "أي مما يلي جملة مفيدة؟",
+          "options": [
+            "الكتابُ مفيدٌ",
+            "كتاب على",
+            "في إلى",
+            "وَ ثم"
+          ],
+          "answer": "الكتابُ مفيدٌ",
+          "explanation": "تعطي معنى تاماً."
+        },
+        {
+          "id": "g2-ara-unit-02-sentence-01-make-sentence-lq02",
+          "type": "true_false",
+          "question": "الجملة المفيدة تعطي معنى تاماً.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف الجملة."
+        }
+      ]
+    }
+  ]
+}

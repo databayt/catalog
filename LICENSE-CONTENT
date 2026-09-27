@@ -1,0 +1,19 @@
+Content license — Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+Applies to content authored by catalog contributors under curricula/: the
+structure.json outlines, qbank.json question banks, exams.json assessments,
+curriculum.json manifests and Markdown twins (textbook.md, pages-md/), unless a
+file's structure.json names a different license.
+
+You are free to share and adapt this content for any purpose, even
+commercially, as long as you give appropriate credit (name the contributors in
+the subject's structure.json and link to https://github.com/databayt/catalog),
+indicate if changes were made, and distribute your contributions under the same
+license.
+
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+NOT covered by this license: the source textbooks themselves (textbook.pdf and
+the page images rendered from them) and anything a structure.json marks
+`source.license: "LicenseRef-Publisher"`. Those remain the property of the
+publisher named in `source.publisher`, under the publisher's own terms.

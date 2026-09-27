@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "01-citizenship",
+    "lesson": "01-rules-laws"
+  },
+  "questions": [
+    {
+      "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq01",
+      "type": "mcq",
+      "question": "Rules and laws help people:",
+      "options": [
+        "fight",
+        "live together safely",
+        "get lost",
+        "waste time"
+      ],
+      "answer": "live together safely",
+      "explanation": "Order/safety."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq02",
+      "type": "true_false",
+      "question": "A good citizen follows rules and helps others.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Citizenship."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq03",
+      "type": "fill_blank",
+      "question": "A rule made by a government for everyone is a ___.",
+      "answer": "law",
+      "explanation": "Laws."
+    },
+    {
+      "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq04",
+      "type": "short_answer",
+      "question": "Why do communities need rules?",
+      "answer": "To keep people safe and treat everyone fairly.",
+      "explanation": "Rules' purpose."
+    }
+  ]
+}

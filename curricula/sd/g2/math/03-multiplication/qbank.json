@@ -1,0 +1,98 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "03-multiplication"
+  },
+  "questions": [
+    {
+      "id": "g2-ma-u3mu-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q002",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٧ > ٩",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    },
+    {
+      "id": "g2-ma-u3mu-q003",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q004",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q005",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q006",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    },
+    {
+      "id": "g2-ma-u3mu-q007",
+      "type": "fill_blank",
+      "question": "أكمل الفراغ: ٢ × ___ = ٦",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q008",
+      "type": "short_answer",
+      "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q009",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الوحدة الثالثة: الضرب."
+    },
+    {
+      "id": "g2-ma-u3mu-q010",
+      "type": "true_false",
+      "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+      "answer": true,
+      "explanation": "The statement about الوحدة الثالثة: الضرب is True."
+    }
+  ]
+}

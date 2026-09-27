@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "moral-education",
+    "chapter": "02-justice"
+  },
+  "exams": [
+    {
+      "id": "g11-mor-unit-02-justice-exam",
+      "title": "Exam: Justice & Fairness",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g11-mor-unit-02-justice-01-justice-lq01",
+          "type": "mcq",
+          "question": "Justice means upholding people's:",
+          "options": [
+            "rights fairly",
+            "privileges only",
+            "fonts",
+            "prices"
+          ],
+          "answer": "rights fairly",
+          "explanation": "Justice."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-01-justice-lq02",
+          "type": "true_false",
+          "question": "Rule of law treats everyone equally.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Equality before law."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-01-justice-lq03",
+          "type": "fill_blank",
+          "question": "A system that gives people their due rights is ___.",
+          "answer": "justice",
+          "explanation": "Justice."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-01-justice-lq04",
+          "type": "short_answer",
+          "question": "Why is justice important in society?",
+          "answer": "It protects rights and maintains fairness and order.",
+          "explanation": "Justice."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-02-rights-lq01",
+          "type": "mcq",
+          "question": "Human rights belong to:",
+          "options": [
+            "every person",
+            "some people only",
+            "leaders only",
+            "adults only"
+          ],
+          "answer": "every person",
+          "explanation": "Universal rights."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-02-rights-lq02",
+          "type": "true_false",
+          "question": "Respecting human rights is a shared responsibility.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rights."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-02-rights-lq03",
+          "type": "fill_blank",
+          "question": "Basic freedoms that belong to all people are human ___.",
+          "answer": "rights",
+          "explanation": "Human rights."
+        },
+        {
+          "id": "g11-mor-unit-02-justice-02-rights-lq04",
+          "type": "short_answer",
+          "question": "Name one basic human right.",
+          "answer": "e.g., education, freedom of belief, or fair treatment.",
+          "explanation": "Human rights."
+        }
+      ]
+    }
+  ]
+}

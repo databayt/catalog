@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "islamic-studies"
+  },
+  "questions": [
+    {
+      "id": "g2-isl-unit-01-prayer-01-salah-lq01",
+      "type": "mcq",
+      "question": "كم عدد الصلوات المفروضة في اليوم؟",
+      "options": [
+        "ثلاث",
+        "أربع",
+        "خمس",
+        "ست"
+      ],
+      "answer": "خمس",
+      "explanation": "الصلوات الخمس."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-01-salah-lq02",
+      "type": "true_false",
+      "question": "صلاة الفجر ركعتان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الفجر ركعتان."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-01-salah-lq03",
+      "type": "fill_blank",
+      "question": "أول صلوات اليوم هي صلاة ___.",
+      "answer": "الفجر",
+      "explanation": "الفجر أولاً."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-01-salah-lq04",
+      "type": "short_answer",
+      "question": "اذكر أسماء الصلوات الخمس.",
+      "answer": "الفجر، الظهر، العصر، المغرب، العشاء.",
+      "explanation": "الصلوات."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-02-names-allah-lq01",
+      "type": "mcq",
+      "question": "(الرحمن) من:",
+      "options": [
+        "أسماء الله الحسنى",
+        "أسماء الأنبياء",
+        "المدن",
+        "الملائكة"
+      ],
+      "answer": "أسماء الله الحسنى",
+      "explanation": "اسم من أسمائه."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-02-names-allah-lq02",
+      "type": "true_false",
+      "question": "لله أسماء حسنى كثيرة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأسماء الحسنى."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-02-names-allah-lq03",
+      "type": "fill_blank",
+      "question": "الاسم الذي يدل على سعة رحمة الله هو ___.",
+      "answer": "الرحمن",
+      "explanation": "الرحمن الرحيم."
+    },
+    {
+      "id": "g2-isl-unit-01-prayer-02-names-allah-lq04",
+      "type": "short_answer",
+      "question": "اذكر اسمين من أسماء الله الحسنى.",
+      "answer": "مثل: الرحمن، الرحيم.",
+      "explanation": "الأسماء الحسنى."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq01",
+      "type": "mcq",
+      "question": "الصدق هو قول:",
+      "options": [
+        "الحق",
+        "الكذب",
+        "الباطل",
+        "لا شيء"
+      ],
+      "answer": "الحق",
+      "explanation": "الصدق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq02",
+      "type": "true_false",
+      "question": "الصدق خلق حميد يحبه الله.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأخلاق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq03",
+      "type": "fill_blank",
+      "question": "ضد الصدق هو ___.",
+      "answer": "الكذب",
+      "explanation": "التضاد الأخلاقي."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq04",
+      "type": "short_answer",
+      "question": "لماذا نلتزم الصدق؟",
+      "answer": "لأنه يبني الثقة ويرضي الله.",
+      "explanation": "الصدق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq01",
+      "type": "mcq",
+      "question": "نعامل الكبير بـ:",
+      "options": [
+        "الاحترام",
+        "القسوة",
+        "الإهمال",
+        "رفع الصوت"
+      ],
+      "answer": "الاحترام",
+      "explanation": "الأدب."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq02",
+      "type": "true_false",
+      "question": "من آداب الإسلام احترام الكبير ورحمة الصغير.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأخلاق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq03",
+      "type": "fill_blank",
+      "question": "نقدّم العون لمن هو ___ منا.",
+      "answer": "أكبر",
+      "explanation": "الاحترام."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq04",
+      "type": "short_answer",
+      "question": "اذكر صورة من احترام الكبار.",
+      "answer": "مثل: الإصغاء إليهم ومساعدتهم.",
+      "explanation": "الأخلاق."
+    }
+  ]
+}

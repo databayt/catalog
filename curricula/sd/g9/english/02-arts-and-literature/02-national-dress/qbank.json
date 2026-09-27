@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "02-arts-and-literature",
+    "lesson": "02-national-dress"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-02-02-national-dress-lq01",
+      "type": "mcq",
+      "question": "Which sentence uses the Present Perfect correctly?",
+      "options": [
+        "I have visited Paris twice.",
+        "I visited Paris twice.",
+        "I will visit Paris twice.",
+        "I was visiting Paris twice."
+      ],
+      "answer": "I have visited Paris twice.",
+      "explanation": "Present Perfect uses have/has + past participle for past experiences."
+    },
+    {
+      "id": "g9-eng-unit-02-02-national-dress-lq02",
+      "type": "true_false",
+      "question": "In English, adjectives usually come before the noun they modify.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "In English, adjectives typically precede the noun they describe."
+    },
+    {
+      "id": "g9-eng-unit-02-02-national-dress-lq03",
+      "type": "fill_blank",
+      "question": "She ___ (study) English for five years now.",
+      "answer": "has been studying",
+      "explanation": "Present Perfect Continuous shows an action ongoing from past to present."
+    },
+    {
+      "id": "g9-eng-unit-02-02-national-dress-lq04",
+      "type": "short_answer",
+      "question": "What is the difference between active and passive voice?",
+      "answer": "Active voice: subject performs action (He wrote the letter). Passive voice: subject receives action (The letter was written).",
+      "explanation": "Voice indicates the relationship between subject and verb action."
+    },
+    {
+      "id": "b06d5f94",
+      "type": "mcq",
+      "question": "What are the main parts of speech?",
+      "options": [
+        "Only nouns and verbs",
+        "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+        "Only adjectives",
+        "Only verbs"
+      ],
+      "answer": "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+      "explanation": "These are the eight traditional parts of speech"
+    },
+    {
+      "id": "8597fb5f",
+      "type": "fill_blank",
+      "question": "A ___ is a word that names a person, place, or thing",
+      "answer": "noun",
+      "explanation": "Nouns identify people, places, objects, or ideas"
+    },
+    {
+      "id": "acad731b",
+      "type": "true_false",
+      "question": "Verbs express action or state of being",
+      "answer": true,
+      "explanation": "Verbs show what someone does or is"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq01",
+          "type": "mcq",
+          "question": "A summary is:",
+          "options": [
+            "the whole text",
+            "the main points briefly",
+            "one word",
+            "the title"
+          ],
+          "answer": "the main points briefly",
+          "explanation": "Concise."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq02",
+          "type": "true_false",
+          "question": "Summaries leave out minor detail.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Key points only."
+        },
+        {
+          "id": "g4-eng-unit-02-writing-01-punctuation-lq01",
+          "type": "mcq",
+          "question": "Direct speech is shown with:",
+          "options": [
+            "brackets",
+            "speech marks",
+            "arrows",
+            "stars"
+          ],
+          "answer": "speech marks",
+          "explanation": "Inverted commas."
+        },
+        {
+          "id": "g4-eng-unit-02-writing-01-punctuation-lq02",
+          "type": "true_false",
+          "question": "A new speaker usually starts a new line.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Dialogue rule."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "$comment": "Every structure.json names its source publisher and its contributors from this list. A brand joins by adding itself here in its first PR.",
+  "publishers": [
+    {
+      "id": "databayt",
+      "title": {
+        "ar": "داتابيت",
+        "en": "Databayt"
+      },
+      "url": "https://databayt.org",
+      "kind": "contributor",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "sd-ncerd",
+      "title": {
+        "ar": "المركز القومي للمناهج والبحث التربوي",
+        "en": "National Centre for Curricula and Educational Research (Sudan)"
+      },
+      "kind": "publisher",
+      "license": "LicenseRef-Publisher"
+    },
+    {
+      "id": "aldar",
+      "title": {
+        "ar": "الدار للتعليم",
+        "en": "Aldar Education"
+      },
+      "url": "https://www.aldar.com/education",
+      "kind": "framework",
+      "license": "LicenseRef-Publisher"
+    },
+    {
+      "id": "ncert",
+      "title": {
+        "ar": "المجلس الوطني للبحوث التربوية والتدريب (الهند)",
+        "en": "NCERT"
+      },
+      "url": "https://ncert.nic.in",
+      "kind": "publisher",
+      "license": "LicenseRef-Publisher"
+    },
+    {
+      "id": "ibo",
+      "title": {
+        "ar": "منظمة البكالوريا الدولية",
+        "en": "International Baccalaureate Organization"
+      },
+      "url": "https://www.ibo.org",
+      "kind": "framework",
+      "license": "LicenseRef-Publisher"
+    },
+    {
+      "id": "cambridge",
+      "title": {
+        "ar": "كامبريدج للتقييم الدولي",
+        "en": "Cambridge Assessment International Education"
+      },
+      "url": "https://www.cambridgeinternational.org",
+      "kind": "framework",
+      "license": "LicenseRef-Publisher"
+    }
+  ]
+}

@@ -1,0 +1,7243 @@
+{
+  "curricula": {
+    "sd": "sd",
+    "uk": "gb",
+    "us": "us",
+    "in": "cbse",
+    "ib": "ib-dp",
+    "caie-igcse": "caie-igcse"
+  },
+  "subjects": [
+    {
+      "from": "sd/g1/islamic",
+      "to": "sd/g1/islamic-studies",
+      "dbSlugFrom": "sd-g1-islamic-studies",
+      "dbSlugTo": "sd-g1-islamic-studies"
+    },
+    {
+      "from": "sd/g2/islamic",
+      "to": "sd/g2/islamic-studies",
+      "dbSlugFrom": "sd-g2-islamic-studies",
+      "dbSlugTo": "sd-g2-islamic-studies"
+    },
+    {
+      "from": "sd/g3/islamic",
+      "to": "sd/g3/islamic-studies",
+      "dbSlugFrom": "sd-g3-islamic-studies",
+      "dbSlugTo": "sd-g3-islamic-studies"
+    },
+    {
+      "from": "sd/g4/art",
+      "to": "sd/g4/art",
+      "dbSlugFrom": "sd-g4-arts",
+      "dbSlugTo": "sd-g4-art"
+    },
+    {
+      "from": "sd/g4/english",
+      "to": "sd/g4/english",
+      "dbSlugFrom": "sd-g4-english-v2",
+      "dbSlugTo": "sd-g4-english"
+    },
+    {
+      "from": "sd/g4/ict",
+      "to": "sd/g4/ict",
+      "dbSlugFrom": "sd-g4-computer",
+      "dbSlugTo": "sd-g4-ict"
+    },
+    {
+      "from": "sd/g4/islamic",
+      "to": "sd/g4/islamic-studies",
+      "dbSlugFrom": "sd-g4-islamic-studies",
+      "dbSlugTo": "sd-g4-islamic-studies"
+    },
+    {
+      "from": "sd/g5/art",
+      "to": "sd/g5/art",
+      "dbSlugFrom": "sd-g5-arts",
+      "dbSlugTo": "sd-g5-art"
+    },
+    {
+      "from": "sd/g5/ict",
+      "to": "sd/g5/ict",
+      "dbSlugFrom": "sd-g5-computer",
+      "dbSlugTo": "sd-g5-ict"
+    },
+    {
+      "from": "sd/g5/islamic",
+      "to": "sd/g5/islamic-studies",
+      "dbSlugFrom": "sd-g5-islamic-studies",
+      "dbSlugTo": "sd-g5-islamic-studies"
+    },
+    {
+      "from": "sd/g5/resources",
+      "to": "sd/g5/arabic-reader",
+      "dbSlugFrom": "sd-g5-resources",
+      "dbSlugTo": "sd-g5-arabic-reader"
+    },
+    {
+      "from": "sd/g6/arabic",
+      "to": "sd/g6/arabic",
+      "dbSlugFrom": "sd-g6-arabic-v2",
+      "dbSlugTo": "sd-g6-arabic"
+    },
+    {
+      "from": "sd/g6/art",
+      "to": "sd/g6/art",
+      "dbSlugFrom": "sd-g6-arts",
+      "dbSlugTo": "sd-g6-art"
+    },
+    {
+      "from": "sd/g6/ict",
+      "to": "sd/g6/ict",
+      "dbSlugFrom": "sd-g6-technology",
+      "dbSlugTo": "sd-g6-ict"
+    },
+    {
+      "from": "sd/g6/islamic",
+      "to": "sd/g6/islamic-studies",
+      "dbSlugFrom": "sd-g6-islamic-studies",
+      "dbSlugTo": "sd-g6-islamic-studies"
+    },
+    {
+      "from": "sd/g7/islamic",
+      "to": "sd/g7/islamic-studies",
+      "dbSlugFrom": "sd-g7-islamic-education",
+      "dbSlugTo": "sd-g7-islamic-studies"
+    },
+    {
+      "from": "sd/g8/islamic",
+      "to": "sd/g8/islamic-studies",
+      "dbSlugFrom": "sd-g8-islamic-education",
+      "dbSlugTo": "sd-g8-islamic-studies"
+    },
+    {
+      "from": "sd/g8/technology",
+      "to": "sd/g8/technical-education",
+      "dbSlugFrom": "sd-g8-technology",
+      "dbSlugTo": "sd-g8-technical-education"
+    },
+    {
+      "from": "sd/g9/ict",
+      "to": "sd/g9/ict",
+      "dbSlugFrom": "sd-g9-communication-tech",
+      "dbSlugTo": "sd-g9-ict"
+    },
+    {
+      "from": "sd/g9/islamic",
+      "to": "sd/g9/islamic-studies",
+      "dbSlugFrom": "sd-g9-islamic-studies",
+      "dbSlugTo": "sd-g9-islamic-studies"
+    },
+    {
+      "from": "sd/g10/english",
+      "to": "sd/g10/english",
+      "dbSlugFrom": "sd-g10-english-v2",
+      "dbSlugTo": "sd-g10-english"
+    },
+    {
+      "from": "sd/g10/military-science",
+      "to": "sd/g10/military-science",
+      "dbSlugFrom": "sd-g10-military-sciences",
+      "dbSlugTo": "sd-g10-military-science"
+    },
+    {
+      "from": "sd/g11/arabic-grammar",
+      "to": "sd/g11/arabic-grammar",
+      "dbSlugFrom": "sd-g11-grammar",
+      "dbSlugTo": "sd-g11-arabic-grammar"
+    },
+    {
+      "from": "sd/g11/arabic-literature",
+      "to": "sd/g11/arabic-literature",
+      "dbSlugFrom": "sd-g11-literature",
+      "dbSlugTo": "sd-g11-arabic-literature"
+    },
+    {
+      "from": "sd/g11/arabic-rhetoric",
+      "to": "sd/g11/arabic-rhetoric",
+      "dbSlugFrom": "sd-g11-rhetoric",
+      "dbSlugTo": "sd-g11-arabic-rhetoric"
+    },
+    {
+      "from": "sd/g11/arabic-specialized",
+      "to": "sd/g11/arabic-specialized",
+      "dbSlugFrom": "sd-g11-arabic-advanced",
+      "dbSlugTo": "sd-g11-arabic-specialized"
+    },
+    {
+      "from": "sd/g11/art",
+      "to": "sd/g11/art",
+      "dbSlugFrom": "sd-g11-arts-design",
+      "dbSlugTo": "sd-g11-art"
+    },
+    {
+      "from": "sd/g11/commercial-studies",
+      "to": "sd/g11/commercial-studies",
+      "dbSlugFrom": "sd-g11-commerce",
+      "dbSlugTo": "sd-g11-commercial-studies"
+    },
+    {
+      "from": "sd/g11/home-economics",
+      "to": "sd/g11/home-economics",
+      "dbSlugFrom": "sd-g11-family-sciences",
+      "dbSlugTo": "sd-g11-home-economics"
+    },
+    {
+      "from": "sd/g11/military-science",
+      "to": "sd/g11/military-science",
+      "dbSlugFrom": "sd-g11-military-sciences",
+      "dbSlugTo": "sd-g11-military-science"
+    },
+    {
+      "from": "sd/g11/quran",
+      "to": "sd/g11/quran",
+      "dbSlugFrom": "sd-g11-quran-studies",
+      "dbSlugTo": "sd-g11-quran"
+    },
+    {
+      "from": "sd/g12/arabic-grammar",
+      "to": "sd/g12/arabic-grammar",
+      "dbSlugFrom": "sd-g12-grammar",
+      "dbSlugTo": "sd-g12-arabic-grammar"
+    },
+    {
+      "from": "sd/g12/arabic-literature",
+      "to": "sd/g12/arabic-literature",
+      "dbSlugFrom": "sd-g12-literature",
+      "dbSlugTo": "sd-g12-arabic-literature"
+    },
+    {
+      "from": "sd/g12/arabic-rhetoric",
+      "to": "sd/g12/arabic-rhetoric",
+      "dbSlugFrom": "sd-g12-rhetoric",
+      "dbSlugTo": "sd-g12-arabic-rhetoric"
+    },
+    {
+      "from": "sd/g12/arabic-specialized",
+      "to": "sd/g12/arabic-specialized",
+      "dbSlugFrom": "sd-g12-arabic-advanced",
+      "dbSlugTo": "sd-g12-arabic-specialized"
+    },
+    {
+      "from": "sd/g12/art",
+      "to": "sd/g12/art",
+      "dbSlugFrom": "sd-g12-arts-design",
+      "dbSlugTo": "sd-g12-art"
+    },
+    {
+      "from": "sd/g12/commercial-studies",
+      "to": "sd/g12/commercial-studies",
+      "dbSlugFrom": "sd-g12-commerce",
+      "dbSlugTo": "sd-g12-commercial-studies"
+    },
+    {
+      "from": "sd/g12/home-economics",
+      "to": "sd/g12/home-economics",
+      "dbSlugFrom": "sd-g12-family-sciences",
+      "dbSlugTo": "sd-g12-home-economics"
+    },
+    {
+      "from": "sd/g12/islamic",
+      "to": "sd/g12/islamic-studies",
+      "dbSlugFrom": "sd-g12-islamic-studies",
+      "dbSlugTo": "sd-g12-islamic-studies"
+    },
+    {
+      "from": "sd/g12/math",
+      "to": "sd/g12/math",
+      "dbSlugFrom": "sd-g12-basic-math",
+      "dbSlugTo": "sd-g12-math"
+    },
+    {
+      "from": "sd/g12/military-science",
+      "to": "sd/g12/military-science",
+      "dbSlugFrom": "sd-g12-military-sciences",
+      "dbSlugTo": "sd-g12-military-science"
+    },
+    {
+      "from": "uk/g1/arabic",
+      "to": "gb/g1/arabic",
+      "dbSlugFrom": "gb-g1-arabic",
+      "dbSlugTo": "gb-g1-arabic"
+    },
+    {
+      "from": "uk/g1/art",
+      "to": "gb/g1/art",
+      "dbSlugFrom": "gb-g1-art",
+      "dbSlugTo": "gb-g1-art"
+    },
+    {
+      "from": "uk/g1/computing",
+      "to": "gb/g1/computer-science",
+      "dbSlugFrom": "gb-g1-computing",
+      "dbSlugTo": "gb-g1-computer-science"
+    },
+    {
+      "from": "uk/g1/design-technology",
+      "to": "gb/g1/design-technology",
+      "dbSlugFrom": "gb-g1-design-technology",
+      "dbSlugTo": "gb-g1-design-technology"
+    },
+    {
+      "from": "uk/g1/english",
+      "to": "gb/g1/english",
+      "dbSlugFrom": "gb-g1-english",
+      "dbSlugTo": "gb-g1-english"
+    },
+    {
+      "from": "uk/g1/geography",
+      "to": "gb/g1/geography",
+      "dbSlugFrom": "gb-g1-geography",
+      "dbSlugTo": "gb-g1-geography"
+    },
+    {
+      "from": "uk/g1/history",
+      "to": "gb/g1/history",
+      "dbSlugFrom": "gb-g1-history",
+      "dbSlugTo": "gb-g1-history"
+    },
+    {
+      "from": "uk/g1/islamic",
+      "to": "gb/g1/islamic-studies",
+      "dbSlugFrom": "gb-g1-islamic",
+      "dbSlugTo": "gb-g1-islamic-studies"
+    },
+    {
+      "from": "uk/g1/math",
+      "to": "gb/g1/math",
+      "dbSlugFrom": "gb-g1-math",
+      "dbSlugTo": "gb-g1-math"
+    },
+    {
+      "from": "uk/g1/music",
+      "to": "gb/g1/music",
+      "dbSlugFrom": "gb-g1-music",
+      "dbSlugTo": "gb-g1-music"
+    },
+    {
+      "from": "uk/g1/physical-education",
+      "to": "gb/g1/physical-education",
+      "dbSlugFrom": "gb-g1-physical-education",
+      "dbSlugTo": "gb-g1-physical-education"
+    },
+    {
+      "from": "uk/g1/pshe",
+      "to": "gb/g1/pshe",
+      "dbSlugFrom": "gb-g1-pshe",
+      "dbSlugTo": "gb-g1-pshe"
+    },
+    {
+      "from": "uk/g1/science",
+      "to": "gb/g1/science",
+      "dbSlugFrom": "gb-g1-science",
+      "dbSlugTo": "gb-g1-science"
+    },
+    {
+      "from": "uk/g1/uae-social-studies",
+      "to": "gb/g1/social-studies",
+      "dbSlugFrom": "gb-g1-uae-social-studies",
+      "dbSlugTo": "gb-g1-social-studies"
+    },
+    {
+      "from": "uk/g2/arabic",
+      "to": "gb/g2/arabic",
+      "dbSlugFrom": "gb-g2-arabic",
+      "dbSlugTo": "gb-g2-arabic"
+    },
+    {
+      "from": "uk/g2/art",
+      "to": "gb/g2/art",
+      "dbSlugFrom": "gb-g2-art",
+      "dbSlugTo": "gb-g2-art"
+    },
+    {
+      "from": "uk/g2/computing",
+      "to": "gb/g2/computer-science",
+      "dbSlugFrom": "gb-g2-computing",
+      "dbSlugTo": "gb-g2-computer-science"
+    },
+    {
+      "from": "uk/g2/design-technology",
+      "to": "gb/g2/design-technology",
+      "dbSlugFrom": "gb-g2-design-technology",
+      "dbSlugTo": "gb-g2-design-technology"
+    },
+    {
+      "from": "uk/g2/english",
+      "to": "gb/g2/english",
+      "dbSlugFrom": "gb-g2-english",
+      "dbSlugTo": "gb-g2-english"
+    },
+    {
+      "from": "uk/g2/geography",
+      "to": "gb/g2/geography",
+      "dbSlugFrom": "gb-g2-geography",
+      "dbSlugTo": "gb-g2-geography"
+    },
+    {
+      "from": "uk/g2/history",
+      "to": "gb/g2/history",
+      "dbSlugFrom": "gb-g2-history",
+      "dbSlugTo": "gb-g2-history"
+    },
+    {
+      "from": "uk/g2/islamic",
+      "to": "gb/g2/islamic-studies",
+      "dbSlugFrom": "gb-g2-islamic",
+      "dbSlugTo": "gb-g2-islamic-studies"
+    },
+    {
+      "from": "uk/g2/math",
+      "to": "gb/g2/math",
+      "dbSlugFrom": "gb-g2-math",
+      "dbSlugTo": "gb-g2-math"
+    },
+    {
+      "from": "uk/g2/music",
+      "to": "gb/g2/music",
+      "dbSlugFrom": "gb-g2-music",
+      "dbSlugTo": "gb-g2-music"
+    },
+    {
+      "from": "uk/g2/physical-education",
+      "to": "gb/g2/physical-education",
+      "dbSlugFrom": "gb-g2-physical-education",
+      "dbSlugTo": "gb-g2-physical-education"
+    },
+    {
+      "from": "uk/g2/pshe",
+      "to": "gb/g2/pshe",
+      "dbSlugFrom": "gb-g2-pshe",
+      "dbSlugTo": "gb-g2-pshe"
+    },
+    {
+      "from": "uk/g2/science",
+      "to": "gb/g2/science",
+      "dbSlugFrom": "gb-g2-science",
+      "dbSlugTo": "gb-g2-science"
+    },
+    {
+      "from": "uk/g2/uae-social-studies",
+      "to": "gb/g2/social-studies",
+      "dbSlugFrom": "gb-g2-uae-social-studies",
+      "dbSlugTo": "gb-g2-social-studies"
+    },
+    {
+      "from": "uk/g3/arabic",
+      "to": "gb/g3/arabic",
+      "dbSlugFrom": "gb-g3-arabic",
+      "dbSlugTo": "gb-g3-arabic"
+    },
+    {
+      "from": "uk/g3/art",
+      "to": "gb/g3/art",
+      "dbSlugFrom": "gb-g3-art",
+      "dbSlugTo": "gb-g3-art"
+    },
+    {
+      "from": "uk/g3/computing",
+      "to": "gb/g3/computer-science",
+      "dbSlugFrom": "gb-g3-computing",
+      "dbSlugTo": "gb-g3-computer-science"
+    },
+    {
+      "from": "uk/g3/design-technology",
+      "to": "gb/g3/design-technology",
+      "dbSlugFrom": "gb-g3-design-technology",
+      "dbSlugTo": "gb-g3-design-technology"
+    },
+    {
+      "from": "uk/g3/english",
+      "to": "gb/g3/english",
+      "dbSlugFrom": "gb-g3-english",
+      "dbSlugTo": "gb-g3-english"
+    },
+    {
+      "from": "uk/g3/french",
+      "to": "gb/g3/french",
+      "dbSlugFrom": "gb-g3-french",
+      "dbSlugTo": "gb-g3-french"
+    },
+    {
+      "from": "uk/g3/geography",
+      "to": "gb/g3/geography",
+      "dbSlugFrom": "gb-g3-geography",
+      "dbSlugTo": "gb-g3-geography"
+    },
+    {
+      "from": "uk/g3/history",
+      "to": "gb/g3/history",
+      "dbSlugFrom": "gb-g3-history",
+      "dbSlugTo": "gb-g3-history"
+    },
+    {
+      "from": "uk/g3/islamic",
+      "to": "gb/g3/islamic-studies",
+      "dbSlugFrom": "gb-g3-islamic",
+      "dbSlugTo": "gb-g3-islamic-studies"
+    },
+    {
+      "from": "uk/g3/math",
+      "to": "gb/g3/math",
+      "dbSlugFrom": "gb-g3-math",
+      "dbSlugTo": "gb-g3-math"
+    },
+    {
+      "from": "uk/g3/music",
+      "to": "gb/g3/music",
+      "dbSlugFrom": "gb-g3-music",
+      "dbSlugTo": "gb-g3-music"
+    },
+    {
+      "from": "uk/g3/physical-education",
+      "to": "gb/g3/physical-education",
+      "dbSlugFrom": "gb-g3-physical-education",
+      "dbSlugTo": "gb-g3-physical-education"
+    },
+    {
+      "from": "uk/g3/pshe",
+      "to": "gb/g3/pshe",
+      "dbSlugFrom": "gb-g3-pshe",
+      "dbSlugTo": "gb-g3-pshe"
+    },
+    {
+      "from": "uk/g3/science",
+      "to": "gb/g3/science",
+      "dbSlugFrom": "gb-g3-science",
+      "dbSlugTo": "gb-g3-science"
+    },
+    {
+      "from": "uk/g3/uae-social-studies",
+      "to": "gb/g3/social-studies",
+      "dbSlugFrom": "gb-g3-uae-social-studies",
+      "dbSlugTo": "gb-g3-social-studies"
+    },
+    {
+      "from": "uk/g4/arabic",
+      "to": "gb/g4/arabic",
+      "dbSlugFrom": "gb-g4-arabic",
+      "dbSlugTo": "gb-g4-arabic"
+    },
+    {
+      "from": "uk/g4/art",
+      "to": "gb/g4/art",
+      "dbSlugFrom": "gb-g4-art",
+      "dbSlugTo": "gb-g4-art"
+    },
+    {
+      "from": "uk/g4/computing",
+      "to": "gb/g4/computer-science",
+      "dbSlugFrom": "gb-g4-computing",
+      "dbSlugTo": "gb-g4-computer-science"
+    },
+    {
+      "from": "uk/g4/design-technology",
+      "to": "gb/g4/design-technology",
+      "dbSlugFrom": "gb-g4-design-technology",
+      "dbSlugTo": "gb-g4-design-technology"
+    },
+    {
+      "from": "uk/g4/english",
+      "to": "gb/g4/english",
+      "dbSlugFrom": "gb-g4-english",
+      "dbSlugTo": "gb-g4-english"
+    },
+    {
+      "from": "uk/g4/french",
+      "to": "gb/g4/french",
+      "dbSlugFrom": "gb-g4-french",
+      "dbSlugTo": "gb-g4-french"
+    },
+    {
+      "from": "uk/g4/geography",
+      "to": "gb/g4/geography",
+      "dbSlugFrom": "gb-g4-geography",
+      "dbSlugTo": "gb-g4-geography"
+    },
+    {
+      "from": "uk/g4/history",
+      "to": "gb/g4/history",
+      "dbSlugFrom": "gb-g4-history",
+      "dbSlugTo": "gb-g4-history"
+    },
+    {
+      "from": "uk/g4/islamic",
+      "to": "gb/g4/islamic-studies",
+      "dbSlugFrom": "gb-g4-islamic",
+      "dbSlugTo": "gb-g4-islamic-studies"
+    },
+    {
+      "from": "uk/g4/math",
+      "to": "gb/g4/math",
+      "dbSlugFrom": "gb-g4-math",
+      "dbSlugTo": "gb-g4-math"
+    },
+    {
+      "from": "uk/g4/music",
+      "to": "gb/g4/music",
+      "dbSlugFrom": "gb-g4-music",
+      "dbSlugTo": "gb-g4-music"
+    },
+    {
+      "from": "uk/g4/physical-education",
+      "to": "gb/g4/physical-education",
+      "dbSlugFrom": "gb-g4-physical-education",
+      "dbSlugTo": "gb-g4-physical-education"
+    },
+    {
+      "from": "uk/g4/pshe",
+      "to": "gb/g4/pshe",
+      "dbSlugFrom": "gb-g4-pshe",
+      "dbSlugTo": "gb-g4-pshe"
+    },
+    {
+      "from": "uk/g4/science",
+      "to": "gb/g4/science",
+      "dbSlugFrom": "gb-g4-science",
+      "dbSlugTo": "gb-g4-science"
+    },
+    {
+      "from": "uk/g4/uae-social-studies",
+      "to": "gb/g4/social-studies",
+      "dbSlugFrom": "gb-g4-uae-social-studies",
+      "dbSlugTo": "gb-g4-social-studies"
+    },
+    {
+      "from": "uk/g5/arabic",
+      "to": "gb/g5/arabic",
+      "dbSlugFrom": "gb-g5-arabic",
+      "dbSlugTo": "gb-g5-arabic"
+    },
+    {
+      "from": "uk/g5/art",
+      "to": "gb/g5/art",
+      "dbSlugFrom": "gb-g5-art",
+      "dbSlugTo": "gb-g5-art"
+    },
+    {
+      "from": "uk/g5/computing",
+      "to": "gb/g5/computer-science",
+      "dbSlugFrom": "gb-g5-computing",
+      "dbSlugTo": "gb-g5-computer-science"
+    },
+    {
+      "from": "uk/g5/design-technology",
+      "to": "gb/g5/design-technology",
+      "dbSlugFrom": "gb-g5-design-technology",
+      "dbSlugTo": "gb-g5-design-technology"
+    },
+    {
+      "from": "uk/g5/english",
+      "to": "gb/g5/english",
+      "dbSlugFrom": "gb-g5-english",
+      "dbSlugTo": "gb-g5-english"
+    },
+    {
+      "from": "uk/g5/french",
+      "to": "gb/g5/french",
+      "dbSlugFrom": "gb-g5-french",
+      "dbSlugTo": "gb-g5-french"
+    },
+    {
+      "from": "uk/g5/geography",
+      "to": "gb/g5/geography",
+      "dbSlugFrom": "gb-g5-geography",
+      "dbSlugTo": "gb-g5-geography"
+    },
+    {
+      "from": "uk/g5/history",
+      "to": "gb/g5/history",
+      "dbSlugFrom": "gb-g5-history",
+      "dbSlugTo": "gb-g5-history"
+    },
+    {
+      "from": "uk/g5/islamic",
+      "to": "gb/g5/islamic-studies",
+      "dbSlugFrom": "gb-g5-islamic",
+      "dbSlugTo": "gb-g5-islamic-studies"
+    },
+    {
+      "from": "uk/g5/math",
+      "to": "gb/g5/math",
+      "dbSlugFrom": "gb-g5-math",
+      "dbSlugTo": "gb-g5-math"
+    },
+    {
+      "from": "uk/g5/music",
+      "to": "gb/g5/music",
+      "dbSlugFrom": "gb-g5-music",
+      "dbSlugTo": "gb-g5-music"
+    },
+    {
+      "from": "uk/g5/physical-education",
+      "to": "gb/g5/physical-education",
+      "dbSlugFrom": "gb-g5-physical-education",
+      "dbSlugTo": "gb-g5-physical-education"
+    },
+    {
+      "from": "uk/g5/pshe",
+      "to": "gb/g5/pshe",
+      "dbSlugFrom": "gb-g5-pshe",
+      "dbSlugTo": "gb-g5-pshe"
+    },
+    {
+      "from": "uk/g5/science",
+      "to": "gb/g5/science",
+      "dbSlugFrom": "gb-g5-science",
+      "dbSlugTo": "gb-g5-science"
+    },
+    {
+      "from": "uk/g5/uae-social-studies",
+      "to": "gb/g5/social-studies",
+      "dbSlugFrom": "gb-g5-uae-social-studies",
+      "dbSlugTo": "gb-g5-social-studies"
+    },
+    {
+      "from": "uk/g6/arabic",
+      "to": "gb/g6/arabic",
+      "dbSlugFrom": "gb-g6-arabic",
+      "dbSlugTo": "gb-g6-arabic"
+    },
+    {
+      "from": "uk/g6/art",
+      "to": "gb/g6/art",
+      "dbSlugFrom": "gb-g6-art",
+      "dbSlugTo": "gb-g6-art"
+    },
+    {
+      "from": "uk/g6/computing",
+      "to": "gb/g6/computer-science",
+      "dbSlugFrom": "gb-g6-computing",
+      "dbSlugTo": "gb-g6-computer-science"
+    },
+    {
+      "from": "uk/g6/design-technology",
+      "to": "gb/g6/design-technology",
+      "dbSlugFrom": "gb-g6-design-technology",
+      "dbSlugTo": "gb-g6-design-technology"
+    },
+    {
+      "from": "uk/g6/english",
+      "to": "gb/g6/english",
+      "dbSlugFrom": "gb-g6-english",
+      "dbSlugTo": "gb-g6-english"
+    },
+    {
+      "from": "uk/g6/french",
+      "to": "gb/g6/french",
+      "dbSlugFrom": "gb-g6-french",
+      "dbSlugTo": "gb-g6-french"
+    },
+    {
+      "from": "uk/g6/geography",
+      "to": "gb/g6/geography",
+      "dbSlugFrom": "gb-g6-geography",
+      "dbSlugTo": "gb-g6-geography"
+    },
+    {
+      "from": "uk/g6/history",
+      "to": "gb/g6/history",
+      "dbSlugFrom": "gb-g6-history",
+      "dbSlugTo": "gb-g6-history"
+    },
+    {
+      "from": "uk/g6/islamic",
+      "to": "gb/g6/islamic-studies",
+      "dbSlugFrom": "gb-g6-islamic",
+      "dbSlugTo": "gb-g6-islamic-studies"
+    },
+    {
+      "from": "uk/g6/math",
+      "to": "gb/g6/math",
+      "dbSlugFrom": "gb-g6-math",
+      "dbSlugTo": "gb-g6-math"
+    },
+    {
+      "from": "uk/g6/music",
+      "to": "gb/g6/music",
+      "dbSlugFrom": "gb-g6-music",
+      "dbSlugTo": "gb-g6-music"
+    },
+    {
+      "from": "uk/g6/physical-education",
+      "to": "gb/g6/physical-education",
+      "dbSlugFrom": "gb-g6-physical-education",
+      "dbSlugTo": "gb-g6-physical-education"
+    },
+    {
+      "from": "uk/g6/pshe",
+      "to": "gb/g6/pshe",
+      "dbSlugFrom": "gb-g6-pshe",
+      "dbSlugTo": "gb-g6-pshe"
+    },
+    {
+      "from": "uk/g6/science",
+      "to": "gb/g6/science",
+      "dbSlugFrom": "gb-g6-science",
+      "dbSlugTo": "gb-g6-science"
+    },
+    {
+      "from": "uk/g6/uae-social-studies",
+      "to": "gb/g6/social-studies",
+      "dbSlugFrom": "gb-g6-uae-social-studies",
+      "dbSlugTo": "gb-g6-social-studies"
+    },
+    {
+      "from": "uk/g7/arabic",
+      "to": "gb/g7/arabic",
+      "dbSlugFrom": "gb-g7-arabic",
+      "dbSlugTo": "gb-g7-arabic"
+    },
+    {
+      "from": "uk/g7/art",
+      "to": "gb/g7/art",
+      "dbSlugFrom": "gb-g7-art",
+      "dbSlugTo": "gb-g7-art"
+    },
+    {
+      "from": "uk/g7/citizenship",
+      "to": "gb/g7/citizenship",
+      "dbSlugFrom": "gb-g7-citizenship",
+      "dbSlugTo": "gb-g7-citizenship"
+    },
+    {
+      "from": "uk/g7/computing",
+      "to": "gb/g7/computer-science",
+      "dbSlugFrom": "gb-g7-computing",
+      "dbSlugTo": "gb-g7-computer-science"
+    },
+    {
+      "from": "uk/g7/design-technology",
+      "to": "gb/g7/design-technology",
+      "dbSlugFrom": "gb-g7-design-technology",
+      "dbSlugTo": "gb-g7-design-technology"
+    },
+    {
+      "from": "uk/g7/english",
+      "to": "gb/g7/english",
+      "dbSlugFrom": "gb-g7-english",
+      "dbSlugTo": "gb-g7-english"
+    },
+    {
+      "from": "uk/g7/french",
+      "to": "gb/g7/french",
+      "dbSlugFrom": "gb-g7-french",
+      "dbSlugTo": "gb-g7-french"
+    },
+    {
+      "from": "uk/g7/geography",
+      "to": "gb/g7/geography",
+      "dbSlugFrom": "gb-g7-geography",
+      "dbSlugTo": "gb-g7-geography"
+    },
+    {
+      "from": "uk/g7/history",
+      "to": "gb/g7/history",
+      "dbSlugFrom": "gb-g7-history",
+      "dbSlugTo": "gb-g7-history"
+    },
+    {
+      "from": "uk/g7/islamic",
+      "to": "gb/g7/islamic-studies",
+      "dbSlugFrom": "gb-g7-islamic",
+      "dbSlugTo": "gb-g7-islamic-studies"
+    },
+    {
+      "from": "uk/g7/math",
+      "to": "gb/g7/math",
+      "dbSlugFrom": "gb-g7-math",
+      "dbSlugTo": "gb-g7-math"
+    },
+    {
+      "from": "uk/g7/music",
+      "to": "gb/g7/music",
+      "dbSlugFrom": "gb-g7-music",
+      "dbSlugTo": "gb-g7-music"
+    },
+    {
+      "from": "uk/g7/physical-education",
+      "to": "gb/g7/physical-education",
+      "dbSlugFrom": "gb-g7-physical-education",
+      "dbSlugTo": "gb-g7-physical-education"
+    },
+    {
+      "from": "uk/g7/pshe",
+      "to": "gb/g7/pshe",
+      "dbSlugFrom": "gb-g7-pshe",
+      "dbSlugTo": "gb-g7-pshe"
+    },
+    {
+      "from": "uk/g7/science",
+      "to": "gb/g7/science",
+      "dbSlugFrom": "gb-g7-science",
+      "dbSlugTo": "gb-g7-science"
+    },
+    {
+      "from": "uk/g7/uae-social-studies",
+      "to": "gb/g7/social-studies",
+      "dbSlugFrom": "gb-g7-uae-social-studies",
+      "dbSlugTo": "gb-g7-social-studies"
+    },
+    {
+      "from": "uk/g8/arabic",
+      "to": "gb/g8/arabic",
+      "dbSlugFrom": "gb-g8-arabic",
+      "dbSlugTo": "gb-g8-arabic"
+    },
+    {
+      "from": "uk/g8/art",
+      "to": "gb/g8/art",
+      "dbSlugFrom": "gb-g8-art",
+      "dbSlugTo": "gb-g8-art"
+    },
+    {
+      "from": "uk/g8/citizenship",
+      "to": "gb/g8/citizenship",
+      "dbSlugFrom": "gb-g8-citizenship",
+      "dbSlugTo": "gb-g8-citizenship"
+    },
+    {
+      "from": "uk/g8/computing",
+      "to": "gb/g8/computer-science",
+      "dbSlugFrom": "gb-g8-computing",
+      "dbSlugTo": "gb-g8-computer-science"
+    },
+    {
+      "from": "uk/g8/design-technology",
+      "to": "gb/g8/design-technology",
+      "dbSlugFrom": "gb-g8-design-technology",
+      "dbSlugTo": "gb-g8-design-technology"
+    },
+    {
+      "from": "uk/g8/english",
+      "to": "gb/g8/english",
+      "dbSlugFrom": "gb-g8-english",
+      "dbSlugTo": "gb-g8-english"
+    },
+    {
+      "from": "uk/g8/french",
+      "to": "gb/g8/french",
+      "dbSlugFrom": "gb-g8-french",
+      "dbSlugTo": "gb-g8-french"
+    },
+    {
+      "from": "uk/g8/geography",
+      "to": "gb/g8/geography",
+      "dbSlugFrom": "gb-g8-geography",
+      "dbSlugTo": "gb-g8-geography"
+    },
+    {
+      "from": "uk/g8/history",
+      "to": "gb/g8/history",
+      "dbSlugFrom": "gb-g8-history",
+      "dbSlugTo": "gb-g8-history"
+    },
+    {
+      "from": "uk/g8/islamic",
+      "to": "gb/g8/islamic-studies",
+      "dbSlugFrom": "gb-g8-islamic",
+      "dbSlugTo": "gb-g8-islamic-studies"
+    },
+    {
+      "from": "uk/g8/math",
+      "to": "gb/g8/math",
+      "dbSlugFrom": "gb-g8-math",
+      "dbSlugTo": "gb-g8-math"
+    },
+    {
+      "from": "uk/g8/music",
+      "to": "gb/g8/music",
+      "dbSlugFrom": "gb-g8-music",
+      "dbSlugTo": "gb-g8-music"
+    },
+    {
+      "from": "uk/g8/physical-education",
+      "to": "gb/g8/physical-education",
+      "dbSlugFrom": "gb-g8-physical-education",
+      "dbSlugTo": "gb-g8-physical-education"
+    },
+    {
+      "from": "uk/g8/pshe",
+      "to": "gb/g8/pshe",
+      "dbSlugFrom": "gb-g8-pshe",
+      "dbSlugTo": "gb-g8-pshe"
+    },
+    {
+      "from": "uk/g8/science",
+      "to": "gb/g8/science",
+      "dbSlugFrom": "gb-g8-science",
+      "dbSlugTo": "gb-g8-science"
+    },
+    {
+      "from": "uk/g8/uae-social-studies",
+      "to": "gb/g8/social-studies",
+      "dbSlugFrom": "gb-g8-uae-social-studies",
+      "dbSlugTo": "gb-g8-social-studies"
+    },
+    {
+      "from": "uk/g9/arabic",
+      "to": "gb/g9/arabic",
+      "dbSlugFrom": "gb-g9-arabic",
+      "dbSlugTo": "gb-g9-arabic"
+    },
+    {
+      "from": "uk/g9/art",
+      "to": "gb/g9/art",
+      "dbSlugFrom": "gb-g9-art",
+      "dbSlugTo": "gb-g9-art"
+    },
+    {
+      "from": "uk/g9/citizenship",
+      "to": "gb/g9/citizenship",
+      "dbSlugFrom": "gb-g9-citizenship",
+      "dbSlugTo": "gb-g9-citizenship"
+    },
+    {
+      "from": "uk/g9/computing",
+      "to": "gb/g9/computer-science",
+      "dbSlugFrom": "gb-g9-computing",
+      "dbSlugTo": "gb-g9-computer-science"
+    },
+    {
+      "from": "uk/g9/design-technology",
+      "to": "gb/g9/design-technology",
+      "dbSlugFrom": "gb-g9-design-technology",
+      "dbSlugTo": "gb-g9-design-technology"
+    },
+    {
+      "from": "uk/g9/english",
+      "to": "gb/g9/english",
+      "dbSlugFrom": "gb-g9-english",
+      "dbSlugTo": "gb-g9-english"
+    },
+    {
+      "from": "uk/g9/french",
+      "to": "gb/g9/french",
+      "dbSlugFrom": "gb-g9-french",
+      "dbSlugTo": "gb-g9-french"
+    },
+    {
+      "from": "uk/g9/geography",
+      "to": "gb/g9/geography",
+      "dbSlugFrom": "gb-g9-geography",
+      "dbSlugTo": "gb-g9-geography"
+    },
+    {
+      "from": "uk/g9/history",
+      "to": "gb/g9/history",
+      "dbSlugFrom": "gb-g9-history",
+      "dbSlugTo": "gb-g9-history"
+    },
+    {
+      "from": "uk/g9/islamic",
+      "to": "gb/g9/islamic-studies",
+      "dbSlugFrom": "gb-g9-islamic",
+      "dbSlugTo": "gb-g9-islamic-studies"
+    },
+    {
+      "from": "uk/g9/math",
+      "to": "gb/g9/math",
+      "dbSlugFrom": "gb-g9-math",
+      "dbSlugTo": "gb-g9-math"
+    },
+    {
+      "from": "uk/g9/music",
+      "to": "gb/g9/music",
+      "dbSlugFrom": "gb-g9-music",
+      "dbSlugTo": "gb-g9-music"
+    },
+    {
+      "from": "uk/g9/physical-education",
+      "to": "gb/g9/physical-education",
+      "dbSlugFrom": "gb-g9-physical-education",
+      "dbSlugTo": "gb-g9-physical-education"
+    },
+    {
+      "from": "uk/g9/pshe",
+      "to": "gb/g9/pshe",
+      "dbSlugFrom": "gb-g9-pshe",
+      "dbSlugTo": "gb-g9-pshe"
+    },
+    {
+      "from": "uk/g9/science",
+      "to": "gb/g9/science",
+      "dbSlugFrom": "gb-g9-science",
+      "dbSlugTo": "gb-g9-science"
+    },
+    {
+      "from": "uk/g9/uae-social-studies",
+      "to": "gb/g9/social-studies",
+      "dbSlugFrom": "gb-g9-uae-social-studies",
+      "dbSlugTo": "gb-g9-social-studies"
+    },
+    {
+      "from": "uk/g10/arabic",
+      "to": "gb/g10/arabic",
+      "dbSlugFrom": "gb-g10-arabic",
+      "dbSlugTo": "gb-g10-arabic"
+    },
+    {
+      "from": "uk/g10/art",
+      "to": "gb/g10/art",
+      "dbSlugFrom": "gb-g10-art",
+      "dbSlugTo": "gb-g10-art"
+    },
+    {
+      "from": "uk/g10/biology",
+      "to": "gb/g10/biology",
+      "dbSlugFrom": "gb-g10-biology",
+      "dbSlugTo": "gb-g10-biology"
+    },
+    {
+      "from": "uk/g10/business-studies",
+      "to": "gb/g10/business",
+      "dbSlugFrom": "gb-g10-business-studies",
+      "dbSlugTo": "gb-g10-business"
+    },
+    {
+      "from": "uk/g10/chemistry",
+      "to": "gb/g10/chemistry",
+      "dbSlugFrom": "gb-g10-chemistry",
+      "dbSlugTo": "gb-g10-chemistry"
+    },
+    {
+      "from": "uk/g10/computer-science",
+      "to": "gb/g10/computer-science",
+      "dbSlugFrom": "gb-g10-computer-science",
+      "dbSlugTo": "gb-g10-computer-science"
+    },
+    {
+      "from": "uk/g10/english-language",
+      "to": "gb/g10/english",
+      "dbSlugFrom": "gb-g10-english-language",
+      "dbSlugTo": "gb-g10-english"
+    },
+    {
+      "from": "uk/g10/english-literature",
+      "to": "gb/g10/english-literature",
+      "dbSlugFrom": "gb-g10-english-literature",
+      "dbSlugTo": "gb-g10-english-literature"
+    },
+    {
+      "from": "uk/g10/french",
+      "to": "gb/g10/french",
+      "dbSlugFrom": "gb-g10-french",
+      "dbSlugTo": "gb-g10-french"
+    },
+    {
+      "from": "uk/g10/geography",
+      "to": "gb/g10/geography",
+      "dbSlugFrom": "gb-g10-geography",
+      "dbSlugTo": "gb-g10-geography"
+    },
+    {
+      "from": "uk/g10/history",
+      "to": "gb/g10/history",
+      "dbSlugFrom": "gb-g10-history",
+      "dbSlugTo": "gb-g10-history"
+    },
+    {
+      "from": "uk/g10/islamic",
+      "to": "gb/g10/islamic-studies",
+      "dbSlugFrom": "gb-g10-islamic",
+      "dbSlugTo": "gb-g10-islamic-studies"
+    },
+    {
+      "from": "uk/g10/math",
+      "to": "gb/g10/math",
+      "dbSlugFrom": "gb-g10-math",
+      "dbSlugTo": "gb-g10-math"
+    },
+    {
+      "from": "uk/g10/physical-education",
+      "to": "gb/g10/physical-education",
+      "dbSlugFrom": "gb-g10-physical-education",
+      "dbSlugTo": "gb-g10-physical-education"
+    },
+    {
+      "from": "uk/g10/physics",
+      "to": "gb/g10/physics",
+      "dbSlugFrom": "gb-g10-physics",
+      "dbSlugTo": "gb-g10-physics"
+    },
+    {
+      "from": "uk/g10/uae-social-studies",
+      "to": "gb/g10/social-studies",
+      "dbSlugFrom": "gb-g10-uae-social-studies",
+      "dbSlugTo": "gb-g10-social-studies"
+    },
+    {
+      "from": "uk/g11/arabic",
+      "to": "gb/g11/arabic",
+      "dbSlugFrom": "gb-g11-arabic",
+      "dbSlugTo": "gb-g11-arabic"
+    },
+    {
+      "from": "uk/g11/art",
+      "to": "gb/g11/art",
+      "dbSlugFrom": "gb-g11-art",
+      "dbSlugTo": "gb-g11-art"
+    },
+    {
+      "from": "uk/g11/biology",
+      "to": "gb/g11/biology",
+      "dbSlugFrom": "gb-g11-biology",
+      "dbSlugTo": "gb-g11-biology"
+    },
+    {
+      "from": "uk/g11/business-studies",
+      "to": "gb/g11/business",
+      "dbSlugFrom": "gb-g11-business-studies",
+      "dbSlugTo": "gb-g11-business"
+    },
+    {
+      "from": "uk/g11/chemistry",
+      "to": "gb/g11/chemistry",
+      "dbSlugFrom": "gb-g11-chemistry",
+      "dbSlugTo": "gb-g11-chemistry"
+    },
+    {
+      "from": "uk/g11/computer-science",
+      "to": "gb/g11/computer-science",
+      "dbSlugFrom": "gb-g11-computer-science",
+      "dbSlugTo": "gb-g11-computer-science"
+    },
+    {
+      "from": "uk/g11/english-language",
+      "to": "gb/g11/english",
+      "dbSlugFrom": "gb-g11-english-language",
+      "dbSlugTo": "gb-g11-english"
+    },
+    {
+      "from": "uk/g11/english-literature",
+      "to": "gb/g11/english-literature",
+      "dbSlugFrom": "gb-g11-english-literature",
+      "dbSlugTo": "gb-g11-english-literature"
+    },
+    {
+      "from": "uk/g11/french",
+      "to": "gb/g11/french",
+      "dbSlugFrom": "gb-g11-french",
+      "dbSlugTo": "gb-g11-french"
+    },
+    {
+      "from": "uk/g11/geography",
+      "to": "gb/g11/geography",
+      "dbSlugFrom": "gb-g11-geography",
+      "dbSlugTo": "gb-g11-geography"
+    },
+    {
+      "from": "uk/g11/history",
+      "to": "gb/g11/history",
+      "dbSlugFrom": "gb-g11-history",
+      "dbSlugTo": "gb-g11-history"
+    },
+    {
+      "from": "uk/g11/islamic",
+      "to": "gb/g11/islamic-studies",
+      "dbSlugFrom": "gb-g11-islamic",
+      "dbSlugTo": "gb-g11-islamic-studies"
+    },
+    {
+      "from": "uk/g11/math",
+      "to": "gb/g11/math",
+      "dbSlugFrom": "gb-g11-math",
+      "dbSlugTo": "gb-g11-math"
+    },
+    {
+      "from": "uk/g11/physical-education",
+      "to": "gb/g11/physical-education",
+      "dbSlugFrom": "gb-g11-physical-education",
+      "dbSlugTo": "gb-g11-physical-education"
+    },
+    {
+      "from": "uk/g11/physics",
+      "to": "gb/g11/physics",
+      "dbSlugFrom": "gb-g11-physics",
+      "dbSlugTo": "gb-g11-physics"
+    },
+    {
+      "from": "uk/g11/uae-social-studies",
+      "to": "gb/g11/social-studies",
+      "dbSlugFrom": "gb-g11-uae-social-studies",
+      "dbSlugTo": "gb-g11-social-studies"
+    },
+    {
+      "from": "uk/g12/arabic",
+      "to": "gb/g12/arabic",
+      "dbSlugFrom": "gb-g12-arabic",
+      "dbSlugTo": "gb-g12-arabic"
+    },
+    {
+      "from": "uk/g12/art",
+      "to": "gb/g12/art",
+      "dbSlugFrom": "gb-g12-art",
+      "dbSlugTo": "gb-g12-art"
+    },
+    {
+      "from": "uk/g12/biology",
+      "to": "gb/g12/biology",
+      "dbSlugFrom": "gb-g12-biology",
+      "dbSlugTo": "gb-g12-biology"
+    },
+    {
+      "from": "uk/g12/business",
+      "to": "gb/g12/business",
+      "dbSlugFrom": "gb-g12-business",
+      "dbSlugTo": "gb-g12-business"
+    },
+    {
+      "from": "uk/g12/chemistry",
+      "to": "gb/g12/chemistry",
+      "dbSlugFrom": "gb-g12-chemistry",
+      "dbSlugTo": "gb-g12-chemistry"
+    },
+    {
+      "from": "uk/g12/computer-science",
+      "to": "gb/g12/computer-science",
+      "dbSlugFrom": "gb-g12-computer-science",
+      "dbSlugTo": "gb-g12-computer-science"
+    },
+    {
+      "from": "uk/g12/economics",
+      "to": "gb/g12/economics",
+      "dbSlugFrom": "gb-g12-economics",
+      "dbSlugTo": "gb-g12-economics"
+    },
+    {
+      "from": "uk/g12/english-literature",
+      "to": "gb/g12/english-literature",
+      "dbSlugFrom": "gb-g12-english-literature",
+      "dbSlugTo": "gb-g12-english-literature"
+    },
+    {
+      "from": "uk/g12/further-math",
+      "to": "gb/g12/further-math",
+      "dbSlugFrom": "gb-g12-further-math",
+      "dbSlugTo": "gb-g12-further-math"
+    },
+    {
+      "from": "uk/g12/geography",
+      "to": "gb/g12/geography",
+      "dbSlugFrom": "gb-g12-geography",
+      "dbSlugTo": "gb-g12-geography"
+    },
+    {
+      "from": "uk/g12/history",
+      "to": "gb/g12/history",
+      "dbSlugFrom": "gb-g12-history",
+      "dbSlugTo": "gb-g12-history"
+    },
+    {
+      "from": "uk/g12/islamic",
+      "to": "gb/g12/islamic-studies",
+      "dbSlugFrom": "gb-g12-islamic",
+      "dbSlugTo": "gb-g12-islamic-studies"
+    },
+    {
+      "from": "uk/g12/math",
+      "to": "gb/g12/math",
+      "dbSlugFrom": "gb-g12-math",
+      "dbSlugTo": "gb-g12-math"
+    },
+    {
+      "from": "uk/g12/physics",
+      "to": "gb/g12/physics",
+      "dbSlugFrom": "gb-g12-physics",
+      "dbSlugTo": "gb-g12-physics"
+    },
+    {
+      "from": "uk/g12/psychology",
+      "to": "gb/g12/psychology",
+      "dbSlugFrom": "gb-g12-psychology",
+      "dbSlugTo": "gb-g12-psychology"
+    },
+    {
+      "from": "uk/g12/uae-social-studies",
+      "to": "gb/g12/social-studies",
+      "dbSlugFrom": "gb-g12-uae-social-studies",
+      "dbSlugTo": "gb-g12-social-studies"
+    },
+    {
+      "from": "in/g10/civics",
+      "to": "cbse/g10/civics",
+      "dbSlugFrom": "cbse-g10-civics",
+      "dbSlugTo": "cbse-g10-civics"
+    },
+    {
+      "from": "in/g10/economics",
+      "to": "cbse/g10/economics",
+      "dbSlugFrom": "cbse-g10-economics",
+      "dbSlugTo": "cbse-g10-economics"
+    },
+    {
+      "from": "in/g10/english",
+      "to": "cbse/g10/english",
+      "dbSlugFrom": "cbse-g10-english",
+      "dbSlugTo": "cbse-g10-english"
+    },
+    {
+      "from": "in/g10/geography",
+      "to": "cbse/g10/geography",
+      "dbSlugFrom": "cbse-g10-geography",
+      "dbSlugTo": "cbse-g10-geography"
+    },
+    {
+      "from": "in/g10/history",
+      "to": "cbse/g10/history",
+      "dbSlugFrom": "cbse-g10-history",
+      "dbSlugTo": "cbse-g10-history"
+    },
+    {
+      "from": "in/g10/math",
+      "to": "cbse/g10/math",
+      "dbSlugFrom": "cbse-g10-math",
+      "dbSlugTo": "cbse-g10-math"
+    },
+    {
+      "from": "in/g10/science",
+      "to": "cbse/g10/science",
+      "dbSlugFrom": "cbse-g10-science",
+      "dbSlugTo": "cbse-g10-science"
+    },
+    {
+      "from": "ib/g12/biology",
+      "to": "ib-dp/g12/biology",
+      "dbSlugFrom": "ib-g12-biology",
+      "dbSlugTo": "ib-dp-g12-biology"
+    },
+    {
+      "from": "ib/g12/chemistry",
+      "to": "ib-dp/g12/chemistry",
+      "dbSlugFrom": "ib-g12-chemistry",
+      "dbSlugTo": "ib-dp-g12-chemistry"
+    },
+    {
+      "from": "ib/g12/core",
+      "to": "ib-dp/g12/core",
+      "dbSlugFrom": "ib-g12-core",
+      "dbSlugTo": "ib-dp-g12-core"
+    },
+    {
+      "from": "ib/g12/economics",
+      "to": "ib-dp/g12/economics",
+      "dbSlugFrom": "ib-g12-economics",
+      "dbSlugTo": "ib-dp-g12-economics"
+    },
+    {
+      "from": "ib/g12/english",
+      "to": "ib-dp/g12/english",
+      "dbSlugFrom": "ib-g12-english",
+      "dbSlugTo": "ib-dp-g12-english"
+    },
+    {
+      "from": "ib/g12/history",
+      "to": "ib-dp/g12/history",
+      "dbSlugFrom": "ib-g12-history",
+      "dbSlugTo": "ib-dp-g12-history"
+    },
+    {
+      "from": "ib/g12/math",
+      "to": "ib-dp/g12/math",
+      "dbSlugFrom": "ib-g12-math",
+      "dbSlugTo": "ib-dp-g12-math"
+    },
+    {
+      "from": "ib/g12/physics",
+      "to": "ib-dp/g12/physics",
+      "dbSlugFrom": "ib-g12-physics",
+      "dbSlugTo": "ib-dp-g12-physics"
+    },
+    {
+      "from": "ib/g12/psychology",
+      "to": "ib-dp/g12/psychology",
+      "dbSlugFrom": "ib-g12-psychology",
+      "dbSlugTo": "ib-dp-g12-psychology"
+    },
+    {
+      "from": "caie-igcse/g10/biology",
+      "to": "caie-igcse/g10/biology",
+      "dbSlugFrom": "caie-g10-biology",
+      "dbSlugTo": "caie-igcse-g10-biology"
+    },
+    {
+      "from": "caie-igcse/g10/business-studies",
+      "to": "caie-igcse/g10/business",
+      "dbSlugFrom": "caie-g10-business-studies",
+      "dbSlugTo": "caie-igcse-g10-business"
+    },
+    {
+      "from": "caie-igcse/g10/chemistry",
+      "to": "caie-igcse/g10/chemistry",
+      "dbSlugFrom": "caie-g10-chemistry",
+      "dbSlugTo": "caie-igcse-g10-chemistry"
+    },
+    {
+      "from": "caie-igcse/g10/computer-science",
+      "to": "caie-igcse/g10/computer-science",
+      "dbSlugFrom": "caie-g10-computer-science",
+      "dbSlugTo": "caie-igcse-g10-computer-science"
+    },
+    {
+      "from": "caie-igcse/g10/economics",
+      "to": "caie-igcse/g10/economics",
+      "dbSlugFrom": "caie-g10-economics",
+      "dbSlugTo": "caie-igcse-g10-economics"
+    },
+    {
+      "from": "caie-igcse/g10/english",
+      "to": "caie-igcse/g10/english",
+      "dbSlugFrom": "caie-g10-english",
+      "dbSlugTo": "caie-igcse-g10-english"
+    },
+    {
+      "from": "caie-igcse/g10/math",
+      "to": "caie-igcse/g10/math",
+      "dbSlugFrom": "caie-g10-math",
+      "dbSlugTo": "caie-igcse-g10-math"
+    },
+    {
+      "from": "caie-igcse/g10/physics",
+      "to": "caie-igcse/g10/physics",
+      "dbSlugFrom": "caie-g10-physics",
+      "dbSlugTo": "caie-igcse-g10-physics"
+    }
+  ],
+  "chapters": [
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-1-numbers-100",
+      "to": "01-numbers-100"
+    },
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-2-addition",
+      "to": "02-addition"
+    },
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-3-multiplication",
+      "to": "03-multiplication"
+    },
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-4-division",
+      "to": "04-division"
+    },
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-5-measurement",
+      "to": "05-measurement"
+    },
+    {
+      "subject": "sd-g2-math",
+      "from": "unit-6-geometry",
+      "to": "06-geometry"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-01",
+      "to": "01-welcome-to-english"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-02",
+      "to": "02-numbers"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-03",
+      "to": "03-colours"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-04",
+      "to": "04-about-me"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-05",
+      "to": "05-my-school"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-06",
+      "to": "06-home"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-07",
+      "to": "07-my-family"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-08",
+      "to": "08-toys-and-games"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-09",
+      "to": "09-animals"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-10",
+      "to": "10-food-and-drink"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-11",
+      "to": "11-our-environment"
+    },
+    {
+      "subject": "sd-g3-english",
+      "from": "unit-12",
+      "to": "12-eid-el-fitr"
+    },
+    {
+      "subject": "sd-g3-geography",
+      "from": "unit-01",
+      "to": "01-the-environment-around-us"
+    },
+    {
+      "subject": "sd-g3-geography",
+      "from": "unit-02",
+      "to": "02-my-school-environment"
+    },
+    {
+      "subject": "sd-g3-geography",
+      "from": "unit-03",
+      "to": "03-my-family-environment"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-01",
+      "to": "01-reading-writing-adding-and-subtracting-numbers"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-02",
+      "to": "02-multiplication"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-03",
+      "to": "03-division"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-04",
+      "to": "04-fractions"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-05",
+      "to": "05-measurement"
+    },
+    {
+      "subject": "sd-g3-math",
+      "from": "unit-06",
+      "to": "06-geometry"
+    },
+    {
+      "subject": "sd-g4-art",
+      "from": "unit-1-drawing",
+      "to": "01-drawing"
+    },
+    {
+      "subject": "sd-g4-art",
+      "from": "unit-2-design-decoration",
+      "to": "02-design-decoration"
+    },
+    {
+      "subject": "sd-g4-history",
+      "from": "unit-1-sudan-homeland",
+      "to": "01-sudan-homeland"
+    },
+    {
+      "subject": "sd-g4-ict",
+      "from": "unit-1-ict-introduction",
+      "to": "01-ict-introduction"
+    },
+    {
+      "subject": "sd-g4-ict",
+      "from": "unit-2-computer-around",
+      "to": "02-computer-around"
+    },
+    {
+      "subject": "sd-g4-ict",
+      "from": "unit-3-computer-basics",
+      "to": "03-computer-basics"
+    },
+    {
+      "subject": "sd-g4-ict",
+      "from": "unit-4-computer-safety",
+      "to": "04-computer-safety"
+    },
+    {
+      "subject": "sd-g5-art",
+      "from": "unit-01",
+      "to": "01-drawing"
+    },
+    {
+      "subject": "sd-g5-art",
+      "from": "unit-02",
+      "to": "02-design-and-decoration"
+    },
+    {
+      "subject": "sd-g5-art",
+      "from": "unit-03",
+      "to": "03-forming-and-assembly"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-1",
+      "to": "01-back-to-school"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-2",
+      "to": "02-my-family-and-my-community"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-3",
+      "to": "03-clothes"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-4",
+      "to": "04-animal-partners"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-5",
+      "to": "05-helping-hands"
+    },
+    {
+      "subject": "sd-g5-english",
+      "from": "unit-6",
+      "to": "06-travel-and-holidays"
+    },
+    {
+      "subject": "sd-g5-geography",
+      "from": "unit-01",
+      "to": "01-the-environment-around-us"
+    },
+    {
+      "subject": "sd-g5-geography",
+      "from": "unit-02",
+      "to": "02-my-school"
+    },
+    {
+      "subject": "sd-g5-geography",
+      "from": "unit-03",
+      "to": "03-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "from": "unit-1",
+      "to": "01-from-the-history-of-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "from": "unit-2",
+      "to": "02-the-islamic-state-up-to-the-umayyad-era"
+    },
+    {
+      "subject": "sd-g5-history",
+      "from": "unit-3",
+      "to": "03-from-the-history-of-africa"
+    },
+    {
+      "subject": "sd-g5-history",
+      "from": "unit-4",
+      "to": "04-from-the-history-of-europe"
+    },
+    {
+      "subject": "sd-g5-history",
+      "from": "unit-5",
+      "to": "05-national-education"
+    },
+    {
+      "subject": "sd-g5-home-economics",
+      "from": "unit-01",
+      "to": "01-the-importance-of-clothing"
+    },
+    {
+      "subject": "sd-g5-home-economics",
+      "from": "unit-02",
+      "to": "02-making-clothes"
+    },
+    {
+      "subject": "sd-g5-home-economics",
+      "from": "unit-03",
+      "to": "03-tailoring-and-embroidery"
+    },
+    {
+      "subject": "sd-g5-home-economics",
+      "from": "unit-04",
+      "to": "04-caring-for-clothes"
+    },
+    {
+      "subject": "sd-g5-home-economics",
+      "from": "unit-05",
+      "to": "05-shoes"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "from": "unit-1",
+      "to": "01-processing-and-storing-data-in-the-computer"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "from": "unit-2",
+      "to": "02-the-windows-operating-system"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "from": "unit-3",
+      "to": "03-accessory-programs"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "from": "unit-4",
+      "to": "04-application-software-ms-word"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-01",
+      "to": "01-surahs-of-the-holy-quran"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-02",
+      "to": "02-from-the-prophetic-hadith"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-03",
+      "to": "03-pillars-of-faith"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-04",
+      "to": "04-jurisprudence"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-05",
+      "to": "05-noble-character"
+    },
+    {
+      "subject": "sd-g5-islamic-studies",
+      "from": "unit-06",
+      "to": "06-the-prophets-biography"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-01",
+      "to": "01-natural-numbers-and-their-operations"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-02",
+      "to": "02-fractions-and-their-operations"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-03",
+      "to": "03-decimals-and-their-operations"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-04",
+      "to": "04-ratio-and-proportion"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-05",
+      "to": "05-perimeter-of-plane-shapes"
+    },
+    {
+      "subject": "sd-g5-math",
+      "from": "unit-06",
+      "to": "06-angles-and-triangles"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "from": "unit-1",
+      "to": "01-processing-and-storing-data-in-the-computer"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "from": "unit-2",
+      "to": "02-the-windows-operating-system"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "from": "unit-3",
+      "to": "03-accessory-programs"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "from": "unit-4",
+      "to": "04-application-software-ms-word"
+    },
+    {
+      "subject": "sd-g6-english",
+      "from": "unit-1-anna-and-the-fighter",
+      "to": "01-anna-and-the-fighter"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-01",
+      "to": "01-sets"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-02",
+      "to": "02-the-set-of-integers"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-03",
+      "to": "03-percentages"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-04",
+      "to": "04-algebraic-expressions"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-05",
+      "to": "05-operations-on-sets"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-06",
+      "to": "06-area-of-geometric-shapes"
+    },
+    {
+      "subject": "sd-g6-math",
+      "from": "unit-07",
+      "to": "07-the-pythagorean-theorem"
+    },
+    {
+      "subject": "sd-g7-art",
+      "from": "unit-1-drawing-coloring",
+      "to": "01-drawing-coloring"
+    },
+    {
+      "subject": "sd-g7-art",
+      "from": "unit-2-design-decoration",
+      "to": "02-design-decoration"
+    },
+    {
+      "subject": "sd-g7-art",
+      "from": "unit-3-mixed-materials",
+      "to": "03-mixed-materials"
+    },
+    {
+      "subject": "sd-g7-art",
+      "from": "unit-4-art-appreciation",
+      "to": "04-art-appreciation"
+    },
+    {
+      "subject": "sd-g7-art",
+      "from": "unit-5-arabic-calligraphy",
+      "to": "05-arabic-calligraphy"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-01",
+      "to": "01-welcome-back"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-02",
+      "to": "02-home-sweet-home"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-03",
+      "to": "03-learning-new-things"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-04",
+      "to": "04-technology"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-05",
+      "to": "05-amazing-people"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-06",
+      "to": "06-the-arts"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-07",
+      "to": "07-celebrations"
+    },
+    {
+      "subject": "sd-g7-english",
+      "from": "unit-08",
+      "to": "08-travelling"
+    },
+    {
+      "subject": "sd-g7-history",
+      "from": "unit-1-sudan-history",
+      "to": "01-sudan-history"
+    },
+    {
+      "subject": "sd-g7-history",
+      "from": "unit-2-islamic-state",
+      "to": "02-islamic-state"
+    },
+    {
+      "subject": "sd-g7-history",
+      "from": "unit-3-african-history",
+      "to": "03-african-history"
+    },
+    {
+      "subject": "sd-g7-ict",
+      "from": "unit-1-database-intro",
+      "to": "01-database-intro"
+    },
+    {
+      "subject": "sd-g7-ict",
+      "from": "unit-2-ms-access",
+      "to": "02-ms-access"
+    },
+    {
+      "subject": "sd-g7-ict",
+      "from": "unit-3-internet-basics",
+      "to": "03-internet-basics"
+    },
+    {
+      "subject": "sd-g7-ict",
+      "from": "unit-4-internet-life",
+      "to": "04-internet-life"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-1-tajweed",
+      "to": "01-tajweed"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-2-quran",
+      "to": "02-quran"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-3-quran-fath",
+      "to": "03-quran-fath"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-4-hadith",
+      "to": "04-hadith"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-5-aqeedah",
+      "to": "05-aqeedah"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-6-fiqh",
+      "to": "06-fiqh"
+    },
+    {
+      "subject": "sd-g7-islamic-studies",
+      "from": "unit-7-seerah",
+      "to": "07-seerah"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-1-science-measurement",
+      "to": "01-science-measurement"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-2-force-pressure",
+      "to": "02-force-pressure"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-3-matter-properties",
+      "to": "03-matter-properties"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-4-cell-structure",
+      "to": "04-cell-structure"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-5-invertebrates",
+      "to": "05-invertebrates"
+    },
+    {
+      "subject": "sd-g7-science",
+      "from": "unit-6-organisms-environment",
+      "to": "06-organisms-environment"
+    },
+    {
+      "subject": "sd-g8-art",
+      "from": "unit-1-drawing-painting",
+      "to": "01-drawing-painting"
+    },
+    {
+      "subject": "sd-g8-art",
+      "from": "unit-2-design-decoration",
+      "to": "02-design-decoration"
+    },
+    {
+      "subject": "sd-g8-art",
+      "from": "unit-3-sculpture-ceramics",
+      "to": "03-sculpture-ceramics"
+    },
+    {
+      "subject": "sd-g8-art",
+      "from": "unit-4-art-appreciation",
+      "to": "04-art-appreciation"
+    },
+    {
+      "subject": "sd-g8-art",
+      "from": "unit-5-arabic-calligraphy",
+      "to": "05-arabic-calligraphy"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-01",
+      "to": "01-environment"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-02",
+      "to": "02-stay-healthy"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-03",
+      "to": "03-amazing-places"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-04",
+      "to": "04-school-time"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-05",
+      "to": "05-animals-and-nature"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-06",
+      "to": "06-the-universe"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-07",
+      "to": "07-sport-and-health"
+    },
+    {
+      "subject": "sd-g8-english",
+      "from": "unit-08",
+      "to": "08-looking-back"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-01",
+      "to": "01-unit-one"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-02",
+      "to": "02-unit-two"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-03",
+      "to": "03-unit-three"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-04",
+      "to": "04-unit-four"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-05",
+      "to": "05-unit-five"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-06",
+      "to": "06-unit-six"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-07",
+      "to": "07-unit-seven"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-08",
+      "to": "08-unit-eight"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-09",
+      "to": "09-unit-nine"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-10",
+      "to": "10-unit-ten"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-11",
+      "to": "11-unit-eleven"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-12",
+      "to": "12-unit-twelve"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-13",
+      "to": "13-unit-thirteen"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-14",
+      "to": "14-unit-fourteen"
+    },
+    {
+      "subject": "sd-g9-arabic",
+      "from": "unit-15",
+      "to": "15-unit-fifteen"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-01",
+      "to": "01-people-and-science"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-02",
+      "to": "02-arts-and-literature"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-03",
+      "to": "03-around-the-world"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-04",
+      "to": "04-work-and-play"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-05",
+      "to": "05-food-and-health"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-06",
+      "to": "06-money-and-shopping"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-07",
+      "to": "07-learning"
+    },
+    {
+      "subject": "sd-g9-english",
+      "from": "unit-08",
+      "to": "08-looking-back"
+    },
+    {
+      "subject": "sd-g9-geography",
+      "from": "unit-01",
+      "to": "01-physical-geography-of-sudan"
+    },
+    {
+      "subject": "sd-g9-geography",
+      "from": "unit-02",
+      "to": "02-human-geography-of-sudan"
+    },
+    {
+      "subject": "sd-g9-geography",
+      "from": "unit-03",
+      "to": "03-environmental-problems-in-sudan"
+    },
+    {
+      "subject": "sd-g9-history",
+      "from": "unit-01",
+      "to": "01-the-mahdist-revolution-and-state-1881-1898"
+    },
+    {
+      "subject": "sd-g9-history",
+      "from": "unit-02",
+      "to": "02-the-islamic-state-in-the-ottoman-era"
+    },
+    {
+      "subject": "sd-g9-history",
+      "from": "unit-03",
+      "to": "03-from-the-history-of-africa"
+    },
+    {
+      "subject": "sd-g9-history",
+      "from": "unit-04",
+      "to": "04-from-world-history"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-01",
+      "to": "01-tajweed"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-02",
+      "to": "02-the-holy-quran"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-03",
+      "to": "03-prophetic-hadiths"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-04",
+      "to": "04-creed"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-05",
+      "to": "05-jurisprudence"
+    },
+    {
+      "subject": "sd-g9-islamic-studies",
+      "from": "unit-06",
+      "to": "06-the-prophets-biography"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-01",
+      "to": "01-functions-mappings"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-02",
+      "to": "02-exponents-and-logarithms"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-03",
+      "to": "03-the-cartesian-plane-and-simultaneous-equations"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-04",
+      "to": "04-the-circle"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-05",
+      "to": "05-multiplying-and-factoring-algebraic-expressions"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-06",
+      "to": "06-quadratic-equations"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-07",
+      "to": "07-statistics"
+    },
+    {
+      "subject": "sd-g9-math",
+      "from": "unit-08",
+      "to": "08-volumes"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-01",
+      "to": "01-scientific-models"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-02",
+      "to": "02-electric-charge-and-electric-forces"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-03",
+      "to": "03-electric-current"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-04",
+      "to": "04-chemical-changes"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-05",
+      "to": "05-reproduction"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-06",
+      "to": "06-microorganisms"
+    },
+    {
+      "subject": "sd-g9-science",
+      "from": "unit-07",
+      "to": "07-the-earth"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-1-technical-drawing",
+      "to": "01-technical-drawing"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-2-woodwork",
+      "to": "02-woodwork"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-3-metalwork",
+      "to": "03-metalwork"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-4-electricity",
+      "to": "04-electricity"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-5-electronics",
+      "to": "05-electronics"
+    },
+    {
+      "subject": "sd-g9-technical-education",
+      "from": "unit-6-maintenance",
+      "to": "06-maintenance"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-01",
+      "to": "01-unit-1"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-02",
+      "to": "02-unit-2"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-03",
+      "to": "03-unit-3"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-04",
+      "to": "04-unit-4"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-05",
+      "to": "05-unit-5"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-06",
+      "to": "06-unit-6"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-07",
+      "to": "07-unit-7"
+    },
+    {
+      "subject": "sd-g10-english",
+      "from": "unit-08",
+      "to": "08-unit-8"
+    },
+    {
+      "subject": "sd-g10-french",
+      "from": "module-1",
+      "to": "01-module-1"
+    },
+    {
+      "subject": "sd-g10-french",
+      "from": "module-2",
+      "to": "02-module-2"
+    },
+    {
+      "subject": "sd-g10-geography",
+      "from": "unit-01",
+      "to": "01-foundations-of-physical-geography"
+    },
+    {
+      "subject": "sd-g10-geography",
+      "from": "unit-02",
+      "to": "02-climate-and-natural-phenomena"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-1",
+      "to": "01-introduction-to-family-sciences"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-2",
+      "to": "02-nutrition-and-health"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-3",
+      "to": "03-underweight-and-overweight"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-4",
+      "to": "04-health-and-disease"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-5",
+      "to": "05-family-health-and-infectious-diseases"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "from": "unit-6",
+      "to": "06-household-skills-and-making"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "introduction",
+      "to": "01-introduction"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-1",
+      "to": "02-military-terminology"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-2",
+      "to": "03-introduction-to-military-education"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-3",
+      "to": "04-examples-from-military-history"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-4",
+      "to": "05-total-wars"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-5",
+      "to": "06-modern-wars"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "from": "chapter-6",
+      "to": "07-administrative-and-military-organization"
+    },
+    {
+      "subject": "sd-g10-quran",
+      "from": "unit-1-quran-sciences",
+      "to": "01-quran-sciences"
+    },
+    {
+      "subject": "sd-g10-quran",
+      "from": "unit-2-tajweed",
+      "to": "02-tajweed"
+    },
+    {
+      "subject": "sd-g10-quran",
+      "from": "unit-3-memorization",
+      "to": "03-memorization"
+    },
+    {
+      "subject": "sd-g10-quran",
+      "from": "unit-4-recitation",
+      "to": "04-recitation"
+    },
+    {
+      "subject": "sd-g10-quran",
+      "from": "unit-5-tafseer",
+      "to": "05-tafseer"
+    },
+    {
+      "subject": "gb-g1-arabic",
+      "from": "unit-01-letters",
+      "to": "01-letters"
+    },
+    {
+      "subject": "gb-g1-arabic",
+      "from": "unit-02-harakat",
+      "to": "02-harakat"
+    },
+    {
+      "subject": "gb-g1-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g1-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g1-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g1-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g1-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g1-english",
+      "from": "unit-01-phonics",
+      "to": "01-phonics"
+    },
+    {
+      "subject": "gb-g1-english",
+      "from": "unit-02-reading",
+      "to": "02-reading"
+    },
+    {
+      "subject": "gb-g1-geography",
+      "from": "unit-01-uk",
+      "to": "01-uk"
+    },
+    {
+      "subject": "gb-g1-geography",
+      "from": "unit-02-weather",
+      "to": "02-weather"
+    },
+    {
+      "subject": "gb-g1-history",
+      "from": "unit-01-changes-living-memory",
+      "to": "01-changes-living-memory"
+    },
+    {
+      "subject": "gb-g1-history",
+      "from": "unit-02-significant-people",
+      "to": "02-significant-people"
+    },
+    {
+      "subject": "gb-g1-islamic-studies",
+      "from": "unit-01-pillars-islam",
+      "to": "01-pillars-islam"
+    },
+    {
+      "subject": "gb-g1-islamic-studies",
+      "from": "unit-02-manners",
+      "to": "02-manners"
+    },
+    {
+      "subject": "gb-g1-math",
+      "from": "unit-01-number-to-20",
+      "to": "01-number-to-20"
+    },
+    {
+      "subject": "gb-g1-math",
+      "from": "unit-02-addition",
+      "to": "02-addition"
+    },
+    {
+      "subject": "gb-g1-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g1-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g1-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g1-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g1-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g1-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g1-science",
+      "from": "unit-01-plants",
+      "to": "01-plants"
+    },
+    {
+      "subject": "gb-g1-science",
+      "from": "unit-02-animals",
+      "to": "02-animals"
+    },
+    {
+      "subject": "gb-g1-social-studies",
+      "from": "unit-01-myself-family",
+      "to": "01-myself-family"
+    },
+    {
+      "subject": "gb-g1-social-studies",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "gb-g2-arabic",
+      "from": "unit-01-words",
+      "to": "01-words"
+    },
+    {
+      "subject": "gb-g2-arabic",
+      "from": "unit-02-sentence",
+      "to": "02-sentence"
+    },
+    {
+      "subject": "gb-g2-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g2-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g2-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g2-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g2-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g2-english",
+      "from": "unit-01-grammar",
+      "to": "01-grammar"
+    },
+    {
+      "subject": "gb-g2-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g2-geography",
+      "from": "unit-01-continents-oceans",
+      "to": "01-continents-oceans"
+    },
+    {
+      "subject": "gb-g2-geography",
+      "from": "unit-02-hot-cold",
+      "to": "02-hot-cold"
+    },
+    {
+      "subject": "gb-g2-history",
+      "from": "unit-01-great-fire",
+      "to": "01-great-fire"
+    },
+    {
+      "subject": "gb-g2-history",
+      "from": "unit-02-significant-people",
+      "to": "02-significant-people"
+    },
+    {
+      "subject": "gb-g2-islamic-studies",
+      "from": "unit-01-prayer",
+      "to": "01-prayer"
+    },
+    {
+      "subject": "gb-g2-islamic-studies",
+      "from": "unit-02-akhlaq",
+      "to": "02-akhlaq"
+    },
+    {
+      "subject": "gb-g2-math",
+      "from": "unit-01-place-value-100",
+      "to": "01-place-value-100"
+    },
+    {
+      "subject": "gb-g2-math",
+      "from": "unit-02-multiplication",
+      "to": "02-multiplication"
+    },
+    {
+      "subject": "gb-g2-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g2-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g2-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g2-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g2-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g2-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g2-science",
+      "from": "unit-01-living",
+      "to": "01-living"
+    },
+    {
+      "subject": "gb-g2-science",
+      "from": "unit-02-materials",
+      "to": "02-materials"
+    },
+    {
+      "subject": "gb-g2-social-studies",
+      "from": "unit-01-community",
+      "to": "01-community"
+    },
+    {
+      "subject": "gb-g2-social-studies",
+      "from": "unit-02-respect",
+      "to": "02-respect"
+    },
+    {
+      "subject": "gb-g3-arabic",
+      "from": "unit-01-comprehension",
+      "to": "01-comprehension"
+    },
+    {
+      "subject": "gb-g3-arabic",
+      "from": "unit-02-words",
+      "to": "02-words"
+    },
+    {
+      "subject": "gb-g3-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g3-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g3-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g3-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g3-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g3-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g3-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g3-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g3-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g3-geography",
+      "from": "unit-01-maps",
+      "to": "01-maps"
+    },
+    {
+      "subject": "gb-g3-geography",
+      "from": "unit-02-rivers",
+      "to": "02-rivers"
+    },
+    {
+      "subject": "gb-g3-history",
+      "from": "unit-01-stone-age",
+      "to": "01-stone-age"
+    },
+    {
+      "subject": "gb-g3-history",
+      "from": "unit-02-ancient-egypt",
+      "to": "02-ancient-egypt"
+    },
+    {
+      "subject": "gb-g3-islamic-studies",
+      "from": "unit-01-iman",
+      "to": "01-iman"
+    },
+    {
+      "subject": "gb-g3-islamic-studies",
+      "from": "unit-02-prophets",
+      "to": "02-prophets"
+    },
+    {
+      "subject": "gb-g3-math",
+      "from": "unit-01-place-value-1000",
+      "to": "01-place-value-1000"
+    },
+    {
+      "subject": "gb-g3-math",
+      "from": "unit-02-fractions",
+      "to": "02-fractions"
+    },
+    {
+      "subject": "gb-g3-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g3-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g3-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g3-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g3-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g3-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g3-science",
+      "from": "unit-01-rocks",
+      "to": "01-rocks"
+    },
+    {
+      "subject": "gb-g3-science",
+      "from": "unit-02-light",
+      "to": "02-light"
+    },
+    {
+      "subject": "gb-g3-social-studies",
+      "from": "unit-01-my-country",
+      "to": "01-my-country"
+    },
+    {
+      "subject": "gb-g3-social-studies",
+      "from": "unit-02-tolerance",
+      "to": "02-tolerance"
+    },
+    {
+      "subject": "gb-g4-arabic",
+      "from": "unit-01-sentence",
+      "to": "01-sentence"
+    },
+    {
+      "subject": "gb-g4-arabic",
+      "from": "unit-02-spelling",
+      "to": "02-spelling"
+    },
+    {
+      "subject": "gb-g4-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g4-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g4-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g4-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g4-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g4-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g4-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g4-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g4-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g4-geography",
+      "from": "unit-01-mountains-volcanoes",
+      "to": "01-mountains-volcanoes"
+    },
+    {
+      "subject": "gb-g4-geography",
+      "from": "unit-02-climate-biomes",
+      "to": "02-climate-biomes"
+    },
+    {
+      "subject": "gb-g4-history",
+      "from": "unit-01-roman-britain",
+      "to": "01-roman-britain"
+    },
+    {
+      "subject": "gb-g4-history",
+      "from": "unit-02-ancient-greece",
+      "to": "02-ancient-greece"
+    },
+    {
+      "subject": "gb-g4-islamic-studies",
+      "from": "unit-01-zakat-sawm",
+      "to": "01-zakat-sawm"
+    },
+    {
+      "subject": "gb-g4-islamic-studies",
+      "from": "unit-02-seerah",
+      "to": "02-seerah"
+    },
+    {
+      "subject": "gb-g4-math",
+      "from": "unit-01-number",
+      "to": "01-number"
+    },
+    {
+      "subject": "gb-g4-math",
+      "from": "unit-02-decimals",
+      "to": "02-decimals"
+    },
+    {
+      "subject": "gb-g4-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g4-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g4-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g4-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g4-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g4-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g4-science",
+      "from": "unit-01-states",
+      "to": "01-states"
+    },
+    {
+      "subject": "gb-g4-science",
+      "from": "unit-02-sound-electricity",
+      "to": "02-sound-electricity"
+    },
+    {
+      "subject": "gb-g4-social-studies",
+      "from": "unit-01-geography",
+      "to": "01-geography"
+    },
+    {
+      "subject": "gb-g4-social-studies",
+      "from": "unit-02-empathy",
+      "to": "02-empathy"
+    },
+    {
+      "subject": "gb-g5-arabic",
+      "from": "unit-01-grammar",
+      "to": "01-grammar"
+    },
+    {
+      "subject": "gb-g5-arabic",
+      "from": "unit-02-tenses",
+      "to": "02-tenses"
+    },
+    {
+      "subject": "gb-g5-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g5-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g5-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g5-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g5-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g5-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g5-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g5-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g5-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g5-geography",
+      "from": "unit-01-settlements",
+      "to": "01-settlements"
+    },
+    {
+      "subject": "gb-g5-geography",
+      "from": "unit-02-region-uae",
+      "to": "02-region-uae"
+    },
+    {
+      "subject": "gb-g5-history",
+      "from": "unit-01-anglo-saxons-vikings",
+      "to": "01-anglo-saxons-vikings"
+    },
+    {
+      "subject": "gb-g5-history",
+      "from": "unit-02-early-islamic",
+      "to": "02-early-islamic"
+    },
+    {
+      "subject": "gb-g5-islamic-studies",
+      "from": "unit-01-quran",
+      "to": "01-quran"
+    },
+    {
+      "subject": "gb-g5-islamic-studies",
+      "from": "unit-02-akhlaq",
+      "to": "02-akhlaq"
+    },
+    {
+      "subject": "gb-g5-math",
+      "from": "unit-01-number",
+      "to": "01-number"
+    },
+    {
+      "subject": "gb-g5-math",
+      "from": "unit-02-fractions-decimals-percent",
+      "to": "02-fractions-decimals-percent"
+    },
+    {
+      "subject": "gb-g5-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g5-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g5-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g5-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g5-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g5-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g5-science",
+      "from": "unit-01-earth-space",
+      "to": "01-earth-space"
+    },
+    {
+      "subject": "gb-g5-science",
+      "from": "unit-02-materials",
+      "to": "02-materials"
+    },
+    {
+      "subject": "gb-g5-social-studies",
+      "from": "unit-01-history",
+      "to": "01-history"
+    },
+    {
+      "subject": "gb-g5-social-studies",
+      "from": "unit-02-civic",
+      "to": "02-civic"
+    },
+    {
+      "subject": "gb-g6-arabic",
+      "from": "unit-01-tenses",
+      "to": "01-tenses"
+    },
+    {
+      "subject": "gb-g6-arabic",
+      "from": "unit-02-naat-idafa",
+      "to": "02-naat-idafa"
+    },
+    {
+      "subject": "gb-g6-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g6-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "gb-g6-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "gb-g6-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "gb-g6-design-technology",
+      "from": "unit-01-design",
+      "to": "01-design"
+    },
+    {
+      "subject": "gb-g6-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g6-english",
+      "from": "unit-02-grammar",
+      "to": "02-grammar"
+    },
+    {
+      "subject": "gb-g6-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g6-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g6-geography",
+      "from": "unit-01-trade-resources",
+      "to": "01-trade-resources"
+    },
+    {
+      "subject": "gb-g6-geography",
+      "from": "unit-02-map-fieldwork",
+      "to": "02-map-fieldwork"
+    },
+    {
+      "subject": "gb-g6-history",
+      "from": "unit-01-maya",
+      "to": "01-maya"
+    },
+    {
+      "subject": "gb-g6-history",
+      "from": "unit-02-britain-wwii",
+      "to": "02-britain-wwii"
+    },
+    {
+      "subject": "gb-g6-islamic-studies",
+      "from": "unit-01-seerah",
+      "to": "01-seerah"
+    },
+    {
+      "subject": "gb-g6-islamic-studies",
+      "from": "unit-02-worship",
+      "to": "02-worship"
+    },
+    {
+      "subject": "gb-g6-math",
+      "from": "unit-01-ratio-algebra",
+      "to": "01-ratio-algebra"
+    },
+    {
+      "subject": "gb-g6-math",
+      "from": "unit-02-geometry",
+      "to": "02-geometry"
+    },
+    {
+      "subject": "gb-g6-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "gb-g6-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "gb-g6-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "gb-g6-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "gb-g6-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g6-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g6-science",
+      "from": "unit-01-living",
+      "to": "01-living"
+    },
+    {
+      "subject": "gb-g6-science",
+      "from": "unit-02-electricity-light",
+      "to": "02-electricity-light"
+    },
+    {
+      "subject": "gb-g6-social-studies",
+      "from": "unit-01-heritage",
+      "to": "01-heritage"
+    },
+    {
+      "subject": "gb-g6-social-studies",
+      "from": "unit-02-respect-diversity",
+      "to": "02-respect-diversity"
+    },
+    {
+      "subject": "gb-g7-arabic",
+      "from": "unit-01-syntax",
+      "to": "01-syntax"
+    },
+    {
+      "subject": "gb-g7-arabic",
+      "from": "unit-02-verbs",
+      "to": "02-verbs"
+    },
+    {
+      "subject": "gb-g7-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g7-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g7-citizenship",
+      "from": "unit-01-democracy",
+      "to": "01-democracy"
+    },
+    {
+      "subject": "gb-g7-citizenship",
+      "from": "unit-02-society",
+      "to": "02-society"
+    },
+    {
+      "subject": "gb-g7-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g7-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g7-design-technology",
+      "from": "unit-01-design-process",
+      "to": "01-design-process"
+    },
+    {
+      "subject": "gb-g7-design-technology",
+      "from": "unit-02-materials",
+      "to": "02-materials"
+    },
+    {
+      "subject": "gb-g7-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g7-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g7-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g7-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g7-geography",
+      "from": "unit-01-tectonics",
+      "to": "01-tectonics"
+    },
+    {
+      "subject": "gb-g7-geography",
+      "from": "unit-02-weather-climate",
+      "to": "02-weather-climate"
+    },
+    {
+      "subject": "gb-g7-history",
+      "from": "unit-01-norman-conquest",
+      "to": "01-norman-conquest"
+    },
+    {
+      "subject": "gb-g7-history",
+      "from": "unit-02-medieval-church",
+      "to": "02-medieval-church"
+    },
+    {
+      "subject": "gb-g7-islamic-studies",
+      "from": "unit-01-worship-akhlaq",
+      "to": "01-worship-akhlaq"
+    },
+    {
+      "subject": "gb-g7-islamic-studies",
+      "from": "unit-02-quran",
+      "to": "02-quran"
+    },
+    {
+      "subject": "gb-g7-math",
+      "from": "unit-01-number",
+      "to": "01-number"
+    },
+    {
+      "subject": "gb-g7-math",
+      "from": "unit-02-algebra",
+      "to": "02-algebra"
+    },
+    {
+      "subject": "gb-g7-music",
+      "from": "unit-01-theory",
+      "to": "01-theory"
+    },
+    {
+      "subject": "gb-g7-music",
+      "from": "unit-02-composing",
+      "to": "02-composing"
+    },
+    {
+      "subject": "gb-g7-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "gb-g7-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "gb-g7-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g7-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g7-science",
+      "from": "unit-01-biology",
+      "to": "01-biology"
+    },
+    {
+      "subject": "gb-g7-science",
+      "from": "unit-02-chemistry",
+      "to": "02-chemistry"
+    },
+    {
+      "subject": "gb-g7-social-studies",
+      "from": "unit-01-government",
+      "to": "01-government"
+    },
+    {
+      "subject": "gb-g7-social-studies",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "gb-g8-arabic",
+      "from": "unit-01-kana",
+      "to": "01-kana"
+    },
+    {
+      "subject": "gb-g8-arabic",
+      "from": "unit-02-definite",
+      "to": "02-definite"
+    },
+    {
+      "subject": "gb-g8-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g8-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g8-citizenship",
+      "from": "unit-01-democracy",
+      "to": "01-democracy"
+    },
+    {
+      "subject": "gb-g8-citizenship",
+      "from": "unit-02-society",
+      "to": "02-society"
+    },
+    {
+      "subject": "gb-g8-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g8-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g8-design-technology",
+      "from": "unit-01-design-process",
+      "to": "01-design-process"
+    },
+    {
+      "subject": "gb-g8-design-technology",
+      "from": "unit-02-materials",
+      "to": "02-materials"
+    },
+    {
+      "subject": "gb-g8-english",
+      "from": "unit-01-shakespeare",
+      "to": "01-shakespeare"
+    },
+    {
+      "subject": "gb-g8-english",
+      "from": "unit-02-nonfiction",
+      "to": "02-nonfiction"
+    },
+    {
+      "subject": "gb-g8-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g8-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g8-geography",
+      "from": "unit-01-population",
+      "to": "01-population"
+    },
+    {
+      "subject": "gb-g8-geography",
+      "from": "unit-02-development",
+      "to": "02-development"
+    },
+    {
+      "subject": "gb-g8-history",
+      "from": "unit-01-tudors",
+      "to": "01-tudors"
+    },
+    {
+      "subject": "gb-g8-history",
+      "from": "unit-02-civil-war-empire",
+      "to": "02-civil-war-empire"
+    },
+    {
+      "subject": "gb-g8-islamic-studies",
+      "from": "unit-01-fiqh-sahaba",
+      "to": "01-fiqh-sahaba"
+    },
+    {
+      "subject": "gb-g8-islamic-studies",
+      "from": "unit-02-muamalat",
+      "to": "02-muamalat"
+    },
+    {
+      "subject": "gb-g8-math",
+      "from": "unit-01-ratio-proportion",
+      "to": "01-ratio-proportion"
+    },
+    {
+      "subject": "gb-g8-math",
+      "from": "unit-02-geometry",
+      "to": "02-geometry"
+    },
+    {
+      "subject": "gb-g8-music",
+      "from": "unit-01-theory",
+      "to": "01-theory"
+    },
+    {
+      "subject": "gb-g8-music",
+      "from": "unit-02-composing",
+      "to": "02-composing"
+    },
+    {
+      "subject": "gb-g8-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "gb-g8-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "gb-g8-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g8-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g8-science",
+      "from": "unit-01-physics",
+      "to": "01-physics"
+    },
+    {
+      "subject": "gb-g8-science",
+      "from": "unit-02-biology",
+      "to": "02-biology"
+    },
+    {
+      "subject": "gb-g8-social-studies",
+      "from": "unit-01-uae-world",
+      "to": "01-uae-world"
+    },
+    {
+      "subject": "gb-g8-social-studies",
+      "from": "unit-02-decision",
+      "to": "02-decision"
+    },
+    {
+      "subject": "gb-g9-arabic",
+      "from": "unit-01-inna",
+      "to": "01-inna"
+    },
+    {
+      "subject": "gb-g9-arabic",
+      "from": "unit-02-styles",
+      "to": "02-styles"
+    },
+    {
+      "subject": "gb-g9-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g9-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g9-citizenship",
+      "from": "unit-01-democracy",
+      "to": "01-democracy"
+    },
+    {
+      "subject": "gb-g9-citizenship",
+      "from": "unit-02-society",
+      "to": "02-society"
+    },
+    {
+      "subject": "gb-g9-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g9-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g9-design-technology",
+      "from": "unit-01-design-process",
+      "to": "01-design-process"
+    },
+    {
+      "subject": "gb-g9-design-technology",
+      "from": "unit-02-materials",
+      "to": "02-materials"
+    },
+    {
+      "subject": "gb-g9-english",
+      "from": "unit-01-poetry",
+      "to": "01-poetry"
+    },
+    {
+      "subject": "gb-g9-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g9-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g9-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g9-geography",
+      "from": "unit-01-rivers-coasts",
+      "to": "01-rivers-coasts"
+    },
+    {
+      "subject": "gb-g9-geography",
+      "from": "unit-02-resources",
+      "to": "02-resources"
+    },
+    {
+      "subject": "gb-g9-history",
+      "from": "unit-01-industrial-revolution",
+      "to": "01-industrial-revolution"
+    },
+    {
+      "subject": "gb-g9-history",
+      "from": "unit-02-wwi",
+      "to": "02-wwi"
+    },
+    {
+      "subject": "gb-g9-islamic-studies",
+      "from": "unit-01-aqeedah-akhlaq",
+      "to": "01-aqeedah-akhlaq"
+    },
+    {
+      "subject": "gb-g9-islamic-studies",
+      "from": "unit-02-fiqh",
+      "to": "02-fiqh"
+    },
+    {
+      "subject": "gb-g9-math",
+      "from": "unit-01-algebra",
+      "to": "01-algebra"
+    },
+    {
+      "subject": "gb-g9-math",
+      "from": "unit-02-pythagoras",
+      "to": "02-pythagoras"
+    },
+    {
+      "subject": "gb-g9-music",
+      "from": "unit-01-theory",
+      "to": "01-theory"
+    },
+    {
+      "subject": "gb-g9-music",
+      "from": "unit-02-composing",
+      "to": "02-composing"
+    },
+    {
+      "subject": "gb-g9-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "gb-g9-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "gb-g9-pshe",
+      "from": "unit-01-wellbeing",
+      "to": "01-wellbeing"
+    },
+    {
+      "subject": "gb-g9-pshe",
+      "from": "unit-02-relationships",
+      "to": "02-relationships"
+    },
+    {
+      "subject": "gb-g9-science",
+      "from": "unit-01-chemistry",
+      "to": "01-chemistry"
+    },
+    {
+      "subject": "gb-g9-science",
+      "from": "unit-02-physics",
+      "to": "02-physics"
+    },
+    {
+      "subject": "gb-g9-social-studies",
+      "from": "unit-01-economy",
+      "to": "01-economy"
+    },
+    {
+      "subject": "gb-g9-social-studies",
+      "from": "unit-02-ethics",
+      "to": "02-ethics"
+    },
+    {
+      "subject": "gb-g10-arabic",
+      "from": "unit-01-texts",
+      "to": "01-texts"
+    },
+    {
+      "subject": "gb-g10-arabic",
+      "from": "unit-02-bayan",
+      "to": "02-bayan"
+    },
+    {
+      "subject": "gb-g10-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g10-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g10-biology",
+      "from": "unit-01-cell-biology",
+      "to": "01-cell-biology"
+    },
+    {
+      "subject": "gb-g10-biology",
+      "from": "unit-02-organisation",
+      "to": "02-organisation"
+    },
+    {
+      "subject": "gb-g10-business",
+      "from": "unit-01-enterprise",
+      "to": "01-enterprise"
+    },
+    {
+      "subject": "gb-g10-business",
+      "from": "unit-02-finance",
+      "to": "02-finance"
+    },
+    {
+      "subject": "gb-g10-chemistry",
+      "from": "unit-01-atomic-structure",
+      "to": "01-atomic-structure"
+    },
+    {
+      "subject": "gb-g10-chemistry",
+      "from": "unit-02-bonding",
+      "to": "02-bonding"
+    },
+    {
+      "subject": "gb-g10-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g10-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g10-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "gb-g10-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g10-english-literature",
+      "from": "unit-01-shakespeare",
+      "to": "01-shakespeare"
+    },
+    {
+      "subject": "gb-g10-english-literature",
+      "from": "unit-02-novel",
+      "to": "02-novel"
+    },
+    {
+      "subject": "gb-g10-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g10-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g10-geography",
+      "from": "unit-01-living-world",
+      "to": "01-living-world"
+    },
+    {
+      "subject": "gb-g10-geography",
+      "from": "unit-02-physical-landscapes",
+      "to": "02-physical-landscapes"
+    },
+    {
+      "subject": "gb-g10-history",
+      "from": "unit-01-germany",
+      "to": "01-germany"
+    },
+    {
+      "subject": "gb-g10-history",
+      "from": "unit-02-conflict-tension",
+      "to": "02-conflict-tension"
+    },
+    {
+      "subject": "gb-g10-islamic-studies",
+      "from": "unit-01-quran-fiqh",
+      "to": "01-quran-fiqh"
+    },
+    {
+      "subject": "gb-g10-islamic-studies",
+      "from": "unit-02-hadith",
+      "to": "02-hadith"
+    },
+    {
+      "subject": "gb-g10-math",
+      "from": "unit-01-algebra",
+      "to": "01-algebra"
+    },
+    {
+      "subject": "gb-g10-math",
+      "from": "unit-02-geometry",
+      "to": "02-geometry"
+    },
+    {
+      "subject": "gb-g10-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "gb-g10-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "gb-g10-physics",
+      "from": "unit-01-energy",
+      "to": "01-energy"
+    },
+    {
+      "subject": "gb-g10-physics",
+      "from": "unit-02-electricity",
+      "to": "02-electricity"
+    },
+    {
+      "subject": "gb-g10-social-studies",
+      "from": "unit-01-sustainability",
+      "to": "01-sustainability"
+    },
+    {
+      "subject": "gb-g10-social-studies",
+      "from": "unit-02-responsibility",
+      "to": "02-responsibility"
+    },
+    {
+      "subject": "gb-g11-arabic",
+      "from": "unit-01-poetry-prose",
+      "to": "01-poetry-prose"
+    },
+    {
+      "subject": "gb-g11-arabic",
+      "from": "unit-02-arud",
+      "to": "02-arud"
+    },
+    {
+      "subject": "gb-g11-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g11-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g11-biology",
+      "from": "unit-01-bioenergetics",
+      "to": "01-bioenergetics"
+    },
+    {
+      "subject": "gb-g11-biology",
+      "from": "unit-02-ecology",
+      "to": "02-ecology"
+    },
+    {
+      "subject": "gb-g11-business",
+      "from": "unit-01-enterprise",
+      "to": "01-enterprise"
+    },
+    {
+      "subject": "gb-g11-business",
+      "from": "unit-02-finance",
+      "to": "02-finance"
+    },
+    {
+      "subject": "gb-g11-chemistry",
+      "from": "unit-01-chemical-changes",
+      "to": "01-chemical-changes"
+    },
+    {
+      "subject": "gb-g11-chemistry",
+      "from": "unit-02-rates-energy",
+      "to": "02-rates-energy"
+    },
+    {
+      "subject": "gb-g11-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g11-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g11-english",
+      "from": "unit-01-nonfiction",
+      "to": "01-nonfiction"
+    },
+    {
+      "subject": "gb-g11-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "gb-g11-english-literature",
+      "from": "unit-01-modern",
+      "to": "01-modern"
+    },
+    {
+      "subject": "gb-g11-english-literature",
+      "from": "unit-02-poetry",
+      "to": "02-poetry"
+    },
+    {
+      "subject": "gb-g11-french",
+      "from": "unit-01-greetings",
+      "to": "01-greetings"
+    },
+    {
+      "subject": "gb-g11-french",
+      "from": "unit-02-daily-life",
+      "to": "02-daily-life"
+    },
+    {
+      "subject": "gb-g11-geography",
+      "from": "unit-01-urban",
+      "to": "01-urban"
+    },
+    {
+      "subject": "gb-g11-geography",
+      "from": "unit-02-economic-world",
+      "to": "02-economic-world"
+    },
+    {
+      "subject": "gb-g11-history",
+      "from": "unit-01-cold-war",
+      "to": "01-cold-war"
+    },
+    {
+      "subject": "gb-g11-history",
+      "from": "unit-02-medicine",
+      "to": "02-medicine"
+    },
+    {
+      "subject": "gb-g11-islamic-studies",
+      "from": "unit-01-hadith-values",
+      "to": "01-hadith-values"
+    },
+    {
+      "subject": "gb-g11-islamic-studies",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "gb-g11-math",
+      "from": "unit-01-number-ratio",
+      "to": "01-number-ratio"
+    },
+    {
+      "subject": "gb-g11-math",
+      "from": "unit-02-statistics",
+      "to": "02-statistics"
+    },
+    {
+      "subject": "gb-g11-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "gb-g11-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "gb-g11-physics",
+      "from": "unit-01-forces",
+      "to": "01-forces"
+    },
+    {
+      "subject": "gb-g11-physics",
+      "from": "unit-02-waves",
+      "to": "02-waves"
+    },
+    {
+      "subject": "gb-g11-social-studies",
+      "from": "unit-01-identity",
+      "to": "01-identity"
+    },
+    {
+      "subject": "gb-g11-social-studies",
+      "from": "unit-02-justice",
+      "to": "02-justice"
+    },
+    {
+      "subject": "gb-g12-arabic",
+      "from": "unit-01-criticism",
+      "to": "01-criticism"
+    },
+    {
+      "subject": "gb-g12-arabic",
+      "from": "unit-02-schools",
+      "to": "02-schools"
+    },
+    {
+      "subject": "gb-g12-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "gb-g12-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "gb-g12-biology",
+      "from": "unit-01-molecules",
+      "to": "01-molecules"
+    },
+    {
+      "subject": "gb-g12-biology",
+      "from": "unit-02-cells-transport",
+      "to": "02-cells-transport"
+    },
+    {
+      "subject": "gb-g12-business",
+      "from": "unit-01-enterprise",
+      "to": "01-enterprise"
+    },
+    {
+      "subject": "gb-g12-business",
+      "from": "unit-02-finance",
+      "to": "02-finance"
+    },
+    {
+      "subject": "gb-g12-chemistry",
+      "from": "unit-01-physical-chemistry",
+      "to": "01-physical-chemistry"
+    },
+    {
+      "subject": "gb-g12-chemistry",
+      "from": "unit-02-inorganic-chemistry",
+      "to": "02-inorganic-chemistry"
+    },
+    {
+      "subject": "gb-g12-chemistry",
+      "from": "unit-03-organic-chemistry",
+      "to": "03-organic-chemistry"
+    },
+    {
+      "subject": "gb-g12-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "gb-g12-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "gb-g12-economics",
+      "from": "unit-01-micro",
+      "to": "01-micro"
+    },
+    {
+      "subject": "gb-g12-economics",
+      "from": "unit-02-macro",
+      "to": "02-macro"
+    },
+    {
+      "subject": "gb-g12-english-literature",
+      "from": "unit-01-tragedy",
+      "to": "01-tragedy"
+    },
+    {
+      "subject": "gb-g12-english-literature",
+      "from": "unit-02-poetry-criticism",
+      "to": "02-poetry-criticism"
+    },
+    {
+      "subject": "gb-g12-further-math",
+      "from": "unit-01-core-pure",
+      "to": "01-core-pure"
+    },
+    {
+      "subject": "gb-g12-further-math",
+      "from": "unit-02-further",
+      "to": "02-further"
+    },
+    {
+      "subject": "gb-g12-geography",
+      "from": "unit-01-water-carbon",
+      "to": "01-water-carbon"
+    },
+    {
+      "subject": "gb-g12-geography",
+      "from": "unit-02-global-places",
+      "to": "02-global-places"
+    },
+    {
+      "subject": "gb-g12-history",
+      "from": "unit-01-tudors-breadth",
+      "to": "01-tudors-breadth"
+    },
+    {
+      "subject": "gb-g12-history",
+      "from": "unit-02-cold-war-depth",
+      "to": "02-cold-war-depth"
+    },
+    {
+      "subject": "gb-g12-islamic-studies",
+      "from": "unit-01-thought-contemporary",
+      "to": "01-thought-contemporary"
+    },
+    {
+      "subject": "gb-g12-islamic-studies",
+      "from": "unit-02-culture",
+      "to": "02-culture"
+    },
+    {
+      "subject": "gb-g12-math",
+      "from": "unit-01-pure",
+      "to": "01-pure"
+    },
+    {
+      "subject": "gb-g12-math",
+      "from": "unit-02-mechanics-stats",
+      "to": "02-mechanics-stats"
+    },
+    {
+      "subject": "gb-g12-physics",
+      "from": "unit-01-mechanics",
+      "to": "01-mechanics"
+    },
+    {
+      "subject": "gb-g12-physics",
+      "from": "unit-02-fields",
+      "to": "02-fields"
+    },
+    {
+      "subject": "gb-g12-psychology",
+      "from": "unit-01-approaches",
+      "to": "01-approaches"
+    },
+    {
+      "subject": "gb-g12-psychology",
+      "from": "unit-02-research",
+      "to": "02-research"
+    },
+    {
+      "subject": "gb-g12-social-studies",
+      "from": "unit-01-future",
+      "to": "01-future"
+    },
+    {
+      "subject": "gb-g12-social-studies",
+      "from": "unit-02-leadership",
+      "to": "02-leadership"
+    },
+    {
+      "subject": "us-g1-arabic",
+      "from": "unit-01-letters",
+      "to": "01-letters"
+    },
+    {
+      "subject": "us-g1-arabic",
+      "from": "unit-02-harakat",
+      "to": "02-harakat"
+    },
+    {
+      "subject": "us-g1-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g1-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "us-g1-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "us-g1-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "us-g1-english",
+      "from": "unit-01-phonics",
+      "to": "01-phonics"
+    },
+    {
+      "subject": "us-g1-english",
+      "from": "unit-02-reading",
+      "to": "02-reading"
+    },
+    {
+      "subject": "us-g1-english",
+      "from": "unit-03-writing",
+      "to": "03-writing"
+    },
+    {
+      "subject": "us-g1-islamic-studies",
+      "from": "unit-01-pillars-islam",
+      "to": "01-pillars-islam"
+    },
+    {
+      "subject": "us-g1-islamic-studies",
+      "from": "unit-02-manners",
+      "to": "02-manners"
+    },
+    {
+      "subject": "us-g1-math",
+      "from": "unit-01-counting-place-value",
+      "to": "01-counting-place-value"
+    },
+    {
+      "subject": "us-g1-math",
+      "from": "unit-02-addition-subtraction",
+      "to": "02-addition-subtraction"
+    },
+    {
+      "subject": "us-g1-math",
+      "from": "unit-03-geometry-shapes",
+      "to": "03-geometry-shapes"
+    },
+    {
+      "subject": "us-g1-moral-education",
+      "from": "unit-01-myself-family",
+      "to": "01-myself-family"
+    },
+    {
+      "subject": "us-g1-moral-education",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "us-g1-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g1-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "us-g1-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "us-g1-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "us-g1-science",
+      "from": "unit-01-light-sound",
+      "to": "01-light-sound"
+    },
+    {
+      "subject": "us-g1-science",
+      "from": "unit-02-living-things",
+      "to": "02-living-things"
+    },
+    {
+      "subject": "us-g1-social-studies",
+      "from": "unit-01-families-communities",
+      "to": "01-families-communities"
+    },
+    {
+      "subject": "us-g1-social-studies",
+      "from": "unit-02-maps",
+      "to": "02-maps"
+    },
+    {
+      "subject": "us-g2-arabic",
+      "from": "unit-01-words",
+      "to": "01-words"
+    },
+    {
+      "subject": "us-g2-arabic",
+      "from": "unit-02-sentence",
+      "to": "02-sentence"
+    },
+    {
+      "subject": "us-g2-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g2-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "us-g2-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "us-g2-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "us-g2-english",
+      "from": "unit-01-phonics",
+      "to": "01-phonics"
+    },
+    {
+      "subject": "us-g2-english",
+      "from": "unit-02-reading",
+      "to": "02-reading"
+    },
+    {
+      "subject": "us-g2-english",
+      "from": "unit-03-writing",
+      "to": "03-writing"
+    },
+    {
+      "subject": "us-g2-islamic-studies",
+      "from": "unit-01-prayer",
+      "to": "01-prayer"
+    },
+    {
+      "subject": "us-g2-islamic-studies",
+      "from": "unit-02-akhlaq",
+      "to": "02-akhlaq"
+    },
+    {
+      "subject": "us-g2-math",
+      "from": "unit-01-place-value-1000",
+      "to": "01-place-value-1000"
+    },
+    {
+      "subject": "us-g2-math",
+      "from": "unit-02-add-sub-100",
+      "to": "02-add-sub-100"
+    },
+    {
+      "subject": "us-g2-math",
+      "from": "unit-03-measurement-time-money",
+      "to": "03-measurement-time-money"
+    },
+    {
+      "subject": "us-g2-moral-education",
+      "from": "unit-01-community",
+      "to": "01-community"
+    },
+    {
+      "subject": "us-g2-moral-education",
+      "from": "unit-02-respect",
+      "to": "02-respect"
+    },
+    {
+      "subject": "us-g2-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g2-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "us-g2-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "us-g2-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "us-g2-science",
+      "from": "unit-01-matter",
+      "to": "01-matter"
+    },
+    {
+      "subject": "us-g2-science",
+      "from": "unit-02-earth",
+      "to": "02-earth"
+    },
+    {
+      "subject": "us-g2-social-studies",
+      "from": "unit-01-citizenship",
+      "to": "01-citizenship"
+    },
+    {
+      "subject": "us-g2-social-studies",
+      "from": "unit-02-economics",
+      "to": "02-economics"
+    },
+    {
+      "subject": "us-g3-arabic",
+      "from": "unit-01-comprehension",
+      "to": "01-comprehension"
+    },
+    {
+      "subject": "us-g3-arabic",
+      "from": "unit-02-words",
+      "to": "02-words"
+    },
+    {
+      "subject": "us-g3-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g3-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "us-g3-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "us-g3-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "us-g3-english",
+      "from": "unit-01-reading-literature",
+      "to": "01-reading-literature"
+    },
+    {
+      "subject": "us-g3-english",
+      "from": "unit-02-informational",
+      "to": "02-informational"
+    },
+    {
+      "subject": "us-g3-english",
+      "from": "unit-03-writing",
+      "to": "03-writing"
+    },
+    {
+      "subject": "us-g3-islamic-studies",
+      "from": "unit-01-iman",
+      "to": "01-iman"
+    },
+    {
+      "subject": "us-g3-islamic-studies",
+      "from": "unit-02-prophets",
+      "to": "02-prophets"
+    },
+    {
+      "subject": "us-g3-math",
+      "from": "unit-01-multiplication",
+      "to": "01-multiplication"
+    },
+    {
+      "subject": "us-g3-math",
+      "from": "unit-02-fractions",
+      "to": "02-fractions"
+    },
+    {
+      "subject": "us-g3-math",
+      "from": "unit-03-area-perimeter",
+      "to": "03-area-perimeter"
+    },
+    {
+      "subject": "us-g3-moral-education",
+      "from": "unit-01-my-country",
+      "to": "01-my-country"
+    },
+    {
+      "subject": "us-g3-moral-education",
+      "from": "unit-02-tolerance",
+      "to": "02-tolerance"
+    },
+    {
+      "subject": "us-g3-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g3-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "us-g3-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "us-g3-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "us-g3-science",
+      "from": "unit-01-forces",
+      "to": "01-forces"
+    },
+    {
+      "subject": "us-g3-science",
+      "from": "unit-02-life-cycles",
+      "to": "02-life-cycles"
+    },
+    {
+      "subject": "us-g3-social-studies",
+      "from": "unit-01-local-government",
+      "to": "01-local-government"
+    },
+    {
+      "subject": "us-g3-social-studies",
+      "from": "unit-02-geography-skills",
+      "to": "02-geography-skills"
+    },
+    {
+      "subject": "us-g4-arabic",
+      "from": "unit-01-sentence",
+      "to": "01-sentence"
+    },
+    {
+      "subject": "us-g4-arabic",
+      "from": "unit-02-spelling",
+      "to": "02-spelling"
+    },
+    {
+      "subject": "us-g4-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g4-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "us-g4-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "us-g4-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "us-g4-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "us-g4-english",
+      "from": "unit-02-language",
+      "to": "02-language"
+    },
+    {
+      "subject": "us-g4-english",
+      "from": "unit-03-writing",
+      "to": "03-writing"
+    },
+    {
+      "subject": "us-g4-islamic-studies",
+      "from": "unit-01-zakat-sawm",
+      "to": "01-zakat-sawm"
+    },
+    {
+      "subject": "us-g4-islamic-studies",
+      "from": "unit-02-seerah",
+      "to": "02-seerah"
+    },
+    {
+      "subject": "us-g4-math",
+      "from": "unit-01-place-value-multidigit",
+      "to": "01-place-value-multidigit"
+    },
+    {
+      "subject": "us-g4-math",
+      "from": "unit-02-fractions-decimals",
+      "to": "02-fractions-decimals"
+    },
+    {
+      "subject": "us-g4-math",
+      "from": "unit-03-geometry-angles",
+      "to": "03-geometry-angles"
+    },
+    {
+      "subject": "us-g4-moral-education",
+      "from": "unit-01-geography",
+      "to": "01-geography"
+    },
+    {
+      "subject": "us-g4-moral-education",
+      "from": "unit-02-empathy",
+      "to": "02-empathy"
+    },
+    {
+      "subject": "us-g4-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g4-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "us-g4-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "us-g4-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "us-g4-science",
+      "from": "unit-01-energy",
+      "to": "01-energy"
+    },
+    {
+      "subject": "us-g4-science",
+      "from": "unit-02-earth-processes",
+      "to": "02-earth-processes"
+    },
+    {
+      "subject": "us-g4-social-studies",
+      "from": "unit-01-us-regions",
+      "to": "01-us-regions"
+    },
+    {
+      "subject": "us-g4-social-studies",
+      "from": "unit-02-native-peoples",
+      "to": "02-native-peoples"
+    },
+    {
+      "subject": "us-g5-arabic",
+      "from": "unit-01-grammar",
+      "to": "01-grammar"
+    },
+    {
+      "subject": "us-g5-arabic",
+      "from": "unit-02-tenses",
+      "to": "02-tenses"
+    },
+    {
+      "subject": "us-g5-art",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g5-art",
+      "from": "unit-02-making",
+      "to": "02-making"
+    },
+    {
+      "subject": "us-g5-computer-science",
+      "from": "unit-01-algorithms",
+      "to": "01-algorithms"
+    },
+    {
+      "subject": "us-g5-computer-science",
+      "from": "unit-02-online-safety",
+      "to": "02-online-safety"
+    },
+    {
+      "subject": "us-g5-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "us-g5-english",
+      "from": "unit-02-language",
+      "to": "02-language"
+    },
+    {
+      "subject": "us-g5-english",
+      "from": "unit-03-writing",
+      "to": "03-writing"
+    },
+    {
+      "subject": "us-g5-islamic-studies",
+      "from": "unit-01-quran",
+      "to": "01-quran"
+    },
+    {
+      "subject": "us-g5-islamic-studies",
+      "from": "unit-02-akhlaq",
+      "to": "02-akhlaq"
+    },
+    {
+      "subject": "us-g5-math",
+      "from": "unit-01-decimals-operations",
+      "to": "01-decimals-operations"
+    },
+    {
+      "subject": "us-g5-math",
+      "from": "unit-02-fractions-advanced",
+      "to": "02-fractions-advanced"
+    },
+    {
+      "subject": "us-g5-math",
+      "from": "unit-03-volume",
+      "to": "03-volume"
+    },
+    {
+      "subject": "us-g5-moral-education",
+      "from": "unit-01-history",
+      "to": "01-history"
+    },
+    {
+      "subject": "us-g5-moral-education",
+      "from": "unit-02-civic",
+      "to": "02-civic"
+    },
+    {
+      "subject": "us-g5-music",
+      "from": "unit-01-elements",
+      "to": "01-elements"
+    },
+    {
+      "subject": "us-g5-music",
+      "from": "unit-02-performing",
+      "to": "02-performing"
+    },
+    {
+      "subject": "us-g5-physical-education",
+      "from": "unit-01-movement",
+      "to": "01-movement"
+    },
+    {
+      "subject": "us-g5-physical-education",
+      "from": "unit-02-health",
+      "to": "02-health"
+    },
+    {
+      "subject": "us-g5-science",
+      "from": "unit-01-matter-systems",
+      "to": "01-matter-systems"
+    },
+    {
+      "subject": "us-g5-science",
+      "from": "unit-02-ecosystems",
+      "to": "02-ecosystems"
+    },
+    {
+      "subject": "us-g5-social-studies",
+      "from": "unit-01-colonies",
+      "to": "01-colonies"
+    },
+    {
+      "subject": "us-g5-social-studies",
+      "from": "unit-02-us-geography",
+      "to": "02-us-geography"
+    },
+    {
+      "subject": "us-g6-arabic",
+      "from": "unit-01-tenses",
+      "to": "01-tenses"
+    },
+    {
+      "subject": "us-g6-arabic",
+      "from": "unit-02-naat-idafa",
+      "to": "02-naat-idafa"
+    },
+    {
+      "subject": "us-g6-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g6-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g6-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g6-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g6-english",
+      "from": "unit-01-reading-lit",
+      "to": "01-reading-lit"
+    },
+    {
+      "subject": "us-g6-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "us-g6-health",
+      "from": "unit-01-personal-health",
+      "to": "01-personal-health"
+    },
+    {
+      "subject": "us-g6-health",
+      "from": "unit-02-wellbeing",
+      "to": "02-wellbeing"
+    },
+    {
+      "subject": "us-g6-islamic-studies",
+      "from": "unit-01-seerah",
+      "to": "01-seerah"
+    },
+    {
+      "subject": "us-g6-islamic-studies",
+      "from": "unit-02-worship",
+      "to": "02-worship"
+    },
+    {
+      "subject": "us-g6-math",
+      "from": "unit-01-ratios-rates",
+      "to": "01-ratios-rates"
+    },
+    {
+      "subject": "us-g6-math",
+      "from": "unit-02-expressions-equations",
+      "to": "02-expressions-equations"
+    },
+    {
+      "subject": "us-g6-moral-education",
+      "from": "unit-01-heritage",
+      "to": "01-heritage"
+    },
+    {
+      "subject": "us-g6-moral-education",
+      "from": "unit-02-respect-diversity",
+      "to": "02-respect-diversity"
+    },
+    {
+      "subject": "us-g6-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g6-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g6-science",
+      "from": "unit-01-cells",
+      "to": "01-cells"
+    },
+    {
+      "subject": "us-g6-science",
+      "from": "unit-02-matter-energy",
+      "to": "02-matter-energy"
+    },
+    {
+      "subject": "us-g6-social-studies",
+      "from": "unit-01-world-geography",
+      "to": "01-world-geography"
+    },
+    {
+      "subject": "us-g6-social-studies",
+      "from": "unit-02-ancient-civilizations",
+      "to": "02-ancient-civilizations"
+    },
+    {
+      "subject": "us-g7-arabic",
+      "from": "unit-01-syntax",
+      "to": "01-syntax"
+    },
+    {
+      "subject": "us-g7-arabic",
+      "from": "unit-02-verbs",
+      "to": "02-verbs"
+    },
+    {
+      "subject": "us-g7-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g7-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g7-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g7-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g7-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "us-g7-english",
+      "from": "unit-02-writing",
+      "to": "02-writing"
+    },
+    {
+      "subject": "us-g7-health",
+      "from": "unit-01-personal-health",
+      "to": "01-personal-health"
+    },
+    {
+      "subject": "us-g7-health",
+      "from": "unit-02-wellbeing",
+      "to": "02-wellbeing"
+    },
+    {
+      "subject": "us-g7-islamic-studies",
+      "from": "unit-01-worship-akhlaq",
+      "to": "01-worship-akhlaq"
+    },
+    {
+      "subject": "us-g7-islamic-studies",
+      "from": "unit-02-quran",
+      "to": "02-quran"
+    },
+    {
+      "subject": "us-g7-math",
+      "from": "unit-01-rational-numbers",
+      "to": "01-rational-numbers"
+    },
+    {
+      "subject": "us-g7-math",
+      "from": "unit-02-proportional",
+      "to": "02-proportional"
+    },
+    {
+      "subject": "us-g7-moral-education",
+      "from": "unit-01-government",
+      "to": "01-government"
+    },
+    {
+      "subject": "us-g7-moral-education",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "us-g7-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g7-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g7-science",
+      "from": "unit-01-ecosystems",
+      "to": "01-ecosystems"
+    },
+    {
+      "subject": "us-g7-science",
+      "from": "unit-02-forces-chem",
+      "to": "02-forces-chem"
+    },
+    {
+      "subject": "us-g7-social-studies",
+      "from": "unit-01-world-history",
+      "to": "01-world-history"
+    },
+    {
+      "subject": "us-g7-social-studies",
+      "from": "unit-02-world-regions",
+      "to": "02-world-regions"
+    },
+    {
+      "subject": "us-g8-arabic",
+      "from": "unit-01-kana",
+      "to": "01-kana"
+    },
+    {
+      "subject": "us-g8-arabic",
+      "from": "unit-02-definite",
+      "to": "02-definite"
+    },
+    {
+      "subject": "us-g8-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g8-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g8-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g8-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g8-english",
+      "from": "unit-01-reading",
+      "to": "01-reading"
+    },
+    {
+      "subject": "us-g8-english",
+      "from": "unit-02-language",
+      "to": "02-language"
+    },
+    {
+      "subject": "us-g8-health",
+      "from": "unit-01-personal-health",
+      "to": "01-personal-health"
+    },
+    {
+      "subject": "us-g8-health",
+      "from": "unit-02-wellbeing",
+      "to": "02-wellbeing"
+    },
+    {
+      "subject": "us-g8-islamic-studies",
+      "from": "unit-01-fiqh-sahaba",
+      "to": "01-fiqh-sahaba"
+    },
+    {
+      "subject": "us-g8-islamic-studies",
+      "from": "unit-02-muamalat",
+      "to": "02-muamalat"
+    },
+    {
+      "subject": "us-g8-math",
+      "from": "unit-01-exponents",
+      "to": "01-exponents"
+    },
+    {
+      "subject": "us-g8-math",
+      "from": "unit-02-linear-functions",
+      "to": "02-linear-functions"
+    },
+    {
+      "subject": "us-g8-moral-education",
+      "from": "unit-01-uae-world",
+      "to": "01-uae-world"
+    },
+    {
+      "subject": "us-g8-moral-education",
+      "from": "unit-02-decision",
+      "to": "02-decision"
+    },
+    {
+      "subject": "us-g8-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g8-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g8-science",
+      "from": "unit-01-forces-motion",
+      "to": "01-forces-motion"
+    },
+    {
+      "subject": "us-g8-science",
+      "from": "unit-02-earth-space",
+      "to": "02-earth-space"
+    },
+    {
+      "subject": "us-g8-social-studies",
+      "from": "unit-01-founding",
+      "to": "01-founding"
+    },
+    {
+      "subject": "us-g8-social-studies",
+      "from": "unit-02-civil-war",
+      "to": "02-civil-war"
+    },
+    {
+      "subject": "us-g9-arabic",
+      "from": "unit-01-inna",
+      "to": "01-inna"
+    },
+    {
+      "subject": "us-g9-arabic",
+      "from": "unit-02-styles",
+      "to": "02-styles"
+    },
+    {
+      "subject": "us-g9-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g9-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g9-biology",
+      "from": "unit-01-cells",
+      "to": "01-cells"
+    },
+    {
+      "subject": "us-g9-biology",
+      "from": "unit-02-genetics",
+      "to": "02-genetics"
+    },
+    {
+      "subject": "us-g9-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g9-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g9-english",
+      "from": "unit-01-literature",
+      "to": "01-literature"
+    },
+    {
+      "subject": "us-g9-english",
+      "from": "unit-02-composition",
+      "to": "02-composition"
+    },
+    {
+      "subject": "us-g9-islamic-studies",
+      "from": "unit-01-aqeedah-akhlaq",
+      "to": "01-aqeedah-akhlaq"
+    },
+    {
+      "subject": "us-g9-islamic-studies",
+      "from": "unit-02-fiqh",
+      "to": "02-fiqh"
+    },
+    {
+      "subject": "us-g9-math",
+      "from": "unit-01-linear",
+      "to": "01-linear"
+    },
+    {
+      "subject": "us-g9-math",
+      "from": "unit-02-functions",
+      "to": "02-functions"
+    },
+    {
+      "subject": "us-g9-moral-education",
+      "from": "unit-01-economy",
+      "to": "01-economy"
+    },
+    {
+      "subject": "us-g9-moral-education",
+      "from": "unit-02-ethics",
+      "to": "02-ethics"
+    },
+    {
+      "subject": "us-g9-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g9-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g9-social-studies",
+      "from": "unit-01-revolutions",
+      "to": "01-revolutions"
+    },
+    {
+      "subject": "us-g9-social-studies",
+      "from": "unit-02-industrialization",
+      "to": "02-industrialization"
+    },
+    {
+      "subject": "us-g10-arabic",
+      "from": "unit-01-texts",
+      "to": "01-texts"
+    },
+    {
+      "subject": "us-g10-arabic",
+      "from": "unit-02-bayan",
+      "to": "02-bayan"
+    },
+    {
+      "subject": "us-g10-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g10-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g10-chemistry",
+      "from": "unit-01-atomic",
+      "to": "01-atomic"
+    },
+    {
+      "subject": "us-g10-chemistry",
+      "from": "unit-02-bonding-reactions",
+      "to": "02-bonding-reactions"
+    },
+    {
+      "subject": "us-g10-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g10-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g10-english",
+      "from": "unit-01-world-lit",
+      "to": "01-world-lit"
+    },
+    {
+      "subject": "us-g10-english",
+      "from": "unit-02-research",
+      "to": "02-research"
+    },
+    {
+      "subject": "us-g10-islamic-studies",
+      "from": "unit-01-quran-fiqh",
+      "to": "01-quran-fiqh"
+    },
+    {
+      "subject": "us-g10-islamic-studies",
+      "from": "unit-02-hadith",
+      "to": "02-hadith"
+    },
+    {
+      "subject": "us-g10-math",
+      "from": "unit-01-congruence",
+      "to": "01-congruence"
+    },
+    {
+      "subject": "us-g10-math",
+      "from": "unit-02-circles-area",
+      "to": "02-circles-area"
+    },
+    {
+      "subject": "us-g10-moral-education",
+      "from": "unit-01-sustainability",
+      "to": "01-sustainability"
+    },
+    {
+      "subject": "us-g10-moral-education",
+      "from": "unit-02-responsibility",
+      "to": "02-responsibility"
+    },
+    {
+      "subject": "us-g10-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g10-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g10-social-studies",
+      "from": "unit-01-world-wars",
+      "to": "01-world-wars"
+    },
+    {
+      "subject": "us-g10-social-studies",
+      "from": "unit-02-modern-era",
+      "to": "02-modern-era"
+    },
+    {
+      "subject": "us-g11-arabic",
+      "from": "unit-01-poetry-prose",
+      "to": "01-poetry-prose"
+    },
+    {
+      "subject": "us-g11-arabic",
+      "from": "unit-02-arud",
+      "to": "02-arud"
+    },
+    {
+      "subject": "us-g11-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g11-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g11-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g11-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g11-english",
+      "from": "unit-01-american-lit",
+      "to": "01-american-lit"
+    },
+    {
+      "subject": "us-g11-english",
+      "from": "unit-02-argument",
+      "to": "02-argument"
+    },
+    {
+      "subject": "us-g11-islamic-studies",
+      "from": "unit-01-hadith-values",
+      "to": "01-hadith-values"
+    },
+    {
+      "subject": "us-g11-islamic-studies",
+      "from": "unit-02-values",
+      "to": "02-values"
+    },
+    {
+      "subject": "us-g11-math",
+      "from": "unit-01-quadratics",
+      "to": "01-quadratics"
+    },
+    {
+      "subject": "us-g11-math",
+      "from": "unit-02-exp-log",
+      "to": "02-exp-log"
+    },
+    {
+      "subject": "us-g11-moral-education",
+      "from": "unit-01-identity",
+      "to": "01-identity"
+    },
+    {
+      "subject": "us-g11-moral-education",
+      "from": "unit-02-justice",
+      "to": "02-justice"
+    },
+    {
+      "subject": "us-g11-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g11-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g11-physics",
+      "from": "unit-01-mechanics",
+      "to": "01-mechanics"
+    },
+    {
+      "subject": "us-g11-physics",
+      "from": "unit-02-energy-waves",
+      "to": "02-energy-waves"
+    },
+    {
+      "subject": "us-g11-social-studies",
+      "from": "unit-01-20th-century",
+      "to": "01-th-century"
+    },
+    {
+      "subject": "us-g11-social-studies",
+      "from": "unit-02-modern-america",
+      "to": "02-modern-america"
+    },
+    {
+      "subject": "us-g12-arabic",
+      "from": "unit-01-criticism",
+      "to": "01-criticism"
+    },
+    {
+      "subject": "us-g12-arabic",
+      "from": "unit-02-schools",
+      "to": "02-schools"
+    },
+    {
+      "subject": "us-g12-art",
+      "from": "unit-01-formal-elements",
+      "to": "01-formal-elements"
+    },
+    {
+      "subject": "us-g12-art",
+      "from": "unit-02-context",
+      "to": "02-context"
+    },
+    {
+      "subject": "us-g12-computer-science",
+      "from": "unit-01-programming",
+      "to": "01-programming"
+    },
+    {
+      "subject": "us-g12-computer-science",
+      "from": "unit-02-systems",
+      "to": "02-systems"
+    },
+    {
+      "subject": "us-g12-english",
+      "from": "unit-01-british-world-lit",
+      "to": "01-british-world-lit"
+    },
+    {
+      "subject": "us-g12-english",
+      "from": "unit-02-college-writing",
+      "to": "02-college-writing"
+    },
+    {
+      "subject": "us-g12-environmental-science",
+      "from": "unit-01-ecosystems",
+      "to": "01-ecosystems"
+    },
+    {
+      "subject": "us-g12-environmental-science",
+      "from": "unit-02-human-impact",
+      "to": "02-human-impact"
+    },
+    {
+      "subject": "us-g12-islamic-studies",
+      "from": "unit-01-thought-contemporary",
+      "to": "01-thought-contemporary"
+    },
+    {
+      "subject": "us-g12-islamic-studies",
+      "from": "unit-02-culture",
+      "to": "02-culture"
+    },
+    {
+      "subject": "us-g12-math",
+      "from": "unit-01-trig",
+      "to": "01-trig"
+    },
+    {
+      "subject": "us-g12-math",
+      "from": "unit-02-functions-limits",
+      "to": "02-functions-limits"
+    },
+    {
+      "subject": "us-g12-moral-education",
+      "from": "unit-01-future",
+      "to": "01-future"
+    },
+    {
+      "subject": "us-g12-moral-education",
+      "from": "unit-02-leadership",
+      "to": "02-leadership"
+    },
+    {
+      "subject": "us-g12-physical-education",
+      "from": "unit-01-fitness",
+      "to": "01-fitness"
+    },
+    {
+      "subject": "us-g12-physical-education",
+      "from": "unit-02-games-tactics",
+      "to": "02-games-tactics"
+    },
+    {
+      "subject": "us-g12-social-studies",
+      "from": "unit-01-government",
+      "to": "01-government"
+    },
+    {
+      "subject": "us-g12-social-studies",
+      "from": "unit-02-economics",
+      "to": "02-economics"
+    },
+    {
+      "subject": "cbse-g10-civics",
+      "from": "unit-01-power-sharing",
+      "to": "01-power-sharing"
+    },
+    {
+      "subject": "cbse-g10-civics",
+      "from": "unit-02-federalism",
+      "to": "02-federalism"
+    },
+    {
+      "subject": "cbse-g10-civics",
+      "from": "unit-03-gender-religion-and-caste",
+      "to": "03-gender-religion-and-caste"
+    },
+    {
+      "subject": "cbse-g10-civics",
+      "from": "unit-04-political-parties",
+      "to": "04-political-parties"
+    },
+    {
+      "subject": "cbse-g10-civics",
+      "from": "unit-05-outcomes-of-democracy",
+      "to": "05-outcomes-of-democracy"
+    },
+    {
+      "subject": "cbse-g10-economics",
+      "from": "unit-01-development",
+      "to": "01-development"
+    },
+    {
+      "subject": "cbse-g10-economics",
+      "from": "unit-02-sectors-of-the-indian-economy",
+      "to": "02-sectors-of-the-indian-economy"
+    },
+    {
+      "subject": "cbse-g10-economics",
+      "from": "unit-03-money-and-credit",
+      "to": "03-money-and-credit"
+    },
+    {
+      "subject": "cbse-g10-economics",
+      "from": "unit-04-globalisation-and-the-indian-economy",
+      "to": "04-globalisation-and-the-indian-economy"
+    },
+    {
+      "subject": "cbse-g10-economics",
+      "from": "unit-05-consumer-rights",
+      "to": "05-consumer-rights"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-01-a-letter-to-god",
+      "to": "01-a-letter-to-god"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-02-nelson-mandela",
+      "to": "02-nelson-mandela"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-03-two-stories-about-flying",
+      "to": "03-two-stories-about-flying"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-04-diary-of-anne-frank",
+      "to": "04-diary-of-anne-frank"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-05-glimpses-of-india",
+      "to": "05-glimpses-of-india"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-06-mijbil-the-otter",
+      "to": "06-mijbil-the-otter"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-07-madam-rides-the-bus",
+      "to": "07-madam-rides-the-bus"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-08-the-sermon-at-benares",
+      "to": "08-the-sermon-at-benares"
+    },
+    {
+      "subject": "cbse-g10-english",
+      "from": "unit-09-the-proposal",
+      "to": "09-the-proposal"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-01-resources-and-development",
+      "to": "01-resources-and-development"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-02-forest-and-wildlife-resources",
+      "to": "02-forest-and-wildlife-resources"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-03-water-resources",
+      "to": "03-water-resources"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-04-agriculture",
+      "to": "04-agriculture"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-05-minerals-and-energy-resources",
+      "to": "05-minerals-and-energy-resources"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-06-manufacturing-industries",
+      "to": "06-manufacturing-industries"
+    },
+    {
+      "subject": "cbse-g10-geography",
+      "from": "unit-07-lifelines-of-national-economy",
+      "to": "07-lifelines-of-national-economy"
+    },
+    {
+      "subject": "cbse-g10-history",
+      "from": "unit-01-rise-of-nationalism-in-europe",
+      "to": "01-rise-of-nationalism-in-europe"
+    },
+    {
+      "subject": "cbse-g10-history",
+      "from": "unit-02-nationalism-in-india",
+      "to": "02-nationalism-in-india"
+    },
+    {
+      "subject": "cbse-g10-history",
+      "from": "unit-03-making-of-a-global-world",
+      "to": "03-making-of-a-global-world"
+    },
+    {
+      "subject": "cbse-g10-history",
+      "from": "unit-04-age-of-industrialisation",
+      "to": "04-age-of-industrialisation"
+    },
+    {
+      "subject": "cbse-g10-history",
+      "from": "unit-05-print-culture-and-the-modern-world",
+      "to": "05-print-culture-and-the-modern-world"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-01-real-numbers",
+      "to": "01-real-numbers"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-02-polynomials",
+      "to": "02-polynomials"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-03-pair-of-linear-equations",
+      "to": "03-pair-of-linear-equations"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-04-quadratic-equations",
+      "to": "04-quadratic-equations"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-05-arithmetic-progressions",
+      "to": "05-arithmetic-progressions"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-06-triangles",
+      "to": "06-triangles"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-07-coordinate-geometry",
+      "to": "07-coordinate-geometry"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-08-introduction-to-trigonometry",
+      "to": "08-introduction-to-trigonometry"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-09-applications-of-trigonometry",
+      "to": "09-applications-of-trigonometry"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-10-circles",
+      "to": "10-circles"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-11-areas-related-to-circles",
+      "to": "11-areas-related-to-circles"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-12-surface-areas-and-volumes",
+      "to": "12-surface-areas-and-volumes"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-13-statistics",
+      "to": "13-statistics"
+    },
+    {
+      "subject": "cbse-g10-math",
+      "from": "unit-14-probability",
+      "to": "14-probability"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-01-chemical-reactions-and-equations",
+      "to": "01-chemical-reactions-and-equations"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-02-acids-bases-and-salts",
+      "to": "02-acids-bases-and-salts"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-03-metals-and-non-metals",
+      "to": "03-metals-and-non-metals"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-04-carbon-and-its-compounds",
+      "to": "04-carbon-and-its-compounds"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-05-life-processes",
+      "to": "05-life-processes"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-06-control-and-coordination",
+      "to": "06-control-and-coordination"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-07-how-do-organisms-reproduce",
+      "to": "07-how-do-organisms-reproduce"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-08-heredity-and-evolution",
+      "to": "08-heredity-and-evolution"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-09-light-reflection-and-refraction",
+      "to": "09-light-reflection-and-refraction"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-10-human-eye-and-colourful-world",
+      "to": "10-human-eye-and-colourful-world"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-11-electricity",
+      "to": "11-electricity"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-12-magnetic-effects-of-electric-current",
+      "to": "12-magnetic-effects-of-electric-current"
+    },
+    {
+      "subject": "cbse-g10-science",
+      "from": "unit-13-our-environment",
+      "to": "13-our-environment"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-01-cell-biology",
+      "to": "01-cell-biology"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-02-molecular-biology",
+      "to": "02-molecular-biology"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-03-genetics",
+      "to": "03-genetics"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-04-ecology",
+      "to": "04-ecology"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-05-evolution-and-biodiversity",
+      "to": "05-evolution-and-biodiversity"
+    },
+    {
+      "subject": "ib-dp-g12-biology",
+      "from": "unit-06-human-physiology",
+      "to": "06-human-physiology"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-01-stoichiometric-relationships",
+      "to": "01-stoichiometric-relationships"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-02-atomic-structure",
+      "to": "02-atomic-structure"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-03-periodicity",
+      "to": "03-periodicity"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-04-chemical-bonding-and-structure",
+      "to": "04-chemical-bonding-and-structure"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-05-energetics-and-thermochemistry",
+      "to": "05-energetics-and-thermochemistry"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-06-chemical-kinetics",
+      "to": "06-chemical-kinetics"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-07-equilibrium",
+      "to": "07-equilibrium"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-08-acids-and-bases",
+      "to": "08-acids-and-bases"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-09-redox-processes",
+      "to": "09-redox-processes"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-10-organic-chemistry",
+      "to": "10-organic-chemistry"
+    },
+    {
+      "subject": "ib-dp-g12-chemistry",
+      "from": "unit-11-measurement-and-data-processing",
+      "to": "11-measurement-and-data-processing"
+    },
+    {
+      "subject": "ib-dp-g12-core",
+      "from": "unit-01-theory-of-knowledge",
+      "to": "01-theory-of-knowledge"
+    },
+    {
+      "subject": "ib-dp-g12-core",
+      "from": "unit-02-extended-essay",
+      "to": "02-extended-essay"
+    },
+    {
+      "subject": "ib-dp-g12-core",
+      "from": "unit-03-creativity-activity-service",
+      "to": "03-creativity-activity-service"
+    },
+    {
+      "subject": "ib-dp-g12-economics",
+      "from": "unit-01-introduction-to-economics",
+      "to": "01-introduction-to-economics"
+    },
+    {
+      "subject": "ib-dp-g12-economics",
+      "from": "unit-02-microeconomics",
+      "to": "02-microeconomics"
+    },
+    {
+      "subject": "ib-dp-g12-economics",
+      "from": "unit-03-macroeconomics",
+      "to": "03-macroeconomics"
+    },
+    {
+      "subject": "ib-dp-g12-economics",
+      "from": "unit-04-the-global-economy",
+      "to": "04-the-global-economy"
+    },
+    {
+      "subject": "ib-dp-g12-english",
+      "from": "unit-01-readers-writers-and-texts",
+      "to": "01-readers-writers-and-texts"
+    },
+    {
+      "subject": "ib-dp-g12-english",
+      "from": "unit-02-time-and-space",
+      "to": "02-time-and-space"
+    },
+    {
+      "subject": "ib-dp-g12-english",
+      "from": "unit-03-intertextuality-connecting-texts",
+      "to": "03-intertextuality-connecting-texts"
+    },
+    {
+      "subject": "ib-dp-g12-history",
+      "from": "unit-01-authoritarian-states",
+      "to": "01-authoritarian-states"
+    },
+    {
+      "subject": "ib-dp-g12-history",
+      "from": "unit-02-the-move-to-global-war",
+      "to": "02-the-move-to-global-war"
+    },
+    {
+      "subject": "ib-dp-g12-history",
+      "from": "unit-03-causes-and-effects-of-20th-century-wars",
+      "to": "03-causes-and-effects-of-20th-century-wars"
+    },
+    {
+      "subject": "ib-dp-g12-history",
+      "from": "unit-04-the-cold-war-superpower-tensions-and-rivalries",
+      "to": "04-the-cold-war-superpower-tensions-and-rivalries"
+    },
+    {
+      "subject": "ib-dp-g12-math",
+      "from": "unit-01-number-and-algebra",
+      "to": "01-number-and-algebra"
+    },
+    {
+      "subject": "ib-dp-g12-math",
+      "from": "unit-02-functions",
+      "to": "02-functions"
+    },
+    {
+      "subject": "ib-dp-g12-math",
+      "from": "unit-03-geometry-and-trigonometry",
+      "to": "03-geometry-and-trigonometry"
+    },
+    {
+      "subject": "ib-dp-g12-math",
+      "from": "unit-04-statistics-and-probability",
+      "to": "04-statistics-and-probability"
+    },
+    {
+      "subject": "ib-dp-g12-math",
+      "from": "unit-05-calculus",
+      "to": "05-calculus"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-01-measurements-and-uncertainties",
+      "to": "01-measurements-and-uncertainties"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-02-mechanics",
+      "to": "02-mechanics"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-03-thermal-physics",
+      "to": "03-thermal-physics"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-04-waves",
+      "to": "04-waves"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-05-electricity-and-magnetism",
+      "to": "05-electricity-and-magnetism"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-06-circular-motion-and-gravitation",
+      "to": "06-circular-motion-and-gravitation"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-07-atomic-nuclear-and-particle-physics",
+      "to": "07-atomic-nuclear-and-particle-physics"
+    },
+    {
+      "subject": "ib-dp-g12-physics",
+      "from": "unit-08-energy-production",
+      "to": "08-energy-production"
+    },
+    {
+      "subject": "ib-dp-g12-psychology",
+      "from": "unit-01-biological-approach-to-behaviour",
+      "to": "01-biological-approach-to-behaviour"
+    },
+    {
+      "subject": "ib-dp-g12-psychology",
+      "from": "unit-02-cognitive-approach-to-behaviour",
+      "to": "02-cognitive-approach-to-behaviour"
+    },
+    {
+      "subject": "ib-dp-g12-psychology",
+      "from": "unit-03-sociocultural-approach-to-behaviour",
+      "to": "03-sociocultural-approach-to-behaviour"
+    },
+    {
+      "subject": "ib-dp-g12-psychology",
+      "from": "unit-04-abnormal-psychology",
+      "to": "04-abnormal-psychology"
+    },
+    {
+      "subject": "ib-dp-g12-psychology",
+      "from": "unit-05-research-methodology",
+      "to": "05-research-methodology"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-01-characteristics-and-classification-of-living-organisms",
+      "to": "01-characteristics-and-classification-of-living"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-02-organisation-of-the-organism",
+      "to": "02-organisation-of-the-organism"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-03-movement-into-and-out-of-cells",
+      "to": "03-movement-into-and-out-of-cells"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-04-biological-molecules",
+      "to": "04-biological-molecules"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-05-enzymes",
+      "to": "05-enzymes"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-06-plant-nutrition",
+      "to": "06-plant-nutrition"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-07-human-nutrition",
+      "to": "07-human-nutrition"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-08-transport-in-plants",
+      "to": "08-transport-in-plants"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-09-transport-in-animals",
+      "to": "09-transport-in-animals"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-10-diseases-and-immunity",
+      "to": "10-diseases-and-immunity"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-11-gas-exchange-in-humans",
+      "to": "11-gas-exchange-in-humans"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-12-respiration",
+      "to": "12-respiration"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-13-excretion-in-humans",
+      "to": "13-excretion-in-humans"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-14-coordination-and-response",
+      "to": "14-coordination-and-response"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-15-drugs",
+      "to": "15-drugs"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-16-reproduction",
+      "to": "16-reproduction"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-17-inheritance",
+      "to": "17-inheritance"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-18-variation-and-selection",
+      "to": "18-variation-and-selection"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-19-organisms-and-their-environment",
+      "to": "19-organisms-and-their-environment"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-20-human-influences-on-ecosystems",
+      "to": "20-human-influences-on-ecosystems"
+    },
+    {
+      "subject": "caie-igcse-g10-biology",
+      "from": "unit-21-biotechnology-and-genetic-modification",
+      "to": "21-biotechnology-and-genetic-modification"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-01-understanding-business-activity",
+      "to": "01-understanding-business-activity"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-02-people-in-business",
+      "to": "02-people-in-business"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-03-marketing",
+      "to": "03-marketing"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-04-operations-management",
+      "to": "04-operations-management"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-05-financial-information-and-decisions",
+      "to": "05-financial-information-and-decisions"
+    },
+    {
+      "subject": "caie-igcse-g10-business",
+      "from": "unit-06-external-influences-on-business-activity",
+      "to": "06-external-influences-on-business-activity"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-01-states-of-matter",
+      "to": "01-states-of-matter"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-02-atoms-elements-and-compounds",
+      "to": "02-atoms-elements-and-compounds"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-03-stoichiometry",
+      "to": "03-stoichiometry"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-04-electrochemistry",
+      "to": "04-electrochemistry"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-05-chemical-energetics",
+      "to": "05-chemical-energetics"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-06-chemical-reactions",
+      "to": "06-chemical-reactions"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-07-acids-bases-and-salts",
+      "to": "07-acids-bases-and-salts"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-08-the-periodic-table",
+      "to": "08-the-periodic-table"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-09-metals",
+      "to": "09-metals"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-10-chemistry-of-the-environment",
+      "to": "10-chemistry-of-the-environment"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-11-organic-chemistry",
+      "to": "11-organic-chemistry"
+    },
+    {
+      "subject": "caie-igcse-g10-chemistry",
+      "from": "unit-12-experimental-techniques-and-chemical-analysis",
+      "to": "12-experimental-techniques-and-chemical-analysis"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-01-data-representation",
+      "to": "01-data-representation"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-02-data-transmission",
+      "to": "02-data-transmission"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-03-hardware",
+      "to": "03-hardware"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-04-software",
+      "to": "04-software"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-05-the-internet-and-its-uses",
+      "to": "05-the-internet-and-its-uses"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-06-automated-and-emerging-technologies",
+      "to": "06-automated-and-emerging-technologies"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-07-algorithm-design-and-problem-solving",
+      "to": "07-algorithm-design-and-problem-solving"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-08-programming",
+      "to": "08-programming"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-09-databases",
+      "to": "09-databases"
+    },
+    {
+      "subject": "caie-igcse-g10-computer-science",
+      "from": "unit-10-boolean-logic",
+      "to": "10-boolean-logic"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-01-the-basic-economic-problem",
+      "to": "01-the-basic-economic-problem"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-02-the-allocation-of-resources",
+      "to": "02-the-allocation-of-resources"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-03-microeconomic-decision-makers",
+      "to": "03-microeconomic-decision-makers"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-04-government-and-the-macroeconomy",
+      "to": "04-government-and-the-macroeconomy"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-05-economic-development",
+      "to": "05-economic-development"
+    },
+    {
+      "subject": "caie-igcse-g10-economics",
+      "from": "unit-06-international-trade-and-globalisation",
+      "to": "06-international-trade-and-globalisation"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-01-reading-and-comprehension",
+      "to": "01-reading-and-comprehension"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-02-summary-writing",
+      "to": "02-summary-writing"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-03-directed-writing",
+      "to": "03-directed-writing"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-04-composition-narrative",
+      "to": "04-composition-narrative"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-05-composition-descriptive",
+      "to": "05-composition-descriptive"
+    },
+    {
+      "subject": "caie-igcse-g10-english",
+      "from": "unit-06-composition-argumentative",
+      "to": "06-composition-argumentative"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-01-number",
+      "to": "01-number"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-02-algebra-and-graphs",
+      "to": "02-algebra-and-graphs"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-03-coordinate-geometry",
+      "to": "03-coordinate-geometry"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-04-geometry",
+      "to": "04-geometry"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-05-mensuration",
+      "to": "05-mensuration"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-06-trigonometry",
+      "to": "06-trigonometry"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-07-transformations-and-vectors",
+      "to": "07-transformations-and-vectors"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-08-probability",
+      "to": "08-probability"
+    },
+    {
+      "subject": "caie-igcse-g10-math",
+      "from": "unit-09-statistics",
+      "to": "09-statistics"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-01-motion-forces-and-energy",
+      "to": "01-motion-forces-and-energy"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-02-thermal-physics",
+      "to": "02-thermal-physics"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-03-waves",
+      "to": "03-waves"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-04-electricity-and-magnetism",
+      "to": "04-electricity-and-magnetism"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-05-nuclear-physics",
+      "to": "05-nuclear-physics"
+    },
+    {
+      "subject": "caie-igcse-g10-physics",
+      "from": "unit-06-space-physics",
+      "to": "06-space-physics"
+    }
+  ],
+  "lessons": [
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "01-وطنناالسودان",
+      "to": "01-our-homeland-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "02-التقويم",
+      "to": "02-the-calendar"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "03-حضاراتالسودانالقديمة",
+      "to": "03-ancient-civilizations-of-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "04-حضارةكرمة",
+      "to": "04-the-kerma-civilization"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "05-حضارةكوش",
+      "to": "05-the-kush-civilization"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "06-ممالكالنوبةالمسيحية",
+      "to": "06-the-christian-kingdoms-of-nubia"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "07-الفتحاإلسالميألرضالسودان",
+      "to": "07-the-islamic-conquest-of-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "08-دخولالعربإلىالسودان",
+      "to": "08-the-arrival-of-the-arabs-in-sudan"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "09-السلطناتاإلسالميةفيالسودان1",
+      "to": "09-islamic-sultanates-in-sudan-1"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "01-from-the-history-of-sudan",
+      "from": "10-السلطناتاإلسالميةفيالسودان2",
+      "to": "10-islamic-sultanates-in-sudan-2"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "02-the-islamic-state-up-to-the-umayyad-era",
+      "from": "01-الدعوةوالدولةاإلســـــــــــــــــــــــ",
+      "to": "01-the-call-and-the-islamic-state-in-medina"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "02-the-islamic-state-up-to-the-umayyad-era",
+      "from": "02-الدولةاإلسالميةفيعهدالخلفاءالراشدين",
+      "to": "02-the-islamic-state-under-the-rightly-guided"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "02-the-islamic-state-up-to-the-umayyad-era",
+      "from": "03-الدولةاألموية",
+      "to": "03-the-umayyad-state"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "02-the-islamic-state-up-to-the-umayyad-era",
+      "from": "04-الفتوحاتفيعهدالدولةاألموية",
+      "to": "04-conquests-of-the-umayyad-era"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "02-the-islamic-state-up-to-the-umayyad-era",
+      "from": "05-سقوطالدولةاألموية",
+      "to": "05-the-fall-of-the-umayyad-state"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "01-إفريقياواإلفريقيون",
+      "to": "01-africa-and-africans"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "02-موقعإفريقياوسكانها",
+      "to": "02-africas-location-and-population"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "03-نماذجمنحضاراتإفريقياالقديمة",
+      "to": "03-examples-of-ancient-african-civilizations"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "04-دخولالمسيحيةفيإفريقيا",
+      "to": "04-the-arrival-of-christianity-in-africa"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "05-طرقانتشاراإلسالمفيإفريقيا",
+      "to": "05-routes-of-the-spread-of-islam-in-africa"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "06-عواملووسائلانتشاراإلسالمفيإفريقيا",
+      "to": "06-factors-and-means-of-the-spread-of-islam-in"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "03-from-the-history-of-africa",
+      "from": "07-انتشاراإلسالمفيشمالإفريقيا",
+      "to": "07-the-spread-of-islam-in-north-africa"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "04-from-the-history-of-europe",
+      "from": "01-أوربافيعصورالظالم",
+      "to": "01-europe-in-the-dark-ages"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "04-from-the-history-of-europe",
+      "from": "02-أثرالحضارةاإلسالميةعلىأوربا",
+      "to": "02-the-influence-of-islamic-civilization-on-europe"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "04-from-the-history-of-europe",
+      "from": "03-النهضةاألوربية",
+      "to": "03-the-european-renaissance"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "05-national-education",
+      "from": "01-خصائصاإلنسانالسوداني",
+      "to": "01-characteristics-of-the-sudanese-people"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "05-national-education",
+      "from": "02-خصائصالمجتمعالسوداني",
+      "to": "02-characteristics-of-sudanese-society"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "05-national-education",
+      "from": "03-مميزاتاألرضالسودانية",
+      "to": "03-features-of-the-sudanese-land"
+    },
+    {
+      "subject": "sd-g5-history",
+      "chapter": "05-national-education",
+      "from": "04-إسهامالسودانفيالحضارةلإلنسان",
+      "to": "04-sudans-contribution-to-human-civilization"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "01-وحدةاملعاجلةاملركزية",
+      "to": "01-the-central-processing-unit"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "02-العملياتاألساسيةللحاسوب",
+      "to": "02-basic-computer-operations"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "03-وحداتالتخزينيفاحلاسوب",
+      "to": "03-computer-storage-units"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "02-the-windows-operating-system",
+      "from": "01-املظهرالعاملويندوز",
+      "to": "01-the-windows-interface"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "02-the-windows-operating-system",
+      "from": "02-التاريخوالوقت",
+      "to": "02-date-and-time"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "02-the-windows-operating-system",
+      "from": "03-سطحاملكتب",
+      "to": "03-the-desktop"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "02-the-windows-operating-system",
+      "from": "04-إدارةامللفات",
+      "to": "04-file-management"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "03-accessory-programs",
+      "from": "01-الرسام",
+      "to": "01-paint"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "03-accessory-programs",
+      "from": "02-اآللةاحلاسبة",
+      "to": "02-calculator"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "03-accessory-programs",
+      "from": "03-األشكالاألساسية",
+      "to": "03-basic-shapes"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "01-الواجهةالرئيسةللربنامج",
+      "to": "01-the-programs-main-interface"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "02-العملياتاألساسية",
+      "to": "02-basic-operations"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "03-األشكالوالصور",
+      "to": "03-shapes-and-pictures"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "04-اجلداول",
+      "to": "04-tables"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "05-رأسوتذييلالصفحة",
+      "to": "05-header-and-footer"
+    },
+    {
+      "subject": "sd-g5-ict",
+      "chapter": "04-application-software-ms-word",
+      "from": "06-طباعةاملستند",
+      "to": "06-printing-the-document"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "01-وحدةاملعاجلةاملركزية",
+      "to": "01-the-central-processing-unit"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "02-العملياتاألساسيةللحاسوب",
+      "to": "02-basic-computer-operations"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "01-processing-and-storing-data-in-the-computer",
+      "from": "03-وحداتالتخزينيفاحلاسوب",
+      "to": "03-computer-storage-units"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "02-the-windows-operating-system",
+      "from": "01-املظهرالعاملويندوز",
+      "to": "01-the-windows-interface"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "02-the-windows-operating-system",
+      "from": "02-التاريخوالوقت",
+      "to": "02-date-and-time"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "02-the-windows-operating-system",
+      "from": "03-سطحاملكتب",
+      "to": "03-the-desktop"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "02-the-windows-operating-system",
+      "from": "04-إدارةامللفات",
+      "to": "04-file-management"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "03-accessory-programs",
+      "from": "01-الرسام",
+      "to": "01-paint"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "03-accessory-programs",
+      "from": "02-اآللةاحلاسبة",
+      "to": "02-calculator"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "03-accessory-programs",
+      "from": "03-األشكالاألساسية",
+      "to": "03-basic-shapes"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "01-الواجهةالرئيسةللربنامج",
+      "to": "01-the-programs-main-interface"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "02-العملياتاألساسية",
+      "to": "02-basic-operations"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "03-األشكالوالصور",
+      "to": "03-shapes-and-pictures"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "04-اجلداول",
+      "to": "04-tables"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "05-رأسوتذييلالصفحة",
+      "to": "05-header-and-footer"
+    },
+    {
+      "subject": "sd-g5-technology",
+      "chapter": "04-application-software-ms-word",
+      "from": "06-طباعةاملستند",
+      "to": "06-printing-the-document"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "01-module-1",
+      "from": "unit-1",
+      "to": "01-unite-1-je-mappelle"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "01-module-1",
+      "from": "unit-2",
+      "to": "02-unite-2-qui-cest"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "01-module-1",
+      "from": "unit-3",
+      "to": "03-unite-3-jaime-je-naime-pas"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "02-module-2",
+      "from": "unit-4",
+      "to": "01-unite-4-voici-ma-famille"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "02-module-2",
+      "from": "unit-5",
+      "to": "02-unite-5-quest-ce-que-cest"
+    },
+    {
+      "subject": "sd-g10-french",
+      "chapter": "02-module-2",
+      "from": "unit-6",
+      "to": "03-unite-6-portraits"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "01-introduction-to-family-sciences",
+      "from": "lesson-1",
+      "to": "01-defining-family-sciences"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "01-introduction-to-family-sciences",
+      "from": "lesson-2",
+      "to": "02-family-sciences-in-legislation"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "01-introduction-to-family-sciences",
+      "from": "lesson-3",
+      "to": "03-the-function-of-the-family"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "02-nutrition-and-health",
+      "from": "lesson-4",
+      "to": "01-human-nutrition-and-the-role-of-food"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "02-nutrition-and-health",
+      "from": "lesson-5",
+      "to": "02-essential-minerals-in-food"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "02-nutrition-and-health",
+      "from": "lesson-6",
+      "to": "03-food-energy-and-the-bodys-needs"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "03-underweight-and-overweight",
+      "from": "lesson-7",
+      "to": "01-underweight-and-overweight-problems"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "03-underweight-and-overweight",
+      "from": "lesson-8",
+      "to": "02-population-and-nutrition"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "03-underweight-and-overweight",
+      "from": "lesson-9",
+      "to": "03-food-groups"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "04-health-and-disease",
+      "from": "lesson-10",
+      "to": "01-introduction-to-health-sciences"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "04-health-and-disease",
+      "from": "lesson-11",
+      "to": "02-environment-and-human-health"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "04-health-and-disease",
+      "from": "lesson-12",
+      "to": "03-health-culture-awareness-and-community"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "05-family-health-and-infectious-diseases",
+      "from": "lesson-13",
+      "to": "01-family-health"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "05-family-health-and-infectious-diseases",
+      "from": "lesson-14",
+      "to": "02-infectious-diseases"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "06-household-skills-and-making",
+      "from": "lesson-15",
+      "to": "01-food-preparation-and-the-effects-of-cooking"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "06-household-skills-and-making",
+      "from": "lesson-16",
+      "to": "02-food-preservation-and-processing"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "06-household-skills-and-making",
+      "from": "lesson-17",
+      "to": "03-household-skills-making-food-products-at-home"
+    },
+    {
+      "subject": "sd-g10-home-economics",
+      "chapter": "06-household-skills-and-making",
+      "from": "lesson-18",
+      "to": "04-sewing-and-tailoring"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "01-introduction",
+      "from": "lesson-1",
+      "to": "01-introduction"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "02-military-terminology",
+      "from": "lesson-2",
+      "to": "01-military-terminology"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "03-introduction-to-military-education",
+      "from": "lesson-3",
+      "to": "01-introduction-to-military-education"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "04-examples-from-military-history",
+      "from": "lesson-4",
+      "to": "01-examples-from-military-history"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "04-examples-from-military-history",
+      "from": "lesson-5",
+      "to": "02-battles-of-the-classical-era"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "04-examples-from-military-history",
+      "from": "lesson-6",
+      "to": "03-battles-of-the-islamic-state"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "05-total-wars",
+      "from": "lesson-7",
+      "to": "01-examples-of-total-wars"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "06-modern-wars",
+      "from": "lesson-8",
+      "to": "01-modern-wars-of-the-twentieth-century"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "07-administrative-and-military-organization",
+      "from": "lesson-9",
+      "to": "01-border-movement"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "07-administrative-and-military-organization",
+      "from": "lesson-10",
+      "to": "02-sudanese-regiments"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "07-administrative-and-military-organization",
+      "from": "lesson-11",
+      "to": "03-national-service"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "07-administrative-and-military-organization",
+      "from": "lesson-12",
+      "to": "04-popular-defence-forces"
+    },
+    {
+      "subject": "sd-g10-military-science",
+      "chapter": "07-administrative-and-military-organization",
+      "from": "lesson-13",
+      "to": "05-secondary-students-enlisted-in-national-service"
+    }
+  ]
+}

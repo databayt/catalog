@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "islamic-studies"
+  },
+  "questions": [
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq01",
+      "type": "mcq",
+      "question": "الاجتهاد هو:",
+      "options": [
+        "بذل الجهد لاستنباط الحكم الشرعي",
+        "التقليد الأعمى",
+        "ترك الدين",
+        "الجدال"
+      ],
+      "answer": "بذل الجهد لاستنباط الحكم الشرعي",
+      "explanation": "الاجتهاد."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq02",
+      "type": "true_false",
+      "question": "الوسطية والاعتدال من سمات الإسلام.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الوسطية."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq03",
+      "type": "fill_blank",
+      "question": "الجمع بين النصوص ومقاصد الشريعة من عمل ___.",
+      "answer": "المجتهد",
+      "explanation": "الاجتهاد."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq04",
+      "type": "short_answer",
+      "question": "ما المقصود بمقاصد الشريعة؟",
+      "answer": "الغايات التي جاءت الشريعة لتحقيقها كحفظ الدين والنفس والعقل.",
+      "explanation": "المقاصد."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq01",
+      "type": "mcq",
+      "question": "موقف الإسلام من العلم النافع:",
+      "options": [
+        "يحث عليه",
+        "يمنعه",
+        "لا يهتم",
+        "يكرهه"
+      ],
+      "answer": "يحث عليه",
+      "explanation": "طلب العلم."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq02",
+      "type": "true_false",
+      "question": "يدعو الإسلام إلى التعامل الأخلاقي مع التقنية الحديثة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "أخلاقيات."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq03",
+      "type": "fill_blank",
+      "question": "التعايش واحترام تنوع الناس من قيم ___.",
+      "answer": "التسامح",
+      "explanation": "التعايش."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq04",
+      "type": "short_answer",
+      "question": "كيف يوجّه الإسلام التعامل مع القضايا المعاصرة؟",
+      "answer": "بالرجوع إلى مقاصد الشريعة وقيمها والاجتهاد المنضبط.",
+      "explanation": "قضايا معاصرة."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-01-civilization-lq01",
+      "type": "mcq",
+      "question": "ازدهرت الحضارة الإسلامية في العلوم و:",
+      "options": [
+        "الفنون والعمارة",
+        "الحروب فقط",
+        "العزلة",
+        "الجهل"
+      ],
+      "answer": "الفنون والعمارة",
+      "explanation": "الحضارة."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-01-civilization-lq02",
+      "type": "true_false",
+      "question": "أسهم علماء المسلمين في الطب والرياضيات.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "إسهامات."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-01-civilization-lq03",
+      "type": "fill_blank",
+      "question": "من علماء المسلمين في الطب ابن ___.",
+      "answer": "سينا",
+      "explanation": "ابن سينا."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-01-civilization-lq04",
+      "type": "short_answer",
+      "question": "اذكر مجالاً أسهمت فيه الحضارة الإسلامية.",
+      "answer": "مثل: الطب، الرياضيات، الفلك، العمارة.",
+      "explanation": "الحضارة."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-02-contemporary-lq01",
+      "type": "mcq",
+      "question": "موقف الإسلام من العلم النافع:",
+      "options": [
+        "يحث عليه",
+        "يمنعه",
+        "لا يهتم",
+        "يكرهه"
+      ],
+      "answer": "يحث عليه",
+      "explanation": "طلب العلم."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-02-contemporary-lq02",
+      "type": "true_false",
+      "question": "يوجّه الإسلام إلى التعامل الأخلاقي مع التقنية.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأخلاق."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-02-contemporary-lq03",
+      "type": "fill_blank",
+      "question": "التعايش واحترام الآخر من قيم ___.",
+      "answer": "التسامح",
+      "explanation": "التعايش."
+    },
+    {
+      "id": "g12-isl-unit-02-culture-02-contemporary-lq04",
+      "type": "short_answer",
+      "question": "كيف يوجّه الإسلام التعامل مع القضايا المعاصرة؟",
+      "answer": "بالرجوع إلى مقاصد الشريعة وقيمها والاجتهاد المنضبط.",
+      "explanation": "قضايا معاصرة."
+    }
+  ]
+}

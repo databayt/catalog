@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g8-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-soc-unit-01-founding-01-constitution-lq01",
+          "type": "mcq",
+          "question": "The US Constitution sets up a government with how many branches?",
+          "options": [
+            "one",
+            "two",
+            "three",
+            "ten"
+          ],
+          "answer": "three",
+          "explanation": "Separation of powers."
+        },
+        {
+          "id": "g8-soc-unit-01-founding-01-constitution-lq02",
+          "type": "true_false",
+          "question": "The Constitution is the supreme law of the United States.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Founding document."
+        },
+        {
+          "id": "g8-soc-unit-02-civil-war-01-civil-war-lq01",
+          "type": "mcq",
+          "question": "The US Civil War (1861-65) was largely over slavery and:",
+          "options": [
+            "states' rights",
+            "space travel",
+            "trade with Asia",
+            "the Moon"
+          ],
+          "answer": "states' rights",
+          "explanation": "Civil War causes."
+        },
+        {
+          "id": "g8-soc-unit-02-civil-war-01-civil-war-lq02",
+          "type": "true_false",
+          "question": "Abraham Lincoln was President during the Civil War.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "16th President."
+        }
+      ]
+    }
+  ]
+}

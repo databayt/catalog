@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "01-physics",
+    "lesson": "02-energy"
+  },
+  "questions": [
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq01",
+      "type": "mcq",
+      "question": "Energy stored in food and fuels is:",
+      "options": [
+        "kinetic",
+        "chemical",
+        "light",
+        "sound"
+      ],
+      "answer": "chemical",
+      "explanation": "Chemical store."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq02",
+      "type": "true_false",
+      "question": "Energy can be created and destroyed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "It is conserved/transferred."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq03",
+      "type": "fill_blank",
+      "question": "Energy is measured in ___.",
+      "answer": "joules",
+      "explanation": "Unit J."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq04",
+      "type": "short_answer",
+      "question": "Describe the energy transfer in a torch.",
+      "answer": "Chemical (battery) → electrical → light (and heat).",
+      "explanation": "Energy transfer."
+    }
+  ]
+}

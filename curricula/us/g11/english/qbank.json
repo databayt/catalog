@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq01",
+      "type": "mcq",
+      "question": "Transcendentalism emphasized:",
+      "options": [
+        "industry",
+        "individualism and nature",
+        "monarchy",
+        "warfare"
+      ],
+      "answer": "individualism and nature",
+      "explanation": "Emerson/Thoreau."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq02",
+      "type": "true_false",
+      "question": "The Harlem Renaissance celebrated African American culture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1920s movement."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq03",
+      "type": "fill_blank",
+      "question": "Writing that depicts life realistically is ___.",
+      "answer": "realism",
+      "explanation": "Literary realism."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq04",
+      "type": "short_answer",
+      "question": "Name one American literary movement and a trait.",
+      "answer": "e.g., Romanticism — emphasis on emotion and nature.",
+      "explanation": "Movements."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq01",
+      "type": "mcq",
+      "question": "A famous American rhetorical text is:",
+      "options": [
+        "the Gettysburg Address",
+        "a grocery list",
+        "a phone bill",
+        "a menu"
+      ],
+      "answer": "the Gettysburg Address",
+      "explanation": "Lincoln's speech."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq02",
+      "type": "true_false",
+      "question": "Repetition (anaphora) is a rhetorical device.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., 'I have a dream...'."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq03",
+      "type": "fill_blank",
+      "question": "An appeal to shared values builds the speaker's ___.",
+      "answer": "ethos",
+      "explanation": "Credibility/values."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq04",
+      "type": "short_answer",
+      "question": "Why analyze historic speeches?",
+      "answer": "To understand persuasion and the era's values and issues.",
+      "explanation": "Rhetorical analysis."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq01",
+      "type": "mcq",
+      "question": "A rebuttal responds to:",
+      "options": [
+        "your own claim",
+        "a counterargument",
+        "the title",
+        "the bibliography"
+      ],
+      "answer": "a counterargument",
+      "explanation": "Refutes opposition."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq02",
+      "type": "true_false",
+      "question": "Logical fallacies weaken an argument.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Avoid faulty reasoning."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq03",
+      "type": "fill_blank",
+      "question": "An example of a fallacy is the ad ___ attack on a person.",
+      "answer": "hominem",
+      "explanation": "Ad hominem."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq04",
+      "type": "short_answer",
+      "question": "What is the role of a rebuttal?",
+      "answer": "To answer and weaken the opposing view.",
+      "explanation": "Rebuttal."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-02-research-paper-lq01",
+      "type": "mcq",
+      "question": "MLA and APA are types of:",
+      "options": [
+        "fonts",
+        "citation styles",
+        "essays",
+        "sources"
+      ],
+      "answer": "citation styles",
+      "explanation": "Documentation."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-02-research-paper-lq02",
+      "type": "true_false",
+      "question": "A works-cited page lists all sources used.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bibliography."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-02-research-paper-lq03",
+      "type": "fill_blank",
+      "question": "Borrowing words without credit is ___.",
+      "answer": "plagiarism",
+      "explanation": "Academic dishonesty."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-02-research-paper-lq04",
+      "type": "short_answer",
+      "question": "Why use a consistent citation style?",
+      "answer": "So readers can find sources and credit is given clearly.",
+      "explanation": "Citation."
+    }
+  ]
+}

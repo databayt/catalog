@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "chemistry"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-chemistry-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq01",
+          "type": "mcq",
+          "question": "An acid has a pH:",
+          "options": [
+            "7",
+            "above 7",
+            "below 7",
+            "exactly 14"
+          ],
+          "answer": "below 7",
+          "explanation": "Acidic."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-01-acids-bases-lq02",
+          "type": "true_false",
+          "question": "Acid + base → salt + water (neutralisation).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Neutralisation."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq01",
+          "type": "mcq",
+          "question": "Increasing temperature usually makes a reaction:",
+          "options": [
+            "slower",
+            "faster",
+            "stop",
+            "freeze"
+          ],
+          "answer": "faster",
+          "explanation": "More collisions."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq02",
+          "type": "true_false",
+          "question": "A catalyst speeds up a reaction without being used up.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Catalysis."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq01",
+          "type": "mcq",
+          "question": "نصوم في شهر:",
+          "options": [
+            "رجب",
+            "شعبان",
+            "رمضان",
+            "محرم"
+          ],
+          "answer": "رمضان",
+          "explanation": "صيام رمضان."
+        },
+        {
+          "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq02",
+          "type": "true_false",
+          "question": "الصيام هو الامتناع عن الطعام والشراب من الفجر إلى المغرب.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف الصيام."
+        },
+        {
+          "id": "g4-isl-unit-02-seerah-01-birth-lq01",
+          "type": "mcq",
+          "question": "وُلد النبي ﷺ في:",
+          "options": [
+            "مكة",
+            "المدينة",
+            "الطائف",
+            "بغداد"
+          ],
+          "answer": "مكة",
+          "explanation": "المولد."
+        },
+        {
+          "id": "g4-isl-unit-02-seerah-01-birth-lq02",
+          "type": "true_false",
+          "question": "كفل النبيَّ ﷺ جدُّه ثم عمُّه.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "نشأته."
+        }
+      ]
+    }
+  ]
+}

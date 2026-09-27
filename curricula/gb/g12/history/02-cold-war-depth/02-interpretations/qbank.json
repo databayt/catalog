@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "history",
+    "chapter": "02-cold-war-depth",
+    "lesson": "02-interpretations"
+  },
+  "questions": [
+    {
+      "id": "g12-his-unit-02-cold-war-depth-02-interpretations-lq01",
+      "type": "mcq",
+      "question": "A-Level history requires evaluating different historians':",
+      "options": [
+        "interpretations",
+        "handwriting",
+        "fonts",
+        "prices"
+      ],
+      "answer": "interpretations",
+      "explanation": "AO3/historiography."
+    },
+    {
+      "id": "g12-his-unit-02-cold-war-depth-02-interpretations-lq02",
+      "type": "true_false",
+      "question": "Different historians can interpret the same events differently.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Interpretation."
+    },
+    {
+      "id": "g12-his-unit-02-cold-war-depth-02-interpretations-lq03",
+      "type": "fill_blank",
+      "question": "Judging the value of a source involves assessing its ___ and reliability.",
+      "answer": "provenance",
+      "explanation": "Source evaluation."
+    },
+    {
+      "id": "g12-his-unit-02-cold-war-depth-02-interpretations-lq04",
+      "type": "short_answer",
+      "question": "Why evaluate differing interpretations?",
+      "answer": "To form a substantiated judgement rather than accept one view.",
+      "explanation": "Historiography."
+    }
+  ]
+}

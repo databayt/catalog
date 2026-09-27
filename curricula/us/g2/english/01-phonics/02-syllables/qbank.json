@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "01-phonics",
+    "lesson": "02-syllables"
+  },
+  "questions": [
+    {
+      "id": "g2-eng-unit-01-phonics-02-syllables-lq01",
+      "type": "mcq",
+      "question": "How many syllables in 'butterfly'?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "but-ter-fly."
+    },
+    {
+      "id": "g2-eng-unit-01-phonics-02-syllables-lq02",
+      "type": "true_false",
+      "question": "Each syllable has a vowel sound.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "One vowel sound per syllable."
+    },
+    {
+      "id": "g2-eng-unit-01-phonics-02-syllables-lq03",
+      "type": "fill_blank",
+      "question": "'rabbit' has ___ syllables.",
+      "answer": "2",
+      "explanation": "rab-bit."
+    },
+    {
+      "id": "g2-eng-unit-01-phonics-02-syllables-lq04",
+      "type": "short_answer",
+      "question": "Clap the syllables in 'elephant'.",
+      "answer": "3 (el-e-phant).",
+      "explanation": "Three beats."
+    }
+  ]
+}

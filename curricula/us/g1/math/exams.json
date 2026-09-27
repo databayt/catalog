@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g1-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq01",
+          "type": "mcq",
+          "question": "What number comes right after 119?",
+          "options": [
+            "118",
+            "120",
+            "121",
+            "109"
+          ],
+          "answer": "120",
+          "explanation": "Counting up by one from 119 gives 120."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq02",
+          "type": "true_false",
+          "question": "When counting, the number after 99 is 100.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "99 + 1 = 100."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq01",
+          "type": "mcq",
+          "question": "8 + 5 = ?",
+          "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "answer": "13",
+          "explanation": "8 + 5 = 13."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq02",
+          "type": "true_false",
+          "question": "Addition can be done in any order: 6 + 9 = 9 + 6.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Addition is commutative."
+        },
+        {
+          "id": "g1-mat-unit-03-geometry-shapes-01-2d-3d-shapes-lq01",
+          "type": "mcq",
+          "question": "How many sides does a triangle have?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "explanation": "A triangle has 3 sides."
+        },
+        {
+          "id": "g1-mat-unit-03-geometry-shapes-01-2d-3d-shapes-lq02",
+          "type": "true_false",
+          "question": "A cube is a 3D shape.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "A cube has length, width and height."
+        }
+      ]
+    }
+  ]
+}

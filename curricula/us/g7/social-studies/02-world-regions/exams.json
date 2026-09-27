@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "social-studies",
+    "chapter": "02-world-regions"
+  },
+  "exams": [
+    {
+      "id": "g7-soc-unit-02-world-regions-exam",
+      "title": "Exam: World Regions & Cultures",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq01",
+          "type": "mcq",
+          "question": "Studying a region examines its geography, history and:",
+          "options": [
+            "culture",
+            "fonts",
+            "prices only",
+            "weather only"
+          ],
+          "answer": "culture",
+          "explanation": "Regional study."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq02",
+          "type": "true_false",
+          "question": "Trade connected distant regions in the past.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Trade networks."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq03",
+          "type": "fill_blank",
+          "question": "The trade route linking Asia and Europe was the Silk ___.",
+          "answer": "Road",
+          "explanation": "Silk Road."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq04",
+          "type": "short_answer",
+          "question": "Why study different world regions?",
+          "answer": "To understand diverse cultures and global connections.",
+          "explanation": "Regional study."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq01",
+          "type": "mcq",
+          "question": "The exchange of goods and ideas between cultures is cultural:",
+          "options": [
+            "diffusion",
+            "erosion",
+            "decay",
+            "division"
+          ],
+          "answer": "diffusion",
+          "explanation": "Cultural diffusion."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq02",
+          "type": "true_false",
+          "question": "Trade spread religions and technologies between regions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Exchange."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq03",
+          "type": "fill_blank",
+          "question": "Goods traded over long distances included spices and ___.",
+          "answer": "silk",
+          "explanation": "Luxury goods."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-02-trade-exchange-lq04",
+          "type": "short_answer",
+          "question": "How did trade affect cultures?",
+          "answer": "It spread goods, ideas, religions and technology.",
+          "explanation": "Cultural exchange."
+        }
+      ]
+    }
+  ]
+}

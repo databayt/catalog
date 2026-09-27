@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "social-studies",
+    "chapter": "02-maps",
+    "lesson": "02-directions"
+  },
+  "questions": [
+    {
+      "id": "g1-soc-unit-02-maps-02-directions-lq01",
+      "type": "mcq",
+      "question": "The direction opposite to North is:",
+      "options": [
+        "South",
+        "East",
+        "West",
+        "Up"
+      ],
+      "answer": "South",
+      "explanation": "Cardinal directions."
+    },
+    {
+      "id": "g1-soc-unit-02-maps-02-directions-lq02",
+      "type": "true_false",
+      "question": "The Sun rises in the East.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sunrise direction."
+    },
+    {
+      "id": "g1-soc-unit-02-maps-02-directions-lq03",
+      "type": "fill_blank",
+      "question": "The four main directions are North, South, East and ___.",
+      "answer": "West",
+      "explanation": "Cardinal points."
+    },
+    {
+      "id": "g1-soc-unit-02-maps-02-directions-lq04",
+      "type": "short_answer",
+      "question": "Name the four cardinal directions.",
+      "answer": "North, South, East, West.",
+      "explanation": "Directions."
+    }
+  ]
+}

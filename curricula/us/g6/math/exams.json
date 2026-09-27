@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g6-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq01",
+          "type": "mcq",
+          "question": "The ratio of 6 boys to 9 girls in simplest form is:",
+          "options": [
+            "6:9",
+            "2:3",
+            "3:2",
+            "1:2"
+          ],
+          "answer": "2:3",
+          "explanation": "Divide both by 3."
+        },
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq02",
+          "type": "true_false",
+          "question": "A ratio of 4:2 is equivalent to 2:1.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Divide both by 2."
+        },
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq01",
+          "type": "mcq",
+          "question": "Evaluate 3x + 2 when x = 4:",
+          "options": [
+            "14",
+            "12",
+            "9",
+            "20"
+          ],
+          "answer": "14",
+          "explanation": "3(4)+2=14."
+        },
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq02",
+          "type": "true_false",
+          "question": "In 5y, 5 is the coefficient.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Coefficient of y."
+        }
+      ]
+    }
+  ]
+}

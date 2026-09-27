@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "islamic-studies",
+    "chapter": "02-prophets",
+    "lesson": "02-nuh"
+  },
+  "exams": [
+    {
+      "id": "g3-isl-unit-02-prophets-02-nuh-quiz",
+      "title": "Quiz: نوح عليه السلام",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-isl-unit-02-prophets-02-nuh-lq01",
+          "type": "mcq",
+          "question": "صنع نوح عليه السلام بأمر الله:",
+          "options": [
+            "السفينة",
+            "قصراً",
+            "جسراً",
+            "مدرسة"
+          ],
+          "answer": "السفينة",
+          "explanation": "قصة الطوفان."
+        },
+        {
+          "id": "g3-isl-unit-02-prophets-02-nuh-lq02",
+          "type": "true_false",
+          "question": "دعا نوح قومه إلى عبادة الله زمناً طويلاً.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الصبر على الدعوة."
+        },
+        {
+          "id": "g3-isl-unit-02-prophets-02-nuh-lq03",
+          "type": "fill_blank",
+          "question": "نجا نوح ومن آمن معه في ___.",
+          "answer": "السفينة",
+          "explanation": "النجاة."
+        },
+        {
+          "id": "g3-isl-unit-02-prophets-02-nuh-lq04",
+          "type": "short_answer",
+          "question": "ما العبرة من قصة نوح؟",
+          "answer": "الصبر على الدعوة والثقة بالله.",
+          "explanation": "العبرة."
+        }
+      ]
+    }
+  ]
+}

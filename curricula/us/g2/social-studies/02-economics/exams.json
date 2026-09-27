@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "02-economics"
+  },
+  "exams": [
+    {
+      "id": "g2-soc-unit-02-economics-exam",
+      "title": "Exam: Needs, Wants & Work",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq01",
+          "type": "mcq",
+          "question": "Which is a need, not a want?",
+          "options": [
+            "toy",
+            "food",
+            "game",
+            "candy"
+          ],
+          "answer": "food",
+          "explanation": "Needs = survival."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq02",
+          "type": "true_false",
+          "question": "A want is something nice to have but not necessary.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Want vs need."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq03",
+          "type": "fill_blank",
+          "question": "Food, water and shelter are basic ___.",
+          "answer": "needs",
+          "explanation": "Needs."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq04",
+          "type": "short_answer",
+          "question": "Give one example of a want.",
+          "answer": "e.g., a toy or a game.",
+          "explanation": "Wants."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-02-goods-services-lq01",
+          "type": "mcq",
+          "question": "A haircut is an example of a:",
+          "options": [
+            "good",
+            "service",
+            "need",
+            "map"
+          ],
+          "answer": "service",
+          "explanation": "Service = work done for you."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-02-goods-services-lq02",
+          "type": "true_false",
+          "question": "Goods are things you can touch and buy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Physical products."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-02-goods-services-lq03",
+          "type": "fill_blank",
+          "question": "People earn money by doing a job, or ___.",
+          "answer": "work",
+          "explanation": "Work/earning."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-02-goods-services-lq04",
+          "type": "short_answer",
+          "question": "What is the difference between goods and services?",
+          "answer": "Goods are products; services are work people do for others.",
+          "explanation": "Goods vs services."
+        }
+      ]
+    }
+  ]
+}

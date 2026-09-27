@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "art"
+  },
+  "exams": [
+    {
+      "id": "us-g3-art-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-art-unit-01-elements-01-line-shape-lq01",
+          "type": "mcq",
+          "question": "Which is an element of art?",
+          "options": [
+            "line",
+            "lunch",
+            "loud",
+            "late"
+          ],
+          "answer": "line",
+          "explanation": "Lines are a basic art element."
+        },
+        {
+          "id": "g3-art-unit-01-elements-01-line-shape-lq02",
+          "type": "true_false",
+          "question": "A shape can be made by joining lines.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Closed lines form shapes."
+        },
+        {
+          "id": "g3-art-unit-02-making-01-drawing-lq01",
+          "type": "mcq",
+          "question": "Drawing what you really see in front of you is:",
+          "options": [
+            "observational drawing",
+            "copying photos",
+            "tracing",
+            "colouring only"
+          ],
+          "answer": "observational drawing",
+          "explanation": "From observation."
+        },
+        {
+          "id": "g3-art-unit-02-making-01-drawing-lq02",
+          "type": "true_false",
+          "question": "Shading can make a drawing look 3D.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tone adds depth."
+        }
+      ]
+    }
+  ]
+}

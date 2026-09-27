@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "history",
+    "chapter": "01-tudors-breadth",
+    "lesson": "01-establishing-dynasty"
+  },
+  "exams": [
+    {
+      "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-quiz",
+      "title": "Quiz: Establishing the Tudor Dynasty",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq01",
+          "type": "mcq",
+          "question": "The Tudor dynasty began after victory at the Battle of:",
+          "options": [
+            "Bosworth",
+            "Hastings",
+            "Waterloo",
+            "Trafalgar"
+          ],
+          "answer": "Bosworth",
+          "explanation": "1485, Henry VII."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq02",
+          "type": "true_false",
+          "question": "Henry VII strengthened royal finances and reduced noble power.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Consolidation."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq03",
+          "type": "fill_blank",
+          "question": "The Wars of the Roses were ended by Henry ___.",
+          "answer": "VII",
+          "explanation": "Tudor founder."
+        },
+        {
+          "id": "g12-his-unit-01-tudors-breadth-01-establishing-dynasty-lq04",
+          "type": "short_answer",
+          "question": "How did Henry VII secure the Tudor dynasty?",
+          "answer": "By strong financial control, limiting nobles and strategic marriages.",
+          "explanation": "Consolidation."
+        }
+      ]
+    }
+  ]
+}

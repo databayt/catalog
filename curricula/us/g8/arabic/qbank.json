@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "arabic"
+  },
+  "questions": [
+    {
+      "id": "g8-ara-unit-01-kana-01-kana-lq01",
+      "type": "mcq",
+      "question": "(كان) ترفع المبتدأ وتنصب:",
+      "options": [
+        "الفاعل",
+        "الخبر",
+        "المفعول",
+        "الحرف"
+      ],
+      "answer": "الخبر",
+      "explanation": "ترفع اسمها وتنصب خبرها."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-01-kana-lq02",
+      "type": "true_false",
+      "question": "(أصبح، أمسى، صار) من أخوات كان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأفعال الناقصة."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-01-kana-lq03",
+      "type": "fill_blank",
+      "question": "في (كان الجوُّ بارداً) خبر كان هو ___.",
+      "answer": "بارداً",
+      "explanation": "منصوب."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-01-kana-lq04",
+      "type": "short_answer",
+      "question": "ماذا تفعل (كان) بالجملة الاسمية؟",
+      "answer": "ترفع المبتدأ (اسمها) وتنصب الخبر (خبرها).",
+      "explanation": "كان وأخواتها."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq01",
+      "type": "mcq",
+      "question": "(كاتب) اسم:",
+      "options": [
+        "فاعل",
+        "مفعول",
+        "آلة",
+        "زمان"
+      ],
+      "answer": "فاعل",
+      "explanation": "اسم الفاعل."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq02",
+      "type": "true_false",
+      "question": "اسم المفعول يدل على من وقع عليه الفعل.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "اسم المفعول."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq03",
+      "type": "fill_blank",
+      "question": "اسم الفاعل من (لعب) هو ___.",
+      "answer": "لاعب",
+      "explanation": "اسم الفاعل."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq04",
+      "type": "short_answer",
+      "question": "اشتق اسم الفاعل من الفعل (شرب).",
+      "answer": "شارب",
+      "explanation": "الاشتقاق."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-01-marifa-lq01",
+      "type": "mcq",
+      "question": "أي الكلمات معرفة؟",
+      "options": [
+        "كتابٌ",
+        "الكتابُ",
+        "قلمٌ",
+        "بيتٌ"
+      ],
+      "answer": "الكتابُ",
+      "explanation": "معرّف بأل."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-01-marifa-lq02",
+      "type": "true_false",
+      "question": "الأسماء المعرّفة بأل من المعارف.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "المعارف."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-01-marifa-lq03",
+      "type": "fill_blank",
+      "question": "الضمائر مثل (هو، أنتَ) من ___.",
+      "answer": "المعارف",
+      "explanation": "المعارف."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-01-marifa-lq04",
+      "type": "short_answer",
+      "question": "اذكر نوعاً من أنواع المعارف.",
+      "answer": "مثل: العلم، الضمير، المعرّف بأل.",
+      "explanation": "المعارف."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-02-nakira-lq01",
+      "type": "mcq",
+      "question": "النكرة اسم:",
+      "options": [
+        "يدل على غير معيّن",
+        "معروف",
+        "علم",
+        "ضمير"
+      ],
+      "answer": "يدل على غير معيّن",
+      "explanation": "تعريف النكرة."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-02-nakira-lq02",
+      "type": "true_false",
+      "question": "(رجلٌ) نكرة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "غير معيّن."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-02-nakira-lq03",
+      "type": "fill_blank",
+      "question": "الاسم غير المحدد بمعيّن يسمى ___.",
+      "answer": "النكرة",
+      "explanation": "النكرة."
+    },
+    {
+      "id": "g8-ara-unit-02-definite-02-nakira-lq04",
+      "type": "short_answer",
+      "question": "حوّل (ولد) إلى معرفة.",
+      "answer": "الولد",
+      "explanation": "التعريف بأل."
+    }
+  ]
+}

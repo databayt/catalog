@@ -1,0 +1,377 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "ict"
+  },
+  "exams": [
+    {
+      "id": "g6-ict-final",
+      "title": "الامتحان النهائي - ict",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-01-concept-of-network-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-01-concept-of-network-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-02-types-of-networks-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-02-types-of-networks-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-03-network-devices-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-03-network-devices-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-04-ip-address-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-04-ip-address-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-05-mac-address-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-1-networks-and-communication-05-mac-address-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-06-internet-basics-q01",
+          "type": "mcq",
+          "question": "ما الاختصار الكامل لـ WWW؟",
+          "options": [
+            "World Wide Web",
+            "World Web Window",
+            "Wide World Web",
+            "Web Wide World"
+          ],
+          "answer": "World Wide Web",
+          "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-06-internet-basics-q02",
+          "type": "true_false",
+          "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-07-world-wide-web-q01",
+          "type": "mcq",
+          "question": "ما الاختصار الكامل لـ WWW؟",
+          "options": [
+            "World Wide Web",
+            "World Web Window",
+            "Wide World Web",
+            "Web Wide World"
+          ],
+          "answer": "World Wide Web",
+          "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-07-world-wide-web-q02",
+          "type": "true_false",
+          "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-08-web-browsers-q01",
+          "type": "mcq",
+          "question": "ما الاختصار الكامل لـ WWW؟",
+          "options": [
+            "World Wide Web",
+            "World Web Window",
+            "Wide World Web",
+            "Web Wide World"
+          ],
+          "answer": "World Wide Web",
+          "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-08-web-browsers-q02",
+          "type": "true_false",
+          "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-09-search-engines-q01",
+          "type": "mcq",
+          "question": "ما الاختصار الكامل لـ WWW؟",
+          "options": [
+            "World Wide Web",
+            "World Web Window",
+            "Wide World Web",
+            "Web Wide World"
+          ],
+          "answer": "World Wide Web",
+          "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-09-search-engines-q02",
+          "type": "true_false",
+          "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-10-email-q01",
+          "type": "mcq",
+          "question": "ما الاختصار الكامل لـ WWW؟",
+          "options": [
+            "World Wide Web",
+            "World Web Window",
+            "Wide World Web",
+            "Web Wide World"
+          ],
+          "answer": "World Wide Web",
+          "explanation": "WWW تعني الشبكة العنكبوتية العالمية."
+        },
+        {
+          "id": "g6-ict-unit-2-internet-and-web-10-email-q02",
+          "type": "true_false",
+          "question": "الإيميل وسيلة للتواصل عبر الإنترنت.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "البريد الإلكتروني من أهم وسائل التواصل عبر الإنترنت."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-12-security-basics-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-12-security-basics-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-13-cyber-threats-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-13-cyber-threats-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-14-passwords-and-authentication-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-14-passwords-and-authentication-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-15-safe-browsing-q01",
+          "type": "mcq",
+          "question": "ما الجهاز الذي يحوّل المعلومات المطبوعة إلى ملف رقمي؟",
+          "options": [
+            "الماسح الضوئي (Scanner)",
+            "الطابعة",
+            "شاشة العرض",
+            "الميكروفون"
+          ],
+          "answer": "الماسح الضوئي (Scanner)",
+          "explanation": "الماسح الضوئي يرقمن المستندات والصور إلى ملفات رقمية."
+        },
+        {
+          "id": "g6-ict-unit-3-information-security-15-safe-browsing-q02",
+          "type": "true_false",
+          "question": "لوحة المفاتيح وحدة إدخال للحاسوب.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "لوحة المفاتيح تُدخل النصوص والأوامر إلى الحاسوب."
+        },
+        {
+          "id": "g6-ict-unit-4-office-applications-16-word-processing-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g6-ict-unit-4-office-applications-16-word-processing-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        }
+      ]
+    }
+  ]
+}

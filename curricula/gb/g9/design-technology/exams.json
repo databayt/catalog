@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "design-technology"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-design-technology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-des-unit-01-design-process-01-research-lq01",
+          "type": "mcq",
+          "question": "A specification lists the ___ a product must meet.",
+          "options": [
+            "requirements",
+            "prices only",
+            "colours only",
+            "names"
+          ],
+          "answer": "requirements",
+          "explanation": "Specification."
+        },
+        {
+          "id": "g9-des-unit-01-design-process-01-research-lq02",
+          "type": "true_false",
+          "question": "Researching existing products helps designers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Research."
+        },
+        {
+          "id": "g9-des-unit-02-materials-01-materials-lq01",
+          "type": "mcq",
+          "question": "A property of a good material for a chair leg is:",
+          "options": [
+            "strength",
+            "being edible",
+            "glowing",
+            "melting easily"
+          ],
+          "answer": "strength",
+          "explanation": "Material properties."
+        },
+        {
+          "id": "g9-des-unit-02-materials-01-materials-lq02",
+          "type": "true_false",
+          "question": "Different materials suit different purposes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Material choice."
+        }
+      ]
+    }
+  ]
+}

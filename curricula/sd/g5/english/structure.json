@@ -1,0 +1,371 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g5-english",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-back-to-school",
+      "title": {
+        "en": "Back to School"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-school-transitions-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-my-family-and-my-community",
+      "title": {
+        "en": "My Family and My Community"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-family-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-clothes",
+      "title": {
+        "en": "Clothes"
+      },
+      "concept": "english",
+      "image": "clickview/middle-textiles-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-animal-partners",
+      "title": {
+        "en": "Animal Partners"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-animals-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-helping-hands",
+      "title": {
+        "en": "Helping Hands"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-world-of-work-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-travel-and-holidays",
+      "title": {
+        "en": "Travel and Holidays"
+      },
+      "concept": "english",
+      "image": "clickview/high-global-tourism-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8 (Revision)"
+          }
+        }
+      ]
+    }
+  ]
+}

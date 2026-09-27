@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "02-styles",
+    "lesson": "02-nida"
+  },
+  "questions": [
+    {
+      "id": "g9-ara-unit-02-styles-02-nida-lq01",
+      "type": "mcq",
+      "question": "أداة النداء في (يا طالبُ) هي:",
+      "options": [
+        "يا",
+        "هل",
+        "لم",
+        "قد"
+      ],
+      "answer": "يا",
+      "explanation": "أداة نداء."
+    },
+    {
+      "id": "g9-ara-unit-02-styles-02-nida-lq02",
+      "type": "true_false",
+      "question": "النداء أسلوب لطلب الإقبال.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "النداء."
+    },
+    {
+      "id": "g9-ara-unit-02-styles-02-nida-lq03",
+      "type": "fill_blank",
+      "question": "أشهر أدوات النداء هي ___.",
+      "answer": "يا",
+      "explanation": "النداء."
+    },
+    {
+      "id": "g9-ara-unit-02-styles-02-nida-lq04",
+      "type": "short_answer",
+      "question": "كوّن جملة فيها نداء.",
+      "answer": "مثل: يا أحمدُ، اجتهدْ.",
+      "explanation": "النداء."
+    }
+  ]
+}

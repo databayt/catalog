@@ -1,0 +1,285 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g8-history",
+  "curriculum": "sd",
+  "grade": "g8",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "history",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-sudan-history",
+      "title": {
+        "ar": "من تاريخ السودان",
+        "en": "From Sudan's History"
+      },
+      "concept": "history",
+      "image": "clickview/middle-being-a-historian-cover.jpg",
+      "page": 6,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-arab-migration-to-sudan",
+          "title": {
+            "ar": "هجرة العرب إلى السودان",
+            "en": "The Migration of the Arabs to Sudan"
+          },
+          "page": 7,
+          "image": "clickview/high-migration-cover.jpg"
+        },
+        {
+          "slug": "02-treaties-arabs-nubia-beja",
+          "title": {
+            "ar": "المعاهدات بين العرب المسلمين والنوبة والبجا",
+            "en": "Treaties between the Muslim Arabs and the Nubians and Beja"
+          },
+          "page": 9
+        },
+        {
+          "slug": "03-results-arab-entry-sudan",
+          "title": {
+            "ar": "نتائج دخول العرب المسلمين إلى السودان",
+            "en": "The Results of the Muslim Arabs' Entry into Sudan"
+          },
+          "page": 12
+        },
+        {
+          "slug": "04-islamic-sultanates-funj",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (١) سلطنة الفونج",
+            "en": "Islamic Sultanates in Sudan (1): The Funj Sultanate"
+          },
+          "page": 14
+        },
+        {
+          "slug": "05-islamic-sultanates-abdallab",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (٢) مشيخة العبدلاب",
+            "en": "Islamic Sultanates in Sudan (2): The Abdallab Chieftaincy"
+          },
+          "page": 18
+        },
+        {
+          "slug": "06-islamic-sultanates-taqali",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (٣) مملكة تقلي",
+            "en": "Islamic Sultanates in Sudan (3): The Kingdom of Taqali"
+          },
+          "page": 21
+        },
+        {
+          "slug": "07-islamic-sultanates-fur",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (٤) سلطنة الفور",
+            "en": "Islamic Sultanates in Sudan (4): The Fur Sultanate"
+          },
+          "page": 23
+        },
+        {
+          "slug": "08-turco-egyptian-administrative-system",
+          "title": {
+            "ar": "الحكم التركي المصري للسودان (١) النظام الإداري",
+            "en": "The Turco-Egyptian Rule of Sudan (1): The Administrative System"
+          },
+          "page": 26,
+          "image": "clickview/high-systems-of-government-cover.jpg"
+        },
+        {
+          "slug": "09-turco-egyptian-resource-exploitation",
+          "title": {
+            "ar": "الحكم التركي المصري للسودان (٢) استغلال موارد السودان",
+            "en": "The Turco-Egyptian Rule of Sudan (2): Exploitation of Sudan's Resources"
+          },
+          "page": 29,
+          "image": "clickview/middle-natural-resources-cover.jpg"
+        },
+        {
+          "slug": "10-turco-egyptian-sudanese-resistance",
+          "title": {
+            "ar": "الحكم التركي المصري للسودان (٣) مقاومة السودانيين",
+            "en": "The Turco-Egyptian Rule of Sudan (3): Sudanese Resistance"
+          },
+          "page": 32,
+          "image": "clickview/high-the-history-of-activism-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-umayyad-era",
+      "title": {
+        "ar": "تطور الدولة الإسلامية في العهد الأموي",
+        "en": "The Development of the Islamic State in the Umayyad Era"
+      },
+      "concept": "history",
+      "image": "clickview/high-systems-of-government-cover.jpg",
+      "page": 41,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-founding-umayyad-state",
+          "title": {
+            "ar": "تأسيس الدولة الأموية",
+            "en": "The Founding of the Umayyad State"
+          },
+          "page": 42
+        },
+        {
+          "slug": "02-umayyad-caliphs",
+          "title": {
+            "ar": "خلفاء الدولة الأموية",
+            "en": "The Caliphs of the Umayyad State"
+          },
+          "page": 44
+        },
+        {
+          "slug": "03-umayyad-conquests",
+          "title": {
+            "ar": "الفتوحات الإسلامية في عهد الدولة الأموية",
+            "en": "The Islamic Conquests under the Umayyad State"
+          },
+          "page": 49
+        },
+        {
+          "slug": "04-umayyad-achievements",
+          "title": {
+            "ar": "أهم إنجازات الدولة الأموية",
+            "en": "The Most Important Achievements of the Umayyad State"
+          },
+          "page": 54
+        },
+        {
+          "slug": "05-umayyad-decline-fall",
+          "title": {
+            "ar": "ضعف الدولة الأموية وسقوطها",
+            "en": "The Weakness and Fall of the Umayyad State"
+          },
+          "page": 56
+        }
+      ]
+    },
+    {
+      "slug": "03-african-history",
+      "title": {
+        "ar": "من تاريخ إفريقيا",
+        "en": "From African History"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-africa-cover.jpg",
+      "page": 62,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-spread-of-islam-africa",
+          "title": {
+            "ar": "انتشار الإسلام في إفريقيا",
+            "en": "The Spread of Islam in Africa"
+          },
+          "page": 63
+        },
+        {
+          "slug": "02-means-of-spreading-islam",
+          "title": {
+            "ar": "وسائل انتشار الإسلام",
+            "en": "The Means of Spreading Islam"
+          },
+          "page": 66
+        },
+        {
+          "slug": "03-islamic-civilization-african-kingdoms",
+          "title": {
+            "ar": "مظاهر الحضارة الإسلامية في الممالك الإفريقية",
+            "en": "Manifestations of Islamic Civilization in the African Kingdoms"
+          },
+          "page": 68
+        },
+        {
+          "slug": "04-european-colonialism-africa",
+          "title": {
+            "ar": "الاستعمار الأوربي لإفريقيا",
+            "en": "European Colonialism in Africa"
+          },
+          "page": 72,
+          "image": "clickview/middle-exploration-and-colonization-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-european-history",
+      "title": {
+        "ar": "من تاريخ أوربا",
+        "en": "From European History"
+      },
+      "concept": "history",
+      "image": "clickview/middle-exploration-and-colonization-cover.jpg",
+      "page": 77,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-european-renaissance-age",
+          "title": {
+            "ar": "عصر النهضة الأوربية",
+            "en": "The Age of the European Renaissance"
+          },
+          "page": 78
+        },
+        {
+          "slug": "02-european-literary-renaissance",
+          "title": {
+            "ar": "النهضة الأدبية الأوربية",
+            "en": "The European Literary Renaissance"
+          },
+          "page": 80,
+          "image": "clickview/middle-literary-texts-cover.jpg"
+        },
+        {
+          "slug": "03-european-artistic-renaissance",
+          "title": {
+            "ar": "النهضة الفنية الأوربية",
+            "en": "The European Artistic Renaissance"
+          },
+          "page": 84,
+          "image": "clickview/middle-art-styles-and-movements-cover.jpg"
+        },
+        {
+          "slug": "04-geographical-discoveries-movement",
+          "title": {
+            "ar": "حركة الكشوف الجغرافية",
+            "en": "The Movement of Geographical Discoveries"
+          },
+          "page": 87,
+          "image": "clickview/elementary-the-age-of-discovery-cover.jpg"
+        },
+        {
+          "slug": "05-industrial-revolution",
+          "title": {
+            "ar": "الثورة الصناعية",
+            "en": "The Industrial Revolution"
+          },
+          "page": 94,
+          "image": "clickview/middle-the-industrial-revolution-cover.jpg"
+        },
+        {
+          "slug": "06-french-revolution-causes-results",
+          "title": {
+            "ar": "أسباب قيام الثورة الفرنسية ونتائجها",
+            "en": "The Causes of the French Revolution and Its Results"
+          },
+          "page": 98
+        }
+      ]
+    }
+  ]
+}

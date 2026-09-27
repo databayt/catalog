@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "05-noble-character",
+    "lesson": "02-forgiveness-when-able"
+  },
+  "exams": [
+    {
+      "id": "g5-isl-unit-05-02-forgiveness-when-able-lquiz",
+      "title": "اختبار - العفو عند المقدرة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-isl-unit-05-02-forgiveness-when-able-lq01",
+          "type": "mcq",
+          "question": "ما من الأخلاق الإسلامية التي تقوّي الصداقة؟",
+          "options": [
+            "الوفاء والصدق والإخلاص",
+            "الغش",
+            "الكذب",
+            "الحسد"
+          ],
+          "answer": "الوفاء والصدق والإخلاص",
+          "explanation": "الأخلاق الحسنة تبني علاقات اجتماعية قوية ومتينة."
+        },
+        {
+          "id": "g5-isl-unit-05-02-forgiveness-when-able-lq02",
+          "type": "true_false",
+          "question": "الكذب من صفات المنافقين.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الكذب إحدى علامات النفاق في الإسلام."
+        },
+        {
+          "id": "g5-isl-unit-05-02-forgiveness-when-able-lq03",
+          "type": "fill_blank",
+          "question": "من أخلاق الإسلام ___ الوالدين وطاعتهما.",
+          "answer": "بر",
+          "explanation": "بر الوالدين من أهم الواجبات في الإسلام بعد العبادة."
+        },
+        {
+          "id": "g5-isl-unit-05-02-forgiveness-when-able-lq04",
+          "type": "short_answer",
+          "question": "كيف تُعامل زملاءك بالأخلاق الإسلامية؟",
+          "answer": "الصدق والاحترام والتعاون وتجنب الأذى والمساعدة عند الحاجة.",
+          "explanation": "الأخلاق الإسلامية منهج شامل للتعامل مع الآخرين."
+        }
+      ]
+    }
+  ]
+}

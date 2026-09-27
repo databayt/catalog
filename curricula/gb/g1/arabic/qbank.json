@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "arabic"
+  },
+  "questions": [
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq01",
+      "type": "mcq",
+      "question": "كم عدد حروف اللغة العربية؟",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "20"
+      ],
+      "answer": "28",
+      "explanation": "حروف العربية ثمانية وعشرون حرفاً."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq02",
+      "type": "true_false",
+      "question": "أول حروف الهجاء هو حرف الألف.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الترتيب: أ، ب، ت..."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq03",
+      "type": "fill_blank",
+      "question": "الحرف الذي يأتي بعد الباء هو ___.",
+      "answer": "التاء",
+      "explanation": "ترتيب الحروف."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq04",
+      "type": "short_answer",
+      "question": "اذكر ثلاثة من حروف الهجاء.",
+      "answer": "مثل: أ، ب، ت.",
+      "explanation": "حروف الهجاء."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-02-letter-sounds-lq01",
+      "type": "mcq",
+      "question": "ما الحرف الأول في كلمة (قمر)؟",
+      "options": [
+        "ق",
+        "م",
+        "ر",
+        "ل"
+      ],
+      "answer": "ق",
+      "explanation": "الصوت الأول /ق/."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-02-letter-sounds-lq02",
+      "type": "true_false",
+      "question": "كلمة (باب) تبدأ بحرف الباء.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الحرف الأول الباء."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-02-letter-sounds-lq03",
+      "type": "fill_blank",
+      "question": "كلمة (شمس) تبدأ بحرف ___.",
+      "answer": "الشين",
+      "explanation": "الصوت الأول."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-02-letter-sounds-lq04",
+      "type": "short_answer",
+      "question": "هات كلمة تبدأ بحرف الميم.",
+      "answer": "مثل: مدرسة، ماء.",
+      "explanation": "حرف الميم."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq01",
+      "type": "mcq",
+      "question": "الحركة ( َ ) فوق الحرف تسمى:",
+      "options": [
+        "فتحة",
+        "ضمة",
+        "كسرة",
+        "سكون"
+      ],
+      "answer": "فتحة",
+      "explanation": "الفتحة فوق الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq02",
+      "type": "true_false",
+      "question": "الكسرة توضع تحت الحرف.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الكسرة أسفل الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq03",
+      "type": "fill_blank",
+      "question": "الحركة التي تكتب على شكل واو صغيرة هي ___.",
+      "answer": "الضمة",
+      "explanation": "الضمة فوق الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq04",
+      "type": "short_answer",
+      "question": "ما الحركات القصيرة في العربية؟",
+      "answer": "الفتحة والضمة والكسرة.",
+      "explanation": "الحركات الثلاث."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-02-madd-lq01",
+      "type": "mcq",
+      "question": "حروف المد هي:",
+      "options": [
+        "ا و ي",
+        "ب ت ث",
+        "ق ك ل",
+        "م ن هـ"
+      ],
+      "answer": "ا و ي",
+      "explanation": "الألف والواو والياء."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-02-madd-lq02",
+      "type": "true_false",
+      "question": "كلمة (نور) فيها مدّ بالواو.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "مدّ بالواو."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-02-madd-lq03",
+      "type": "fill_blank",
+      "question": "في كلمة (كتاب) حرف المد هو ___.",
+      "answer": "الألف",
+      "explanation": "مدّ بالألف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-02-madd-lq04",
+      "type": "short_answer",
+      "question": "اذكر كلمة فيها مدّ بالياء.",
+      "answer": "مثل: فيل، كبير.",
+      "explanation": "مدّ بالياء."
+    }
+  ]
+}

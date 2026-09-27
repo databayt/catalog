@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g5-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-ara-unit-01-grammar-01-subject-object-lq01",
+          "type": "mcq",
+          "question": "في (شربَ خالدٌ الماءَ) الفاعل هو:",
+          "options": [
+            "شرب",
+            "خالد",
+            "الماء",
+            "ال"
+          ],
+          "answer": "خالد",
+          "explanation": "من قام بالفعل."
+        },
+        {
+          "id": "g5-ara-unit-01-grammar-01-subject-object-lq02",
+          "type": "true_false",
+          "question": "المفعول به هو من وقع عليه الفعل.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف المفعول."
+        },
+        {
+          "id": "g5-ara-unit-02-tenses-01-tenses-lq01",
+          "type": "mcq",
+          "question": "الفعل (اكتبْ) نوعه:",
+          "options": [
+            "ماض",
+            "مضارع",
+            "أمر",
+            "اسم"
+          ],
+          "answer": "أمر",
+          "explanation": "يدل على طلب."
+        },
+        {
+          "id": "g5-ara-unit-02-tenses-01-tenses-lq02",
+          "type": "true_false",
+          "question": "الفعل (يلعبُ) فعل مضارع.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "يدل على الحاضر."
+        }
+      ]
+    }
+  ]
+}

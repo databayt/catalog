@@ -1,0 +1,353 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g6-science",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم",
+    "en": "Science"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "science",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم — الصف السادس — الطبعة الأولى ٢٠٢٠م (مسح ضوئي، 93 صفحة)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-human-body",
+      "title": {
+        "ar": "جسم الإنسان",
+        "en": "The Human Body"
+      },
+      "concept": "life",
+      "image": "clickview/middle-the-circulatory-system-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-circulatory-system",
+          "title": {
+            "ar": "جهاز دوران الجسم",
+            "en": "The Circulatory System"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-the-excretory-system",
+          "title": {
+            "ar": "جهاز الإخراج",
+            "en": "The Excretory System"
+          },
+          "page": 6,
+          "image": "clickview/high-the-digestive-and-excretory-systems-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-reproduction-and-growth-in-plants",
+      "title": {
+        "ar": "التكاثر والنمو في النباتات",
+        "en": "Reproduction and Growth in Plants"
+      },
+      "concept": "life",
+      "image": "clickview/middle-life-of-plants-cover.jpg",
+      "page": 11,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-flowering-plants",
+          "title": {
+            "ar": "النباتات الزهرية",
+            "en": "Flowering Plants"
+          },
+          "page": 11
+        },
+        {
+          "slug": "02-sexual-reproduction-in-flowering-plants",
+          "title": {
+            "ar": "التكاثر الجنسي في النباتات الزهرية",
+            "en": "Sexual Reproduction in Flowering Plants"
+          },
+          "page": 12,
+          "image": "clickview/middle-pollination-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-reproduction-and-growth-in-animals",
+      "title": {
+        "ar": "التكاثر والنمو في الحيوانات",
+        "en": "Reproduction and Growth in Animals"
+      },
+      "concept": "life",
+      "image": "clickview/middle-reproduction-cover.jpg",
+      "page": 22,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reproduction-in-fish",
+          "title": {
+            "ar": "التكاثر في الأسماك",
+            "en": "Reproduction in Fish"
+          },
+          "page": 22
+        },
+        {
+          "slug": "02-reproduction-in-amphibians",
+          "title": {
+            "ar": "التكاثر في البرمائيات",
+            "en": "Reproduction in Amphibians"
+          },
+          "page": 23
+        },
+        {
+          "slug": "03-reproduction-in-reptiles",
+          "title": {
+            "ar": "التكاثر في الزواحف",
+            "en": "Reproduction in Reptiles"
+          },
+          "page": 24
+        },
+        {
+          "slug": "04-reproduction-in-birds",
+          "title": {
+            "ar": "التكاثر في الطيور",
+            "en": "Reproduction in Birds"
+          },
+          "page": 25
+        },
+        {
+          "slug": "05-reproduction-in-insects",
+          "title": {
+            "ar": "التكاثر في الحشرات",
+            "en": "Reproduction in Insects"
+          },
+          "page": 26
+        },
+        {
+          "slug": "06-reproduction-in-mammals",
+          "title": {
+            "ar": "التكاثر في الثدييات",
+            "en": "Reproduction in Mammals"
+          },
+          "page": 28
+        }
+      ]
+    },
+    {
+      "slug": "04-relationships-between-living-things",
+      "title": {
+        "ar": "العلاقات بين الكائنات الحية",
+        "en": "Relationships between Living Things"
+      },
+      "concept": "nature",
+      "image": "clickview/elementary-food-chains-cover.jpg",
+      "page": 32,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-classifying-living-things-by-type-of-food",
+          "title": {
+            "ar": "تصنيف الكائنات الحية تبعاً لنوع الغذاء",
+            "en": "Classifying Living Things by Type of Food"
+          },
+          "page": 32
+        },
+        {
+          "slug": "02-food-chains",
+          "title": {
+            "ar": "سلاسل الغذاء",
+            "en": "Food Chains"
+          },
+          "page": 34
+        },
+        {
+          "slug": "03-feeding-relationships-between-living-things",
+          "title": {
+            "ar": "العلاقات الغذائية بين الكائنات الحية",
+            "en": "Feeding Relationships between Living Things"
+          },
+          "page": 34
+        }
+      ]
+    },
+    {
+      "slug": "05-materials",
+      "title": {
+        "ar": "المواد",
+        "en": "Materials"
+      },
+      "concept": "chemistry",
+      "image": "clickview/middle-physical-and-chemical-changes-cover.jpg",
+      "page": 42,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-physical-changes",
+          "title": {
+            "ar": "التغيرات الفيزيائية",
+            "en": "Physical Changes"
+          },
+          "page": 42
+        },
+        {
+          "slug": "02-chemical-changes",
+          "title": {
+            "ar": "التغيرات الكيميائية",
+            "en": "Chemical Changes"
+          },
+          "page": 44
+        },
+        {
+          "slug": "03-uses-of-chemical-changes",
+          "title": {
+            "ar": "استخدامات التغيرات الكيميائية",
+            "en": "Uses of Chemical Changes"
+          },
+          "page": 46
+        }
+      ]
+    },
+    {
+      "slug": "06-dissolving-mixtures-and-solutions",
+      "title": {
+        "ar": "الذوبان والمخلوط والمحلول",
+        "en": "Dissolving, Mixtures and Solutions"
+      },
+      "concept": "chemistry",
+      "image": "clickview/middle-compounds-mixtures-and-solutions-cover.jpg",
+      "page": 49,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-dissolving",
+          "title": {
+            "ar": "الذوبان",
+            "en": "Dissolving"
+          },
+          "page": 49
+        },
+        {
+          "slug": "02-mixtures",
+          "title": {
+            "ar": "المخلوط",
+            "en": "Mixtures"
+          },
+          "page": 53
+        },
+        {
+          "slug": "03-solutions",
+          "title": {
+            "ar": "المحلول",
+            "en": "Solutions"
+          },
+          "page": 54
+        }
+      ]
+    },
+    {
+      "slug": "07-light",
+      "title": {
+        "ar": "الضوء",
+        "en": "Light"
+      },
+      "concept": "physics",
+      "image": "clickview/middle-light-cover.jpg",
+      "page": 61,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-nature-and-propagation-of-light",
+          "title": {
+            "ar": "طبيعة وانتشار الضوء",
+            "en": "The Nature and Propagation of Light"
+          },
+          "page": 61
+        },
+        {
+          "slug": "02-reflection-and-refraction-of-light",
+          "title": {
+            "ar": "انعكاس وانكسار الضوء",
+            "en": "Reflection and Refraction of Light"
+          },
+          "page": 64
+        },
+        {
+          "slug": "03-dispersion-of-light",
+          "title": {
+            "ar": "تحليل الضوء",
+            "en": "Dispersion of Light"
+          },
+          "page": 68
+        },
+        {
+          "slug": "04-seeing-coloured-objects",
+          "title": {
+            "ar": "رؤية الأجسام الملونة",
+            "en": "Seeing Coloured Objects"
+          },
+          "page": 70
+        },
+        {
+          "slug": "05-mixing-coloured-lights",
+          "title": {
+            "ar": "خلط الأضواء الملونة",
+            "en": "Mixing Coloured Lights"
+          },
+          "page": 73
+        }
+      ]
+    },
+    {
+      "slug": "08-earth-and-space",
+      "title": {
+        "ar": "الأرض والفضاء",
+        "en": "Earth and Space"
+      },
+      "concept": "earth",
+      "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg",
+      "page": 76,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-natural-phenomena",
+          "title": {
+            "ar": "الظواهر الطبيعية",
+            "en": "Natural Phenomena"
+          },
+          "page": 76
+        },
+        {
+          "slug": "02-phases-of-the-moon",
+          "title": {
+            "ar": "أطوار القمر",
+            "en": "Phases of the Moon"
+          },
+          "page": 78
+        },
+        {
+          "slug": "03-solar-and-lunar-eclipses",
+          "title": {
+            "ar": "الكسوف والخسوف",
+            "en": "Solar and Lunar Eclipses"
+          },
+          "page": 80
+        }
+      ]
+    }
+  ]
+}

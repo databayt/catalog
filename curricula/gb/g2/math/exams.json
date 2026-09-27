@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g2-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq01",
+          "type": "mcq",
+          "question": "In 47, the 4 means:",
+          "options": [
+            "4 ones",
+            "4 tens",
+            "4 hundreds",
+            "40 tens"
+          ],
+          "answer": "4 tens",
+          "explanation": "40."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq02",
+          "type": "true_false",
+          "question": "63 = 60 + 3.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tens and ones."
+        },
+        {
+          "id": "g2-mat-unit-02-multiplication-01-times-tables-lq01",
+          "type": "mcq",
+          "question": "5 × 4 = ?",
+          "options": [
+            "9",
+            "20",
+            "25",
+            "15"
+          ],
+          "answer": "20",
+          "explanation": "Five fours."
+        },
+        {
+          "id": "g2-mat-unit-02-multiplication-01-times-tables-lq02",
+          "type": "true_false",
+          "question": "10 × 3 = 30.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Ten threes."
+        }
+      ]
+    }
+  ]
+}

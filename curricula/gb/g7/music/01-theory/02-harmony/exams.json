@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "music",
+    "chapter": "01-theory",
+    "lesson": "02-harmony"
+  },
+  "exams": [
+    {
+      "id": "g7-mus-unit-01-theory-02-harmony-quiz",
+      "title": "Quiz: Harmony & Texture",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mus-unit-01-theory-02-harmony-lq01",
+          "type": "mcq",
+          "question": "Two or more notes played together form a:",
+          "options": [
+            "chord",
+            "line",
+            "beat",
+            "clef"
+          ],
+          "answer": "chord",
+          "explanation": "Harmony."
+        },
+        {
+          "id": "g7-mus-unit-01-theory-02-harmony-lq02",
+          "type": "true_false",
+          "question": "Texture describes how many layers of sound are heard.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Texture."
+        },
+        {
+          "id": "g7-mus-unit-01-theory-02-harmony-lq03",
+          "type": "fill_blank",
+          "question": "A group of notes played together is a ___.",
+          "answer": "chord",
+          "explanation": "Chord."
+        },
+        {
+          "id": "g7-mus-unit-01-theory-02-harmony-lq04",
+          "type": "short_answer",
+          "question": "What is harmony?",
+          "answer": "Notes sounded together to support a melody.",
+          "explanation": "Harmony."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "computer-science"
+  },
+  "questions": [
+    {
+      "id": "g10-com-unit-01-programming-01-fundamentals-lq01",
+      "type": "mcq",
+      "question": "A named store for a value in a program is a:",
+      "options": [
+        "variable",
+        "virus",
+        "cable",
+        "pixel"
+      ],
+      "answer": "variable",
+      "explanation": "Variables."
+    },
+    {
+      "id": "g10-com-unit-01-programming-01-fundamentals-lq02",
+      "type": "true_false",
+      "question": "Selection uses conditions like if-statements.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Selection."
+    },
+    {
+      "id": "g10-com-unit-01-programming-01-fundamentals-lq03",
+      "type": "fill_blank",
+      "question": "Repeating code is called iteration or a ___.",
+      "answer": "loop",
+      "explanation": "Iteration."
+    },
+    {
+      "id": "g10-com-unit-01-programming-01-fundamentals-lq04",
+      "type": "short_answer",
+      "question": "What is a variable used for?",
+      "answer": "To store and reuse a value in a program.",
+      "explanation": "Variables."
+    },
+    {
+      "id": "g10-com-unit-01-programming-02-data-lq01",
+      "type": "mcq",
+      "question": "Computers store data using the binary digits:",
+      "options": [
+        "0 and 1",
+        "A and B",
+        "yes/maybe",
+        "red/blue"
+      ],
+      "answer": "0 and 1",
+      "explanation": "Binary."
+    },
+    {
+      "id": "g10-com-unit-01-programming-02-data-lq02",
+      "type": "true_false",
+      "question": "A bit is the smallest unit of data.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bit."
+    },
+    {
+      "id": "g10-com-unit-01-programming-02-data-lq03",
+      "type": "fill_blank",
+      "question": "Eight bits make one ___.",
+      "answer": "byte",
+      "explanation": "Byte."
+    },
+    {
+      "id": "g10-com-unit-01-programming-02-data-lq04",
+      "type": "short_answer",
+      "question": "Why do computers use binary?",
+      "answer": "Because circuits have two states (on/off), matching 0 and 1.",
+      "explanation": "Binary."
+    },
+    {
+      "id": "g10-com-unit-02-systems-01-hardware-lq01",
+      "type": "mcq",
+      "question": "The 'brain' of the computer that processes instructions is the:",
+      "options": [
+        "CPU",
+        "mouse",
+        "screen",
+        "speaker"
+      ],
+      "answer": "CPU",
+      "explanation": "Processor."
+    },
+    {
+      "id": "g10-com-unit-02-systems-01-hardware-lq02",
+      "type": "true_false",
+      "question": "Software is the programs that run on hardware.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Software."
+    },
+    {
+      "id": "g10-com-unit-02-systems-01-hardware-lq03",
+      "type": "fill_blank",
+      "question": "Physical parts of a computer are called ___.",
+      "answer": "hardware",
+      "explanation": "Hardware."
+    },
+    {
+      "id": "g10-com-unit-02-systems-01-hardware-lq04",
+      "type": "short_answer",
+      "question": "Give an example of hardware and software.",
+      "answer": "Hardware: CPU/keyboard; Software: a web browser.",
+      "explanation": "HW vs SW."
+    },
+    {
+      "id": "g10-com-unit-02-systems-02-networks-lq01",
+      "type": "mcq",
+      "question": "A network connects computers to share:",
+      "options": [
+        "data and resources",
+        "food",
+        "weather",
+        "colours"
+      ],
+      "answer": "data and resources",
+      "explanation": "Networks."
+    },
+    {
+      "id": "g10-com-unit-02-systems-02-networks-lq02",
+      "type": "true_false",
+      "question": "The internet is a global network of networks.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Internet."
+    },
+    {
+      "id": "g10-com-unit-02-systems-02-networks-lq03",
+      "type": "fill_blank",
+      "question": "Rules that let computers communicate are called ___.",
+      "answer": "protocols",
+      "explanation": "Protocols."
+    },
+    {
+      "id": "g10-com-unit-02-systems-02-networks-lq04",
+      "type": "short_answer",
+      "question": "Name one benefit of a computer network.",
+      "answer": "e.g., sharing files, printers, or internet access.",
+      "explanation": "Networks."
+    }
+  ]
+}

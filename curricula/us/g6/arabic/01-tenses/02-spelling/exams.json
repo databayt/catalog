@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "arabic",
+    "chapter": "01-tenses",
+    "lesson": "02-spelling"
+  },
+  "exams": [
+    {
+      "id": "g6-ara-unit-01-tenses-02-spelling-quiz",
+      "title": "Quiz: الإملاء",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-ara-unit-01-tenses-02-spelling-lq01",
+          "type": "mcq",
+          "question": "التاء في (فاطمة) هي:",
+          "options": [
+            "مربوطة",
+            "مفتوحة",
+            "ساكنة",
+            "ألف"
+          ],
+          "answer": "مربوطة",
+          "explanation": "تاء مربوطة."
+        },
+        {
+          "id": "g6-ara-unit-01-tenses-02-spelling-lq02",
+          "type": "true_false",
+          "question": "الهمزة في أول الكلمة قد تكون همزة وصل أو قطع.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الهمزة."
+        },
+        {
+          "id": "g6-ara-unit-01-tenses-02-spelling-lq03",
+          "type": "fill_blank",
+          "question": "كلمة (سماء) تنتهي بهمزة على ___.",
+          "answer": "ألف",
+          "explanation": "همزة متطرفة."
+        },
+        {
+          "id": "g6-ara-unit-01-tenses-02-spelling-lq04",
+          "type": "short_answer",
+          "question": "ما الفرق بين التاء المربوطة والمفتوحة؟",
+          "answer": "المربوطة تُنطق هاء عند الوقف، والمفتوحة تبقى تاءً.",
+          "explanation": "الإملاء."
+        }
+      ]
+    }
+  ]
+}

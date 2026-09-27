@@ -1,0 +1,110 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "us-g2-math",
+  "curriculum": "us",
+  "grade": "g2",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "aldar",
+    "title": "Massachusetts Curriculum Framework for Mathematics (Common Core aligned)",
+    "url": "https://www.doe.mass.edu/frameworks/math/",
+    "license": "LicenseRef-Publisher",
+    "standards": "CCSS.Math Grade 2",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-place-value-1000",
+      "title": {
+        "en": "Place Value to 1,000"
+      },
+      "lessons": [
+        {
+          "slug": "01-hundreds-tens-ones",
+          "title": {
+            "en": "Hundreds, Tens, and Ones"
+          }
+        },
+        {
+          "slug": "02-comparing-3digit",
+          "title": {
+            "en": "Comparing 3-Digit Numbers"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-add-sub-100",
+      "title": {
+        "en": "Addition & Subtraction within 100"
+      },
+      "lessons": [
+        {
+          "slug": "01-add-2digit",
+          "title": {
+            "en": "Adding Two-Digit Numbers"
+          }
+        },
+        {
+          "slug": "02-subtract-2digit",
+          "title": {
+            "en": "Subtracting Two-Digit Numbers"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-measurement-time-money",
+      "title": {
+        "en": "Measurement, Time & Money"
+      },
+      "lessons": [
+        {
+          "slug": "01-length",
+          "title": {
+            "en": "Measuring Length"
+          }
+        },
+        {
+          "slug": "02-time-money",
+          "title": {
+            "en": "Telling Time & Counting Money"
+          }
+        }
+      ]
+    }
+  ]
+}

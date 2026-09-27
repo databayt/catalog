@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-eng-unit-01-reading-01-language-analysis-lq01",
+          "type": "mcq",
+          "question": "Analysing 'how' a writer creates effect focuses on:",
+          "options": [
+            "plot only",
+            "language techniques",
+            "page count",
+            "the cover"
+          ],
+          "answer": "language techniques",
+          "explanation": "Methods/effects."
+        },
+        {
+          "id": "g10-eng-unit-01-reading-01-language-analysis-lq02",
+          "type": "true_false",
+          "question": "A metaphor is a comparison stating one thing is another.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Direct comparison."
+        },
+        {
+          "id": "g10-eng-unit-02-writing-01-descriptive-lq01",
+          "type": "mcq",
+          "question": "Vivid description often uses:",
+          "options": [
+            "statistics",
+            "sensory imagery",
+            "footnotes",
+            "bullet points"
+          ],
+          "answer": "sensory imagery",
+          "explanation": "Senses."
+        },
+        {
+          "id": "g10-eng-unit-02-writing-01-descriptive-lq02",
+          "type": "true_false",
+          "question": "Varying sentence length improves writing craft.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Effect/pace."
+        }
+      ]
+    }
+  ]
+}

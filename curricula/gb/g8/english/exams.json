@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-eng-unit-01-shakespeare-01-context-lq01",
+          "type": "mcq",
+          "question": "Shakespeare wrote mainly during which era?",
+          "options": [
+            "Victorian",
+            "Elizabethan/Jacobean",
+            "Roman",
+            "Modern"
+          ],
+          "answer": "Elizabethan/Jacobean",
+          "explanation": "16th-17th century."
+        },
+        {
+          "id": "g8-eng-unit-01-shakespeare-01-context-lq02",
+          "type": "true_false",
+          "question": "A soliloquy is a speech revealing a character's thoughts.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Spoken alone on stage."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq01",
+          "type": "mcq",
+          "question": "A text written to give information is:",
+          "options": [
+            "fiction",
+            "informative",
+            "a poem",
+            "a play"
+          ],
+          "answer": "informative",
+          "explanation": "Purpose: inform."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq02",
+          "type": "true_false",
+          "question": "Headlines and subheadings are text features.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structural features."
+        }
+      ]
+    }
+  ]
+}

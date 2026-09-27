@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g11-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq01",
+          "type": "mcq",
+          "question": "The Great Depression began with the 1929 stock market:",
+          "options": [
+            "crash",
+            "boom",
+            "holiday",
+            "merger"
+          ],
+          "answer": "crash",
+          "explanation": "1929 Crash."
+        },
+        {
+          "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq02",
+          "type": "true_false",
+          "question": "The New Deal was a set of programs to fight the Depression.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "FDR's New Deal."
+        },
+        {
+          "id": "g11-soc-unit-02-modern-america-01-postwar-lq01",
+          "type": "mcq",
+          "question": "After WWII, the US emerged as a global:",
+          "options": [
+            "superpower",
+            "colony",
+            "empire of Rome",
+            "village"
+          ],
+          "answer": "superpower",
+          "explanation": "Postwar power."
+        },
+        {
+          "id": "g11-soc-unit-02-modern-america-01-postwar-lq02",
+          "type": "true_false",
+          "question": "The US and USSR competed during the Cold War.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Superpower rivalry."
+        }
+      ]
+    }
+  ]
+}

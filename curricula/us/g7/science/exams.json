@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "us-g7-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq01",
+          "type": "mcq",
+          "question": "Energy in an ecosystem originates from the:",
+          "options": [
+            "soil",
+            "Sun",
+            "predators",
+            "decomposers"
+          ],
+          "answer": "Sun",
+          "explanation": "Producers capture sunlight."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq02",
+          "type": "true_false",
+          "question": "Decomposers recycle nutrients back into the ecosystem.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Break down dead matter."
+        },
+        {
+          "id": "g7-sci-unit-02-forces-chem-01-reactions-lq01",
+          "type": "mcq",
+          "question": "A sign of a chemical reaction is:",
+          "options": [
+            "a color change or gas",
+            "a shape change",
+            "melting only",
+            "moving"
+          ],
+          "answer": "a color change or gas",
+          "explanation": "New substance formed."
+        },
+        {
+          "id": "g7-sci-unit-02-forces-chem-01-reactions-lq02",
+          "type": "true_false",
+          "question": "In a chemical reaction, atoms are rearranged, not destroyed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation of mass."
+        }
+      ]
+    }
+  ]
+}

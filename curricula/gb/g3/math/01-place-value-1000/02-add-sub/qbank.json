@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "01-place-value-1000",
+    "lesson": "02-add-sub"
+  },
+  "questions": [
+    {
+      "id": "g3-mat-unit-01-place-value-1000-02-add-sub-lq01",
+      "type": "mcq",
+      "question": "245 + 130 = ?",
+      "options": [
+        "365",
+        "375",
+        "385",
+        "275"
+      ],
+      "answer": "375",
+      "explanation": "Add place by place."
+    },
+    {
+      "id": "g3-mat-unit-01-place-value-1000-02-add-sub-lq02",
+      "type": "true_false",
+      "question": "You may need to exchange (carry) when adding.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Regrouping."
+    },
+    {
+      "id": "g3-mat-unit-01-place-value-1000-02-add-sub-lq03",
+      "type": "fill_blank",
+      "question": "400 - 150 = ___.",
+      "answer": "250",
+      "explanation": "Subtraction."
+    },
+    {
+      "id": "g3-mat-unit-01-place-value-1000-02-add-sub-lq04",
+      "type": "short_answer",
+      "question": "Estimate 198 + 203.",
+      "answer": "About 400",
+      "explanation": "Round to hundreds."
+    }
+  ]
+}

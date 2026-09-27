@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "02-writing",
+    "lesson": "01-essay"
+  },
+  "exams": [
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-quiz",
+      "title": "Quiz: Essay Writing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq01",
+          "type": "mcq",
+          "question": "A topic sentence does what at the start of a paragraph?",
+          "options": [
+            "ends it",
+            "states the point",
+            "quotes randomly",
+            "lists names"
+          ],
+          "answer": "states the point",
+          "explanation": "Paragraph point."
+        },
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq02",
+          "type": "true_false",
+          "question": "An essay should have a clear introduction and conclusion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structure."
+        },
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq03",
+          "type": "fill_blank",
+          "question": "Analysis paragraphs often follow the ___ structure (Point, Evidence, Explanation).",
+          "answer": "PEE",
+          "explanation": "Analytical structure."
+        },
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq04",
+          "type": "short_answer",
+          "question": "What is the purpose of a conclusion?",
+          "answer": "To sum up the argument and main points.",
+          "explanation": "Conclusion."
+        }
+      ]
+    }
+  ]
+}

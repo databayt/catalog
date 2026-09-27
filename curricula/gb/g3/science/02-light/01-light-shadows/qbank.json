@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "science",
+    "chapter": "02-light",
+    "lesson": "01-light-shadows"
+  },
+  "questions": [
+    {
+      "id": "g3-sci-unit-02-light-01-light-shadows-lq01",
+      "type": "mcq",
+      "question": "A shadow forms when light is:",
+      "options": [
+        "reflected",
+        "blocked by an object",
+        "coloured",
+        "heard"
+      ],
+      "answer": "blocked by an object",
+      "explanation": "Opaque object blocks light."
+    },
+    {
+      "id": "g3-sci-unit-02-light-01-light-shadows-lq02",
+      "type": "true_false",
+      "question": "We need light to see.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "No light, no sight."
+    },
+    {
+      "id": "g3-sci-unit-02-light-01-light-shadows-lq03",
+      "type": "fill_blank",
+      "question": "Light travels in straight ___.",
+      "answer": "lines",
+      "explanation": "Straight-line travel."
+    },
+    {
+      "id": "g3-sci-unit-02-light-01-light-shadows-lq04",
+      "type": "short_answer",
+      "question": "How can you make a shadow bigger?",
+      "answer": "Move the object closer to the light source.",
+      "explanation": "Shadow size."
+    }
+  ]
+}

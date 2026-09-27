@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "science",
+    "chapter": "02-animals",
+    "lesson": "01-animal-groups"
+  },
+  "exams": [
+    {
+      "id": "g1-sci-unit-02-animals-01-animal-groups-quiz",
+      "title": "Quiz: Animal Groups",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq01",
+          "type": "mcq",
+          "question": "A fish breathes using:",
+          "options": [
+            "lungs",
+            "gills",
+            "leaves",
+            "roots"
+          ],
+          "answer": "gills",
+          "explanation": "Fish use gills."
+        },
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq02",
+          "type": "true_false",
+          "question": "Birds have feathers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Feature of birds."
+        },
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq03",
+          "type": "fill_blank",
+          "question": "Animals that eat only plants are ___.",
+          "answer": "herbivores",
+          "explanation": "Plant eaters."
+        },
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq04",
+          "type": "short_answer",
+          "question": "Name two body parts of a human.",
+          "answer": "e.g., arm and leg.",
+          "explanation": "Human body."
+        }
+      ]
+    }
+  ]
+}

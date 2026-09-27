@@ -1,0 +1,427 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g4-math",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "math",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "الرياضيات — الصف الرابع — الطبعة الثانية ٢٠٢١م (119 صفحة)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04",
+    "supersedes": "_old/2026-09-04-legacy-structure-no-pdf"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-set-of-whole-numbers",
+      "title": {
+        "ar": "مجموعة الأعداد الكلية",
+        "en": "The Set of Whole Numbers"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-place-value-cover.jpg",
+      "page": 6,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-numbers-up-to-tens-of-thousands",
+          "title": {
+            "ar": "الأعداد ضمن عشرات الألوف",
+            "en": "Numbers up to Tens of Thousands"
+          },
+          "page": 8
+        },
+        {
+          "slug": "02-numbers-up-to-hundreds-of-thousands",
+          "title": {
+            "ar": "الأعداد ضمن مئات الألوف",
+            "en": "Numbers up to Hundreds of Thousands"
+          },
+          "page": 12
+        },
+        {
+          "slug": "03-numbers-up-to-millions",
+          "title": {
+            "ar": "الأعداد ضمن الملايين",
+            "en": "Numbers up to Millions"
+          },
+          "page": 14
+        },
+        {
+          "slug": "04-comparing-numbers",
+          "title": {
+            "ar": "مقارنة الأعداد",
+            "en": "Comparing Numbers"
+          },
+          "page": 16,
+          "image": "clickview/elementary-comparing-numbers-cover.jpg"
+        },
+        {
+          "slug": "05-prime-numbers",
+          "title": {
+            "ar": "الأعداد الأولية",
+            "en": "Prime Numbers"
+          },
+          "page": 18,
+          "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
+        },
+        {
+          "slug": "06-even-and-odd-numbers",
+          "title": {
+            "ar": "الأعداد الزوجية والفردية",
+            "en": "Even and Odd Numbers"
+          },
+          "page": 21
+        }
+      ]
+    },
+    {
+      "slug": "02-operations-on-whole-numbers",
+      "title": {
+        "ar": "العمليات على الأعداد الكلية",
+        "en": "Operations on Whole Numbers"
+      },
+      "concept": "math",
+      "image": "clickview/middle-whole-number-operations-cover.jpg",
+      "page": 25,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-divisibility",
+          "title": {
+            "ar": "قابلية القسمة",
+            "en": "Divisibility"
+          },
+          "page": 30
+        },
+        {
+          "slug": "02-divisibility-by-2",
+          "title": {
+            "ar": "قابلية القسمة على 2",
+            "en": "Divisibility by 2"
+          },
+          "page": 33
+        },
+        {
+          "slug": "03-divisibility-by-3",
+          "title": {
+            "ar": "قابلية القسمة على 3",
+            "en": "Divisibility by 3"
+          },
+          "page": 35
+        },
+        {
+          "slug": "04-divisibility-by-5",
+          "title": {
+            "ar": "قابلية القسمة على 5",
+            "en": "Divisibility by 5"
+          },
+          "page": 37
+        },
+        {
+          "slug": "05-divisibility-by-10",
+          "title": {
+            "ar": "قابلية القسمة على 10",
+            "en": "Divisibility by 10"
+          },
+          "page": 38
+        },
+        {
+          "slug": "06-prime-factorisation",
+          "title": {
+            "ar": "تحليل العدد إلى عوامله الأولية",
+            "en": "Prime Factorisation"
+          },
+          "page": 40,
+          "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
+        },
+        {
+          "slug": "07-the-greatest-common-divisor",
+          "title": {
+            "ar": "القاسم المشترك الأكبر",
+            "en": "The Greatest Common Divisor"
+          },
+          "page": 42,
+          "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
+        },
+        {
+          "slug": "08-the-least-common-multiple",
+          "title": {
+            "ar": "المضاعف المشترك الأصغر",
+            "en": "The Least Common Multiple"
+          },
+          "page": 45,
+          "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
+        },
+        {
+          "slug": "09-dividing-by-a-two-digit-number",
+          "title": {
+            "ar": "قسمة عدد على عدد مكون من رقمين",
+            "en": "Dividing by a Two-Digit Number"
+          },
+          "page": 47
+        },
+        {
+          "slug": "10-dividing-by-a-three-digit-number",
+          "title": {
+            "ar": "قسمة عدد على عدد مكون من ثلاثة أرقام",
+            "en": "Dividing by a Three-Digit Number"
+          },
+          "page": 50
+        }
+      ]
+    },
+    {
+      "slug": "03-measurement",
+      "title": {
+        "ar": "القياس",
+        "en": "Measurement"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-volume-and-capacity-cover.jpg",
+      "page": 53,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-capacity",
+          "title": {
+            "ar": "السعة",
+            "en": "Capacity"
+          },
+          "page": 54
+        },
+        {
+          "slug": "02-units-of-capacity",
+          "title": {
+            "ar": "المكاييل",
+            "en": "Units of Capacity"
+          },
+          "page": 58
+        }
+      ]
+    },
+    {
+      "slug": "04-common-fractions",
+      "title": {
+        "ar": "الكسور العادية",
+        "en": "Common Fractions"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-introduction-to-fractions-cover.jpg",
+      "page": 60,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-review",
+          "title": {
+            "ar": "مراجعة",
+            "en": "Review"
+          },
+          "page": 61
+        },
+        {
+          "slug": "02-representing-fractions-on-the-number-line",
+          "title": {
+            "ar": "تمثيل الكسور على الخط العددي",
+            "en": "Representing Fractions on the Number Line"
+          },
+          "page": 63
+        },
+        {
+          "slug": "03-adding-fractions",
+          "title": {
+            "ar": "جمع الكسور",
+            "en": "Adding Fractions"
+          },
+          "page": 65,
+          "image": "clickview/elementary-adding-and-subtracting-fractions-cover.jpg"
+        },
+        {
+          "slug": "04-subtracting-fractions",
+          "title": {
+            "ar": "طرح الكسور",
+            "en": "Subtracting Fractions"
+          },
+          "page": 68,
+          "image": "clickview/elementary-adding-and-subtracting-fractions-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-ratio",
+      "title": {
+        "ar": "النسبة",
+        "en": "Ratio"
+      },
+      "concept": "math",
+      "image": "clickview/middle-ratios-and-proportion-cover.jpg",
+      "page": 71,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-concept-of-ratio",
+          "title": {
+            "ar": "مفهوم النسبة",
+            "en": "The Concept of Ratio"
+          },
+          "page": 72
+        },
+        {
+          "slug": "02-how-to-write-a-ratio",
+          "title": {
+            "ar": "طريقة كتابة النسبة",
+            "en": "How to Write a Ratio"
+          },
+          "page": 77
+        },
+        {
+          "slug": "03-antecedent-and-consequent-of-a-ratio",
+          "title": {
+            "ar": "مقدم النسبة وتالي النسبة",
+            "en": "Antecedent and Consequent of a Ratio"
+          },
+          "page": 80
+        },
+        {
+          "slug": "04-problems-on-ratio",
+          "title": {
+            "ar": "مسائل في النسبة",
+            "en": "Problems on Ratio"
+          },
+          "page": 82
+        }
+      ]
+    },
+    {
+      "slug": "06-geometry",
+      "title": {
+        "ar": "الهندسة",
+        "en": "Geometry"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-angles-and-lines-cover.jpg",
+      "page": 86,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-ray-and-the-straight-line",
+          "title": {
+            "ar": "الشعاع والمستقيم",
+            "en": "The Ray and the Straight Line"
+          },
+          "page": 88
+        },
+        {
+          "slug": "02-the-angle",
+          "title": {
+            "ar": "الزاوية",
+            "en": "The Angle"
+          },
+          "page": 91
+        },
+        {
+          "slug": "03-measuring-and-drawing-angles",
+          "title": {
+            "ar": "قياس الزاوية ورسمها",
+            "en": "Measuring and Drawing Angles"
+          },
+          "page": 93
+        },
+        {
+          "slug": "04-types-of-angles",
+          "title": {
+            "ar": "أنواع الزوايا",
+            "en": "Types of Angles"
+          },
+          "page": 97
+        },
+        {
+          "slug": "05-perpendicular-lines",
+          "title": {
+            "ar": "المستقيمات المتعامدة",
+            "en": "Perpendicular Lines"
+          },
+          "page": 101
+        },
+        {
+          "slug": "06-parallel-lines",
+          "title": {
+            "ar": "المستقيمات المتوازية",
+            "en": "Parallel Lines"
+          },
+          "page": 103
+        },
+        {
+          "slug": "07-drawing-a-triangle",
+          "title": {
+            "ar": "رسم المثلث",
+            "en": "Drawing a Triangle"
+          },
+          "page": 105,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        },
+        {
+          "slug": "08-drawing-a-parallelogram",
+          "title": {
+            "ar": "رسم متوازي الأضلاع",
+            "en": "Drawing a Parallelogram"
+          },
+          "page": 107,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        },
+        {
+          "slug": "09-drawing-a-rectangle",
+          "title": {
+            "ar": "رسم المستطيل",
+            "en": "Drawing a Rectangle"
+          },
+          "page": 110,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        },
+        {
+          "slug": "10-drawing-a-square",
+          "title": {
+            "ar": "رسم المربع",
+            "en": "Drawing a Square"
+          },
+          "page": 112,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        },
+        {
+          "slug": "11-the-circle",
+          "title": {
+            "ar": "الدائرة",
+            "en": "The Circle"
+          },
+          "page": 114,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        },
+        {
+          "slug": "12-drawing-a-circle",
+          "title": {
+            "ar": "رسم الدائرة",
+            "en": "Drawing a Circle"
+          },
+          "page": 116,
+          "image": "clickview/elementary-2d-shapes-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

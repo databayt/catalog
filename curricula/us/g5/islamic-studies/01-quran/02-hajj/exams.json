@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "01-quran",
+    "lesson": "02-hajj"
+  },
+  "exams": [
+    {
+      "id": "g5-isl-unit-01-quran-02-hajj-quiz",
+      "title": "Quiz: الحج",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-isl-unit-01-quran-02-hajj-lq01",
+          "type": "mcq",
+          "question": "يكون الحج إلى:",
+          "options": [
+            "المدينة",
+            "مكة (الكعبة)",
+            "القدس",
+            "دمشق"
+          ],
+          "answer": "مكة (الكعبة)",
+          "explanation": "الحج إلى البيت الحرام."
+        },
+        {
+          "id": "g5-isl-unit-01-quran-02-hajj-lq02",
+          "type": "true_false",
+          "question": "الحج ركن من أركان الإسلام لمن استطاع.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الركن الخامس."
+        },
+        {
+          "id": "g5-isl-unit-01-quran-02-hajj-lq03",
+          "type": "fill_blank",
+          "question": "الطواف يكون حول ___.",
+          "answer": "الكعبة",
+          "explanation": "الطواف بالكعبة."
+        },
+        {
+          "id": "g5-isl-unit-01-quran-02-hajj-lq04",
+          "type": "short_answer",
+          "question": "على من يجب الحج؟",
+          "answer": "على المسلم المستطيع مرة في العمر.",
+          "explanation": "الحج."
+        }
+      ]
+    }
+  ]
+}

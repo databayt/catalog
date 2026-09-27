@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-sci-unit-01-states-01-states-lq01",
+          "type": "mcq",
+          "question": "Which has a fixed shape and volume?",
+          "options": [
+            "gas",
+            "liquid",
+            "solid",
+            "plasma"
+          ],
+          "answer": "solid",
+          "explanation": "Solids hold shape."
+        },
+        {
+          "id": "g4-sci-unit-01-states-01-states-lq02",
+          "type": "true_false",
+          "question": "Gases spread to fill their container.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No fixed shape/volume."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq01",
+          "type": "mcq",
+          "question": "Sound is caused by:",
+          "options": [
+            "light",
+            "vibrations",
+            "heat",
+            "gravity"
+          ],
+          "answer": "vibrations",
+          "explanation": "Vibrating objects."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq02",
+          "type": "true_false",
+          "question": "Sound needs a medium (like air) to travel.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No sound in a vacuum."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g10-french",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "french",
+  "title": {
+    "ar": "اللغة الفرنسية",
+    "en": "French Language"
+  },
+  "lang": "fr",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-module-1",
+      "title": {
+        "fr": "Module 1"
+      },
+      "concept": "language",
+      "image": "clickview/high-french-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-unite-1-je-mappelle",
+          "title": {
+            "fr": "Unité 1: Je m'appelle"
+          }
+        },
+        {
+          "slug": "02-unite-2-qui-cest",
+          "title": {
+            "fr": "Unité 2: Qui c'est?"
+          }
+        },
+        {
+          "slug": "03-unite-3-jaime-je-naime-pas",
+          "title": {
+            "fr": "Unité 3: J'aime, je n'aime pas"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-module-2",
+      "title": {
+        "fr": "Module 2"
+      },
+      "concept": "language",
+      "image": "clickview/high-french-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-unite-4-voici-ma-famille",
+          "title": {
+            "fr": "Unité 4: Voici ma famille"
+          }
+        },
+        {
+          "slug": "02-unite-5-quest-ce-que-cest",
+          "title": {
+            "fr": "Unité 5: Qu'est ce que c'est?"
+          }
+        },
+        {
+          "slug": "03-unite-6-portraits",
+          "title": {
+            "fr": "Unité 6: Portraits"
+          },
+          "image": "clickview/high-photography-techniques-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "06-geometry",
+    "lesson": "01-point-and-line-segment"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u06-q001",
+      "type": "mcq",
+      "question": "ما هي الإجابة الصحيحة: ٥٦ ÷ ٧ = ?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for الهندسة."
+    },
+    {
+      "id": "g3-ma-u06-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: ٢٠ قابل للقسمة على ٥",
+      "answer": true,
+      "explanation": "The statement about الهندسة is True."
+    }
+  ]
+}

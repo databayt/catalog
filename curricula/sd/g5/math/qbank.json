@@ -1,0 +1,729 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g5-mat-unit-01-01-natural-numbers-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-01-01-natural-numbers-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-01-02-divisibility-by-9-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-01-02-divisibility-by-9-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-01-03-divisibility-by-4-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-01-03-divisibility-by-4-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-01-04-divisibility-by-8-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-01-04-divisibility-by-8-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-01-05-divisibility-by-6-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-01-05-divisibility-by-6-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-02-01-mixed-fractions-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-02-01-mixed-fractions-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-02-02-improper-to-mixed-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-02-02-improper-to-mixed-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-02-03-multiply-fraction-by-whole-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-02-03-multiply-fraction-by-whole-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-02-04-multiply-fraction-by-fraction-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-02-04-multiply-fraction-by-fraction-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-02-05-multiply-more-than-two-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-02-05-multiply-more-than-two-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-03-01-decimal-concept-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-03-01-decimal-concept-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-03-02-decimal-places-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-03-02-decimal-places-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-03-03-comparing-decimals-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-03-03-comparing-decimals-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-03-04-adding-decimals-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-03-04-adding-decimals-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-03-05-subtracting-decimals-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-03-05-subtracting-decimals-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-04-01-ratio-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-04-01-ratio-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-04-02-ratio-properties-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-04-02-ratio-properties-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-04-03-proportion-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-04-03-proportion-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-04-04-word-problems-proportion-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-04-04-word-problems-proportion-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-04-05-scale-drawing-q01",
+      "type": "mcq",
+      "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+      "options": [
+        "0.75",
+        "0.34",
+        "0.43",
+        "0.25"
+      ],
+      "answer": "0.75",
+      "explanation": "3 ÷ 4 = 0.75."
+    },
+    {
+      "id": "g5-mat-unit-04-05-scale-drawing-q02",
+      "type": "true_false",
+      "question": "الكسر 1/2 يساوي 0.5.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "1 ÷ 2 = 0.5."
+    },
+    {
+      "id": "g5-mat-unit-05-01-perimeter-concept-q01",
+      "type": "mcq",
+      "question": "ما محيط مربع طول ضلعه 7 سم؟",
+      "options": [
+        "28 سم",
+        "14 سم",
+        "21 سم",
+        "49 سم"
+      ],
+      "answer": "28 سم",
+      "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
+    },
+    {
+      "id": "g5-mat-unit-05-01-perimeter-concept-q02",
+      "type": "true_false",
+      "question": "المستطيل له أربعة زوايا قائمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "جميع زوايا المستطيل قائمة (90°)."
+    },
+    {
+      "id": "g5-mat-unit-05-02-triangle-perimeter-q01",
+      "type": "mcq",
+      "question": "ما محيط مربع طول ضلعه 7 سم؟",
+      "options": [
+        "28 سم",
+        "14 سم",
+        "21 سم",
+        "49 سم"
+      ],
+      "answer": "28 سم",
+      "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
+    },
+    {
+      "id": "g5-mat-unit-05-02-triangle-perimeter-q02",
+      "type": "true_false",
+      "question": "المستطيل له أربعة زوايا قائمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "جميع زوايا المستطيل قائمة (90°)."
+    },
+    {
+      "id": "g5-mat-unit-05-03-square-perimeter-q01",
+      "type": "mcq",
+      "question": "ما محيط مربع طول ضلعه 7 سم؟",
+      "options": [
+        "28 سم",
+        "14 سم",
+        "21 سم",
+        "49 سم"
+      ],
+      "answer": "28 سم",
+      "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
+    },
+    {
+      "id": "g5-mat-unit-05-03-square-perimeter-q02",
+      "type": "true_false",
+      "question": "المستطيل له أربعة زوايا قائمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "جميع زوايا المستطيل قائمة (90°)."
+    },
+    {
+      "id": "g5-mat-unit-05-04-rectangle-perimeter-q01",
+      "type": "mcq",
+      "question": "ما محيط مربع طول ضلعه 7 سم؟",
+      "options": [
+        "28 سم",
+        "14 سم",
+        "21 سم",
+        "49 سم"
+      ],
+      "answer": "28 سم",
+      "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
+    },
+    {
+      "id": "g5-mat-unit-05-04-rectangle-perimeter-q02",
+      "type": "true_false",
+      "question": "المستطيل له أربعة زوايا قائمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "جميع زوايا المستطيل قائمة (90°)."
+    },
+    {
+      "id": "g5-mat-unit-05-05-circle-q01",
+      "type": "mcq",
+      "question": "ما محيط مربع طول ضلعه 7 سم؟",
+      "options": [
+        "28 سم",
+        "14 سم",
+        "21 سم",
+        "49 سم"
+      ],
+      "answer": "28 سم",
+      "explanation": "محيط المربع = 4 × الضلع = 4 × 7 = 28 سم."
+    },
+    {
+      "id": "g5-mat-unit-05-05-circle-q02",
+      "type": "true_false",
+      "question": "المستطيل له أربعة زوايا قائمة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "جميع زوايا المستطيل قائمة (90°)."
+    },
+    {
+      "id": "g5-mat-unit-06-01-complementary-angles-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-06-01-complementary-angles-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-06-02-supplementary-angles-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-06-02-supplementary-angles-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-06-03-vertical-angles-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-06-03-vertical-angles-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-06-04-angles-from-intersecting-lines-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-06-04-angles-from-intersecting-lines-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    },
+    {
+      "id": "g5-mat-unit-06-05-angles-in-parallel-lines-q01",
+      "type": "mcq",
+      "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 6؟",
+      "options": [
+        "قراءة المسألة وفهمها",
+        "البدء بالحساب مباشرة",
+        "كتابة الإجابة",
+        "نسخ المسألة"
+      ],
+      "answer": "قراءة المسألة وفهمها",
+      "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+    },
+    {
+      "id": "g5-mat-unit-06-05-angles-in-parallel-lines-q02",
+      "type": "true_false",
+      "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+    }
+  ]
+}

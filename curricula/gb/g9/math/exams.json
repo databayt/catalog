@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq01",
+          "type": "mcq",
+          "question": "In y = 2x + 1, the gradient is:",
+          "options": [
+            "1",
+            "2",
+            "x",
+            "3"
+          ],
+          "answer": "2",
+          "explanation": "Coefficient of x."
+        },
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq02",
+          "type": "true_false",
+          "question": "The y-intercept of y = 2x + 1 is 1.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Constant term."
+        },
+        {
+          "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq01",
+          "type": "mcq",
+          "question": "In a right triangle, a²+b² = ?",
+          "options": [
+            "c",
+            "c²",
+            "2c",
+            "ab"
+          ],
+          "answer": "c²",
+          "explanation": "Hypotenuse squared."
+        },
+        {
+          "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq02",
+          "type": "true_false",
+          "question": "Pythagoras' theorem works only for right-angled triangles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Right angle required."
+        }
+      ]
+    }
+  ]
+}

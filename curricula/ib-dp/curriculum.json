@@ -1,0 +1,35 @@
+{
+  "$schema": "../../schema/json/curriculum.schema.json",
+  "id": "ib-dp",
+  "title": {
+    "ar": "البكالوريا الدولية — برنامج الدبلوم",
+    "en": "International Baccalaureate Diploma Programme"
+  },
+  "lang": "en",
+  "stages": [
+    {
+      "id": "diploma",
+      "title": {
+        "ar": "برنامج الدبلوم",
+        "en": "Diploma Programme"
+      },
+      "grades": [
+        "g11",
+        "g12"
+      ]
+    }
+  ],
+  "grades": {
+    "g12": [
+      "biology",
+      "chemistry",
+      "core",
+      "economics",
+      "english",
+      "history",
+      "math",
+      "physics",
+      "psychology"
+    ]
+  }
+}

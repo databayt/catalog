@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "02-reading",
+    "lesson": "01-predict"
+  },
+  "exams": [
+    {
+      "id": "g1-eng-unit-02-reading-01-predict-quiz",
+      "title": "Quiz: Predicting",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-eng-unit-02-reading-01-predict-lq01",
+          "type": "mcq",
+          "question": "A prediction is a:",
+          "options": [
+            "fact",
+            "good guess about what happens next",
+            "title",
+            "picture"
+          ],
+          "answer": "good guess about what happens next",
+          "explanation": "Using clues."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-01-predict-lq02",
+          "type": "true_false",
+          "question": "Pictures can help you predict a story.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Visual clues."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-01-predict-lq03",
+          "type": "fill_blank",
+          "question": "Before reading, we can ___ what happens.",
+          "answer": "predict",
+          "explanation": "Predicting."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-01-predict-lq04",
+          "type": "short_answer",
+          "question": "How do you make a prediction?",
+          "answer": "Use the title, pictures and what you know.",
+          "explanation": "Clue-based."
+        }
+      ]
+    }
+  ]
+}

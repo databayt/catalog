@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "islamic-studies",
+    "chapter": "01-quran-fiqh",
+    "lesson": "01-uloom-quran"
+  },
+  "questions": [
+    {
+      "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq01",
+      "type": "mcq",
+      "question": "القرآن الكريم نزل على النبي ﷺ خلال:",
+      "options": [
+        "يوم واحد",
+        "نحو 23 سنة",
+        "100 سنة",
+        "شهر"
+      ],
+      "answer": "نحو 23 سنة",
+      "explanation": "نزول مُنجَّم."
+    },
+    {
+      "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq02",
+      "type": "true_false",
+      "question": "القرآن كلام الله المنزل المتعبد بتلاوته.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف القرآن."
+    },
+    {
+      "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq03",
+      "type": "fill_blank",
+      "question": "السور التي نزلت قبل الهجرة تسمى ___.",
+      "answer": "المكية",
+      "explanation": "المكي والمدني."
+    },
+    {
+      "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq04",
+      "type": "short_answer",
+      "question": "ما الفرق بين السور المكية والمدنية؟",
+      "answer": "المكية نزلت قبل الهجرة والمدنية بعدها.",
+      "explanation": "علوم القرآن."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "01-my-country"
+  },
+  "exams": [
+    {
+      "id": "g3-uae-unit-01-my-country-exam",
+      "title": "Exam: The UAE — My Country",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g3-uae-unit-01-my-country-01-uae-lq01",
+          "type": "mcq",
+          "question": "How many emirates make up the UAE?",
+          "options": [
+            "five",
+            "six",
+            "seven",
+            "eight"
+          ],
+          "answer": "seven",
+          "explanation": "Seven emirates."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-01-uae-lq02",
+          "type": "true_false",
+          "question": "The capital of the UAE is Abu Dhabi.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Capital."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-01-uae-lq03",
+          "type": "fill_blank",
+          "question": "The UAE is short for the United Arab ___.",
+          "answer": "Emirates",
+          "explanation": "UAE."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-01-uae-lq04",
+          "type": "short_answer",
+          "question": "Name two emirates of the UAE.",
+          "answer": "e.g., Abu Dhabi and Dubai.",
+          "explanation": "Emirates."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-02-symbols-lq01",
+          "type": "mcq",
+          "question": "The UAE flag has how many colours?",
+          "options": [
+            "two",
+            "three",
+            "four",
+            "five"
+          ],
+          "answer": "four",
+          "explanation": "Red, green, white, black."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-02-symbols-lq02",
+          "type": "true_false",
+          "question": "The national day of the UAE is celebrated on 2 December.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "UAE National Day."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-02-symbols-lq03",
+          "type": "fill_blank",
+          "question": "A country's flag is one of its national ___.",
+          "answer": "symbols",
+          "explanation": "Symbols."
+        },
+        {
+          "id": "g3-uae-unit-01-my-country-02-symbols-lq04",
+          "type": "short_answer",
+          "question": "Name one UAE national symbol.",
+          "answer": "e.g., the flag, the falcon, or the national anthem.",
+          "explanation": "Symbols."
+        }
+      ]
+    }
+  ]
+}

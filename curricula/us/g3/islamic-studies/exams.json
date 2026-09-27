@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g3-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإيمان؟",
+          "options": [
+            "خمسة",
+            "ستة",
+            "سبعة",
+            "أربعة"
+          ],
+          "answer": "ستة",
+          "explanation": "أركان الإيمان ستة."
+        },
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq02",
+          "type": "true_false",
+          "question": "الإيمان بالملائكة من أركان الإيمان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الركن الثاني."
+        },
+        {
+          "id": "g3-isl-unit-02-prophets-01-adam-lq01",
+          "type": "mcq",
+          "question": "آدم عليه السلام هو:",
+          "options": [
+            "أول البشر",
+            "آخر الأنبياء",
+            "ملك",
+            "صحابي"
+          ],
+          "answer": "أول البشر",
+          "explanation": "أبو البشر."
+        },
+        {
+          "id": "g3-isl-unit-02-prophets-01-adam-lq02",
+          "type": "true_false",
+          "question": "خلق الله آدم وعلّمه الأسماء كلها.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "قصة آدم."
+        }
+      ]
+    }
+  ]
+}

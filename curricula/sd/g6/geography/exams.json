@@ -1,0 +1,305 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "g6-geo-final",
+      "title": "الامتحان النهائي - geography",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g6-geo-unit-1-geographic-environment-01-location-and-place-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-01-location-and-place-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-02-maps-and-navigation-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-02-maps-and-navigation-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-03-natural-features-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-03-natural-features-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-04-landforms-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-1-geographic-environment-04-landforms-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-05-climate-basics-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-05-climate-basics-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-06-weather-patterns-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-06-weather-patterns-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-07-vegetation-types-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-07-vegetation-types-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-08-ecosystems-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-2-climate-and-vegetation-08-ecosystems-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-09-population-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-09-population-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-10-human-settlements-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-10-human-settlements-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-11-human-activities-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-11-human-activities-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-12-cultural-geography-q01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g6-geo-unit-3-human-geography-12-cultural-geography-q02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        }
+      ]
+    }
+  ]
+}

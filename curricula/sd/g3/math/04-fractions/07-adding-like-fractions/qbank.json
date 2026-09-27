@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "04-fractions",
+    "lesson": "07-adding-like-fractions"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u04-q007",
+      "type": "fill_blank",
+      "question": "أكمل: ١/٢ = ___/٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الكسور."
+    }
+  ]
+}

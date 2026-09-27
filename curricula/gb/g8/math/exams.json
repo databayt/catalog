@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq01",
+          "type": "mcq",
+          "question": "Simplify the ratio 10:15:",
+          "options": [
+            "2:3",
+            "3:2",
+            "1:2",
+            "10:15"
+          ],
+          "answer": "2:3",
+          "explanation": "Divide by 5."
+        },
+        {
+          "id": "g8-mat-unit-01-ratio-proportion-01-ratio-lq02",
+          "type": "true_false",
+          "question": "Ratio 4:8 simplifies to 1:2.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Divide by 4."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq01",
+          "type": "mcq",
+          "question": "Angles in a triangle sum to:",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "answer": "180°",
+          "explanation": "Triangle angle sum."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq02",
+          "type": "true_false",
+          "question": "Angles on a straight line sum to 180°.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Straight line."
+        }
+      ]
+    }
+  ]
+}

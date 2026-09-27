@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "02-sound-electricity",
+    "lesson": "01-sound"
+  },
+  "exams": [
+    {
+      "id": "g4-sci-unit-02-sound-electricity-01-sound-quiz",
+      "title": "Quiz: Sound",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq01",
+          "type": "mcq",
+          "question": "Sound is caused by:",
+          "options": [
+            "light",
+            "vibrations",
+            "heat",
+            "gravity"
+          ],
+          "answer": "vibrations",
+          "explanation": "Vibrating objects."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq02",
+          "type": "true_false",
+          "question": "Sound needs a medium (like air) to travel.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No sound in a vacuum."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq03",
+          "type": "fill_blank",
+          "question": "A faster vibration gives a higher ___.",
+          "answer": "pitch",
+          "explanation": "Pitch and frequency."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq04",
+          "type": "short_answer",
+          "question": "How does sound reach your ear?",
+          "answer": "Vibrations travel as waves through the air.",
+          "explanation": "Sound travel."
+        }
+      ]
+    }
+  ]
+}

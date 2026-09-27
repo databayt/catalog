@@ -1,0 +1,122 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "us-g1-math",
+  "curriculum": "us",
+  "grade": "g1",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "aldar",
+    "title": "Massachusetts Curriculum Framework for Mathematics (Common Core aligned)",
+    "url": "https://www.doe.mass.edu/frameworks/math/",
+    "license": "LicenseRef-Publisher",
+    "standards": "CCSS.Math Grade 1",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-counting-place-value",
+      "title": {
+        "en": "Counting & Place Value to 120"
+      },
+      "lessons": [
+        {
+          "slug": "01-counting-to-120",
+          "title": {
+            "en": "Counting to 120"
+          }
+        },
+        {
+          "slug": "02-tens-and-ones",
+          "title": {
+            "en": "Tens and Ones"
+          }
+        },
+        {
+          "slug": "03-comparing-numbers",
+          "title": {
+            "en": "Comparing Numbers (>, <, =)"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-addition-subtraction",
+      "title": {
+        "en": "Addition & Subtraction within 20"
+      },
+      "lessons": [
+        {
+          "slug": "01-addition-within-20",
+          "title": {
+            "en": "Adding within 20"
+          }
+        },
+        {
+          "slug": "02-subtraction-within-20",
+          "title": {
+            "en": "Subtracting within 20"
+          }
+        },
+        {
+          "slug": "03-word-problems",
+          "title": {
+            "en": "Addition & Subtraction Word Problems"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-geometry-shapes",
+      "title": {
+        "en": "Shapes & Fractions of Shapes"
+      },
+      "lessons": [
+        {
+          "slug": "01-2d-3d-shapes",
+          "title": {
+            "en": "2D and 3D Shapes"
+          }
+        },
+        {
+          "slug": "02-halves-quarters",
+          "title": {
+            "en": "Halves and Quarters"
+          }
+        }
+      ]
+    }
+  ]
+}

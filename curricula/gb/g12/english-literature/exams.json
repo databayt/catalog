@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-english-literature-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq01",
+          "type": "mcq",
+          "question": "A 'tragic hero' typically has a fatal:",
+          "options": [
+            "friend",
+            "flaw (hamartia)",
+            "fortune",
+            "castle"
+          ],
+          "answer": "flaw (hamartia)",
+          "explanation": "Hamartia."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq02",
+          "type": "true_false",
+          "question": "Catharsis is the emotional release felt by the audience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Aristotelian term."
+        },
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq01",
+          "type": "mcq",
+          "question": "Iambic pentameter is a type of:",
+          "options": [
+            "rhyme scheme",
+            "metre",
+            "stanza",
+            "genre"
+          ],
+          "answer": "metre",
+          "explanation": "Rhythm/metre."
+        },
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq02",
+          "type": "true_false",
+          "question": "Form and structure are part of a poet's method.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Methods."
+        }
+      ]
+    }
+  ]
+}

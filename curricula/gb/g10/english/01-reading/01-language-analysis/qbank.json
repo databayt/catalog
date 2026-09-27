@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-language-analysis"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-01-reading-01-language-analysis-lq01",
+      "type": "mcq",
+      "question": "Analysing 'how' a writer creates effect focuses on:",
+      "options": [
+        "plot only",
+        "language techniques",
+        "page count",
+        "the cover"
+      ],
+      "answer": "language techniques",
+      "explanation": "Methods/effects."
+    },
+    {
+      "id": "g10-eng-unit-01-reading-01-language-analysis-lq02",
+      "type": "true_false",
+      "question": "A metaphor is a comparison stating one thing is another.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Direct comparison."
+    },
+    {
+      "id": "g10-eng-unit-01-reading-01-language-analysis-lq03",
+      "type": "fill_blank",
+      "question": "Analysing structure considers how a text is ___.",
+      "answer": "organised",
+      "explanation": "Structure = organisation."
+    },
+    {
+      "id": "g10-eng-unit-01-reading-01-language-analysis-lq04",
+      "type": "short_answer",
+      "question": "Why analyse a writer's word choice?",
+      "answer": "To explain the effect created on the reader.",
+      "explanation": "Effect on reader."
+    }
+  ]
+}

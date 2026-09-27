@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g3-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq01",
+          "type": "mcq",
+          "question": "A character trait is:",
+          "options": [
+            "what a character looks like only",
+            "a way to describe how a character is",
+            "the setting",
+            "the title"
+          ],
+          "answer": "a way to describe how a character is",
+          "explanation": "Traits = qualities (brave, kind)."
+        },
+        {
+          "id": "g3-eng-unit-01-reading-literature-01-character-traits-lq02",
+          "type": "true_false",
+          "question": "Actions can show character traits.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "We infer traits from behavior."
+        },
+        {
+          "id": "g3-eng-unit-02-informational-01-text-features-lq01",
+          "type": "mcq",
+          "question": "A heading helps you:",
+          "options": [
+            "color the page",
+            "know the section topic",
+            "end the book",
+            "find the author"
+          ],
+          "answer": "know the section topic",
+          "explanation": "Headings label sections."
+        },
+        {
+          "id": "g3-eng-unit-02-informational-01-text-features-lq02",
+          "type": "true_false",
+          "question": "A caption explains a picture.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Caption = picture text."
+        },
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq01",
+          "type": "mcq",
+          "question": "Opinion writing states what you:",
+          "options": [
+            "measured",
+            "think/believe",
+            "copied",
+            "ate"
+          ],
+          "answer": "think/believe",
+          "explanation": "Opinion = belief with reasons."
+        },
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq02",
+          "type": "true_false",
+          "question": "Opinions should be supported with reasons.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Reasons strengthen opinions."
+        }
+      ]
+    }
+  ]
+}

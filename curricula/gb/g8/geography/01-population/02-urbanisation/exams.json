@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "geography",
+    "chapter": "01-population",
+    "lesson": "02-urbanisation"
+  },
+  "exams": [
+    {
+      "id": "g8-geo-unit-01-population-02-urbanisation-quiz",
+      "title": "Quiz: Urbanisation",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-geo-unit-01-population-02-urbanisation-lq01",
+          "type": "mcq",
+          "question": "Urbanisation is the growth of:",
+          "options": [
+            "forests",
+            "towns and cities",
+            "deserts",
+            "oceans"
+          ],
+          "answer": "towns and cities",
+          "explanation": "Urban growth."
+        },
+        {
+          "id": "g8-geo-unit-01-population-02-urbanisation-lq02",
+          "type": "true_false",
+          "question": "Many people migrate to cities seeking work.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rural-urban migration."
+        },
+        {
+          "id": "g8-geo-unit-01-population-02-urbanisation-lq03",
+          "type": "fill_blank",
+          "question": "Very large cities with over 10 million people are ___.",
+          "answer": "megacities",
+          "explanation": "Megacity."
+        },
+        {
+          "id": "g8-geo-unit-01-population-02-urbanisation-lq04",
+          "type": "short_answer",
+          "question": "Name one challenge caused by rapid urbanisation.",
+          "answer": "e.g., overcrowding, housing shortages, or pollution.",
+          "explanation": "Urban challenges."
+        }
+      ]
+    }
+  ]
+}

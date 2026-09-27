@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "02-materials"
+  },
+  "exams": [
+    {
+      "id": "g2-sci-unit-02-materials-exam",
+      "title": "Exam: Uses of Materials",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq01",
+          "type": "mcq",
+          "question": "Glass is usually:",
+          "options": [
+            "transparent",
+            "soft",
+            "bendy",
+            "magnetic"
+          ],
+          "answer": "transparent",
+          "explanation": "See-through."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq02",
+          "type": "true_false",
+          "question": "Rubber is flexible.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Bends easily."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq03",
+          "type": "fill_blank",
+          "question": "Metal is a good ___ of heat.",
+          "answer": "conductor",
+          "explanation": "Conducts heat."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq04",
+          "type": "short_answer",
+          "question": "Why is wood used for furniture?",
+          "answer": "It is strong and easy to shape.",
+          "explanation": "Material choice."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-02-shaping-lq01",
+          "type": "mcq",
+          "question": "Which can be bent, twisted and stretched?",
+          "options": [
+            "glass",
+            "clay or plastic",
+            "stone",
+            "ice"
+          ],
+          "answer": "clay or plastic",
+          "explanation": "Malleable."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-02-shaping-lq02",
+          "type": "true_false",
+          "question": "Squashing changes a material's shape.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Physical change."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-02-shaping-lq03",
+          "type": "fill_blank",
+          "question": "Clay can be ___ into different shapes.",
+          "answer": "moulded",
+          "explanation": "Shaping."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-02-shaping-lq04",
+          "type": "short_answer",
+          "question": "Name a way to change a material's shape.",
+          "answer": "Bending, twisting, squashing or stretching.",
+          "explanation": "Shape change."
+        }
+      ]
+    }
+  ]
+}

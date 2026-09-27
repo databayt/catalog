@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq01",
+          "type": "mcq",
+          "question": "An acid has a pH that is:",
+          "options": [
+            "above 7",
+            "exactly 7",
+            "below 7",
+            "negative"
+          ],
+          "answer": "below 7",
+          "explanation": "Acids pH < 7."
+        },
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq02",
+          "type": "true_false",
+          "question": "A neutralisation reaction makes a salt and water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Acid + base."
+        },
+        {
+          "id": "g9-sci-unit-02-physics-01-electricity-lq01",
+          "type": "mcq",
+          "question": "Electric current is measured in:",
+          "options": [
+            "volts",
+            "amps",
+            "ohms",
+            "watts"
+          ],
+          "answer": "amps",
+          "explanation": "Current unit A."
+        },
+        {
+          "id": "g9-sci-unit-02-physics-01-electricity-lq02",
+          "type": "true_false",
+          "question": "In a series circuit, components share the same current.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "One path."
+        }
+      ]
+    }
+  ]
+}

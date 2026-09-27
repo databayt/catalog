@@ -1,0 +1,316 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g7-islamic-studies",
+  "curriculum": "sd",
+  "grade": "g7",
+  "subject": "islamic-studies",
+  "title": {
+    "ar": "التربية الإسلامية",
+    "en": "Islamic Studies"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "faith",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-tajweed",
+      "title": {
+        "ar": "التجويد"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-sound-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-noon-sakinah",
+          "title": {
+            "ar": "النون الساكنة والتنوين"
+          }
+        },
+        {
+          "slug": "02-izhar",
+          "title": {
+            "ar": "الإظهار"
+          }
+        },
+        {
+          "slug": "03-idgham",
+          "title": {
+            "ar": "الإدغام"
+          }
+        },
+        {
+          "slug": "04-iqlab",
+          "title": {
+            "ar": "الإقلاب"
+          }
+        },
+        {
+          "slug": "05-ikhfaa",
+          "title": {
+            "ar": "الإخفاء"
+          }
+        },
+        {
+          "slug": "06-meem-sakinah",
+          "title": {
+            "ar": "خلاصة أحكام الميم الساكنة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-quran",
+      "title": {
+        "ar": "القرآن: سورة الحجرات"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-adab-with-allah",
+          "title": {
+            "ar": "الأدب مع الله ورسوله"
+          }
+        },
+        {
+          "slug": "02-verify-news",
+          "title": {
+            "ar": "التثبت في الأخبار والإصلاح بين الطوائف المتقاتلة"
+          },
+          "image": "clickview/middle-friendship-cover.jpg"
+        },
+        {
+          "slug": "03-no-mockery",
+          "title": {
+            "ar": "تحريم الإساءة واحتقار الآخر"
+          },
+          "image": "clickview/elementary-respectful-relationships-cover.jpg"
+        },
+        {
+          "slug": "04-true-faith",
+          "title": {
+            "ar": "حقيقة الإيمان"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-quran-fath",
+      "title": {
+        "ar": "القرآن: سورة الفتح"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-international-day-of-peace-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-hudaybiyyah",
+          "title": {
+            "ar": "صلح الحديبية وآثاره"
+          }
+        },
+        {
+          "slug": "02-absentees",
+          "title": {
+            "ar": "أحوال المتخلفين عن الحديبية"
+          }
+        },
+        {
+          "slug": "03-ridwan-pledge",
+          "title": {
+            "ar": "بيعة الرضوان وآثارها الخيّرة"
+          }
+        },
+        {
+          "slug": "04-vision-fulfilled",
+          "title": {
+            "ar": "تصديق رؤيا الرسول صلى الله عليه وسلم عام الفتح"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-hadith",
+      "title": {
+        "ar": "الأحاديث النبوية ومكارم الأخلاق"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-identity-and-community-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-ihsan",
+          "title": {
+            "ar": "الإحسان إلى الخلق"
+          }
+        },
+        {
+          "slug": "02-modesty",
+          "title": {
+            "ar": "الحياء"
+          }
+        },
+        {
+          "slug": "03-charity-types",
+          "title": {
+            "ar": "أنواع الصدقات"
+          },
+          "image": "clickview/high-corporate-social-responsibility-cover.jpg"
+        },
+        {
+          "slug": "04-work-virtue",
+          "title": {
+            "ar": "فضل العمل"
+          }
+        },
+        {
+          "slug": "05-gratitude",
+          "title": {
+            "ar": "من محاسن الأخلاق شكر المعروف"
+          }
+        },
+        {
+          "slug": "06-relief",
+          "title": {
+            "ar": "من مكارم الأخلاق تنفيس الكرب"
+          }
+        },
+        {
+          "slug": "07-patriotism",
+          "title": {
+            "ar": "من مكارم الأخلاق الاعتزاز بالوطن"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-aqeedah",
+      "title": {
+        "ar": "العقيدة"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-faith-decree",
+          "title": {
+            "ar": "الإيمان بالقضاء والقدر"
+          }
+        },
+        {
+          "slug": "02-contentment",
+          "title": {
+            "ar": "الرضا بالقضاء والقدر"
+          }
+        },
+        {
+          "slug": "03-tawakkul",
+          "title": {
+            "ar": "التوكل"
+          }
+        },
+        {
+          "slug": "04-sweetness-faith",
+          "title": {
+            "ar": "حلاوة الإيمان"
+          }
+        },
+        {
+          "slug": "05-contemplation",
+          "title": {
+            "ar": "تأمل وتفكر"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-fiqh",
+      "title": {
+        "ar": "الفقه"
+      },
+      "concept": "faith",
+      "image": "clickview/high-water-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-purity",
+          "title": {
+            "ar": "الطهارة والنظافة"
+          }
+        },
+        {
+          "slug": "02-impurity",
+          "title": {
+            "ar": "النجاسة"
+          }
+        },
+        {
+          "slug": "03-ghusl",
+          "title": {
+            "ar": "الغسل وأحكامه"
+          }
+        },
+        {
+          "slug": "04-fasting-rules",
+          "title": {
+            "ar": "من أحكام الصيام"
+          },
+          "image": "clickview/middle-islam-cover.jpg"
+        },
+        {
+          "slug": "05-fasting-pillars",
+          "title": {
+            "ar": "أركان الصوم وآدابه وحكمة مشروعيته"
+          },
+          "image": "clickview/middle-islam-cover.jpg"
+        },
+        {
+          "slug": "06-fasting-types",
+          "title": {
+            "ar": "أنواع الصيام"
+          },
+          "image": "clickview/middle-islam-cover.jpg"
+        },
+        {
+          "slug": "07-fasting-invalidators",
+          "title": {
+            "ar": "مبطلات الصيام والأعذار المبيحة للفطر"
+          },
+          "image": "clickview/middle-islam-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "07-seerah",
+      "title": {
+        "ar": "دروس السيرة النبوية"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-settlements-and-migration-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-hijra",
+          "title": {
+            "ar": "هجرة النبي صلى الله عليه وسلم إلى المدينة المنورة"
+          }
+        },
+        {
+          "slug": "02-state-building",
+          "title": {
+            "ar": "تنظيم بناء دولة المدينة"
+          }
+        },
+        {
+          "slug": "03-mosque-importance",
+          "title": {
+            "ar": "بناء المسجد النبوي وأهمية المساجد"
+          }
+        }
+      ]
+    }
+  ]
+}

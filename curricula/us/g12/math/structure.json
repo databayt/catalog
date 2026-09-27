@@ -1,0 +1,94 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "us-g12-math",
+  "curriculum": "us",
+  "grade": "g12",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics (Pre-Calculus)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "aldar",
+    "title": "Mathematics (Pre-Calculus) (Massachusetts/Common Core/NGSS aligned)",
+    "url": "https://www.doe.mass.edu/frameworks/",
+    "license": "LicenseRef-Publisher",
+    "standards": "CCSS Pre-Calculus",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science); Advanced Placement (College Board); American High School Diploma",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    },
+    {
+      "title": "Advanced Placement (College Board) — course frameworks",
+      "url": "https://apstudents.collegeboard.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-trig",
+      "title": {
+        "en": "Trigonometry"
+      },
+      "lessons": [
+        {
+          "slug": "01-trig-ratios",
+          "title": {
+            "en": "Trigonometric Ratios"
+          }
+        },
+        {
+          "slug": "02-identities",
+          "title": {
+            "en": "Trig Identities"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-functions-limits",
+      "title": {
+        "en": "Functions & Introduction to Limits"
+      },
+      "lessons": [
+        {
+          "slug": "01-function-analysis",
+          "title": {
+            "en": "Analyzing Functions"
+          }
+        },
+        {
+          "slug": "02-limits",
+          "title": {
+            "en": "Introduction to Limits"
+          }
+        }
+      ]
+    }
+  ]
+}

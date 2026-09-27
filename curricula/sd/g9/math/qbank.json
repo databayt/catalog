@@ -1,0 +1,945 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-01-01-function-definition-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-01-01-function-definition-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-01-02-image-of-element-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-01-02-image-of-element-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-01-03-range-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-01-03-range-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-01-04-surjective-function-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-01-04-surjective-function-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-01-05-injective-function-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-01-05-injective-function-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-02-01-base-and-power-q01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-01-base-and-power-q02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-02-02-multiplying-powers-q01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-02-multiplying-powers-q02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-q01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-q02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-02-04-multiplying-different-bases-q01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-04-multiplying-different-bases-q02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-02-05-dividing-powers-q01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-05-dividing-powers-q02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-03-01-cartesian-plane-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-03-01-cartesian-plane-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-03-02-linear-equation-two-variables-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-03-02-linear-equation-two-variables-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-03-03-graphical-solution-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-03-03-graphical-solution-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-03-04-algebraic-solution-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-03-04-algebraic-solution-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-03-05-elimination-method-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-03-05-elimination-method-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-04-01-circle-basics-q01",
+      "type": "mcq",
+      "question": "مجموع زوايا المثلث يساوي:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°",
+      "explanation": "مجموع زوايا أي مثلث = 180°."
+    },
+    {
+      "id": "g9-mat-unit-04-01-circle-basics-q02",
+      "type": "true_false",
+      "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "القطر = 2 × نصف القطر."
+    },
+    {
+      "id": "g9-mat-unit-04-02-equal-chords-and-arcs-q01",
+      "type": "mcq",
+      "question": "مجموع زوايا المثلث يساوي:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°",
+      "explanation": "مجموع زوايا أي مثلث = 180°."
+    },
+    {
+      "id": "g9-mat-unit-04-02-equal-chords-and-arcs-q02",
+      "type": "true_false",
+      "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "القطر = 2 × نصف القطر."
+    },
+    {
+      "id": "g9-mat-unit-04-03-theorem-2-q01",
+      "type": "mcq",
+      "question": "مجموع زوايا المثلث يساوي:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°",
+      "explanation": "مجموع زوايا أي مثلث = 180°."
+    },
+    {
+      "id": "g9-mat-unit-04-03-theorem-2-q02",
+      "type": "true_false",
+      "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "القطر = 2 × نصف القطر."
+    },
+    {
+      "id": "g9-mat-unit-04-04-theorem-3-q01",
+      "type": "mcq",
+      "question": "مجموع زوايا المثلث يساوي:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°",
+      "explanation": "مجموع زوايا أي مثلث = 180°."
+    },
+    {
+      "id": "g9-mat-unit-04-04-theorem-3-q02",
+      "type": "true_false",
+      "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "القطر = 2 × نصف القطر."
+    },
+    {
+      "id": "g9-mat-unit-04-05-perpendicular-from-center-q01",
+      "type": "mcq",
+      "question": "مجموع زوايا المثلث يساوي:",
+      "options": [
+        "180°",
+        "360°",
+        "90°",
+        "270°"
+      ],
+      "answer": "180°",
+      "explanation": "مجموع زوايا أي مثلث = 180°."
+    },
+    {
+      "id": "g9-mat-unit-04-05-perpendicular-from-center-q02",
+      "type": "true_false",
+      "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "القطر = 2 × نصف القطر."
+    },
+    {
+      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q01",
+      "type": "mcq",
+      "question": "ما ناتج (x + 3)(x - 3)؟",
+      "options": [
+        "x² - 9",
+        "x² + 9",
+        "x² - 6x + 9",
+        "x² + 6x - 9"
+      ],
+      "answer": "x² - 9",
+      "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+    },
+    {
+      "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q02",
+      "type": "true_false",
+      "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+    },
+    {
+      "id": "g9-mat-unit-05-02-factoring-algebraic-expression-q01",
+      "type": "mcq",
+      "question": "ما ناتج (x + 3)(x - 3)؟",
+      "options": [
+        "x² - 9",
+        "x² + 9",
+        "x² - 6x + 9",
+        "x² + 6x - 9"
+      ],
+      "answer": "x² - 9",
+      "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+    },
+    {
+      "id": "g9-mat-unit-05-02-factoring-algebraic-expression-q02",
+      "type": "true_false",
+      "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+    },
+    {
+      "id": "g9-mat-unit-05-03-common-factor-q01",
+      "type": "mcq",
+      "question": "ما ناتج (x + 3)(x - 3)؟",
+      "options": [
+        "x² - 9",
+        "x² + 9",
+        "x² - 6x + 9",
+        "x² + 6x - 9"
+      ],
+      "answer": "x² - 9",
+      "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+    },
+    {
+      "id": "g9-mat-unit-05-03-common-factor-q02",
+      "type": "true_false",
+      "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+    },
+    {
+      "id": "g9-mat-unit-05-04-relation-x-minus-y-q01",
+      "type": "mcq",
+      "question": "ما ناتج (x + 3)(x - 3)؟",
+      "options": [
+        "x² - 9",
+        "x² + 9",
+        "x² - 6x + 9",
+        "x² + 6x - 9"
+      ],
+      "answer": "x² - 9",
+      "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+    },
+    {
+      "id": "g9-mat-unit-05-04-relation-x-minus-y-q02",
+      "type": "true_false",
+      "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+    },
+    {
+      "id": "g9-mat-unit-05-05-relation-and-common-factor-q01",
+      "type": "mcq",
+      "question": "ما ناتج (x + 3)(x - 3)؟",
+      "options": [
+        "x² - 9",
+        "x² + 9",
+        "x² - 6x + 9",
+        "x² + 6x - 9"
+      ],
+      "answer": "x² - 9",
+      "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+    },
+    {
+      "id": "g9-mat-unit-05-05-relation-and-common-factor-q02",
+      "type": "true_false",
+      "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+    },
+    {
+      "id": "g9-mat-unit-06-01-general-form-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-06-01-general-form-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-06-02-solving-quadratic-equations-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-06-02-solving-quadratic-equations-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-06-03-special-cases-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-06-03-special-cases-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-06-04-forming-quadratic-from-roots-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 2x + 6 = 14?",
+      "options": [
+        "x = 4",
+        "x = 10",
+        "x = 7",
+        "x = 3"
+      ],
+      "answer": "x = 4",
+      "explanation": "2x = 14 - 6 = 8, x = 4."
+    },
+    {
+      "id": "g9-mat-unit-06-04-forming-quadratic-from-roots-q02",
+      "type": "true_false",
+      "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+    },
+    {
+      "id": "g9-mat-unit-07-01-frequency-table-q01",
+      "type": "mcq",
+      "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "id": "g9-mat-unit-07-01-frequency-table-q02",
+      "type": "true_false",
+      "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المنوال هو القيمة الأكثر تكراراً."
+    },
+    {
+      "id": "g9-mat-unit-07-02-constructing-frequency-table-q01",
+      "type": "mcq",
+      "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "id": "g9-mat-unit-07-02-constructing-frequency-table-q02",
+      "type": "true_false",
+      "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المنوال هو القيمة الأكثر تكراراً."
+    },
+    {
+      "id": "g9-mat-unit-07-03-histogram-q01",
+      "type": "mcq",
+      "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "id": "g9-mat-unit-07-03-histogram-q02",
+      "type": "true_false",
+      "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المنوال هو القيمة الأكثر تكراراً."
+    },
+    {
+      "id": "g9-mat-unit-07-04-frequency-polygon-q01",
+      "type": "mcq",
+      "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "id": "g9-mat-unit-07-04-frequency-polygon-q02",
+      "type": "true_false",
+      "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المنوال هو القيمة الأكثر تكراراً."
+    },
+    {
+      "id": "g9-mat-unit-07-05-arithmetic-mean-q01",
+      "type": "mcq",
+      "question": "ما المتوسط الحسابي للأعداد: 2، 4، 6، 8؟",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "المتوسط = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "id": "g9-mat-unit-07-05-arithmetic-mean-q02",
+      "type": "true_false",
+      "question": "المنوال هو القيمة الأكثر تكراراً في مجموعة البيانات.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المنوال هو القيمة الأكثر تكراراً."
+    },
+    {
+      "id": "g9-mat-unit-08-01-volume-concept-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-08-01-volume-concept-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-08-02-rectangular-prism-volume-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-08-02-rectangular-prism-volume-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-08-03-cube-volume-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-08-03-cube-volume-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-08-04-pyramid-volume-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-08-04-pyramid-volume-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    },
+    {
+      "id": "g9-mat-unit-08-05-cylinder-volume-q01",
+      "type": "mcq",
+      "question": "أي العمليات الحسابية التالية صحيحة؟",
+      "options": [
+        "15 ÷ 3 = 5",
+        "15 ÷ 3 = 6",
+        "15 ÷ 3 = 4",
+        "15 ÷ 3 = 3"
+      ],
+      "answer": "15 ÷ 3 = 5",
+      "explanation": "15 ÷ 3 = 5 صحيحة."
+    },
+    {
+      "id": "g9-mat-unit-08-05-cylinder-volume-q02",
+      "type": "true_false",
+      "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الأعداد السالبة على يسار الصفر."
+    }
+  ]
+}

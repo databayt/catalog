@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "music",
+    "chapter": "02-composing",
+    "lesson": "01-composing"
+  },
+  "questions": [
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq01",
+      "type": "mcq",
+      "question": "Creating your own music is:",
+      "options": [
+        "composing",
+        "copying",
+        "listening only",
+        "tuning"
+      ],
+      "answer": "composing",
+      "explanation": "Composition."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq02",
+      "type": "true_false",
+      "question": "A motif is a short musical idea that can be repeated.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Motif."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq03",
+      "type": "fill_blank",
+      "question": "Creating original music is called ___.",
+      "answer": "composing",
+      "explanation": "Composing."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq04",
+      "type": "short_answer",
+      "question": "Name one element to consider when composing.",
+      "answer": "e.g., melody, rhythm, harmony, or structure.",
+      "explanation": "Composing."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g11",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-final",
+      "title": "الامتحان النهائي - english",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g11-eng-chap01-q001",
+          "type": "mcq",
+          "question": "In the sentence \"She walks quickly,\" the word \"quickly\" functions as a:",
+          "options": [
+            "A) Noun",
+            "B) Verb",
+            "C) Adverb",
+            "D) Adjective"
+          ],
+          "answer": "A) Noun",
+          "explanation": "This is the correct answer based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q002",
+          "type": "mcq",
+          "question": "Which of the following is an example of a metaphor?",
+          "options": [
+            "A) The sun is like a bright light",
+            "B) The sun is a bright light",
+            "C) The sun is bright",
+            "D) The sun shines brightly"
+          ],
+          "answer": "A) The sun is like a bright light",
+          "explanation": "This is the correct answer based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q003",
+          "type": "mcq",
+          "question": "A sonnet traditionally contains how many lines?",
+          "options": [
+            "A) 8",
+            "B) 10",
+            "C) 12",
+            "D) 14"
+          ],
+          "answer": "A) 8",
+          "explanation": "This is the correct answer based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q004",
+          "type": "mcq",
+          "question": "In the sentence \"She walks quickly,\" the word \"quickly\" functions as a:",
+          "options": [
+            "A) Noun",
+            "B) Verb",
+            "C) Adverb",
+            "D) Adjective"
+          ],
+          "answer": "A) Noun",
+          "explanation": "This is the correct answer based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q005",
+          "type": "true_false",
+          "question": "A simile uses \"like\" or \"as\" to compare two things.",
+          "answer": true,
+          "explanation": "This statement is True/False based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q006",
+          "type": "true_false",
+          "question": "A comma splice occurs when two independent clauses are joined with a comma.",
+          "answer": false,
+          "explanation": "This statement is True/False based on the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q007",
+          "type": "fill_blank",
+          "question": "The _____________ of a narrative is the sequence of events.",
+          "answer": "key term",
+          "explanation": "This term is defined in the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q008",
+          "type": "fill_blank",
+          "question": "An ______________ is a comparison between two unlike things using \"like\" or \"as\".",
+          "answer": "key term",
+          "explanation": "This term is defined in the course material."
+        },
+        {
+          "id": "g11-eng-chap01-q009",
+          "type": "short_answer",
+          "question": "Describe the three types of conflict found in literature.",
+          "answer": "Students should provide a comprehensive explanation based on course material.",
+          "explanation": "Accept responses that demonstrate understanding of key concepts."
+        },
+        {
+          "id": "g11-eng-chap01-q010",
+          "type": "short_answer",
+          "question": "Explain the difference between a static and dynamic character.",
+          "answer": "Students should provide a comprehensive explanation based on course material.",
+          "explanation": "Accept responses that demonstrate understanding of key concepts."
+        }
+      ]
+    }
+  ]
+}

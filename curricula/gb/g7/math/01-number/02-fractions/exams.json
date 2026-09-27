@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "01-number",
+    "lesson": "02-fractions"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-01-number-02-fractions-quiz",
+      "title": "Quiz: Fractions, Decimals & Percentages",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq01",
+          "type": "mcq",
+          "question": "1/4 as a percentage is:",
+          "options": [
+            "14%",
+            "25%",
+            "40%",
+            "4%"
+          ],
+          "answer": "25%",
+          "explanation": "1/4 = 25%."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq02",
+          "type": "true_false",
+          "question": "0.5 = 50%.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiply by 100."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq03",
+          "type": "fill_blank",
+          "question": "3/10 as a decimal is ___.",
+          "answer": "0.3",
+          "explanation": "Tenths."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq04",
+          "type": "short_answer",
+          "question": "Convert 0.2 to a fraction in simplest form.",
+          "answer": "1/5",
+          "explanation": "0.2 = 2/10 = 1/5."
+        }
+      ]
+    }
+  ]
+}

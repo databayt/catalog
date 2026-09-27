@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "physical-education",
+    "chapter": "02-health",
+    "lesson": "01-fitness"
+  },
+  "questions": [
+    {
+      "id": "g3-phy-unit-02-health-01-fitness-lq01",
+      "type": "mcq",
+      "question": "Regular exercise keeps the body:",
+      "options": [
+        "healthy",
+        "tired forever",
+        "unwell",
+        "still"
+      ],
+      "answer": "healthy",
+      "explanation": "Health benefits."
+    },
+    {
+      "id": "g3-phy-unit-02-health-01-fitness-lq02",
+      "type": "true_false",
+      "question": "Exercise makes the heart stronger.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cardio benefit."
+    },
+    {
+      "id": "g3-phy-unit-02-health-01-fitness-lq03",
+      "type": "fill_blank",
+      "question": "Being physically active helps keep us ___.",
+      "answer": "healthy",
+      "explanation": "Health."
+    },
+    {
+      "id": "g3-phy-unit-02-health-01-fitness-lq04",
+      "type": "short_answer",
+      "question": "Name one benefit of exercise.",
+      "answer": "e.g., a stronger heart, more energy, or better mood.",
+      "explanation": "Exercise benefits."
+    }
+  ]
+}

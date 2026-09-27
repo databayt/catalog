@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "social-studies",
+    "chapter": "01-th-century"
+  },
+  "questions": [
+    {
+      "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq01",
+      "type": "mcq",
+      "question": "The Great Depression began with the 1929 stock market:",
+      "options": [
+        "crash",
+        "boom",
+        "holiday",
+        "merger"
+      ],
+      "answer": "crash",
+      "explanation": "1929 Crash."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq02",
+      "type": "true_false",
+      "question": "The New Deal was a set of programs to fight the Depression.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "FDR's New Deal."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq03",
+      "type": "fill_blank",
+      "question": "The President who launched the New Deal was Franklin D. ___.",
+      "answer": "Roosevelt",
+      "explanation": "FDR."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-01-depression-newdeal-lq04",
+      "type": "short_answer",
+      "question": "What was the goal of the New Deal?",
+      "answer": "To provide relief, recovery and reform during the Depression.",
+      "explanation": "New Deal."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-02-civil-rights-lq01",
+      "type": "mcq",
+      "question": "The Civil Rights Movement fought for the equal rights of:",
+      "options": [
+        "African Americans",
+        "robots",
+        "kings",
+        "corporations"
+      ],
+      "answer": "African Americans",
+      "explanation": "Civil rights."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-02-civil-rights-lq02",
+      "type": "true_false",
+      "question": "Martin Luther King Jr. advocated nonviolent protest.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Nonviolence."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-02-civil-rights-lq03",
+      "type": "fill_blank",
+      "question": "The 1964 Civil Rights ___ banned segregation and discrimination.",
+      "answer": "Act",
+      "explanation": "1964 law."
+    },
+    {
+      "id": "g11-soc-unit-01-20th-century-02-civil-rights-lq04",
+      "type": "short_answer",
+      "question": "Name one method used in the Civil Rights Movement.",
+      "answer": "e.g., boycotts, marches, sit-ins, or legal challenges.",
+      "explanation": "Civil rights methods."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "biology"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-biology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq01",
+          "type": "mcq",
+          "question": "Which is found in plant cells but not animal cells?",
+          "options": [
+            "nucleus",
+            "cell wall",
+            "membrane",
+            "mitochondria"
+          ],
+          "answer": "cell wall",
+          "explanation": "Cellulose wall."
+        },
+        {
+          "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq02",
+          "type": "true_false",
+          "question": "Mitochondria are the site of aerobic respiration.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Energy release."
+        },
+        {
+          "id": "g10-bio-unit-02-organisation-01-enzymes-lq01",
+          "type": "mcq",
+          "question": "Enzymes are biological:",
+          "options": [
+            "fuels",
+            "catalysts",
+            "cells",
+            "gases"
+          ],
+          "answer": "catalysts",
+          "explanation": "Speed reactions."
+        },
+        {
+          "id": "g10-bio-unit-02-organisation-01-enzymes-lq02",
+          "type": "true_false",
+          "question": "Enzymes work best at an optimum temperature and pH.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conditions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "01-number-to-20"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq01",
+      "type": "mcq",
+      "question": "What comes after 14?",
+      "options": [
+        "13",
+        "15",
+        "16",
+        "20"
+      ],
+      "answer": "15",
+      "explanation": "Count on by one."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq02",
+      "type": "true_false",
+      "question": "The number before 10 is 9.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "9 + 1 = 10."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq03",
+      "type": "fill_blank",
+      "question": "Count on: 17, 18, ___ , 20.",
+      "answer": "19",
+      "explanation": "One more each time."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq04",
+      "type": "short_answer",
+      "question": "Count backwards from 5 to 1.",
+      "answer": "5, 4, 3, 2, 1",
+      "explanation": "Counting down."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq01",
+      "type": "mcq",
+      "question": "13 is made of:",
+      "options": [
+        "1 ten 3 ones",
+        "3 tens 1 one",
+        "13 tens",
+        "10 ones"
+      ],
+      "answer": "1 ten 3 ones",
+      "explanation": "13 = 10 + 3."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq02",
+      "type": "true_false",
+      "question": "16 has 6 ones.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "6 in the ones place."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq03",
+      "type": "fill_blank",
+      "question": "1 ten and 8 ones = ___.",
+      "answer": "18",
+      "explanation": "10 + 8."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq04",
+      "type": "short_answer",
+      "question": "How many tens in 20?",
+      "answer": "2 tens",
+      "explanation": "20 = 2 tens."
+    }
+  ]
+}

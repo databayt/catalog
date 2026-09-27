@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "geography",
+    "chapter": "02-global-places"
+  },
+  "exams": [
+    {
+      "id": "g12-geo-unit-02-global-places-exam",
+      "title": "Exam: Global Systems & Changing Places",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq01",
+          "type": "mcq",
+          "question": "Globalisation has increased the flow of capital, goods and:",
+          "options": [
+            "people",
+            "mountains",
+            "oceans",
+            "deserts"
+          ],
+          "answer": "people",
+          "explanation": "Global flows."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq02",
+          "type": "true_false",
+          "question": "International organisations help govern global systems.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Global governance."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq03",
+          "type": "fill_blank",
+          "question": "The worldwide flow of trade, finance and people is part of global ___.",
+          "answer": "systems",
+          "explanation": "Global systems."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq04",
+          "type": "short_answer",
+          "question": "Name one benefit and one cost of globalisation.",
+          "answer": "e.g., benefit: trade/growth; cost: inequality or environmental harm.",
+          "explanation": "Globalisation evaluation."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-02-changing-places-lq01",
+          "type": "mcq",
+          "question": "People's connection and feelings about a place create a sense of:",
+          "options": [
+            "place",
+            "time",
+            "scale",
+            "cost"
+          ],
+          "answer": "place",
+          "explanation": "Sense of place."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-02-changing-places-lq02",
+          "type": "true_false",
+          "question": "Places can be shaped by both local and global processes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Place-making."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-02-changing-places-lq03",
+          "type": "fill_blank",
+          "question": "How a place is represented in media affects its ___.",
+          "answer": "image",
+          "explanation": "Place perception."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-02-changing-places-lq04",
+          "type": "short_answer",
+          "question": "Why do places change over time?",
+          "answer": "Due to shifting economic, social and political processes.",
+          "explanation": "Place change."
+        }
+      ]
+    }
+  ]
+}

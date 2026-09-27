@@ -1,0 +1,80 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "ib-dp-g12-economics",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "economics",
+  "title": {
+    "ar": "الاقتصاد",
+    "en": "Economics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "economy",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-introduction-to-economics",
+      "title": {
+        "en": "Introduction to Economics"
+      },
+      "lessons": [
+        {
+          "slug": "01-introduction-to-economics",
+          "title": {
+            "en": "Introduction to Economics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-microeconomics",
+      "title": {
+        "en": "Microeconomics"
+      },
+      "lessons": [
+        {
+          "slug": "01-microeconomics",
+          "title": {
+            "en": "Microeconomics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-macroeconomics",
+      "title": {
+        "en": "Macroeconomics"
+      },
+      "lessons": [
+        {
+          "slug": "01-macroeconomics",
+          "title": {
+            "en": "Macroeconomics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-the-global-economy",
+      "title": {
+        "en": "The Global Economy"
+      },
+      "lessons": [
+        {
+          "slug": "01-the-global-economy",
+          "title": {
+            "en": "The Global Economy"
+          }
+        }
+      ]
+    }
+  ]
+}

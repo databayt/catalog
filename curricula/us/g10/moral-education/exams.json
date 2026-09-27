@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "moral-education"
+  },
+  "exams": [
+    {
+      "id": "us-g10-moral-education-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq01",
+          "type": "mcq",
+          "question": "Conserving water and energy helps protect the:",
+          "options": [
+            "environment",
+            "fonts",
+            "prices",
+            "weather reports"
+          ],
+          "answer": "environment",
+          "explanation": "Conservation."
+        },
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq02",
+          "type": "true_false",
+          "question": "The UAE invests in clean energy projects like solar power.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Clean energy."
+        },
+        {
+          "id": "g10-mor-unit-02-responsibility-01-volunteering-lq01",
+          "type": "mcq",
+          "question": "Volunteering means giving your time to:",
+          "options": [
+            "help others",
+            "earn salary",
+            "rest",
+            "play only"
+          ],
+          "answer": "help others",
+          "explanation": "Volunteering."
+        },
+        {
+          "id": "g10-mor-unit-02-responsibility-01-volunteering-lq02",
+          "type": "true_false",
+          "question": "Giving and charity are valued in the UAE.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Generosity."
+        }
+      ]
+    }
+  ]
+}

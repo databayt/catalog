@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "moral-education",
+    "chapter": "02-ethics",
+    "lesson": "02-work-ethic"
+  },
+  "exams": [
+    {
+      "id": "g9-mor-unit-02-ethics-02-work-ethic-quiz",
+      "title": "Quiz: Work Ethic",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mor-unit-02-ethics-02-work-ethic-lq01",
+          "type": "mcq",
+          "question": "A strong work ethic includes:",
+          "options": [
+            "diligence and reliability",
+            "laziness",
+            "dishonesty",
+            "carelessness"
+          ],
+          "answer": "diligence and reliability",
+          "explanation": "Work ethic."
+        },
+        {
+          "id": "g9-mor-unit-02-ethics-02-work-ethic-lq02",
+          "type": "true_false",
+          "question": "Effort and perseverance help achieve goals.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Diligence."
+        },
+        {
+          "id": "g9-mor-unit-02-ethics-02-work-ethic-lq03",
+          "type": "fill_blank",
+          "question": "Working hard and being dependable shows a good work ___.",
+          "answer": "ethic",
+          "explanation": "Work ethic."
+        },
+        {
+          "id": "g9-mor-unit-02-ethics-02-work-ethic-lq04",
+          "type": "short_answer",
+          "question": "Why is a good work ethic valuable?",
+          "answer": "It leads to achievement and earns trust and respect.",
+          "explanation": "Work ethic."
+        }
+      ]
+    }
+  ]
+}

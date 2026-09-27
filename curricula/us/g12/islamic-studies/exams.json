@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g12-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq01",
+          "type": "mcq",
+          "question": "الاجتهاد هو:",
+          "options": [
+            "بذل الجهد لاستنباط الحكم الشرعي",
+            "التقليد الأعمى",
+            "ترك الدين",
+            "الجدال"
+          ],
+          "answer": "بذل الجهد لاستنباط الحكم الشرعي",
+          "explanation": "الاجتهاد."
+        },
+        {
+          "id": "g12-isl-unit-01-thought-contemporary-01-thought-lq02",
+          "type": "true_false",
+          "question": "الوسطية والاعتدال من سمات الإسلام.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الوسطية."
+        },
+        {
+          "id": "g12-isl-unit-02-culture-01-civilization-lq01",
+          "type": "mcq",
+          "question": "ازدهرت الحضارة الإسلامية في العلوم و:",
+          "options": [
+            "الفنون والعمارة",
+            "الحروب فقط",
+            "العزلة",
+            "الجهل"
+          ],
+          "answer": "الفنون والعمارة",
+          "explanation": "الحضارة."
+        },
+        {
+          "id": "g12-isl-unit-02-culture-01-civilization-lq02",
+          "type": "true_false",
+          "question": "أسهم علماء المسلمين في الطب والرياضيات.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "إسهامات."
+        }
+      ]
+    }
+  ]
+}

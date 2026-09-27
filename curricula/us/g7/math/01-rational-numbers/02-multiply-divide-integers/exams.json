@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "01-rational-numbers",
+    "lesson": "02-multiply-divide-integers"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-quiz",
+      "title": "Quiz: Multiplying & Dividing Integers",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-lq01",
+          "type": "mcq",
+          "question": "(-3) × (-4) = ?",
+          "options": [
+            "-12",
+            "12",
+            "-7",
+            "7"
+          ],
+          "answer": "12",
+          "explanation": "Negative × negative = positive."
+        },
+        {
+          "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-lq02",
+          "type": "true_false",
+          "question": "A positive divided by a negative is negative.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Different signs → negative."
+        },
+        {
+          "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-lq03",
+          "type": "fill_blank",
+          "question": "(-20) ÷ 5 = ___.",
+          "answer": "-4",
+          "explanation": "Different signs."
+        },
+        {
+          "id": "g7-mat-unit-01-rational-numbers-02-multiply-divide-integers-lq04",
+          "type": "short_answer",
+          "question": "State the rule for multiplying two negatives.",
+          "answer": "The product is positive.",
+          "explanation": "Sign rule."
+        }
+      ]
+    }
+  ]
+}

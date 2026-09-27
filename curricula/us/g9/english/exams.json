@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g9-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-eng-unit-01-literature-01-theme-fiction-lq01",
+          "type": "mcq",
+          "question": "A theme is a text's:",
+          "options": [
+            "plot summary",
+            "central insight about life",
+            "setting",
+            "narrator"
+          ],
+          "answer": "central insight about life",
+          "explanation": "Theme = message."
+        },
+        {
+          "id": "g9-eng-unit-01-literature-01-theme-fiction-lq02",
+          "type": "true_false",
+          "question": "A theme is usually universal rather than tied to one character.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Applies broadly."
+        },
+        {
+          "id": "g9-eng-unit-02-composition-01-argument-lq01",
+          "type": "mcq",
+          "question": "A strong thesis is:",
+          "options": [
+            "a question",
+            "a clear, arguable claim",
+            "a fact",
+            "a quotation"
+          ],
+          "answer": "a clear, arguable claim",
+          "explanation": "Arguable position."
+        },
+        {
+          "id": "g9-eng-unit-02-composition-01-argument-lq02",
+          "type": "true_false",
+          "question": "Counterarguments can strengthen an argument.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Addressing opposition."
+        }
+      ]
+    }
+  ]
+}

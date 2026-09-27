@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "01-maps"
+  },
+  "questions": [
+    {
+      "id": "g3-geo-unit-01-maps-01-map-skills-lq01",
+      "type": "mcq",
+      "question": "On a compass, which direction is at the top by convention?",
+      "options": [
+        "South",
+        "North",
+        "East",
+        "West"
+      ],
+      "answer": "North",
+      "explanation": "Maps oriented north."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-01-map-skills-lq02",
+      "type": "true_false",
+      "question": "A map key explains the symbols on a map.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Legend/key."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-01-map-skills-lq03",
+      "type": "fill_blank",
+      "question": "The four main compass directions are North, East, South and ___.",
+      "answer": "West",
+      "explanation": "Cardinal points."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-01-map-skills-lq04",
+      "type": "short_answer",
+      "question": "What is a grid reference used for?",
+      "answer": "To locate a precise place on a map.",
+      "explanation": "Grid references."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-02-symbols-lq01",
+      "type": "mcq",
+      "question": "Map symbols are explained in the:",
+      "options": [
+        "title",
+        "key",
+        "margin",
+        "date"
+      ],
+      "answer": "key",
+      "explanation": "Key/legend."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-02-symbols-lq02",
+      "type": "true_false",
+      "question": "A scale shows how distance on a map relates to real distance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Map scale."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-02-symbols-lq03",
+      "type": "fill_blank",
+      "question": "A bird's-eye view drawing of a place is a ___.",
+      "answer": "map",
+      "explanation": "Plan view."
+    },
+    {
+      "id": "g3-geo-unit-01-maps-02-symbols-lq04",
+      "type": "short_answer",
+      "question": "Why do maps use symbols?",
+      "answer": "To show features simply in a small space.",
+      "explanation": "Symbols."
+    }
+  ]
+}

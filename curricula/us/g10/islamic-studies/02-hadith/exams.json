@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "islamic-studies",
+    "chapter": "02-hadith"
+  },
+  "exams": [
+    {
+      "id": "g10-isl-unit-02-hadith-exam",
+      "title": "Exam: الحديث الشريف",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq01",
+          "type": "mcq",
+          "question": "(إنما الأعمال بالـ___).",
+          "options": [
+            "نيات",
+            "أموال",
+            "ألوان",
+            "أوقات"
+          ],
+          "answer": "نيات",
+          "explanation": "حديث النية."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq02",
+          "type": "true_false",
+          "question": "الحديث هو ما أُضيف إلى النبي ﷺ من قول أو فعل أو تقرير.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف الحديث."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq03",
+          "type": "fill_blank",
+          "question": "(من حسن إسلام المرء تركه ما لا ___).",
+          "answer": "يعنيه",
+          "explanation": "الحديث."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq04",
+          "type": "short_answer",
+          "question": "ما الذي نتعلمه من حديث (إنما الأعمال بالنيات)؟",
+          "answer": "أهمية إخلاص النية في الأعمال.",
+          "explanation": "الحديث."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq01",
+          "type": "mcq",
+          "question": "السنة هي المصدر ___ للتشريع.",
+          "options": [
+            "الثاني",
+            "الرابع",
+            "الخامس",
+            "العاشر"
+          ],
+          "answer": "الثاني",
+          "explanation": "بعد القرآن."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq02",
+          "type": "true_false",
+          "question": "السنة تبيّن وتفصّل ما جاء في القرآن.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "وظيفة السنة."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq03",
+          "type": "fill_blank",
+          "question": "السنة النبوية مصدر للتشريع بعد ___.",
+          "answer": "القرآن",
+          "explanation": "المصادر."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq04",
+          "type": "short_answer",
+          "question": "ما علاقة السنة بالقرآن؟",
+          "answer": "تبيّن مجمله وتفصّل أحكامه.",
+          "explanation": "السنة."
+        }
+      ]
+    }
+  ]
+}

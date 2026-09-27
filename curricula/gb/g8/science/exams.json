@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-sci-unit-01-physics-01-forces-lq01",
+          "type": "mcq",
+          "question": "Force is measured in:",
+          "options": [
+            "metres",
+            "newtons",
+            "litres",
+            "grams"
+          ],
+          "answer": "newtons",
+          "explanation": "Unit of force (N)."
+        },
+        {
+          "id": "g8-sci-unit-01-physics-01-forces-lq02",
+          "type": "true_false",
+          "question": "Friction opposes motion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Resistive force."
+        },
+        {
+          "id": "g8-sci-unit-02-biology-01-digestion-lq01",
+          "type": "mcq",
+          "question": "Which nutrient is the body's main energy source?",
+          "options": [
+            "protein",
+            "carbohydrate",
+            "vitamin",
+            "water"
+          ],
+          "answer": "carbohydrate",
+          "explanation": "Energy nutrient."
+        },
+        {
+          "id": "g8-sci-unit-02-biology-01-digestion-lq02",
+          "type": "true_false",
+          "question": "Enzymes help break down food.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Biological catalysts."
+        }
+      ]
+    }
+  ]
+}

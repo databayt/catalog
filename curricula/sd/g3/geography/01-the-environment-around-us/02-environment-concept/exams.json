@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "01-the-environment-around-us",
+    "lesson": "02-environment-concept"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-01-exam-3768",
+      "title": "Lesson Quiz - 02-environment-concept - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الخط الاستوائي يقسم الأرض إلى نصفين",
+          "answer": true,
+          "explanation": "The statement about البيئة من حولنا is True."
+        }
+      ]
+    }
+  ]
+}

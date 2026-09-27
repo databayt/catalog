@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "01-cells"
+  },
+  "exams": [
+    {
+      "id": "g6-sci-unit-01-cells-exam",
+      "title": "Exam: Cells & Living Systems",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-sci-unit-01-cells-01-cell-theory-lq01",
+          "type": "mcq",
+          "question": "The basic unit of life is the:",
+          "options": [
+            "atom",
+            "cell",
+            "organ",
+            "molecule"
+          ],
+          "answer": "cell",
+          "explanation": "Cells are life's units."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-01-cell-theory-lq02",
+          "type": "true_false",
+          "question": "All living things are made of one or more cells.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cell theory."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-01-cell-theory-lq03",
+          "type": "fill_blank",
+          "question": "The control center of a cell is the ___.",
+          "answer": "nucleus",
+          "explanation": "Nucleus."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-01-cell-theory-lq04",
+          "type": "short_answer",
+          "question": "Name one difference between plant and animal cells.",
+          "answer": "Plant cells have a cell wall and chloroplasts.",
+          "explanation": "Plant vs animal."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-02-body-systems-lq01",
+          "type": "mcq",
+          "question": "The system that pumps blood is the:",
+          "options": [
+            "digestive",
+            "circulatory",
+            "skeletal",
+            "nervous"
+          ],
+          "answer": "circulatory",
+          "explanation": "Heart + vessels."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-02-body-systems-lq02",
+          "type": "true_false",
+          "question": "The lungs are part of the respiratory system.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Gas exchange."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-02-body-systems-lq03",
+          "type": "fill_blank",
+          "question": "The system that breaks down food is the ___ system.",
+          "answer": "digestive",
+          "explanation": "Digestion."
+        },
+        {
+          "id": "g6-sci-unit-01-cells-02-body-systems-lq04",
+          "type": "short_answer",
+          "question": "Why do body systems work together?",
+          "answer": "Each performs functions that keep the whole organism alive.",
+          "explanation": "Interdependence."
+        }
+      ]
+    }
+  ]
+}

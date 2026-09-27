@@ -1,0 +1,33 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "04-fractions",
+    "lesson": "01-unit-fractions"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-04-exam-6445",
+      "title": "Lesson Quiz - 01-unit-fractions - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u04-q001",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٥٦ ÷ ٧ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الكسور."
+        }
+      ]
+    }
+  ]
+}

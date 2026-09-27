@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "islamic-studies",
+    "chapter": "01-seerah",
+    "lesson": "01-bithah"
+  },
+  "exams": [
+    {
+      "id": "g6-isl-unit-01-seerah-01-bithah-quiz",
+      "title": "Quiz: البعثة والدعوة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-isl-unit-01-seerah-01-bithah-lq01",
+          "type": "mcq",
+          "question": "نزل الوحي على النبي ﷺ أول مرة في غار:",
+          "options": [
+            "ثور",
+            "حراء",
+            "أحد",
+            "الكعبة"
+          ],
+          "answer": "حراء",
+          "explanation": "بدء الوحي."
+        },
+        {
+          "id": "g6-isl-unit-01-seerah-01-bithah-lq02",
+          "type": "true_false",
+          "question": "أول ما نزل من القرآن (اقرأ).",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "سورة العلق."
+        },
+        {
+          "id": "g6-isl-unit-01-seerah-01-bithah-lq03",
+          "type": "fill_blank",
+          "question": "الملك الذي نزل بالوحي هو جبريل ___.",
+          "answer": "عليه السلام",
+          "explanation": "أمين الوحي."
+        },
+        {
+          "id": "g6-isl-unit-01-seerah-01-bithah-lq04",
+          "type": "short_answer",
+          "question": "كم سنة كان عمر النبي ﷺ عند البعثة؟",
+          "answer": "أربعون سنة.",
+          "explanation": "البعثة."
+        }
+      ]
+    }
+  ]
+}

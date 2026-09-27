@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq01",
+          "type": "mcq",
+          "question": "كلمة (يكتب) هي:",
+          "options": [
+            "اسم",
+            "فعل",
+            "حرف",
+            "عدد"
+          ],
+          "answer": "فعل",
+          "explanation": "تدل على حدث."
+        },
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq02",
+          "type": "true_false",
+          "question": "كلمة (كتاب) اسم.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاسم يدل على شيء."
+        },
+        {
+          "id": "g4-ara-unit-02-spelling-01-spelling-lq01",
+          "type": "mcq",
+          "question": "التاء في (شجرة) هي:",
+          "options": [
+            "مربوطة",
+            "مفتوحة",
+            "ساكنة",
+            "ألف"
+          ],
+          "answer": "مربوطة",
+          "explanation": "تاء مربوطة."
+        },
+        {
+          "id": "g4-ara-unit-02-spelling-01-spelling-lq02",
+          "type": "true_false",
+          "question": "همزة الوصل لا تُنطق في وسط الكلام.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "همزة الوصل."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g6-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq01",
+          "type": "mcq",
+          "question": "The ratio 2:4 simplifies to:",
+          "options": [
+            "1:2",
+            "2:1",
+            "1:4",
+            "4:2"
+          ],
+          "answer": "1:2",
+          "explanation": "Divide both by 2."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq02",
+          "type": "true_false",
+          "question": "A ratio compares two quantities.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Part-to-part."
+        },
+        {
+          "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq01",
+          "type": "mcq",
+          "question": "Area of a 5 by 6 rectangle?",
+          "options": [
+            "11",
+            "30",
+            "22",
+            "56"
+          ],
+          "answer": "30",
+          "explanation": "l × w."
+        },
+        {
+          "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq02",
+          "type": "true_false",
+          "question": "Perimeter is the distance around a shape.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Sum of sides."
+        }
+      ]
+    }
+  ]
+}

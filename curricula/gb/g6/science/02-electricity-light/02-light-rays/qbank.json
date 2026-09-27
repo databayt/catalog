@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "02-electricity-light",
+    "lesson": "02-light-rays"
+  },
+  "questions": [
+    {
+      "id": "g6-sci-unit-02-electricity-light-02-light-rays-lq01",
+      "type": "mcq",
+      "question": "We see objects because light:",
+      "options": [
+        "leaves our eyes",
+        "reflects off them into our eyes",
+        "is silent",
+        "is warm"
+      ],
+      "answer": "reflects off them into our eyes",
+      "explanation": "Reflection to eyes."
+    },
+    {
+      "id": "g6-sci-unit-02-electricity-light-02-light-rays-lq02",
+      "type": "true_false",
+      "question": "Light travels in straight lines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Rays."
+    },
+    {
+      "id": "g6-sci-unit-02-electricity-light-02-light-rays-lq03",
+      "type": "fill_blank",
+      "question": "Light bouncing off a surface is ___.",
+      "answer": "reflection",
+      "explanation": "Reflecting."
+    },
+    {
+      "id": "g6-sci-unit-02-electricity-light-02-light-rays-lq04",
+      "type": "short_answer",
+      "question": "Why do shadows have the same shape as the object?",
+      "answer": "Light travels in straight lines and is blocked by the object.",
+      "explanation": "Straight-line light."
+    }
+  ]
+}

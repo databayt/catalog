@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "home-economics",
+    "chapter": "02-making-clothes",
+    "lesson": "09-cotton-spinning"
+  },
+  "exams": [
+    {
+      "id": "g5-hom-unit-02-09-cotton-spinning-lquiz",
+      "title": "اختبار - غزل القطن",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-hom-unit-02-09-cotton-spinning-lq01",
+          "type": "mcq",
+          "question": "ما أهمية النظافة الشخصية؟",
+          "options": [
+            "الوقاية من الأمراض وتعزيز الثقة بالنفس",
+            "فقط للمظهر الخارجي",
+            "للرياضة فقط",
+            "لا أهمية لها"
+          ],
+          "answer": "الوقاية من الأمراض وتعزيز الثقة بالنفس",
+          "explanation": "النظافة الشخصية تحمي الصحة وتُحسّن التفاعل الاجتماعي."
+        },
+        {
+          "id": "g5-hom-unit-02-09-cotton-spinning-lq02",
+          "type": "true_false",
+          "question": "غسل اليدين قبل الأكل يمنع نقل الجراثيم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غسل اليدين أبسط وأهم وسيلة للوقاية من الأمراض."
+        },
+        {
+          "id": "g5-hom-unit-02-09-cotton-spinning-lq03",
+          "type": "fill_blank",
+          "question": "ترتيب الغرفة وتنظيفها بانتظام يُسمى ___ المنزلي.",
+          "answer": "التدبير",
+          "explanation": "التدبير المنزلي يشمل الحفاظ على نظافة وترتيب البيت."
+        },
+        {
+          "id": "g5-hom-unit-02-09-cotton-spinning-lq04",
+          "type": "short_answer",
+          "question": "كيف تحافظ على نظافة بيئتك المدرسية؟",
+          "answer": "رمي القمامة في سلات المهملات، وعدم الكتابة على الجدران، والمشاركة في النظافة.",
+          "explanation": "الحفاظ على البيئة مسؤولية الجميع."
+        }
+      ]
+    }
+  ]
+}

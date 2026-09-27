@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "business",
+    "chapter": "02-finance",
+    "lesson": "01-finance"
+  },
+  "questions": [
+    {
+      "id": "g11-bus-unit-02-finance-01-finance-lq01",
+      "type": "mcq",
+      "question": "Revenue minus costs equals:",
+      "options": [
+        "profit",
+        "tax",
+        "price",
+        "stock"
+      ],
+      "answer": "profit",
+      "explanation": "Profit."
+    },
+    {
+      "id": "g11-bus-unit-02-finance-01-finance-lq02",
+      "type": "true_false",
+      "question": "A business can raise money from loans or investors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Finance sources."
+    },
+    {
+      "id": "g11-bus-unit-02-finance-01-finance-lq03",
+      "type": "fill_blank",
+      "question": "Income from selling goods or services is ___.",
+      "answer": "revenue",
+      "explanation": "Revenue."
+    },
+    {
+      "id": "g11-bus-unit-02-finance-01-finance-lq04",
+      "type": "short_answer",
+      "question": "How does a business make a profit?",
+      "answer": "By earning more revenue than its costs.",
+      "explanation": "Profit."
+    }
+  ]
+}

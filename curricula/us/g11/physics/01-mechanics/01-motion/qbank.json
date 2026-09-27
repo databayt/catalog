@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "01-mechanics",
+    "lesson": "01-motion"
+  },
+  "questions": [
+    {
+      "id": "g11-phy-unit-01-mechanics-01-motion-lq01",
+      "type": "mcq",
+      "question": "Velocity is speed with:",
+      "options": [
+        "mass",
+        "direction",
+        "color",
+        "temperature"
+      ],
+      "answer": "direction",
+      "explanation": "Vector quantity."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-01-motion-lq02",
+      "type": "true_false",
+      "question": "Acceleration is the rate of change of velocity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "a = Δv/Δt."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-01-motion-lq03",
+      "type": "fill_blank",
+      "question": "Distance ÷ time gives average ___.",
+      "answer": "speed",
+      "explanation": "Speed."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-01-motion-lq04",
+      "type": "short_answer",
+      "question": "How do speed and velocity differ?",
+      "answer": "Speed is scalar; velocity includes direction.",
+      "explanation": "Scalar vs vector."
+    }
+  ]
+}

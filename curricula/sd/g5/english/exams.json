@@ -1,0 +1,377 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "g5-eng-final",
+      "title": "الامتحان النهائي - english",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g5-eng-unit-1-01-lesson-1-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-1-01-lesson-1-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-1-02-lesson-2-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-1-02-lesson-2-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-1-03-lesson-3-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-1-03-lesson-3-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-1-04-lesson-4-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-1-04-lesson-4-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-1-05-lesson-5-q01",
+          "type": "mcq",
+          "question": "What does 'environment' mean?",
+          "options": [
+            "the natural world around us",
+            "a building",
+            "a book",
+            "a number"
+          ],
+          "answer": "the natural world around us",
+          "explanation": "'Environment' refers to the natural world and surroundings."
+        },
+        {
+          "id": "g5-eng-unit-1-05-lesson-5-q02",
+          "type": "true_false",
+          "question": "The word 'annual' means happening every year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Annual' means occurring once a year."
+        },
+        {
+          "id": "g5-eng-unit-2-01-lesson-1-q01",
+          "type": "mcq",
+          "question": "Which sentence is in the past continuous tense?",
+          "options": [
+            "She was reading when I called.",
+            "She reads every day.",
+            "She will read tomorrow.",
+            "She has read the book."
+          ],
+          "answer": "She was reading when I called.",
+          "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+        },
+        {
+          "id": "g5-eng-unit-2-01-lesson-1-q02",
+          "type": "true_false",
+          "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Third person singular present simple: verb + s/es."
+        },
+        {
+          "id": "g5-eng-unit-2-02-lesson-2-q01",
+          "type": "mcq",
+          "question": "Which sentence is in the past continuous tense?",
+          "options": [
+            "She was reading when I called.",
+            "She reads every day.",
+            "She will read tomorrow.",
+            "She has read the book."
+          ],
+          "answer": "She was reading when I called.",
+          "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+        },
+        {
+          "id": "g5-eng-unit-2-02-lesson-2-q02",
+          "type": "true_false",
+          "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Third person singular present simple: verb + s/es."
+        },
+        {
+          "id": "g5-eng-unit-2-03-lesson-3-q01",
+          "type": "mcq",
+          "question": "Which sentence is in the past continuous tense?",
+          "options": [
+            "She was reading when I called.",
+            "She reads every day.",
+            "She will read tomorrow.",
+            "She has read the book."
+          ],
+          "answer": "She was reading when I called.",
+          "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+        },
+        {
+          "id": "g5-eng-unit-2-03-lesson-3-q02",
+          "type": "true_false",
+          "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Third person singular present simple: verb + s/es."
+        },
+        {
+          "id": "g5-eng-unit-2-04-lesson-4-q01",
+          "type": "mcq",
+          "question": "Which sentence is in the past continuous tense?",
+          "options": [
+            "She was reading when I called.",
+            "She reads every day.",
+            "She will read tomorrow.",
+            "She has read the book."
+          ],
+          "answer": "She was reading when I called.",
+          "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+        },
+        {
+          "id": "g5-eng-unit-2-04-lesson-4-q02",
+          "type": "true_false",
+          "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Third person singular present simple: verb + s/es."
+        },
+        {
+          "id": "g5-eng-unit-2-05-lesson-5-q01",
+          "type": "mcq",
+          "question": "Which sentence is in the past continuous tense?",
+          "options": [
+            "She was reading when I called.",
+            "She reads every day.",
+            "She will read tomorrow.",
+            "She has read the book."
+          ],
+          "answer": "She was reading when I called.",
+          "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+        },
+        {
+          "id": "g5-eng-unit-2-05-lesson-5-q02",
+          "type": "true_false",
+          "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Third person singular present simple: verb + s/es."
+        },
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-q01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-01-lesson-1-q02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        },
+        {
+          "id": "g5-eng-unit-3-02-lesson-2-q01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-02-lesson-2-q02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        },
+        {
+          "id": "g5-eng-unit-3-03-lesson-3-q01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-03-lesson-3-q02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        },
+        {
+          "id": "g5-eng-unit-3-04-lesson-4-q01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-04-lesson-4-q02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        },
+        {
+          "id": "g5-eng-unit-3-05-lesson-5-q01",
+          "type": "mcq",
+          "question": "What does it mean to 'scan' a text?",
+          "options": [
+            "Read quickly to find specific information",
+            "Read every word carefully",
+            "Read aloud",
+            "Skip the text"
+          ],
+          "answer": "Read quickly to find specific information",
+          "explanation": "Scanning means looking for specific information quickly."
+        },
+        {
+          "id": "g5-eng-unit-3-05-lesson-5-q02",
+          "type": "true_false",
+          "question": "Context clues help you understand unknown words.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+        }
+      ]
+    }
+  ]
+}

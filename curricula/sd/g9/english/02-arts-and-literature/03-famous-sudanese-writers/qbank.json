@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "02-arts-and-literature",
+    "lesson": "03-famous-sudanese-writers"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-lq01",
+      "type": "mcq",
+      "question": "What is the main purpose of reading comprehension exercises?",
+      "options": [
+        "To understand text meaning and develop critical thinking",
+        "To memorize vocabulary only",
+        "To practice handwriting",
+        "To learn grammar rules"
+      ],
+      "answer": "To understand text meaning and develop critical thinking",
+      "explanation": "Reading comprehension develops understanding and critical analysis skills."
+    },
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-lq02",
+      "type": "true_false",
+      "question": "Skimming a text means reading it slowly and carefully.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "Skimming means reading quickly to get the general idea, not in detail."
+    },
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-lq03",
+      "type": "fill_blank",
+      "question": "The ___ of a text is the central message the author wants to convey.",
+      "answer": "theme/main idea",
+      "explanation": "The theme is the central message or main idea of a text."
+    },
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-lq04",
+      "type": "short_answer",
+      "question": "Name two reading strategies you can use to understand a difficult text.",
+      "answer": "Context clues to infer meaning of unknown words; re-reading difficult passages; using prior knowledge.",
+      "explanation": "Good readers use strategies to comprehend difficult texts."
+    },
+    {
+      "id": "6f684c68",
+      "type": "mcq",
+      "question": "What are the main parts of speech?",
+      "options": [
+        "Only nouns and verbs",
+        "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+        "Only adjectives",
+        "Only verbs"
+      ],
+      "answer": "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+      "explanation": "These are the eight traditional parts of speech"
+    },
+    {
+      "id": "6a3c715f",
+      "type": "fill_blank",
+      "question": "A ___ is a word that names a person, place, or thing",
+      "answer": "noun",
+      "explanation": "Nouns identify people, places, objects, or ideas"
+    },
+    {
+      "id": "1adf6691",
+      "type": "true_false",
+      "question": "Verbs express action or state of being",
+      "answer": true,
+      "explanation": "Verbs show what someone does or is"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "01-counting-place-value",
+    "lesson": "01-counting-to-120"
+  },
+  "exams": [
+    {
+      "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-quiz",
+      "title": "Quiz: Counting to 120",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq01",
+          "type": "mcq",
+          "question": "What number comes right after 119?",
+          "options": [
+            "118",
+            "120",
+            "121",
+            "109"
+          ],
+          "answer": "120",
+          "explanation": "Counting up by one from 119 gives 120."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq02",
+          "type": "true_false",
+          "question": "When counting, the number after 99 is 100.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "99 + 1 = 100."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq03",
+          "type": "fill_blank",
+          "question": "Count on: 116, 117, 118, ___.",
+          "answer": "119",
+          "explanation": "Add one each time."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-01-counting-to-120-lq04",
+          "type": "short_answer",
+          "question": "Start at 110 and count up to 115.",
+          "answer": "110, 111, 112, 113, 114, 115",
+          "explanation": "Count on by ones."
+        }
+      ]
+    }
+  ]
+}

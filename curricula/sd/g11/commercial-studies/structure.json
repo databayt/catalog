@@ -1,0 +1,232 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-commercial-studies",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "commercial-studies",
+  "title": {
+    "ar": "العلوم التجارية",
+    "en": "Commercial Studies"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "economy",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "مقدمة في العلوم التجارية (محاسبة مالية، اقتصاد عام، رياضة مالية) — الصف الثاني الثانوي — رقم الإيداع ٧٦٨/٢٠٠٨",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-part-1-financial-accounting",
+      "title": {
+        "ar": "الباب الأول: المحاسبة المالية",
+        "en": "Part 1: Financial Accounting"
+      },
+      "concept": "economy",
+      "image": "clickview/high-accounting-and-finance-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-preparing-final-accounts-and-the-balance-sheet",
+          "title": {
+            "ar": "إعداد الحسابات الختامية والميزانية",
+            "en": "Preparing Final Accounts and the Balance Sheet"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-the-trading-account",
+          "title": {
+            "ar": "حساب المتاجرة",
+            "en": "The Trading Account"
+          },
+          "page": 8
+        },
+        {
+          "slug": "03-the-profit-and-loss-account",
+          "title": {
+            "ar": "حساب الأرباح والخسائر",
+            "en": "The Profit and Loss Account"
+          },
+          "page": 12
+        },
+        {
+          "slug": "04-the-statement-of-financial-position-balance",
+          "title": {
+            "ar": "قائمة المركز المالي (الميزانية العمومية)",
+            "en": "The Statement of Financial Position (Balance Sheet)"
+          },
+          "page": 15
+        },
+        {
+          "slug": "05-the-adjustment-statement",
+          "title": {
+            "ar": "قائمة التسوية",
+            "en": "The Adjustment Statement"
+          },
+          "page": 19
+        },
+        {
+          "slug": "06-stocktaking-and-adjusting-entries",
+          "title": {
+            "ar": "الجرد والتسويات الجردية",
+            "en": "Stocktaking and Adjusting Entries"
+          },
+          "page": 22
+        },
+        {
+          "slug": "07-debtors-reconciliation",
+          "title": {
+            "ar": "جرد الذمم (المدينين)",
+            "en": "Debtors' Reconciliation"
+          },
+          "page": 36
+        }
+      ]
+    },
+    {
+      "slug": "02-part-2-public-economics",
+      "title": {
+        "ar": "الباب الثاني: الاقتصاد العام",
+        "en": "Part 2: Public Economics"
+      },
+      "concept": "economy",
+      "image": "clickview/high-macroeconomics-cover.jpg",
+      "page": 116,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-concept-of-public-economics",
+          "title": {
+            "ar": "مفهوم الاقتصاد العام",
+            "en": "The Concept of Public Economics"
+          },
+          "page": 116
+        },
+        {
+          "slug": "02-public-economics-and-private-finance",
+          "title": {
+            "ar": "الاقتصاد العام وعلاقته بالمالية الخاصة",
+            "en": "Public Economics and Private Finance"
+          },
+          "page": 120
+        },
+        {
+          "slug": "03-public-expenditure",
+          "title": {
+            "ar": "النفقات العامة",
+            "en": "Public Expenditure"
+          },
+          "page": 123
+        },
+        {
+          "slug": "04-public-revenue",
+          "title": {
+            "ar": "الإيرادات العامة للدولة",
+            "en": "Public Revenue"
+          },
+          "page": 130
+        },
+        {
+          "slug": "05-the-state-budget",
+          "title": {
+            "ar": "الموازنة العامة للدولة",
+            "en": "The State Budget"
+          },
+          "page": 139
+        }
+      ]
+    },
+    {
+      "slug": "03-part-3-financial-mathematics",
+      "title": {
+        "ar": "الباب الثالث: الرياضة المالية",
+        "en": "Part 3: Financial Mathematics"
+      },
+      "concept": "economy",
+      "image": "clickview/high-financial-literacy-cover.jpg",
+      "page": 143,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-and-interest",
+          "title": {
+            "ar": "مقدمة والفائدة",
+            "en": "Introduction and Interest"
+          },
+          "page": 143
+        },
+        {
+          "slug": "02-simple-interest",
+          "title": {
+            "ar": "الفائدة البسيطة",
+            "en": "Simple Interest"
+          },
+          "page": 151
+        },
+        {
+          "slug": "03-compound-interest",
+          "title": {
+            "ar": "الفائدة المركبة",
+            "en": "Compound Interest"
+          },
+          "page": 168
+        },
+        {
+          "slug": "04-islams-view-of-interest",
+          "title": {
+            "ar": "رأي الإسلام في الفائدة",
+            "en": "Islam's View of Interest"
+          },
+          "page": 176
+        },
+        {
+          "slug": "05-benevolent-loans-and-murabaha",
+          "title": {
+            "ar": "القرض الحسن والمرابحة",
+            "en": "Benevolent Loans and Murabaha"
+          },
+          "page": 177
+        },
+        {
+          "slug": "06-musharaka",
+          "title": {
+            "ar": "المشاركة",
+            "en": "Musharaka"
+          },
+          "page": 178
+        },
+        {
+          "slug": "07-mudaraba",
+          "title": {
+            "ar": "المضاربة",
+            "en": "Mudaraba"
+          },
+          "page": 180
+        },
+        {
+          "slug": "08-islamic-finance-versus-the-interest-based-system",
+          "title": {
+            "ar": "أوجه الشبه والاختلاف بين النظام المالي الإسلامي والنظام الربوي",
+            "en": "Islamic Finance versus the Interest-Based System"
+          },
+          "page": 182,
+          "image": "clickview/high-accounting-and-finance-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

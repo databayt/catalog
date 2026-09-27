@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "02-multiplication",
+    "lesson": "03-multiplication-table-8"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-02-exam-9148",
+      "title": "Lesson Quiz - 03-multiplication-table-8 - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u02-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أصغر عامل مشترك لـ ٦ و ٩ هو ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الضرب."
+        }
+      ]
+    }
+  ]
+}

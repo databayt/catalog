@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g5-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq01",
+          "type": "mcq",
+          "question": "The Anglo-Saxons came to Britain from areas of modern:",
+          "options": [
+            "Germany/Denmark",
+            "Spain",
+            "Egypt",
+            "India"
+          ],
+          "answer": "Germany/Denmark",
+          "explanation": "North European settlers."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq02",
+          "type": "true_false",
+          "question": "England's name comes from the 'Angles'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Angle-land."
+        },
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq01",
+          "type": "mcq",
+          "question": "A great centre of learning in early Islamic civilisation was:",
+          "options": [
+            "Baghdad",
+            "London",
+            "Rome",
+            "Paris"
+          ],
+          "answer": "Baghdad",
+          "explanation": "House of Wisdom."
+        },
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq02",
+          "type": "true_false",
+          "question": "Scholars in Baghdad made advances in maths and medicine.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Golden Age."
+        }
+      ]
+    }
+  ]
+}

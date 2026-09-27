@@ -1,0 +1,35 @@
+{
+  "name": "@databayt/catalog",
+  "version": "0.1.0",
+  "description": "Open curriculum catalog — curricula, subjects, chapters, lessons, question banks and textbook twins, one schema, served from cdn.databayt.org",
+  "license": "MIT",
+  "type": "module",
+  "repository": "github:databayt/catalog",
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema": "./schema/index.ts",
+    "./vocab/*": "./vocab/*"
+  },
+  "files": ["src", "schema", "vocab"],
+  "scripts": {
+    "validate": "tsx scripts/validate.ts",
+    "index": "tsx scripts/build-index.ts",
+    "assets": "tsx scripts/assets.ts",
+    "publish:cdn": "tsx scripts/publish.ts",
+    "schema:json": "tsx scripts/schema-json.ts",
+    "typecheck": "tsc --noEmit",
+    "migrate": "tsx scripts/migrate/run.ts"
+  },
+  "dependencies": {
+    "zod": "^4.1.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-cloudfront": "^3.700.0",
+    "@aws-sdk/client-s3": "^3.700.0",
+    "@types/node": "^24.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "packageManager": "pnpm@10.24.0",
+  "engines": { "node": ">=22" }
+}

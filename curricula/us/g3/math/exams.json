@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g3-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq01",
+          "type": "mcq",
+          "question": "4 × 3 means:",
+          "options": [
+            "4 groups of 3",
+            "4 + 3",
+            "4 - 3",
+            "3 ÷ 4"
+          ],
+          "answer": "4 groups of 3",
+          "explanation": "Multiplication is repeated addition of equal groups."
+        },
+        {
+          "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq02",
+          "type": "true_false",
+          "question": "6 × 2 = 2 × 6.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiplication is commutative."
+        },
+        {
+          "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq01",
+          "type": "mcq",
+          "question": "In 3/4, what does the 4 represent?",
+          "options": [
+            "parts taken",
+            "equal parts in whole",
+            "the whole",
+            "nothing"
+          ],
+          "answer": "equal parts in whole",
+          "explanation": "Denominator = total equal parts."
+        },
+        {
+          "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq02",
+          "type": "true_false",
+          "question": "1/2 is greater than 1/4.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Halves are bigger than quarters."
+        },
+        {
+          "id": "g3-mat-unit-03-area-perimeter-01-area-lq01",
+          "type": "mcq",
+          "question": "Area of a 4 by 3 rectangle (square units)?",
+          "options": [
+            "7",
+            "12",
+            "14",
+            "24"
+          ],
+          "answer": "12",
+          "explanation": "Area = length × width = 12."
+        },
+        {
+          "id": "g3-mat-unit-03-area-perimeter-01-area-lq02",
+          "type": "true_false",
+          "question": "Area is measured in square units.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., cm²."
+        }
+      ]
+    }
+  ]
+}

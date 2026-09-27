@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g4-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-eng-unit-01-reading-01-inference-lq01",
+          "type": "mcq",
+          "question": "An inference uses clues plus:",
+          "options": [
+            "guessing wildly",
+            "what you already know",
+            "the page number",
+            "the cover color"
+          ],
+          "answer": "what you already know",
+          "explanation": "Inference = text clues + background knowledge."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-01-inference-lq02",
+          "type": "true_false",
+          "question": "Authors sometimes imply rather than state directly.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Readers infer meaning."
+        },
+        {
+          "id": "g4-eng-unit-02-language-01-context-clues-lq01",
+          "type": "mcq",
+          "question": "Context clues help you find a word's:",
+          "options": [
+            "spelling",
+            "meaning",
+            "syllables",
+            "rhyme"
+          ],
+          "answer": "meaning",
+          "explanation": "Surrounding words hint meaning."
+        },
+        {
+          "id": "g4-eng-unit-02-language-01-context-clues-lq02",
+          "type": "true_false",
+          "question": "Nearby sentences can define an unknown word.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context provides clues."
+        },
+        {
+          "id": "g4-eng-unit-03-writing-01-informative-lq01",
+          "type": "mcq",
+          "question": "An informative essay aims to:",
+          "options": [
+            "entertain only",
+            "explain/inform",
+            "argue feelings",
+            "rhyme"
+          ],
+          "answer": "explain/inform",
+          "explanation": "Gives facts and explanations."
+        },
+        {
+          "id": "g4-eng-unit-03-writing-01-informative-lq02",
+          "type": "true_false",
+          "question": "Informative writing uses facts and examples.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Evidence-based."
+        }
+      ]
+    }
+  ]
+}

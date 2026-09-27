@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "moral-education",
+    "chapter": "02-respect-diversity",
+    "lesson": "02-self-discipline"
+  },
+  "exams": [
+    {
+      "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-quiz",
+      "title": "Quiz: Self-Discipline",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq01",
+          "type": "mcq",
+          "question": "Self-discipline means controlling your:",
+          "options": [
+            "actions and choices",
+            "friends",
+            "weather",
+            "grades only"
+          ],
+          "answer": "actions and choices",
+          "explanation": "Self-control."
+        },
+        {
+          "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq02",
+          "type": "true_false",
+          "question": "Good habits require self-discipline.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Discipline."
+        },
+        {
+          "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq03",
+          "type": "fill_blank",
+          "question": "Managing your time well shows ___.",
+          "answer": "discipline",
+          "explanation": "Self-discipline."
+        },
+        {
+          "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq04",
+          "type": "short_answer",
+          "question": "Give one example of self-discipline.",
+          "answer": "e.g., finishing homework before play, or saving money.",
+          "explanation": "Self-discipline."
+        }
+      ]
+    }
+  ]
+}

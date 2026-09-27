@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-inference"
+  },
+  "questions": [
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq01",
+      "type": "mcq",
+      "question": "An inference uses clues plus:",
+      "options": [
+        "guessing wildly",
+        "what you already know",
+        "the page number",
+        "the cover color"
+      ],
+      "answer": "what you already know",
+      "explanation": "Inference = text clues + background knowledge."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq02",
+      "type": "true_false",
+      "question": "Authors sometimes imply rather than state directly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Readers infer meaning."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq03",
+      "type": "fill_blank",
+      "question": "Clue + prior knowledge = ___.",
+      "answer": "inference",
+      "explanation": "Reading between the lines."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq04",
+      "type": "short_answer",
+      "question": "Why do readers infer?",
+      "answer": "To understand ideas not stated directly.",
+      "explanation": "Implied meaning."
+    }
+  ]
+}

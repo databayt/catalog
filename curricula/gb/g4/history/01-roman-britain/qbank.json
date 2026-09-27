@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "history",
+    "chapter": "01-roman-britain"
+  },
+  "questions": [
+    {
+      "id": "g4-his-unit-01-roman-britain-01-roman-invasion-lq01",
+      "type": "mcq",
+      "question": "The Romans invaded Britain led later by Emperor:",
+      "options": [
+        "Claudius",
+        "Henry VIII",
+        "Napoleon",
+        "Charlemagne"
+      ],
+      "answer": "Claudius",
+      "explanation": "AD 43 conquest."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-01-roman-invasion-lq02",
+      "type": "true_false",
+      "question": "The Romans built straight roads across Britain.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Roman roads."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-01-roman-invasion-lq03",
+      "type": "fill_blank",
+      "question": "To keep out northern tribes, the Romans built ___'s Wall.",
+      "answer": "Hadrian",
+      "explanation": "Hadrian's Wall."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-01-roman-invasion-lq04",
+      "type": "short_answer",
+      "question": "Name one thing the Romans brought to Britain.",
+      "answer": "e.g., roads, towns, baths, or central heating.",
+      "explanation": "Roman legacy."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-02-roman-life-lq01",
+      "type": "mcq",
+      "question": "A Roman town often had public baths and a:",
+      "options": [
+        "forum",
+        "spaceport",
+        "cinema",
+        "supermarket"
+      ],
+      "answer": "forum",
+      "explanation": "Forum = marketplace."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-02-roman-life-lq02",
+      "type": "true_false",
+      "question": "Latin was the language of the Romans.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Roman language."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-02-roman-life-lq03",
+      "type": "fill_blank",
+      "question": "Roman soldiers were organised into groups called ___.",
+      "answer": "legions",
+      "explanation": "Legions."
+    },
+    {
+      "id": "g4-his-unit-01-roman-britain-02-roman-life-lq04",
+      "type": "short_answer",
+      "question": "Why were Roman roads important?",
+      "answer": "They allowed fast movement of soldiers, trade and messages.",
+      "explanation": "Roads."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "science",
+    "chapter": "02-living-things"
+  },
+  "questions": [
+    {
+      "id": "g1-sci-unit-02-living-things-01-plant-animal-needs-lq01",
+      "type": "mcq",
+      "question": "Plants need water, air, and:",
+      "options": [
+        "candy",
+        "sunlight",
+        "plastic",
+        "metal"
+      ],
+      "answer": "sunlight",
+      "explanation": "Plants need light to grow."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-01-plant-animal-needs-lq02",
+      "type": "true_false",
+      "question": "Animals need food and water to live.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Basic needs."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-01-plant-animal-needs-lq03",
+      "type": "fill_blank",
+      "question": "Plants make food using ___ from the Sun.",
+      "answer": "light",
+      "explanation": "Sunlight/energy."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-01-plant-animal-needs-lq04",
+      "type": "short_answer",
+      "question": "Name two things animals need.",
+      "answer": "Food and water (also air, shelter).",
+      "explanation": "Survival needs."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-02-parents-offspring-lq01",
+      "type": "mcq",
+      "question": "Baby animals usually look:",
+      "options": [
+        "nothing like parents",
+        "like their parents",
+        "like plants",
+        "like rocks"
+      ],
+      "answer": "like their parents",
+      "explanation": "Offspring resemble parents."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-02-parents-offspring-lq02",
+      "type": "true_false",
+      "question": "A puppy grows into a dog.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Life cycle."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-02-parents-offspring-lq03",
+      "type": "fill_blank",
+      "question": "Young plants and animals get help from their ___.",
+      "answer": "parents",
+      "explanation": "Parental care."
+    },
+    {
+      "id": "g1-sci-unit-02-living-things-02-parents-offspring-lq04",
+      "type": "short_answer",
+      "question": "Give one way parents help offspring.",
+      "answer": "e.g., feeding or protecting them.",
+      "explanation": "Care behaviors."
+    }
+  ]
+}

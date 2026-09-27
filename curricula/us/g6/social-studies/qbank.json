@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "social-studies"
+  },
+  "questions": [
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq01",
+      "type": "mcq",
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        "equator",
+        "prime meridian",
+        "tropic",
+        "border"
+      ],
+      "answer": "equator",
+      "explanation": "0° latitude."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq02",
+      "type": "true_false",
+      "question": "Latitude affects a place's climate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Climate factor."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq03",
+      "type": "fill_blank",
+      "question": "Lines measuring distance north or south of the equator are ___.",
+      "answer": "latitude",
+      "explanation": "Latitude."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq04",
+      "type": "short_answer",
+      "question": "How does location affect climate?",
+      "answer": "Latitude, altitude and nearness to water all influence climate.",
+      "explanation": "Climate factors."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-02-human-geography-lq01",
+      "type": "mcq",
+      "question": "The number of people in an area per square mile is population:",
+      "options": [
+        "density",
+        "color",
+        "age",
+        "height"
+      ],
+      "answer": "density",
+      "explanation": "Population density."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-02-human-geography-lq02",
+      "type": "true_false",
+      "question": "Culture includes language, religion and traditions.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Culture elements."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-02-human-geography-lq03",
+      "type": "fill_blank",
+      "question": "The spread of people, goods and ideas worldwide is ___.",
+      "answer": "globalization",
+      "explanation": "Global links."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-02-human-geography-lq04",
+      "type": "short_answer",
+      "question": "Name two elements of culture.",
+      "answer": "e.g., language and religion (also food, customs).",
+      "explanation": "Culture."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq01",
+      "type": "mcq",
+      "question": "Ancient Egypt developed along the river:",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Hudson",
+        "Thames"
+      ],
+      "answer": "Nile",
+      "explanation": "River civilization."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq02",
+      "type": "true_false",
+      "question": "Early civilizations often began near rivers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Water for farming."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq03",
+      "type": "fill_blank",
+      "question": "Mesopotamia developed between the Tigris and ___ rivers.",
+      "answer": "Euphrates",
+      "explanation": "Fertile Crescent."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq04",
+      "type": "short_answer",
+      "question": "Why did early civilizations form near rivers?",
+      "answer": "Rivers provided water, fertile soil, and transport.",
+      "explanation": "River civilizations."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq01",
+      "type": "mcq",
+      "question": "Ancient Rome is known for advances in law and:",
+      "options": [
+        "engineering",
+        "spaceflight",
+        "computers",
+        "cars"
+      ],
+      "answer": "engineering",
+      "explanation": "Roman engineering."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq02",
+      "type": "true_false",
+      "question": "Ancient Greece contributed ideas about democracy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Greek legacy."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq03",
+      "type": "fill_blank",
+      "question": "A system of writing using pictures in Egypt is ___.",
+      "answer": "hieroglyphics",
+      "explanation": "Egyptian writing."
+    },
+    {
+      "id": "g6-soc-unit-02-ancient-civilizations-02-contributions-lq04",
+      "type": "short_answer",
+      "question": "Name one lasting contribution of an ancient civilization.",
+      "answer": "e.g., Greek democracy, Roman roads, or Egyptian writing.",
+      "explanation": "Contributions."
+    }
+  ]
+}

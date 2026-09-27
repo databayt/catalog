@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g5-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq01",
+          "type": "mcq",
+          "question": "A theme is a story's:",
+          "options": [
+            "length",
+            "underlying message",
+            "font",
+            "author"
+          ],
+          "answer": "underlying message",
+          "explanation": "Central idea."
+        },
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq02",
+          "type": "true_false",
+          "question": "Different books can share a theme.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., friendship."
+        },
+        {
+          "id": "g5-eng-unit-02-writing-01-cohesion-lq01",
+          "type": "mcq",
+          "question": "Which links ideas across paragraphs?",
+          "options": [
+            "however",
+            "cat",
+            "green",
+            "run"
+          ],
+          "answer": "however",
+          "explanation": "Adverbial/connective."
+        },
+        {
+          "id": "g5-eng-unit-02-writing-01-cohesion-lq02",
+          "type": "true_false",
+          "question": "Cohesive devices help writing flow.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Links ideas."
+        }
+      ]
+    }
+  ]
+}

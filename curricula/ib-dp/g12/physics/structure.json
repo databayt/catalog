@@ -1,0 +1,136 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "ib-dp-g12-physics",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "physics",
+  "title": {
+    "ar": "الفيزياء",
+    "en": "Physics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "physics",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-measurements-and-uncertainties",
+      "title": {
+        "en": "Measurements and Uncertainties"
+      },
+      "lessons": [
+        {
+          "slug": "01-measurements-and-uncertainties",
+          "title": {
+            "en": "Measurements and Uncertainties"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-mechanics",
+      "title": {
+        "en": "Mechanics"
+      },
+      "lessons": [
+        {
+          "slug": "01-mechanics",
+          "title": {
+            "en": "Mechanics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-thermal-physics",
+      "title": {
+        "en": "Thermal Physics"
+      },
+      "lessons": [
+        {
+          "slug": "01-thermal-physics",
+          "title": {
+            "en": "Thermal Physics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-waves",
+      "title": {
+        "en": "Waves"
+      },
+      "lessons": [
+        {
+          "slug": "01-waves",
+          "title": {
+            "en": "Waves"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-electricity-and-magnetism",
+      "title": {
+        "en": "Electricity and Magnetism"
+      },
+      "lessons": [
+        {
+          "slug": "01-electricity-and-magnetism",
+          "title": {
+            "en": "Electricity and Magnetism"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-circular-motion-and-gravitation",
+      "title": {
+        "en": "Circular Motion and Gravitation"
+      },
+      "lessons": [
+        {
+          "slug": "01-circular-motion-and-gravitation",
+          "title": {
+            "en": "Circular Motion and Gravitation"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-atomic-nuclear-and-particle-physics",
+      "title": {
+        "en": "Atomic, Nuclear and Particle Physics"
+      },
+      "lessons": [
+        {
+          "slug": "01-atomic-nuclear-and-particle-physics",
+          "title": {
+            "en": "Atomic, Nuclear and Particle Physics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-energy-production",
+      "title": {
+        "en": "Energy Production"
+      },
+      "lessons": [
+        {
+          "slug": "01-energy-production",
+          "title": {
+            "en": "Energy Production"
+          }
+        }
+      ]
+    }
+  ]
+}

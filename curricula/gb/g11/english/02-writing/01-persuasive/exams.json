@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "02-writing",
+    "lesson": "01-persuasive"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-unit-02-writing-01-persuasive-quiz",
+      "title": "Quiz: Persuasive Writing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq01",
+          "type": "mcq",
+          "question": "A rhetorical question is used to:",
+          "options": [
+            "confuse",
+            "persuade/make readers think",
+            "end a text",
+            "fill space"
+          ],
+          "answer": "persuade/make readers think",
+          "explanation": "Persuasive device."
+        },
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq02",
+          "type": "true_false",
+          "question": "Counterarguments can make persuasion more convincing.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Address opposition."
+        },
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq03",
+          "type": "fill_blank",
+          "question": "Persuasive techniques include facts, opinions, rhetorical questions and ___ (DAFOREST).",
+          "answer": "emotive language",
+          "explanation": "Persuasion toolkit."
+        },
+        {
+          "id": "g11-eng-unit-02-writing-01-persuasive-lq04",
+          "type": "short_answer",
+          "question": "Name two persuasive techniques.",
+          "answer": "e.g., direct address and emotive language.",
+          "explanation": "Persuasion."
+        }
+      ]
+    }
+  ]
+}

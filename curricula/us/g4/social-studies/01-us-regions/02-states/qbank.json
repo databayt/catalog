@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "social-studies",
+    "chapter": "01-us-regions",
+    "lesson": "02-states"
+  },
+  "questions": [
+    {
+      "id": "g4-soc-unit-01-us-regions-02-states-lq01",
+      "type": "mcq",
+      "question": "How many states are in the United States?",
+      "options": [
+        "13",
+        "50",
+        "100",
+        "25"
+      ],
+      "answer": "50",
+      "explanation": "50 states."
+    },
+    {
+      "id": "g4-soc-unit-01-us-regions-02-states-lq02",
+      "type": "true_false",
+      "question": "Each US state has its own capital city.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "State capitals."
+    },
+    {
+      "id": "g4-soc-unit-01-us-regions-02-states-lq03",
+      "type": "fill_blank",
+      "question": "The capital city of the United States is Washington, ___.",
+      "answer": "D.C.",
+      "explanation": "National capital."
+    },
+    {
+      "id": "g4-soc-unit-01-us-regions-02-states-lq04",
+      "type": "short_answer",
+      "question": "What is a state capital?",
+      "answer": "The city where a state's government is based.",
+      "explanation": "State capital."
+    }
+  ]
+}

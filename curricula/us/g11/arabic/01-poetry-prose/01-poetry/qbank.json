@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "arabic",
+    "chapter": "01-poetry-prose",
+    "lesson": "01-poetry"
+  },
+  "questions": [
+    {
+      "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq01",
+      "type": "mcq",
+      "question": "البيت الشعري يتكون من:",
+      "options": [
+        "سطر واحد",
+        "شطرين",
+        "ثلاثة أسطر",
+        "فقرة"
+      ],
+      "answer": "شطرين",
+      "explanation": "الصدر والعجز."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq02",
+      "type": "true_false",
+      "question": "القافية تتكرر في نهاية الأبيات.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "القافية."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq03",
+      "type": "fill_blank",
+      "question": "الجزء الأول من البيت يسمى ___.",
+      "answer": "الصدر",
+      "explanation": "الصدر والعجز."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-01-poetry-lq04",
+      "type": "short_answer",
+      "question": "اذكر عنصرين من عناصر القصيدة.",
+      "answer": "مثل: الوزن والقافية (والمعنى والصورة).",
+      "explanation": "الشعر."
+    }
+  ]
+}

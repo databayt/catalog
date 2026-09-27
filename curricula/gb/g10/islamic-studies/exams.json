@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq01",
+          "type": "mcq",
+          "question": "القرآن الكريم نزل على النبي ﷺ خلال:",
+          "options": [
+            "يوم واحد",
+            "نحو 23 سنة",
+            "100 سنة",
+            "شهر"
+          ],
+          "answer": "نحو 23 سنة",
+          "explanation": "نزول مُنجَّم."
+        },
+        {
+          "id": "g10-isl-unit-01-quran-fiqh-01-uloom-quran-lq02",
+          "type": "true_false",
+          "question": "القرآن كلام الله المنزل المتعبد بتلاوته.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف القرآن."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq01",
+          "type": "mcq",
+          "question": "(إنما الأعمال بالـ___).",
+          "options": [
+            "نيات",
+            "أموال",
+            "ألوان",
+            "أوقات"
+          ],
+          "answer": "نيات",
+          "explanation": "حديث النية."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-01-hadith-lq02",
+          "type": "true_false",
+          "question": "الحديث هو ما أُضيف إلى النبي ﷺ من قول أو فعل أو تقرير.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "تعريف الحديث."
+        }
+      ]
+    }
+  ]
+}

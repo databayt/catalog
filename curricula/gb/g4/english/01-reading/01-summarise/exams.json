@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-summarise"
+  },
+  "exams": [
+    {
+      "id": "g4-eng-unit-01-reading-01-summarise-quiz",
+      "title": "Quiz: Summarising",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq01",
+          "type": "mcq",
+          "question": "A summary is:",
+          "options": [
+            "the whole text",
+            "the main points briefly",
+            "one word",
+            "the title"
+          ],
+          "answer": "the main points briefly",
+          "explanation": "Concise."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq02",
+          "type": "true_false",
+          "question": "Summaries leave out minor detail.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Key points only."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq03",
+          "type": "fill_blank",
+          "question": "Stating main points briefly is ___.",
+          "answer": "summarising",
+          "explanation": "Summary."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-01-summarise-lq04",
+          "type": "short_answer",
+          "question": "Summarise a story you know in one sentence.",
+          "answer": "e.g., 'A girl helps a lost dog find home.'",
+          "explanation": "One-sentence summary."
+        }
+      ]
+    }
+  ]
+}

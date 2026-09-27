@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "science",
+    "chapter": "02-animals",
+    "lesson": "02-senses"
+  },
+  "questions": [
+    {
+      "id": "g1-sci-unit-02-animals-02-senses-lq01",
+      "type": "mcq",
+      "question": "Which body part is for smelling?",
+      "options": [
+        "eye",
+        "nose",
+        "ear",
+        "hand"
+      ],
+      "answer": "nose",
+      "explanation": "Smell."
+    },
+    {
+      "id": "g1-sci-unit-02-animals-02-senses-lq02",
+      "type": "true_false",
+      "question": "We hear with our ears.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Hearing sense."
+    },
+    {
+      "id": "g1-sci-unit-02-animals-02-senses-lq03",
+      "type": "fill_blank",
+      "question": "We see with our ___.",
+      "answer": "eyes",
+      "explanation": "Sight."
+    },
+    {
+      "id": "g1-sci-unit-02-animals-02-senses-lq04",
+      "type": "short_answer",
+      "question": "List the five senses.",
+      "answer": "Sight, hearing, smell, taste, touch.",
+      "explanation": "Senses."
+    }
+  ]
+}

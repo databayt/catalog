@@ -1,0 +1,148 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g4-ict",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "ict",
+  "title": {
+    "ar": "تكنولوجيا المعلومات والاتصالات",
+    "en": "Information & Communication Technology"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "computer",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-ict-introduction",
+      "title": {
+        "ar": "الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-computing-systems-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-ict-concept",
+          "title": {
+            "ar": "مفهوم تكنولوجيا المعلومات والاتصالات"
+          }
+        },
+        {
+          "slug": "02-data-transmission",
+          "title": {
+            "ar": "نقل المعلومات"
+          },
+          "image": "clickview/elementary-networks-and-the-internet-cover.jpg"
+        },
+        {
+          "slug": "03-ict-applications",
+          "title": {
+            "ar": "أهمية استخدام تطبيقات تكنولوجيا المعلومات"
+          }
+        },
+        {
+          "slug": "04-ict-in-life",
+          "title": {
+            "ar": "تطبيقات تكنولوجيا المعلومات في حياتنا"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-computer-around",
+      "title": {
+        "ar": "الوحدة الثانية: الحاسوب من حولنا"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-impacts-of-computing-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-computer-at-home",
+          "title": {
+            "ar": "الحاسوب في المنزل"
+          }
+        },
+        {
+          "slug": "02-computer-at-school",
+          "title": {
+            "ar": "الحاسوب في المدرسة"
+          }
+        },
+        {
+          "slug": "03-computer-hospital",
+          "title": {
+            "ar": "الحاسوب في المستشفى"
+          }
+        },
+        {
+          "slug": "04-computer-work",
+          "title": {
+            "ar": "الحاسوب في الأعمال المختلفة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-computer-basics",
+      "title": {
+        "ar": "الوحدة الثالثة: أساسيات الحاسوب"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-computing-systems-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-computer-concept",
+          "title": {
+            "ar": "مفهوم الحاسوب"
+          }
+        },
+        {
+          "slug": "02-computer-components",
+          "title": {
+            "ar": "مكونات الحاسوب"
+          }
+        },
+        {
+          "slug": "03-input-devices",
+          "title": {
+            "ar": "وحدات الإدخال"
+          }
+        },
+        {
+          "slug": "04-output-devices",
+          "title": {
+            "ar": "وحدات الإخراج"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-computer-safety",
+      "title": {
+        "ar": "الوحدة الرابعة: الأمان في استخدام الحاسوب"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-cybersafety-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-open-computer",
+          "title": {
+            "ar": "كيف تفتح جهاز الحاسوب"
+          }
+        },
+        {
+          "slug": "02-safety-procedures",
+          "title": {
+            "ar": "إجراءات الأمان"
+          }
+        }
+      ]
+    }
+  ]
+}

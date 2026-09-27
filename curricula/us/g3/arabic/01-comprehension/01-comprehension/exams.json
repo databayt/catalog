@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "arabic",
+    "chapter": "01-comprehension",
+    "lesson": "01-comprehension"
+  },
+  "exams": [
+    {
+      "id": "g3-ara-unit-01-comprehension-01-comprehension-quiz",
+      "title": "Quiz: الفهم القرائي",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-ara-unit-01-comprehension-01-comprehension-lq01",
+          "type": "mcq",
+          "question": "الفكرة الرئيسة في النص هي:",
+          "options": [
+            "تفصيل صغير",
+            "الموضوع الأهم",
+            "العنوان فقط",
+            "آخر كلمة"
+          ],
+          "answer": "الموضوع الأهم",
+          "explanation": "الفكرة العامة."
+        },
+        {
+          "id": "g3-ara-unit-01-comprehension-01-comprehension-lq02",
+          "type": "true_false",
+          "question": "نستخرج المعلومات من النص للإجابة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاستيعاب."
+        },
+        {
+          "id": "g3-ara-unit-01-comprehension-01-comprehension-lq03",
+          "type": "fill_blank",
+          "question": "الجزء الذي يلخص النص هو الفكرة ___.",
+          "answer": "الرئيسة",
+          "explanation": "الفكرة الرئيسة."
+        },
+        {
+          "id": "g3-ara-unit-01-comprehension-01-comprehension-lq04",
+          "type": "short_answer",
+          "question": "كيف نجد الفكرة الرئيسة لنص؟",
+          "answer": "نسأل: عمّ يتحدث النص في معظمه؟",
+          "explanation": "الفكرة الرئيسة."
+        }
+      ]
+    }
+  ]
+}

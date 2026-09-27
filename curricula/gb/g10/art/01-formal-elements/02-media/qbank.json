@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "art",
+    "chapter": "01-formal-elements",
+    "lesson": "02-media"
+  },
+  "questions": [
+    {
+      "id": "g10-art-unit-01-formal-elements-02-media-lq01",
+      "type": "mcq",
+      "question": "Which is a wet medium?",
+      "options": [
+        "pencil",
+        "charcoal",
+        "watercolour",
+        "eraser"
+      ],
+      "answer": "watercolour",
+      "explanation": "Paint medium."
+    },
+    {
+      "id": "g10-art-unit-01-formal-elements-02-media-lq02",
+      "type": "true_false",
+      "question": "Mixed media combines different materials.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Mixed media."
+    },
+    {
+      "id": "g10-art-unit-01-formal-elements-02-media-lq03",
+      "type": "fill_blank",
+      "question": "Building up layers of tone creates the illusion of ___.",
+      "answer": "form",
+      "explanation": "Form/3D."
+    },
+    {
+      "id": "g10-art-unit-01-formal-elements-02-media-lq04",
+      "type": "short_answer",
+      "question": "Name two different art media.",
+      "answer": "e.g., charcoal and acrylic paint.",
+      "explanation": "Media."
+    }
+  ]
+}

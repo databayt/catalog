@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "history",
+    "chapter": "01-anglo-saxons-vikings",
+    "lesson": "02-vikings"
+  },
+  "exams": [
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-quiz",
+      "title": "Quiz: The Vikings",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq01",
+          "type": "mcq",
+          "question": "The Vikings came from:",
+          "options": [
+            "Scandinavia",
+            "Africa",
+            "South America",
+            "Australia"
+          ],
+          "answer": "Scandinavia",
+          "explanation": "Norse raiders."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq02",
+          "type": "true_false",
+          "question": "Vikings travelled and raided in longships.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Longships."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq03",
+          "type": "fill_blank",
+          "question": "Vikings first raided the monastery at ___ in 793.",
+          "answer": "Lindisfarne",
+          "explanation": "Famous raid."
+        },
+        {
+          "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq04",
+          "type": "short_answer",
+          "question": "Were the Vikings only raiders? Explain.",
+          "answer": "No — they were also traders, settlers and skilled sailors.",
+          "explanation": "Beyond raiding."
+        }
+      ]
+    }
+  ]
+}

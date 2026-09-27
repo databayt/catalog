@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "02-proportional",
+    "lesson": "02-percent"
+  },
+  "questions": [
+    {
+      "id": "g7-mat-unit-02-proportional-02-percent-lq01",
+      "type": "mcq",
+      "question": "What is 20% of 50?",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "answer": "10",
+      "explanation": "0.20 × 50."
+    },
+    {
+      "id": "g7-mat-unit-02-proportional-02-percent-lq02",
+      "type": "true_false",
+      "question": "A 10% increase on $100 gives $110.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "100 + 10."
+    },
+    {
+      "id": "g7-mat-unit-02-proportional-02-percent-lq03",
+      "type": "fill_blank",
+      "question": "15 is ___% of 60.",
+      "answer": "25",
+      "explanation": "15/60 = 0.25."
+    },
+    {
+      "id": "g7-mat-unit-02-proportional-02-percent-lq04",
+      "type": "short_answer",
+      "question": "How do you find a percent of a number?",
+      "answer": "Convert the percent to a decimal and multiply.",
+      "explanation": "Percent calc."
+    }
+  ]
+}

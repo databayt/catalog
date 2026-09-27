@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "gb-g4-history",
+  "curriculum": "gb",
+  "grade": "g4",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "history",
+  "source": {
+    "publisher": "aldar",
+    "title": "National Curriculum in England: History programmes of study",
+    "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-history-programmes-of-study",
+    "license": "LicenseRef-Publisher",
+    "standards": "England NC History",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-roman-britain",
+      "title": {
+        "en": "Roman Britain"
+      },
+      "lessons": [
+        {
+          "slug": "01-roman-invasion",
+          "title": {
+            "en": "The Roman Invasion"
+          }
+        },
+        {
+          "slug": "02-roman-life",
+          "title": {
+            "en": "Roman Life & Legacy"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-ancient-greece",
+      "title": {
+        "en": "Ancient Greece"
+      },
+      "lessons": [
+        {
+          "slug": "01-greek-life",
+          "title": {
+            "en": "Life in Ancient Greece"
+          }
+        },
+        {
+          "slug": "02-greek-legacy",
+          "title": {
+            "en": "Greek Ideas & Legacy"
+          }
+        }
+      ]
+    }
+  ]
+}

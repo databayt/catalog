@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "01-reading-lit",
+    "lesson": "02-plot"
+  },
+  "questions": [
+    {
+      "id": "g6-eng-unit-01-reading-lit-02-plot-lq01",
+      "type": "mcq",
+      "question": "The turning point of a story is the:",
+      "options": [
+        "exposition",
+        "climax",
+        "resolution",
+        "setting"
+      ],
+      "answer": "climax",
+      "explanation": "Highest tension."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-lit-02-plot-lq02",
+      "type": "true_false",
+      "question": "Conflict drives the plot.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Central struggle."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-lit-02-plot-lq03",
+      "type": "fill_blank",
+      "question": "A struggle between a character and outside force is ___ conflict.",
+      "answer": "external",
+      "explanation": "Character vs outside."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-lit-02-plot-lq04",
+      "type": "short_answer",
+      "question": "Name the stages of plot.",
+      "answer": "Exposition, rising action, climax, falling action, resolution.",
+      "explanation": "Plot structure."
+    }
+  ]
+}

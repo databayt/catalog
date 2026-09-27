@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "moral-education",
+    "chapter": "01-government",
+    "lesson": "01-government"
+  },
+  "exams": [
+    {
+      "id": "g7-mor-unit-01-government-01-government-quiz",
+      "title": "Quiz: How the UAE is Governed",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq01",
+          "type": "mcq",
+          "question": "The UAE is a federation led by the:",
+          "options": [
+            "Federal Supreme Council",
+            "one city",
+            "a company",
+            "a school"
+          ],
+          "answer": "Federal Supreme Council",
+          "explanation": "Federation."
+        },
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq02",
+          "type": "true_false",
+          "question": "Each emirate has its own ruler.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rulers."
+        },
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq03",
+          "type": "fill_blank",
+          "question": "The agreement setting out how the UAE is governed is the ___.",
+          "answer": "Constitution",
+          "explanation": "Constitution."
+        },
+        {
+          "id": "g7-mor-unit-01-government-01-government-lq04",
+          "type": "short_answer",
+          "question": "What does it mean that the UAE is a federation?",
+          "answer": "Several emirates unite under one national government.",
+          "explanation": "Federation."
+        }
+      ]
+    }
+  ]
+}

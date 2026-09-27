@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "01-poetry"
+  },
+  "exams": [
+    {
+      "id": "g9-eng-unit-01-poetry-exam",
+      "title": "Exam: Poetry",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq01",
+          "type": "mcq",
+          "question": "Repetition of initial consonant sounds is:",
+          "options": [
+            "rhyme",
+            "alliteration",
+            "simile",
+            "stanza"
+          ],
+          "answer": "alliteration",
+          "explanation": "e.g., 'wild winds'."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq02",
+          "type": "true_false",
+          "question": "A stanza is a group of lines in a poem.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Poem 'paragraph'."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq03",
+          "type": "fill_blank",
+          "question": "Giving human qualities to objects is ___.",
+          "answer": "personification",
+          "explanation": "Figurative device."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq04",
+          "type": "short_answer",
+          "question": "What effect can rhythm have in a poem?",
+          "answer": "It can create mood, pace, or emphasis.",
+          "explanation": "Rhythm effect."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-02-comparison-lq01",
+          "type": "mcq",
+          "question": "Comparing two poems means looking at:",
+          "options": [
+            "only length",
+            "similarities and differences",
+            "the poets' ages",
+            "the page numbers"
+          ],
+          "answer": "similarities and differences",
+          "explanation": "Compare/contrast."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-02-comparison-lq02",
+          "type": "true_false",
+          "question": "Two poems can share a theme but differ in tone.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Theme vs tone."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-02-comparison-lq03",
+          "type": "fill_blank",
+          "question": "Words like 'whereas' and 'similarly' are useful for ___.",
+          "answer": "comparison",
+          "explanation": "Comparative connectives."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-02-comparison-lq04",
+          "type": "short_answer",
+          "question": "Name one thing to compare between poems.",
+          "answer": "e.g., theme, imagery, structure, or tone.",
+          "explanation": "Comparison points."
+        }
+      ]
+    }
+  ]
+}

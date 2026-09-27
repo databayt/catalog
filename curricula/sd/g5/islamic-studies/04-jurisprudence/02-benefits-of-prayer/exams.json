@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "04-jurisprudence",
+    "lesson": "02-benefits-of-prayer"
+  },
+  "exams": [
+    {
+      "id": "g5-isl-unit-04-02-benefits-of-prayer-lquiz",
+      "title": "اختبار - فوائد الصلاة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-isl-unit-04-02-benefits-of-prayer-lq01",
+          "type": "mcq",
+          "question": "كم عدد فروض الوضوء الأساسية؟",
+          "options": [
+            "6 فروض",
+            "4 فروض",
+            "8 فروض",
+            "5 فروض"
+          ],
+          "answer": "6 فروض",
+          "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+        },
+        {
+          "id": "g5-isl-unit-04-02-benefits-of-prayer-lq02",
+          "type": "true_false",
+          "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+        },
+        {
+          "id": "g5-isl-unit-04-02-benefits-of-prayer-lq03",
+          "type": "fill_blank",
+          "question": "قبل الصلاة يجب التطهر من الحدث بـ___.",
+          "answer": "الوضوء",
+          "explanation": "الوضوء شرط صحة الصلاة."
+        },
+        {
+          "id": "g5-isl-unit-04-02-benefits-of-prayer-lq04",
+          "type": "short_answer",
+          "question": "ما ينقض الوضوء؟",
+          "answer": "الخروج من السبيلين، النوم الثقيل، زوال العقل، لمس الفرج بشهوة.",
+          "explanation": "نواقض الوضوء تستوجب إعادة الوضوء قبل الصلاة."
+        }
+      ]
+    }
+  ]
+}

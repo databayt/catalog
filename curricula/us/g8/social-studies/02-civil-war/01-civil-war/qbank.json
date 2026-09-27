@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "social-studies",
+    "chapter": "02-civil-war",
+    "lesson": "01-civil-war"
+  },
+  "questions": [
+    {
+      "id": "g8-soc-unit-02-civil-war-01-civil-war-lq01",
+      "type": "mcq",
+      "question": "The US Civil War (1861-65) was largely over slavery and:",
+      "options": [
+        "states' rights",
+        "space travel",
+        "trade with Asia",
+        "the Moon"
+      ],
+      "answer": "states' rights",
+      "explanation": "Civil War causes."
+    },
+    {
+      "id": "g8-soc-unit-02-civil-war-01-civil-war-lq02",
+      "type": "true_false",
+      "question": "Abraham Lincoln was President during the Civil War.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "16th President."
+    },
+    {
+      "id": "g8-soc-unit-02-civil-war-01-civil-war-lq03",
+      "type": "fill_blank",
+      "question": "The document freeing enslaved people in rebel states was the Emancipation ___.",
+      "answer": "Proclamation",
+      "explanation": "1863."
+    },
+    {
+      "id": "g8-soc-unit-02-civil-war-01-civil-war-lq04",
+      "type": "short_answer",
+      "question": "Name one cause of the Civil War.",
+      "answer": "e.g., slavery, states' rights, or economic differences.",
+      "explanation": "Civil War causes."
+    }
+  ]
+}

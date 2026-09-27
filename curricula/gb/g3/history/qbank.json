@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "history"
+  },
+  "questions": [
+    {
+      "id": "g3-his-unit-01-stone-age-01-stone-age-lq01",
+      "type": "mcq",
+      "question": "Stone Age people first survived by:",
+      "options": [
+        "farming only",
+        "hunting and gathering",
+        "using factories",
+        "online shopping"
+      ],
+      "answer": "hunting and gathering",
+      "explanation": "Hunter-gatherers."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-01-stone-age-lq02",
+      "type": "true_false",
+      "question": "Stone Age tools were often made of stone and bone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Before metal."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-01-stone-age-lq03",
+      "type": "fill_blank",
+      "question": "Early humans painted on the walls of ___.",
+      "answer": "caves",
+      "explanation": "Cave art."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-01-stone-age-lq04",
+      "type": "short_answer",
+      "question": "How did the move to farming change Stone Age life?",
+      "answer": "People settled in one place, grew crops and kept animals.",
+      "explanation": "Neolithic Revolution."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-02-bronze-iron-lq01",
+      "type": "mcq",
+      "question": "The Bronze Age is named after the metal:",
+      "options": [
+        "gold",
+        "bronze",
+        "iron",
+        "silver"
+      ],
+      "answer": "bronze",
+      "explanation": "Copper + tin."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-02-bronze-iron-lq02",
+      "type": "true_false",
+      "question": "Iron tools were stronger than bronze ones.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Iron Age advance."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-02-bronze-iron-lq03",
+      "type": "fill_blank",
+      "question": "Iron Age people often lived in defended ___ forts.",
+      "answer": "hill",
+      "explanation": "Hillforts."
+    },
+    {
+      "id": "g3-his-unit-01-stone-age-02-bronze-iron-lq04",
+      "type": "short_answer",
+      "question": "Why was learning to use metal important?",
+      "answer": "It made stronger tools and weapons, improving farming and defence.",
+      "explanation": "Metalworking."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq01",
+      "type": "mcq",
+      "question": "Ancient Egypt grew along the river:",
+      "options": [
+        "Thames",
+        "Nile",
+        "Amazon",
+        "Tigris"
+      ],
+      "answer": "Nile",
+      "explanation": "Nile civilisation."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq02",
+      "type": "true_false",
+      "question": "The Egyptians built pyramids as tombs for pharaohs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Royal tombs."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq03",
+      "type": "fill_blank",
+      "question": "The Egyptian ruler was called a ___.",
+      "answer": "pharaoh",
+      "explanation": "Pharaoh."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq04",
+      "type": "short_answer",
+      "question": "Why was the River Nile important to Egypt?",
+      "answer": "Its floods enriched the soil for farming and provided water and transport.",
+      "explanation": "Nile's role."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq01",
+      "type": "mcq",
+      "question": "Egyptian picture writing is called:",
+      "options": [
+        "hieroglyphs",
+        "emoji",
+        "Latin",
+        "runes"
+      ],
+      "answer": "hieroglyphs",
+      "explanation": "Hieroglyphic script."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq02",
+      "type": "true_false",
+      "question": "Egyptians preserved bodies as mummies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Mummification."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq03",
+      "type": "fill_blank",
+      "question": "The Egyptians believed in many gods, so they were ___.",
+      "answer": "polytheistic",
+      "explanation": "Many gods."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq04",
+      "type": "short_answer",
+      "question": "How do we know about Ancient Egyptian beliefs?",
+      "answer": "From tomb paintings, artefacts and hieroglyphic writing.",
+      "explanation": "Evidence."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "history",
+    "chapter": "01-industrial-revolution",
+    "lesson": "01-industry"
+  },
+  "questions": [
+    {
+      "id": "g9-his-unit-01-industrial-revolution-01-industry-lq01",
+      "type": "mcq",
+      "question": "The Industrial Revolution saw goods made increasingly in:",
+      "options": [
+        "homes",
+        "factories",
+        "castles",
+        "caves"
+      ],
+      "answer": "factories",
+      "explanation": "Factory system."
+    },
+    {
+      "id": "g9-his-unit-01-industrial-revolution-01-industry-lq02",
+      "type": "true_false",
+      "question": "Steam power transformed industry and transport.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Steam engines."
+    },
+    {
+      "id": "g9-his-unit-01-industrial-revolution-01-industry-lq03",
+      "type": "fill_blank",
+      "question": "Railways were powered by the ___ engine.",
+      "answer": "steam",
+      "explanation": "Steam locomotive."
+    },
+    {
+      "id": "g9-his-unit-01-industrial-revolution-01-industry-lq04",
+      "type": "short_answer",
+      "question": "Name one effect of the Industrial Revolution.",
+      "answer": "e.g., rapid urban growth or factory working conditions.",
+      "explanation": "Effects."
+    }
+  ]
+}

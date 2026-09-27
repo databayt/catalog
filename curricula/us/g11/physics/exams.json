@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "physics"
+  },
+  "exams": [
+    {
+      "id": "us-g11-physics-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-phy-unit-01-mechanics-01-motion-lq01",
+          "type": "mcq",
+          "question": "Velocity is speed with:",
+          "options": [
+            "mass",
+            "direction",
+            "color",
+            "temperature"
+          ],
+          "answer": "direction",
+          "explanation": "Vector quantity."
+        },
+        {
+          "id": "g11-phy-unit-01-mechanics-01-motion-lq02",
+          "type": "true_false",
+          "question": "Acceleration is the rate of change of velocity.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "a = Δv/Δt."
+        },
+        {
+          "id": "g11-phy-unit-02-energy-waves-01-energy-lq01",
+          "type": "mcq",
+          "question": "Energy of motion is called:",
+          "options": [
+            "potential",
+            "kinetic",
+            "thermal only",
+            "nuclear"
+          ],
+          "answer": "kinetic",
+          "explanation": "KE."
+        },
+        {
+          "id": "g11-phy-unit-02-energy-waves-01-energy-lq02",
+          "type": "true_false",
+          "question": "Energy is conserved in a closed system.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation of energy."
+        }
+      ]
+    }
+  ]
+}

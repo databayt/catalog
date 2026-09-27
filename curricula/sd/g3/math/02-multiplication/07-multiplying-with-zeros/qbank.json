@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "02-multiplication",
+    "lesson": "07-multiplying-with-zeros"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u02-q007",
+      "type": "fill_blank",
+      "question": "أكمل: ١/٢ = ___/٤",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about الضرب."
+    }
+  ]
+}

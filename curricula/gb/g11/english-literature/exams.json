@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english-literature"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-english-literature-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq01",
+          "type": "mcq",
+          "question": "A modern play exploring responsibility examines:",
+          "options": [
+            "only romance",
+            "social/moral responsibility",
+            "cooking",
+            "sport"
+          ],
+          "answer": "social/moral responsibility",
+          "explanation": "Modern themes."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq02",
+          "type": "true_false",
+          "question": "Stage directions can convey meaning in a play.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Dramatic method."
+        },
+        {
+          "id": "g11-eng-unit-02-poetry-01-comparison-lq01",
+          "type": "mcq",
+          "question": "Comparing poems examines theme, language and:",
+          "options": [
+            "price",
+            "structure/form",
+            "fonts",
+            "covers"
+          ],
+          "answer": "structure/form",
+          "explanation": "Comparison points."
+        },
+        {
+          "id": "g11-eng-unit-02-poetry-01-comparison-lq02",
+          "type": "true_false",
+          "question": "Two poems can share a theme but use different methods.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Compare methods."
+        }
+      ]
+    }
+  ]
+}

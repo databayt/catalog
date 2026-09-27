@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g7-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-soc-unit-01-world-history-01-middle-ages-lq01",
+          "type": "mcq",
+          "question": "The social system of lords and vassals was:",
+          "options": [
+            "feudalism",
+            "democracy",
+            "capitalism",
+            "socialism"
+          ],
+          "answer": "feudalism",
+          "explanation": "Medieval system."
+        },
+        {
+          "id": "g7-soc-unit-01-world-history-01-middle-ages-lq02",
+          "type": "true_false",
+          "question": "The Middle Ages followed the fall of the Roman Empire.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "c. 500-1500."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq01",
+          "type": "mcq",
+          "question": "Studying a region examines its geography, history and:",
+          "options": [
+            "culture",
+            "fonts",
+            "prices only",
+            "weather only"
+          ],
+          "answer": "culture",
+          "explanation": "Regional study."
+        },
+        {
+          "id": "g7-soc-unit-02-world-regions-01-regions-lq02",
+          "type": "true_false",
+          "question": "Trade connected distant regions in the past.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Trade networks."
+        }
+      ]
+    }
+  ]
+}

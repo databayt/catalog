@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "music"
+  },
+  "questions": [
+    {
+      "id": "g9-mus-unit-01-theory-01-notation-lq01",
+      "type": "mcq",
+      "question": "Musical notes are written on a:",
+      "options": [
+        "stave (staff)",
+        "map",
+        "grid of pixels",
+        "number line"
+      ],
+      "answer": "stave (staff)",
+      "explanation": "Notation."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-01-notation-lq02",
+      "type": "true_false",
+      "question": "The treble clef shows higher-pitched notes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Treble clef."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-01-notation-lq03",
+      "type": "fill_blank",
+      "question": "Five lines used to write music are called the ___.",
+      "answer": "stave",
+      "explanation": "Stave/staff."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-01-notation-lq04",
+      "type": "short_answer",
+      "question": "What does a time signature tell you?",
+      "answer": "How many beats are in each bar and the beat value.",
+      "explanation": "Time signature."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-02-harmony-lq01",
+      "type": "mcq",
+      "question": "Two or more notes played together form a:",
+      "options": [
+        "chord",
+        "line",
+        "beat",
+        "clef"
+      ],
+      "answer": "chord",
+      "explanation": "Harmony."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-02-harmony-lq02",
+      "type": "true_false",
+      "question": "Texture describes how many layers of sound are heard.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Texture."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-02-harmony-lq03",
+      "type": "fill_blank",
+      "question": "A group of notes played together is a ___.",
+      "answer": "chord",
+      "explanation": "Chord."
+    },
+    {
+      "id": "g9-mus-unit-01-theory-02-harmony-lq04",
+      "type": "short_answer",
+      "question": "What is harmony?",
+      "answer": "Notes sounded together to support a melody.",
+      "explanation": "Harmony."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq01",
+      "type": "mcq",
+      "question": "Creating your own music is:",
+      "options": [
+        "composing",
+        "copying",
+        "listening only",
+        "tuning"
+      ],
+      "answer": "composing",
+      "explanation": "Composition."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq02",
+      "type": "true_false",
+      "question": "A motif is a short musical idea that can be repeated.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Motif."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq03",
+      "type": "fill_blank",
+      "question": "Creating original music is called ___.",
+      "answer": "composing",
+      "explanation": "Composing."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-01-composing-lq04",
+      "type": "short_answer",
+      "question": "Name one element to consider when composing.",
+      "answer": "e.g., melody, rhythm, harmony, or structure.",
+      "explanation": "Composing."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-02-genres-lq01",
+      "type": "mcq",
+      "question": "Jazz and classical are examples of musical:",
+      "options": [
+        "genres",
+        "instruments",
+        "clefs",
+        "beats"
+      ],
+      "answer": "genres",
+      "explanation": "Genres."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-02-genres-lq02",
+      "type": "true_false",
+      "question": "Music styles develop within cultural and historical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-02-genres-lq03",
+      "type": "fill_blank",
+      "question": "A category or style of music is a ___.",
+      "answer": "genre",
+      "explanation": "Genre."
+    },
+    {
+      "id": "g9-mus-unit-02-composing-02-genres-lq04",
+      "type": "short_answer",
+      "question": "Name two musical genres.",
+      "answer": "e.g., classical and pop (also jazz, folk, etc.).",
+      "explanation": "Genres."
+    }
+  ]
+}

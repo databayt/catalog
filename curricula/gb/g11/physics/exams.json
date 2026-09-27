@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "physics"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-physics-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq01",
+          "type": "mcq",
+          "question": "Resultant force = mass ×:",
+          "options": [
+            "velocity",
+            "acceleration",
+            "distance",
+            "time"
+          ],
+          "answer": "acceleration",
+          "explanation": "F = ma."
+        },
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq02",
+          "type": "true_false",
+          "question": "A balanced force results in no change in motion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Equilibrium."
+        },
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq01",
+          "type": "mcq",
+          "question": "Wave speed = frequency ×:",
+          "options": [
+            "amplitude",
+            "wavelength",
+            "period",
+            "mass"
+          ],
+          "answer": "wavelength",
+          "explanation": "v = fλ."
+        },
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq02",
+          "type": "true_false",
+          "question": "Transverse waves vibrate at right angles to travel direction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Transverse."
+        }
+      ]
+    }
+  ]
+}

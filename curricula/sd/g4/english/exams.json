@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "g4-english-final-exam-1928",
+      "title": "Final Exam - English - G4",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g4-en-u01-q001",
+          "type": "mcq",
+          "question": "Choose: Which sentence uses passive voice?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q002",
+          "type": "true_false",
+          "question": "True or False: Modal verbs cannot be used with main verbs",
+          "answer": true,
+          "explanation": "The statement about Welcome Back To English is True."
+        },
+        {
+          "id": "g4-en-u01-q003",
+          "type": "fill_blank",
+          "question": "Fill in: If I ___ (were/was) you, I would try harder",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q004",
+          "type": "short_answer",
+          "question": "Write: Write a paragraph about your ambitions",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q005",
+          "type": "mcq",
+          "question": "Choose: The past perfect tense uses ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q006",
+          "type": "true_false",
+          "question": "True or False: Passive voice always uses 'was/were' or 'is/are'",
+          "answer": true,
+          "explanation": "The statement about Welcome Back To English is True."
+        },
+        {
+          "id": "g4-en-u01-q007",
+          "type": "fill_blank",
+          "question": "Fill in: She is ___ (more intelligent/intelligenter) than her sister",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q008",
+          "type": "short_answer",
+          "question": "Write: Write a paragraph about your ambitions",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q009",
+          "type": "mcq",
+          "question": "Choose: Which is a compound sentence?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Welcome Back To English."
+        },
+        {
+          "id": "g4-en-u01-q010",
+          "type": "true_false",
+          "question": "True or False: Present perfect uses 'have' or 'has' with past participle",
+          "answer": true,
+          "explanation": "The statement about Welcome Back To English is True."
+        },
+        {
+          "id": "g4-en-u02-q001",
+          "type": "mcq",
+          "question": "Choose: Which sentence uses passive voice?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q002",
+          "type": "true_false",
+          "question": "True or False: Modal verbs cannot be used with main verbs",
+          "answer": true,
+          "explanation": "The statement about Family And Community is True."
+        },
+        {
+          "id": "g4-en-u02-q003",
+          "type": "fill_blank",
+          "question": "Fill in: If I ___ (were/was) you, I would try harder",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q004",
+          "type": "short_answer",
+          "question": "Write: Write a paragraph about your ambitions",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q005",
+          "type": "mcq",
+          "question": "Choose: The past perfect tense uses ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q006",
+          "type": "true_false",
+          "question": "True or False: Passive voice always uses 'was/were' or 'is/are'",
+          "answer": true,
+          "explanation": "The statement about Family And Community is True."
+        },
+        {
+          "id": "g4-en-u02-q007",
+          "type": "fill_blank",
+          "question": "Fill in: She is ___ (more intelligent/intelligenter) than her sister",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q008",
+          "type": "short_answer",
+          "question": "Write: Write a paragraph about your ambitions",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q009",
+          "type": "mcq",
+          "question": "Choose: Which is a compound sentence?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Family And Community."
+        },
+        {
+          "id": "g4-en-u02-q010",
+          "type": "true_false",
+          "question": "True or False: Present perfect uses 'have' or 'has' with past participle",
+          "answer": true,
+          "explanation": "The statement about Family And Community is True."
+        }
+      ]
+    }
+  ]
+}

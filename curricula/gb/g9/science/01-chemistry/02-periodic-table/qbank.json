@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "science",
+    "chapter": "01-chemistry",
+    "lesson": "02-periodic-table"
+  },
+  "questions": [
+    {
+      "id": "g9-sci-unit-01-chemistry-02-periodic-table-lq01",
+      "type": "mcq",
+      "question": "Elements in the same group have similar:",
+      "options": [
+        "mass",
+        "properties",
+        "colour",
+        "size only"
+      ],
+      "answer": "properties",
+      "explanation": "Group = similar chemistry."
+    },
+    {
+      "id": "g9-sci-unit-01-chemistry-02-periodic-table-lq02",
+      "type": "true_false",
+      "question": "The periodic table is arranged by atomic number.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Increasing protons."
+    },
+    {
+      "id": "g9-sci-unit-01-chemistry-02-periodic-table-lq03",
+      "type": "fill_blank",
+      "question": "Vertical columns in the periodic table are called ___.",
+      "answer": "groups",
+      "explanation": "Columns."
+    },
+    {
+      "id": "g9-sci-unit-01-chemistry-02-periodic-table-lq04",
+      "type": "short_answer",
+      "question": "Why are noble gases unreactive?",
+      "answer": "They have full outer electron shells.",
+      "explanation": "Stability."
+    }
+  ]
+}

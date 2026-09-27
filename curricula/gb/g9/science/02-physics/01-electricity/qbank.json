@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "science",
+    "chapter": "02-physics",
+    "lesson": "01-electricity"
+  },
+  "questions": [
+    {
+      "id": "g9-sci-unit-02-physics-01-electricity-lq01",
+      "type": "mcq",
+      "question": "Electric current is measured in:",
+      "options": [
+        "volts",
+        "amps",
+        "ohms",
+        "watts"
+      ],
+      "answer": "amps",
+      "explanation": "Current unit A."
+    },
+    {
+      "id": "g9-sci-unit-02-physics-01-electricity-lq02",
+      "type": "true_false",
+      "question": "In a series circuit, components share the same current.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "One path."
+    },
+    {
+      "id": "g9-sci-unit-02-physics-01-electricity-lq03",
+      "type": "fill_blank",
+      "question": "Resistance is measured in ___.",
+      "answer": "ohms",
+      "explanation": "Unit Ω."
+    },
+    {
+      "id": "g9-sci-unit-02-physics-01-electricity-lq04",
+      "type": "short_answer",
+      "question": "What happens to current if resistance increases (same voltage)?",
+      "answer": "Current decreases.",
+      "explanation": "Ohm's law."
+    }
+  ]
+}

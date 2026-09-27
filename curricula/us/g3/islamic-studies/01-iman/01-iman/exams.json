@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "islamic-studies",
+    "chapter": "01-iman",
+    "lesson": "01-iman"
+  },
+  "exams": [
+    {
+      "id": "g3-isl-unit-01-iman-01-iman-quiz",
+      "title": "Quiz: أركان الإيمان الستة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإيمان؟",
+          "options": [
+            "خمسة",
+            "ستة",
+            "سبعة",
+            "أربعة"
+          ],
+          "answer": "ستة",
+          "explanation": "أركان الإيمان ستة."
+        },
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq02",
+          "type": "true_false",
+          "question": "الإيمان بالملائكة من أركان الإيمان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الركن الثاني."
+        },
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq03",
+          "type": "fill_blank",
+          "question": "أول أركان الإيمان: الإيمان بـ___.",
+          "answer": "الله",
+          "explanation": "الإيمان بالله."
+        },
+        {
+          "id": "g3-isl-unit-01-iman-01-iman-lq04",
+          "type": "short_answer",
+          "question": "اذكر ثلاثة من أركان الإيمان.",
+          "answer": "الإيمان بالله، وملائكته، وكتبه.",
+          "explanation": "أركان الإيمان."
+        }
+      ]
+    }
+  ]
+}

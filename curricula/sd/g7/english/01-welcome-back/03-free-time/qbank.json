@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "01-welcome-back",
+    "lesson": "03-free-time"
+  },
+  "questions": [
+    {
+      "id": "g7-en-unit01-q005",
+      "type": "mcq",
+      "question": "What time do you ___ breakfast?",
+      "options": [
+        "has",
+        "have",
+        "having",
+        "had"
+      ],
+      "answer": "have",
+      "explanation": "Second person uses 'have'"
+    },
+    {
+      "id": "g7-en-unit01-q006",
+      "type": "short_answer",
+      "question": "Write a sentence about your favorite hobby",
+      "answer": "I like playing football/reading/etc",
+      "explanation": "Any valid sentence about a hobby"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "01-place-value-100"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-01-place-value-100-exam",
+      "title": "Exam: Place Value to 100",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq01",
+          "type": "mcq",
+          "question": "In 47, the 4 means:",
+          "options": [
+            "4 ones",
+            "4 tens",
+            "4 hundreds",
+            "40 tens"
+          ],
+          "answer": "4 tens",
+          "explanation": "40."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq02",
+          "type": "true_false",
+          "question": "63 = 60 + 3.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tens and ones."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq03",
+          "type": "fill_blank",
+          "question": "7 tens and 5 ones = ___.",
+          "answer": "75",
+          "explanation": "70 + 5."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq04",
+          "type": "short_answer",
+          "question": "Write 90 as tens.",
+          "answer": "9 tens",
+          "explanation": "90 = 9 tens."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq01",
+          "type": "mcq",
+          "question": "Which is greater, 34 or 43?",
+          "options": [
+            "34",
+            "43",
+            "equal",
+            "cannot tell"
+          ],
+          "answer": "43",
+          "explanation": "4 tens > 3 tens."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq02",
+          "type": "true_false",
+          "question": "28 < 30.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "28 is less than 30."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq03",
+          "type": "fill_blank",
+          "question": "Use a symbol: 56 ___ 65.",
+          "answer": "<",
+          "explanation": "56 is less than 65."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq04",
+          "type": "short_answer",
+          "question": "Order 21, 12, 31 smallest first.",
+          "answer": "12, 21, 31",
+          "explanation": "Ascending order."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "social-studies",
+    "chapter": "01-revolutions",
+    "lesson": "02-revolutions"
+  },
+  "exams": [
+    {
+      "id": "g9-soc-unit-01-revolutions-02-revolutions-quiz",
+      "title": "Quiz: Age of Revolutions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-soc-unit-01-revolutions-02-revolutions-lq01",
+          "type": "mcq",
+          "question": "The French Revolution began in:",
+          "options": [
+            "1789",
+            "1492",
+            "1945",
+            "1865"
+          ],
+          "answer": "1789",
+          "explanation": "Late 18th century."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-02-revolutions-lq02",
+          "type": "true_false",
+          "question": "Revolutions often challenged absolute monarchy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Political change."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-02-revolutions-lq03",
+          "type": "fill_blank",
+          "question": "The French revolutionary motto was Liberty, Equality, ___.",
+          "answer": "Fraternity",
+          "explanation": "Revolutionary ideals."
+        },
+        {
+          "id": "g9-soc-unit-01-revolutions-02-revolutions-lq04",
+          "type": "short_answer",
+          "question": "What did many revolutions of this era seek?",
+          "answer": "Greater rights, representation and limits on monarchy.",
+          "explanation": "Revolutions."
+        }
+      ]
+    }
+  ]
+}

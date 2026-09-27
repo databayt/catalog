@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "social-studies",
+    "chapter": "01-future",
+    "lesson": "02-knowledge-economy"
+  },
+  "exams": [
+    {
+      "id": "g12-uae-unit-01-future-02-knowledge-economy-quiz",
+      "title": "Quiz: The Knowledge Economy",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-uae-unit-01-future-02-knowledge-economy-lq01",
+          "type": "mcq",
+          "question": "A knowledge economy is based on:",
+          "options": [
+            "skills and information",
+            "oil only",
+            "farming only",
+            "fishing only"
+          ],
+          "answer": "skills and information",
+          "explanation": "Knowledge economy."
+        },
+        {
+          "id": "g12-uae-unit-01-future-02-knowledge-economy-lq02",
+          "type": "true_false",
+          "question": "Education and research drive a knowledge economy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Human capital."
+        },
+        {
+          "id": "g12-uae-unit-01-future-02-knowledge-economy-lq03",
+          "type": "fill_blank",
+          "question": "An economy built on ideas and skills is a ___ economy.",
+          "answer": "knowledge",
+          "explanation": "Knowledge economy."
+        },
+        {
+          "id": "g12-uae-unit-01-future-02-knowledge-economy-lq04",
+          "type": "short_answer",
+          "question": "How does education support the UAE's future?",
+          "answer": "It builds the skilled workforce a knowledge economy needs.",
+          "explanation": "Education."
+        }
+      ]
+    }
+  ]
+}

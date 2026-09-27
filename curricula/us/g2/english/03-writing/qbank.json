@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "03-writing"
+  },
+  "questions": [
+    {
+      "id": "g2-eng-unit-03-writing-01-paragraphs-lq01",
+      "type": "mcq",
+      "question": "A paragraph starts with a:",
+      "options": [
+        "topic sentence",
+        "question mark",
+        "capital Z",
+        "picture"
+      ],
+      "answer": "topic sentence",
+      "explanation": "States the main idea."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-01-paragraphs-lq02",
+      "type": "true_false",
+      "question": "A paragraph is a group of related sentences.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "About one idea."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-01-paragraphs-lq03",
+      "type": "fill_blank",
+      "question": "Indent or space marks a new ___.",
+      "answer": "paragraph",
+      "explanation": "New paragraph."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-01-paragraphs-lq04",
+      "type": "short_answer",
+      "question": "What does a topic sentence do?",
+      "answer": "Tells what the paragraph is about.",
+      "explanation": "Main idea sentence."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-02-punctuation-lq01",
+      "type": "mcq",
+      "question": "A question ends with a:",
+      "options": [
+        "period",
+        ".",
+        "question mark",
+        "comma"
+      ],
+      "answer": "question mark",
+      "explanation": "'?' ends questions."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-02-punctuation-lq02",
+      "type": "true_false",
+      "question": "Names of people are capitalized.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Proper nouns."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-02-punctuation-lq03",
+      "type": "fill_blank",
+      "question": "An excited sentence can end with an ___ mark.",
+      "answer": "exclamation",
+      "explanation": "'!'."
+    },
+    {
+      "id": "g2-eng-unit-03-writing-02-punctuation-lq04",
+      "type": "short_answer",
+      "question": "When do you use a capital letter?",
+      "answer": "To start a sentence and for names.",
+      "explanation": "Beginnings and proper nouns."
+    }
+  ]
+}

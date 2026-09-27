@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "islamic-studies",
+    "chapter": "01-thought-contemporary",
+    "lesson": "02-contemporary"
+  },
+  "questions": [
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq01",
+      "type": "mcq",
+      "question": "موقف الإسلام من العلم النافع:",
+      "options": [
+        "يحث عليه",
+        "يمنعه",
+        "لا يهتم",
+        "يكرهه"
+      ],
+      "answer": "يحث عليه",
+      "explanation": "طلب العلم."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq02",
+      "type": "true_false",
+      "question": "يدعو الإسلام إلى التعامل الأخلاقي مع التقنية الحديثة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "أخلاقيات."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq03",
+      "type": "fill_blank",
+      "question": "التعايش واحترام تنوع الناس من قيم ___.",
+      "answer": "التسامح",
+      "explanation": "التعايش."
+    },
+    {
+      "id": "g12-isl-unit-01-thought-contemporary-02-contemporary-lq04",
+      "type": "short_answer",
+      "question": "كيف يوجّه الإسلام التعامل مع القضايا المعاصرة؟",
+      "answer": "بالرجوع إلى مقاصد الشريعة وقيمها والاجتهاد المنضبط.",
+      "explanation": "قضايا معاصرة."
+    }
+  ]
+}

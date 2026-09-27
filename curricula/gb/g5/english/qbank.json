@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-01-reading-01-themes-lq01",
+      "type": "mcq",
+      "question": "A theme is a story's:",
+      "options": [
+        "length",
+        "underlying message",
+        "font",
+        "author"
+      ],
+      "answer": "underlying message",
+      "explanation": "Central idea."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-01-themes-lq02",
+      "type": "true_false",
+      "question": "Different books can share a theme.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., friendship."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-01-themes-lq03",
+      "type": "fill_blank",
+      "question": "A recurring idea across a text is a ___.",
+      "answer": "theme",
+      "explanation": "Theme."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-01-themes-lq04",
+      "type": "short_answer",
+      "question": "Name a common story theme.",
+      "answer": "e.g., courage or friendship.",
+      "explanation": "Theme example."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq01",
+      "type": "mcq",
+      "question": "Writers choose words to:",
+      "options": [
+        "fill space",
+        "create effect/mood",
+        "confuse",
+        "rhyme always"
+      ],
+      "answer": "create effect/mood",
+      "explanation": "Deliberate choice."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq02",
+      "type": "true_false",
+      "question": "Powerful verbs can make writing vivid.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Word choice."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq03",
+      "type": "fill_blank",
+      "question": "A comparison using 'like/as' is a ___.",
+      "answer": "simile",
+      "explanation": "Figurative language."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq04",
+      "type": "short_answer",
+      "question": "Why might an author pick 'crept' over 'walked'?",
+      "answer": "To suggest quiet, careful or sneaky movement.",
+      "explanation": "Connotation."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq01",
+      "type": "mcq",
+      "question": "Which links ideas across paragraphs?",
+      "options": [
+        "however",
+        "cat",
+        "green",
+        "run"
+      ],
+      "answer": "however",
+      "explanation": "Adverbial/connective."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq02",
+      "type": "true_false",
+      "question": "Cohesive devices help writing flow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Links ideas."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq03",
+      "type": "fill_blank",
+      "question": "'Meanwhile' shows a link in ___.",
+      "answer": "time",
+      "explanation": "Time connective."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq04",
+      "type": "short_answer",
+      "question": "Give a linking word for contrast.",
+      "answer": "e.g., 'however' or 'although'.",
+      "explanation": "Contrast connective."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq01",
+      "type": "mcq",
+      "question": "A relative clause often starts with:",
+      "options": [
+        "who/which/that",
+        "run",
+        "blue",
+        "loudly"
+      ],
+      "answer": "who/which/that",
+      "explanation": "Relative pronouns."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq02",
+      "type": "true_false",
+      "question": "A main clause can stand alone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Independent."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq03",
+      "type": "fill_blank",
+      "question": "'The dog, which was black, barked.' has a ___ clause.",
+      "answer": "relative",
+      "explanation": "Adds info."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq04",
+      "type": "short_answer",
+      "question": "Add a relative clause to 'The book was long.'",
+      "answer": "e.g., 'The book, which I borrowed, was long.'",
+      "explanation": "Relative clause."
+    }
+  ]
+}

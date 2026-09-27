@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq01",
+          "type": "mcq",
+          "question": "Repetition of initial consonant sounds is:",
+          "options": [
+            "rhyme",
+            "alliteration",
+            "simile",
+            "stanza"
+          ],
+          "answer": "alliteration",
+          "explanation": "e.g., 'wild winds'."
+        },
+        {
+          "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq02",
+          "type": "true_false",
+          "question": "A stanza is a group of lines in a poem.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Poem 'paragraph'."
+        },
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq01",
+          "type": "mcq",
+          "question": "A topic sentence does what at the start of a paragraph?",
+          "options": [
+            "ends it",
+            "states the point",
+            "quotes randomly",
+            "lists names"
+          ],
+          "answer": "states the point",
+          "explanation": "Paragraph point."
+        },
+        {
+          "id": "g9-eng-unit-02-writing-01-essay-lq02",
+          "type": "true_false",
+          "question": "An essay should have a clear introduction and conclusion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structure."
+        }
+      ]
+    }
+  ]
+}

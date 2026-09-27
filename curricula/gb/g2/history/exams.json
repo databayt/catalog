@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g2-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-his-unit-01-great-fire-01-great-fire-lq01",
+          "type": "mcq",
+          "question": "The Great Fire of London started in a:",
+          "options": [
+            "castle",
+            "bakery",
+            "church",
+            "school"
+          ],
+          "answer": "bakery",
+          "explanation": "Pudding Lane bakery."
+        },
+        {
+          "id": "g2-his-unit-01-great-fire-01-great-fire-lq02",
+          "type": "true_false",
+          "question": "The Great Fire of London happened in 1666.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "September 1666."
+        },
+        {
+          "id": "g2-his-unit-02-significant-people-01-monarchs-lq01",
+          "type": "mcq",
+          "question": "A king or queen who rules a country is a:",
+          "options": [
+            "monarch",
+            "mayor",
+            "teacher",
+            "farmer"
+          ],
+          "answer": "monarch",
+          "explanation": "Monarchy."
+        },
+        {
+          "id": "g2-his-unit-02-significant-people-01-monarchs-lq02",
+          "type": "true_false",
+          "question": "A monarch can be a king or a queen.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Royal ruler."
+        }
+      ]
+    }
+  ]
+}

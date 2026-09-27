@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "02-writing"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq01",
+      "type": "mcq",
+      "question": "A topic sentence does what at the start of a paragraph?",
+      "options": [
+        "ends it",
+        "states the point",
+        "quotes randomly",
+        "lists names"
+      ],
+      "answer": "states the point",
+      "explanation": "Paragraph point."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq02",
+      "type": "true_false",
+      "question": "An essay should have a clear introduction and conclusion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Structure."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq03",
+      "type": "fill_blank",
+      "question": "Analysis paragraphs often follow the ___ structure (Point, Evidence, Explanation).",
+      "answer": "PEE",
+      "explanation": "Analytical structure."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq04",
+      "type": "short_answer",
+      "question": "What is the purpose of a conclusion?",
+      "answer": "To sum up the argument and main points.",
+      "explanation": "Conclusion."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq01",
+      "type": "mcq",
+      "question": "A semicolon can join:",
+      "options": [
+        "two related clauses",
+        "a word and a letter",
+        "nothing",
+        "a title"
+      ],
+      "answer": "two related clauses",
+      "explanation": "Links clauses."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq02",
+      "type": "true_false",
+      "question": "A colon can introduce a list or explanation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Colon use."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq03",
+      "type": "fill_blank",
+      "question": "'Although it rained' is a ___ clause.",
+      "answer": "subordinate",
+      "explanation": "Dependent clause."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq04",
+      "type": "short_answer",
+      "question": "When is a semicolon useful?",
+      "answer": "To link two closely related complete sentences.",
+      "explanation": "Semicolon."
+    }
+  ]
+}

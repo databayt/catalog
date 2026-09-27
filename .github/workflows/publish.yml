@@ -1,0 +1,34 @@
+name: publish
+# Text → cdn.databayt.org on every push to main. Additive only: new keys are
+# uploaded; replacing a live key needs a manual run with overwrite=true.
+on:
+  push:
+    branches: [main]
+    paths: ["curricula/**", "schema/json/**"]
+  workflow_dispatch:
+    inputs:
+      overwrite:
+        description: "Also replace live keys that differ (check consumers first)"
+        type: boolean
+        default: false
+
+concurrency: publish
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: ${{ vars.CATALOG_PUBLISH == 'true' }}
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_REGION: us-east-1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm validate
+      - run: pnpm publish:cdn --apply ${{ inputs.overwrite && '--overwrite' || '' }}

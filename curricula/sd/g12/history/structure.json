@@ -1,0 +1,419 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g12-history",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "history",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "التاريخ — الصف الثالث الثانوي — الطبعة المنقحة ٢٠٠٩م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-mahdist-revolution-and-state-in-sudan",
+      "title": {
+        "ar": "الثورة والدولة المهدية في السودان ١٨٨١–١٨٩٩م",
+        "en": "The Mahdist Revolution and State in Sudan, 1881–1899"
+      },
+      "concept": "history",
+      "image": "clickview/high-historical-inquiry-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-review-sudan-under-turco-egyptian-rule-18211885",
+          "title": {
+            "ar": "درس مراجعة: السودان خلال العهد التركي المصري ١٨٢١–١٨٨٥م",
+            "en": "Review: Sudan under Turco-Egyptian Rule, 1821–1885"
+          },
+          "page": 3
+        },
+        {
+          "slug": "02-the-mahdist-revolution-18811885",
+          "title": {
+            "ar": "الثورة المهدية ١٨٨١–١٨٨٥م",
+            "en": "The Mahdist Revolution, 1881–1885"
+          },
+          "page": 6
+        },
+        {
+          "slug": "03-causes-of-the-rise-and-success-of-the-mahdist",
+          "title": {
+            "ar": "أسباب قيام ونجاح الثورة المهدية",
+            "en": "Causes of the Rise and Success of the Mahdist Revolution"
+          },
+          "page": 11
+        },
+        {
+          "slug": "04-events-of-the-revolution-from-aba-to-the",
+          "title": {
+            "ar": "وقائع الثورة المهدية من أبا حتى تحرير الخرطوم ١٨٨١–١٨٨٥م",
+            "en": "Events of the Revolution from Aba to the Liberation of Khartoum, 1881–1885"
+          },
+          "page": 14
+        },
+        {
+          "slug": "05-the-mahdis-liberation-of-el-obeid-1882",
+          "title": {
+            "ar": "تحرير المهدي للأبيض ١٨٨٢م",
+            "en": "The Mahdi's Liberation of El Obeid, 1882"
+          },
+          "page": 19
+        },
+        {
+          "slug": "06-the-hicks-pasha-expedition-november-1883",
+          "title": {
+            "ar": "حملة هكس باشا – نوفمبر ١٨٨٣م",
+            "en": "The Hicks Pasha Expedition, November 1883"
+          },
+          "page": 21
+        },
+        {
+          "slug": "07-the-mahdist-revolution-in-eastern-sudan",
+          "title": {
+            "ar": "الثورة المهدية في شرق السودان",
+            "en": "The Mahdist Revolution in Eastern Sudan"
+          },
+          "page": 26
+        },
+        {
+          "slug": "08-the-liberation-of-khartoum",
+          "title": {
+            "ar": "تحرير الخرطوم",
+            "en": "The Liberation of Khartoum"
+          },
+          "page": 28
+        },
+        {
+          "slug": "09-intellectual-foundations-of-the-mahdist",
+          "title": {
+            "ar": "الأسس والمرتكزات الفكرية للثورة المهدية",
+            "en": "Intellectual Foundations of the Mahdist Revolution"
+          },
+          "page": 33
+        },
+        {
+          "slug": "10-the-era-of-khalifa-abdullahi-18851898",
+          "title": {
+            "ar": "عهد الخليفة عبدالله (١٨٨٥–١٨٩٨م)",
+            "en": "The Era of Khalifa Abdullahi, 1885–1898"
+          },
+          "page": 40
+        },
+        {
+          "slug": "11-foreign-policy-of-the-mahdist-state",
+          "title": {
+            "ar": "سياسة دولة المهدية الخارجية",
+            "en": "Foreign Policy of the Mahdist State"
+          },
+          "page": 40
+        },
+        {
+          "slug": "12-government-and-administration-in-the-mahdist",
+          "title": {
+            "ar": "نظام الحكم والإدارة في الدولة المهدية",
+            "en": "Government and Administration in the Mahdist State"
+          },
+          "page": 49
+        }
+      ]
+    },
+    {
+      "slug": "02-the-condominium-and-the-national-movement-in",
+      "title": {
+        "ar": "الحكم الثنائي والحركة الوطنية في السودان",
+        "en": "The Condominium and the National Movement in Sudan"
+      },
+      "concept": "history",
+      "image": "clickview/high-the-history-of-activism-cover.jpg",
+      "page": 56,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-condominium-agreement",
+          "title": {
+            "ar": "اتفاقية الحكم الثنائي",
+            "en": "The Condominium Agreement"
+          },
+          "page": 58
+        },
+        {
+          "slug": "02-government-and-administration-under-the",
+          "title": {
+            "ar": "نظم الحكم والإدارة في فترة الحكم الثنائي",
+            "en": "Government and Administration under the Condominium"
+          },
+          "page": 61
+        },
+        {
+          "slug": "03-british-policy-in-southern-sudan-18991955",
+          "title": {
+            "ar": "السياسة البريطانية في جنوب السودان ١٨٩٩–١٩٥٥م",
+            "en": "British Policy in Southern Sudan, 1899–1955"
+          },
+          "page": 69
+        },
+        {
+          "slug": "04-development-of-constitutional-institutions",
+          "title": {
+            "ar": "تطور المؤسسات الدستورية في فترة الحكم الثنائي",
+            "en": "Development of Constitutional Institutions under the Condominium"
+          },
+          "page": 74
+        },
+        {
+          "slug": "05-economic-and-social-developments-under-the",
+          "title": {
+            "ar": "التطورات الاقتصادية والاجتماعية في فترة الحكم الثنائي",
+            "en": "Economic and Social Developments under the Condominium"
+          },
+          "page": 78
+        },
+        {
+          "slug": "06-the-sudanese-national-movement-first-phase",
+          "title": {
+            "ar": "الحركة الوطنية السودانية ١٨٩٩–١٩٥٣م: المرحلة الأولى ١٨٩٩–١٩١٧م",
+            "en": "The Sudanese National Movement: First Phase, 1899–1917"
+          },
+          "page": 85
+        },
+        {
+          "slug": "07-the-national-movement-second-phase-19181921",
+          "title": {
+            "ar": "المرحلة الثانية في تاريخ الحركة الوطنية ١٩١٨–١٩٢١م",
+            "en": "The National Movement: Second Phase, 1918–1921"
+          },
+          "page": 90
+        },
+        {
+          "slug": "08-the-national-movement-third-phase-19251937",
+          "title": {
+            "ar": "المرحلة الثالثة في تاريخ الحركة الوطنية ١٩٢٥–١٩٣٧م",
+            "en": "The National Movement: Third Phase, 1925–1937"
+          },
+          "page": 97
+        },
+        {
+          "slug": "09-the-national-movement-fourth-phase-19381945",
+          "title": {
+            "ar": "المرحلة الرابعة في تاريخ الحركة الوطنية ١٩٣٨–١٩٤٥م",
+            "en": "The National Movement: Fourth Phase, 1938–1945"
+          },
+          "page": 100
+        },
+        {
+          "slug": "10-the-national-movement-fifth-phase-19451953",
+          "title": {
+            "ar": "المرحلة الخامسة في تاريخ الحركة الوطنية ١٩٤٥–١٩٥٣م",
+            "en": "The National Movement: Fifth Phase, 1945–1953"
+          },
+          "page": 105
+        }
+      ]
+    },
+    {
+      "slug": "03-the-ottoman-caliphate-and-colonial-ambitions-in",
+      "title": {
+        "ar": "دولة الخلافة العثمانية والأطماع الاستعمارية في العالم العربي",
+        "en": "The Ottoman Caliphate and Colonial Ambitions in the Arab World"
+      },
+      "concept": "history",
+      "image": "clickview/high-conflict-in-the-middle-east-cover.jpg",
+      "page": 113,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-rise-of-the-ottoman-state",
+          "title": {
+            "ar": "نشأة الدولة العثمانية",
+            "en": "The Rise of the Ottoman State"
+          },
+          "page": 115
+        },
+        {
+          "slug": "02-the-ottoman-state-under-mehmed-ii-the-conqueror",
+          "title": {
+            "ar": "الدولة العثمانية في عهد محمد الثاني (الفاتح)",
+            "en": "The Ottoman State under Mehmed II the Conqueror"
+          },
+          "page": 128
+        },
+        {
+          "slug": "03-expansion-into-iran-and-the-arab-lands",
+          "title": {
+            "ar": "التوسع في إيران والبلاد العربية",
+            "en": "Expansion into Iran and the Arab Lands"
+          },
+          "page": 130
+        },
+        {
+          "slug": "04-systems-of-government-in-the-ottoman-state",
+          "title": {
+            "ar": "نظم الحكم في الدولة العثمانية",
+            "en": "Systems of Government in the Ottoman State"
+          },
+          "page": 140
+        },
+        {
+          "slug": "05-decline-and-collapse-of-the-ottoman-caliphate",
+          "title": {
+            "ar": "تدهور دولة الخلافة العثمانية وانهيارها",
+            "en": "Decline and Collapse of the Ottoman Caliphate"
+          },
+          "page": 149
+        },
+        {
+          "slug": "06-abolition-of-the-caliphate-and-the-rise-of",
+          "title": {
+            "ar": "إلغاء الخلافة وظهور دولة تركيا العلمانية",
+            "en": "Abolition of the Caliphate and the Rise of Secular Turkey"
+          },
+          "page": 153
+        },
+        {
+          "slug": "07-reform-movements-in-the-islamic-world",
+          "title": {
+            "ar": "حركات الإصلاح في العالم الإسلامي",
+            "en": "Reform Movements in the Islamic World"
+          },
+          "page": 157
+        }
+      ]
+    },
+    {
+      "slug": "04-arab-liberation-movements",
+      "title": {
+        "ar": "حركات التحرر العربية",
+        "en": "Arab Liberation Movements"
+      },
+      "concept": "history",
+      "image": "clickview/high-israel-palestine-cover.jpg",
+      "page": 184,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-arab-countries-under-european-colonialism",
+          "title": {
+            "ar": "خضوع الأقطار العربية للاستعمار الأوربي ١٩٢٠–١٩٤٥م",
+            "en": "Arab Countries under European Colonialism, 1920–1945"
+          },
+          "page": 187,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "02-general-features-of-the-arab-liberation",
+          "title": {
+            "ar": "السمات العامة لحركات التحرر العربية",
+            "en": "General Features of the Arab Liberation Movements"
+          },
+          "page": 192,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "03-the-egyptian-liberation-movements",
+          "title": {
+            "ar": "حركات التحرر المصرية",
+            "en": "The Egyptian Liberation Movements"
+          },
+          "page": 195,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "04-the-iraqi-liberation-movements",
+          "title": {
+            "ar": "حركات التحرر العراقية",
+            "en": "The Iraqi Liberation Movements"
+          },
+          "page": 200,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "05-political-developments-in-saudi-arabia-and-the",
+          "title": {
+            "ar": "التطورات السياسية في المملكة العربية السعودية والحجاز",
+            "en": "Political Developments in Saudi Arabia and the Hijaz"
+          },
+          "page": 205,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "06-syria-and-lebanon-under-the-french-mandate",
+          "title": {
+            "ar": "سوريا ولبنان تحت الانتداب الفرنسي",
+            "en": "Syria and Lebanon under the French Mandate"
+          },
+          "page": 209,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "07-the-independence-movement-in-the-maghreb",
+          "title": {
+            "ar": "الحركة الاستقلالية في المغرب العربي",
+            "en": "The Independence Movement in the Maghreb"
+          },
+          "page": 216,
+          "image": "clickview/high-conflict-in-the-middle-east-cover.jpg"
+        },
+        {
+          "slug": "08-palestine-through-history",
+          "title": {
+            "ar": "فلسطين عبر التاريخ",
+            "en": "Palestine through History"
+          },
+          "page": 222
+        },
+        {
+          "slug": "09-the-zionist-movement-and-its-development",
+          "title": {
+            "ar": "الحركة الصهيونية وتطورها",
+            "en": "The Zionist Movement and Its Development"
+          },
+          "page": 226
+        },
+        {
+          "slug": "10-the-british-mandate-in-palestine",
+          "title": {
+            "ar": "الانتداب البريطاني على فلسطين",
+            "en": "The British Mandate in Palestine"
+          },
+          "page": 231
+        },
+        {
+          "slug": "11-the-arab-revolt-in-palestine-19361939",
+          "title": {
+            "ar": "ثورة عرب فلسطين (١٩٣٦–١٩٣٩م)",
+            "en": "The Arab Revolt in Palestine, 1936–1939"
+          },
+          "page": 235
+        },
+        {
+          "slug": "12-the-1948-war-and-the-establishment-of-israel",
+          "title": {
+            "ar": "حرب ١٩٤٨ وقيام دولة إسرائيل",
+            "en": "The 1948 War and the Establishment of Israel"
+          },
+          "page": 245
+        }
+      ]
+    }
+  ]
+}

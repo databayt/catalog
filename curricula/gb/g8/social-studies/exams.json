@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-uae-unit-01-uae-world-01-diplomacy-lq01",
+          "type": "mcq",
+          "question": "The UAE is known internationally for tolerance and:",
+          "options": [
+            "humanitarian aid",
+            "isolation",
+            "conflict",
+            "secrecy"
+          ],
+          "answer": "humanitarian aid",
+          "explanation": "Global role."
+        },
+        {
+          "id": "g8-uae-unit-01-uae-world-01-diplomacy-lq02",
+          "type": "true_false",
+          "question": "The UAE hosts people and organisations from around the world.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Global hub."
+        },
+        {
+          "id": "g8-uae-unit-02-decision-01-decisions-lq01",
+          "type": "mcq",
+          "question": "A good decision considers the:",
+          "options": [
+            "consequences",
+            "weather only",
+            "fonts",
+            "colours"
+          ],
+          "answer": "consequences",
+          "explanation": "Decision-making."
+        },
+        {
+          "id": "g8-uae-unit-02-decision-01-decisions-lq02",
+          "type": "true_false",
+          "question": "Thinking before acting leads to better choices.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Reflection."
+        }
+      ]
+    }
+  ]
+}

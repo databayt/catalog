@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "01-matter-systems",
+    "lesson": "01-conservation-matter"
+  },
+  "exams": [
+    {
+      "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-quiz",
+      "title": "Quiz: Conservation of Matter",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq01",
+          "type": "mcq",
+          "question": "When sugar dissolves in water, the matter is:",
+          "options": [
+            "destroyed",
+            "conserved (still there)",
+            "created",
+            "frozen"
+          ],
+          "answer": "conserved (still there)",
+          "explanation": "Mass is conserved."
+        },
+        {
+          "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq02",
+          "type": "true_false",
+          "question": "Mixing substances can change properties but not total mass.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation of mass."
+        },
+        {
+          "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq03",
+          "type": "fill_blank",
+          "question": "Total mass before and after a change stays the ___.",
+          "answer": "same",
+          "explanation": "Conserved."
+        },
+        {
+          "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq04",
+          "type": "short_answer",
+          "question": "How could you show dissolved sugar is still present?",
+          "answer": "Taste or evaporate the water to recover it.",
+          "explanation": "Evidence of conservation."
+        }
+      ]
+    }
+  ]
+}

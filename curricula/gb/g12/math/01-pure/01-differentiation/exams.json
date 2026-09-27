@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "math",
+    "chapter": "01-pure",
+    "lesson": "01-differentiation"
+  },
+  "exams": [
+    {
+      "id": "g12-mat-unit-01-pure-01-differentiation-quiz",
+      "title": "Quiz: Differentiation",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq01",
+          "type": "mcq",
+          "question": "The derivative of x³ is:",
+          "options": [
+            "3x²",
+            "x²",
+            "3x",
+            "x⁴/4"
+          ],
+          "answer": "3x²",
+          "explanation": "Power rule."
+        },
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq02",
+          "type": "true_false",
+          "question": "Differentiation finds the gradient function of a curve.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rate of change."
+        },
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq03",
+          "type": "fill_blank",
+          "question": "The derivative of x² is ___.",
+          "answer": "2x",
+          "explanation": "Power rule."
+        },
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq04",
+          "type": "short_answer",
+          "question": "What does dy/dx represent?",
+          "answer": "The instantaneous rate of change (gradient) of y with respect to x.",
+          "explanation": "Derivative."
+        }
+      ]
+    }
+  ]
+}

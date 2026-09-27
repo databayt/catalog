@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "physics",
+    "chapter": "01-mechanics",
+    "lesson": "01-kinematics"
+  },
+  "questions": [
+    {
+      "id": "g12-phy-unit-01-mechanics-01-kinematics-lq01",
+      "type": "mcq",
+      "question": "The area under a velocity-time graph gives:",
+      "options": [
+        "acceleration",
+        "displacement",
+        "force",
+        "mass"
+      ],
+      "answer": "displacement",
+      "explanation": "Area = displacement."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-01-kinematics-lq02",
+      "type": "true_false",
+      "question": "Newton's second law can be written F = rate of change of momentum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "F = dp/dt."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-01-kinematics-lq03",
+      "type": "fill_blank",
+      "question": "Acceleration is the rate of change of ___.",
+      "answer": "velocity",
+      "explanation": "a = dv/dt."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-01-kinematics-lq04",
+      "type": "short_answer",
+      "question": "Why resolve forces into components?",
+      "answer": "To analyse motion along perpendicular directions independently.",
+      "explanation": "Resolving forces."
+    }
+  ]
+}

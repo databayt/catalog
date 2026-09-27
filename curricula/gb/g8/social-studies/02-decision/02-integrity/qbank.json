@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "social-studies",
+    "chapter": "02-decision",
+    "lesson": "02-integrity"
+  },
+  "questions": [
+    {
+      "id": "g8-uae-unit-02-decision-02-integrity-lq01",
+      "type": "mcq",
+      "question": "Integrity means doing the right thing even when:",
+      "options": [
+        "no one is watching",
+        "rewarded only",
+        "forced",
+        "easy only"
+      ],
+      "answer": "no one is watching",
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-uae-unit-02-decision-02-integrity-lq02",
+      "type": "true_false",
+      "question": "Integrity means your actions match your values.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-uae-unit-02-decision-02-integrity-lq03",
+      "type": "fill_blank",
+      "question": "Being honest and principled is having ___.",
+      "answer": "integrity",
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-uae-unit-02-decision-02-integrity-lq04",
+      "type": "short_answer",
+      "question": "Why is integrity important?",
+      "answer": "It builds trust and reflects strong character.",
+      "explanation": "Integrity."
+    }
+  ]
+}

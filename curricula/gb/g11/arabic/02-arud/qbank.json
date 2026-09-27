@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "arabic",
+    "chapter": "02-arud"
+  },
+  "questions": [
+    {
+      "id": "g11-ara-unit-02-arud-01-arud-lq01",
+      "type": "mcq",
+      "question": "علم العروض يبحث في:",
+      "options": [
+        "وزن الشعر",
+        "معاني الكلمات",
+        "الإملاء",
+        "النحو فقط"
+      ],
+      "answer": "وزن الشعر",
+      "explanation": "العروض."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-01-arud-lq02",
+      "type": "true_false",
+      "question": "للشعر العربي بحور لها أوزان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "البحور."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-01-arud-lq03",
+      "type": "fill_blank",
+      "question": "علم يُعرف به صحيح أوزان الشعر هو ___.",
+      "answer": "العروض",
+      "explanation": "العروض."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-01-arud-lq04",
+      "type": "short_answer",
+      "question": "ما فائدة علم العروض؟",
+      "answer": "ضبط أوزان الشعر وتمييز صحيحها من مكسورها.",
+      "explanation": "العروض."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq01",
+      "type": "mcq",
+      "question": "القافية تتكرر في:",
+      "options": [
+        "نهاية الأبيات",
+        "بدايتها فقط",
+        "وسطها",
+        "العنوان"
+      ],
+      "answer": "نهاية الأبيات",
+      "explanation": "القافية."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq02",
+      "type": "true_false",
+      "question": "الحرف الذي تُبنى عليه القصيدة يسمى الرويّ.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الرويّ."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq03",
+      "type": "fill_blank",
+      "question": "تكرار حرف معين في أواخر الأبيات يكوّن ___.",
+      "answer": "القافية",
+      "explanation": "القافية."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq04",
+      "type": "short_answer",
+      "question": "ما القافية؟",
+      "answer": "الأصوات المتكررة في أواخر أبيات القصيدة.",
+      "explanation": "القافية."
+    }
+  ]
+}

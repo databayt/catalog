@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "02-addition",
+    "lesson": "01-add"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq01",
+      "type": "mcq",
+      "question": "7 + 6 = ?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "11"
+      ],
+      "answer": "13",
+      "explanation": "7 + 6 = 13."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq02",
+      "type": "true_false",
+      "question": "Adding 0 to a number leaves it unchanged.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "n + 0 = n."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq03",
+      "type": "fill_blank",
+      "question": "9 + ___ = 14.",
+      "answer": "5",
+      "explanation": "14 - 9 = 5."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq04",
+      "type": "short_answer",
+      "question": "Find 8 + 8.",
+      "answer": "16",
+      "explanation": "Doubles fact."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g6-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq01",
+          "type": "mcq",
+          "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+          "options": [
+            "equator",
+            "prime meridian",
+            "tropic",
+            "border"
+          ],
+          "answer": "equator",
+          "explanation": "0° latitude."
+        },
+        {
+          "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq02",
+          "type": "true_false",
+          "question": "Latitude affects a place's climate.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Climate factor."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq01",
+          "type": "mcq",
+          "question": "Ancient Egypt developed along the river:",
+          "options": [
+            "Nile",
+            "Amazon",
+            "Hudson",
+            "Thames"
+          ],
+          "answer": "Nile",
+          "explanation": "River civilization."
+        },
+        {
+          "id": "g6-soc-unit-02-ancient-civilizations-01-river-civilizations-lq02",
+          "type": "true_false",
+          "question": "Early civilizations often began near rivers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Water for farming."
+        }
+      ]
+    }
+  ]
+}

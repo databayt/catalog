@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "physical-education",
+    "chapter": "02-health",
+    "lesson": "02-gymnastics"
+  },
+  "exams": [
+    {
+      "id": "g1-phy-unit-02-health-02-gymnastics-quiz",
+      "title": "Quiz: Balance & Coordination",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-phy-unit-02-health-02-gymnastics-lq01",
+          "type": "mcq",
+          "question": "Standing on one foot tests your:",
+          "options": [
+            "balance",
+            "hearing",
+            "reading",
+            "singing"
+          ],
+          "answer": "balance",
+          "explanation": "Balance."
+        },
+        {
+          "id": "g1-phy-unit-02-health-02-gymnastics-lq02",
+          "type": "true_false",
+          "question": "Coordination means moving body parts smoothly together.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Coordination."
+        },
+        {
+          "id": "g1-phy-unit-02-health-02-gymnastics-lq03",
+          "type": "fill_blank",
+          "question": "Holding a steady position uses your ___.",
+          "answer": "balance",
+          "explanation": "Balance."
+        },
+        {
+          "id": "g1-phy-unit-02-health-02-gymnastics-lq04",
+          "type": "short_answer",
+          "question": "Name an activity that improves balance.",
+          "answer": "e.g., gymnastics, beam walking, or yoga poses.",
+          "explanation": "Balance."
+        }
+      ]
+    }
+  ]
+}

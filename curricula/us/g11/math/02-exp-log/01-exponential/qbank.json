@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "math",
+    "chapter": "02-exp-log",
+    "lesson": "01-exponential"
+  },
+  "questions": [
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq01",
+      "type": "mcq",
+      "question": "y = 2^x represents exponential:",
+      "options": [
+        "decay",
+        "growth",
+        "linear change",
+        "no change"
+      ],
+      "answer": "growth",
+      "explanation": "Base > 1."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq02",
+      "type": "true_false",
+      "question": "Exponential growth increases faster over time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Accelerating."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq03",
+      "type": "fill_blank",
+      "question": "2^0 = ___.",
+      "answer": "1",
+      "explanation": "Anything to power 0."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq04",
+      "type": "short_answer",
+      "question": "Give a real example of exponential growth.",
+      "answer": "e.g., compound interest or population growth.",
+      "explanation": "Application."
+    }
+  ]
+}

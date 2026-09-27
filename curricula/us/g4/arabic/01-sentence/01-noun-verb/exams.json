@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "arabic",
+    "chapter": "01-sentence",
+    "lesson": "01-noun-verb"
+  },
+  "exams": [
+    {
+      "id": "g4-ara-unit-01-sentence-01-noun-verb-quiz",
+      "title": "Quiz: الاسم والفعل والحرف",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq01",
+          "type": "mcq",
+          "question": "كلمة (يكتب) هي:",
+          "options": [
+            "اسم",
+            "فعل",
+            "حرف",
+            "عدد"
+          ],
+          "answer": "فعل",
+          "explanation": "تدل على حدث."
+        },
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq02",
+          "type": "true_false",
+          "question": "كلمة (كتاب) اسم.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاسم يدل على شيء."
+        },
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq03",
+          "type": "fill_blank",
+          "question": "(في) و(من) و(إلى) أنواعها ___.",
+          "answer": "حروف",
+          "explanation": "حروف الجر."
+        },
+        {
+          "id": "g4-ara-unit-01-sentence-01-noun-verb-lq04",
+          "type": "short_answer",
+          "question": "اذكر اسماً وفعلاً.",
+          "answer": "مثل: اسم (بيت)، فعل (يلعب).",
+          "explanation": "أقسام الكلمة."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "social-studies",
+    "chapter": "01-myself-family"
+  },
+  "questions": [
+    {
+      "id": "g1-uae-unit-01-myself-family-01-my-family-lq01",
+      "type": "mcq",
+      "question": "Who is part of a family?",
+      "options": [
+        "parents and children",
+        "cars",
+        "trees",
+        "phones"
+      ],
+      "answer": "parents and children",
+      "explanation": "Family members."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-01-my-family-lq02",
+      "type": "true_false",
+      "question": "Families care for and help each other.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Caring."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-01-my-family-lq03",
+      "type": "fill_blank",
+      "question": "People who look after you at home are your ___.",
+      "answer": "family",
+      "explanation": "Family."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-01-my-family-lq04",
+      "type": "short_answer",
+      "question": "Name one way your family helps you.",
+      "answer": "e.g., feeds, protects and teaches me.",
+      "explanation": "Family roles."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq01",
+      "type": "mcq",
+      "question": "Being kind means we treat others with:",
+      "options": [
+        "respect",
+        "rudeness",
+        "anger",
+        "fear"
+      ],
+      "answer": "respect",
+      "explanation": "Kindness/respect."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq02",
+      "type": "true_false",
+      "question": "Saying 'please' and 'thank you' shows good manners.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Politeness."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq03",
+      "type": "fill_blank",
+      "question": "Treating others as we wish to be treated is being ___.",
+      "answer": "kind",
+      "explanation": "Kindness."
+    },
+    {
+      "id": "g1-uae-unit-01-myself-family-02-being-kind-lq04",
+      "type": "short_answer",
+      "question": "Give one example of being kind at school.",
+      "answer": "e.g., sharing, helping a friend, or listening.",
+      "explanation": "Kindness."
+    }
+  ]
+}

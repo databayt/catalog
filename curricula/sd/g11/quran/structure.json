@@ -1,0 +1,310 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-quran",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "quran",
+  "title": {
+    "ar": "القرآن الكريم وعلومه",
+    "en": "Quran & Quran Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "faith",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "القرآن الكريم وعلومه — الصف الثاني الثانوي — الطبعة الثانية المنقحة ٢٠١٠م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-tajweed",
+      "title": {
+        "ar": "التجويد",
+        "en": "Tajweed"
+      },
+      "concept": "faith",
+      "image": "clickview/high-sound-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-concealment-ikhfa",
+          "title": {
+            "ar": "الإخفاء",
+            "en": "Concealment (Ikhfa)"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-conversion-iqlab",
+          "title": {
+            "ar": "الإقلاب",
+            "en": "Conversion (Iqlab)"
+          },
+          "page": 5
+        },
+        {
+          "slug": "03-attributes-of-the-letters",
+          "title": {
+            "ar": "الصفات",
+            "en": "Attributes of the Letters"
+          },
+          "page": 7
+        }
+      ]
+    },
+    {
+      "slug": "02-surat-al-anfal",
+      "title": {
+        "ar": "سورة الأنفال",
+        "en": "Surat al-Anfal"
+      },
+      "concept": "faith",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 14,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-ruling-on-spoils",
+          "title": {
+            "ar": "حكم الغنائم",
+            "en": "The Ruling on Spoils"
+          },
+          "page": 17
+        },
+        {
+          "slug": "02-what-befell-the-prophet-on-the-way-to-badr",
+          "title": {
+            "ar": "ما حصل للنبي ﷺ حين خروجه إلى بدر",
+            "en": "What Befell the Prophet on the Way to Badr"
+          },
+          "page": 22
+        },
+        {
+          "slug": "03-the-prophets-plea-to-his-lord",
+          "title": {
+            "ar": "استغاثة الرسول ﷺ لربه",
+            "en": "The Prophet's Plea to His Lord"
+          },
+          "page": 28
+        },
+        {
+          "slug": "04-directions-for-battle",
+          "title": {
+            "ar": "توجيهات حربية",
+            "en": "Directions for Battle"
+          },
+          "page": 32
+        },
+        {
+          "slug": "05-answering-god-and-not-betraying-him",
+          "title": {
+            "ar": "الاستجابة لله وعدم خيانته",
+            "en": "Answering God and Not Betraying Him"
+          },
+          "page": 39
+        },
+        {
+          "slug": "06-the-unbelievers-plot-against-the-prophet",
+          "title": {
+            "ar": "تآمر الكفار بالرسول ﷺ",
+            "en": "The Unbelievers' Plot against the Prophet"
+          },
+          "page": 46
+        },
+        {
+          "slug": "07-the-unbelievers-pact-and-obstruction-of-gods",
+          "title": {
+            "ar": "اتفاق الكفار والصد عن سبيل الله تعالى",
+            "en": "The Unbelievers' Pact and Obstruction of God's Path"
+          },
+          "page": 52
+        },
+        {
+          "slug": "08-how-spoils-are-divided",
+          "title": {
+            "ar": "كيفية تقسيم الغنائم",
+            "en": "How Spoils Are Divided"
+          },
+          "page": 57
+        },
+        {
+          "slug": "09-factors-of-victory",
+          "title": {
+            "ar": "عوامل النصر",
+            "en": "Factors of Victory"
+          },
+          "page": 63
+        },
+        {
+          "slug": "10-deliverance-from-satan-and-the-end-of-unbelief",
+          "title": {
+            "ar": "الخلاص من الشيطان وعاقبة الكفر",
+            "en": "Deliverance from Satan and the End of Unbelief"
+          },
+          "page": 66
+        },
+        {
+          "slug": "11-breakers-of-covenants-and-how-to-deal-with-them",
+          "title": {
+            "ar": "ناقضوا العهد وكيفية معاملتهم",
+            "en": "Breakers of Covenants and How to Deal with Them"
+          },
+          "page": 72
+        },
+        {
+          "slug": "12-military-readiness-with-an-inclination-to-peace",
+          "title": {
+            "ar": "الإعداد الحربي مع الميل إلى السلام",
+            "en": "Military Readiness with an Inclination to Peace"
+          },
+          "page": 76
+        },
+        {
+          "slug": "13-the-quran-confirms-umars-view",
+          "title": {
+            "ar": "القرآن ينزل موافقاً لرأي عمر",
+            "en": "The Quran Confirms Umar's View"
+          },
+          "page": 83
+        },
+        {
+          "slug": "14-the-bond-of-islam",
+          "title": {
+            "ar": "رابطة الإسلام",
+            "en": "The Bond of Islam"
+          },
+          "page": 88
+        }
+      ]
+    },
+    {
+      "slug": "03-selected-verses",
+      "title": {
+        "ar": "الآيات المختارة",
+        "en": "Selected Verses"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 93,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-mans-stewardship-of-the-earth",
+          "title": {
+            "ar": "استخلاف الإنسان في الأرض",
+            "en": "Man's Stewardship of the Earth"
+          },
+          "page": 94,
+          "image": "clickview/high-ecosystem-energy-and-health-cover.jpg"
+        },
+        {
+          "slug": "02-the-call-to-honesty-and-spending-for-gods-sake",
+          "title": {
+            "ar": "الدعوة للصدق والإنفاق لوجه الله",
+            "en": "The Call to Honesty and Spending for God's Sake"
+          },
+          "page": 103,
+          "image": "clickview/high-corporate-social-responsibility-cover.jpg"
+        },
+        {
+          "slug": "03-peoples-love-of-worldly-desires",
+          "title": {
+            "ar": "حب الناس للشهوات في الدنيا",
+            "en": "People's Love of Worldly Desires"
+          },
+          "page": 109
+        },
+        {
+          "slug": "04-episodes-from-the-battle-of-uhud",
+          "title": {
+            "ar": "مواقف في غزوة أحد",
+            "en": "Episodes from the Battle of Uhud"
+          },
+          "page": 119
+        },
+        {
+          "slug": "05-kindness-to-parents-and-neighbours",
+          "title": {
+            "ar": "الإحسان إلى الوالدين والجار",
+            "en": "Kindness to Parents and Neighbours"
+          },
+          "page": 125
+        },
+        {
+          "slug": "06-the-story-of-the-owner-of-the-two-gardens",
+          "title": {
+            "ar": "قصة صاحب الجنتين",
+            "en": "The Story of the Owner of the Two Gardens"
+          },
+          "page": 136
+        },
+        {
+          "slug": "07-gods-knowledge-and-power-and-the-call-to-piety",
+          "title": {
+            "ar": "بيان علم الله وقدرته ودعوة الناس للتقوى",
+            "en": "God's Knowledge and Power and the Call to Piety"
+          },
+          "page": 145
+        },
+        {
+          "slug": "08-gods-favour-upon-people",
+          "title": {
+            "ar": "بيان فضل الله تعالى على الناس",
+            "en": "God's Favour upon People"
+          },
+          "page": 156
+        }
+      ]
+    },
+    {
+      "slug": "04-story-time-and-work-in-the-quran",
+      "title": {
+        "ar": "القصة والوقت والعمل في القرآن الكريم",
+        "en": "Story, Time and Work in the Quran"
+      },
+      "concept": "faith",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "page": 162,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-story-in-the-quran",
+          "title": {
+            "ar": "القصة في القرآن الكريم",
+            "en": "Story in the Quran"
+          },
+          "page": 162
+        },
+        {
+          "slug": "02-time-in-the-quran",
+          "title": {
+            "ar": "الوقت في القرآن الكريم",
+            "en": "Time in the Quran"
+          },
+          "page": 168
+        },
+        {
+          "slug": "03-work-in-the-quran",
+          "title": {
+            "ar": "العمل في القرآن الكريم",
+            "en": "Work in the Quran"
+          },
+          "page": 175
+        }
+      ]
+    }
+  ]
+}

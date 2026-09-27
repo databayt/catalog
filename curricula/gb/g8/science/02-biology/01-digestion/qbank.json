@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "02-biology",
+    "lesson": "01-digestion"
+  },
+  "questions": [
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq01",
+      "type": "mcq",
+      "question": "Which nutrient is the body's main energy source?",
+      "options": [
+        "protein",
+        "carbohydrate",
+        "vitamin",
+        "water"
+      ],
+      "answer": "carbohydrate",
+      "explanation": "Energy nutrient."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq02",
+      "type": "true_false",
+      "question": "Enzymes help break down food.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Biological catalysts."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq03",
+      "type": "fill_blank",
+      "question": "A balanced diet includes carbohydrates, proteins, fats, vitamins, minerals, fibre and ___.",
+      "answer": "water",
+      "explanation": "Diet components."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq04",
+      "type": "short_answer",
+      "question": "Why does the body need protein?",
+      "answer": "For growth and repair of tissues.",
+      "explanation": "Protein function."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "science"
+  },
+  "questions": [
+    {
+      "id": "g8-sci-unit-01-physics-01-forces-lq01",
+      "type": "mcq",
+      "question": "Force is measured in:",
+      "options": [
+        "metres",
+        "newtons",
+        "litres",
+        "grams"
+      ],
+      "answer": "newtons",
+      "explanation": "Unit of force (N)."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-01-forces-lq02",
+      "type": "true_false",
+      "question": "Friction opposes motion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Resistive force."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-01-forces-lq03",
+      "type": "fill_blank",
+      "question": "A force has size and ___.",
+      "answer": "direction",
+      "explanation": "Vector quantity."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-01-forces-lq04",
+      "type": "short_answer",
+      "question": "Give an example of a contact and a non-contact force.",
+      "answer": "Contact: friction; non-contact: gravity/magnetism.",
+      "explanation": "Force types."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq01",
+      "type": "mcq",
+      "question": "Energy stored in food and fuels is:",
+      "options": [
+        "kinetic",
+        "chemical",
+        "light",
+        "sound"
+      ],
+      "answer": "chemical",
+      "explanation": "Chemical store."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq02",
+      "type": "true_false",
+      "question": "Energy can be created and destroyed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "It is conserved/transferred."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq03",
+      "type": "fill_blank",
+      "question": "Energy is measured in ___.",
+      "answer": "joules",
+      "explanation": "Unit J."
+    },
+    {
+      "id": "g8-sci-unit-01-physics-02-energy-lq04",
+      "type": "short_answer",
+      "question": "Describe the energy transfer in a torch.",
+      "answer": "Chemical (battery) → electrical → light (and heat).",
+      "explanation": "Energy transfer."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq01",
+      "type": "mcq",
+      "question": "Which nutrient is the body's main energy source?",
+      "options": [
+        "protein",
+        "carbohydrate",
+        "vitamin",
+        "water"
+      ],
+      "answer": "carbohydrate",
+      "explanation": "Energy nutrient."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq02",
+      "type": "true_false",
+      "question": "Enzymes help break down food.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Biological catalysts."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq03",
+      "type": "fill_blank",
+      "question": "A balanced diet includes carbohydrates, proteins, fats, vitamins, minerals, fibre and ___.",
+      "answer": "water",
+      "explanation": "Diet components."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-01-digestion-lq04",
+      "type": "short_answer",
+      "question": "Why does the body need protein?",
+      "answer": "For growth and repair of tissues.",
+      "explanation": "Protein function."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-02-respiration-lq01",
+      "type": "mcq",
+      "question": "Aerobic respiration uses glucose and:",
+      "options": [
+        "nitrogen",
+        "oxygen",
+        "carbon",
+        "helium"
+      ],
+      "answer": "oxygen",
+      "explanation": "Releases energy."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-02-respiration-lq02",
+      "type": "true_false",
+      "question": "Respiration releases energy from glucose.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Energy for cells."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-02-respiration-lq03",
+      "type": "fill_blank",
+      "question": "A product of aerobic respiration is carbon dioxide and ___.",
+      "answer": "water",
+      "explanation": "Respiration products."
+    },
+    {
+      "id": "g8-sci-unit-02-biology-02-respiration-lq04",
+      "type": "short_answer",
+      "question": "How is respiration different from breathing?",
+      "answer": "Respiration is a chemical reaction in cells; breathing moves air in and out.",
+      "explanation": "Respiration vs breathing."
+    }
+  ]
+}

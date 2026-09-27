@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english-literature"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-english-literature-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-eng-unit-01-shakespeare-01-context-lq01",
+          "type": "mcq",
+          "question": "Understanding the era a play was written in is its:",
+          "options": [
+            "context",
+            "index",
+            "font",
+            "cover"
+          ],
+          "answer": "context",
+          "explanation": "Historical context."
+        },
+        {
+          "id": "g10-eng-unit-01-shakespeare-01-context-lq02",
+          "type": "true_false",
+          "question": "Analysing themes means tracing big ideas across the play.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Themes."
+        },
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq01",
+          "type": "mcq",
+          "question": "A gloomy setting can create a sense of:",
+          "options": [
+            "joy",
+            "foreboding",
+            "comedy",
+            "boredom"
+          ],
+          "answer": "foreboding",
+          "explanation": "Atmosphere."
+        },
+        {
+          "id": "g10-eng-unit-02-novel-01-setting-lq02",
+          "type": "true_false",
+          "question": "Setting can reflect a character's mood (pathetic fallacy).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pathetic fallacy."
+        }
+      ]
+    }
+  ]
+}

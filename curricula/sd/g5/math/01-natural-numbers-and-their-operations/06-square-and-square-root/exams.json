@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "01-natural-numbers-and-their-operations",
+    "lesson": "06-square-and-square-root"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-01-06-square-and-square-root-lquiz",
+      "title": "اختبار - مربع العدد والجذر التربيعي",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-mat-unit-01-06-square-and-square-root-lq01",
+          "type": "mcq",
+          "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 1؟",
+          "options": [
+            "قراءة المسألة وفهمها",
+            "البدء بالحساب مباشرة",
+            "كتابة الإجابة",
+            "نسخ المسألة"
+          ],
+          "answer": "قراءة المسألة وفهمها",
+          "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+        },
+        {
+          "id": "g5-mat-unit-01-06-square-and-square-root-lq02",
+          "type": "true_false",
+          "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+        },
+        {
+          "id": "g5-mat-unit-01-06-square-and-square-root-lq03",
+          "type": "fill_blank",
+          "question": "ناتج 7 + 8 + 5 = ___.",
+          "answer": "20",
+          "explanation": "7 + 8 + 5 = 20."
+        },
+        {
+          "id": "g5-mat-unit-01-06-square-and-square-root-lq04",
+          "type": "short_answer",
+          "question": "كيف تحل المسائل الحياتية في الوحدة 1؟",
+          "answer": "نقرأ المسألة ونحدد المعطيات والمطلوب ثم نختار العملية المناسبة.",
+          "explanation": "حل المسائل الحياتية له خطوات منهجية."
+        }
+      ]
+    }
+  ]
+}

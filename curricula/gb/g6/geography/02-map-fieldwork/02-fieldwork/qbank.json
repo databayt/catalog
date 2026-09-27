@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "02-map-fieldwork",
+    "lesson": "02-fieldwork"
+  },
+  "questions": [
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq01",
+      "type": "mcq",
+      "question": "Collecting data outdoors about a place is called:",
+      "options": [
+        "fieldwork",
+        "homework",
+        "artwork",
+        "guesswork"
+      ],
+      "answer": "fieldwork",
+      "explanation": "Field enquiry."
+    },
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq02",
+      "type": "true_false",
+      "question": "A survey or tally can be used to collect fieldwork data.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Data collection."
+    },
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq03",
+      "type": "fill_blank",
+      "question": "Information collected first-hand outdoors is ___ data.",
+      "answer": "primary",
+      "explanation": "Primary data."
+    },
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq04",
+      "type": "short_answer",
+      "question": "Name one method of geographical fieldwork.",
+      "answer": "e.g., a traffic count, survey, or measuring a river.",
+      "explanation": "Fieldwork methods."
+    }
+  ]
+}

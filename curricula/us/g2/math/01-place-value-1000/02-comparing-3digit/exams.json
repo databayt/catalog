@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "01-place-value-1000",
+    "lesson": "02-comparing-3digit"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-01-place-value-1000-02-comparing-3digit-quiz",
+      "title": "Quiz: Comparing 3-Digit Numbers",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mat-unit-01-place-value-1000-02-comparing-3digit-lq01",
+          "type": "mcq",
+          "question": "Which makes 432 ___ 423 true?",
+          "options": [
+            ">",
+            "<",
+            "=",
+            "x"
+          ],
+          "answer": ">",
+          "explanation": "432 is greater (3 tens > 2 tens)."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-1000-02-comparing-3digit-lq02",
+          "type": "true_false",
+          "question": "607 < 670.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Compare tens: 0 < 7."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-1000-02-comparing-3digit-lq03",
+          "type": "fill_blank",
+          "question": "Order least to greatest: 305, 350, 300 → 300, ___, 350.",
+          "answer": "305",
+          "explanation": "305 is between 300 and 350."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-1000-02-comparing-3digit-lq04",
+          "type": "short_answer",
+          "question": "How do you compare two 3-digit numbers?",
+          "answer": "Compare hundreds first, then tens, then ones.",
+          "explanation": "Left to right by place value."
+        }
+      ]
+    }
+  ]
+}

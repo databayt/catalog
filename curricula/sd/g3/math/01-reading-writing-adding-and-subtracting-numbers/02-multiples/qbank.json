@@ -1,0 +1,25 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "01-reading-writing-adding-and-subtracting-numbers",
+    "lesson": "02-multiples"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u01-q003",
+      "type": "fill_blank",
+      "question": "أكمل: أصغر عامل مشترك لـ ٦ و ٩ هو ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+    },
+    {
+      "id": "g3-ma-u01-q004",
+      "type": "short_answer",
+      "question": "حل: اشرح كيف تضرب عددين",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+    }
+  ]
+}

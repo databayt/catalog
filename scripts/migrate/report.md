@@ -1,0 +1,1177 @@
+# Migration report
+
+From `/Users/abdout/hogwarts/curriculum` → `curricula/`.
+
+| | count |
+|---|---:|
+| subjects | 471 |
+| chapters | 1624 |
+| lessons | 5592 |
+| questions (in qbank.json) | 30954 |
+| exams | 3747 |
+| textbook.md twins | 44 |
+| pages-md files | 1093 |
+| binaries | 5462 |
+| scratch dirs → .work/ | 41 |
+| subject renames | 249 |
+| chapter renames | 1029 |
+| lesson renames | 98 |
+| placeholder questions dropped ("Question N about …") | 3194 |
+| questions dropped (no question or answer) | 12 |
+| topic fallbacks (Arabic-only title, no English topic) | 0 |
+| errors | 0 |
+
+## Errors
+
+## Archived (left in the legacy tree, not migrated)
+- sd/g3/english/_old
+- sd/g3/science/_old
+- sd/g4/math/_old
+- sd/g6/english/pages (not N.webp renders)
+- sd/g6/english/toc_pages
+- sd/g6/geography/pages (not N.webp renders)
+- sd/g6/geography/toc_pages
+- sd/g6/history/toc_pages
+- sd/g6/ict/pages (not N.webp renders)
+- sd/g6/ict/toc_pages
+- sd/g6/islamic/toc_pages
+- sd/g7/arabic/unit-01_exams.json
+- sd/g7/arabic/unit-01_qbank.json
+- sd/g7/arabic/unit-02_exams.json
+- sd/g7/arabic/unit-02_qbank.json
+- sd/g7/arabic/unit-03_exams.json
+- sd/g7/arabic/unit-03_qbank.json
+- sd/g7/arabic/unit-04_exams.json
+- sd/g7/arabic/unit-04_qbank.json
+- sd/g7/arabic/unit-05_exams.json
+- sd/g7/arabic/unit-05_qbank.json
+- sd/g7/arabic/unit-06_exams.json
+- sd/g7/arabic/unit-06_qbank.json
+- sd/g7/arabic/unit-07_exams.json
+- sd/g7/arabic/unit-07_qbank.json
+- sd/g7/arabic/unit-08_exams.json
+- sd/g7/arabic/unit-08_qbank.json
+- sd/g7/arabic/unit-09_exams.json
+- sd/g7/arabic/unit-09_qbank.json
+- sd/g7/arabic/unit-10_exams.json
+- sd/g7/arabic/unit-10_qbank.json
+- sd/g7/arabic/unit-11_exams.json
+- sd/g7/arabic/unit-11_qbank.json
+- sd/g7/arabic/unit-12_exams.json
+- sd/g7/arabic/unit-12_qbank.json
+- sd/g7/arabic/unit-13_exams.json
+- sd/g7/arabic/unit-13_qbank.json
+- sd/g7/arabic/unit-14_exams.json
+- sd/g7/arabic/unit-14_qbank.json
+- sd/g7/arabic/unit-15_exams.json
+- sd/g7/arabic/unit-15_qbank.json
+- sd/g7/art/unit-1-drawing-coloring_exams.json
+- sd/g7/art/unit-1-drawing-coloring_qbank.json
+- sd/g7/art/unit-2-design-decoration_exams.json
+- sd/g7/art/unit-2-design-decoration_qbank.json
+- sd/g7/art/unit-3-mixed-materials_exams.json
+- sd/g7/art/unit-3-mixed-materials_qbank.json
+- sd/g7/art/unit-4-art-appreciation_exams.json
+- sd/g7/art/unit-4-art-appreciation_qbank.json
+- sd/g7/art/unit-5-arabic-calligraphy_exams.json
+- sd/g7/art/unit-5-arabic-calligraphy_qbank.json
+- sd/g7/english/unit-01_01-you-and-me_exams.json
+- sd/g7/english/unit-01_01-you-and-me_qbank.json
+- sd/g7/english/unit-01_02-my-family_exams.json
+- sd/g7/english/unit-01_02-my-family_qbank.json
+- sd/g7/english/unit-01_03-free-time_exams.json
+- sd/g7/english/unit-01_03-free-time_qbank.json
+- sd/g7/english/unit-01_04-healthy-and-happy_exams.json
+- sd/g7/english/unit-01_04-healthy-and-happy_qbank.json
+- sd/g7/english/unit-01_05-time_exams.json
+- sd/g7/english/unit-01_05-time_qbank.json
+- sd/g7/english/unit-01_06-a-helping-hand_exams.json
+- sd/g7/english/unit-01_06-a-helping-hand_qbank.json
+- sd/g7/english/unit-01_07-the-scorpion-and-the-frog_exams.json
+- sd/g7/english/unit-01_07-the-scorpion-and-the-frog_qbank.json
+- sd/g7/english/unit-01_08-revision-new-friends_exams.json
+- sd/g7/english/unit-01_08-revision-new-friends_qbank.json
+- sd/g7/english/unit-01_exams.json
+- sd/g7/english/unit-01_qbank.json
+- sd/g7/english/unit-02_01-types-of-houses_exams.json
+- sd/g7/english/unit-02_01-types-of-houses_qbank.json
+- sd/g7/english/unit-02_02-a-good-place-to-live_exams.json
+- sd/g7/english/unit-02_02-a-good-place-to-live_qbank.json
+- sd/g7/english/unit-02_03-rooms-and-furniture_exams.json
+- sd/g7/english/unit-02_03-rooms-and-furniture_qbank.json
+- sd/g7/english/unit-02_04-where-is-it_exams.json
+- sd/g7/english/unit-02_04-where-is-it_qbank.json
+- sd/g7/english/unit-02_05-technology-in-our-houses_exams.json
+- sd/g7/english/unit-02_05-technology-in-our-houses_qbank.json
+- sd/g7/english/unit-02_06-finding-a-place_exams.json
+- sd/g7/english/unit-02_06-finding-a-place_qbank.json
+- sd/g7/english/unit-02_07-safety-at-home_exams.json
+- sd/g7/english/unit-02_07-safety-at-home_qbank.json
+- sd/g7/english/unit-02_08-revision-my-family-house_exams.json
+- sd/g7/english/unit-02_08-revision-my-family-house_qbank.json
+- sd/g7/english/unit-02_exams.json
+- sd/g7/english/unit-02_qbank.json
+- sd/g7/english/unit-03_01-at-school_exams.json
+- sd/g7/english/unit-03_01-at-school_qbank.json
+- sd/g7/english/unit-03_02-my-school_exams.json
+- sd/g7/english/unit-03_02-my-school_qbank.json
+- sd/g7/english/unit-03_03-school-rules_exams.json
+- sd/g7/english/unit-03_03-school-rules_qbank.json
+- sd/g7/english/unit-03_04-the-khalwa_exams.json
+- sd/g7/english/unit-03_04-the-khalwa_qbank.json
+- sd/g7/english/unit-03_05-my-favourite-subject_exams.json
+- sd/g7/english/unit-03_05-my-favourite-subject_qbank.json
+- sd/g7/english/unit-03_06-different-schools_exams.json
+- sd/g7/english/unit-03_06-different-schools_qbank.json
+- sd/g7/english/unit-03_07-a-tidy-school_exams.json
+- sd/g7/english/unit-03_07-a-tidy-school_qbank.json
+- sd/g7/english/unit-03_08-revision-school-time_exams.json
+- sd/g7/english/unit-03_08-revision-school-time_qbank.json
+- sd/g7/english/unit-03_exams.json
+- sd/g7/english/unit-03_qbank.json
+- sd/g7/english/unit-04_01-how-much_exams.json
+- sd/g7/english/unit-04_01-how-much_qbank.json
+- sd/g7/english/unit-04_02-before-mobile-phones_exams.json
+- sd/g7/english/unit-04_02-before-mobile-phones_qbank.json
+- sd/g7/english/unit-04_03-technology-everywhere_exams.json
+- sd/g7/english/unit-04_03-technology-everywhere_qbank.json
+- sd/g7/english/unit-04_04-e-learning_exams.json
+- sd/g7/english/unit-04_04-e-learning_qbank.json
+- sd/g7/english/unit-04_05-how-does-it-work_exams.json
+- sd/g7/english/unit-04_05-how-does-it-work_qbank.json
+- sd/g7/english/unit-04_06-the-internet_exams.json
+- sd/g7/english/unit-04_06-the-internet_qbank.json
+- sd/g7/english/unit-04_07-a-request_exams.json
+- sd/g7/english/unit-04_07-a-request_qbank.json
+- sd/g7/english/unit-04_08-revision-gadget-time_exams.json
+- sd/g7/english/unit-04_08-revision-gadget-time_qbank.json
+- sd/g7/english/unit-04_exams.json
+- sd/g7/english/unit-04_qbank.json
+- sd/g7/english/unit-05_01-everyone-is-good-at-something_exams.json
+- sd/g7/english/unit-05_01-everyone-is-good-at-something_qbank.json
+- sd/g7/english/unit-05_02-a-heroine_exams.json
+- sd/g7/english/unit-05_02-a-heroine_qbank.json
+- sd/g7/english/unit-05_03-living-with-gorillas_exams.json
+- sd/g7/english/unit-05_03-living-with-gorillas_qbank.json
+- sd/g7/english/unit-05_04-the-best-i-can-be_exams.json
+- sd/g7/english/unit-05_04-the-best-i-can-be_qbank.json
+- sd/g7/english/unit-05_05-role-models_exams.json
+- sd/g7/english/unit-05_05-role-models_qbank.json
+- sd/g7/english/unit-05_06-a-special-award_exams.json
+- sd/g7/english/unit-05_06-a-special-award_qbank.json
+- sd/g7/english/unit-05_07-an-amazing-man_exams.json
+- sd/g7/english/unit-05_07-an-amazing-man_qbank.json
+- sd/g7/english/unit-05_08-revision-special-people_exams.json
+- sd/g7/english/unit-05_08-revision-special-people_qbank.json
+- sd/g7/english/unit-05_exams.json
+- sd/g7/english/unit-05_qbank.json
+- sd/g7/english/unit-06_01-the-arts_exams.json
+- sd/g7/english/unit-06_01-the-arts_qbank.json
+- sd/g7/english/unit-06_02-sudanese-arts_exams.json
+- sd/g7/english/unit-06_02-sudanese-arts_qbank.json
+- sd/g7/english/unit-06_03-three-famous-sudanese_exams.json
+- sd/g7/english/unit-06_03-three-famous-sudanese_qbank.json
+- sd/g7/english/unit-06_04-once-upon-a-time_exams.json
+- sd/g7/english/unit-06_04-once-upon-a-time_qbank.json
+- sd/g7/english/unit-06_05-a-young-artist_exams.json
+- sd/g7/english/unit-06_05-a-young-artist_qbank.json
+- sd/g7/english/unit-06_06-handicrafts_exams.json
+- sd/g7/english/unit-06_06-handicrafts_qbank.json
+- sd/g7/english/unit-06_07-traditional-music_exams.json
+- sd/g7/english/unit-06_07-traditional-music_qbank.json
+- sd/g7/english/unit-06_08-revision-which-art-do-you-like_exams.json
+- sd/g7/english/unit-06_08-revision-which-art-do-you-like_qbank.json
+- sd/g7/english/unit-06_exams.json
+- sd/g7/english/unit-06_qbank.json
+- sd/g7/english/unit-07_01-eid-mubarak_exams.json
+- sd/g7/english/unit-07_01-eid-mubarak_qbank.json
+- sd/g7/english/unit-07_02-celebrations-around-the-world_exams.json
+- sd/g7/english/unit-07_02-celebrations-around-the-world_qbank.json
+- sd/g7/english/unit-07_03-a-school-sports-day_exams.json
+- sd/g7/english/unit-07_03-a-school-sports-day_qbank.json
+- sd/g7/english/unit-07_04-independence-day_exams.json
+- sd/g7/english/unit-07_04-independence-day_qbank.json
+- sd/g7/english/unit-07_05-international-childrens-day_exams.json
+- sd/g7/english/unit-07_05-international-childrens-day_qbank.json
+- sd/g7/english/unit-07_06-a-wedding_exams.json
+- sd/g7/english/unit-07_06-a-wedding_qbank.json
+- sd/g7/english/unit-07_07-a-special-day_exams.json
+- sd/g7/english/unit-07_07-a-special-day_qbank.json
+- sd/g7/english/unit-07_08-revision-special-days_exams.json
+- sd/g7/english/unit-07_08-revision-special-days_qbank.json
+- sd/g7/english/unit-07_exams.json
+- sd/g7/english/unit-07_qbank.json
+- sd/g7/english/unit-08_01-holiday-time_exams.json
+- sd/g7/english/unit-08_01-holiday-time_qbank.json
+- sd/g7/english/unit-08_02-getting-around_exams.json
+- sd/g7/english/unit-08_02-getting-around_qbank.json
+- sd/g7/english/unit-08_03-places-to-visit_exams.json
+- sd/g7/english/unit-08_03-places-to-visit_qbank.json
+- sd/g7/english/unit-08_04-radom-national-park_exams.json
+- sd/g7/english/unit-08_04-radom-national-park_qbank.json
+- sd/g7/english/unit-08_05-a-special-journey_exams.json
+- sd/g7/english/unit-08_05-a-special-journey_qbank.json
+- sd/g7/english/unit-08_06-a-visit-to-dubai_exams.json
+- sd/g7/english/unit-08_06-a-visit-to-dubai_qbank.json
+- sd/g7/english/unit-08_07-my-journey_exams.json
+- sd/g7/english/unit-08_07-my-journey_qbank.json
+- sd/g7/english/unit-08_08-revision-time-to-travel_exams.json
+- sd/g7/english/unit-08_08-revision-time-to-travel_qbank.json
+- sd/g7/english/unit-08_exams.json
+- sd/g7/english/unit-08_qbank.json
+- sd/g7/geography/unit-1-africa_exams.json
+- sd/g7/geography/unit-1-africa_qbank.json
+- sd/g7/geography/unit-2-climate-vegetation_exams.json
+- sd/g7/geography/unit-2-climate-vegetation_qbank.json
+- sd/g7/geography/unit-3-population_exams.json
+- sd/g7/geography/unit-3-population_qbank.json
+- sd/g7/geography/unit-4-economic-activities_exams.json
+- sd/g7/geography/unit-4-economic-activities_qbank.json
+- sd/g7/geography/unit-5-african-problems_exams.json
+- sd/g7/geography/unit-5-african-problems_qbank.json
+- sd/g7/history/unit-1-sudan-history_01-prehistoric-civilization_exams.json
+- sd/g7/history/unit-1-sudan-history_01-prehistoric-civilization_qbank.json
+- sd/g7/history/unit-1-sudan-history_02-stone-ages_exams.json
+- sd/g7/history/unit-1-sudan-history_02-stone-ages_qbank.json
+- sd/g7/history/unit-1-sudan-history_03-cultural-groups_exams.json
+- sd/g7/history/unit-1-sudan-history_03-cultural-groups_qbank.json
+- sd/g7/history/unit-1-sudan-history_04-kerma-civilization_exams.json
+- sd/g7/history/unit-1-sudan-history_04-kerma-civilization_qbank.json
+- sd/g7/history/unit-1-sudan-history_05-kush-kingdoms_exams.json
+- sd/g7/history/unit-1-sudan-history_05-kush-kingdoms_qbank.json
+- sd/g7/history/unit-1-sudan-history_06-napata-kings-a_exams.json
+- sd/g7/history/unit-1-sudan-history_06-napata-kings-a_qbank.json
+- sd/g7/history/unit-1-sudan-history_07-napata-kings-b_exams.json
+- sd/g7/history/unit-1-sudan-history_07-napata-kings-b_qbank.json
+- sd/g7/history/unit-1-sudan-history_08-meroe-civilization-a_exams.json
+- sd/g7/history/unit-1-sudan-history_08-meroe-civilization-a_qbank.json
+- sd/g7/history/unit-1-sudan-history_09-meroe-civilization-b_exams.json
+- sd/g7/history/unit-1-sudan-history_09-meroe-civilization-b_qbank.json
+- sd/g7/history/unit-1-sudan-history_10-christianity-sudan_exams.json
+- sd/g7/history/unit-1-sudan-history_10-christianity-sudan_qbank.json
+- sd/g7/history/unit-1-sudan-history_exams.json
+- sd/g7/history/unit-1-sudan-history_qbank.json
+- sd/g7/history/unit-2-islamic-state_01-arabian-peninsula_exams.json
+- sd/g7/history/unit-2-islamic-state_01-arabian-peninsula_qbank.json
+- sd/g7/history/unit-2-islamic-state_02-southern-kingdoms_exams.json
+- sd/g7/history/unit-2-islamic-state_02-southern-kingdoms_qbank.json
+- sd/g7/history/unit-2-islamic-state_03-northern-kingdoms_exams.json
+- sd/g7/history/unit-2-islamic-state_03-northern-kingdoms_qbank.json
+- sd/g7/history/unit-2-islamic-state_04-pre-islamic-society_exams.json
+- sd/g7/history/unit-2-islamic-state_04-pre-islamic-society_qbank.json
+- sd/g7/history/unit-2-islamic-state_05-prophetic-state_exams.json
+- sd/g7/history/unit-2-islamic-state_05-prophetic-state_qbank.json
+- sd/g7/history/unit-2-islamic-state_06-rashidun-state_exams.json
+- sd/g7/history/unit-2-islamic-state_06-rashidun-state_qbank.json
+- sd/g7/history/unit-2-islamic-state_07-rashidun-challenges_exams.json
+- sd/g7/history/unit-2-islamic-state_07-rashidun-challenges_qbank.json
+- sd/g7/history/unit-2-islamic-state_08-rashidun-admin_exams.json
+- sd/g7/history/unit-2-islamic-state_08-rashidun-admin_qbank.json
+- sd/g7/history/unit-2-islamic-state_09-rashidun-conquests_exams.json
+- sd/g7/history/unit-2-islamic-state_09-rashidun-conquests_qbank.json
+- sd/g7/history/unit-2-islamic-state_exams.json
+- sd/g7/history/unit-2-islamic-state_qbank.json
+- sd/g7/history/unit-3-african-history_01-africa-environment_exams.json
+- sd/g7/history/unit-3-african-history_01-africa-environment_qbank.json
+- sd/g7/history/unit-3-african-history_02-african-population_exams.json
+- sd/g7/history/unit-3-african-history_02-african-population_qbank.json
+- sd/g7/history/unit-3-african-history_03-egyptian-civilization_exams.json
+- sd/g7/history/unit-3-african-history_03-egyptian-civilization_qbank.json
+- sd/g7/history/unit-3-african-history_exams.json
+- sd/g7/history/unit-3-african-history_qbank.json
+- sd/g7/ict/unit-1-database-intro_01-data-tables_exams.json
+- sd/g7/ict/unit-1-database-intro_01-data-tables_qbank.json
+- sd/g7/ict/unit-1-database-intro_02-related-tables_exams.json
+- sd/g7/ict/unit-1-database-intro_02-related-tables_qbank.json
+- sd/g7/ict/unit-1-database-intro_03-databases_exams.json
+- sd/g7/ict/unit-1-database-intro_03-databases_qbank.json
+- sd/g7/ict/unit-1-database-intro_exams.json
+- sd/g7/ict/unit-1-database-intro_qbank.json
+- sd/g7/ict/unit-2-ms-access_01-main-interface_exams.json
+- sd/g7/ict/unit-2-ms-access_01-main-interface_qbank.json
+- sd/g7/ict/unit-2-ms-access_02-tables_exams.json
+- sd/g7/ict/unit-2-ms-access_02-tables_qbank.json
+- sd/g7/ict/unit-2-ms-access_03-relationships_exams.json
+- sd/g7/ict/unit-2-ms-access_03-relationships_qbank.json
+- sd/g7/ict/unit-2-ms-access_04-forms_exams.json
+- sd/g7/ict/unit-2-ms-access_04-forms_qbank.json
+- sd/g7/ict/unit-2-ms-access_05-queries_exams.json
+- sd/g7/ict/unit-2-ms-access_05-queries_qbank.json
+- sd/g7/ict/unit-2-ms-access_06-reports_exams.json
+- sd/g7/ict/unit-2-ms-access_06-reports_qbank.json
+- sd/g7/ict/unit-2-ms-access_exams.json
+- sd/g7/ict/unit-2-ms-access_qbank.json
+- sd/g7/ict/unit-3-internet-basics_01-basic-concepts_exams.json
+- sd/g7/ict/unit-3-internet-basics_01-basic-concepts_qbank.json
+- sd/g7/ict/unit-3-internet-basics_02-internet-services_exams.json
+- sd/g7/ict/unit-3-internet-basics_02-internet-services_qbank.json
+- sd/g7/ict/unit-3-internet-basics_03-addresses-domains_exams.json
+- sd/g7/ict/unit-3-internet-basics_03-addresses-domains_qbank.json
+- sd/g7/ict/unit-3-internet-basics_04-browsers_exams.json
+- sd/g7/ict/unit-3-internet-basics_04-browsers_qbank.json
+- sd/g7/ict/unit-3-internet-basics_05-search-engines_exams.json
+- sd/g7/ict/unit-3-internet-basics_05-search-engines_qbank.json
+- sd/g7/ict/unit-3-internet-basics_06-safe-usage_exams.json
+- sd/g7/ict/unit-3-internet-basics_06-safe-usage_qbank.json
+- sd/g7/ict/unit-3-internet-basics_exams.json
+- sd/g7/ict/unit-3-internet-basics_qbank.json
+- sd/g7/ict/unit-4-internet-life_01-elearning_exams.json
+- sd/g7/ict/unit-4-internet-life_01-elearning_qbank.json
+- sd/g7/ict/unit-4-internet-life_02-egovernment_exams.json
+- sd/g7/ict/unit-4-internet-life_02-egovernment_qbank.json
+- sd/g7/ict/unit-4-internet-life_03-ecommerce_exams.json
+- sd/g7/ict/unit-4-internet-life_03-ecommerce_qbank.json
+- sd/g7/ict/unit-4-internet-life_04-iot_exams.json
+- sd/g7/ict/unit-4-internet-life_04-iot_qbank.json
+- sd/g7/ict/unit-4-internet-life_exams.json
+- sd/g7/ict/unit-4-internet-life_qbank.json
+- sd/g7/islamic/unit-1-tajweed_01-noon-sakinah_exams.json
+- sd/g7/islamic/unit-1-tajweed_01-noon-sakinah_qbank.json
+- sd/g7/islamic/unit-1-tajweed_02-izhar_exams.json
+- sd/g7/islamic/unit-1-tajweed_02-izhar_qbank.json
+- sd/g7/islamic/unit-1-tajweed_03-idgham_exams.json
+- sd/g7/islamic/unit-1-tajweed_03-idgham_qbank.json
+- sd/g7/islamic/unit-1-tajweed_04-iqlab_exams.json
+- sd/g7/islamic/unit-1-tajweed_04-iqlab_qbank.json
+- sd/g7/islamic/unit-1-tajweed_05-ikhfaa_exams.json
+- sd/g7/islamic/unit-1-tajweed_05-ikhfaa_qbank.json
+- sd/g7/islamic/unit-1-tajweed_06-meem-sakinah_exams.json
+- sd/g7/islamic/unit-1-tajweed_06-meem-sakinah_qbank.json
+- sd/g7/islamic/unit-1-tajweed_exams.json
+- sd/g7/islamic/unit-1-tajweed_qbank.json
+- sd/g7/islamic/unit-2-quran_01-adab-with-allah_exams.json
+- sd/g7/islamic/unit-2-quran_01-adab-with-allah_qbank.json
+- sd/g7/islamic/unit-2-quran_02-verify-news_exams.json
+- sd/g7/islamic/unit-2-quran_02-verify-news_qbank.json
+- sd/g7/islamic/unit-2-quran_03-no-mockery_exams.json
+- sd/g7/islamic/unit-2-quran_03-no-mockery_qbank.json
+- sd/g7/islamic/unit-2-quran_04-true-faith_exams.json
+- sd/g7/islamic/unit-2-quran_04-true-faith_qbank.json
+- sd/g7/islamic/unit-2-quran_exams.json
+- sd/g7/islamic/unit-2-quran_qbank.json
+- sd/g7/islamic/unit-3-quran-fath_01-hudaybiyyah_exams.json
+- sd/g7/islamic/unit-3-quran-fath_01-hudaybiyyah_qbank.json
+- sd/g7/islamic/unit-3-quran-fath_02-absentees_exams.json
+- sd/g7/islamic/unit-3-quran-fath_02-absentees_qbank.json
+- sd/g7/islamic/unit-3-quran-fath_03-ridwan-pledge_exams.json
+- sd/g7/islamic/unit-3-quran-fath_03-ridwan-pledge_qbank.json
+- sd/g7/islamic/unit-3-quran-fath_04-vision-fulfilled_exams.json
+- sd/g7/islamic/unit-3-quran-fath_04-vision-fulfilled_qbank.json
+- sd/g7/islamic/unit-3-quran-fath_exams.json
+- sd/g7/islamic/unit-3-quran-fath_qbank.json
+- sd/g7/islamic/unit-4-hadith_01-ihsan_exams.json
+- sd/g7/islamic/unit-4-hadith_01-ihsan_qbank.json
+- sd/g7/islamic/unit-4-hadith_02-modesty_exams.json
+- sd/g7/islamic/unit-4-hadith_02-modesty_qbank.json
+- sd/g7/islamic/unit-4-hadith_03-charity-types_exams.json
+- sd/g7/islamic/unit-4-hadith_03-charity-types_qbank.json
+- sd/g7/islamic/unit-4-hadith_04-work-virtue_exams.json
+- sd/g7/islamic/unit-4-hadith_04-work-virtue_qbank.json
+- sd/g7/islamic/unit-4-hadith_05-gratitude_exams.json
+- sd/g7/islamic/unit-4-hadith_05-gratitude_qbank.json
+- sd/g7/islamic/unit-4-hadith_06-relief_exams.json
+- sd/g7/islamic/unit-4-hadith_06-relief_qbank.json
+- sd/g7/islamic/unit-4-hadith_07-patriotism_exams.json
+- sd/g7/islamic/unit-4-hadith_07-patriotism_qbank.json
+- sd/g7/islamic/unit-4-hadith_exams.json
+- sd/g7/islamic/unit-4-hadith_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_01-faith-decree_exams.json
+- sd/g7/islamic/unit-5-aqeedah_01-faith-decree_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_02-contentment_exams.json
+- sd/g7/islamic/unit-5-aqeedah_02-contentment_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_03-tawakkul_exams.json
+- sd/g7/islamic/unit-5-aqeedah_03-tawakkul_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_04-sweetness-faith_exams.json
+- sd/g7/islamic/unit-5-aqeedah_04-sweetness-faith_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_05-contemplation_exams.json
+- sd/g7/islamic/unit-5-aqeedah_05-contemplation_qbank.json
+- sd/g7/islamic/unit-5-aqeedah_exams.json
+- sd/g7/islamic/unit-5-aqeedah_qbank.json
+- sd/g7/islamic/unit-6-fiqh_01-purity_exams.json
+- sd/g7/islamic/unit-6-fiqh_01-purity_qbank.json
+- sd/g7/islamic/unit-6-fiqh_02-impurity_exams.json
+- sd/g7/islamic/unit-6-fiqh_02-impurity_qbank.json
+- sd/g7/islamic/unit-6-fiqh_03-ghusl_exams.json
+- sd/g7/islamic/unit-6-fiqh_03-ghusl_qbank.json
+- sd/g7/islamic/unit-6-fiqh_04-fasting-rules_exams.json
+- sd/g7/islamic/unit-6-fiqh_04-fasting-rules_qbank.json
+- sd/g7/islamic/unit-6-fiqh_05-fasting-pillars_exams.json
+- sd/g7/islamic/unit-6-fiqh_05-fasting-pillars_qbank.json
+- sd/g7/islamic/unit-6-fiqh_06-fasting-types_exams.json
+- sd/g7/islamic/unit-6-fiqh_06-fasting-types_qbank.json
+- sd/g7/islamic/unit-6-fiqh_07-fasting-invalidators_exams.json
+- sd/g7/islamic/unit-6-fiqh_07-fasting-invalidators_qbank.json
+- sd/g7/islamic/unit-6-fiqh_exams.json
+- sd/g7/islamic/unit-6-fiqh_qbank.json
+- sd/g7/islamic/unit-7-seerah_01-hijra_exams.json
+- sd/g7/islamic/unit-7-seerah_01-hijra_qbank.json
+- sd/g7/islamic/unit-7-seerah_02-state-building_exams.json
+- sd/g7/islamic/unit-7-seerah_02-state-building_qbank.json
+- sd/g7/islamic/unit-7-seerah_03-mosque-importance_exams.json
+- sd/g7/islamic/unit-7-seerah_03-mosque-importance_qbank.json
+- sd/g7/islamic/unit-7-seerah_exams.json
+- sd/g7/islamic/unit-7-seerah_qbank.json
+- sd/g7/math/unit-01_exams.json
+- sd/g7/math/unit-01_qbank.json
+- sd/g7/math/unit-02_exams.json
+- sd/g7/math/unit-02_qbank.json
+- sd/g7/math/unit-03_exams.json
+- sd/g7/math/unit-03_qbank.json
+- sd/g7/math/unit-04_exams.json
+- sd/g7/math/unit-04_qbank.json
+- sd/g7/math/unit-05_exams.json
+- sd/g7/math/unit-05_qbank.json
+- sd/g7/math/unit-06_exams.json
+- sd/g7/math/unit-06_qbank.json
+- sd/g7/math/unit-07_exams.json
+- sd/g7/math/unit-07_qbank.json
+- sd/g7/math/unit-08_exams.json
+- sd/g7/math/unit-08_qbank.json
+- sd/g7/science/unit-1-science-measurement_exams.json
+- sd/g7/science/unit-1-science-measurement_qbank.json
+- sd/g7/science/unit-2-force-pressure_exams.json
+- sd/g7/science/unit-2-force-pressure_qbank.json
+- sd/g7/science/unit-3-matter-properties_exams.json
+- sd/g7/science/unit-3-matter-properties_qbank.json
+- sd/g7/science/unit-4-cell-structure_exams.json
+- sd/g7/science/unit-4-cell-structure_qbank.json
+- sd/g7/science/unit-5-invertebrates_exams.json
+- sd/g7/science/unit-5-invertebrates_qbank.json
+- sd/g7/science/unit-6-organisms-environment_exams.json
+- sd/g7/science/unit-6-organisms-environment_qbank.json
+- sd/g8/arabic/unit-01_exams.json
+- sd/g8/arabic/unit-01_qbank.json
+- sd/g8/arabic/unit-02_exams.json
+- sd/g8/arabic/unit-02_qbank.json
+- sd/g8/arabic/unit-03_exams.json
+- sd/g8/arabic/unit-03_qbank.json
+- sd/g8/arabic/unit-04_exams.json
+- sd/g8/arabic/unit-04_qbank.json
+- sd/g8/arabic/unit-05_exams.json
+- sd/g8/arabic/unit-05_qbank.json
+- sd/g8/arabic/unit-06_exams.json
+- sd/g8/arabic/unit-06_qbank.json
+- sd/g8/arabic/unit-07_exams.json
+- sd/g8/arabic/unit-07_qbank.json
+- sd/g8/arabic/unit-08_exams.json
+- sd/g8/arabic/unit-08_qbank.json
+- sd/g8/arabic/unit-09_exams.json
+- sd/g8/arabic/unit-09_qbank.json
+- sd/g8/arabic/unit-10_exams.json
+- sd/g8/arabic/unit-10_qbank.json
+- sd/g8/arabic/unit-11_exams.json
+- sd/g8/arabic/unit-11_qbank.json
+- sd/g8/arabic/unit-12_exams.json
+- sd/g8/arabic/unit-12_qbank.json
+- sd/g8/arabic/unit-13_exams.json
+- sd/g8/arabic/unit-13_qbank.json
+- sd/g8/arabic/unit-14_exams.json
+- sd/g8/arabic/unit-14_qbank.json
+- sd/g8/arabic/unit-15_exams.json
+- sd/g8/arabic/unit-15_qbank.json
+- sd/g8/art/unit-1-drawing-painting_exams.json
+- sd/g8/art/unit-1-drawing-painting_qbank.json
+- sd/g8/art/unit-2-design-decoration_exams.json
+- sd/g8/art/unit-2-design-decoration_qbank.json
+- sd/g8/art/unit-3-sculpture-ceramics_exams.json
+- sd/g8/art/unit-3-sculpture-ceramics_qbank.json
+- sd/g8/art/unit-4-art-appreciation_exams.json
+- sd/g8/art/unit-4-art-appreciation_qbank.json
+- sd/g8/art/unit-5-arabic-calligraphy_exams.json
+- sd/g8/art/unit-5-arabic-calligraphy_qbank.json
+- sd/g8/english/unit-01_01-drought_exams.json
+- sd/g8/english/unit-01_01-drought_qbank.json
+- sd/g8/english/unit-01_02-forests-deserts-and-mountains_exams.json
+- sd/g8/english/unit-01_02-forests-deserts-and-mountains_qbank.json
+- sd/g8/english/unit-01_03-a-clean-environment_exams.json
+- sd/g8/english/unit-01_03-a-clean-environment_qbank.json
+- sd/g8/english/unit-01_04-protect-the-environment_exams.json
+- sd/g8/english/unit-01_04-protect-the-environment_qbank.json
+- sd/g8/english/unit-01_05-forest-fires-tornadoes-and-sandstorms_exams.json
+- sd/g8/english/unit-01_05-forest-fires-tornadoes-and-sandstorms_qbank.json
+- sd/g8/english/unit-01_06-life-cycles_exams.json
+- sd/g8/english/unit-01_06-life-cycles_qbank.json
+- sd/g8/english/unit-01_07-animals-in-danger_exams.json
+- sd/g8/english/unit-01_07-animals-in-danger_qbank.json
+- sd/g8/english/unit-01_08-the-world_exams.json
+- sd/g8/english/unit-01_08-the-world_qbank.json
+- sd/g8/english/unit-01_exams.json
+- sd/g8/english/unit-01_qbank.json
+- sd/g8/english/unit-02_01-hand-washing_exams.json
+- sd/g8/english/unit-02_01-hand-washing_qbank.json
+- sd/g8/english/unit-02_02-a-healthy-life_exams.json
+- sd/g8/english/unit-02_02-a-healthy-life_qbank.json
+- sd/g8/english/unit-02_03-healthy-food_exams.json
+- sd/g8/english/unit-02_03-healthy-food_qbank.json
+- sd/g8/english/unit-02_04-a-visit-to-the-doctor_exams.json
+- sd/g8/english/unit-02_04-a-visit-to-the-doctor_qbank.json
+- sd/g8/english/unit-02_05-first-aid_exams.json
+- sd/g8/english/unit-02_05-first-aid_qbank.json
+- sd/g8/english/unit-02_06-malaria_exams.json
+- sd/g8/english/unit-02_06-malaria_qbank.json
+- sd/g8/english/unit-02_07-an-accident_exams.json
+- sd/g8/english/unit-02_07-an-accident_qbank.json
+- sd/g8/english/unit-02_08-healthy-and-fit_exams.json
+- sd/g8/english/unit-02_08-healthy-and-fit_qbank.json
+- sd/g8/english/unit-02_exams.json
+- sd/g8/english/unit-02_qbank.json
+- sd/g8/english/unit-03_01-around-my-country_exams.json
+- sd/g8/english/unit-03_01-around-my-country_qbank.json
+- sd/g8/english/unit-03_02-the-sultans-palace_exams.json
+- sd/g8/english/unit-03_02-the-sultans-palace_qbank.json
+- sd/g8/english/unit-03_03-a-wonderful-building_exams.json
+- sd/g8/english/unit-03_03-a-wonderful-building_qbank.json
+- sd/g8/english/unit-03_04-into-the-mountains_exams.json
+- sd/g8/english/unit-03_04-into-the-mountains_qbank.json
+- sd/g8/english/unit-03_05-back-in-time_exams.json
+- sd/g8/english/unit-03_05-back-in-time_qbank.json
+- sd/g8/english/unit-03_06-a-place-by-the-sea_exams.json
+- sd/g8/english/unit-03_06-a-place-by-the-sea_qbank.json
+- sd/g8/english/unit-03_07-a-place-to-shop_exams.json
+- sd/g8/english/unit-03_07-a-place-to-shop_qbank.json
+- sd/g8/english/unit-03_08-wonderful-sudan_exams.json
+- sd/g8/english/unit-03_08-wonderful-sudan_qbank.json
+- sd/g8/english/unit-03_exams.json
+- sd/g8/english/unit-03_qbank.json
+- sd/g8/english/unit-04_01-making-friends_exams.json
+- sd/g8/english/unit-04_01-making-friends_qbank.json
+- sd/g8/english/unit-04_02-school-time_exams.json
+- sd/g8/english/unit-04_02-school-time_qbank.json
+- sd/g8/english/unit-04_03-school-rules-and-classroom-language_exams.json
+- sd/g8/english/unit-04_03-school-rules-and-classroom-language_qbank.json
+- sd/g8/english/unit-04_04-our-family_exams.json
+- sd/g8/english/unit-04_04-our-family_qbank.json
+- sd/g8/english/unit-04_05-houses_exams.json
+- sd/g8/english/unit-04_05-houses_qbank.json
+- sd/g8/english/unit-04_06-first-aid_exams.json
+- sd/g8/english/unit-04_06-first-aid_qbank.json
+- sd/g8/english/unit-04_07-summer-holiday_exams.json
+- sd/g8/english/unit-04_07-summer-holiday_qbank.json
+- sd/g8/english/unit-04_08-eid-el-fitr_exams.json
+- sd/g8/english/unit-04_08-eid-el-fitr_qbank.json
+- sd/g8/english/unit-04_exams.json
+- sd/g8/english/unit-04_qbank.json
+- sd/g8/english/unit-05_01-strange-animals_exams.json
+- sd/g8/english/unit-05_01-strange-animals_qbank.json
+- sd/g8/english/unit-05_02-the-thirsty-animal_exams.json
+- sd/g8/english/unit-05_02-the-thirsty-animal_qbank.json
+- sd/g8/english/unit-05_03-animals-in-danger_exams.json
+- sd/g8/english/unit-05_03-animals-in-danger_qbank.json
+- sd/g8/english/unit-05_04-animals-helping-people_exams.json
+- sd/g8/english/unit-05_04-animals-helping-people_qbank.json
+- sd/g8/english/unit-05_05-dangerous-animals_exams.json
+- sd/g8/english/unit-05_05-dangerous-animals_qbank.json
+- sd/g8/english/unit-05_06-products-and-animals_exams.json
+- sd/g8/english/unit-05_06-products-and-animals_qbank.json
+- sd/g8/english/unit-05_07-the-horse-and-the-soup_exams.json
+- sd/g8/english/unit-05_07-the-horse-and-the-soup_qbank.json
+- sd/g8/english/unit-05_08-interesting-animal-facts_exams.json
+- sd/g8/english/unit-05_08-interesting-animal-facts_qbank.json
+- sd/g8/english/unit-05_exams.json
+- sd/g8/english/unit-05_qbank.json
+- sd/g8/english/unit-06_01-the-night-sky_exams.json
+- sd/g8/english/unit-06_01-the-night-sky_qbank.json
+- sd/g8/english/unit-06_02-our-solar-system_exams.json
+- sd/g8/english/unit-06_02-our-solar-system_qbank.json
+- sd/g8/english/unit-06_03-astronomy_exams.json
+- sd/g8/english/unit-06_03-astronomy_qbank.json
+- sd/g8/english/unit-06_04-a-trip-to-the-moon_exams.json
+- sd/g8/english/unit-06_04-a-trip-to-the-moon_qbank.json
+- sd/g8/english/unit-06_05-the-sun-the-earth-and-the-moon_exams.json
+- sd/g8/english/unit-06_05-the-sun-the-earth-and-the-moon_qbank.json
+- sd/g8/english/unit-06_06-life-in-space_exams.json
+- sd/g8/english/unit-06_06-life-in-space_qbank.json
+- sd/g8/english/unit-06_07-the-eclipse_exams.json
+- sd/g8/english/unit-06_07-the-eclipse_qbank.json
+- sd/g8/english/unit-06_08-out-into-space_exams.json
+- sd/g8/english/unit-06_08-out-into-space_qbank.json
+- sd/g8/english/unit-06_exams.json
+- sd/g8/english/unit-06_qbank.json
+- sd/g8/english/unit-07_01-traditional-games-in-sudan_exams.json
+- sd/g8/english/unit-07_01-traditional-games-in-sudan_qbank.json
+- sd/g8/english/unit-07_02-women-in-sport_exams.json
+- sd/g8/english/unit-07_02-women-in-sport_qbank.json
+- sd/g8/english/unit-07_03-the-worlds-most-popular-sport_exams.json
+- sd/g8/english/unit-07_03-the-worlds-most-popular-sport_qbank.json
+- sd/g8/english/unit-07_04-african-athletes_exams.json
+- sd/g8/english/unit-07_04-african-athletes_qbank.json
+- sd/g8/english/unit-07_05-fit-and-healthy_exams.json
+- sd/g8/english/unit-07_05-fit-and-healthy_qbank.json
+- sd/g8/english/unit-07_06-sudanese-sports-stars_exams.json
+- sd/g8/english/unit-07_06-sudanese-sports-stars_qbank.json
+- sd/g8/english/unit-07_07-strange-sports_exams.json
+- sd/g8/english/unit-07_07-strange-sports_qbank.json
+- sd/g8/english/unit-07_08-be-active_exams.json
+- sd/g8/english/unit-07_08-be-active_qbank.json
+- sd/g8/english/unit-07_exams.json
+- sd/g8/english/unit-07_qbank.json
+- sd/g8/english/unit-08_01-good-health_exams.json
+- sd/g8/english/unit-08_01-good-health_qbank.json
+- sd/g8/english/unit-08_02-protecting-animals_exams.json
+- sd/g8/english/unit-08_02-protecting-animals_qbank.json
+- sd/g8/english/unit-08_03-sports-time_exams.json
+- sd/g8/english/unit-08_03-sports-time_qbank.json
+- sd/g8/english/unit-08_04-lesson-4_exams.json
+- sd/g8/english/unit-08_04-lesson-4_qbank.json
+- sd/g8/english/unit-08_05-lesson-5_exams.json
+- sd/g8/english/unit-08_05-lesson-5_qbank.json
+- sd/g8/english/unit-08_06-lesson-6_exams.json
+- sd/g8/english/unit-08_06-lesson-6_qbank.json
+- sd/g8/english/unit-08_07-lesson-7_exams.json
+- sd/g8/english/unit-08_07-lesson-7_qbank.json
+- sd/g8/english/unit-08_08-lesson-8_exams.json
+- sd/g8/english/unit-08_08-lesson-8_qbank.json
+- sd/g8/english/unit-08_exams.json
+- sd/g8/english/unit-08_qbank.json
+- sd/g8/geography/_old
+- sd/g8/geography/unit-01_01-التضاريس_exams.json
+- sd/g8/geography/unit-01_01-التضاريس_qbank.json
+- sd/g8/geography/unit-01_02-المناخ_exams.json
+- sd/g8/geography/unit-01_02-المناخ_qbank.json
+- sd/g8/geography/unit-01_03-النبات_exams.json
+- sd/g8/geography/unit-01_03-النبات_qbank.json
+- sd/g8/geography/unit-01_04-الثروات_exams.json
+- sd/g8/geography/unit-01_04-الثروات_qbank.json
+- sd/g8/geography/unit-01_05-السكان_exams.json
+- sd/g8/geography/unit-01_05-السكان_qbank.json
+- sd/g8/geography/unit-01_exams.json
+- sd/g8/geography/unit-01_qbank.json
+- sd/g8/geography/unit-02_01-التضاريس_exams.json
+- sd/g8/geography/unit-02_01-التضاريس_qbank.json
+- sd/g8/geography/unit-02_02-المناخ_exams.json
+- sd/g8/geography/unit-02_02-المناخ_qbank.json
+- sd/g8/geography/unit-02_03-النبات_exams.json
+- sd/g8/geography/unit-02_03-النبات_qbank.json
+- sd/g8/geography/unit-02_04-الثروات_exams.json
+- sd/g8/geography/unit-02_04-الثروات_qbank.json
+- sd/g8/geography/unit-02_05-السكان_exams.json
+- sd/g8/geography/unit-02_05-السكان_qbank.json
+- sd/g8/geography/unit-02_exams.json
+- sd/g8/geography/unit-02_qbank.json
+- sd/g8/geography/unit-03_01-التضاريس_exams.json
+- sd/g8/geography/unit-03_01-التضاريس_qbank.json
+- sd/g8/geography/unit-03_02-المناخ_exams.json
+- sd/g8/geography/unit-03_02-المناخ_qbank.json
+- sd/g8/geography/unit-03_03-النبات_exams.json
+- sd/g8/geography/unit-03_03-النبات_qbank.json
+- sd/g8/geography/unit-03_04-الثروات_exams.json
+- sd/g8/geography/unit-03_04-الثروات_qbank.json
+- sd/g8/geography/unit-03_05-السكان_exams.json
+- sd/g8/geography/unit-03_05-السكان_qbank.json
+- sd/g8/geography/unit-03_exams.json
+- sd/g8/geography/unit-03_qbank.json
+- sd/g8/history/unit-01_01-hijrat-al-arab_exams.json
+- sd/g8/history/unit-01_01-hijrat-al-arab_qbank.json
+- sd/g8/history/unit-01_02-al-muahadat_exams.json
+- sd/g8/history/unit-01_02-al-muahadat_qbank.json
+- sd/g8/history/unit-01_03-nataaij-dukhul-al-arab_exams.json
+- sd/g8/history/unit-01_03-nataaij-dukhul-al-arab_qbank.json
+- sd/g8/history/unit-01_04-saltanat-al-funj_exams.json
+- sd/g8/history/unit-01_04-saltanat-al-funj_qbank.json
+- sd/g8/history/unit-01_05-mashyakhat-al-abdallab_exams.json
+- sd/g8/history/unit-01_05-mashyakhat-al-abdallab_qbank.json
+- sd/g8/history/unit-01_06-mamlakat-taqali_exams.json
+- sd/g8/history/unit-01_06-mamlakat-taqali_qbank.json
+- sd/g8/history/unit-01_07-saltanat-al-fur_exams.json
+- sd/g8/history/unit-01_07-saltanat-al-fur_qbank.json
+- sd/g8/history/unit-01_08-al-hukm-al-turki-1_exams.json
+- sd/g8/history/unit-01_08-al-hukm-al-turki-1_qbank.json
+- sd/g8/history/unit-01_09-al-hukm-al-turki-2_exams.json
+- sd/g8/history/unit-01_09-al-hukm-al-turki-2_qbank.json
+- sd/g8/history/unit-01_10-al-hukm-al-turki-3_exams.json
+- sd/g8/history/unit-01_10-al-hukm-al-turki-3_qbank.json
+- sd/g8/history/unit-01_exams.json
+- sd/g8/history/unit-01_qbank.json
+- sd/g8/history/unit-02_01-taasis-al-dawla_exams.json
+- sd/g8/history/unit-02_01-taasis-al-dawla_qbank.json
+- sd/g8/history/unit-02_02-khulafaa-al-dawla_exams.json
+- sd/g8/history/unit-02_02-khulafaa-al-dawla_qbank.json
+- sd/g8/history/unit-02_03-al-futuhat_exams.json
+- sd/g8/history/unit-02_03-al-futuhat_qbank.json
+- sd/g8/history/unit-02_04-injazat-al-dawla_exams.json
+- sd/g8/history/unit-02_04-injazat-al-dawla_qbank.json
+- sd/g8/history/unit-02_05-duaf-al-dawla_exams.json
+- sd/g8/history/unit-02_05-duaf-al-dawla_qbank.json
+- sd/g8/history/unit-02_exams.json
+- sd/g8/history/unit-02_qbank.json
+- sd/g8/history/unit-03_01-intishar-al-islam_exams.json
+- sd/g8/history/unit-03_01-intishar-al-islam_qbank.json
+- sd/g8/history/unit-03_02-wasail-intishar_exams.json
+- sd/g8/history/unit-03_02-wasail-intishar_qbank.json
+- sd/g8/history/unit-03_03-mazahir-al-hadara_exams.json
+- sd/g8/history/unit-03_03-mazahir-al-hadara_qbank.json
+- sd/g8/history/unit-03_04-al-istimar_exams.json
+- sd/g8/history/unit-03_04-al-istimar_qbank.json
+- sd/g8/history/unit-03_exams.json
+- sd/g8/history/unit-03_qbank.json
+- sd/g8/history/unit-04_01-asr-al-nahda_exams.json
+- sd/g8/history/unit-04_01-asr-al-nahda_qbank.json
+- sd/g8/history/unit-04_02-al-nahda-al-adabiya_exams.json
+- sd/g8/history/unit-04_02-al-nahda-al-adabiya_qbank.json
+- sd/g8/history/unit-04_03-al-nahda-al-faniya_exams.json
+- sd/g8/history/unit-04_03-al-nahda-al-faniya_qbank.json
+- sd/g8/history/unit-04_04-harakat-al-kushuf_exams.json
+- sd/g8/history/unit-04_04-harakat-al-kushuf_qbank.json
+- sd/g8/history/unit-04_05-al-thawra-al-sinaiya_exams.json
+- sd/g8/history/unit-04_05-al-thawra-al-sinaiya_qbank.json
+- sd/g8/history/unit-04_06-al-thawra-al-faransiya_exams.json
+- sd/g8/history/unit-04_06-al-thawra-al-faransiya_qbank.json
+- sd/g8/history/unit-04_exams.json
+- sd/g8/history/unit-04_qbank.json
+- sd/g8/islamic/unit-1-tajweed_exams.json
+- sd/g8/islamic/unit-1-tajweed_qbank.json
+- sd/g8/islamic/unit-2-quran_exams.json
+- sd/g8/islamic/unit-2-quran_qbank.json
+- sd/g8/islamic/unit-3-hadith_exams.json
+- sd/g8/islamic/unit-3-hadith_qbank.json
+- sd/g8/islamic/unit-4-aqeedah_exams.json
+- sd/g8/islamic/unit-4-aqeedah_qbank.json
+- sd/g8/islamic/unit-5-fiqh_exams.json
+- sd/g8/islamic/unit-5-fiqh_qbank.json
+- sd/g8/islamic/unit-6-seerah_exams.json
+- sd/g8/islamic/unit-6-seerah_qbank.json
+- sd/g8/math/unit-1-real-numbers_exams.json
+- sd/g8/math/unit-1-real-numbers_qbank.json
+- sd/g8/math/unit-2-ratio-proportion_exams.json
+- sd/g8/math/unit-2-ratio-proportion_qbank.json
+- sd/g8/math/unit-3-transversals-medians_exams.json
+- sd/g8/math/unit-3-transversals-medians_qbank.json
+- sd/g8/math/unit-4-motion_exams.json
+- sd/g8/math/unit-4-motion_qbank.json
+- sd/g8/math/unit-5-inequalities_exams.json
+- sd/g8/math/unit-5-inequalities_qbank.json
+- sd/g8/math/unit-6-inequality-theorems_exams.json
+- sd/g8/math/unit-6-inequality-theorems_qbank.json
+- sd/g8/math/unit-7-3d-shapes_exams.json
+- sd/g8/math/unit-7-3d-shapes_qbank.json
+- sd/g8/math/unit-8-trigonometry_exams.json
+- sd/g8/math/unit-8-trigonometry_qbank.json
+- sd/g8/science/unit-1-nature-of-science_exams.json
+- sd/g8/science/unit-1-nature-of-science_qbank.json
+- sd/g8/science/unit-2-energy_exams.json
+- sd/g8/science/unit-2-energy_qbank.json
+- sd/g8/science/unit-3-mixtures-solutions_exams.json
+- sd/g8/science/unit-3-mixtures-solutions_qbank.json
+- sd/g8/science/unit-4-vertebrates_exams.json
+- sd/g8/science/unit-4-vertebrates_qbank.json
+- sd/g8/science/unit-5-human-body_exams.json
+- sd/g8/science/unit-5-human-body_qbank.json
+- sd/g8/science/unit-6-reproduction_exams.json
+- sd/g8/science/unit-6-reproduction_qbank.json
+- sd/g8/technology/unit-01_01-al-insan-wal-maadin_exams.json
+- sd/g8/technology/unit-01_01-al-insan-wal-maadin_qbank.json
+- sd/g8/technology/unit-01_02-al-insan-wal-akhshab_exams.json
+- sd/g8/technology/unit-01_02-al-insan-wal-akhshab_qbank.json
+- sd/g8/technology/unit-01_03-al-ajhiza-al-sihhiya_exams.json
+- sd/g8/technology/unit-01_03-al-ajhiza-al-sihhiya_qbank.json
+- sd/g8/technology/unit-01_04-al-ahwad_exams.json
+- sd/g8/technology/unit-01_04-al-ahwad_qbank.json
+- sd/g8/technology/unit-01_exams.json
+- sd/g8/technology/unit-01_qbank.json
+- sd/g8/technology/unit-02_01-nabatat-al-zina_exams.json
+- sd/g8/technology/unit-02_01-nabatat-al-zina_qbank.json
+- sd/g8/technology/unit-02_02-takathur-nabatat-al-zina_exams.json
+- sd/g8/technology/unit-02_02-takathur-nabatat-al-zina_qbank.json
+- sd/g8/technology/unit-02_03-tarbiyat-al-asmak_exams.json
+- sd/g8/technology/unit-02_03-tarbiyat-al-asmak_qbank.json
+- sd/g8/technology/unit-02_04-turuq-tarbiyat-al-asmak_exams.json
+- sd/g8/technology/unit-02_04-turuq-tarbiyat-al-asmak_qbank.json
+- sd/g8/technology/unit-02_exams.json
+- sd/g8/technology/unit-02_qbank.json
+- sd/g8/technology/unit-03_01-al-dikur-wa-tazyin_exams.json
+- sd/g8/technology/unit-03_01-al-dikur-wa-tazyin_qbank.json
+- sd/g8/technology/unit-03_02-amal-funduqiya_exams.json
+- sd/g8/technology/unit-03_02-amal-funduqiya_qbank.json
+- sd/g8/technology/unit-03_03-sinaat-al-fanadiq_exams.json
+- sd/g8/technology/unit-03_03-sinaat-al-fanadiq_qbank.json
+- sd/g8/technology/unit-03_04-al-siyaha_exams.json
+- sd/g8/technology/unit-03_04-al-siyaha_qbank.json
+- sd/g8/technology/unit-03_exams.json
+- sd/g8/technology/unit-03_qbank.json
+- sd/g8/technology/unit-04_01-al-mashruat-al-tijariya_exams.json
+- sd/g8/technology/unit-04_01-al-mashruat-al-tijariya_qbank.json
+- sd/g8/technology/unit-04_02-tatawwur-al-tabadol_exams.json
+- sd/g8/technology/unit-04_02-tatawwur-al-tabadol_qbank.json
+- sd/g8/technology/unit-04_03-al-hisab-al-banki_exams.json
+- sd/g8/technology/unit-04_03-al-hisab-al-banki_qbank.json
+- sd/g8/technology/unit-04_04-al-khadamat-al-masrafiya_exams.json
+- sd/g8/technology/unit-04_04-al-khadamat-al-masrafiya_qbank.json
+- sd/g8/technology/unit-04_05-tamwil-al-mashruat_exams.json
+- sd/g8/technology/unit-04_05-tamwil-al-mashruat_qbank.json
+- sd/g8/technology/unit-04_exams.json
+- sd/g8/technology/unit-04_qbank.json
+- sd/g9/arabic/qbank_data
+- sd/g9/english/qbank_data
+- sd/g9/geography/qbank_data
+- sd/g9/history/qbank_data
+- sd/g9/ict/qbank_data
+- sd/g9/islamic/qbank_data
+- sd/g9/math/qbank_data
+- sd/g9/science/qbank_data
+- sd/g9/technical-education/qbank_data
+- sd/g10/arabic/_notes
+- sd/g10/art/_old
+- sd/g10/biology/_old
+- sd/g10/chemistry/_old
+- sd/g10/computer-science/_old
+- sd/g10/engineering/_old
+- sd/g10/english/qbank_data
+- sd/g10/french/qbank_data
+- sd/g10/geography/qbank_data
+- sd/g10/history/_old
+- sd/g10/home-economics/qbank_data
+- sd/g10/islamic-studies/_old
+- sd/g10/math/_old
+- sd/g10/military-science/qbank_data
+- sd/g10/quran/qbank_data
+- sd/g11/arabic-grammar/_old
+- sd/g11/arabic-grammar/wahed-01
+- sd/g11/arabic-grammar/wahed-02
+- sd/g11/arabic-grammar/wahed-03
+- sd/g11/arabic-grammar/wahed-04
+- sd/g11/arabic-grammar/wahed-05
+- sd/g11/arabic-grammar/wahed-06
+- sd/g11/arabic-grammar/wahed-07
+- sd/g11/arabic-grammar/wahed-08
+- sd/g11/arabic-grammar/wahed-09
+- sd/g11/arabic-grammar/wahed-10
+- sd/g11/arabic-literature/_old
+- sd/g11/arabic-literature/andalusian-literature
+- sd/g11/arabic-literature/essay-genre
+- sd/g11/arabic-literature/from-the-abbasid-period
+- sd/g11/arabic-rhetoric/_old
+- sd/g11/arabic-rhetoric/wahed-01
+- sd/g11/arabic-rhetoric/wahed-02
+- sd/g11/arabic-rhetoric/wahed-03
+- sd/g11/arabic-rhetoric/wahed-04
+- sd/g11/arabic-rhetoric/wahed-05
+- sd/g11/arabic-rhetoric/wahed-06
+- sd/g11/arabic-rhetoric/wahed-07
+- sd/g11/arabic-rhetoric/wahed-08
+- sd/g11/arabic-specialized/_old
+- sd/g11/art/_old
+- sd/g11/biology/_old
+- sd/g11/commercial-studies/_old
+- sd/g11/computer-science/_old
+- sd/g11/engineering/_old
+- sd/g11/english/_old
+- sd/g11/english/chapter-01
+- sd/g11/french/_old
+- sd/g11/geography/_old
+- sd/g11/home-economics/_old
+- sd/g11/islamic-studies/_old
+- sd/g11/math/_old
+- sd/g11/military-science/_old
+- sd/g11/physics/_old
+- sd/g11/quran/_old
+- sd/g12/agriculture/_old
+- sd/g12/arabic-grammar/_old
+- sd/g12/arabic-grammar/cover.svg
+- sd/g12/arabic-literature/_old
+- sd/g12/arabic-literature/cover.svg
+- sd/g12/arabic-rhetoric/_old
+- sd/g12/arabic-rhetoric/cover.svg
+- sd/g12/arabic-specialized/_old
+- sd/g12/arabic-specialized/cover.svg
+- sd/g12/art/_old
+- sd/g12/art/cover.svg
+- sd/g12/biology/_old
+- sd/g12/biology/cover.svg
+- sd/g12/chemistry/_old
+- sd/g12/christian-education/_old
+- sd/g12/christian-education/cover.png
+- sd/g12/commercial-studies/_old
+- sd/g12/computer-science/_old
+- sd/g12/computer-science/cover.svg
+- sd/g12/engineering/_old
+- sd/g12/english/_old
+- sd/g12/english/cover.svg
+- sd/g12/french/_old
+- sd/g12/french/cover.svg
+- sd/g12/geography/_old
+- sd/g12/geography/cover.svg
+- sd/g12/history/_old
+- sd/g12/home-economics/_old
+- sd/g12/islamic/_old
+- sd/g12/islamic/cover.png
+- sd/g12/islamic-studies-optional/_old
+- sd/g12/islamic-studies-optional/cover.png
+- sd/g12/literary-studies/_old
+- sd/g12/literary-studies/cover.svg
+- sd/g12/math/_old
+- sd/g12/math/cover.svg
+- sd/g12/math-specialized/_old
+- sd/g12/math-specialized/cover.svg
+- sd/g12/military-science/_old
+- sd/g12/physical-education/_old
+- sd/g12/physics/_old
+- in/g1/arts (no structure.json)
+- in/g1/celebrations-commemorations-and-festivals (no structure.json)
+- in/g1/civics-and-government (no structure.json)
+- in/g1/computer-science-and-technology (no structure.json)
+- in/g1/earth-and-space-science (no structure.json)
+- in/g1/economics (no structure.json)
+- in/g1/english-language-arts (no structure.json)
+- in/g1/geography (no structure.json)
+- in/g1/health (no structure.json)
+- in/g1/history (no structure.json)
+- in/g1/life-science (no structure.json)
+- in/g1/life-skills (no structure.json)
+- in/g1/math (no structure.json)
+- in/g1/physical-education (no structure.json)
+- in/g1/physical-science (no structure.json)
+- in/g1/religion (no structure.json)
+- in/g1/teacher-professional-development (no structure.json)
+- in/g1/world-languages (no structure.json)
+- in/g2/arts (no structure.json)
+- in/g2/celebrations-commemorations-and-festivals (no structure.json)
+- in/g2/civics-and-government (no structure.json)
+- in/g2/computer-science-and-technology (no structure.json)
+- in/g2/earth-and-space-science (no structure.json)
+- in/g2/economics (no structure.json)
+- in/g2/english-language-arts (no structure.json)
+- in/g2/geography (no structure.json)
+- in/g2/health (no structure.json)
+- in/g2/history (no structure.json)
+- in/g2/life-science (no structure.json)
+- in/g2/life-skills (no structure.json)
+- in/g2/math (no structure.json)
+- in/g2/physical-education (no structure.json)
+- in/g2/physical-science (no structure.json)
+- in/g2/religion (no structure.json)
+- in/g2/teacher-professional-development (no structure.json)
+- in/g2/world-languages (no structure.json)
+- in/g3/arts (no structure.json)
+- in/g3/celebrations-commemorations-and-festivals (no structure.json)
+- in/g3/civics-and-government (no structure.json)
+- in/g3/computer-science-and-technology (no structure.json)
+- in/g3/earth-and-space-science (no structure.json)
+- in/g3/economics (no structure.json)
+- in/g3/english-language-arts (no structure.json)
+- in/g3/geography (no structure.json)
+- in/g3/health (no structure.json)
+- in/g3/history (no structure.json)
+- in/g3/life-science (no structure.json)
+- in/g3/life-skills (no structure.json)
+- in/g3/math (no structure.json)
+- in/g3/physical-education (no structure.json)
+- in/g3/physical-science (no structure.json)
+- in/g3/religion (no structure.json)
+- in/g3/teacher-professional-development (no structure.json)
+- in/g3/world-languages (no structure.json)
+- in/g4/arts (no structure.json)
+- in/g4/celebrations-commemorations-and-festivals (no structure.json)
+- in/g4/civics-and-government (no structure.json)
+- in/g4/computer-science-and-technology (no structure.json)
+- in/g4/earth-and-space-science (no structure.json)
+- in/g4/economics (no structure.json)
+- in/g4/english-language-arts (no structure.json)
+- in/g4/geography (no structure.json)
+- in/g4/health (no structure.json)
+- in/g4/history (no structure.json)
+- in/g4/life-science (no structure.json)
+- in/g4/life-skills (no structure.json)
+- in/g4/math (no structure.json)
+- in/g4/physical-education (no structure.json)
+- in/g4/physical-science (no structure.json)
+- in/g4/religion (no structure.json)
+- in/g4/teacher-professional-development (no structure.json)
+- in/g4/world-languages (no structure.json)
+- in/g5/arts (no structure.json)
+- in/g5/celebrations-commemorations-and-festivals (no structure.json)
+- in/g5/civics-and-government (no structure.json)
+- in/g5/computer-science-and-technology (no structure.json)
+- in/g5/earth-and-space-science (no structure.json)
+- in/g5/economics (no structure.json)
+- in/g5/english-language-arts (no structure.json)
+- in/g5/geography (no structure.json)
+- in/g5/health (no structure.json)
+- in/g5/history (no structure.json)
+- in/g5/life-science (no structure.json)
+- in/g5/life-skills (no structure.json)
+- in/g5/math (no structure.json)
+- in/g5/physical-education (no structure.json)
+- in/g5/physical-science (no structure.json)
+- in/g5/religion (no structure.json)
+- in/g5/teacher-professional-development (no structure.json)
+- in/g5/world-languages (no structure.json)
+- in/g6/arts (no structure.json)
+- in/g6/celebrations-commemorations-and-festivals (no structure.json)
+- in/g6/civics-and-government (no structure.json)
+- in/g6/computer-science-and-technology (no structure.json)
+- in/g6/earth-and-space-science (no structure.json)
+- in/g6/economics (no structure.json)
+- in/g6/english-language-arts (no structure.json)
+- in/g6/geography (no structure.json)
+- in/g6/health (no structure.json)
+- in/g6/history (no structure.json)
+- in/g6/life-science (no structure.json)
+- in/g6/life-skills (no structure.json)
+- in/g6/math (no structure.json)
+- in/g6/physical-education (no structure.json)
+- in/g6/physical-science (no structure.json)
+- in/g6/religion (no structure.json)
+- in/g6/teacher-professional-development (no structure.json)
+- in/g6/world-languages (no structure.json)
+- in/g7/arts (no structure.json)
+- in/g7/careers-and-technical-education (no structure.json)
+- in/g7/chemical-science (no structure.json)
+- in/g7/civics-and-government (no structure.json)
+- in/g7/computer-science-and-technology (no structure.json)
+- in/g7/earth-and-space-science (no structure.json)
+- in/g7/economics (no structure.json)
+- in/g7/english-language-arts (no structure.json)
+- in/g7/geography (no structure.json)
+- in/g7/health (no structure.json)
+- in/g7/life-science (no structure.json)
+- in/g7/life-skills (no structure.json)
+- in/g7/math (no structure.json)
+- in/g7/physical-education (no structure.json)
+- in/g7/physical-science (no structure.json)
+- in/g7/religion-and-ethics (no structure.json)
+- in/g7/science-and-engineering-practices (no structure.json)
+- in/g7/teacher-professional-development (no structure.json)
+- in/g7/u-s-history (no structure.json)
+- in/g7/us-history (no structure.json)
+- in/g7/world-history (no structure.json)
+- in/g7/world-languages (no structure.json)
+- in/g8/arts (no structure.json)
+- in/g8/careers-and-technical-education (no structure.json)
+- in/g8/chemical-science (no structure.json)
+- in/g8/civics-and-government (no structure.json)
+- in/g8/computer-science-and-technology (no structure.json)
+- in/g8/earth-and-space-science (no structure.json)
+- in/g8/economics (no structure.json)
+- in/g8/english-language-arts (no structure.json)
+- in/g8/geography (no structure.json)
+- in/g8/health (no structure.json)
+- in/g8/life-science (no structure.json)
+- in/g8/life-skills (no structure.json)
+- in/g8/math (no structure.json)
+- in/g8/physical-education (no structure.json)
+- in/g8/physical-science (no structure.json)
+- in/g8/religion-and-ethics (no structure.json)
+- in/g8/science-and-engineering-practices (no structure.json)
+- in/g8/teacher-professional-development (no structure.json)
+- in/g8/u-s-history (no structure.json)
+- in/g8/us-history (no structure.json)
+- in/g8/world-history (no structure.json)
+- in/g8/world-languages (no structure.json)
+- in/g9/arts (no structure.json)
+- in/g9/careers-and-technical-education (no structure.json)
+- in/g9/chemical-science (no structure.json)
+- in/g9/civics-and-government (no structure.json)
+- in/g9/computer-science-and-technology (no structure.json)
+- in/g9/earth-and-space-science (no structure.json)
+- in/g9/economics (no structure.json)
+- in/g9/english-language-arts (no structure.json)
+- in/g9/geography (no structure.json)
+- in/g9/health (no structure.json)
+- in/g9/life-science (no structure.json)
+- in/g9/life-skills (no structure.json)
+- in/g9/math (no structure.json)
+- in/g9/physical-education (no structure.json)
+- in/g9/physical-science (no structure.json)
+- in/g9/religion-and-ethics (no structure.json)
+- in/g9/science-and-engineering-practices (no structure.json)
+- in/g9/teacher-professional-development (no structure.json)
+- in/g9/u-s-history (no structure.json)
+- in/g9/us-history (no structure.json)
+- in/g9/world-history (no structure.json)
+- in/g9/world-languages (no structure.json)
+- in/g10/arts (no structure.json)
+- in/g10/business-and-economics (no structure.json)
+- in/g10/career-and-technical-education (no structure.json)
+- in/g10/chemistry (no structure.json)
+- in/g10/civics-and-government (no structure.json)
+- in/g10/computer-science-and-technology (no structure.json)
+- in/g10/earth-and-space-science (no structure.json)
+- in/g10/english-language-arts (no structure.json)
+- in/g10/geography/banner
+- in/g10/geography/cover
+- in/g10/geography/textbook
+- in/g10/geography/thumbnail
+- in/g10/health (no structure.json)
+- in/g10/life-sciences (no structure.json)
+- in/g10/life-skills (no structure.json)
+- in/g10/math/banner
+- in/g10/math/cover
+- in/g10/math/textbook
+- in/g10/math/thumbnail
+- in/g10/physical-education (no structure.json)
+- in/g10/physics (no structure.json)
+- in/g10/psychology (no structure.json)
+- in/g10/religion-and-philosophy (no structure.json)
+- in/g10/science-and-engineering-practices (no structure.json)
+- in/g10/sociology (no structure.json)
+- in/g10/teacher-professional-development (no structure.json)
+- in/g10/u-s-history (no structure.json)
+- in/g10/us-history (no structure.json)
+- in/g10/world-history (no structure.json)
+- in/g10/world-languages (no structure.json)
+- in/g11/arts (no structure.json)
+- in/g11/business-and-economics (no structure.json)
+- in/g11/career-and-technical-education (no structure.json)
+- in/g11/chemistry (no structure.json)
+- in/g11/civics-and-government (no structure.json)
+- in/g11/computer-science-and-technology (no structure.json)
+- in/g11/earth-and-space-science (no structure.json)
+- in/g11/english-language-arts (no structure.json)
+- in/g11/geography (no structure.json)
+- in/g11/health (no structure.json)
+- in/g11/life-sciences (no structure.json)
+- in/g11/life-skills (no structure.json)
+- in/g11/math (no structure.json)
+- in/g11/physical-education (no structure.json)
+- in/g11/physics (no structure.json)
+- in/g11/psychology (no structure.json)
+- in/g11/religion-and-philosophy (no structure.json)
+- in/g11/science-and-engineering-practices (no structure.json)
+- in/g11/sociology (no structure.json)
+- in/g11/teacher-professional-development (no structure.json)
+- in/g11/u-s-history (no structure.json)
+- in/g11/us-history (no structure.json)
+- in/g11/world-history (no structure.json)
+- in/g11/world-languages (no structure.json)
+- in/g12/arts (no structure.json)
+- in/g12/business-and-economics (no structure.json)
+- in/g12/career-and-technical-education (no structure.json)
+- in/g12/chemistry (no structure.json)
+- in/g12/civics-and-government (no structure.json)
+- in/g12/computer-science-and-technology (no structure.json)
+- in/g12/earth-and-space-science (no structure.json)
+- in/g12/english-language-arts (no structure.json)
+- in/g12/geography (no structure.json)
+- in/g12/health (no structure.json)
+- in/g12/life-sciences (no structure.json)
+- in/g12/life-skills (no structure.json)
+- in/g12/math (no structure.json)
+- in/g12/physical-education (no structure.json)
+- in/g12/physics (no structure.json)
+- in/g12/psychology (no structure.json)
+- in/g12/religion-and-philosophy (no structure.json)
+- in/g12/science-and-engineering-practices (no structure.json)
+- in/g12/sociology (no structure.json)
+- in/g12/teacher-professional-development (no structure.json)
+- in/g12/u-s-history (no structure.json)
+- in/g12/us-history (no structure.json)
+- in/g12/world-history (no structure.json)
+- in/g12/world-languages (no structure.json)
+- BUILD_REPORT_uk_us.md (top level)
+- _build_tools (top level)
+- _legacy_us_images (top level)
+- fr (top level)
+
+## Dropped questions
+- sd/g9/arabic/chapters/unit-1/qbank.json#b4369442
+- sd/g9/arabic/chapters/unit-1/exams.json:0#b4369442
+- sd/g9/english/chapters/unit-2/qbank.json#8a15d7f8
+- sd/g9/english/chapters/unit-2/exams.json:0#8a15d7f8
+- sd/g9/math/chapters/unit-1/qbank.json#4a5569bb
+- sd/g9/math/chapters/unit-1/qbank.json#24038f41
+- sd/g9/math/chapters/unit-1/exams.json:0#4a5569bb
+- sd/g9/math/chapters/unit-1/exams.json:0#24038f41
+- sd/g9/math/chapters/unit-4/qbank.json#1fd9cd77
+- sd/g9/math/chapters/unit-4/exams.json:0#1fd9cd77
+- sd/g9/math/chapters/unit-6/qbank.json#0a074d96
+- sd/g9/math/chapters/unit-6/exams.json:0#0a074d96

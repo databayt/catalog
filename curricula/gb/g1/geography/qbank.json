@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "geography"
+  },
+  "questions": [
+    {
+      "id": "g1-geo-unit-01-uk-01-four-countries-lq01",
+      "type": "mcq",
+      "question": "Which is NOT a country of the UK?",
+      "options": [
+        "England",
+        "Scotland",
+        "Wales",
+        "Spain"
+      ],
+      "answer": "Spain",
+      "explanation": "UK = England, Scotland, Wales, N. Ireland."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-01-four-countries-lq02",
+      "type": "true_false",
+      "question": "London is the capital city of England.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Capital of England/UK."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-01-four-countries-lq03",
+      "type": "fill_blank",
+      "question": "The four countries of the UK are England, Scotland, Wales and Northern ___.",
+      "answer": "Ireland",
+      "explanation": "UK nations."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-01-four-countries-lq04",
+      "type": "short_answer",
+      "question": "Name the capital city of the UK.",
+      "answer": "London",
+      "explanation": "UK capital."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq01",
+      "type": "mcq",
+      "question": "A place where many people live close together is a:",
+      "options": [
+        "town/city",
+        "desert",
+        "ocean",
+        "forest"
+      ],
+      "answer": "town/city",
+      "explanation": "Settlement."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq02",
+      "type": "true_false",
+      "question": "A map is a drawing of a place from above.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bird's-eye view."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq03",
+      "type": "fill_blank",
+      "question": "Human features include shops, roads and ___.",
+      "answer": "houses",
+      "explanation": "Human features."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq04",
+      "type": "short_answer",
+      "question": "Name one physical and one human feature near you.",
+      "answer": "e.g., a hill (physical) and a school (human).",
+      "explanation": "Feature types."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-01-seasons-lq01",
+      "type": "mcq",
+      "question": "Which season is usually warmest in the UK?",
+      "options": [
+        "winter",
+        "summer",
+        "autumn",
+        "spring"
+      ],
+      "answer": "summer",
+      "explanation": "Warmest season."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-01-seasons-lq02",
+      "type": "true_false",
+      "question": "It tends to be colder in winter than in summer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Seasonal change."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-01-seasons-lq03",
+      "type": "fill_blank",
+      "question": "Leaves often fall from trees in ___.",
+      "answer": "autumn",
+      "explanation": "Autumn change."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-01-seasons-lq04",
+      "type": "short_answer",
+      "question": "Name the four seasons.",
+      "answer": "Spring, summer, autumn, winter.",
+      "explanation": "Seasons."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-02-weather-lq01",
+      "type": "mcq",
+      "question": "Which tool measures temperature?",
+      "options": [
+        "thermometer",
+        "ruler",
+        "clock",
+        "scale"
+      ],
+      "answer": "thermometer",
+      "explanation": "Temperature."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-02-weather-lq02",
+      "type": "true_false",
+      "question": "Weather can change from day to day.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Weather varies."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-02-weather-lq03",
+      "type": "fill_blank",
+      "question": "Frozen rain that falls in winter is ___.",
+      "answer": "snow",
+      "explanation": "Precipitation type."
+    },
+    {
+      "id": "g1-geo-unit-02-weather-02-weather-lq04",
+      "type": "short_answer",
+      "question": "Why do we record the weather?",
+      "answer": "To see patterns and know what to expect/wear.",
+      "explanation": "Weather observation."
+    }
+  ]
+}

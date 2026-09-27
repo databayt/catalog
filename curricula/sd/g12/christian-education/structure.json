@@ -1,0 +1,388 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g12-christian-education",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "christian-education",
+  "title": {
+    "ar": "التربية المسيحية",
+    "en": "Christian Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "faith",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "التربية المسيحية — الصف الثالث الثانوي — رقم الإيداع ٧٨٣/٢٠٠٨",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-bible-a-study-of-the-book-of-revelation",
+      "title": {
+        "ar": "الكتاب المقدس: دراسة في سفر الرؤيا",
+        "en": "The Bible: A Study of the Book of Revelation"
+      },
+      "concept": "faith",
+      "image": "clickview/high-literary-contexts-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-importance-of-the-book-of-revelation",
+          "title": {
+            "ar": "أهمية سفر الرؤيا",
+            "en": "The Importance of the Book of Revelation"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-the-church-of-ephesus",
+          "title": {
+            "ar": "كنيسة أفسس",
+            "en": "The Church of Ephesus"
+          },
+          "page": 5
+        },
+        {
+          "slug": "03-the-church-of-smyrna",
+          "title": {
+            "ar": "كنيسة سمرنا",
+            "en": "The Church of Smyrna"
+          },
+          "page": 9
+        },
+        {
+          "slug": "04-the-church-of-pergamum",
+          "title": {
+            "ar": "كنيسة برغامس",
+            "en": "The Church of Pergamum"
+          },
+          "page": 13
+        },
+        {
+          "slug": "05-the-church-of-thyatira",
+          "title": {
+            "ar": "كنيسة ثياتيرا",
+            "en": "The Church of Thyatira"
+          },
+          "page": 17
+        },
+        {
+          "slug": "06-the-church-of-sardis",
+          "title": {
+            "ar": "كنيسة ساردس",
+            "en": "The Church of Sardis"
+          },
+          "page": 22
+        },
+        {
+          "slug": "07-the-church-of-philadelphia",
+          "title": {
+            "ar": "كنيسة فيلادلفيا",
+            "en": "The Church of Philadelphia"
+          },
+          "page": 26
+        },
+        {
+          "slug": "08-the-church-of-laodicea",
+          "title": {
+            "ar": "كنيسة اللاودكيين",
+            "en": "The Church of Laodicea"
+          },
+          "page": 30
+        }
+      ]
+    },
+    {
+      "slug": "02-jesus-christ",
+      "title": {
+        "ar": "يسوع المسيح",
+        "en": "Jesus Christ"
+      },
+      "concept": "faith",
+      "image": "clickview/high-comparative-religion-cover.jpg",
+      "page": 35,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-jesus-christ-in-the-book-of-job",
+          "title": {
+            "ar": "يسوع المسيح في سفر أيوب",
+            "en": "Jesus Christ in the Book of Job"
+          },
+          "page": 35
+        },
+        {
+          "slug": "02-jesus-christ-in-the-psalms",
+          "title": {
+            "ar": "يسوع المسيح في سفر المزامير",
+            "en": "Jesus Christ in the Psalms"
+          },
+          "page": 38
+        },
+        {
+          "slug": "03-jesus-christ-in-proverbs",
+          "title": {
+            "ar": "يسوع المسيح في سفر الأمثال",
+            "en": "Jesus Christ in Proverbs"
+          },
+          "page": 44
+        },
+        {
+          "slug": "04-jesus-christ-in-ecclesiastes",
+          "title": {
+            "ar": "يسوع المسيح في سفر الجامعة",
+            "en": "Jesus Christ in Ecclesiastes"
+          },
+          "page": 48
+        },
+        {
+          "slug": "05-jesus-christ-in-the-song-of-songs",
+          "title": {
+            "ar": "يسوع المسيح في سفر نشيد الأنشاد",
+            "en": "Jesus Christ in the Song of Songs"
+          },
+          "page": 52
+        }
+      ]
+    },
+    {
+      "slug": "03-the-church-and-the-life-of-holiness",
+      "title": {
+        "ar": "الكنيسة وحياة القداسة",
+        "en": "The Church and the Life of Holiness"
+      },
+      "concept": "faith",
+      "image": "clickview/high-community-engagement-and-care-cover.jpg",
+      "page": 59,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-priests-and-ministers-of-the-holy-word",
+          "title": {
+            "ar": "الكهنة وخدام الكلمة المقدسة",
+            "en": "Priests and Ministers of the Holy Word"
+          },
+          "page": 59
+        },
+        {
+          "slug": "02-holy-christian-marriage",
+          "title": {
+            "ar": "الزواج المسيحي المقدس",
+            "en": "Holy Christian Marriage"
+          },
+          "page": 65
+        },
+        {
+          "slug": "03-pure-married-life",
+          "title": {
+            "ar": "الحياة الزوجية الطاهرة",
+            "en": "Pure Married Life"
+          },
+          "page": 70
+        }
+      ]
+    },
+    {
+      "slug": "04-the-church-and-the-facts-of-life",
+      "title": {
+        "ar": "الكنيسة وحقائق الحياة",
+        "en": "The Church and the Facts of Life"
+      },
+      "concept": "faith",
+      "image": "clickview/high-financial-literacy-cover.jpg",
+      "page": 76,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-money-and-its-uses-in-christianity-1",
+          "title": {
+            "ar": "المال واستخداماته في المسيحية (١)",
+            "en": "Money and Its Uses in Christianity (1)"
+          },
+          "page": 76
+        },
+        {
+          "slug": "02-money-and-its-uses-in-christianity-2",
+          "title": {
+            "ar": "المال واستخداماته في المسيحية (٢)",
+            "en": "Money and Its Uses in Christianity (2)"
+          },
+          "page": 82
+        },
+        {
+          "slug": "03-money-and-its-uses-in-christianity-3",
+          "title": {
+            "ar": "المال واستخداماته في المسيحية (٣)",
+            "en": "Money and Its Uses in Christianity (3)"
+          },
+          "page": 88
+        }
+      ]
+    },
+    {
+      "slug": "05-christianity-and-giving",
+      "title": {
+        "ar": "المسيحية والعطاء",
+        "en": "Christianity and Giving"
+      },
+      "concept": "faith",
+      "image": "clickview/high-corporate-social-responsibility-cover.jpg",
+      "page": 92,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-christianity-and-giving-the-gift-of-love",
+          "title": {
+            "ar": "المسيحية والعطاء (عطاء المحبة)",
+            "en": "Christianity and Giving (The Gift of Love)"
+          },
+          "page": 92
+        },
+        {
+          "slug": "02-christianity-and-tithes",
+          "title": {
+            "ar": "المسيحية والعشور",
+            "en": "Christianity and Tithes"
+          },
+          "page": 100
+        },
+        {
+          "slug": "03-the-christian-as-the-lords-steward",
+          "title": {
+            "ar": "المسيحي كوكيل للرب",
+            "en": "The Christian as the Lord's Steward"
+          },
+          "page": 105
+        }
+      ]
+    },
+    {
+      "slug": "06-the-church-and-the-heroes-of-faith",
+      "title": {
+        "ar": "الكنيسة وأبطال الإيمان",
+        "en": "The Church and the Heroes of Faith"
+      },
+      "concept": "faith",
+      "image": "clickview/high-historical-inquiry-cover.jpg",
+      "page": 112,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-thomas-a-disciple-of-christ",
+          "title": {
+            "ar": "توما أحد تلاميذ المسيح",
+            "en": "Thomas, a Disciple of Christ"
+          },
+          "page": 112
+        },
+        {
+          "slug": "02-agrey-the-african-apostle-of-friendship",
+          "title": {
+            "ar": "أقري الأفريقي (رسول الصداقة)",
+            "en": "Agrey the African (Apostle of Friendship)"
+          },
+          "page": 119
+        }
+      ]
+    },
+    {
+      "slug": "07-the-church-and-the-history-of-religions",
+      "title": {
+        "ar": "الكنيسة وتاريخ الأديان",
+        "en": "The Church and the History of Religions"
+      },
+      "concept": "faith",
+      "image": "clickview/high-being-a-historian-cover.jpg",
+      "page": 125,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-early-church-in-the-apostolic-age-1",
+          "title": {
+            "ar": "الكنيسة الأولى في العهد الرسولي (١)",
+            "en": "The Early Church in the Apostolic Age (1)"
+          },
+          "page": 125
+        },
+        {
+          "slug": "02-the-early-church-in-the-apostolic-age-2",
+          "title": {
+            "ar": "الكنيسة الأولى في العهد الرسولي (٢)",
+            "en": "The Early Church in the Apostolic Age (2)"
+          },
+          "page": 130
+        }
+      ]
+    },
+    {
+      "slug": "08-the-church-and-society",
+      "title": {
+        "ar": "الكنيسة والمجتمع",
+        "en": "The Church and Society"
+      },
+      "concept": "faith",
+      "image": "clickview/high-human-rights-cover.jpg",
+      "page": 135,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-human-rights-the-worlds-journey-to-human-rights",
+          "title": {
+            "ar": "حقوق الإنسان: رحلة العالم إلى حقوق الإنسان",
+            "en": "Human Rights: The World's Journey to Human Rights"
+          },
+          "page": 135
+        },
+        {
+          "slug": "02-human-rights-spiritual-dimensions-and-motives",
+          "title": {
+            "ar": "حقوق الإنسان: الأبعاد والدوافع الروحية",
+            "en": "Human Rights: Spiritual Dimensions and Motives"
+          },
+          "page": 141
+        }
+      ]
+    },
+    {
+      "slug": "09-the-church-and-development",
+      "title": {
+        "ar": "الكنيسة والتنمية",
+        "en": "The Church and Development"
+      },
+      "concept": "faith",
+      "image": "clickview/high-sustainability-case-studies-cover.jpg",
+      "page": 149,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-church-and-development",
+          "title": {
+            "ar": "الكنيسة والتنمية",
+            "en": "The Church and Development"
+          },
+          "page": 149
+        },
+        {
+          "slug": "02-obstacles-to-development",
+          "title": {
+            "ar": "معوقات التنمية",
+            "en": "Obstacles to Development"
+          },
+          "page": 157
+        }
+      ]
+    }
+  ]
+}

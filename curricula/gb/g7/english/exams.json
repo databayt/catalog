@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "gb-g7-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-eng-unit-01-reading-01-language-analysis-lq01",
+          "type": "mcq",
+          "question": "A word that appeals to the senses creates:",
+          "options": [
+            "imagery",
+            "a title",
+            "a footnote",
+            "a margin"
+          ],
+          "answer": "imagery",
+          "explanation": "Sensory description."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-01-language-analysis-lq02",
+          "type": "true_false",
+          "question": "Adjectives can create vivid description.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Descriptive detail."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-01-creative-lq01",
+          "type": "mcq",
+          "question": "A story's opening should aim to:",
+          "options": [
+            "bore the reader",
+            "hook the reader",
+            "list facts",
+            "end quickly"
+          ],
+          "answer": "hook the reader",
+          "explanation": "Engaging opening."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-01-creative-lq02",
+          "type": "true_false",
+          "question": "Varied sentence lengths improve writing.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rhythm and effect."
+        }
+      ]
+    }
+  ]
+}

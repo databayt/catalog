@@ -1,0 +1,87 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "04-work-and-play",
+    "lesson": "04-learning-for-a-job"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq01",
+      "type": "mcq",
+      "question": "What is the purpose of a topic sentence in a paragraph?",
+      "options": [
+        "To state the main idea of the paragraph",
+        "To conclude the paragraph",
+        "To provide examples",
+        "To introduce new topics"
+      ],
+      "answer": "To state the main idea of the paragraph",
+      "explanation": "A topic sentence presents the main idea that the paragraph will develop."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq02",
+      "type": "true_false",
+      "question": "A concluding sentence should introduce new ideas.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "A concluding sentence summarizes the paragraph, not introduces new ideas."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq03",
+      "type": "fill_blank",
+      "question": "A well-organized essay has an introduction, ___, and conclusion.",
+      "answer": "body",
+      "explanation": "An essay consists of introduction, body paragraphs, and conclusion."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq04",
+      "type": "short_answer",
+      "question": "What are the key features of a good paragraph?",
+      "answer": "Unity (one main idea), coherence (logical flow), topic sentence, supporting details, concluding sentence.",
+      "explanation": "Good paragraphs are unified and coherent with clear structure."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq01-2",
+      "type": "mcq",
+      "question": "What is the purpose of a topic sentence in a paragraph?",
+      "options": [
+        "To state the main idea of the paragraph",
+        "To conclude the paragraph",
+        "To provide examples",
+        "To introduce new topics"
+      ],
+      "answer": "To state the main idea of the paragraph",
+      "explanation": "A topic sentence presents the main idea that the paragraph will develop."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq02-2",
+      "type": "true_false",
+      "question": "A concluding sentence should introduce new ideas.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "A concluding sentence summarizes the paragraph, not introduces new ideas."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq03-2",
+      "type": "fill_blank",
+      "question": "A well-organized essay has an introduction, ___, and conclusion.",
+      "answer": "body",
+      "explanation": "An essay consists of introduction, body paragraphs, and conclusion."
+    },
+    {
+      "id": "g9-eng-unit-04-04-learning-for-a-job-lq04-2",
+      "type": "short_answer",
+      "question": "What are the key features of a good paragraph?",
+      "answer": "Unity (one main idea), coherence (logical flow), topic sentence, supporting details, concluding sentence.",
+      "explanation": "Good paragraphs are unified and coherent with clear structure."
+    }
+  ]
+}

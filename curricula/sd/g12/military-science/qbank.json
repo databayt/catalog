@@ -1,0 +1,1137 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g12",
+    "subject": "military-science"
+  },
+  "questions": [
+    {
+      "id": "g12-mil-chap12-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-12?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap12-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-12?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap12-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-12?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap12-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-12?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap12-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-12 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap12-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-12 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap12-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap12-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap12-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-12.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap12-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-12.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap01-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-01?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap01-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-01?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap01-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-01?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap01-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-01?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap01-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-01 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap01-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-01 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap01-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap01-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap01-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-01.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap01-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-01.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap06-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-06?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap06-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-06?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap06-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-06?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap06-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-06?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap06-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-06 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap06-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-06 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap06-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap06-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap06-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-06.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap06-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-06.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap08-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-08?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap08-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-08?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap08-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-08?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap08-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-08?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap08-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-08 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap08-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-08 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap08-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap08-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap08-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-08.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap08-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-08.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap09-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-09?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap09-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-09?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap09-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-09?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap09-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-09?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap09-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-09 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap09-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-09 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap09-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap09-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap09-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-09.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap09-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-09.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap07-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-07?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap07-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-07?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap07-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-07?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap07-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-07?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap07-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-07 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap07-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-07 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap07-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap07-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap07-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-07.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap07-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-07.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap10-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-10?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap10-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-10?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap10-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-10?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap10-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-10?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap10-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-10 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap10-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-10 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap10-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap10-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap10-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-10.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap10-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-10.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap11-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-11?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap11-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-11?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap11-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-11?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap11-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-11?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap11-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-11 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap11-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-11 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap11-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap11-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap11-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-11.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap11-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-11.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap05-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-05?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap05-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-05?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap05-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-05?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap05-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-05?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap05-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-05 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap05-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-05 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap05-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap05-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap05-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-05.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap05-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-05.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap02-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-02?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap02-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-02?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap02-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-02?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap02-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-02?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap02-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-02 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap02-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-02 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap02-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap02-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap02-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-02.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap02-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-02.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap03-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-03?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap03-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-03?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap03-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-03?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap03-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-03?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap03-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-03 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap03-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-03 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap03-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap03-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap03-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-03.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap03-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-03.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap04-q001",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-04?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap04-q002",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-04?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap04-q003",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-04?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap04-q004",
+      "type": "mcq",
+      "question": "Which concept is most important in unit-04?",
+      "options": [
+        "A) Concept 1",
+        "B) Concept 2",
+        "C) Concept 3",
+        "D) Concept 4"
+      ],
+      "answer": "A) Concept 1",
+      "explanation": "Based on the curriculum content."
+    },
+    {
+      "id": "g12-mil-chap04-q005",
+      "type": "true_false",
+      "question": "Important concepts from unit-04 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap04-q006",
+      "type": "true_false",
+      "question": "Important concepts from unit-04 are central to this subject.",
+      "answer": true,
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap04-q007",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap04-q008",
+      "type": "fill_blank",
+      "question": "A fundamental concept in this unit is _______",
+      "answer": "the core idea",
+      "explanation": "Based on the curriculum."
+    },
+    {
+      "id": "g12-mil-chap04-q009",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-04.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    },
+    {
+      "id": "g12-mil-chap04-q010",
+      "type": "short_answer",
+      "question": "Explain the main topics covered in unit-04.",
+      "answer": "A detailed explanation of the chapter content.",
+      "explanation": "Students should cover key concepts."
+    }
+  ]
+}

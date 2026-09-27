@@ -1,0 +1,286 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g5-history",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "history",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-from-the-history-of-sudan",
+      "title": {
+        "ar": "من تاريخ السودان",
+        "en": "From the History of Sudan"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-this-month-in-history-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-our-homeland-sudan",
+          "title": {
+            "ar": "وطننا السودان",
+            "en": "Our Homeland Sudan"
+          }
+        },
+        {
+          "slug": "02-the-calendar",
+          "title": {
+            "ar": "التقويم",
+            "en": "The Calendar"
+          }
+        },
+        {
+          "slug": "03-ancient-civilizations-of-sudan",
+          "title": {
+            "ar": "حضارات السودان القديمة",
+            "en": "Ancient Civilizations of Sudan"
+          }
+        },
+        {
+          "slug": "04-the-kerma-civilization",
+          "title": {
+            "ar": "حضارة كرمة",
+            "en": "The Kerma Civilization"
+          }
+        },
+        {
+          "slug": "05-the-kush-civilization",
+          "title": {
+            "ar": "حضارة كوش",
+            "en": "The Kush Civilization"
+          }
+        },
+        {
+          "slug": "06-the-christian-kingdoms-of-nubia",
+          "title": {
+            "ar": "ممالك النوبة المسيحية",
+            "en": "The Christian Kingdoms of Nubia"
+          }
+        },
+        {
+          "slug": "07-the-islamic-conquest-of-sudan",
+          "title": {
+            "ar": "الفتح الإسلامي لأرض السودان",
+            "en": "The Islamic Conquest of Sudan"
+          }
+        },
+        {
+          "slug": "08-the-arrival-of-the-arabs-in-sudan",
+          "title": {
+            "ar": "دخول العرب إلى السودان",
+            "en": "The Arrival of the Arabs in Sudan"
+          }
+        },
+        {
+          "slug": "09-islamic-sultanates-in-sudan-1",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (١)",
+            "en": "Islamic Sultanates in Sudan 1"
+          }
+        },
+        {
+          "slug": "10-islamic-sultanates-in-sudan-2",
+          "title": {
+            "ar": "السلطنات الإسلامية في السودان (٢)",
+            "en": "Islamic Sultanates in Sudan 2"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-the-islamic-state-up-to-the-umayyad-era",
+      "title": {
+        "ar": "تطور الدولة الإسلامية حتى العصر الأموي",
+        "en": "The Islamic State up to the Umayyad Era"
+      },
+      "concept": "history",
+      "image": "clickview/middle-being-a-historian-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-the-call-and-the-islamic-state-in-medina",
+          "title": {
+            "ar": "الدعوة والدولة الإسلامية في المدينة",
+            "en": "The Call and the Islamic State in Medina"
+          }
+        },
+        {
+          "slug": "02-the-islamic-state-under-the-rightly-guided",
+          "title": {
+            "ar": "الدولة الإسلامية في عهد الخلفاء الراشدين",
+            "en": "The Islamic State under the Rightly Guided Caliphs"
+          }
+        },
+        {
+          "slug": "03-the-umayyad-state",
+          "title": {
+            "ar": "الدولة الأموية",
+            "en": "The Umayyad State"
+          }
+        },
+        {
+          "slug": "04-conquests-of-the-umayyad-era",
+          "title": {
+            "ar": "الفتوحات في عهد الدولة الأموية",
+            "en": "Conquests of the Umayyad Era"
+          }
+        },
+        {
+          "slug": "05-the-fall-of-the-umayyad-state",
+          "title": {
+            "ar": "سقوط الدولة الأموية",
+            "en": "The Fall of the Umayyad State"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-from-the-history-of-africa",
+      "title": {
+        "ar": "من تاريخ إفريقيا",
+        "en": "From the History of Africa"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-settlements-and-migration-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-africa-and-africans",
+          "title": {
+            "ar": "إفريقيا والإفريقيون",
+            "en": "Africa and Africans"
+          },
+          "image": "clickview/elementary-africa-cover.jpg"
+        },
+        {
+          "slug": "02-africas-location-and-population",
+          "title": {
+            "ar": "موقع إفريقيا وسكانها",
+            "en": "Africa's Location and Population"
+          },
+          "image": "clickview/elementary-africa-cover.jpg"
+        },
+        {
+          "slug": "03-examples-of-ancient-african-civilizations",
+          "title": {
+            "ar": "نماذج من حضارات إفريقيا القديمة",
+            "en": "Examples of Ancient African Civilizations"
+          },
+          "image": "clickview/elementary-africa-cover.jpg"
+        },
+        {
+          "slug": "04-the-arrival-of-christianity-in-africa",
+          "title": {
+            "ar": "دخول المسيحية في إفريقيا",
+            "en": "The Arrival of Christianity in Africa"
+          }
+        },
+        {
+          "slug": "05-routes-of-the-spread-of-islam-in-africa",
+          "title": {
+            "ar": "طرق انتشار الإسلام في إفريقيا",
+            "en": "Routes of the Spread of Islam in Africa"
+          }
+        },
+        {
+          "slug": "06-factors-and-means-of-the-spread-of-islam-in",
+          "title": {
+            "ar": "عوامل ووسائل انتشار الإسلام في إفريقيا",
+            "en": "Factors and Means of the Spread of Islam in Africa"
+          }
+        },
+        {
+          "slug": "07-the-spread-of-islam-in-north-africa",
+          "title": {
+            "ar": "انتشار الإسلام في شمال إفريقيا",
+            "en": "The Spread of Islam in North Africa"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-from-the-history-of-europe",
+      "title": {
+        "ar": "من تاريخ أوربا",
+        "en": "From the History of Europe"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-the-middle-ages-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-europe-in-the-dark-ages",
+          "title": {
+            "ar": "أوربا في عصور الظلام",
+            "en": "Europe in the Dark Ages"
+          }
+        },
+        {
+          "slug": "02-the-influence-of-islamic-civilization-on-europe",
+          "title": {
+            "ar": "أثر الحضارة الإسلامية على أوربا",
+            "en": "The Influence of Islamic Civilization on Europe"
+          }
+        },
+        {
+          "slug": "03-the-european-renaissance",
+          "title": {
+            "ar": "النهضة الأوربية",
+            "en": "The European Renaissance"
+          },
+          "image": "clickview/elementary-the-age-of-discovery-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-national-education",
+      "title": {
+        "ar": "فن التربية الوطنية",
+        "en": "National Education"
+      },
+      "concept": "civic",
+      "image": "clickview/middle-identity-and-community-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-characteristics-of-the-sudanese-people",
+          "title": {
+            "ar": "خصائص الإنسان السوداني",
+            "en": "Characteristics of the Sudanese People"
+          }
+        },
+        {
+          "slug": "02-characteristics-of-sudanese-society",
+          "title": {
+            "ar": "خصائص المجتمع السوداني",
+            "en": "Characteristics of Sudanese Society"
+          }
+        },
+        {
+          "slug": "03-features-of-the-sudanese-land",
+          "title": {
+            "ar": "مميزات الأرض السودانية",
+            "en": "Features of the Sudanese Land"
+          },
+          "image": "clickview/high-landforms-and-landscapes-cover.jpg"
+        },
+        {
+          "slug": "04-sudans-contribution-to-human-civilization",
+          "title": {
+            "ar": "إسهام السودان في الحضارة الإنسانية",
+            "en": "Sudan's Contribution to Human Civilization"
+          }
+        }
+      ]
+    }
+  ]
+}

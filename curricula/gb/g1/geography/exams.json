@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g1-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-geo-unit-01-uk-01-four-countries-lq01",
+          "type": "mcq",
+          "question": "Which is NOT a country of the UK?",
+          "options": [
+            "England",
+            "Scotland",
+            "Wales",
+            "Spain"
+          ],
+          "answer": "Spain",
+          "explanation": "UK = England, Scotland, Wales, N. Ireland."
+        },
+        {
+          "id": "g1-geo-unit-01-uk-01-four-countries-lq02",
+          "type": "true_false",
+          "question": "London is the capital city of England.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Capital of England/UK."
+        },
+        {
+          "id": "g1-geo-unit-02-weather-01-seasons-lq01",
+          "type": "mcq",
+          "question": "Which season is usually warmest in the UK?",
+          "options": [
+            "winter",
+            "summer",
+            "autumn",
+            "spring"
+          ],
+          "answer": "summer",
+          "explanation": "Warmest season."
+        },
+        {
+          "id": "g1-geo-unit-02-weather-01-seasons-lq02",
+          "type": "true_false",
+          "question": "It tends to be colder in winter than in summer.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Seasonal change."
+        }
+      ]
+    }
+  ]
+}

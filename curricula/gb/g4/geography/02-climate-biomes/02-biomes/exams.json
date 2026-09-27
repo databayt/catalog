@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "geography",
+    "chapter": "02-climate-biomes",
+    "lesson": "02-biomes"
+  },
+  "exams": [
+    {
+      "id": "g4-geo-unit-02-climate-biomes-02-biomes-quiz",
+      "title": "Quiz: World Biomes",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-geo-unit-02-climate-biomes-02-biomes-lq01",
+          "type": "mcq",
+          "question": "A cold, treeless biome near the poles is the:",
+          "options": [
+            "tundra",
+            "rainforest",
+            "desert",
+            "grassland"
+          ],
+          "answer": "tundra",
+          "explanation": "Polar biome."
+        },
+        {
+          "id": "g4-geo-unit-02-climate-biomes-02-biomes-lq02",
+          "type": "true_false",
+          "question": "Different biomes support different plants and animals.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Biodiversity."
+        },
+        {
+          "id": "g4-geo-unit-02-climate-biomes-02-biomes-lq03",
+          "type": "fill_blank",
+          "question": "Large grassy plains with few trees are ___.",
+          "answer": "grasslands",
+          "explanation": "Grassland biome."
+        },
+        {
+          "id": "g4-geo-unit-02-climate-biomes-02-biomes-lq04",
+          "type": "short_answer",
+          "question": "Why do plants and animals differ between biomes?",
+          "answer": "They adapt to each biome's climate and conditions.",
+          "explanation": "Adaptation."
+        }
+      ]
+    }
+  ]
+}

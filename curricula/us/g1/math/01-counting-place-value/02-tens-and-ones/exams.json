@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "01-counting-place-value",
+    "lesson": "02-tens-and-ones"
+  },
+  "exams": [
+    {
+      "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-quiz",
+      "title": "Quiz: Tens and Ones",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-lq01",
+          "type": "mcq",
+          "question": "The number 34 has how many tens?",
+          "options": [
+            "3",
+            "4",
+            "34",
+            "7"
+          ],
+          "answer": "3",
+          "explanation": "34 = 3 tens and 4 ones."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-lq02",
+          "type": "true_false",
+          "question": "In 47, the digit 7 is in the ones place.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "The right-most digit shows ones."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-lq03",
+          "type": "fill_blank",
+          "question": "5 tens and 2 ones make the number ___.",
+          "answer": "52",
+          "explanation": "50 + 2 = 52."
+        },
+        {
+          "id": "g1-mat-unit-01-counting-place-value-02-tens-and-ones-lq04",
+          "type": "short_answer",
+          "question": "Break 68 into tens and ones.",
+          "answer": "6 tens and 8 ones",
+          "explanation": "68 = 60 + 8."
+        }
+      ]
+    }
+  ]
+}

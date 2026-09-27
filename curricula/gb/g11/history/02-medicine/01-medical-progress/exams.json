@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history",
+    "chapter": "02-medicine",
+    "lesson": "01-medical-progress"
+  },
+  "exams": [
+    {
+      "id": "g11-his-unit-02-medicine-01-medical-progress-quiz",
+      "title": "Quiz: Medical Progress",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq01",
+          "type": "mcq",
+          "question": "Edward Jenner developed the first vaccine against:",
+          "options": [
+            "smallpox",
+            "cancer",
+            "colds",
+            "malaria"
+          ],
+          "answer": "smallpox",
+          "explanation": "1796 vaccine."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq02",
+          "type": "true_false",
+          "question": "Germ theory showed that microbes cause disease.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pasteur/Koch."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq03",
+          "type": "fill_blank",
+          "question": "Alexander Fleming discovered the antibiotic ___.",
+          "answer": "penicillin",
+          "explanation": "1928."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-01-medical-progress-lq04",
+          "type": "short_answer",
+          "question": "Name one factor that drives medical progress.",
+          "answer": "e.g., science, technology, war, government, or individuals.",
+          "explanation": "Factors."
+        }
+      ]
+    }
+  ]
+}

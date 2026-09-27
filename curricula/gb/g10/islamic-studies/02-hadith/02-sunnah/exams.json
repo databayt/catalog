@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "islamic-studies",
+    "chapter": "02-hadith",
+    "lesson": "02-sunnah"
+  },
+  "exams": [
+    {
+      "id": "g10-isl-unit-02-hadith-02-sunnah-quiz",
+      "title": "Quiz: السنة النبوية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq01",
+          "type": "mcq",
+          "question": "السنة هي المصدر ___ للتشريع.",
+          "options": [
+            "الثاني",
+            "الرابع",
+            "الخامس",
+            "العاشر"
+          ],
+          "answer": "الثاني",
+          "explanation": "بعد القرآن."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq02",
+          "type": "true_false",
+          "question": "السنة تبيّن وتفصّل ما جاء في القرآن.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "وظيفة السنة."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq03",
+          "type": "fill_blank",
+          "question": "السنة النبوية مصدر للتشريع بعد ___.",
+          "answer": "القرآن",
+          "explanation": "المصادر."
+        },
+        {
+          "id": "g10-isl-unit-02-hadith-02-sunnah-lq04",
+          "type": "short_answer",
+          "question": "ما علاقة السنة بالقرآن؟",
+          "answer": "تبيّن مجمله وتفصّل أحكامه.",
+          "explanation": "السنة."
+        }
+      ]
+    }
+  ]
+}

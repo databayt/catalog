@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "01-forces",
+    "lesson": "01-forces"
+  },
+  "exams": [
+    {
+      "id": "g11-phy-unit-01-forces-01-forces-quiz",
+      "title": "Quiz: Forces & Newton's Laws",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq01",
+          "type": "mcq",
+          "question": "Resultant force = mass ×:",
+          "options": [
+            "velocity",
+            "acceleration",
+            "distance",
+            "time"
+          ],
+          "answer": "acceleration",
+          "explanation": "F = ma."
+        },
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq02",
+          "type": "true_false",
+          "question": "A balanced force results in no change in motion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Equilibrium."
+        },
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq03",
+          "type": "fill_blank",
+          "question": "Force is measured in ___.",
+          "answer": "newtons",
+          "explanation": "Unit N."
+        },
+        {
+          "id": "g11-phy-unit-01-forces-01-forces-lq04",
+          "type": "short_answer",
+          "question": "State Newton's first law.",
+          "answer": "An object stays at rest or moves at constant velocity unless acted on by a resultant force.",
+          "explanation": "First law."
+        }
+      ]
+    }
+  ]
+}

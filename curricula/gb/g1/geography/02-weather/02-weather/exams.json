@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "geography",
+    "chapter": "02-weather",
+    "lesson": "02-weather"
+  },
+  "exams": [
+    {
+      "id": "g1-geo-unit-02-weather-02-weather-quiz",
+      "title": "Quiz: Daily Weather",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-geo-unit-02-weather-02-weather-lq01",
+          "type": "mcq",
+          "question": "Which tool measures temperature?",
+          "options": [
+            "thermometer",
+            "ruler",
+            "clock",
+            "scale"
+          ],
+          "answer": "thermometer",
+          "explanation": "Temperature."
+        },
+        {
+          "id": "g1-geo-unit-02-weather-02-weather-lq02",
+          "type": "true_false",
+          "question": "Weather can change from day to day.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Weather varies."
+        },
+        {
+          "id": "g1-geo-unit-02-weather-02-weather-lq03",
+          "type": "fill_blank",
+          "question": "Frozen rain that falls in winter is ___.",
+          "answer": "snow",
+          "explanation": "Precipitation type."
+        },
+        {
+          "id": "g1-geo-unit-02-weather-02-weather-lq04",
+          "type": "short_answer",
+          "question": "Why do we record the weather?",
+          "answer": "To see patterns and know what to expect/wear.",
+          "explanation": "Weather observation."
+        }
+      ]
+    }
+  ]
+}

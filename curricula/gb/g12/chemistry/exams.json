@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "chemistry"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-chemistry-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-che-unit-01-physical-chemistry-01-atomic-structure-amount-of-substance-lq01",
+          "type": "mcq",
+          "question": "Which statement best describes the focus of \"Atomic Structure & Amount of Substance\"?",
+          "options": [
+            "It is the core idea of this lesson",
+            "It is unrelated to Physical Chemistry",
+            "It belongs to a different grade",
+            "None of the above"
+          ],
+          "answer": "It is the core idea of this lesson",
+          "explanation": "\"Atomic Structure & Amount of Substance\" is a lesson within the unit \"Physical Chemistry\"."
+        },
+        {
+          "id": "g12-che-unit-01-physical-chemistry-01-atomic-structure-amount-of-substance-lq02",
+          "type": "true_false",
+          "question": "\"Atomic Structure & Amount of Substance\" is part of the unit \"Physical Chemistry\".",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "This lesson sits inside the named unit."
+        },
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-01-periodicity-lq01",
+          "type": "mcq",
+          "question": "Which statement best describes the focus of \"Periodicity\"?",
+          "options": [
+            "It is the core idea of this lesson",
+            "It is unrelated to Inorganic Chemistry",
+            "It belongs to a different grade",
+            "None of the above"
+          ],
+          "answer": "It is the core idea of this lesson",
+          "explanation": "\"Periodicity\" is a lesson within the unit \"Inorganic Chemistry\"."
+        },
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-01-periodicity-lq02",
+          "type": "true_false",
+          "question": "\"Periodicity\" is part of the unit \"Inorganic Chemistry\".",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "This lesson sits inside the named unit."
+        },
+        {
+          "id": "g12-che-unit-03-organic-chemistry-01-alkanes-alkenes-lq01",
+          "type": "mcq",
+          "question": "Which statement best describes the focus of \"Alkanes & Alkenes\"?",
+          "options": [
+            "It is the core idea of this lesson",
+            "It is unrelated to Organic Chemistry",
+            "It belongs to a different grade",
+            "None of the above"
+          ],
+          "answer": "It is the core idea of this lesson",
+          "explanation": "\"Alkanes & Alkenes\" is a lesson within the unit \"Organic Chemistry\"."
+        },
+        {
+          "id": "g12-che-unit-03-organic-chemistry-01-alkanes-alkenes-lq02",
+          "type": "true_false",
+          "question": "\"Alkanes & Alkenes\" is part of the unit \"Organic Chemistry\".",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "This lesson sits inside the named unit."
+        }
+      ]
+    }
+  ]
+}

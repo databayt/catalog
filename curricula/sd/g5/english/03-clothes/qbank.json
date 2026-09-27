@@ -1,0 +1,130 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "03-clothes"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-3-01-lesson-1-q01",
+      "type": "mcq",
+      "question": "What does it mean to 'scan' a text?",
+      "options": [
+        "Read quickly to find specific information",
+        "Read every word carefully",
+        "Read aloud",
+        "Skip the text"
+      ],
+      "answer": "Read quickly to find specific information",
+      "explanation": "Scanning means looking for specific information quickly."
+    },
+    {
+      "id": "g5-eng-unit-3-01-lesson-1-q02",
+      "type": "true_false",
+      "question": "Context clues help you understand unknown words.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+    },
+    {
+      "id": "g5-eng-unit-3-02-lesson-2-q01",
+      "type": "mcq",
+      "question": "What does it mean to 'scan' a text?",
+      "options": [
+        "Read quickly to find specific information",
+        "Read every word carefully",
+        "Read aloud",
+        "Skip the text"
+      ],
+      "answer": "Read quickly to find specific information",
+      "explanation": "Scanning means looking for specific information quickly."
+    },
+    {
+      "id": "g5-eng-unit-3-02-lesson-2-q02",
+      "type": "true_false",
+      "question": "Context clues help you understand unknown words.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+    },
+    {
+      "id": "g5-eng-unit-3-03-lesson-3-q01",
+      "type": "mcq",
+      "question": "What does it mean to 'scan' a text?",
+      "options": [
+        "Read quickly to find specific information",
+        "Read every word carefully",
+        "Read aloud",
+        "Skip the text"
+      ],
+      "answer": "Read quickly to find specific information",
+      "explanation": "Scanning means looking for specific information quickly."
+    },
+    {
+      "id": "g5-eng-unit-3-03-lesson-3-q02",
+      "type": "true_false",
+      "question": "Context clues help you understand unknown words.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+    },
+    {
+      "id": "g5-eng-unit-3-04-lesson-4-q01",
+      "type": "mcq",
+      "question": "What does it mean to 'scan' a text?",
+      "options": [
+        "Read quickly to find specific information",
+        "Read every word carefully",
+        "Read aloud",
+        "Skip the text"
+      ],
+      "answer": "Read quickly to find specific information",
+      "explanation": "Scanning means looking for specific information quickly."
+    },
+    {
+      "id": "g5-eng-unit-3-04-lesson-4-q02",
+      "type": "true_false",
+      "question": "Context clues help you understand unknown words.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+    },
+    {
+      "id": "g5-eng-unit-3-05-lesson-5-q01",
+      "type": "mcq",
+      "question": "What does it mean to 'scan' a text?",
+      "options": [
+        "Read quickly to find specific information",
+        "Read every word carefully",
+        "Read aloud",
+        "Skip the text"
+      ],
+      "answer": "Read quickly to find specific information",
+      "explanation": "Scanning means looking for specific information quickly."
+    },
+    {
+      "id": "g5-eng-unit-3-05-lesson-5-q02",
+      "type": "true_false",
+      "question": "Context clues help you understand unknown words.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context clues are hints in the text that help understand unfamiliar words."
+    }
+  ]
+}

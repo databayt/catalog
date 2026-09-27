@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "arabic",
+    "chapter": "02-bayan"
+  },
+  "exams": [
+    {
+      "id": "g10-ara-unit-02-bayan-exam",
+      "title": "Exam: علم البيان",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq01",
+          "type": "mcq",
+          "question": "(العلمُ كالنورِ) أسلوب:",
+          "options": [
+            "تشبيه",
+            "استعارة",
+            "كناية",
+            "خبر"
+          ],
+          "answer": "تشبيه",
+          "explanation": "أداة الكاف."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq02",
+          "type": "true_false",
+          "question": "التشبيه يحتاج إلى مشبه ومشبه به.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "أركان التشبيه."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq03",
+          "type": "fill_blank",
+          "question": "أداة التشبيه في (كالأسد) هي ___.",
+          "answer": "الكاف",
+          "explanation": "أداة التشبيه."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq04",
+          "type": "short_answer",
+          "question": "هات تشبيهاً.",
+          "answer": "مثل: الجنديُّ كالأسدِ في الشجاعة.",
+          "explanation": "التشبيه."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-02-istiara-lq01",
+          "type": "mcq",
+          "question": "الاستعارة تشبيه حُذف أحد ___.",
+          "options": [
+            "طرفيه",
+            "حروفه",
+            "أدواته فقط",
+            "معانيه"
+          ],
+          "answer": "طرفيه",
+          "explanation": "تعريف الاستعارة."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-02-istiara-lq02",
+          "type": "true_false",
+          "question": "الكناية تعبير يراد به لازم معناه.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الكناية."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-02-istiara-lq03",
+          "type": "fill_blank",
+          "question": "(رأيتُ أسداً يخطب) فيها ___ تصريحية.",
+          "answer": "استعارة",
+          "explanation": "الاستعارة."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-02-istiara-lq04",
+          "type": "short_answer",
+          "question": "ما الفرق بين التشبيه والاستعارة؟",
+          "answer": "التشبيه يذكر الطرفين، والاستعارة تحذف أحدهما.",
+          "explanation": "البيان."
+        }
+      ]
+    }
+  ]
+}

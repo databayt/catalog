@@ -1,0 +1,456 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "islamic-studies"
+  },
+  "questions": [
+    {
+      "id": "g6-isl-unit-1-quranic-studies-01-quran-studies-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-01-quran-studies-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-02-surah-tajeed-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-02-surah-tajeed-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-03-surah-al-taha-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-03-surah-al-taha-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-04-surah-ar-rahman-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-04-surah-ar-rahman-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-05-surah-al-waqiah-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-1-quranic-studies-05-surah-al-waqiah-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-07-quranic-sciences-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-07-quranic-sciences-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-08-quran-memorization-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-08-quran-memorization-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-09-quranic-interpretation-miracle-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-09-quranic-interpretation-miracle-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-10-quranic-miracles-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-10-quranic-miracles-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-11-quran-story-prophet-lut-q01",
+      "type": "mcq",
+      "question": "ما سورة الفاتحة في ترتيب القرآن؟",
+      "options": [
+        "السورة الأولى",
+        "الثانية",
+        "الثالثة",
+        "العاشرة"
+      ],
+      "answer": "السورة الأولى",
+      "explanation": "سورة الفاتحة هي أم الكتاب وأول سور القرآن."
+    },
+    {
+      "id": "g6-isl-unit-2-quranic-sciences-11-quran-story-prophet-lut-q02",
+      "type": "true_false",
+      "question": "سورة الإخلاص تعدل ثلث القرآن في أجرها.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "ورد في الحديث أن سورة الإخلاص تعدل ثلث القرآن."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-12-hadith-sciences-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام الخمسة؟",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-12-hadith-sciences-q02",
+      "type": "true_false",
+      "question": "الشهادتان هما الركن الأول في الإسلام.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-12-hadith-sciences-q03",
+      "type": "fill_blank",
+      "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+      "answer": "التاسع",
+      "explanation": "رمضان التاسع في التقويم الهجري."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-13-authentic-hadith-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام الخمسة؟",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-13-authentic-hadith-q02",
+      "type": "true_false",
+      "question": "الشهادتان هما الركن الأول في الإسلام.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-13-authentic-hadith-q03",
+      "type": "fill_blank",
+      "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+      "answer": "التاسع",
+      "explanation": "رمضان التاسع في التقويم الهجري."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-14-hadith-collection-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام الخمسة؟",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-14-hadith-collection-q02",
+      "type": "true_false",
+      "question": "الشهادتان هما الركن الأول في الإسلام.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+    },
+    {
+      "id": "g6-isl-unit-3-hadith-14-hadith-collection-q03",
+      "type": "fill_blank",
+      "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+      "answer": "التاسع",
+      "explanation": "رمضان التاسع في التقويم الهجري."
+    },
+    {
+      "id": "g6-isl-unit-4-islamic-beliefs-15-islamic-creed-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام الخمسة؟",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+    },
+    {
+      "id": "g6-isl-unit-4-islamic-beliefs-15-islamic-creed-q02",
+      "type": "true_false",
+      "question": "الشهادتان هما الركن الأول في الإسلام.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+    },
+    {
+      "id": "g6-isl-unit-4-islamic-beliefs-15-islamic-creed-q03",
+      "type": "fill_blank",
+      "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+      "answer": "التاسع",
+      "explanation": "رمضان التاسع في التقويم الهجري."
+    },
+    {
+      "id": "g6-isl-unit-4-islamic-beliefs-15-islamic-creed-q04",
+      "type": "short_answer",
+      "question": "ما الفرق بين الفرض والسنة في العبادات؟",
+      "answer": "الفرض واجب ومن تركه يأثم، والسنة مستحبة ومن تركها لا يأثم.",
+      "explanation": "أحكام العبادات تتفاوت بين الفرض والسنة والمستحب."
+    },
+    {
+      "id": "g6-isl-unit-5-islamic-jurisprudence-16-islamic-jurisprudence-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g6-isl-unit-5-islamic-jurisprudence-16-islamic-jurisprudence-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    },
+    {
+      "id": "g6-isl-unit-5-islamic-jurisprudence-16-islamic-jurisprudence-q03",
+      "type": "fill_blank",
+      "question": "قبل الصلاة يجب التطهر من الحدث بـ___.",
+      "answer": "الوضوء",
+      "explanation": "الوضوء شرط صحة الصلاة."
+    },
+    {
+      "id": "g6-isl-unit-5-islamic-jurisprudence-16-islamic-jurisprudence-q04",
+      "type": "short_answer",
+      "question": "ما ينقض الوضوء؟",
+      "answer": "الخروج من السبيلين، النوم الثقيل، زوال العقل، لمس الفرج بشهوة.",
+      "explanation": "نواقض الوضوء تستوجب إعادة الوضوء قبل الصلاة."
+    },
+    {
+      "id": "g6-isl-unit-6-islamic-history-biography-17-prophetic-biography-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام الخمسة؟",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+    },
+    {
+      "id": "g6-isl-unit-6-islamic-history-biography-17-prophetic-biography-q02",
+      "type": "true_false",
+      "question": "الشهادتان هما الركن الأول في الإسلام.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+    },
+    {
+      "id": "g6-isl-unit-6-islamic-history-biography-17-prophetic-biography-q03",
+      "type": "fill_blank",
+      "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+      "answer": "التاسع",
+      "explanation": "رمضان التاسع في التقويم الهجري."
+    },
+    {
+      "id": "g6-isl-unit-6-islamic-history-biography-17-prophetic-biography-q04",
+      "type": "short_answer",
+      "question": "ما الفرق بين الفرض والسنة في العبادات؟",
+      "answer": "الفرض واجب ومن تركه يأثم، والسنة مستحبة ومن تركها لا يأثم.",
+      "explanation": "أحكام العبادات تتفاوت بين الفرض والسنة والمستحب."
+    }
+  ]
+}

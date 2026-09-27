@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "science"
+  },
+  "questions": [
+    {
+      "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq01",
+      "type": "mcq",
+      "question": "When sugar dissolves in water, the matter is:",
+      "options": [
+        "destroyed",
+        "conserved (still there)",
+        "created",
+        "frozen"
+      ],
+      "answer": "conserved (still there)",
+      "explanation": "Mass is conserved."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq02",
+      "type": "true_false",
+      "question": "Mixing substances can change properties but not total mass.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Conservation of mass."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq03",
+      "type": "fill_blank",
+      "question": "Total mass before and after a change stays the ___.",
+      "answer": "same",
+      "explanation": "Conserved."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-01-conservation-matter-lq04",
+      "type": "short_answer",
+      "question": "How could you show dissolved sugar is still present?",
+      "answer": "Taste or evaporate the water to recover it.",
+      "explanation": "Evidence of conservation."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-02-mixtures-lq01",
+      "type": "mcq",
+      "question": "A solution is a mixture that is:",
+      "options": [
+        "lumpy",
+        "evenly mixed",
+        "always solid",
+        "magnetic"
+      ],
+      "answer": "evenly mixed",
+      "explanation": "Uniform mixture."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-02-mixtures-lq02",
+      "type": "true_false",
+      "question": "Salt water is a solution.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Salt dissolved in water."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-02-mixtures-lq03",
+      "type": "fill_blank",
+      "question": "Using a filter can separate a ___.",
+      "answer": "mixture",
+      "explanation": "Separation method."
+    },
+    {
+      "id": "g5-sci-unit-01-matter-systems-02-mixtures-lq04",
+      "type": "short_answer",
+      "question": "How can you separate salt from salt water?",
+      "answer": "Evaporate the water, leaving the salt.",
+      "explanation": "Evaporation."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-01-food-webs-lq01",
+      "type": "mcq",
+      "question": "In a food web, energy starts with:",
+      "options": [
+        "predators",
+        "producers (plants)",
+        "decomposers",
+        "rocks"
+      ],
+      "answer": "producers (plants)",
+      "explanation": "Plants capture Sun's energy."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-01-food-webs-lq02",
+      "type": "true_false",
+      "question": "Arrows in a food web show energy flow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "From eaten to eater."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-01-food-webs-lq03",
+      "type": "fill_blank",
+      "question": "Animals that eat only plants are ___.",
+      "answer": "herbivores",
+      "explanation": "Plant eaters."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-01-food-webs-lq04",
+      "type": "short_answer",
+      "question": "What role do decomposers play?",
+      "answer": "They break down dead matter and recycle nutrients.",
+      "explanation": "Recycling."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq01",
+      "type": "mcq",
+      "question": "Water turning to vapor is:",
+      "options": [
+        "condensation",
+        "evaporation",
+        "precipitation",
+        "erosion"
+      ],
+      "answer": "evaporation",
+      "explanation": "Liquid → gas."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq02",
+      "type": "true_false",
+      "question": "Condensation forms clouds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Vapor → droplets."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq03",
+      "type": "fill_blank",
+      "question": "Rain and snow are forms of ___.",
+      "answer": "precipitation",
+      "explanation": "Water falling."
+    },
+    {
+      "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq04",
+      "type": "short_answer",
+      "question": "Describe the water cycle briefly.",
+      "answer": "Evaporation, condensation, precipitation, and collection repeat.",
+      "explanation": "Cycle stages."
+    }
+  ]
+}

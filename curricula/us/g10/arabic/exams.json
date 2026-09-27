@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "us-g10-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq01",
+          "type": "mcq",
+          "question": "الغرض من تحليل النص هو فهم:",
+          "options": [
+            "عدد الكلمات",
+            "المعنى والأساليب",
+            "الخط",
+            "السعر"
+          ],
+          "answer": "المعنى والأساليب",
+          "explanation": "التحليل الأدبي."
+        },
+        {
+          "id": "g10-ara-unit-01-texts-01-analysis-lq02",
+          "type": "true_false",
+          "question": "الصورة الفنية تعتمد على التشبيه والاستعارة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الصور البلاغية."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq01",
+          "type": "mcq",
+          "question": "(العلمُ كالنورِ) أسلوب:",
+          "options": [
+            "تشبيه",
+            "استعارة",
+            "كناية",
+            "خبر"
+          ],
+          "answer": "تشبيه",
+          "explanation": "أداة الكاف."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq02",
+          "type": "true_false",
+          "question": "التشبيه يحتاج إلى مشبه ومشبه به.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "أركان التشبيه."
+        }
+      ]
+    }
+  ]
+}

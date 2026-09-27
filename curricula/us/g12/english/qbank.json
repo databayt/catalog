@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq01",
+      "type": "mcq",
+      "question": "A 'canonical' work is one that is:",
+      "options": [
+        "new",
+        "widely regarded as important",
+        "unpublished",
+        "translated only"
+      ],
+      "answer": "widely regarded as important",
+      "explanation": "Established significance."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq02",
+      "type": "true_false",
+      "question": "Allusion is a reference to another text or event.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Literary allusion."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq03",
+      "type": "fill_blank",
+      "question": "A long narrative poem about a hero is an ___.",
+      "answer": "epic",
+      "explanation": "Epic poem."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-01-canon-lq04",
+      "type": "short_answer",
+      "question": "Why study classic literature?",
+      "answer": "To engage with influential ideas, forms, and language across time.",
+      "explanation": "Canon value."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-02-critical-lens-lq01",
+      "type": "mcq",
+      "question": "Reading a text for its social class issues uses a ___ lens:",
+      "options": [
+        "Marxist",
+        "none",
+        "random",
+        "spelling"
+      ],
+      "answer": "Marxist",
+      "explanation": "Critical theory."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-02-critical-lens-lq02",
+      "type": "true_false",
+      "question": "Different critical lenses can reveal different meanings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Multiple readings."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-02-critical-lens-lq03",
+      "type": "fill_blank",
+      "question": "Analyzing gender roles in a text uses a ___ lens.",
+      "answer": "feminist",
+      "explanation": "Feminist criticism."
+    },
+    {
+      "id": "g12-eng-unit-01-british-world-lit-02-critical-lens-lq04",
+      "type": "short_answer",
+      "question": "What is a critical lens?",
+      "answer": "A perspective or theory used to interpret a text.",
+      "explanation": "Critical theory."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq01",
+      "type": "mcq",
+      "question": "A literary analysis essay focuses on:",
+      "options": [
+        "plot retelling",
+        "how a text creates meaning",
+        "the author's bio",
+        "the cover"
+      ],
+      "answer": "how a text creates meaning",
+      "explanation": "Analysis not summary."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq02",
+      "type": "true_false",
+      "question": "Strong analysis explains how evidence supports the thesis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Explain the link."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq03",
+      "type": "fill_blank",
+      "question": "A paragraph proving one point begins with a ___ sentence.",
+      "answer": "topic",
+      "explanation": "Topic sentence."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq04",
+      "type": "short_answer",
+      "question": "How is analysis different from summary?",
+      "answer": "Summary retells; analysis explains how and why something works.",
+      "explanation": "Analysis vs summary."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-02-professional-lq01",
+      "type": "mcq",
+      "question": "A formal email should be:",
+      "options": [
+        "slangy",
+        "clear and professional",
+        "all caps",
+        "emoji-filled"
+      ],
+      "answer": "clear and professional",
+      "explanation": "Professional tone."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-02-professional-lq02",
+      "type": "true_false",
+      "question": "A resume summarizes skills and experience.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Career document."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-02-professional-lq03",
+      "type": "fill_blank",
+      "question": "A persuasive letter for a job is a ___ letter.",
+      "answer": "cover",
+      "explanation": "Cover letter."
+    },
+    {
+      "id": "g12-eng-unit-02-college-writing-02-professional-lq04",
+      "type": "short_answer",
+      "question": "Name one feature of professional writing.",
+      "answer": "e.g., clear purpose, appropriate tone, correct conventions.",
+      "explanation": "Professional writing."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "02-research"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-02-research-01-sources-lq01",
+      "type": "mcq",
+      "question": "A credible source is usually:",
+      "options": [
+        "anonymous",
+        "authoritative and reliable",
+        "a random blog",
+        "unsourced"
+      ],
+      "answer": "authoritative and reliable",
+      "explanation": "Reliability."
+    },
+    {
+      "id": "g10-eng-unit-02-research-01-sources-lq02",
+      "type": "true_false",
+      "question": "Primary sources are firsthand accounts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., diaries, data."
+    },
+    {
+      "id": "g10-eng-unit-02-research-01-sources-lq03",
+      "type": "fill_blank",
+      "question": "Judging if a source is trustworthy is evaluating its ___.",
+      "answer": "credibility",
+      "explanation": "Source quality."
+    },
+    {
+      "id": "g10-eng-unit-02-research-01-sources-lq04",
+      "type": "short_answer",
+      "question": "Name one criterion for evaluating a source.",
+      "answer": "e.g., author expertise, currency, or bias.",
+      "explanation": "Source evaluation."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq01",
+      "type": "mcq",
+      "question": "Synthesis means:",
+      "options": [
+        "copying one source",
+        "combining ideas from multiple sources",
+        "ignoring sources",
+        "summarizing one text"
+      ],
+      "answer": "combining ideas from multiple sources",
+      "explanation": "Integrate sources."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq02",
+      "type": "true_false",
+      "question": "In-text citations credit sources within writing.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Avoid plagiarism."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq03",
+      "type": "fill_blank",
+      "question": "Combining sources to support a point is ___.",
+      "answer": "synthesis",
+      "explanation": "Synthesizing."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq04",
+      "type": "short_answer",
+      "question": "Why synthesize rather than just summarize?",
+      "answer": "To build a new, supported argument from multiple sources.",
+      "explanation": "Synthesis purpose."
+    }
+  ]
+}

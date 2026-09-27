@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "01-american-lit",
+    "lesson": "02-rhetoric-speeches"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-quiz",
+      "title": "Quiz: American Rhetoric",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq01",
+          "type": "mcq",
+          "question": "A famous American rhetorical text is:",
+          "options": [
+            "the Gettysburg Address",
+            "a grocery list",
+            "a phone bill",
+            "a menu"
+          ],
+          "answer": "the Gettysburg Address",
+          "explanation": "Lincoln's speech."
+        },
+        {
+          "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq02",
+          "type": "true_false",
+          "question": "Repetition (anaphora) is a rhetorical device.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., 'I have a dream...'."
+        },
+        {
+          "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq03",
+          "type": "fill_blank",
+          "question": "An appeal to shared values builds the speaker's ___.",
+          "answer": "ethos",
+          "explanation": "Credibility/values."
+        },
+        {
+          "id": "g11-eng-unit-01-american-lit-02-rhetoric-speeches-lq04",
+          "type": "short_answer",
+          "question": "Why analyze historic speeches?",
+          "answer": "To understand persuasion and the era's values and issues.",
+          "explanation": "Rhetorical analysis."
+        }
+      ]
+    }
+  ]
+}

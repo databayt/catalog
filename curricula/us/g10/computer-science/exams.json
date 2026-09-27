@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "computer-science"
+  },
+  "exams": [
+    {
+      "id": "us-g10-computer-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-com-unit-01-programming-01-fundamentals-lq01",
+          "type": "mcq",
+          "question": "A named store for a value in a program is a:",
+          "options": [
+            "variable",
+            "virus",
+            "cable",
+            "pixel"
+          ],
+          "answer": "variable",
+          "explanation": "Variables."
+        },
+        {
+          "id": "g10-com-unit-01-programming-01-fundamentals-lq02",
+          "type": "true_false",
+          "question": "Selection uses conditions like if-statements.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Selection."
+        },
+        {
+          "id": "g10-com-unit-02-systems-01-hardware-lq01",
+          "type": "mcq",
+          "question": "The 'brain' of the computer that processes instructions is the:",
+          "options": [
+            "CPU",
+            "mouse",
+            "screen",
+            "speaker"
+          ],
+          "answer": "CPU",
+          "explanation": "Processor."
+        },
+        {
+          "id": "g10-com-unit-02-systems-01-hardware-lq02",
+          "type": "true_false",
+          "question": "Software is the programs that run on hardware.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Software."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "pshe"
+  },
+  "exams": [
+    {
+      "id": "gb-g3-pshe-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-psh-unit-01-wellbeing-01-healthy-living-lq01",
+          "type": "mcq",
+          "question": "A balanced diet includes a variety of:",
+          "options": [
+            "food groups",
+            "sweets only",
+            "drinks only",
+            "one food"
+          ],
+          "answer": "food groups",
+          "explanation": "Healthy eating."
+        },
+        {
+          "id": "g3-psh-unit-01-wellbeing-01-healthy-living-lq02",
+          "type": "true_false",
+          "question": "Sleep and exercise are important for wellbeing.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Wellbeing."
+        },
+        {
+          "id": "g3-psh-unit-02-relationships-01-relationships-lq01",
+          "type": "mcq",
+          "question": "A healthy friendship is based on:",
+          "options": [
+            "respect and trust",
+            "control",
+            "unkindness",
+            "fear"
+          ],
+          "answer": "respect and trust",
+          "explanation": "Relationships."
+        },
+        {
+          "id": "g3-psh-unit-02-relationships-01-relationships-lq02",
+          "type": "true_false",
+          "question": "It is okay to say no to something that feels wrong.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Boundaries."
+        }
+      ]
+    }
+  ]
+}

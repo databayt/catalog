@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "economics"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-economics-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-eco-unit-01-micro-01-supply-demand-lq01",
+          "type": "mcq",
+          "question": "If demand rises and supply is fixed, price tends to:",
+          "options": [
+            "rise",
+            "fall",
+            "vanish",
+            "freeze"
+          ],
+          "answer": "rise",
+          "explanation": "Price mechanism."
+        },
+        {
+          "id": "g12-eco-unit-01-micro-01-supply-demand-lq02",
+          "type": "true_false",
+          "question": "Scarcity means resources are limited relative to wants.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Scarcity."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq01",
+          "type": "mcq",
+          "question": "GDP measures a country's total:",
+          "options": [
+            "output",
+            "population",
+            "area",
+            "rainfall"
+          ],
+          "answer": "output",
+          "explanation": "GDP."
+        },
+        {
+          "id": "g12-eco-unit-02-macro-01-indicators-lq02",
+          "type": "true_false",
+          "question": "Inflation is a sustained rise in the general price level.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Inflation."
+        }
+      ]
+    }
+  ]
+}

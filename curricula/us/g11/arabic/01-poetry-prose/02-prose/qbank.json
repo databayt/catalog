@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "arabic",
+    "chapter": "01-poetry-prose",
+    "lesson": "02-prose"
+  },
+  "questions": [
+    {
+      "id": "g11-ara-unit-01-poetry-prose-02-prose-lq01",
+      "type": "mcq",
+      "question": "الخطبة والمقال من فنون:",
+      "options": [
+        "الشعر",
+        "النثر",
+        "النحو",
+        "الإملاء"
+      ],
+      "answer": "النثر",
+      "explanation": "فنون نثرية."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-02-prose-lq02",
+      "type": "true_false",
+      "question": "المقال نص نثري يعرض فكرة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "المقال."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-02-prose-lq03",
+      "type": "fill_blank",
+      "question": "القصة والرواية من الفنون ___.",
+      "answer": "النثرية",
+      "explanation": "النثر."
+    },
+    {
+      "id": "g11-ara-unit-01-poetry-prose-02-prose-lq04",
+      "type": "short_answer",
+      "question": "ما الفرق بين الشعر والنثر؟",
+      "answer": "الشعر موزون مقفّى، والنثر كلام مرسل بلا وزن.",
+      "explanation": "الشعر والنثر."
+    }
+  ]
+}

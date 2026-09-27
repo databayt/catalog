@@ -1,0 +1,609 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "science"
+  },
+  "questions": [
+    {
+      "id": "g8-sc-unitscience-q001",
+      "type": "mcq",
+      "question": "ما تعريف العلم؟",
+      "options": [
+        "المعرفة فقط",
+        "دراسة منظمة للطبيعة",
+        "الكتب",
+        "الآلات"
+      ],
+      "answer": "دراسة منظمة للطبيعة",
+      "explanation": "العلم يعتمد على الملاحظة والتجربة"
+    },
+    {
+      "id": "g8-sc-unitscience-q002",
+      "type": "true_false",
+      "question": "المنهج العلمي يبدأ بالفرضية",
+      "answer": false,
+      "explanation": "خطأ، يبدأ بالملاحظة والسؤال"
+    },
+    {
+      "id": "g8-sc-unitscience-q003",
+      "type": "mcq",
+      "question": "ما خطوات المنهج العلمي؟",
+      "options": [
+        "الملاحظة والفرضية والتجربة",
+        "الملاحظة والسؤال والفرضية والتجربة والنتيجة",
+        "التجربة فقط",
+        "الفرضية فقط"
+      ],
+      "answer": "الملاحظة والسؤال والفرضية والتجربة والنتيجة",
+      "explanation": "هذه الخطوات الأساسية"
+    },
+    {
+      "id": "g8-sc-unitscience-q004",
+      "type": "fill_blank",
+      "question": "الفرضية هي ___ يمكن اختبارها",
+      "answer": "تنبؤ",
+      "explanation": "تتنبأ بنتيجة معينة"
+    },
+    {
+      "id": "g8-sc-unitscience-q005",
+      "type": "mcq",
+      "question": "ما الفرق بين الملاحظة والاستنتاج؟",
+      "options": [
+        "لا فرق",
+        "الملاحظة مباشرة والاستنتاج استنتاج",
+        "الاستنتاج مباشر",
+        "الملاحظة استنتاج"
+      ],
+      "answer": "الملاحظة مباشرة والاستنتاج استنتاج",
+      "explanation": "نلاحظ مباشرة ونستنتج من البيانات"
+    },
+    {
+      "id": "g8-sc-unitscience-q006",
+      "type": "short_answer",
+      "question": "اذكر أنواع المتغيرات في التجربة",
+      "answer": "المستقل والتابع والضابط",
+      "explanation": "ثلاث أنواع من المتغيرات"
+    },
+    {
+      "id": "g8-sc-unitscience-q007",
+      "type": "true_false",
+      "question": "الملاحظة يجب أن تكون دقيقة وموضوعية",
+      "answer": true,
+      "explanation": "صحيح، الدقة أساسية"
+    },
+    {
+      "id": "g8-sc-unitscience-q008",
+      "type": "mcq",
+      "question": "ما المتغير المستقل؟",
+      "options": [
+        "ما نغيره نحن",
+        "ما يتغير نتيجة",
+        "ما نراقبه",
+        "الجميع"
+      ],
+      "answer": "ما نغيره نحن",
+      "explanation": "المتغير الذي يتحكم به الباحث"
+    },
+    {
+      "id": "g8-sc-unitscience-q009",
+      "type": "fill_blank",
+      "question": "يجب إجراء التجربة عدة ___ للتأكد من النتائج",
+      "answer": "مرات",
+      "explanation": "لتأكيد موثوقية النتائج"
+    },
+    {
+      "id": "g8-sc-unitscience-q010",
+      "type": "mcq",
+      "question": "ما أهمية المنهج العلمي؟",
+      "options": [
+        "التخمين",
+        "الوصول لمعرفة موثوقة",
+        "اللعب",
+        "الكسل"
+      ],
+      "answer": "الوصول لمعرفة موثوقة",
+      "explanation": "يضمن موثوقية النتائج"
+    },
+    {
+      "id": "g8-sc-unitenergy-q001",
+      "type": "mcq",
+      "question": "ما تعريف الطاقة؟",
+      "options": [
+        "الحرارة",
+        "القدرة على فعل شيء",
+        "الحركة",
+        "الضوء"
+      ],
+      "answer": "القدرة على فعل شيء",
+      "explanation": "الطاقة القدرة على إحداث تغيير"
+    },
+    {
+      "id": "g8-sc-unitenergy-q002",
+      "type": "true_false",
+      "question": "الطاقة لا تُفنى ولا تُستحدث",
+      "answer": true,
+      "explanation": "صحيح، قانون حفظ الطاقة"
+    },
+    {
+      "id": "g8-sc-unitenergy-q003",
+      "type": "mcq",
+      "question": "كم أنواع الطاقة الأساسية؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "5",
+      "explanation": "حرارية وحركية وكهربائية وضوئية وكيميائية"
+    },
+    {
+      "id": "g8-sc-unitenergy-q004",
+      "type": "fill_blank",
+      "question": "الطاقة الحرارية تنتقل من الأجسام ___ للأجسام الباردة",
+      "answer": "الساخنة",
+      "explanation": "انتقال الحرارة"
+    },
+    {
+      "id": "g8-sc-unitenergy-q005",
+      "type": "mcq",
+      "question": "ما وحدة قياس الطاقة؟",
+      "options": [
+        "كيلوجرام",
+        "جول",
+        "مول",
+        "أمبير"
+      ],
+      "answer": "جول",
+      "explanation": "الجول وحدة الطاقة الدولية"
+    },
+    {
+      "id": "g8-sc-unitenergy-q006",
+      "type": "short_answer",
+      "question": "اذكر ثلاث مصادر للطاقة",
+      "answer": "الشمس والماء والهواء",
+      "explanation": "مصادر طاقة متجددة"
+    },
+    {
+      "id": "g8-sc-unitenergy-q007",
+      "type": "true_false",
+      "question": "الطاقة الكهربائية تنتج من حركة الإلكترونات",
+      "answer": true,
+      "explanation": "صحيح، التيار الكهربائي"
+    },
+    {
+      "id": "g8-sc-unitenergy-q008",
+      "type": "mcq",
+      "question": "ما الفرق بين الطاقة الحركية والكامنة؟",
+      "options": [
+        "لا فرق",
+        "الحركية من الحركة والكامنة من الموضع",
+        "الكامنة من الحركة",
+        "الحركية ثابتة"
+      ],
+      "answer": "الحركية من الحركة والكامنة من الموضع",
+      "explanation": "الحركية = 1/2 mv² والكامنة = mgh"
+    },
+    {
+      "id": "g8-sc-unitenergy-q009",
+      "type": "fill_blank",
+      "question": "تحويل الطاقة من شكل إلى آخر يسمى ___",
+      "answer": "تحويل الطاقة",
+      "explanation": "الطاقة تتحول بين أشكالها"
+    },
+    {
+      "id": "g8-sc-unitenergy-q010",
+      "type": "mcq",
+      "question": "الطاقة الشمسية تُصنف كـ:",
+      "options": [
+        "غير متجددة",
+        "متجددة",
+        "كهربائية",
+        "حرارية"
+      ],
+      "answer": "متجددة",
+      "explanation": "مصدر الطاقة المتجددة الرئيسي"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q001",
+      "type": "mcq",
+      "question": "ما الفرق بين المخلوط والمحلول؟",
+      "options": [
+        "لا فرق",
+        "المخلوط يرى مكوناته والمحلول لا",
+        "المحلول يرى مكوناته",
+        "متطابقان"
+      ],
+      "answer": "المخلوط يرى مكوناته والمحلول لا",
+      "explanation": "المحلول خليط متجانس"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q002",
+      "type": "true_false",
+      "question": "محلول السكر في الماء محلول حقيقي",
+      "answer": true,
+      "explanation": "صحيح، جزيئات السكر موزعة تماماً"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q003",
+      "type": "mcq",
+      "question": "ما أنواع المخاليط؟",
+      "options": [
+        "متجانس فقط",
+        "غير متجانس فقط",
+        "متجانس وغير متجانس",
+        "لا نوع"
+      ],
+      "answer": "متجانس وغير متجانس",
+      "explanation": "نوعان من المخاليط"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q004",
+      "type": "fill_blank",
+      "question": "الماء يُسمى ___ في معظم المحاليل المائية",
+      "answer": "المذيب",
+      "explanation": "يوجد بكمية أكبر"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q005",
+      "type": "mcq",
+      "question": "ما المذاب في محلول ملح طعام؟",
+      "options": [
+        "الماء",
+        "الملح",
+        "الهواء",
+        "السكر"
+      ],
+      "answer": "الملح",
+      "explanation": "المادة المذابة في الماء"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q006",
+      "type": "short_answer",
+      "question": "أعط مثالاً على مخلوط غير متجانس",
+      "answer": "الرمل والماء أو الزيت والماء",
+      "explanation": "مخاليط نرى مكوناتها"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q007",
+      "type": "true_false",
+      "question": "الدم مخلوط متجانس",
+      "answer": false,
+      "explanation": "خطأ، الدم مخلوط غير متجانس"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q008",
+      "type": "mcq",
+      "question": "ما العملية لفصل المحاليل؟",
+      "options": [
+        "التغرية",
+        "التقطير",
+        "الترشيح",
+        "الهضم"
+      ],
+      "answer": "التقطير",
+      "explanation": "تقطير الماء من الملح"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q009",
+      "type": "fill_blank",
+      "question": "تركيز المحلول = ___ / حجم المحلول",
+      "answer": "كمية المذاب",
+      "explanation": "يقيس قوة المحلول"
+    },
+    {
+      "id": "g8-sc-unitsolutions-q010",
+      "type": "mcq",
+      "question": "كم عدد مكونات المحلول الحقيقي؟",
+      "options": [
+        "واحد",
+        "اثنان",
+        "ثلاثة",
+        "أربعة"
+      ],
+      "answer": "اثنان",
+      "explanation": "مذيب ومذاب"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q001",
+      "type": "mcq",
+      "question": "ما الحيوانات الفقارية؟",
+      "options": [
+        "بدون عمود فقري",
+        "بها عمود فقري",
+        "بدون عظام",
+        "بدون رؤوس"
+      ],
+      "answer": "بها عمود فقري",
+      "explanation": "لها هيكل عظمي بعمود فقري"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q002",
+      "type": "true_false",
+      "question": "السمك من الحيوانات الفقارية",
+      "answer": true,
+      "explanation": "صحيح، للسمك عمود فقري"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q003",
+      "type": "mcq",
+      "question": "كم عدد أنواع الفقاريات الرئيسية؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "أسماك وبرمائيات وزحافات وطيور وثدييات"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q004",
+      "type": "fill_blank",
+      "question": "الحيوانات التي تضع بيضاً تسمى ___",
+      "answer": "بيوضة",
+      "explanation": "مثل الطيور والزحافات"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q005",
+      "type": "mcq",
+      "question": "ما الفرق بين الزحافات والبرمائيات؟",
+      "options": [
+        "لا فرق",
+        "الزحافات جافة والبرمائيات رطبة",
+        "البرمائيات جافة",
+        "متطابقة"
+      ],
+      "answer": "الزحافات جافة والبرمائيات رطبة",
+      "explanation": "البرمائيات تحتاج الماء"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q006",
+      "type": "short_answer",
+      "question": "اذكر ثلاث أنواع من الطيور",
+      "answer": "النعام والبط والعصافير",
+      "explanation": "أمثلة على الطيور"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q007",
+      "type": "true_false",
+      "question": "الثدييات تلد صغارها حياً",
+      "answer": true,
+      "explanation": "صحيح، خاصية الثدييات"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q008",
+      "type": "mcq",
+      "question": "أي من التالي برمائي؟",
+      "options": [
+        "الثعبان",
+        "الضفدع",
+        "الطير",
+        "السمعة"
+      ],
+      "answer": "الضفدع",
+      "explanation": "يعيش برياً وفي الماء"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q009",
+      "type": "fill_blank",
+      "question": "الفقاريات تشكل ___ من الحيوانات",
+      "answer": "جزء صغير",
+      "explanation": "معظم الحيوانات لا فقرية"
+    },
+    {
+      "id": "g8-sc-unitvertebrates-q010",
+      "type": "mcq",
+      "question": "ما أكبر حيوان فقاري؟",
+      "options": [
+        "الفيل",
+        "الحوت الأزرق",
+        "الديناصور",
+        "الجراف"
+      ],
+      "answer": "الحوت الأزرق",
+      "explanation": "الحوت الأزرق أكبر حيوان موجود"
+    },
+    {
+      "id": "g8-sc-unitbody-q001",
+      "type": "mcq",
+      "question": "كم عدد عظام جسم الإنسان البالغ؟",
+      "options": [
+        "150",
+        "206",
+        "250",
+        "300"
+      ],
+      "answer": "206",
+      "explanation": "جسم الإنسان به 206 عظمة"
+    },
+    {
+      "id": "g8-sc-unitbody-q002",
+      "type": "true_false",
+      "question": "الدماغ أكبر أعضاء الجسم",
+      "answer": false,
+      "explanation": "خطأ، الجلد أكبر عضو"
+    },
+    {
+      "id": "g8-sc-unitbody-q003",
+      "type": "mcq",
+      "question": "ما وظيفة الهيكل العظمي الرئيسية؟",
+      "options": [
+        "الحركة فقط",
+        "الحماية والدعم والحركة",
+        "التنفس",
+        "الهضم"
+      ],
+      "answer": "الحماية والدعم والحركة",
+      "explanation": "يحمي الأعضاء ويدعم الجسم"
+    },
+    {
+      "id": "g8-sc-unitbody-q004",
+      "type": "fill_blank",
+      "question": "عدد عضلات جسم الإنسان حوالي ___",
+      "answer": "650",
+      "explanation": "عدد العضلات الهيكلية"
+    },
+    {
+      "id": "g8-sc-unitbody-q005",
+      "type": "mcq",
+      "question": "ما عدد أجهزة جسم الإنسان الرئيسية؟",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "10",
+      "explanation": "عصبي وهضمي وتنفسي وغيرها"
+    },
+    {
+      "id": "g8-sc-unitbody-q006",
+      "type": "short_answer",
+      "question": "اذكر الأجهزة الحيوية الرئيسية",
+      "answer": "القلب والرئتان والدماغ والكبد والكلى",
+      "explanation": "أعضاء حيوية أساسية"
+    },
+    {
+      "id": "g8-sc-unitbody-q007",
+      "type": "true_false",
+      "question": "الدم يحمل الأكسجين والغذاء لخلايا الجسم",
+      "answer": true,
+      "explanation": "صحيح، وظيفة الجهاز الدوري"
+    },
+    {
+      "id": "g8-sc-unitbody-q008",
+      "type": "mcq",
+      "question": "كم عدد حجرات القلب؟",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "4",
+      "explanation": "حجرتان علويتان وحجرتان سفليتان"
+    },
+    {
+      "id": "g8-sc-unitbody-q009",
+      "type": "fill_blank",
+      "question": "تحدث عملية التنفس في ___",
+      "answer": "الرئتان",
+      "explanation": "حيث يتبادل الأكسجين وثاني الأكسيد"
+    },
+    {
+      "id": "g8-sc-unitbody-q010",
+      "type": "mcq",
+      "question": "ما طول الأمعاء الدقيقة عند الإنسان؟",
+      "options": [
+        "2 متر",
+        "4 متر",
+        "6-7 متر",
+        "10 متر"
+      ],
+      "answer": "6-7 متر",
+      "explanation": "مكان امتصاص الغذاء"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q001",
+      "type": "mcq",
+      "question": "ما عدد الكروموسومات البشرية؟",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "52"
+      ],
+      "answer": "46",
+      "explanation": "23 زوج من الكروموسومات"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q002",
+      "type": "true_false",
+      "question": "الجنين يتطور في الرحم لمدة 9 أشهر",
+      "answer": true,
+      "explanation": "صحيح، فترة الحمل"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q003",
+      "type": "mcq",
+      "question": "ما وظيفة المشيمة؟",
+      "options": [
+        "حماية الجنين",
+        "تنقل الغذاء والأكسجين",
+        "تخزين الطاقة",
+        "التنفس"
+      ],
+      "answer": "تنقل الغذاء والأكسجين",
+      "explanation": "وصل الجنين بدم الأم"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q004",
+      "type": "fill_blank",
+      "question": "تحدث الإخصاب عندما يندمج ___ مع البويضة",
+      "answer": "الحيوان المنوي",
+      "explanation": "تكوين البيضة الملقحة"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q005",
+      "type": "mcq",
+      "question": "كم يبلغ عمر الجنين عند الولادة بالأسابيع؟",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "answer": "40",
+      "explanation": "حوالي 40 أسبوعاً أو 9 أشهر"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q006",
+      "type": "short_answer",
+      "question": "اذكر مراحل النمو البشري",
+      "answer": "الجنين والرضاعة والطفولة والمراهقة والبلوغ",
+      "explanation": "مراحل الحياة الأساسية"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q007",
+      "type": "true_false",
+      "question": "الهرمونات تتحكم بعملية التكاثر",
+      "answer": true,
+      "explanation": "صحيح، دور الهرمونات"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q008",
+      "type": "mcq",
+      "question": "ما عدد البويضات التي تنضج شهرياً؟",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "10"
+      ],
+      "answer": "1",
+      "explanation": "بويضة واحدة شهرياً"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q009",
+      "type": "fill_blank",
+      "question": "مدة دورة الحيض الطبيعية ___ يوماً",
+      "answer": "28",
+      "explanation": "الدورة الشهرية"
+    },
+    {
+      "id": "g8-sc-unitreproduction-q010",
+      "type": "mcq",
+      "question": "ما أهمية التكاثر؟",
+      "options": [
+        "النمو فقط",
+        "حفظ النوع",
+        "الحركة",
+        "الهضم"
+      ],
+      "answer": "حفظ النوع",
+      "explanation": "للحفاظ على استمرار النوع"
+    }
+  ]
+}

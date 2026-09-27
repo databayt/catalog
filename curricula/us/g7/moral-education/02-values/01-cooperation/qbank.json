@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "moral-education",
+    "chapter": "02-values",
+    "lesson": "01-cooperation"
+  },
+  "questions": [
+    {
+      "id": "g7-mor-unit-02-values-01-cooperation-lq01",
+      "type": "mcq",
+      "question": "Cooperation means working:",
+      "options": [
+        "together",
+        "alone always",
+        "against others",
+        "never"
+      ],
+      "answer": "together",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g7-mor-unit-02-values-01-cooperation-lq02",
+      "type": "true_false",
+      "question": "Teams achieve more when members cooperate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cooperation."
+    },
+    {
+      "id": "g7-mor-unit-02-values-01-cooperation-lq03",
+      "type": "fill_blank",
+      "question": "Helping each other to reach a goal is ___.",
+      "answer": "cooperation",
+      "explanation": "Cooperation."
+    },
+    {
+      "id": "g7-mor-unit-02-values-01-cooperation-lq04",
+      "type": "short_answer",
+      "question": "Why is cooperation valuable?",
+      "answer": "It combines effort and skills to solve problems better.",
+      "explanation": "Cooperation."
+    }
+  ]
+}

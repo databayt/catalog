@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq01",
+          "type": "mcq",
+          "question": "The derivative of x³ is:",
+          "options": [
+            "3x²",
+            "x²",
+            "3x",
+            "x⁴/4"
+          ],
+          "answer": "3x²",
+          "explanation": "Power rule."
+        },
+        {
+          "id": "g12-mat-unit-01-pure-01-differentiation-lq02",
+          "type": "true_false",
+          "question": "Differentiation finds the gradient function of a curve.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rate of change."
+        },
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-01-kinematics-lq01",
+          "type": "mcq",
+          "question": "The 'suvat' equations describe motion with constant:",
+          "options": [
+            "mass",
+            "acceleration",
+            "temperature",
+            "charge"
+          ],
+          "answer": "acceleration",
+          "explanation": "Constant a."
+        },
+        {
+          "id": "g12-mat-unit-02-mechanics-stats-01-kinematics-lq02",
+          "type": "true_false",
+          "question": "Velocity is the rate of change of displacement.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "v = ds/dt."
+        }
+      ]
+    }
+  ]
+}

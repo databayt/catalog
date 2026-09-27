@@ -1,0 +1,78 @@
+{
+  "$comment": "Curriculum ids equal the lowercased DB Curriculum.code. The id is the first path segment under curricula/ and the first segment after catalog/ on the CDN.",
+  "curricula": [
+    {
+      "id": "sd",
+      "code": "SD",
+      "country": "SD",
+      "title": {
+        "ar": "المنهج القومي السوداني",
+        "en": "Sudan National Curriculum"
+      },
+      "lang": "ar",
+      "maintainer": "databayt"
+    },
+    {
+      "id": "gb",
+      "code": "GB",
+      "country": "GB",
+      "title": {
+        "ar": "المنهج البريطاني",
+        "en": "British Curriculum"
+      },
+      "lang": "en",
+      "maintainer": "databayt",
+      "aliases": [
+        "uk"
+      ]
+    },
+    {
+      "id": "us",
+      "code": "US",
+      "country": "US",
+      "title": {
+        "ar": "المنهج الأمريكي",
+        "en": "American Curriculum"
+      },
+      "lang": "en",
+      "maintainer": "databayt"
+    },
+    {
+      "id": "cbse",
+      "code": "CBSE",
+      "country": "IN",
+      "title": {
+        "ar": "منهج CBSE الهندي",
+        "en": "Indian CBSE (NCERT)"
+      },
+      "lang": "en",
+      "maintainer": "databayt",
+      "aliases": [
+        "in"
+      ]
+    },
+    {
+      "id": "ib-dp",
+      "code": "IB-DP",
+      "title": {
+        "ar": "البكالوريا الدولية — برنامج الدبلوم",
+        "en": "International Baccalaureate Diploma Programme"
+      },
+      "lang": "en",
+      "maintainer": "databayt",
+      "aliases": [
+        "ib"
+      ]
+    },
+    {
+      "id": "caie-igcse",
+      "code": "CAIE-IGCSE",
+      "title": {
+        "ar": "كامبريدج IGCSE",
+        "en": "Cambridge IGCSE"
+      },
+      "lang": "en",
+      "maintainer": "databayt"
+    }
+  ]
+}

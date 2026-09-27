@@ -1,0 +1,237 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq01",
+      "type": "mcq",
+      "question": "Which word has a short 'a' sound?",
+      "options": [
+        "cake",
+        "cat",
+        "car",
+        "cape"
+      ],
+      "answer": "cat",
+      "explanation": "'cat' uses the short a."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq02",
+      "type": "true_false",
+      "question": "The word 'bed' has a short 'e' sound.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e as in bed."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq03",
+      "type": "fill_blank",
+      "question": "Fill the short-i word: p__g.",
+      "answer": "i",
+      "explanation": "'pig' has short i."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq04",
+      "type": "short_answer",
+      "question": "Say a word with a short 'o' sound.",
+      "answer": "e.g., 'dog' or 'hot'.",
+      "explanation": "Short o as in hot."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq01",
+      "type": "mcq",
+      "question": "Which word starts with the 'sh' digraph?",
+      "options": [
+        "chip",
+        "ship",
+        "trip",
+        "slip"
+      ],
+      "answer": "ship",
+      "explanation": "'sh' makes one sound."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq02",
+      "type": "true_false",
+      "question": "'bl' in 'black' is a consonant blend.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Two sounds blended."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq03",
+      "type": "fill_blank",
+      "question": "Digraph 'ch' is in the word ___.",
+      "answer": "chair",
+      "explanation": "ch as in chair (example)."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq04",
+      "type": "short_answer",
+      "question": "What is a digraph?",
+      "answer": "Two letters that make one sound, like sh or ch.",
+      "explanation": "One sound, two letters."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-main-idea-lq01",
+      "type": "mcq",
+      "question": "The main idea of a story is:",
+      "options": [
+        "a small detail",
+        "what it is mostly about",
+        "the title only",
+        "the last word"
+      ],
+      "answer": "what it is mostly about",
+      "explanation": "Main idea = central message."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-main-idea-lq02",
+      "type": "true_false",
+      "question": "Details support the main idea.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "They give more information."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-main-idea-lq03",
+      "type": "fill_blank",
+      "question": "The most important point of a text is the ___ idea.",
+      "answer": "main",
+      "explanation": "Main idea."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-main-idea-lq04",
+      "type": "short_answer",
+      "question": "How do you find the main idea?",
+      "answer": "Ask what the whole text is mostly about.",
+      "explanation": "Big-picture question."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-story-elements-lq01",
+      "type": "mcq",
+      "question": "The 'setting' of a story is:",
+      "options": [
+        "who is in it",
+        "where/when it happens",
+        "the problem",
+        "the ending"
+      ],
+      "answer": "where/when it happens",
+      "explanation": "Setting = time and place."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-story-elements-lq02",
+      "type": "true_false",
+      "question": "Characters are the people or animals in a story.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "They take part in events."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-story-elements-lq03",
+      "type": "fill_blank",
+      "question": "The order of what happens is the sequence of ___.",
+      "answer": "events",
+      "explanation": "Plot events."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-story-elements-lq04",
+      "type": "short_answer",
+      "question": "Name the three story elements covered.",
+      "answer": "Characters, setting, and events.",
+      "explanation": "Basic story parts."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-01-sentences-lq01",
+      "type": "mcq",
+      "question": "A sentence must begin with a:",
+      "options": [
+        "small letter",
+        "capital letter",
+        "number",
+        "comma"
+      ],
+      "answer": "capital letter",
+      "explanation": "Sentences start with capitals."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-01-sentences-lq02",
+      "type": "true_false",
+      "question": "A telling sentence ends with a period.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Statements end with '.'."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-01-sentences-lq03",
+      "type": "fill_blank",
+      "question": "A sentence has a naming part and a ___ part.",
+      "answer": "telling",
+      "explanation": "Subject and predicate."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-01-sentences-lq04",
+      "type": "short_answer",
+      "question": "Write a complete sentence about a dog.",
+      "answer": "e.g., 'The dog runs fast.'",
+      "explanation": "Has subject + verb, capital, period."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq01",
+      "type": "mcq",
+      "question": "Which word is a noun?",
+      "options": [
+        "run",
+        "happy",
+        "apple",
+        "quickly"
+      ],
+      "answer": "apple",
+      "explanation": "A noun names a thing."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq02",
+      "type": "true_false",
+      "question": "A verb is an action word.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., jump, eat."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq03",
+      "type": "fill_blank",
+      "question": "In 'Birds fly', the verb is ___.",
+      "answer": "fly",
+      "explanation": "Action word."
+    },
+    {
+      "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq04",
+      "type": "short_answer",
+      "question": "Give one noun and one verb.",
+      "answer": "Noun: ball; Verb: kick (example).",
+      "explanation": "Naming word + action word."
+    }
+  ]
+}

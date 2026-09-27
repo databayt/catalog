@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq01",
+          "type": "mcq",
+          "question": "A very high landform is a:",
+          "options": [
+            "valley",
+            "mountain",
+            "plain",
+            "lake"
+          ],
+          "answer": "mountain",
+          "explanation": "Mountains rise high."
+        },
+        {
+          "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq02",
+          "type": "true_false",
+          "question": "Mountains can affect local weather and climate.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Relief rainfall."
+        },
+        {
+          "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq01",
+          "type": "mcq",
+          "question": "A biome with tall trees and heavy rain near the equator is the:",
+          "options": [
+            "tropical rainforest",
+            "desert",
+            "tundra",
+            "savanna"
+          ],
+          "answer": "tropical rainforest",
+          "explanation": "Equatorial biome."
+        },
+        {
+          "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq02",
+          "type": "true_false",
+          "question": "Climate describes the average weather over many years.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Long-term."
+        }
+      ]
+    }
+  ]
+}

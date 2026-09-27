@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "01-living",
+    "lesson": "01-habitats"
+  },
+  "questions": [
+    {
+      "id": "g2-sci-unit-01-living-01-habitats-lq01",
+      "type": "mcq",
+      "question": "A habitat is a place where:",
+      "options": [
+        "toys are kept",
+        "a living thing lives",
+        "food is cooked",
+        "cars park"
+      ],
+      "answer": "a living thing lives",
+      "explanation": "Home of an organism."
+    },
+    {
+      "id": "g2-sci-unit-01-living-01-habitats-lq02",
+      "type": "true_false",
+      "question": "A pond is a habitat for frogs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Frog habitat."
+    },
+    {
+      "id": "g2-sci-unit-01-living-01-habitats-lq03",
+      "type": "fill_blank",
+      "question": "A polar bear's habitat is the ___.",
+      "answer": "Arctic",
+      "explanation": "Cold habitat."
+    },
+    {
+      "id": "g2-sci-unit-01-living-01-habitats-lq04",
+      "type": "short_answer",
+      "question": "Why do animals live in certain habitats?",
+      "answer": "The habitat meets their needs (food, shelter).",
+      "explanation": "Suited to needs."
+    }
+  ]
+}

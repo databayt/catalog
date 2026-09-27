@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "03-writing",
+    "lesson": "02-punctuation"
+  },
+  "exams": [
+    {
+      "id": "g2-eng-unit-03-writing-02-punctuation-quiz",
+      "title": "Quiz: Capitalization & Punctuation",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-eng-unit-03-writing-02-punctuation-lq01",
+          "type": "mcq",
+          "question": "A question ends with a:",
+          "options": [
+            "period",
+            ".",
+            "question mark",
+            "comma"
+          ],
+          "answer": "question mark",
+          "explanation": "'?' ends questions."
+        },
+        {
+          "id": "g2-eng-unit-03-writing-02-punctuation-lq02",
+          "type": "true_false",
+          "question": "Names of people are capitalized.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Proper nouns."
+        },
+        {
+          "id": "g2-eng-unit-03-writing-02-punctuation-lq03",
+          "type": "fill_blank",
+          "question": "An excited sentence can end with an ___ mark.",
+          "answer": "exclamation",
+          "explanation": "'!'."
+        },
+        {
+          "id": "g2-eng-unit-03-writing-02-punctuation-lq04",
+          "type": "short_answer",
+          "question": "When do you use a capital letter?",
+          "answer": "To start a sentence and for names.",
+          "explanation": "Beginnings and proper nouns."
+        }
+      ]
+    }
+  ]
+}

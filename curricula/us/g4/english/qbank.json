@@ -1,0 +1,237 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq01",
+      "type": "mcq",
+      "question": "An inference uses clues plus:",
+      "options": [
+        "guessing wildly",
+        "what you already know",
+        "the page number",
+        "the cover color"
+      ],
+      "answer": "what you already know",
+      "explanation": "Inference = text clues + background knowledge."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq02",
+      "type": "true_false",
+      "question": "Authors sometimes imply rather than state directly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Readers infer meaning."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq03",
+      "type": "fill_blank",
+      "question": "Clue + prior knowledge = ___.",
+      "answer": "inference",
+      "explanation": "Reading between the lines."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-inference-lq04",
+      "type": "short_answer",
+      "question": "Why do readers infer?",
+      "answer": "To understand ideas not stated directly.",
+      "explanation": "Implied meaning."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-summarizing-lq01",
+      "type": "mcq",
+      "question": "A summary should be:",
+      "options": [
+        "longer than the text",
+        "short with key points",
+        "only the first line",
+        "a copy"
+      ],
+      "answer": "short with key points",
+      "explanation": "Brief, main points only."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-summarizing-lq02",
+      "type": "true_false",
+      "question": "A summary leaves out minor details.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Keep only the essentials."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-summarizing-lq03",
+      "type": "fill_blank",
+      "question": "Restating the key points briefly is ___.",
+      "answer": "summarizing",
+      "explanation": "Summary."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-summarizing-lq04",
+      "type": "short_answer",
+      "question": "What makes a good summary?",
+      "answer": "It is brief and captures the main ideas in your own words.",
+      "explanation": "Concise + accurate."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq01",
+      "type": "mcq",
+      "question": "Context clues help you find a word's:",
+      "options": [
+        "spelling",
+        "meaning",
+        "syllables",
+        "rhyme"
+      ],
+      "answer": "meaning",
+      "explanation": "Surrounding words hint meaning."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq02",
+      "type": "true_false",
+      "question": "Nearby sentences can define an unknown word.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context provides clues."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq03",
+      "type": "fill_blank",
+      "question": "Using surrounding words to find meaning uses context ___.",
+      "answer": "clues",
+      "explanation": "Context clues."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq04",
+      "type": "short_answer",
+      "question": "Name one type of context clue.",
+      "answer": "e.g., a definition, example, or synonym in the sentence.",
+      "explanation": "Clue types."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq01",
+      "type": "mcq",
+      "question": "The prefix 're-' means:",
+      "options": [
+        "not",
+        "again",
+        "before",
+        "without"
+      ],
+      "answer": "again",
+      "explanation": "'redo' = do again."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq02",
+      "type": "true_false",
+      "question": "The suffix '-less' means without.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'fearless' = without fear."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq03",
+      "type": "fill_blank",
+      "question": "'un-' + 'happy' = ___.",
+      "answer": "unhappy",
+      "explanation": "Prefix changes meaning."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq04",
+      "type": "short_answer",
+      "question": "How do prefixes change a word?",
+      "answer": "They add meaning to the start of a base word.",
+      "explanation": "Word-part meaning."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-01-informative-lq01",
+      "type": "mcq",
+      "question": "An informative essay aims to:",
+      "options": [
+        "entertain only",
+        "explain/inform",
+        "argue feelings",
+        "rhyme"
+      ],
+      "answer": "explain/inform",
+      "explanation": "Gives facts and explanations."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-01-informative-lq02",
+      "type": "true_false",
+      "question": "Informative writing uses facts and examples.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Evidence-based."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-01-informative-lq03",
+      "type": "fill_blank",
+      "question": "An essay's first paragraph is the ___.",
+      "answer": "introduction",
+      "explanation": "Intro sets up the topic."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-01-informative-lq04",
+      "type": "short_answer",
+      "question": "What goes in a conclusion?",
+      "answer": "A wrap-up restating the main points.",
+      "explanation": "Closing paragraph."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-02-sentence-types-lq01",
+      "type": "mcq",
+      "question": "Which is a compound sentence?",
+      "options": [
+        "I ran.",
+        "I ran and I jumped.",
+        "Run!",
+        "The big dog."
+      ],
+      "answer": "I ran and I jumped.",
+      "explanation": "Two clauses joined."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-02-sentence-types-lq02",
+      "type": "true_false",
+      "question": "A simple sentence has one independent clause.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "One complete thought."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-02-sentence-types-lq03",
+      "type": "fill_blank",
+      "question": "Two independent clauses joined by 'and' form a ___ sentence.",
+      "answer": "compound",
+      "explanation": "Compound."
+    },
+    {
+      "id": "g4-eng-unit-03-writing-02-sentence-types-lq04",
+      "type": "short_answer",
+      "question": "Give an example of a question sentence.",
+      "answer": "e.g., 'Where are you going?'",
+      "explanation": "Interrogative."
+    }
+  ]
+}

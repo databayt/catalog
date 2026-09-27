@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "01-the-environment-around-us",
+    "lesson": "04-natural-environment"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-01-exam-8913",
+      "title": "Lesson Quiz - 04-natural-environment - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from البيئة من حولنا."
+        }
+      ]
+    }
+  ]
+}

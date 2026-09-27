@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "further-math",
+    "chapter": "01-core-pure",
+    "lesson": "01-complex"
+  },
+  "questions": [
+    {
+      "id": "g12-fur-unit-01-core-pure-01-complex-lq01",
+      "type": "mcq",
+      "question": "The imaginary unit i is defined by i² =",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answer": "-1",
+      "explanation": "Definition of i."
+    },
+    {
+      "id": "g12-fur-unit-01-core-pure-01-complex-lq02",
+      "type": "true_false",
+      "question": "A complex number has a real and an imaginary part.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "a + bi."
+    },
+    {
+      "id": "g12-fur-unit-01-core-pure-01-complex-lq03",
+      "type": "fill_blank",
+      "question": "In 3 + 4i, the real part is ___.",
+      "answer": "3",
+      "explanation": "Real part."
+    },
+    {
+      "id": "g12-fur-unit-01-core-pure-01-complex-lq04",
+      "type": "short_answer",
+      "question": "Why are complex numbers useful?",
+      "answer": "They solve equations with no real roots and model oscillations.",
+      "explanation": "Complex numbers."
+    }
+  ]
+}

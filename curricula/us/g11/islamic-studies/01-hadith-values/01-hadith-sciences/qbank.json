@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "islamic-studies",
+    "chapter": "01-hadith-values",
+    "lesson": "01-hadith-sciences"
+  },
+  "questions": [
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq01",
+      "type": "mcq",
+      "question": "الحديث الصحيح هو ما اتصل سنده بنقل:",
+      "options": [
+        "العدل الضابط",
+        "أي شخص",
+        "الشعراء",
+        "التجار"
+      ],
+      "answer": "العدل الضابط",
+      "explanation": "شروط الصحيح."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq02",
+      "type": "true_false",
+      "question": "علم مصطلح الحديث يبحث في صحة الأحاديث.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "مصطلح الحديث."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq03",
+      "type": "fill_blank",
+      "question": "سلسلة رواة الحديث تسمى ___.",
+      "answer": "السند",
+      "explanation": "السند والمتن."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq04",
+      "type": "short_answer",
+      "question": "ما الفرق بين السند والمتن؟",
+      "answer": "السند سلسلة الرواة، والمتن نص الحديث.",
+      "explanation": "علوم الحديث."
+    }
+  ]
+}

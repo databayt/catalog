@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g9-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq01",
+          "type": "mcq",
+          "question": "Solve 2x - 3 = 7:",
+          "options": [
+            "2",
+            "5",
+            "4",
+            "10"
+          ],
+          "answer": "5",
+          "explanation": "2x=10, x=5."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq02",
+          "type": "true_false",
+          "question": "Adding the same value to both sides keeps an equation balanced.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Property of equality."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq01",
+          "type": "mcq",
+          "question": "In y = mx + b, m is the:",
+          "options": [
+            "intercept",
+            "slope",
+            "input",
+            "output"
+          ],
+          "answer": "slope",
+          "explanation": "Slope = m."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq02",
+          "type": "true_false",
+          "question": "Parallel lines have equal slopes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Same gradient."
+        }
+      ]
+    }
+  ]
+}

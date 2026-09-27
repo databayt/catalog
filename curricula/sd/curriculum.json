@@ -1,0 +1,215 @@
+{
+  "$schema": "../../schema/json/curriculum.schema.json",
+  "id": "sd",
+  "title": {
+    "ar": "المنهج القومي السوداني",
+    "en": "Sudan National Curriculum"
+  },
+  "country": "SD",
+  "lang": "ar",
+  "structure": "6+3+3",
+  "reformYear": 2020,
+  "reference": "https://www.alktab24.com/%D8%A7%D9%84%D9%85%D9%86%D9%87%D8%AC-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/",
+  "stages": [
+    {
+      "id": "primary",
+      "title": {
+        "ar": "ابتدائي",
+        "en": "Primary"
+      },
+      "grades": [
+        "g1",
+        "g2",
+        "g3",
+        "g4",
+        "g5",
+        "g6"
+      ]
+    },
+    {
+      "id": "middle",
+      "title": {
+        "ar": "متوسط",
+        "en": "Middle"
+      },
+      "grades": [
+        "g7",
+        "g8",
+        "g9"
+      ]
+    },
+    {
+      "id": "secondary",
+      "title": {
+        "ar": "ثانوي",
+        "en": "Secondary"
+      },
+      "grades": [
+        "g10",
+        "g11",
+        "g12"
+      ]
+    }
+  ],
+  "grades": {
+    "g1": [
+      "arabic",
+      "english",
+      "islamic-studies",
+      "math"
+    ],
+    "g2": [
+      "arabic",
+      "english",
+      "islamic-studies",
+      "math"
+    ],
+    "g3": [
+      "arabic",
+      "english",
+      "geography",
+      "islamic-studies",
+      "math",
+      "science"
+    ],
+    "g4": [
+      "arabic",
+      "art",
+      "english",
+      "history",
+      "ict",
+      "islamic-studies",
+      "math",
+      "science"
+    ],
+    "g5": [
+      "arabic",
+      "arabic-reader",
+      "art",
+      "clothing",
+      "earth-environment",
+      "english",
+      "geography",
+      "history",
+      "home-economics",
+      "ict",
+      "islamic-studies",
+      "math",
+      "science",
+      "technology"
+    ],
+    "g6": [
+      "arabic",
+      "art",
+      "english",
+      "geography",
+      "history",
+      "ict",
+      "islamic-studies",
+      "math",
+      "science"
+    ],
+    "g7": [
+      "arabic",
+      "art",
+      "english",
+      "geography",
+      "history",
+      "ict",
+      "islamic-studies",
+      "math",
+      "science"
+    ],
+    "g8": [
+      "arabic",
+      "art",
+      "english",
+      "geography",
+      "history",
+      "islamic-studies",
+      "math",
+      "national-education",
+      "science",
+      "technical-education"
+    ],
+    "g9": [
+      "arabic",
+      "english",
+      "geography",
+      "history",
+      "ict",
+      "islamic-studies",
+      "math",
+      "science",
+      "technical-education"
+    ],
+    "g10": [
+      "arabic",
+      "art",
+      "biology",
+      "chemistry",
+      "computer-science",
+      "engineering",
+      "english",
+      "entrepreneurship",
+      "french",
+      "geography",
+      "history",
+      "home-economics",
+      "islamic-studies",
+      "math",
+      "military-science",
+      "national-education",
+      "physics",
+      "quran"
+    ],
+    "g11": [
+      "arabic-grammar",
+      "arabic-literature",
+      "arabic-rhetoric",
+      "arabic-specialized",
+      "art",
+      "biology",
+      "chemistry",
+      "commercial-studies",
+      "computer-science",
+      "engineering",
+      "english",
+      "french",
+      "geography",
+      "home-economics",
+      "islamic-studies",
+      "math",
+      "military-science",
+      "physics",
+      "quran"
+    ],
+    "g12": [
+      "agriculture",
+      "arabic-grammar",
+      "arabic-literature",
+      "arabic-rhetoric",
+      "arabic-specialized",
+      "art",
+      "biology",
+      "chemistry",
+      "christian-education",
+      "commercial-studies",
+      "computer-science",
+      "engineering",
+      "english",
+      "french",
+      "geography",
+      "history",
+      "home-economics",
+      "islamic-studies",
+      "islamic-studies-optional",
+      "literary-studies",
+      "math",
+      "math-specialized",
+      "military-science",
+      "physical-education",
+      "physics"
+    ]
+  }
+}

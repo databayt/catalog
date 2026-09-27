@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "chemistry",
+    "chapter": "01-chemical-changes",
+    "lesson": "02-electrolysis"
+  },
+  "exams": [
+    {
+      "id": "g11-che-unit-01-chemical-changes-02-electrolysis-quiz",
+      "title": "Quiz: Electrolysis",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq01",
+          "type": "mcq",
+          "question": "Electrolysis uses electricity to break down a(n):",
+          "options": [
+            "element",
+            "compound",
+            "mixture",
+            "gas"
+          ],
+          "answer": "compound",
+          "explanation": "Decomposition."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq02",
+          "type": "true_false",
+          "question": "Positive ions move to the negative electrode (cathode).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Attraction."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq03",
+          "type": "fill_blank",
+          "question": "The negative electrode is the ___.",
+          "answer": "cathode",
+          "explanation": "Cathode."
+        },
+        {
+          "id": "g11-che-unit-01-chemical-changes-02-electrolysis-lq04",
+          "type": "short_answer",
+          "question": "Why must a substance be molten or in solution for electrolysis?",
+          "answer": "So ions are free to move and carry charge.",
+          "explanation": "Electrolyte."
+        }
+      ]
+    }
+  ]
+}

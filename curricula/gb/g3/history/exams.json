@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g3-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-his-unit-01-stone-age-01-stone-age-lq01",
+          "type": "mcq",
+          "question": "Stone Age people first survived by:",
+          "options": [
+            "farming only",
+            "hunting and gathering",
+            "using factories",
+            "online shopping"
+          ],
+          "answer": "hunting and gathering",
+          "explanation": "Hunter-gatherers."
+        },
+        {
+          "id": "g3-his-unit-01-stone-age-01-stone-age-lq02",
+          "type": "true_false",
+          "question": "Stone Age tools were often made of stone and bone.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Before metal."
+        },
+        {
+          "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq01",
+          "type": "mcq",
+          "question": "Ancient Egypt grew along the river:",
+          "options": [
+            "Thames",
+            "Nile",
+            "Amazon",
+            "Tigris"
+          ],
+          "answer": "Nile",
+          "explanation": "Nile civilisation."
+        },
+        {
+          "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq02",
+          "type": "true_false",
+          "question": "The Egyptians built pyramids as tombs for pharaohs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Royal tombs."
+        }
+      ]
+    }
+  ]
+}

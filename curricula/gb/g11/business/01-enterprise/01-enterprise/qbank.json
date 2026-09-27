@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "business",
+    "chapter": "01-enterprise",
+    "lesson": "01-enterprise"
+  },
+  "questions": [
+    {
+      "id": "g11-bus-unit-01-enterprise-01-enterprise-lq01",
+      "type": "mcq",
+      "question": "An entrepreneur is someone who:",
+      "options": [
+        "starts a business",
+        "only spends",
+        "avoids risk always",
+        "never works"
+      ],
+      "answer": "starts a business",
+      "explanation": "Enterprise."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-01-enterprise-lq02",
+      "type": "true_false",
+      "question": "A business aims to meet customer needs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Purpose."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-01-enterprise-lq03",
+      "type": "fill_blank",
+      "question": "Someone who sets up and runs a business is an ___.",
+      "answer": "entrepreneur",
+      "explanation": "Entrepreneur."
+    },
+    {
+      "id": "g11-bus-unit-01-enterprise-01-enterprise-lq04",
+      "type": "short_answer",
+      "question": "Name one risk of starting a business.",
+      "answer": "e.g., it may not make a profit / financial loss.",
+      "explanation": "Risk."
+    }
+  ]
+}

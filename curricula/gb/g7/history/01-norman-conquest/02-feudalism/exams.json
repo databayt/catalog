@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history",
+    "chapter": "01-norman-conquest",
+    "lesson": "02-feudalism"
+  },
+  "exams": [
+    {
+      "id": "g7-his-unit-01-norman-conquest-02-feudalism-quiz",
+      "title": "Quiz: Castles & the Feudal System",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq01",
+          "type": "mcq",
+          "question": "In the feudal system, land was granted by the king to:",
+          "options": [
+            "barons",
+            "tourists",
+            "traders only",
+            "no one"
+          ],
+          "answer": "barons",
+          "explanation": "Feudal hierarchy."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq02",
+          "type": "true_false",
+          "question": "Early Norman castles were of the motte-and-bailey type.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Wooden castles."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq03",
+          "type": "fill_blank",
+          "question": "The survey of land ordered by William was the ___ Book.",
+          "answer": "Domesday",
+          "explanation": "1086 survey."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq04",
+          "type": "short_answer",
+          "question": "How did castles help the Normans?",
+          "answer": "They defended territory and showed Norman power over the people.",
+          "explanation": "Castles' purpose."
+        }
+      ]
+    }
+  ]
+}

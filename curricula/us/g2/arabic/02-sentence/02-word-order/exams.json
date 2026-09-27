@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "arabic",
+    "chapter": "02-sentence",
+    "lesson": "02-word-order"
+  },
+  "exams": [
+    {
+      "id": "g2-ara-unit-02-sentence-02-word-order-quiz",
+      "title": "Quiz: ترتيب الكلمات",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-ara-unit-02-sentence-02-word-order-lq01",
+          "type": "mcq",
+          "question": "رتّب: (الولدُ - يلعبُ) لتكوين جملة فعلية صحيحة:",
+          "options": [
+            "يلعبُ الولدُ",
+            "الولدُ الولدُ",
+            "يلعبُ يلعبُ",
+            "لا شيء"
+          ],
+          "answer": "يلعبُ الولدُ",
+          "explanation": "الفعل ثم الفاعل."
+        },
+        {
+          "id": "g2-ara-unit-02-sentence-02-word-order-lq02",
+          "type": "true_false",
+          "question": "نبدأ الجملة الفعلية بالفعل.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "ترتيب الجملة الفعلية."
+        },
+        {
+          "id": "g2-ara-unit-02-sentence-02-word-order-lq03",
+          "type": "fill_blank",
+          "question": "الجملة التي تبدأ باسم تسمى الجملة ___.",
+          "answer": "الاسمية",
+          "explanation": "الاسمية."
+        },
+        {
+          "id": "g2-ara-unit-02-sentence-02-word-order-lq04",
+          "type": "short_answer",
+          "question": "اجعل (يكتبُ الطالبُ) جملة اسمية.",
+          "answer": "الطالبُ يكتبُ.",
+          "explanation": "تحويل الجملة."
+        }
+      ]
+    }
+  ]
+}

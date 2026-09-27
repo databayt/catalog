@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "01-grammar",
+    "lesson": "01-sentence-types"
+  },
+  "exams": [
+    {
+      "id": "g2-eng-unit-01-grammar-01-sentence-types-quiz",
+      "title": "Quiz: Sentence Types",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-eng-unit-01-grammar-01-sentence-types-lq01",
+          "type": "mcq",
+          "question": "Which ends with a question mark?",
+          "options": [
+            "I am tall.",
+            "Are you tall?",
+            "Run fast!",
+            "The cat."
+          ],
+          "answer": "Are you tall?",
+          "explanation": "A question."
+        },
+        {
+          "id": "g2-eng-unit-01-grammar-01-sentence-types-lq02",
+          "type": "true_false",
+          "question": "A command tells someone to do something.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Imperative."
+        },
+        {
+          "id": "g2-eng-unit-01-grammar-01-sentence-types-lq03",
+          "type": "fill_blank",
+          "question": "An exclamation ends with a ___.",
+          "answer": "!",
+          "explanation": "Exclamation mark."
+        },
+        {
+          "id": "g2-eng-unit-01-grammar-01-sentence-types-lq04",
+          "type": "short_answer",
+          "question": "Write a command.",
+          "answer": "e.g., 'Close the door.'",
+          "explanation": "Imperative."
+        }
+      ]
+    }
+  ]
+}

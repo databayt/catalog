@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "social-studies"
+  },
+  "questions": [
+    {
+      "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq01",
+      "type": "mcq",
+      "question": "Enlightenment thinkers emphasized reason and individual:",
+      "options": [
+        "rights",
+        "kings",
+        "armies",
+        "castles"
+      ],
+      "answer": "rights",
+      "explanation": "Reason & rights."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq02",
+      "type": "true_false",
+      "question": "Enlightenment ideas influenced modern democracies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Influence."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq03",
+      "type": "fill_blank",
+      "question": "The idea that government power comes from the people is popular ___.",
+      "answer": "sovereignty",
+      "explanation": "Enlightenment idea."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-01-enlightenment-lq04",
+      "type": "short_answer",
+      "question": "Name one Enlightenment idea.",
+      "answer": "e.g., natural rights, separation of powers, or social contract.",
+      "explanation": "Enlightenment."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-02-revolutions-lq01",
+      "type": "mcq",
+      "question": "The French Revolution began in:",
+      "options": [
+        "1789",
+        "1492",
+        "1945",
+        "1865"
+      ],
+      "answer": "1789",
+      "explanation": "Late 18th century."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-02-revolutions-lq02",
+      "type": "true_false",
+      "question": "Revolutions often challenged absolute monarchy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Political change."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-02-revolutions-lq03",
+      "type": "fill_blank",
+      "question": "The French revolutionary motto was Liberty, Equality, ___.",
+      "answer": "Fraternity",
+      "explanation": "Revolutionary ideals."
+    },
+    {
+      "id": "g9-soc-unit-01-revolutions-02-revolutions-lq04",
+      "type": "short_answer",
+      "question": "What did many revolutions of this era seek?",
+      "answer": "Greater rights, representation and limits on monarchy.",
+      "explanation": "Revolutions."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-01-industrial-revolution-lq01",
+      "type": "mcq",
+      "question": "The Industrial Revolution shifted production to:",
+      "options": [
+        "homes",
+        "factories",
+        "farms only",
+        "caves"
+      ],
+      "answer": "factories",
+      "explanation": "Industrialization."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-01-industrial-revolution-lq02",
+      "type": "true_false",
+      "question": "Steam power transformed industry and transport.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Steam engines."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-01-industrial-revolution-lq03",
+      "type": "fill_blank",
+      "question": "Rapid growth of cities is called ___.",
+      "answer": "urbanization",
+      "explanation": "Urban growth."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-01-industrial-revolution-lq04",
+      "type": "short_answer",
+      "question": "Name one effect of industrialization.",
+      "answer": "e.g., urbanization, new technology, or harsh factory conditions.",
+      "explanation": "Effects."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-02-imperialism-lq01",
+      "type": "mcq",
+      "question": "Imperialism is when a country extends power over other:",
+      "options": [
+        "territories",
+        "planets",
+        "oceans only",
+        "fonts"
+      ],
+      "answer": "territories",
+      "explanation": "Empire-building."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-02-imperialism-lq02",
+      "type": "true_false",
+      "question": "Industrial powers sought colonies for resources and markets.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Motives."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-02-imperialism-lq03",
+      "type": "fill_blank",
+      "question": "Controlling another country economically/politically is ___.",
+      "answer": "imperialism",
+      "explanation": "Imperialism."
+    },
+    {
+      "id": "g9-soc-unit-02-industrialization-02-imperialism-lq04",
+      "type": "short_answer",
+      "question": "Name one motive for imperialism.",
+      "answer": "e.g., resources, markets, national prestige, or strategy.",
+      "explanation": "Imperialism."
+    }
+  ]
+}

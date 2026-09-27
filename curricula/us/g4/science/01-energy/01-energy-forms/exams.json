@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "01-energy",
+    "lesson": "01-energy-forms"
+  },
+  "exams": [
+    {
+      "id": "g4-sci-unit-01-energy-01-energy-forms-quiz",
+      "title": "Quiz: Forms of Energy",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-sci-unit-01-energy-01-energy-forms-lq01",
+          "type": "mcq",
+          "question": "A moving object has ___ energy.",
+          "options": [
+            "sound",
+            "motion (kinetic)",
+            "frozen",
+            "color"
+          ],
+          "answer": "motion (kinetic)",
+          "explanation": "Energy of motion."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-01-energy-forms-lq02",
+          "type": "true_false",
+          "question": "Faster objects have more energy of motion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "More speed, more kinetic energy."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-01-energy-forms-lq03",
+          "type": "fill_blank",
+          "question": "Light, heat, and sound are forms of ___.",
+          "answer": "energy",
+          "explanation": "Energy forms."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-01-energy-forms-lq04",
+          "type": "short_answer",
+          "question": "Name two forms of energy.",
+          "answer": "e.g., heat and light (also sound, electrical).",
+          "explanation": "Energy types."
+        }
+      ]
+    }
+  ]
+}

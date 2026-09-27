@@ -1,0 +1,404 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g2-english",
+  "curriculum": "sd",
+  "grade": "g2",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English (SMILE Starter 2)"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-home",
+      "title": {
+        "en": "Home"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-community-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          },
+          "page": 1,
+          "description": "Grammar: the imperative of put. New language: bath, bathroom, bedroom, fridge, home, kitchen, living room, put, room, TV."
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          },
+          "page": 2,
+          "description": "Grammar: There is… There are…; preposition next to. New language: hospital, park, shop."
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          },
+          "page": 3,
+          "description": "Grammar: present simple; first person singular of live. New language: bird, flat, live (v), mouse, tree."
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          },
+          "page": 4,
+          "description": "Grammar: present simple; first person singular of live; definite and indefinite article: the sea/a well. New language: fish, sea, smell, snail."
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          },
+          "page": 5,
+          "description": "Grammar: imperatives: Cut! Stop!. New language: cold, cut, need, new, nice."
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          },
+          "page": 6,
+          "description": "Grammar: imperative of verbs: wait, plant, grow, look at; possessive 's e.g. our children's children. New language: children, grow, hot, plant (v), seed, walk."
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          },
+          "page": 7,
+          "description": "Grammar: determiner: lots of. New language: lots of, street."
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          },
+          "page": 8,
+          "description": "Grammar: possessive adjective my; simple present of have got and live with I. New language: best, cow, field, nest, river."
+        }
+      ]
+    },
+    {
+      "slug": "02-my-family",
+      "title": {
+        "en": "My Family"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-family-cover.jpg",
+      "page": 9,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          },
+          "page": 9,
+          "description": "Grammar: conjunction and; pronoun this. New language: brother, card, father, me, mother, sister."
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          },
+          "page": 10,
+          "description": "Grammar: possessive 's: Dalia's family. New language: baby, family, grandfather, grandmother."
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          },
+          "page": 11,
+          "description": "Grammar: numbers to 20; determiner any; question word which…?. New language: any, very, which."
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          },
+          "page": 12,
+          "description": "Grammar: present simple, third person singular of verbs Be and have got; phrases with adjective + noun. New language: between, short, star, tall."
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          },
+          "page": 13,
+          "description": "Grammar: imperatives Stand…, Stay (there). New language: preposition, stand, stay."
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          },
+          "page": 14,
+          "description": "Grammar: present simple, first person plural (We) of verbs eat, go to bed, sleep, wake up; numbers 1-20. New language: chick, eat, now, sleep, wake up, we."
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          },
+          "page": 15,
+          "description": "Grammar: subject pronouns I, you, he, she, we, they. New language: after, at, breakfast."
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          },
+          "page": 16,
+          "description": "Grammar: prepositions in, with. New language: garden, people."
+        }
+      ]
+    },
+    {
+      "slug": "03-toys-and-games",
+      "title": {
+        "en": "Toys and Games"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-physical-activity-cover.jpg",
+      "page": 17,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          },
+          "page": 17,
+          "description": "Grammar: can for ability; articles a, an, the, no article with plurals. New language: can, key, remember, sea, sweet (n)."
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          },
+          "page": 18,
+          "description": "Grammar: imperatives of common verbs (Sit, Go); imperatives with don't. New language: game, play, sit, down, write."
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          },
+          "page": 19,
+          "description": "Grammar: can for ability; question How many?; numbers 1-20. New language: hop, read, run, skip, talk."
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          },
+          "page": 20,
+          "description": "Grammar: question How many?; conjunction and. New language: make."
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          },
+          "page": 21,
+          "description": "Grammar: possessive adjective our; pronouns this, that. New language: air, fly (v), fruit, sky."
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          },
+          "page": 22,
+          "description": "Grammar: present simple, first person singular (I) with verb like + noun; conjunction and. New language: beach, ice cream, like, sand, tea."
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          },
+          "page": 23,
+          "description": "Grammar: questions and sentences in the present simple with have got and can (see). New language: close (v), open (v), round (adv), wheel."
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          },
+          "page": 24,
+          "description": "Grammar: imperatives of common verbs: affirmative and negative forms; object pronoun it. New language: catch, sentence, throw, water (v)."
+        }
+      ]
+    },
+    {
+      "slug": "04-animals",
+      "title": {
+        "en": "Animals"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-animals-cover.jpg",
+      "page": 25,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          },
+          "page": 25,
+          "description": "Grammar: adverbs here, there, today. New language: farm, goat, say, today."
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          },
+          "page": 26,
+          "description": "Grammar: noun phrases: Nile fish, long tails; first person plural, present simple of verb + noun. New language: hippo, lay, metre, sharp, snake."
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          },
+          "page": 27,
+          "description": "Grammar: can (for ability) + verb; nouns: singular and regular plurals. New language: camel, desert, elephant, forest, map, mountain."
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          },
+          "page": 28,
+          "description": "Grammar: can (for ability); conjunction and. New language: alphabet, climb, jump, parrot, sing, swim, swing."
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          },
+          "page": 29,
+          "description": "Grammar: can/can't (for ability); nouns: singular and regular plurals. New language: bat, but, lion."
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          },
+          "page": 30,
+          "description": "Grammar: statements with have got and can + verb; noun phrases: short tails, wide feet. New language: about, drink (v), hump, order, water, wide."
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          },
+          "page": 31,
+          "description": "Grammar: sentences in present simple with haven't, don't and can't + verb; common adjectives. New language: be, Bedouin, friend."
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          },
+          "page": 32,
+          "description": "Grammar: can (for ability); prepositions in, up. New language: grass, phone, whale."
+        }
+      ]
+    },
+    {
+      "slug": "05-food-and-drink",
+      "title": {
+        "en": "Food and Drink"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-diet-and-nutrition-cover.jpg",
+      "page": 33,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "en": "Lesson 1"
+          },
+          "page": 33,
+          "description": "Grammar: there is/there are some with countable and uncountable nouns. New language: banana, bread, juice, milk, some, tomato."
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "en": "Lesson 2"
+          },
+          "page": 34,
+          "description": "Grammar: there is/there are some with countable and uncountable nouns. New language: carrot, peanut, potato, shelf, sugar."
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "en": "Lesson 3"
+          },
+          "page": 35,
+          "description": "Grammar: conjunction or. New language: or, orange, round (adj), think, vegetable."
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          },
+          "page": 36,
+          "description": "Grammar: imperatives of common verbs and don't. New language: add, clean, glass, mango, mix, mixer, wash."
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          },
+          "page": 37,
+          "description": "Grammar: can (for ability); possessive adjectives your, my. New language: favourite, food, good, smell (v), sweet (adj), taste (v)."
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          },
+          "page": 38,
+          "description": "Grammar: conjunction or; have got. New language: different, grape, onion, same."
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          },
+          "page": 39,
+          "description": "Grammar: would like/'d like + noun; conjunctions: and, or. New language: I'd like…, would."
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          },
+          "page": 40,
+          "description": "Grammar: is/is not; conjunction or; present simple like/don't like. New language: garlic, meat."
+        }
+      ]
+    }
+  ]
+}

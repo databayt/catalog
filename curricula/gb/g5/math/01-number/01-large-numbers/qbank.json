@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "01-number",
+    "lesson": "01-large-numbers"
+  },
+  "questions": [
+    {
+      "id": "g5-mat-unit-01-number-01-large-numbers-lq01",
+      "type": "mcq",
+      "question": "Which is one hundred thousand?",
+      "options": [
+        "10,000",
+        "100,000",
+        "1,000,000",
+        "1,000"
+      ],
+      "answer": "100,000",
+      "explanation": "6 digits."
+    },
+    {
+      "id": "g5-mat-unit-01-number-01-large-numbers-lq02",
+      "type": "true_false",
+      "question": "1,000,000 is one million.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Seven digits."
+    },
+    {
+      "id": "g5-mat-unit-01-number-01-large-numbers-lq03",
+      "type": "fill_blank",
+      "question": "Round 248,600 to nearest 100,000: ___.",
+      "answer": "200000",
+      "explanation": "48,600 < 50,000."
+    },
+    {
+      "id": "g5-mat-unit-01-number-01-large-numbers-lq04",
+      "type": "short_answer",
+      "question": "Write the value of 7 in 705,000.",
+      "answer": "700,000",
+      "explanation": "Hundred-thousands."
+    }
+  ]
+}

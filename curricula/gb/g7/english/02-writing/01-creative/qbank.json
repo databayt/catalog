@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "02-writing",
+    "lesson": "01-creative"
+  },
+  "questions": [
+    {
+      "id": "g7-eng-unit-02-writing-01-creative-lq01",
+      "type": "mcq",
+      "question": "A story's opening should aim to:",
+      "options": [
+        "bore the reader",
+        "hook the reader",
+        "list facts",
+        "end quickly"
+      ],
+      "answer": "hook the reader",
+      "explanation": "Engaging opening."
+    },
+    {
+      "id": "g7-eng-unit-02-writing-01-creative-lq02",
+      "type": "true_false",
+      "question": "Varied sentence lengths improve writing.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Rhythm and effect."
+    },
+    {
+      "id": "g7-eng-unit-02-writing-01-creative-lq03",
+      "type": "fill_blank",
+      "question": "Describing using the five senses creates ___.",
+      "answer": "imagery",
+      "explanation": "Sensory writing."
+    },
+    {
+      "id": "g7-eng-unit-02-writing-01-creative-lq04",
+      "type": "short_answer",
+      "question": "Name a technique to make description vivid.",
+      "answer": "e.g., simile, metaphor, or sensory detail.",
+      "explanation": "Descriptive techniques."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "french",
+    "chapter": "02-daily-life"
+  },
+  "exams": [
+    {
+      "id": "g7-fre-unit-02-daily-life-exam",
+      "title": "Exam: Daily Life & Grammar",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-fre-unit-02-daily-life-01-school-food-lq01",
+          "type": "mcq",
+          "question": "'L'école' means:",
+          "options": [
+            "the school",
+            "the house",
+            "the car",
+            "the dog"
+          ],
+          "answer": "the school",
+          "explanation": "Vocabulary."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-01-school-food-lq02",
+          "type": "true_false",
+          "question": "'Le pain' means bread.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Food vocab."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-01-school-food-lq03",
+          "type": "fill_blank",
+          "question": "'J'aime' means 'I ___'.",
+          "answer": "like",
+          "explanation": "J'aime = I like."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-01-school-food-lq04",
+          "type": "short_answer",
+          "question": "How do you say 'I like school' in French?",
+          "answer": "J'aime l'école.",
+          "explanation": "Expressing likes."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-02-grammar-lq01",
+          "type": "mcq",
+          "question": "French nouns have a gender: masculine or:",
+          "options": [
+            "feminine",
+            "neutral",
+            "plural only",
+            "none"
+          ],
+          "answer": "feminine",
+          "explanation": "Gender."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-02-grammar-lq02",
+          "type": "true_false",
+          "question": "'Le' is a masculine article and 'la' is feminine.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Articles."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-02-grammar-lq03",
+          "type": "fill_blank",
+          "question": "The feminine word for 'the' is ___.",
+          "answer": "la",
+          "explanation": "La (feminine)."
+        },
+        {
+          "id": "g7-fre-unit-02-daily-life-02-grammar-lq04",
+          "type": "short_answer",
+          "question": "What does it mean that French nouns have gender?",
+          "answer": "Each noun is masculine or feminine, affecting its article.",
+          "explanation": "Gender."
+        }
+      ]
+    }
+  ]
+}

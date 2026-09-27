@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "economics",
+    "chapter": "01-micro",
+    "lesson": "02-markets"
+  },
+  "exams": [
+    {
+      "id": "g12-eco-unit-01-micro-02-markets-quiz",
+      "title": "Quiz: Markets & Failure",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-eco-unit-01-micro-02-markets-lq01",
+          "type": "mcq",
+          "question": "Pollution is an example of a negative:",
+          "options": [
+            "externality",
+            "profit",
+            "subsidy",
+            "asset"
+          ],
+          "answer": "externality",
+          "explanation": "Market failure."
+        },
+        {
+          "id": "g12-eco-unit-01-micro-02-markets-lq02",
+          "type": "true_false",
+          "question": "Governments may intervene when markets fail.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Intervention."
+        },
+        {
+          "id": "g12-eco-unit-01-micro-02-markets-lq03",
+          "type": "fill_blank",
+          "question": "A cost imposed on others outside a transaction is an ___.",
+          "answer": "externality",
+          "explanation": "Externalities."
+        },
+        {
+          "id": "g12-eco-unit-01-micro-02-markets-lq04",
+          "type": "short_answer",
+          "question": "Give an example of market failure.",
+          "answer": "e.g., pollution, or under-provision of public goods.",
+          "explanation": "Market failure."
+        }
+      ]
+    }
+  ]
+}

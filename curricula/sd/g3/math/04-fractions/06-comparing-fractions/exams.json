@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "04-fractions",
+    "lesson": "06-comparing-fractions"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-04-exam-9275",
+      "title": "Lesson Quiz - 06-comparing-fractions - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u04-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢/٣ أكبر من ١/٣",
+          "answer": true,
+          "explanation": "The statement about الكسور is True."
+        }
+      ]
+    }
+  ]
+}

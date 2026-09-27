@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "03-my-family-environment",
+    "lesson": "03-home-neighborhood"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-03-exam-5472",
+      "title": "Lesson Quiz - 03-home-neighborhood - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u03-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أكبر دولة في الشرق الأوسط ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about بيئتي الأسرية."
+        }
+      ]
+    }
+  ]
+}

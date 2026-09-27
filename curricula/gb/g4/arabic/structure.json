@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "gb-g4-arabic",
+  "curriculum": "gb",
+  "grade": "g4",
+  "subject": "arabic",
+  "title": {
+    "ar": "Arabic Language / اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "authored",
+  "concept": "language",
+  "source": {
+    "publisher": "aldar",
+    "title": "UAE MoE Arabic Language curriculum",
+    "url": "https://www.moe.gov.ae/",
+    "license": "LicenseRef-Publisher",
+    "standards": "UAE MoE / ADEK Arabic",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-sentence",
+      "title": {
+        "ar": "أنواع الجملة"
+      },
+      "lessons": [
+        {
+          "slug": "01-noun-verb",
+          "title": {
+            "ar": "الاسم والفعل والحرف"
+          }
+        },
+        {
+          "slug": "02-sentence-types",
+          "title": {
+            "ar": "الجملة الاسمية والفعلية"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-spelling",
+      "title": {
+        "ar": "الإملاء وعلامات الترقيم"
+      },
+      "lessons": [
+        {
+          "slug": "01-spelling",
+          "title": {
+            "ar": "الإملاء"
+          }
+        },
+        {
+          "slug": "02-punctuation",
+          "title": {
+            "ar": "علامات الترقيم"
+          }
+        }
+      ]
+    }
+  ]
+}

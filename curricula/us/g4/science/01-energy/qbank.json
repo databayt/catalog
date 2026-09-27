@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "01-energy"
+  },
+  "questions": [
+    {
+      "id": "g4-sci-unit-01-energy-01-energy-forms-lq01",
+      "type": "mcq",
+      "question": "A moving object has ___ energy.",
+      "options": [
+        "sound",
+        "motion (kinetic)",
+        "frozen",
+        "color"
+      ],
+      "answer": "motion (kinetic)",
+      "explanation": "Energy of motion."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-01-energy-forms-lq02",
+      "type": "true_false",
+      "question": "Faster objects have more energy of motion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "More speed, more kinetic energy."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-01-energy-forms-lq03",
+      "type": "fill_blank",
+      "question": "Light, heat, and sound are forms of ___.",
+      "answer": "energy",
+      "explanation": "Energy forms."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-01-energy-forms-lq04",
+      "type": "short_answer",
+      "question": "Name two forms of energy.",
+      "answer": "e.g., heat and light (also sound, electrical).",
+      "explanation": "Energy types."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-02-electricity-lq01",
+      "type": "mcq",
+      "question": "A complete circuit must be:",
+      "options": [
+        "broken",
+        "closed (a loop)",
+        "wet",
+        "cold"
+      ],
+      "answer": "closed (a loop)",
+      "explanation": "Current needs a closed path."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-02-electricity-lq02",
+      "type": "true_false",
+      "question": "A switch can open or close a circuit.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Controls current flow."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-02-electricity-lq03",
+      "type": "fill_blank",
+      "question": "Electricity flows through a ___ like copper.",
+      "answer": "conductor",
+      "explanation": "Conductors carry current."
+    },
+    {
+      "id": "g4-sci-unit-01-energy-02-electricity-lq04",
+      "type": "short_answer",
+      "question": "Why won't a bulb light in an open circuit?",
+      "answer": "The path is broken so current cannot flow.",
+      "explanation": "Open circuit."
+    }
+  ]
+}

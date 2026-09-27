@@ -1,0 +1,222 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-geography",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "geography",
+  "title": {
+    "ar": "الجغرافيا",
+    "en": "Geography"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "geography",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "الجغرافيا والدراسات البيئية — الصف الثاني الثانوي — الطبعة المنقحة ٢٠١٢م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1-human-foundations-of-geography",
+      "title": {
+        "ar": "الوحدة الأولى: الأسس البشرية للجغرافيا",
+        "en": "Unit 1: Human Foundations of Geography"
+      },
+      "concept": "geography",
+      "image": "clickview/high-migration-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-human-foundations-of-geography",
+          "title": {
+            "ar": "الأسس البشرية للجغرافيا",
+            "en": "Human Foundations of Geography"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-population-dynamics",
+          "title": {
+            "ar": "ديناميكية السكان",
+            "en": "Population Dynamics"
+          },
+          "page": 12
+        },
+        {
+          "slug": "03-population-structure",
+          "title": {
+            "ar": "تركيب السكان",
+            "en": "Population Structure"
+          },
+          "page": 18
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2-distribution-maps",
+      "title": {
+        "ar": "الوحدة الثانية: خرائط التوزيعات",
+        "en": "Unit 2: Distribution Maps"
+      },
+      "concept": "geography",
+      "image": "clickview/high-data-and-information-cover.jpg",
+      "page": 25,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-review-exercise",
+          "title": {
+            "ar": "تمرين مراجعة",
+            "en": "Review Exercise"
+          },
+          "page": 27
+        },
+        {
+          "slug": "02-graphs-and-charts",
+          "title": {
+            "ar": "الأشكال البيانية",
+            "en": "Graphs and Charts"
+          },
+          "page": 33
+        },
+        {
+          "slug": "03-distribution-maps",
+          "title": {
+            "ar": "خرائط التوزيعات",
+            "en": "Distribution Maps"
+          },
+          "page": 43
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3-regional-geography",
+      "title": {
+        "ar": "الوحدة الثالثة: الجغرافيا الإقليمية",
+        "en": "Unit 3: Regional Geography"
+      },
+      "concept": "geography",
+      "image": "clickview/high-landforms-and-landscapes-cover.jpg",
+      "page": 85,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-regional-geography",
+          "title": {
+            "ar": "الجغرافيا الإقليمية",
+            "en": "Regional Geography"
+          },
+          "page": 87
+        },
+        {
+          "slug": "02-selected-geographical-regions",
+          "title": {
+            "ar": "أقاليم جغرافية مختارة",
+            "en": "Selected Geographical Regions"
+          },
+          "page": 93
+        },
+        {
+          "slug": "03-asia",
+          "title": {
+            "ar": "قارة آسيا",
+            "en": "Asia"
+          },
+          "page": 97
+        },
+        {
+          "slug": "04-europe",
+          "title": {
+            "ar": "قارة أوروبا",
+            "en": "Europe"
+          },
+          "page": 115
+        },
+        {
+          "slug": "05-north-america",
+          "title": {
+            "ar": "قارة أمريكا الشمالية",
+            "en": "North America"
+          },
+          "page": 127
+        },
+        {
+          "slug": "06-africa",
+          "title": {
+            "ar": "قارة إفريقيا",
+            "en": "Africa"
+          },
+          "page": 136
+        },
+        {
+          "slug": "07-south-america",
+          "title": {
+            "ar": "قارة أمريكا الجنوبية",
+            "en": "South America"
+          },
+          "page": 152
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4-geography-of-sudan",
+      "title": {
+        "ar": "الوحدة الرابعة: جغرافية السودان",
+        "en": "Unit 4: Geography of Sudan"
+      },
+      "concept": "geography",
+      "image": "clickview/high-sustainability-case-studies-cover.jpg",
+      "page": 161,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sudan-the-physical-basis",
+          "title": {
+            "ar": "جغرافية السودان: الأساس الطبيعي",
+            "en": "Sudan: The Physical Basis"
+          },
+          "page": 163
+        },
+        {
+          "slug": "02-the-population-of-sudan",
+          "title": {
+            "ar": "سكان السودان",
+            "en": "The Population of Sudan"
+          },
+          "page": 180
+        },
+        {
+          "slug": "03-economic-activity",
+          "title": {
+            "ar": "النشاط الاقتصادي",
+            "en": "Economic Activity"
+          },
+          "page": 188,
+          "image": "clickview/high-regenerative-agriculture-cover.jpg"
+        },
+        {
+          "slug": "04-sudans-environmental-problems",
+          "title": {
+            "ar": "مشكلات السودان البيئية",
+            "en": "Sudan's Environmental Problems"
+          },
+          "page": 227,
+          "image": "clickview/high-natural-resources-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

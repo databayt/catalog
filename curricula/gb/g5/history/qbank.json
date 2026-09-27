@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "history"
+  },
+  "questions": [
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq01",
+      "type": "mcq",
+      "question": "The Anglo-Saxons came to Britain from areas of modern:",
+      "options": [
+        "Germany/Denmark",
+        "Spain",
+        "Egypt",
+        "India"
+      ],
+      "answer": "Germany/Denmark",
+      "explanation": "North European settlers."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq02",
+      "type": "true_false",
+      "question": "England's name comes from the 'Angles'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Angle-land."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq03",
+      "type": "fill_blank",
+      "question": "Anglo-Saxon kingdoms included Wessex and ___.",
+      "answer": "Mercia",
+      "explanation": "Heptarchy kingdoms."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-01-anglo-saxons-lq04",
+      "type": "short_answer",
+      "question": "How do we know about the Anglo-Saxons?",
+      "answer": "From burials like Sutton Hoo, artefacts and written chronicles.",
+      "explanation": "Evidence."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq01",
+      "type": "mcq",
+      "question": "The Vikings came from:",
+      "options": [
+        "Scandinavia",
+        "Africa",
+        "South America",
+        "Australia"
+      ],
+      "answer": "Scandinavia",
+      "explanation": "Norse raiders."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq02",
+      "type": "true_false",
+      "question": "Vikings travelled and raided in longships.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Longships."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq03",
+      "type": "fill_blank",
+      "question": "Vikings first raided the monastery at ___ in 793.",
+      "answer": "Lindisfarne",
+      "explanation": "Famous raid."
+    },
+    {
+      "id": "g5-his-unit-01-anglo-saxons-vikings-02-vikings-lq04",
+      "type": "short_answer",
+      "question": "Were the Vikings only raiders? Explain.",
+      "answer": "No — they were also traders, settlers and skilled sailors.",
+      "explanation": "Beyond raiding."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-01-baghdad-lq01",
+      "type": "mcq",
+      "question": "A great centre of learning in early Islamic civilisation was:",
+      "options": [
+        "Baghdad",
+        "London",
+        "Rome",
+        "Paris"
+      ],
+      "answer": "Baghdad",
+      "explanation": "House of Wisdom."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-01-baghdad-lq02",
+      "type": "true_false",
+      "question": "Scholars in Baghdad made advances in maths and medicine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Golden Age."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-01-baghdad-lq03",
+      "type": "fill_blank",
+      "question": "The centre of learning in Baghdad was the House of ___.",
+      "answer": "Wisdom",
+      "explanation": "Bayt al-Hikma."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-01-baghdad-lq04",
+      "type": "short_answer",
+      "question": "Why was early Islamic civilisation important?",
+      "answer": "It preserved and advanced knowledge in science, maths and medicine.",
+      "explanation": "Golden Age."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-02-trade-learning-lq01",
+      "type": "mcq",
+      "question": "Early Islamic traders travelled along routes such as the Silk:",
+      "options": [
+        "Road",
+        "River",
+        "Tower",
+        "Castle"
+      ],
+      "answer": "Road",
+      "explanation": "Trade networks."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-02-trade-learning-lq02",
+      "type": "true_false",
+      "question": "Algebra has roots in early Islamic mathematics.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Al-Khwarizmi."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-02-trade-learning-lq03",
+      "type": "fill_blank",
+      "question": "Goods and ideas spread through ___ between regions.",
+      "answer": "trade",
+      "explanation": "Trade exchange."
+    },
+    {
+      "id": "g5-his-unit-02-early-islamic-02-trade-learning-lq04",
+      "type": "short_answer",
+      "question": "How did trade help spread ideas?",
+      "answer": "Merchants carried goods, knowledge and inventions between cultures.",
+      "explanation": "Cultural exchange."
+    }
+  ]
+}

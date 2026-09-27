@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "moral-education"
+  },
+  "exams": [
+    {
+      "id": "us-g2-moral-education-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-mor-unit-01-community-01-community-lq01",
+          "type": "mcq",
+          "question": "A community is a group of people who:",
+          "options": [
+            "live and work together",
+            "never meet",
+            "live far apart",
+            "are robots"
+          ],
+          "answer": "live and work together",
+          "explanation": "Community."
+        },
+        {
+          "id": "g2-mor-unit-01-community-01-community-lq02",
+          "type": "true_false",
+          "question": "We all have a role to play in our community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Belonging."
+        },
+        {
+          "id": "g2-mor-unit-02-respect-01-respect-lq01",
+          "type": "mcq",
+          "question": "Respect means treating people with:",
+          "options": [
+            "kindness and care",
+            "rudeness",
+            "unfairness",
+            "fear"
+          ],
+          "answer": "kindness and care",
+          "explanation": "Respect."
+        },
+        {
+          "id": "g2-mor-unit-02-respect-01-respect-lq02",
+          "type": "true_false",
+          "question": "We should respect people who are different from us.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tolerance."
+        }
+      ]
+    }
+  ]
+}

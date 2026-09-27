@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "biology"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-biology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq01",
+          "type": "mcq",
+          "question": "The monomer of proteins is the:",
+          "options": [
+            "glucose",
+            "amino acid",
+            "nucleotide",
+            "fatty acid"
+          ],
+          "answer": "amino acid",
+          "explanation": "Protein monomer."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq02",
+          "type": "true_false",
+          "question": "Enzymes are proteins that lower activation energy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Catalysts."
+        },
+        {
+          "id": "g12-bio-unit-02-cells-transport-01-membranes-lq01",
+          "type": "mcq",
+          "question": "Movement of molecules down a gradient without energy is:",
+          "options": [
+            "active transport",
+            "diffusion",
+            "exocytosis",
+            "mitosis"
+          ],
+          "answer": "diffusion",
+          "explanation": "Passive."
+        },
+        {
+          "id": "g12-bio-unit-02-cells-transport-01-membranes-lq02",
+          "type": "true_false",
+          "question": "Active transport requires ATP.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Against gradient."
+        }
+      ]
+    }
+  ]
+}

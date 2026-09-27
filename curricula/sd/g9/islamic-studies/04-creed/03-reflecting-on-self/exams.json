@@ -1,0 +1,105 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "04-creed",
+    "lesson": "03-reflecting-on-self"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-lquiz",
+      "title": "اختبار درس - التفكر والتأمل في الأنفس",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإيمان؟",
+          "options": [
+            "ستة",
+            "خمسة",
+            "سبعة",
+            "أربعة"
+          ],
+          "answer": "ستة",
+          "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq02",
+          "type": "true_false",
+          "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq03",
+          "type": "fill_blank",
+          "question": "التوحيد ينقسم إلى توحيد الربوبية وتوحيد ___ وتوحيد الأسماء والصفات.",
+          "answer": "الألوهية",
+          "explanation": "التوحيد ثلاثة أنواع: ربوبية وألوهية وأسماء وصفات."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq04",
+          "type": "short_answer",
+          "question": "ما معنى الإيمان بالملائكة؟",
+          "answer": "التصديق بوجودهم وأنهم خلق من نور يعبدون الله ولا يعصونه.",
+          "explanation": "الإيمان بالملائكة ركن من أركان الإيمان."
+        }
+      ]
+    },
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-lquiz-2",
+      "title": "اختبار درس - التفكر والتأمل في الأنفس",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإيمان؟",
+          "options": [
+            "ستة",
+            "خمسة",
+            "سبعة",
+            "أربعة"
+          ],
+          "answer": "ستة",
+          "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq02",
+          "type": "true_false",
+          "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq03",
+          "type": "fill_blank",
+          "question": "التوحيد ينقسم إلى توحيد الربوبية وتوحيد ___ وتوحيد الأسماء والصفات.",
+          "answer": "الألوهية",
+          "explanation": "التوحيد ثلاثة أنواع: ربوبية وألوهية وأسماء وصفات."
+        },
+        {
+          "id": "g9-isl-unit-04-03-reflecting-on-self-lq04",
+          "type": "short_answer",
+          "question": "ما معنى الإيمان بالملائكة؟",
+          "answer": "التصديق بوجودهم وأنهم خلق من نور يعبدون الله ولا يعصونه.",
+          "explanation": "الإيمان بالملائكة ركن من أركان الإيمان."
+        }
+      ]
+    }
+  ]
+}

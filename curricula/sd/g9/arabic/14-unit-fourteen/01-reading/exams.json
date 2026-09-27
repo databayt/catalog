@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "14-unit-fourteen",
+    "lesson": "01-reading"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-14-01-reading-lquiz",
+      "title": "اختبار درس - القراءة: طيور السلام",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-ara-unit-14-01-reading-lq01",
+          "type": "mcq",
+          "question": "ما الغرض الرئيسي من قراءة النصوص الأدبية في الوحدة 14؟",
+          "options": [
+            "تنمية مهارات الفهم والاستيعاب",
+            "حفظ المفردات فقط",
+            "تعلم قواعد النحو",
+            "كتابة القصص"
+          ],
+          "answer": "تنمية مهارات الفهم والاستيعاب",
+          "explanation": "القراءة تنمي مهارات الفهم والاستيعاب لدى الطالب."
+        },
+        {
+          "id": "g9-ara-unit-14-01-reading-lq02",
+          "type": "true_false",
+          "question": "الفهم القرائي يساعد على استيعاب المعنى الكامل للنص.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الفهم القرائي أساس استيعاب النصوص."
+        },
+        {
+          "id": "g9-ara-unit-14-01-reading-lq03",
+          "type": "fill_blank",
+          "question": "النص الذي يُروى فيه أحداث متسلسلة يسمى نصاً ___.",
+          "answer": "سردياً",
+          "explanation": "النص السردي يروي أحداثاً متسلسلة."
+        },
+        {
+          "id": "g9-ara-unit-14-01-reading-lq04",
+          "type": "short_answer",
+          "question": "اذكر ثلاثة أنواع من النصوص التي تدرسها في مادة اللغة العربية.",
+          "answer": "النص السردي، النص الوصفي، النص الحواري",
+          "explanation": "أنواع النصوص الأدبية متعددة ومتنوعة."
+        }
+      ]
+    }
+  ]
+}

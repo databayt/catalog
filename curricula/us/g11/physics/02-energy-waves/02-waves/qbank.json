@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "02-energy-waves",
+    "lesson": "02-waves"
+  },
+  "questions": [
+    {
+      "id": "g11-phy-unit-02-energy-waves-02-waves-lq01",
+      "type": "mcq",
+      "question": "Wave speed = frequency ×:",
+      "options": [
+        "amplitude",
+        "wavelength",
+        "time",
+        "mass"
+      ],
+      "answer": "wavelength",
+      "explanation": "v = fλ."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-02-waves-lq02",
+      "type": "true_false",
+      "question": "Sound waves are longitudinal.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Compressions."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-02-waves-lq03",
+      "type": "fill_blank",
+      "question": "The height of a wave is its ___.",
+      "answer": "amplitude",
+      "explanation": "Amplitude."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-02-waves-lq04",
+      "type": "short_answer",
+      "question": "How are frequency and wavelength related at fixed speed?",
+      "answer": "They are inversely proportional.",
+      "explanation": "Wave relationship."
+    }
+  ]
+}

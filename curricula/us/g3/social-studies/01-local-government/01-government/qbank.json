@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "01-local-government",
+    "lesson": "01-government"
+  },
+  "questions": [
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq01",
+      "type": "mcq",
+      "question": "Government makes and enforces:",
+      "options": [
+        "toys",
+        "laws",
+        "weather",
+        "clouds"
+      ],
+      "answer": "laws",
+      "explanation": "Rule of law."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq02",
+      "type": "true_false",
+      "question": "People in a democracy vote to choose leaders.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Democracy."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq03",
+      "type": "fill_blank",
+      "question": "The leader of a city is often called the ___.",
+      "answer": "mayor",
+      "explanation": "Local leader."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq04",
+      "type": "short_answer",
+      "question": "Name one job of local government.",
+      "answer": "e.g., running schools, roads, or public safety.",
+      "explanation": "Local government."
+    }
+  ]
+}

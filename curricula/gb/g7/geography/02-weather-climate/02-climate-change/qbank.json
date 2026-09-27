@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "geography",
+    "chapter": "02-weather-climate",
+    "lesson": "02-climate-change"
+  },
+  "questions": [
+    {
+      "id": "g7-geo-unit-02-weather-climate-02-climate-change-lq01",
+      "type": "mcq",
+      "question": "A major cause of recent climate change is burning:",
+      "options": [
+        "water",
+        "fossil fuels",
+        "sand",
+        "wood only"
+      ],
+      "answer": "fossil fuels",
+      "explanation": "Emissions."
+    },
+    {
+      "id": "g7-geo-unit-02-weather-climate-02-climate-change-lq02",
+      "type": "true_false",
+      "question": "Greenhouse gases trap heat in the atmosphere.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Greenhouse effect."
+    },
+    {
+      "id": "g7-geo-unit-02-weather-climate-02-climate-change-lq03",
+      "type": "fill_blank",
+      "question": "Carbon dioxide is a greenhouse ___.",
+      "answer": "gas",
+      "explanation": "CO₂."
+    },
+    {
+      "id": "g7-geo-unit-02-weather-climate-02-climate-change-lq04",
+      "type": "short_answer",
+      "question": "Name one consequence of climate change.",
+      "answer": "e.g., rising sea levels, more extreme weather.",
+      "explanation": "Climate impacts."
+    }
+  ]
+}

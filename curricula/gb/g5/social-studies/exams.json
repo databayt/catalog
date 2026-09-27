@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g5-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq01",
+          "type": "mcq",
+          "question": "The UAE was founded as a union in:",
+          "options": [
+            "1971",
+            "1999",
+            "2001",
+            "1950"
+          ],
+          "answer": "1971",
+          "explanation": "2 December 1971."
+        },
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq02",
+          "type": "true_false",
+          "question": "Sheikh Zayed bin Sultan Al Nahyan was a founding father of the UAE.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Founding father."
+        },
+        {
+          "id": "g5-uae-unit-02-civic-01-citizenship-lq01",
+          "type": "mcq",
+          "question": "A good citizen:",
+          "options": [
+            "follows laws and helps others",
+            "breaks rules",
+            "litters",
+            "is unkind"
+          ],
+          "answer": "follows laws and helps others",
+          "explanation": "Citizenship."
+        },
+        {
+          "id": "g5-uae-unit-02-civic-01-citizenship-lq02",
+          "type": "true_false",
+          "question": "Respecting public property is part of good citizenship.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Civic duty."
+        }
+      ]
+    }
+  ]
+}

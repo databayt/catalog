@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq01",
+      "type": "mcq",
+      "question": "What comes after 14?",
+      "options": [
+        "13",
+        "15",
+        "16",
+        "20"
+      ],
+      "answer": "15",
+      "explanation": "Count on by one."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq02",
+      "type": "true_false",
+      "question": "The number before 10 is 9.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "9 + 1 = 10."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq03",
+      "type": "fill_blank",
+      "question": "Count on: 17, 18, ___ , 20.",
+      "answer": "19",
+      "explanation": "One more each time."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-01-counting-lq04",
+      "type": "short_answer",
+      "question": "Count backwards from 5 to 1.",
+      "answer": "5, 4, 3, 2, 1",
+      "explanation": "Counting down."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq01",
+      "type": "mcq",
+      "question": "13 is made of:",
+      "options": [
+        "1 ten 3 ones",
+        "3 tens 1 one",
+        "13 tens",
+        "10 ones"
+      ],
+      "answer": "1 ten 3 ones",
+      "explanation": "13 = 10 + 3."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq02",
+      "type": "true_false",
+      "question": "16 has 6 ones.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "6 in the ones place."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq03",
+      "type": "fill_blank",
+      "question": "1 ten and 8 ones = ___.",
+      "answer": "18",
+      "explanation": "10 + 8."
+    },
+    {
+      "id": "g1-mat-unit-01-number-to-20-02-tens-ones-lq04",
+      "type": "short_answer",
+      "question": "How many tens in 20?",
+      "answer": "2 tens",
+      "explanation": "20 = 2 tens."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq01",
+      "type": "mcq",
+      "question": "7 + 6 = ?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "11"
+      ],
+      "answer": "13",
+      "explanation": "7 + 6 = 13."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq02",
+      "type": "true_false",
+      "question": "Adding 0 to a number leaves it unchanged.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "n + 0 = n."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq03",
+      "type": "fill_blank",
+      "question": "9 + ___ = 14.",
+      "answer": "5",
+      "explanation": "14 - 9 = 5."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq04",
+      "type": "short_answer",
+      "question": "Find 8 + 8.",
+      "answer": "16",
+      "explanation": "Doubles fact."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq01",
+      "type": "mcq",
+      "question": "15 - 6 = ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "answer": "9",
+      "explanation": "15 - 6 = 9."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq02",
+      "type": "true_false",
+      "question": "Subtraction can be shown as 'taking away'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Remove objects."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq03",
+      "type": "fill_blank",
+      "question": "12 - ___ = 4.",
+      "answer": "8",
+      "explanation": "12 - 4 = 8."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq04",
+      "type": "short_answer",
+      "question": "There are 10 sweets; 3 are eaten. How many left?",
+      "answer": "7",
+      "explanation": "10 - 3 = 7."
+    }
+  ]
+}

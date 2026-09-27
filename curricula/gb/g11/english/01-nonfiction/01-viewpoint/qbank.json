@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "01-nonfiction",
+    "lesson": "01-viewpoint"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq01",
+      "type": "mcq",
+      "question": "A writer's attitude towards a subject is their:",
+      "options": [
+        "viewpoint",
+        "font",
+        "title",
+        "index"
+      ],
+      "answer": "viewpoint",
+      "explanation": "Perspective."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq02",
+      "type": "true_false",
+      "question": "Two texts on the same topic can present different viewpoints.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Comparison."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq03",
+      "type": "fill_blank",
+      "question": "Showing similarities and differences between texts is to ___.",
+      "answer": "compare",
+      "explanation": "Compare/contrast."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq04",
+      "type": "short_answer",
+      "question": "How do you compare two writers' viewpoints?",
+      "answer": "Identify each viewpoint and analyse how language conveys it.",
+      "explanation": "Comparison."
+    }
+  ]
+}

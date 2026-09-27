@@ -1,0 +1,122 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "cbse-g10-geography",
+  "curriculum": "cbse",
+  "grade": "g10",
+  "subject": "geography",
+  "title": {
+    "ar": "الجغرافيا",
+    "en": "Social Science — Geography (Contemporary India II)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "geography",
+  "source": {
+    "publisher": "ncert",
+    "url": "https://ncert.nic.in/textbook.php?jess1",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-resources-and-development",
+      "title": {
+        "en": "Resources and Development"
+      },
+      "lessons": [
+        {
+          "slug": "01-resources-and-development",
+          "title": {
+            "en": "Resources and Development"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-forest-and-wildlife-resources",
+      "title": {
+        "en": "Forest and Wildlife Resources"
+      },
+      "lessons": [
+        {
+          "slug": "01-forest-and-wildlife-resources",
+          "title": {
+            "en": "Forest and Wildlife Resources"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-water-resources",
+      "title": {
+        "en": "Water Resources"
+      },
+      "lessons": [
+        {
+          "slug": "01-water-resources",
+          "title": {
+            "en": "Water Resources"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-agriculture",
+      "title": {
+        "en": "Agriculture"
+      },
+      "lessons": [
+        {
+          "slug": "01-agriculture",
+          "title": {
+            "en": "Agriculture"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-minerals-and-energy-resources",
+      "title": {
+        "en": "Minerals and Energy Resources"
+      },
+      "lessons": [
+        {
+          "slug": "01-minerals-and-energy-resources",
+          "title": {
+            "en": "Minerals and Energy Resources"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-manufacturing-industries",
+      "title": {
+        "en": "Manufacturing Industries"
+      },
+      "lessons": [
+        {
+          "slug": "01-manufacturing-industries",
+          "title": {
+            "en": "Manufacturing Industries"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-lifelines-of-national-economy",
+      "title": {
+        "en": "Lifelines of National Economy"
+      },
+      "lessons": [
+        {
+          "slug": "01-lifelines-of-national-economy",
+          "title": {
+            "en": "Lifelines of National Economy"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g5-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-eng-unit-01-reading-01-point-of-view-lq01",
+          "type": "mcq",
+          "question": "A story told with 'I' is in:",
+          "options": [
+            "third person",
+            "first person",
+            "second person",
+            "no person"
+          ],
+          "answer": "first person",
+          "explanation": "'I/we' = first person."
+        },
+        {
+          "id": "g5-eng-unit-01-reading-01-point-of-view-lq02",
+          "type": "true_false",
+          "question": "Third-person narrators use 'he/she/they'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Outside the story."
+        },
+        {
+          "id": "g5-eng-unit-02-language-01-figurative-lq01",
+          "type": "mcq",
+          "question": "'The stars danced' is an example of:",
+          "options": [
+            "simile",
+            "metaphor",
+            "personification",
+            "alliteration"
+          ],
+          "answer": "personification",
+          "explanation": "Giving human action to stars."
+        },
+        {
+          "id": "g5-eng-unit-02-language-01-figurative-lq02",
+          "type": "true_false",
+          "question": "A simile uses 'like' or 'as'.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., 'brave as a lion'."
+        },
+        {
+          "id": "g5-eng-unit-03-writing-01-narrative-lq01",
+          "type": "mcq",
+          "question": "A narrative tells a:",
+          "options": [
+            "list of facts",
+            "story",
+            "menu",
+            "map"
+          ],
+          "answer": "story",
+          "explanation": "Narrative = story."
+        },
+        {
+          "id": "g5-eng-unit-03-writing-01-narrative-lq02",
+          "type": "true_false",
+          "question": "Narratives often include dialogue.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Characters speak."
+        }
+      ]
+    }
+  ]
+}

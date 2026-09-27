@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "gb-g1-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-ara-unit-01-letters-01-letters-lq01",
+          "type": "mcq",
+          "question": "كم عدد حروف اللغة العربية؟",
+          "options": [
+            "26",
+            "28",
+            "30",
+            "20"
+          ],
+          "answer": "28",
+          "explanation": "حروف العربية ثمانية وعشرون حرفاً."
+        },
+        {
+          "id": "g1-ara-unit-01-letters-01-letters-lq02",
+          "type": "true_false",
+          "question": "أول حروف الهجاء هو حرف الألف.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الترتيب: أ، ب، ت..."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq01",
+          "type": "mcq",
+          "question": "الحركة ( َ ) فوق الحرف تسمى:",
+          "options": [
+            "فتحة",
+            "ضمة",
+            "كسرة",
+            "سكون"
+          ],
+          "answer": "فتحة",
+          "explanation": "الفتحة فوق الحرف."
+        },
+        {
+          "id": "g1-ara-unit-02-harakat-01-harakat-lq02",
+          "type": "true_false",
+          "question": "الكسرة توضع تحت الحرف.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الكسرة أسفل الحرف."
+        }
+      ]
+    }
+  ]
+}

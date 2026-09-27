@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "design-technology"
+  },
+  "questions": [
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq01",
+      "type": "mcq",
+      "question": "A specification lists the ___ a product must meet.",
+      "options": [
+        "requirements",
+        "prices only",
+        "colours only",
+        "names"
+      ],
+      "answer": "requirements",
+      "explanation": "Specification."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq02",
+      "type": "true_false",
+      "question": "Researching existing products helps designers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Research."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq03",
+      "type": "fill_blank",
+      "question": "A list of requirements for a product is a ___.",
+      "answer": "specification",
+      "explanation": "Spec."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq04",
+      "type": "short_answer",
+      "question": "Why research existing products before designing?",
+      "answer": "To learn what works and find ways to improve.",
+      "explanation": "Research."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq01",
+      "type": "mcq",
+      "question": "An early model used to test a design is a:",
+      "options": [
+        "prototype",
+        "poster",
+        "receipt",
+        "logo"
+      ],
+      "answer": "prototype",
+      "explanation": "Prototype."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq02",
+      "type": "true_false",
+      "question": "Testing prototypes helps improve a design.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Iteration."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq03",
+      "type": "fill_blank",
+      "question": "Making and testing an early version is ___.",
+      "answer": "prototyping",
+      "explanation": "Prototyping."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq04",
+      "type": "short_answer",
+      "question": "Why build a prototype?",
+      "answer": "To test and refine a design before final production.",
+      "explanation": "Prototyping."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq01",
+      "type": "mcq",
+      "question": "A property of a good material for a chair leg is:",
+      "options": [
+        "strength",
+        "being edible",
+        "glowing",
+        "melting easily"
+      ],
+      "answer": "strength",
+      "explanation": "Material properties."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq02",
+      "type": "true_false",
+      "question": "Different materials suit different purposes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Material choice."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq03",
+      "type": "fill_blank",
+      "question": "How a material behaves (e.g., strong, flexible) is its ___.",
+      "answer": "property",
+      "explanation": "Properties."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq04",
+      "type": "short_answer",
+      "question": "Name one factor in choosing a material.",
+      "answer": "e.g., strength, cost, weight, or sustainability.",
+      "explanation": "Material choice."
+    },
+    {
+      "id": "g8-des-unit-02-materials-02-sustainability-lq01",
+      "type": "mcq",
+      "question": "Designing to reduce waste supports:",
+      "options": [
+        "sustainability",
+        "pollution",
+        "wastefulness",
+        "nothing"
+      ],
+      "answer": "sustainability",
+      "explanation": "Sustainable design."
+    },
+    {
+      "id": "g8-des-unit-02-materials-02-sustainability-lq02",
+      "type": "true_false",
+      "question": "Products can be designed to be recycled.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Recyclability."
+    },
+    {
+      "id": "g8-des-unit-02-materials-02-sustainability-lq03",
+      "type": "fill_blank",
+      "question": "Using resources responsibly is designing for ___.",
+      "answer": "sustainability",
+      "explanation": "Sustainability."
+    },
+    {
+      "id": "g8-des-unit-02-materials-02-sustainability-lq04",
+      "type": "short_answer",
+      "question": "Name one way to design more sustainably.",
+      "answer": "e.g., use recyclable materials or reduce waste.",
+      "explanation": "Sustainable design."
+    }
+  ]
+}

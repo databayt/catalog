@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "islamic-studies"
+  },
+  "questions": [
+    {
+      "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام؟",
+      "options": [
+        "ثلاثة",
+        "أربعة",
+        "خمسة",
+        "ستة"
+      ],
+      "answer": "خمسة",
+      "explanation": "أركان الإسلام خمسة."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq02",
+      "type": "true_false",
+      "question": "الركن الأول من أركان الإسلام هو الشهادتان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "أول الأركان."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq03",
+      "type": "fill_blank",
+      "question": "أركان الإسلام: الشهادتان، والصلاة، والزكاة، والصوم، و___.",
+      "answer": "الحج",
+      "explanation": "الركن الخامس."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq04",
+      "type": "short_answer",
+      "question": "اذكر ركنين من أركان الإسلام.",
+      "answer": "مثل: الشهادتان والصلاة.",
+      "explanation": "أركان الإسلام."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-02-purity-lq01",
+      "type": "mcq",
+      "question": "الوضوء شرط لصحة:",
+      "options": [
+        "النوم",
+        "الصلاة",
+        "الأكل",
+        "اللعب"
+      ],
+      "answer": "الصلاة",
+      "explanation": "الطهارة للصلاة."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-02-purity-lq02",
+      "type": "true_false",
+      "question": "نغسل أيدينا في الوضوء.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "من أعمال الوضوء."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-02-purity-lq03",
+      "type": "fill_blank",
+      "question": "التنظف والتطهر يسمى ___.",
+      "answer": "الطهارة",
+      "explanation": "الطهارة."
+    },
+    {
+      "id": "g1-isl-unit-01-pillars-islam-02-purity-lq04",
+      "type": "short_answer",
+      "question": "لماذا نتوضأ؟",
+      "answer": "لنتطهر استعداداً للصلاة.",
+      "explanation": "الوضوء."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-01-adab-lq01",
+      "type": "mcq",
+      "question": "ماذا نقول عند بدء الطعام؟",
+      "options": [
+        "بسم الله",
+        "لا شيء",
+        "شكراً فقط",
+        "مع السلامة"
+      ],
+      "answer": "بسم الله",
+      "explanation": "التسمية."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-01-adab-lq02",
+      "type": "true_false",
+      "question": "نقول (السلام عليكم) عند اللقاء.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "آداب السلام."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-01-adab-lq03",
+      "type": "fill_blank",
+      "question": "نأكل بيدنا ___.",
+      "answer": "اليمنى",
+      "explanation": "آداب الطعام."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-01-adab-lq04",
+      "type": "short_answer",
+      "question": "اذكر أدباً من آداب الطعام.",
+      "answer": "مثل: التسمية والأكل باليمين.",
+      "explanation": "الآداب."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-02-cleanliness-lq01",
+      "type": "mcq",
+      "question": "النظافة في الإسلام:",
+      "options": [
+        "مطلوبة ومحبوبة",
+        "غير مهمة",
+        "ممنوعة",
+        "للكبار فقط"
+      ],
+      "answer": "مطلوبة ومحبوبة",
+      "explanation": "الطهارة."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-02-cleanliness-lq02",
+      "type": "true_false",
+      "question": "النظافة من الإيمان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الحث على النظافة."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-02-cleanliness-lq03",
+      "type": "fill_blank",
+      "question": "نغسل أيدينا قبل ___.",
+      "answer": "الطعام",
+      "explanation": "النظافة."
+    },
+    {
+      "id": "g1-isl-unit-02-manners-02-cleanliness-lq04",
+      "type": "short_answer",
+      "question": "لماذا نهتم بالنظافة؟",
+      "answer": "لأنها من الدين وتحفظ صحتنا.",
+      "explanation": "النظافة."
+    }
+  ]
+}

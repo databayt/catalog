@@ -1,0 +1,218 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "01-tajweed"
+  },
+  "questions": [
+    {
+      "id": "g9-isl-unit-01-01-review-q01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-01-review-q02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "g9-isl-unit-01-02-madd-sukoon-q01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-02-madd-sukoon-q02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "g9-isl-unit-01-03-madd-lazim-q01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-03-madd-lazim-q02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "g9-isl-unit-01-04-madd-lazim-harfi-q01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-04-madd-lazim-harfi-q02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "g9-isl-unit-01-05-madd-lazim-harfi-summary-q01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-05-madd-lazim-harfi-summary-q02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "1a794513",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام؟",
+      "options": [
+        "ثلاثة",
+        "أربعة",
+        "خمسة",
+        "ستة"
+      ],
+      "answer": "خمسة",
+      "explanation": "الأركان: الشهادة، الصلاة، الزكاة، الصوم، الحج"
+    },
+    {
+      "id": "b9fe070d",
+      "type": "fill_blank",
+      "question": "أول ركن من أركان الإسلام هو ___",
+      "answer": "الشهادة",
+      "explanation": "الشهادة بأن لا إله إلا الله وأن محمد رسول الله"
+    },
+    {
+      "id": "2052be21",
+      "type": "true_false",
+      "question": "الصلاة عمود الدين",
+      "answer": true,
+      "explanation": "الصلاة من أهم أركان الإسلام"
+    },
+    {
+      "id": "a60508f4",
+      "type": "short_answer",
+      "question": "كم عدد الصلوات المفروضة في اليوم والليلة؟",
+      "answer": "خمس صلوات",
+      "explanation": "الفجر، الظهر، العصر، المغرب، العشاء"
+    },
+    {
+      "id": "e8802b8f",
+      "type": "mcq",
+      "question": "الزكاة هي:",
+      "options": [
+        "الصدقة العامة",
+        "مال معين يؤخذ من الأغنياء",
+        "ركن من أركان الإسلام",
+        "كل الخيارات صحيحة"
+      ],
+      "answer": "كل الخيارات صحيحة",
+      "explanation": "الزكاة عبادة وحق للفقراء"
+    },
+    {
+      "id": "0309eb7b",
+      "type": "true_false",
+      "question": "الصيام واجب على جميع المسلمين البالغين العاقلين",
+      "answer": true,
+      "explanation": "الصيام ركن من أركان الإسلام"
+    },
+    {
+      "id": "5b880fed",
+      "type": "fill_blank",
+      "question": "شهر الصيام في السنة الهجرية هو ___",
+      "answer": "رمضان",
+      "explanation": "شهر رمضان هو شهر الصوم"
+    },
+    {
+      "id": "7cc25d72",
+      "type": "short_answer",
+      "question": "ما شروط الحج؟",
+      "answer": "الإسلام، الحرية، البلوغ، العقل، الاستطاعة",
+      "explanation": "لا يجب الحج إلا بتوفر هذه الشروط"
+    },
+    {
+      "id": "9fbdcad3",
+      "type": "mcq",
+      "question": "كم عدد مرات الحج المفروضة؟",
+      "options": [
+        "مرة واحدة",
+        "مرتان",
+        "ثلاث مرات",
+        "حسب الاستطاعة"
+      ],
+      "answer": "مرة واحدة",
+      "explanation": "الحج واجب مرة واحدة في العمر"
+    },
+    {
+      "id": "1f4cb320",
+      "type": "true_false",
+      "question": "الحج يتم في أشهر معينة من السنة الهجرية",
+      "answer": true,
+      "explanation": "أشهر الحج معروفة في التقويم الهجري"
+    }
+  ]
+}

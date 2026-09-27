@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq01",
+          "type": "mcq",
+          "question": "A community of living things and their environment is an:",
+          "options": [
+            "ecosystem",
+            "atom",
+            "equation",
+            "industry"
+          ],
+          "answer": "ecosystem",
+          "explanation": "Eco unit."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq02",
+          "type": "true_false",
+          "question": "Energy flows through an ecosystem via food chains.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Energy flow."
+        },
+        {
+          "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq01",
+          "type": "mcq",
+          "question": "Erosion that breaks rock by waves throwing pebbles is:",
+          "options": [
+            "abrasion",
+            "solution",
+            "attrition",
+            "hydraulic"
+          ],
+          "answer": "abrasion",
+          "explanation": "Coastal abrasion."
+        },
+        {
+          "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq02",
+          "type": "true_false",
+          "question": "Headlands and bays form along coasts of differing rock hardness.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Differential erosion."
+        }
+      ]
+    }
+  ]
+}

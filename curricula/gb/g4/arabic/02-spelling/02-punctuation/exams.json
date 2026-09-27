@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "arabic",
+    "chapter": "02-spelling",
+    "lesson": "02-punctuation"
+  },
+  "exams": [
+    {
+      "id": "g4-ara-unit-02-spelling-02-punctuation-quiz",
+      "title": "Quiz: علامات الترقيم",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-ara-unit-02-spelling-02-punctuation-lq01",
+          "type": "mcq",
+          "question": "نضع علامة الاستفهام بعد:",
+          "options": [
+            "السؤال",
+            "الخبر",
+            "الأمر",
+            "النهاية"
+          ],
+          "answer": "السؤال",
+          "explanation": "؟ بعد السؤال."
+        },
+        {
+          "id": "g4-ara-unit-02-spelling-02-punctuation-lq02",
+          "type": "true_false",
+          "question": "الفاصلة تفصل بين أجزاء الجملة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الفاصلة."
+        },
+        {
+          "id": "g4-ara-unit-02-spelling-02-punctuation-lq03",
+          "type": "fill_blank",
+          "question": "علامة التعجب هي ___.",
+          "answer": "!",
+          "explanation": "التعجب."
+        },
+        {
+          "id": "g4-ara-unit-02-spelling-02-punctuation-lq04",
+          "type": "short_answer",
+          "question": "متى نستخدم النقطة؟",
+          "answer": "في نهاية الجملة التامة.",
+          "explanation": "النقطة."
+        }
+      ]
+    }
+  ]
+}

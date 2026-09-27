@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq01",
+      "type": "mcq",
+      "question": "In y = 2x + 1, the gradient is:",
+      "options": [
+        "1",
+        "2",
+        "x",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "Coefficient of x."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq02",
+      "type": "true_false",
+      "question": "The y-intercept of y = 2x + 1 is 1.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Constant term."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq03",
+      "type": "fill_blank",
+      "question": "A line with gradient 0 is ___.",
+      "answer": "horizontal",
+      "explanation": "Flat line."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq04",
+      "type": "short_answer",
+      "question": "What does the gradient tell you?",
+      "answer": "How steep the line is (rate of change).",
+      "explanation": "Gradient meaning."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq01",
+      "type": "mcq",
+      "question": "Which is a quadratic expression?",
+      "options": [
+        "2x+1",
+        "x²+3x",
+        "5",
+        "x"
+      ],
+      "answer": "x²+3x",
+      "explanation": "Has x² term."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq02",
+      "type": "true_false",
+      "question": "Factorising x² + 5x gives x(x + 5).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Common factor x."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq03",
+      "type": "fill_blank",
+      "question": "Expand (x+2)(x+3) = x² + 5x + ___.",
+      "answer": "6",
+      "explanation": "2×3."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq04",
+      "type": "short_answer",
+      "question": "What shape is the graph of a quadratic?",
+      "answer": "A parabola.",
+      "explanation": "Curve."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq01",
+      "type": "mcq",
+      "question": "In a right triangle, a²+b² = ?",
+      "options": [
+        "c",
+        "c²",
+        "2c",
+        "ab"
+      ],
+      "answer": "c²",
+      "explanation": "Hypotenuse squared."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq02",
+      "type": "true_false",
+      "question": "Pythagoras' theorem works only for right-angled triangles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Right angle required."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq03",
+      "type": "fill_blank",
+      "question": "If legs are 3 and 4, the hypotenuse is ___.",
+      "answer": "5",
+      "explanation": "√(9+16)."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq04",
+      "type": "short_answer",
+      "question": "State Pythagoras' theorem.",
+      "answer": "The square of the hypotenuse equals the sum of the squares of the other two sides.",
+      "explanation": "Theorem."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq01",
+      "type": "mcq",
+      "question": "sin = opposite ÷ ?",
+      "options": [
+        "adjacent",
+        "hypotenuse",
+        "angle",
+        "area"
+      ],
+      "answer": "hypotenuse",
+      "explanation": "SOH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq02",
+      "type": "true_false",
+      "question": "tan = opposite ÷ adjacent.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "TOA."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq03",
+      "type": "fill_blank",
+      "question": "cos = adjacent ÷ ___.",
+      "answer": "hypotenuse",
+      "explanation": "CAH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq04",
+      "type": "short_answer",
+      "question": "What does SOHCAHTOA help you remember?",
+      "answer": "The ratios for sine, cosine and tangent.",
+      "explanation": "Trig ratios."
+    }
+  ]
+}

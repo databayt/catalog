@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "01-forces-motion"
+  },
+  "questions": [
+    {
+      "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq01",
+      "type": "mcq",
+      "question": "An object at rest stays at rest unless acted on by a:",
+      "options": [
+        "color",
+        "force",
+        "sound",
+        "cell"
+      ],
+      "answer": "force",
+      "explanation": "Newton's first law (inertia)."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq02",
+      "type": "true_false",
+      "question": "Force = mass × acceleration (Newton's second law).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "F = ma."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq03",
+      "type": "fill_blank",
+      "question": "For every action there is an equal and opposite ___.",
+      "answer": "reaction",
+      "explanation": "Newton's third law."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-01-newtons-laws-lq04",
+      "type": "short_answer",
+      "question": "State Newton's first law in your own words.",
+      "answer": "Objects keep doing what they're doing unless a force changes it.",
+      "explanation": "Inertia."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-02-gravity-lq01",
+      "type": "mcq",
+      "question": "Gravity is a force of:",
+      "options": [
+        "repulsion",
+        "attraction",
+        "friction",
+        "tension"
+      ],
+      "answer": "attraction",
+      "explanation": "Masses attract."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-02-gravity-lq02",
+      "type": "true_false",
+      "question": "Heavier objects fall faster in a vacuum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "All fall at same rate (no air)."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-02-gravity-lq03",
+      "type": "fill_blank",
+      "question": "Weight is the force of gravity on an object's ___.",
+      "answer": "mass",
+      "explanation": "Weight = mg."
+    },
+    {
+      "id": "g8-sci-unit-01-forces-motion-02-gravity-lq04",
+      "type": "short_answer",
+      "question": "Why do astronauts float in orbit?",
+      "answer": "They are in continuous free fall around Earth.",
+      "explanation": "Microgravity."
+    }
+  ]
+}

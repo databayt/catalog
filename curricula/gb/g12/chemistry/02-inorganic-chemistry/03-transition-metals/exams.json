@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "chemistry",
+    "chapter": "02-inorganic-chemistry",
+    "lesson": "03-transition-metals"
+  },
+  "exams": [
+    {
+      "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-quiz",
+      "title": "Quiz: Transition Metals",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-lq01",
+          "type": "mcq",
+          "question": "Which statement best describes the focus of \"Transition Metals\"?",
+          "options": [
+            "It is the core idea of this lesson",
+            "It is unrelated to Inorganic Chemistry",
+            "It belongs to a different grade",
+            "None of the above"
+          ],
+          "answer": "It is the core idea of this lesson",
+          "explanation": "\"Transition Metals\" is a lesson within the unit \"Inorganic Chemistry\"."
+        },
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-lq02",
+          "type": "true_false",
+          "question": "\"Transition Metals\" is part of the unit \"Inorganic Chemistry\".",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "This lesson sits inside the named unit."
+        },
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-lq03",
+          "type": "fill_blank",
+          "question": "The lesson titled ___ teaches this topic.",
+          "answer": "Transition Metals",
+          "explanation": "The topic is \"Transition Metals\"."
+        },
+        {
+          "id": "g12-che-unit-02-inorganic-chemistry-03-transition-metals-lq04",
+          "type": "short_answer",
+          "question": "In your own words, summarise \"Transition Metals\".",
+          "answer": "A short summary of Transition Metals.",
+          "explanation": "Open response; assess understanding of the lesson objective."
+        }
+      ]
+    }
+  ]
+}

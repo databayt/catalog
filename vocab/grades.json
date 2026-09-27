@@ -1,0 +1,117 @@
+{
+  "$comment": "Grade ids are curriculum-neutral ordinals. Each curriculum.json maps them to local names (Year 7, Grade 7, الصف الأول المتوسط).",
+  "grades": [
+    {
+      "id": "kg1",
+      "order": -1,
+      "title": {
+        "ar": "الروضة الأولى",
+        "en": "Kindergarten 1"
+      }
+    },
+    {
+      "id": "kg2",
+      "order": 0,
+      "title": {
+        "ar": "الروضة الثانية",
+        "en": "Kindergarten 2"
+      }
+    },
+    {
+      "id": "g1",
+      "order": 1,
+      "title": {
+        "ar": "الصف الأول",
+        "en": "Grade 1"
+      }
+    },
+    {
+      "id": "g2",
+      "order": 2,
+      "title": {
+        "ar": "الصف الثاني",
+        "en": "Grade 2"
+      }
+    },
+    {
+      "id": "g3",
+      "order": 3,
+      "title": {
+        "ar": "الصف الثالث",
+        "en": "Grade 3"
+      }
+    },
+    {
+      "id": "g4",
+      "order": 4,
+      "title": {
+        "ar": "الصف الرابع",
+        "en": "Grade 4"
+      }
+    },
+    {
+      "id": "g5",
+      "order": 5,
+      "title": {
+        "ar": "الصف الخامس",
+        "en": "Grade 5"
+      }
+    },
+    {
+      "id": "g6",
+      "order": 6,
+      "title": {
+        "ar": "الصف السادس",
+        "en": "Grade 6"
+      }
+    },
+    {
+      "id": "g7",
+      "order": 7,
+      "title": {
+        "ar": "الصف السابع",
+        "en": "Grade 7"
+      }
+    },
+    {
+      "id": "g8",
+      "order": 8,
+      "title": {
+        "ar": "الصف الثامن",
+        "en": "Grade 8"
+      }
+    },
+    {
+      "id": "g9",
+      "order": 9,
+      "title": {
+        "ar": "الصف التاسع",
+        "en": "Grade 9"
+      }
+    },
+    {
+      "id": "g10",
+      "order": 10,
+      "title": {
+        "ar": "الصف العاشر",
+        "en": "Grade 10"
+      }
+    },
+    {
+      "id": "g11",
+      "order": 11,
+      "title": {
+        "ar": "الصف الحادي عشر",
+        "en": "Grade 11"
+      }
+    },
+    {
+      "id": "g12",
+      "order": 12,
+      "title": {
+        "ar": "الصف الثاني عشر",
+        "en": "Grade 12"
+      }
+    }
+  ]
+}

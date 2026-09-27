@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "art",
+    "chapter": "01-elements",
+    "lesson": "01-line-shape"
+  },
+  "questions": [
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq01",
+      "type": "mcq",
+      "question": "Which is an element of art?",
+      "options": [
+        "line",
+        "lunch",
+        "loud",
+        "late"
+      ],
+      "answer": "line",
+      "explanation": "Lines are a basic art element."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq02",
+      "type": "true_false",
+      "question": "A shape can be made by joining lines.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Closed lines form shapes."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq03",
+      "type": "fill_blank",
+      "question": "A mark made by a pencil moving across paper is a ___.",
+      "answer": "line",
+      "explanation": "Line."
+    },
+    {
+      "id": "g3-art-unit-01-elements-01-line-shape-lq04",
+      "type": "short_answer",
+      "question": "Name two elements of art.",
+      "answer": "e.g., line and colour (also shape, form, texture).",
+      "explanation": "Art elements."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g12",
+    "subject": "home-economics"
+  },
+  "exams": [
+    {
+      "id": "g12-hom-final",
+      "title": "الامتحان النهائي - home-economics",
+      "durationMinutes": 60,
+      "totalMarks": 30,
+      "questions": [
+        {
+          "id": "g12-hom-chap01-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap01-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap01-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap01-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-01?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap01-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-01 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap01-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-01 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap01-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap01-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap01-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-01.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-hom-chap01-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-01.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-hom-chap02-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-02?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap02-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-02?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap02-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-02?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap02-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-02?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap02-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-02 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap02-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-02 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap02-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap02-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap02-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-02.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-hom-chap02-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-02.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-hom-chap03-q001",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-03?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap03-q002",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-03?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap03-q003",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-03?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap03-q004",
+          "type": "mcq",
+          "question": "Which concept is most important in unit-03?",
+          "options": [
+            "A) Concept 1",
+            "B) Concept 2",
+            "C) Concept 3",
+            "D) Concept 4"
+          ],
+          "answer": "A) Concept 1",
+          "explanation": "Based on the curriculum content."
+        },
+        {
+          "id": "g12-hom-chap03-q005",
+          "type": "true_false",
+          "question": "Important concepts from unit-03 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap03-q006",
+          "type": "true_false",
+          "question": "Important concepts from unit-03 are central to this subject.",
+          "answer": true,
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap03-q007",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap03-q008",
+          "type": "fill_blank",
+          "question": "A fundamental concept in this unit is _______",
+          "answer": "the core idea",
+          "explanation": "Based on the curriculum."
+        },
+        {
+          "id": "g12-hom-chap03-q009",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-03.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        },
+        {
+          "id": "g12-hom-chap03-q010",
+          "type": "short_answer",
+          "question": "Explain the main topics covered in unit-03.",
+          "answer": "A detailed explanation of the chapter content.",
+          "explanation": "Students should cover key concepts."
+        }
+      ]
+    }
+  ]
+}

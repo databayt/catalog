@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "french"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-french-1",
+      "title": "Évaluation",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-fre-unit-01-greetings-01-greetings-lq01",
+          "type": "mcq",
+          "question": "'Bonjour' means:",
+          "options": [
+            "goodbye",
+            "hello",
+            "please",
+            "sorry"
+          ],
+          "answer": "hello",
+          "explanation": "Greeting."
+        },
+        {
+          "id": "g4-fre-unit-01-greetings-01-greetings-lq02",
+          "type": "true_false",
+          "question": "'Au revoir' means goodbye.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Farewell."
+        },
+        {
+          "id": "g4-fre-unit-02-daily-life-01-school-food-lq01",
+          "type": "mcq",
+          "question": "'L'école' means:",
+          "options": [
+            "the school",
+            "the house",
+            "the car",
+            "the dog"
+          ],
+          "answer": "the school",
+          "explanation": "Vocabulary."
+        },
+        {
+          "id": "g4-fre-unit-02-daily-life-01-school-food-lq02",
+          "type": "true_false",
+          "question": "'Le pain' means bread.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Food vocab."
+        }
+      ]
+    }
+  ]
+}

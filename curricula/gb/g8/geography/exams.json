@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-geo-unit-01-population-01-population-lq01",
+          "type": "mcq",
+          "question": "Areas with many people per km² have a high population:",
+          "options": [
+            "density",
+            "colour",
+            "age",
+            "height"
+          ],
+          "answer": "density",
+          "explanation": "Population density."
+        },
+        {
+          "id": "g8-geo-unit-01-population-01-population-lq02",
+          "type": "true_false",
+          "question": "People often cluster where there is water, jobs and good climate.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pull factors."
+        },
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq01",
+          "type": "mcq",
+          "question": "A common measure of a country's wealth is:",
+          "options": [
+            "GDP",
+            "temperature",
+            "area only",
+            "population only"
+          ],
+          "answer": "GDP",
+          "explanation": "Economic indicator."
+        },
+        {
+          "id": "g8-geo-unit-02-development-01-development-lq02",
+          "type": "true_false",
+          "question": "HDI combines income, education and life expectancy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Human Development Index."
+        }
+      ]
+    }
+  ]
+}

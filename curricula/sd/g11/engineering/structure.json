@@ -1,0 +1,275 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-engineering",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "engineering",
+  "title": {
+    "ar": "العلوم الهندسية",
+    "en": "Engineering Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "physics",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "أساسيات العلوم الهندسية — الصف الثاني الثانوي — رقم الإيداع ٧٦٤/٢٠٠٨",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-part-1-fundamentals-of-engineering-drawing",
+      "title": {
+        "ar": "الباب الأول: أساسيات الرسم الهندسي",
+        "en": "Part 1: Fundamentals of Engineering Drawing"
+      },
+      "concept": "career",
+      "image": "clickview/high-engineering-design-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-projection",
+          "title": {
+            "ar": "الإسقاط",
+            "en": "Projection"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-perspectives",
+          "title": {
+            "ar": "المنظورات",
+            "en": "Perspectives"
+          },
+          "page": 14
+        },
+        {
+          "slug": "03-dimensioning",
+          "title": {
+            "ar": "وضع الأبعاد",
+            "en": "Dimensioning"
+          },
+          "page": 21
+        },
+        {
+          "slug": "04-laying-out-projections-on-the-drawing-sheet",
+          "title": {
+            "ar": "توزيع المساقط على ورقة الرسم",
+            "en": "Laying Out Projections on the Drawing Sheet"
+          },
+          "page": 24
+        },
+        {
+          "slug": "05-sketching",
+          "title": {
+            "ar": "الرسم الكروكي (التكريك)",
+            "en": "Sketching"
+          },
+          "page": 31
+        }
+      ]
+    },
+    {
+      "slug": "02-part-2-fundamentals-of-mechanical-engineering",
+      "title": {
+        "ar": "الباب الثاني: أساسيات الهندسة الميكانيكية",
+        "en": "Part 2: Fundamentals of Mechanical Engineering"
+      },
+      "concept": "career",
+      "image": "clickview/high-mechanical-systems-cover.jpg",
+      "page": 36,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-metals-properties-and-production",
+          "title": {
+            "ar": "الفلزات: خواصها وإنتاجها",
+            "en": "Metals: Properties and Production"
+          },
+          "page": 36
+        },
+        {
+          "slug": "02-engines",
+          "title": {
+            "ar": "المحركات",
+            "en": "Engines"
+          },
+          "page": 60
+        },
+        {
+          "slug": "03-the-car-engine",
+          "title": {
+            "ar": "محرك السيارة",
+            "en": "The Car Engine"
+          },
+          "page": 80
+        }
+      ]
+    },
+    {
+      "slug": "03-part-3-fundamentals-of-electrical-engineering",
+      "title": {
+        "ar": "الباب الثالث: أساسيات الهندسة الكهربائية",
+        "en": "Part 3: Fundamentals of Electrical Engineering"
+      },
+      "concept": "physics",
+      "image": "clickview/high-electricity-and-circuits-cover.jpg",
+      "page": 90,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-electrical-quantities",
+          "title": {
+            "ar": "الكميات الكهربائية",
+            "en": "Electrical Quantities"
+          },
+          "page": 90
+        },
+        {
+          "slug": "02-base-and-derived-units",
+          "title": {
+            "ar": "تعريف الوحدات الأساسية والمشتقة",
+            "en": "Base and Derived Units"
+          },
+          "page": 92
+        },
+        {
+          "slug": "03-other-sources-of-electromotive-force",
+          "title": {
+            "ar": "مصادر أخرى للقوة الدافعة الكهربائية",
+            "en": "Other Sources of Electromotive Force"
+          },
+          "page": 98
+        },
+        {
+          "slug": "04-electric-flux-and-field",
+          "title": {
+            "ar": "الفيض والمجال الكهربائي",
+            "en": "Electric Flux and Field"
+          },
+          "page": 100
+        },
+        {
+          "slug": "05-potential-energy-and-voltage",
+          "title": {
+            "ar": "الطاقة الكامنة والجهد",
+            "en": "Potential Energy and Voltage"
+          },
+          "page": 103
+        },
+        {
+          "slug": "06-the-capacitor",
+          "title": {
+            "ar": "المكثف",
+            "en": "The Capacitor"
+          },
+          "page": 105
+        },
+        {
+          "slug": "07-electromagnetism",
+          "title": {
+            "ar": "الكهرومغنطيسية",
+            "en": "Electromagnetism"
+          },
+          "page": 110,
+          "image": "clickview/high-magnetic-and-electromagnetic-forces-cover.jpg"
+        },
+        {
+          "slug": "08-introduction-to-electronics",
+          "title": {
+            "ar": "مقدمة الهندسة الإلكترونية",
+            "en": "Introduction to Electronics"
+          },
+          "page": 121,
+          "image": "clickview/high-hardware-and-software-cover.jpg"
+        },
+        {
+          "slug": "09-the-semiconductor-crystal",
+          "title": {
+            "ar": "شكل بلورة شبه الموصل",
+            "en": "The Semiconductor Crystal"
+          },
+          "page": 122,
+          "image": "clickview/high-hardware-and-software-cover.jpg"
+        },
+        {
+          "slug": "10-doping-semiconductors",
+          "title": {
+            "ar": "تشويب أشباه الموصلات",
+            "en": "Doping Semiconductors"
+          },
+          "page": 126,
+          "image": "clickview/high-hardware-and-software-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-part-4-fundamentals-of-civil-engineering",
+      "title": {
+        "ar": "الباب الرابع: أساسيات الهندسة المدنية",
+        "en": "Part 4: Fundamentals of Civil Engineering"
+      },
+      "concept": "career",
+      "image": "clickview/high-measuring-force-cover.jpg",
+      "page": 131,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-and-structural-engineering",
+          "title": {
+            "ar": "مقدمة وهندسة الإنشاءات",
+            "en": "Introduction and Structural Engineering"
+          },
+          "page": 131
+        },
+        {
+          "slug": "02-soil-engineering",
+          "title": {
+            "ar": "هندسة التربة",
+            "en": "Soil Engineering"
+          },
+          "page": 140,
+          "image": "clickview/high-soil-cover.jpg"
+        },
+        {
+          "slug": "03-mechanics-of-materials",
+          "title": {
+            "ar": "هندسة ميكانيكا المواد",
+            "en": "Mechanics of Materials"
+          },
+          "page": 143
+        },
+        {
+          "slug": "04-fluid-engineering",
+          "title": {
+            "ar": "هندسة الموائع",
+            "en": "Fluid Engineering"
+          },
+          "page": 151,
+          "image": "clickview/high-properties-of-fluids-cover.jpg"
+        },
+        {
+          "slug": "05-environmental-engineering",
+          "title": {
+            "ar": "الهندسة البيئية",
+            "en": "Environmental Engineering"
+          },
+          "page": 155,
+          "image": "clickview/high-natural-resources-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

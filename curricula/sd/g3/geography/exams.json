@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-final-exam-3373",
+      "title": "Final Exam - Geography - G3",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q001",
+          "type": "mcq",
+          "question": "اختر: عدد قارات العالم ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الخط الاستوائي يقسم الأرض إلى نصفين",
+          "answer": true,
+          "explanation": "The statement about البيئة من حولنا is True."
+        },
+        {
+          "id": "g3-ge-u01-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أكبر دولة في الشرق الأوسط ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q005",
+          "type": "mcq",
+          "question": "اختر: عاصمة السودان هي ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: النيل أطول نهر في العالم",
+          "answer": true,
+          "explanation": "The statement about البيئة من حولنا is True."
+        },
+        {
+          "id": "g3-ge-u01-q007",
+          "type": "fill_blank",
+          "question": "أكمل: السودان يحد من الشمال ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q009",
+          "type": "mcq",
+          "question": "اختر: ما هو الخط الوهمي الذي يقسم الأرض؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for البيئة من حولنا."
+        },
+        {
+          "id": "g3-ge-u01-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: السودان يقع في أفريقيا",
+          "answer": true,
+          "explanation": "The statement about البيئة من حولنا is True."
+        },
+        {
+          "id": "g3-ge-u02-q001",
+          "type": "mcq",
+          "question": "اختر: عدد قارات العالم ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الخط الاستوائي يقسم الأرض إلى نصفين",
+          "answer": true,
+          "explanation": "The statement about بيئتي المدرسية is True."
+        },
+        {
+          "id": "g3-ge-u02-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أكبر دولة في الشرق الأوسط ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q005",
+          "type": "mcq",
+          "question": "اختر: عاصمة السودان هي ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: النيل أطول نهر في العالم",
+          "answer": true,
+          "explanation": "The statement about بيئتي المدرسية is True."
+        },
+        {
+          "id": "g3-ge-u02-q007",
+          "type": "fill_blank",
+          "question": "أكمل: السودان يحد من الشمال ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q009",
+          "type": "mcq",
+          "question": "اختر: ما هو الخط الوهمي الذي يقسم الأرض؟",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for بيئتي المدرسية."
+        },
+        {
+          "id": "g3-ge-u02-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: السودان يقع في أفريقيا",
+          "answer": true,
+          "explanation": "The statement about بيئتي المدرسية is True."
+        }
+      ]
+    }
+  ]
+}

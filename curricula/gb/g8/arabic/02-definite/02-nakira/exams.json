@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "arabic",
+    "chapter": "02-definite",
+    "lesson": "02-nakira"
+  },
+  "exams": [
+    {
+      "id": "g8-ara-unit-02-definite-02-nakira-quiz",
+      "title": "Quiz: النكرة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq01",
+          "type": "mcq",
+          "question": "النكرة اسم:",
+          "options": [
+            "يدل على غير معيّن",
+            "معروف",
+            "علم",
+            "ضمير"
+          ],
+          "answer": "يدل على غير معيّن",
+          "explanation": "تعريف النكرة."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq02",
+          "type": "true_false",
+          "question": "(رجلٌ) نكرة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "غير معيّن."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq03",
+          "type": "fill_blank",
+          "question": "الاسم غير المحدد بمعيّن يسمى ___.",
+          "answer": "النكرة",
+          "explanation": "النكرة."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq04",
+          "type": "short_answer",
+          "question": "حوّل (ولد) إلى معرفة.",
+          "answer": "الولد",
+          "explanation": "التعريف بأل."
+        }
+      ]
+    }
+  ]
+}

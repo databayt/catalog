@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "art",
+    "chapter": "01-elements"
+  },
+  "exams": [
+    {
+      "id": "g5-art-unit-01-elements-exam",
+      "title": "Exam: Elements of Art",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g5-art-unit-01-elements-01-line-shape-lq01",
+          "type": "mcq",
+          "question": "Which is an element of art?",
+          "options": [
+            "line",
+            "lunch",
+            "loud",
+            "late"
+          ],
+          "answer": "line",
+          "explanation": "Lines are a basic art element."
+        },
+        {
+          "id": "g5-art-unit-01-elements-01-line-shape-lq02",
+          "type": "true_false",
+          "question": "A shape can be made by joining lines.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Closed lines form shapes."
+        },
+        {
+          "id": "g5-art-unit-01-elements-01-line-shape-lq03",
+          "type": "fill_blank",
+          "question": "A mark made by a pencil moving across paper is a ___.",
+          "answer": "line",
+          "explanation": "Line."
+        },
+        {
+          "id": "g5-art-unit-01-elements-01-line-shape-lq04",
+          "type": "short_answer",
+          "question": "Name two elements of art.",
+          "answer": "e.g., line and colour (also shape, form, texture).",
+          "explanation": "Art elements."
+        },
+        {
+          "id": "g5-art-unit-01-elements-02-colour-lq01",
+          "type": "mcq",
+          "question": "The primary colours are red, yellow and:",
+          "options": [
+            "green",
+            "blue",
+            "pink",
+            "brown"
+          ],
+          "answer": "blue",
+          "explanation": "Primary colours."
+        },
+        {
+          "id": "g5-art-unit-01-elements-02-colour-lq02",
+          "type": "true_false",
+          "question": "Mixing blue and yellow makes green.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Secondary colour."
+        },
+        {
+          "id": "g5-art-unit-01-elements-02-colour-lq03",
+          "type": "fill_blank",
+          "question": "Red, yellow and blue are the ___ colours.",
+          "answer": "primary",
+          "explanation": "Primary colours."
+        },
+        {
+          "id": "g5-art-unit-01-elements-02-colour-lq04",
+          "type": "short_answer",
+          "question": "How do you make a secondary colour?",
+          "answer": "Mix two primary colours together.",
+          "explanation": "Colour mixing."
+        }
+      ]
+    }
+  ]
+}

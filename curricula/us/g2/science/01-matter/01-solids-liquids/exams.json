@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "01-matter",
+    "lesson": "01-solids-liquids"
+  },
+  "exams": [
+    {
+      "id": "g2-sci-unit-01-matter-01-solids-liquids-quiz",
+      "title": "Quiz: Solids, Liquids and Gases",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq01",
+          "type": "mcq",
+          "question": "Which keeps its own shape?",
+          "options": [
+            "water",
+            "air",
+            "a rock",
+            "milk"
+          ],
+          "answer": "a rock",
+          "explanation": "Solids hold their shape."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq02",
+          "type": "true_false",
+          "question": "A liquid takes the shape of its container.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Liquids flow."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq03",
+          "type": "fill_blank",
+          "question": "Ice is the ___ state of water.",
+          "answer": "solid",
+          "explanation": "Frozen water."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-01-solids-liquids-lq04",
+          "type": "short_answer",
+          "question": "What happens to ice when it warms up?",
+          "answer": "It melts into liquid water.",
+          "explanation": "Melting."
+        }
+      ]
+    }
+  ]
+}

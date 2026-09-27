@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq01",
+      "type": "mcq",
+      "question": "The ratio 2:4 simplifies to:",
+      "options": [
+        "1:2",
+        "2:1",
+        "1:4",
+        "4:2"
+      ],
+      "answer": "1:2",
+      "explanation": "Divide both by 2."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq02",
+      "type": "true_false",
+      "question": "A ratio compares two quantities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Part-to-part."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq03",
+      "type": "fill_blank",
+      "question": "Share 12 in the ratio 1:2 → 4 and ___.",
+      "answer": "8",
+      "explanation": "3 parts: 4 and 8."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq04",
+      "type": "short_answer",
+      "question": "If 3 pens cost £6, what do 6 pens cost?",
+      "answer": "£12",
+      "explanation": "Double the amount."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq01",
+      "type": "mcq",
+      "question": "If x + 5 = 12, then x = ?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "17"
+      ],
+      "answer": "7",
+      "explanation": "12 - 5 = 7."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq02",
+      "type": "true_false",
+      "question": "A letter can stand for an unknown number.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Variable."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq03",
+      "type": "fill_blank",
+      "question": "2n where n = 4 equals ___.",
+      "answer": "8",
+      "explanation": "2 × 4."
+    },
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq04",
+      "type": "short_answer",
+      "question": "Solve y - 3 = 10.",
+      "answer": "y = 13",
+      "explanation": "Add 3 to both sides."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq01",
+      "type": "mcq",
+      "question": "Area of a 5 by 6 rectangle?",
+      "options": [
+        "11",
+        "30",
+        "22",
+        "56"
+      ],
+      "answer": "30",
+      "explanation": "l × w."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq02",
+      "type": "true_false",
+      "question": "Perimeter is the distance around a shape.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sum of sides."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq03",
+      "type": "fill_blank",
+      "question": "Area of a square side 4 = ___.",
+      "answer": "16",
+      "explanation": "4×4."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-01-area-perimeter-lq04",
+      "type": "short_answer",
+      "question": "Perimeter of a 5 by 6 rectangle?",
+      "answer": "22",
+      "explanation": "2×(5+6)."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-02-angles-lq01",
+      "type": "mcq",
+      "question": "Angles on a straight line sum to:",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": "180°",
+      "explanation": "Straight line."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-02-angles-lq02",
+      "type": "true_false",
+      "question": "A right angle is 90°.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Quarter turn."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-02-angles-lq03",
+      "type": "fill_blank",
+      "question": "Angles around a point sum to ___°.",
+      "answer": "360",
+      "explanation": "Full turn."
+    },
+    {
+      "id": "g6-mat-unit-02-geometry-02-angles-lq04",
+      "type": "short_answer",
+      "question": "Find the missing angle on a straight line if one is 120°.",
+      "answer": "60°",
+      "explanation": "180 - 120."
+    }
+  ]
+}

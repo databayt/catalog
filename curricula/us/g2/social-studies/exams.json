@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g2-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq01",
+          "type": "mcq",
+          "question": "Rules and laws help people:",
+          "options": [
+            "fight",
+            "live together safely",
+            "get lost",
+            "waste time"
+          ],
+          "answer": "live together safely",
+          "explanation": "Order/safety."
+        },
+        {
+          "id": "g2-soc-unit-01-citizenship-01-rules-laws-lq02",
+          "type": "true_false",
+          "question": "A good citizen follows rules and helps others.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Citizenship."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq01",
+          "type": "mcq",
+          "question": "Which is a need, not a want?",
+          "options": [
+            "toy",
+            "food",
+            "game",
+            "candy"
+          ],
+          "answer": "food",
+          "explanation": "Needs = survival."
+        },
+        {
+          "id": "g2-soc-unit-02-economics-01-needs-wants-lq02",
+          "type": "true_false",
+          "question": "A want is something nice to have but not necessary.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Want vs need."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g6-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq01",
+          "type": "mcq",
+          "question": "Which is a natural resource?",
+          "options": [
+            "plastic toy",
+            "oil",
+            "smartphone",
+            "car"
+          ],
+          "answer": "oil",
+          "explanation": "Raw natural material."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq02",
+          "type": "true_false",
+          "question": "Natural resources include water, minerals and fuels.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Earth's resources."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq01",
+          "type": "mcq",
+          "question": "A four-figure grid reference locates a:",
+          "options": [
+            "country",
+            "grid square",
+            "planet",
+            "ocean"
+          ],
+          "answer": "grid square",
+          "explanation": "OS grid."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq02",
+          "type": "true_false",
+          "question": "Eastings are read before northings ('along then up').",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Grid reading rule."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history",
+    "chapter": "02-medicine",
+    "lesson": "02-public-health"
+  },
+  "exams": [
+    {
+      "id": "g11-his-unit-02-medicine-02-public-health-quiz",
+      "title": "Quiz: Public Health",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-his-unit-02-medicine-02-public-health-lq01",
+          "type": "mcq",
+          "question": "The NHS, providing free healthcare in Britain, began in:",
+          "options": [
+            "1948",
+            "1066",
+            "1900",
+            "2000"
+          ],
+          "answer": "1948",
+          "explanation": "National Health Service."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-02-public-health-lq02",
+          "type": "true_false",
+          "question": "Improved sanitation reduced disease in industrial cities.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Public health reform."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-02-public-health-lq03",
+          "type": "fill_blank",
+          "question": "Clean water and sewers improved ___ health.",
+          "answer": "public",
+          "explanation": "Public health."
+        },
+        {
+          "id": "g11-his-unit-02-medicine-02-public-health-lq04",
+          "type": "short_answer",
+          "question": "Why did public health improve over time?",
+          "answer": "Through scientific understanding, sanitation and government action.",
+          "explanation": "Public health."
+        }
+      ]
+    }
+  ]
+}

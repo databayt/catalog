@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "biology"
+  },
+  "exams": [
+    {
+      "id": "us-g9-biology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-bio-unit-01-cells-01-cell-organelles-lq01",
+          "type": "mcq",
+          "question": "The powerhouse of the cell is the:",
+          "options": [
+            "nucleus",
+            "mitochondria",
+            "ribosome",
+            "vacuole"
+          ],
+          "answer": "mitochondria",
+          "explanation": "ATP production."
+        },
+        {
+          "id": "g9-bio-unit-01-cells-01-cell-organelles-lq02",
+          "type": "true_false",
+          "question": "Ribosomes synthesize proteins.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Protein synthesis."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq01",
+          "type": "mcq",
+          "question": "DNA's shape is a:",
+          "options": [
+            "single line",
+            "double helix",
+            "circle",
+            "triangle"
+          ],
+          "answer": "double helix",
+          "explanation": "Watson-Crick model."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq02",
+          "type": "true_false",
+          "question": "Genes are segments of DNA that code for traits.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Units of heredity."
+        }
+      ]
+    }
+  ]
+}

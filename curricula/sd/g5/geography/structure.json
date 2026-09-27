@@ -1,0 +1,130 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g5-geography",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "geography",
+  "title": {
+    "ar": "الجغرافيا",
+    "en": "Geography"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "geography",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-environment-around-us",
+      "title": {
+        "ar": "البيئة من حولنا",
+        "en": "The Environment Around Us"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-map-skills-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-what-is-geography",
+          "title": {
+            "ar": "ما هي الجغرافيا"
+          }
+        },
+        {
+          "slug": "02-directions",
+          "title": {
+            "ar": "الاتجاهات"
+          },
+          "image": "clickview/elementary-orientation-cover.jpg"
+        },
+        {
+          "slug": "03-sub-directions",
+          "title": {
+            "ar": "الاتجاهات الفرعية"
+          },
+          "image": "clickview/elementary-orientation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-my-school",
+      "title": {
+        "ar": "مدرستي",
+        "en": "My School"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-coordinates-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-my-classroom-1",
+          "title": {
+            "ar": "فصلي (١)"
+          }
+        },
+        {
+          "slug": "02-my-classroom-2",
+          "title": {
+            "ar": "فصلي (٢)"
+          }
+        },
+        {
+          "slug": "03-my-classroom-3",
+          "title": {
+            "ar": "فصلي (٣)"
+          }
+        },
+        {
+          "slug": "04-my-school-1",
+          "title": {
+            "ar": "مدرستي (١)"
+          }
+        },
+        {
+          "slug": "05-my-school-2",
+          "title": {
+            "ar": "مدرستي (٢)"
+          }
+        },
+        {
+          "slug": "06-my-school-3",
+          "title": {
+            "ar": "مدرستي (٣)"
+          }
+        },
+        {
+          "slug": "07-my-school-4",
+          "title": {
+            "ar": "مدرستي (٤)"
+          }
+        },
+        {
+          "slug": "08-review",
+          "title": {
+            "ar": "تطبيقات ومراجعة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-sudan",
+      "title": {
+        "ar": "السودان",
+        "en": "Sudan"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-africa-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-sudan-location",
+          "title": {
+            "ar": "موقع السودان"
+          }
+        }
+      ]
+    }
+  ]
+}

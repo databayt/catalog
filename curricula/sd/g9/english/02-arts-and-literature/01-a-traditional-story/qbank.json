@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "02-arts-and-literature",
+    "lesson": "01-a-traditional-story"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-lq01",
+      "type": "mcq",
+      "question": "What does the word 'beneficial' mean?",
+      "options": [
+        "helpful",
+        "harmful",
+        "boring",
+        "difficult"
+      ],
+      "answer": "helpful",
+      "explanation": "'Beneficial' means producing good results or advantages."
+    },
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-lq02",
+      "type": "true_false",
+      "question": "The word 'enormous' means very large.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'Enormous' means very large in size or amount."
+    },
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-lq03",
+      "type": "fill_blank",
+      "question": "A synonym for 'happy' is ___.",
+      "answer": "joyful/glad/pleased",
+      "explanation": "Happy, joyful, glad are synonyms meaning feeling pleasure."
+    },
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-lq04",
+      "type": "short_answer",
+      "question": "Use the word 'determine' in a sentence.",
+      "answer": "I will determine the best solution after careful study.",
+      "explanation": "'Determine' means to decide or establish with authority."
+    },
+    {
+      "id": "6f2ec212",
+      "type": "mcq",
+      "question": "What are the main parts of speech?",
+      "options": [
+        "Only nouns and verbs",
+        "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+        "Only adjectives",
+        "Only verbs"
+      ],
+      "answer": "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+      "explanation": "These are the eight traditional parts of speech"
+    },
+    {
+      "id": "d87ad6f0",
+      "type": "fill_blank",
+      "question": "A ___ is a word that names a person, place, or thing",
+      "answer": "noun",
+      "explanation": "Nouns identify people, places, objects, or ideas"
+    },
+    {
+      "id": "374b3165",
+      "type": "true_false",
+      "question": "Verbs express action or state of being",
+      "answer": true,
+      "explanation": "Verbs show what someone does or is"
+    }
+  ]
+}

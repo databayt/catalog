@@ -1,0 +1,227 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "04-the-circle"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-04-quiz",
+      "title": "اختبار - الدائرة",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-mat-unit-04-01-circle-basics-q01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-01-circle-basics-q02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        },
+        {
+          "id": "g9-mat-unit-04-02-equal-chords-and-arcs-q01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-02-equal-chords-and-arcs-q02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        },
+        {
+          "id": "g9-mat-unit-04-03-theorem-2-q01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-03-theorem-2-q02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        },
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-q01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-q02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        },
+        {
+          "id": "g9-mat-unit-04-05-perpendicular-from-center-q01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-05-perpendicular-from-center-q02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-04-the-circle-1",
+      "title": "الدائرة",
+      "kind": "test",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "49c9a591",
+          "type": "mcq",
+          "question": "ما هو القطر؟",
+          "options": [
+            "خط يمر بمركز الدائرة",
+            "خط يصل نقطتين على الدائرة",
+            "خط يمر بمركز الدائرة ويصل نقطتين على الدائرة",
+            "أي خط على الدائرة"
+          ],
+          "answer": "خط يمر بمركز الدائرة ويصل نقطتين على الدائرة",
+          "explanation": "القطر هو وتر يمر بالمركز"
+        },
+        {
+          "id": "e31a7cdd",
+          "type": "fill_blank",
+          "question": "الوتر الأطول في الدائرة هو ___",
+          "answer": "القطر",
+          "explanation": "القطر هو أطول وتر ممكن"
+        },
+        {
+          "id": "aec4c5e9",
+          "type": "true_false",
+          "question": "الأوتار المتساوية تقابل أقواس متساوية",
+          "answer": true,
+          "explanation": "هذه نظرية أساسية في هندسة الدائرة"
+        },
+        {
+          "id": "e537e37f",
+          "type": "mcq",
+          "question": "ما الفرق بين الزاوية المركزية والزاوية المحيطية؟",
+          "options": [
+            "الرأس يكون في المركز أو على الدائرة",
+            "لا يوجد فرق",
+            "حجم الزاوية فقط",
+            "مقياس القوس فقط"
+          ],
+          "answer": "الرأس يكون في المركز أو على الدائرة",
+          "explanation": "المركزية: الرأس في المركز، المحيطية: الرأس على الدائرة"
+        },
+        {
+          "id": "26b3ab72",
+          "type": "short_answer",
+          "question": "إذا كانت الزاوية المركزية 60°، فما مقياس القوس المقابل؟",
+          "answer": "60°",
+          "explanation": "مقياس القوس يساوي مقياس الزاوية المركزية المقابلة"
+        },
+        {
+          "id": "79edb79a",
+          "type": "true_false",
+          "question": "المماس للدائرة يعامد نصف القطر عند نقطة التماس",
+          "answer": true,
+          "explanation": "هذه خاصية أساسية للمماس"
+        },
+        {
+          "id": "1bb04e79",
+          "type": "fill_blank",
+          "question": "عدد المماسات التي يمكن رسمها لدائرة من نقطة خارجها هو ___",
+          "answer": "اثنان",
+          "explanation": "من أي نقطة خارج الدائرة، يمكن رسم مماسين"
+        },
+        {
+          "id": "536d1733",
+          "type": "mcq",
+          "question": "ما هو الرباعي الدائري؟",
+          "options": [
+            "رباعي فيه ضلعان متوازيان",
+            "رباعي تقع رؤوسه على دائرة",
+            "رباعي فيه جميع الأضلاع متساوية",
+            "رباعي فيه الزوايا قائمة"
+          ],
+          "answer": "رباعي تقع رؤوسه على دائرة",
+          "explanation": "الرباعي الدائري هو الرباعي المحاط بدائرة"
+        },
+        {
+          "id": "c81d1802",
+          "type": "short_answer",
+          "question": "مجموع الزوايا المتقابلة في الرباعي الدائري يساوي ___°",
+          "answer": "180",
+          "explanation": "مجموع الزوايا المتقابلة يساوي 180°"
+        }
+      ]
+    }
+  ]
+}

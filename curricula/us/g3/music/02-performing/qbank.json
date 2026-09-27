@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "music",
+    "chapter": "02-performing"
+  },
+  "questions": [
+    {
+      "id": "g3-mus-unit-02-performing-01-singing-playing-lq01",
+      "type": "mcq",
+      "question": "Playing music together as a group is performing in an:",
+      "options": [
+        "ensemble",
+        "office",
+        "oven",
+        "army"
+      ],
+      "answer": "ensemble",
+      "explanation": "Ensemble."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-01-singing-playing-lq02",
+      "type": "true_false",
+      "question": "We should keep in time with others when playing together.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Ensemble skills."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-01-singing-playing-lq03",
+      "type": "fill_blank",
+      "question": "Playing or singing music for others is ___.",
+      "answer": "performing",
+      "explanation": "Performing."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-01-singing-playing-lq04",
+      "type": "short_answer",
+      "question": "Why is it important to keep the beat when playing together?",
+      "answer": "So everyone stays in time and the music sounds together.",
+      "explanation": "Ensemble."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-02-listening-lq01",
+      "type": "mcq",
+      "question": "Music from different countries can sound:",
+      "options": [
+        "different",
+        "identical",
+        "silent",
+        "invisible"
+      ],
+      "answer": "different",
+      "explanation": "Cultural variety."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-02-listening-lq02",
+      "type": "true_false",
+      "question": "Different instruments make different sounds (timbre).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Timbre."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-02-listening-lq03",
+      "type": "fill_blank",
+      "question": "How loud or soft music is played is its ___.",
+      "answer": "dynamics",
+      "explanation": "Dynamics."
+    },
+    {
+      "id": "g3-mus-unit-02-performing-02-listening-lq04",
+      "type": "short_answer",
+      "question": "Name one thing to listen for in a piece of music.",
+      "answer": "e.g., rhythm, melody, dynamics, or instruments.",
+      "explanation": "Listening."
+    }
+  ]
+}

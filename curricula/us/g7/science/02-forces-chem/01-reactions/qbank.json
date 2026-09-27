@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "02-forces-chem",
+    "lesson": "01-reactions"
+  },
+  "questions": [
+    {
+      "id": "g7-sci-unit-02-forces-chem-01-reactions-lq01",
+      "type": "mcq",
+      "question": "A sign of a chemical reaction is:",
+      "options": [
+        "a color change or gas",
+        "a shape change",
+        "melting only",
+        "moving"
+      ],
+      "answer": "a color change or gas",
+      "explanation": "New substance formed."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-01-reactions-lq02",
+      "type": "true_false",
+      "question": "In a chemical reaction, atoms are rearranged, not destroyed.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Conservation of mass."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-01-reactions-lq03",
+      "type": "fill_blank",
+      "question": "Substances you start with are called ___.",
+      "answer": "reactants",
+      "explanation": "Inputs."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-01-reactions-lq04",
+      "type": "short_answer",
+      "question": "How is a chemical change different from a physical change?",
+      "answer": "A chemical change forms new substances; a physical change does not.",
+      "explanation": "Chemical vs physical."
+    }
+  ]
+}

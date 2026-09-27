@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g11-mat-unit-01-quadratics-01-quadratics-lq01",
+      "type": "mcq",
+      "question": "The graph of y = x² is a:",
+      "options": [
+        "line",
+        "parabola",
+        "circle",
+        "spiral"
+      ],
+      "answer": "parabola",
+      "explanation": "Quadratic graph."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-01-quadratics-lq02",
+      "type": "true_false",
+      "question": "The quadratic formula solves ax²+bx+c=0.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "x = (-b±√(b²-4ac))/2a."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-01-quadratics-lq03",
+      "type": "fill_blank",
+      "question": "Factor x² - 9 = (x-3)(x+___).",
+      "answer": "3",
+      "explanation": "Difference of squares."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-01-quadratics-lq04",
+      "type": "short_answer",
+      "question": "What does the discriminant b²-4ac tell you?",
+      "answer": "The number and type of real roots.",
+      "explanation": "Discriminant."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-02-polynomials-lq01",
+      "type": "mcq",
+      "question": "The degree of 3x³ + 2x is:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": "3",
+      "explanation": "Highest exponent."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-02-polynomials-lq02",
+      "type": "true_false",
+      "question": "A polynomial can have multiple terms.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sum of terms."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-02-polynomials-lq03",
+      "type": "fill_blank",
+      "question": "(x+1)(x+2) expands to x² + 3x + ___.",
+      "answer": "2",
+      "explanation": "FOIL."
+    },
+    {
+      "id": "g11-mat-unit-01-quadratics-02-polynomials-lq04",
+      "type": "short_answer",
+      "question": "How do you find the degree of a polynomial?",
+      "answer": "Take the highest exponent of the variable.",
+      "explanation": "Degree."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq01",
+      "type": "mcq",
+      "question": "y = 2^x represents exponential:",
+      "options": [
+        "decay",
+        "growth",
+        "linear change",
+        "no change"
+      ],
+      "answer": "growth",
+      "explanation": "Base > 1."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq02",
+      "type": "true_false",
+      "question": "Exponential growth increases faster over time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Accelerating."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq03",
+      "type": "fill_blank",
+      "question": "2^0 = ___.",
+      "answer": "1",
+      "explanation": "Anything to power 0."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-01-exponential-lq04",
+      "type": "short_answer",
+      "question": "Give a real example of exponential growth.",
+      "answer": "e.g., compound interest or population growth.",
+      "explanation": "Application."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-02-logarithms-lq01",
+      "type": "mcq",
+      "question": "log₂(8) = ?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "8"
+      ],
+      "answer": "3",
+      "explanation": "2³=8."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-02-logarithms-lq02",
+      "type": "true_false",
+      "question": "A logarithm is the inverse of an exponential.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Inverse functions."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-02-logarithms-lq03",
+      "type": "fill_blank",
+      "question": "log₁₀(100) = ___.",
+      "answer": "2",
+      "explanation": "10²=100."
+    },
+    {
+      "id": "g11-mat-unit-02-exp-log-02-logarithms-lq04",
+      "type": "short_answer",
+      "question": "What does logₐ(b) ask?",
+      "answer": "To what power must a be raised to get b.",
+      "explanation": "Log meaning."
+    }
+  ]
+}

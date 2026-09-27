@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "psychology"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-psychology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-psy-unit-01-approaches-01-approaches-lq01",
+          "type": "mcq",
+          "question": "The approach focusing on observable behaviour is:",
+          "options": [
+            "behaviourist",
+            "artistic",
+            "musical",
+            "random"
+          ],
+          "answer": "behaviourist",
+          "explanation": "Behaviourism."
+        },
+        {
+          "id": "g12-psy-unit-01-approaches-01-approaches-lq02",
+          "type": "true_false",
+          "question": "The cognitive approach studies mental processes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cognitive."
+        },
+        {
+          "id": "g12-psy-unit-02-research-01-experiments-lq01",
+          "type": "mcq",
+          "question": "The variable a researcher changes is the:",
+          "options": [
+            "independent variable",
+            "dependent variable",
+            "control",
+            "sample"
+          ],
+          "answer": "independent variable",
+          "explanation": "IV."
+        },
+        {
+          "id": "g12-psy-unit-02-research-01-experiments-lq02",
+          "type": "true_false",
+          "question": "A hypothesis is a testable prediction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Hypothesis."
+        }
+      ]
+    }
+  ]
+}

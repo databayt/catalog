@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "gb-g7-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-ara-unit-01-syntax-01-mubtada-khabar-lq01",
+          "type": "mcq",
+          "question": "في (العلمُ نورٌ) الخبر هو:",
+          "options": [
+            "العلم",
+            "نور",
+            "ال",
+            "لا يوجد"
+          ],
+          "answer": "نور",
+          "explanation": "يكمل معنى المبتدأ."
+        },
+        {
+          "id": "g7-ara-unit-01-syntax-01-mubtada-khabar-lq02",
+          "type": "true_false",
+          "question": "المبتدأ والخبر مرفوعان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "حكمهما الرفع."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq01",
+          "type": "mcq",
+          "question": "الفعل الصحيح هو ما خلت حروفه الأصلية من:",
+          "options": [
+            "حروف العلة",
+            "الهمزة فقط",
+            "التاء",
+            "الألف فقط"
+          ],
+          "answer": "حروف العلة",
+          "explanation": "خلوّه من العلة."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq02",
+          "type": "true_false",
+          "question": "(كتب) فعل صحيح.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "لا علة فيه."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g8-arabic",
+  "curriculum": "sd",
+  "grade": "g8",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1",
+      "title": {
+        "ar": "الوحدة الأولى",
+        "en": "Unit One"
+      },
+      "concept": "language",
+      "image": "clickview/middle-debating-and-public-speaking-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-great-debate",
+          "title": {
+            "ar": "المناظرة الكبرى",
+            "en": "The Great Debate"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-arabic-language-poem",
+          "title": {
+            "ar": "قصيدة اللغة العربية",
+            "en": "Poem: The Arabic Language"
+          },
+          "page": 7,
+          "image": "clickview/middle-literary-terms-cover.jpg"
+        },
+        {
+          "slug": "03-grammar-review",
+          "title": {
+            "ar": "النحو : دروس مراجعة لما سبقت دراسته",
+            "en": "Grammar: Review of Previously Studied Lessons"
+          },
+          "page": 8,
+          "image": "clickview/middle-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2",
+      "title": {
+        "ar": "الوحدة الثانية",
+        "en": "Unit Two"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 12,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-food-and-health",
+          "title": {
+            "ar": "الغذاء والصحة",
+            "en": "Food and Health"
+          },
+          "page": 12
+        },
+        {
+          "slug": "02-letter-to-my-son",
+          "title": {
+            "ar": "رسالة إلى ولدي",
+            "en": "A Letter to My Son"
+          },
+          "page": 15,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        },
+        {
+          "slug": "03-diptote",
+          "title": {
+            "ar": "النحو : المَمْنُوعُ من الصَّرْفِ",
+            "en": "Grammar: The Diptote (Forbidden from Full Declension)"
+          },
+          "page": 19,
+          "image": "clickview/middle-vocabulary-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3",
+      "title": {
+        "ar": "الوحدة الثالثة",
+        "en": "Unit Three"
+      },
+      "concept": "language",
+      "image": "clickview/middle-art-styles-and-movements-cover.jpg",
+      "page": 32,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-fine-arts",
+          "title": {
+            "ar": "الفنون الجميلة",
+            "en": "The Fine Arts"
+          },
+          "page": 32
+        },
+        {
+          "slug": "02-kinds-of-arts-poem",
+          "title": {
+            "ar": "قصيدة في ضروب الفنون",
+            "en": "Poem on the Kinds of Arts"
+          },
+          "page": 36
+        },
+        {
+          "slug": "03-exception",
+          "title": {
+            "ar": "النحو : الاستثناء",
+            "en": "Grammar: Exception (Istithna)"
+          },
+          "page": 38,
+          "image": "clickview/middle-sentences-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4",
+      "title": {
+        "ar": "الوحدة الرابعة",
+        "en": "Unit Four"
+      },
+      "concept": "language",
+      "image": "clickview/middle-rivers-cover.jpg",
+      "page": 53,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-scenes-from-sudan",
+          "title": {
+            "ar": "صور من الحياة في السودان",
+            "en": "Scenes from Life in Sudan"
+          },
+          "page": 53
+        },
+        {
+          "slug": "02-take-me-to-the-nile",
+          "title": {
+            "ar": "قصيدة عُد بي إلى النيل",
+            "en": "Poem: Take Me Back to the Nile"
+          },
+          "page": 60
+        },
+        {
+          "slug": "03-circumstantial-accusative",
+          "title": {
+            "ar": "النحو : الحال",
+            "en": "Grammar: The Circumstantial Accusative (Al-Haal)"
+          },
+          "page": 64,
+          "image": "clickview/middle-sentences-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-unit-5",
+      "title": {
+        "ar": "الوحدة الخامسة",
+        "en": "Unit Five"
+      },
+      "concept": "language",
+      "image": "clickview/middle-models-and-properties-in-space-cover.jpg",
+      "page": 74,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-galaxy",
+          "title": {
+            "ar": "المَجَرَّةُ",
+            "en": "The Galaxy"
+          },
+          "page": 74
+        },
+        {
+          "slug": "02-bakht-al-rida-poem",
+          "title": {
+            "ar": "قصيدة بخت الرضا",
+            "en": "Poem: Bakht al-Ridha"
+          },
+          "page": 78
+        },
+        {
+          "slug": "03-numbers-specifier",
+          "title": {
+            "ar": "النحو : العددُ وتَمْييزُهُ",
+            "en": "Grammar: Numbers and Their Specifier"
+          },
+          "page": 83,
+          "image": "clickview/middle-vocabulary-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-unit-6",
+      "title": {
+        "ar": "الوحدة السادسة",
+        "en": "Unit Six"
+      },
+      "concept": "language",
+      "image": "clickview/elementary-narrative-writing-cover.jpg",
+      "page": 94,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-tale-without-title",
+          "title": {
+            "ar": "حكاية بلا عنوان",
+            "en": "A Tale Without a Title"
+          },
+          "page": 94
+        },
+        {
+          "slug": "02-island-inspired-poem",
+          "title": {
+            "ar": "قصيدة من وحي الجزيرة",
+            "en": "Poem Inspired by the Island"
+          },
+          "page": 100
+        },
+        {
+          "slug": "03-appositive",
+          "title": {
+            "ar": "النحو : البدل",
+            "en": "Grammar: The Appositive (Al-Badal)"
+          },
+          "page": 103,
+          "image": "clickview/middle-sentences-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "07-unit-7",
+      "title": {
+        "ar": "الوحدة السابعة",
+        "en": "Unit Seven"
+      },
+      "concept": "language",
+      "image": "clickview/high-changing-roles-of-women-cover.jpg",
+      "page": 111,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-women-in-literary-life",
+          "title": {
+            "ar": "صور من مشاركة المرأة في الحياة الأدبية",
+            "en": "Scenes of Women's Participation in Literary Life"
+          },
+          "page": 111
+        },
+        {
+          "slug": "02-the-flag-poem",
+          "title": {
+            "ar": "قصيدة العلم",
+            "en": "Poem: The Flag"
+          },
+          "page": 115
+        },
+        {
+          "slug": "03-adjective",
+          "title": {
+            "ar": "النحو : النعت",
+            "en": "Grammar: The Adjective (Al-Na'at)"
+          },
+          "page": 118,
+          "image": "clickview/middle-parts-of-speech-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "08-unit-8",
+      "title": {
+        "ar": "الوحدة الثامنة",
+        "en": "Unit Eight"
+      },
+      "concept": "language",
+      "image": "clickview/middle-sound-cover.jpg",
+      "page": 129,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-human-vocal-apparatus",
+          "title": {
+            "ar": "الجهاز الصوتي للإنسان",
+            "en": "The Human Vocal Apparatus"
+          },
+          "page": 129
+        },
+        {
+          "slug": "02-waheed-poem",
+          "title": {
+            "ar": "قصيدة وحيد",
+            "en": "Poem: Alone"
+          },
+          "page": 135
+        },
+        {
+          "slug": "03-emphasis",
+          "title": {
+            "ar": "النحو : التوكيد",
+            "en": "Grammar: Emphasis (Al-Tawkid)"
+          },
+          "page": 140,
+          "image": "clickview/middle-sentences-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "09-unit-9",
+      "title": {
+        "ar": "الوحدة التاسعة",
+        "en": "Unit Nine"
+      },
+      "concept": "language",
+      "image": "clickview/elementary-the-age-of-discovery-cover.jpg",
+      "page": 151,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-beyond-the-horizon",
+          "title": {
+            "ar": "ماذا وراء الأفق",
+            "en": "What Lies Beyond the Horizon"
+          },
+          "page": 151
+        },
+        {
+          "slug": "02-melit-poem",
+          "title": {
+            "ar": "قصيدة مليط",
+            "en": "Poem: Melit"
+          },
+          "page": 154
+        },
+        {
+          "slug": "03-coordination",
+          "title": {
+            "ar": "النحو : العطف",
+            "en": "Grammar: Coordination (Al-'Atf)"
+          },
+          "page": 159,
+          "image": "clickview/middle-sentences-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "10-unit-10",
+      "title": {
+        "ar": "الوحدة العاشرة",
+        "en": "Unit Ten"
+      },
+      "concept": "language",
+      "image": "clickview/middle-personification-cover.jpg",
+      "page": 168,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-address-to-the-moon",
+          "title": {
+            "ar": "مناجاة القمر",
+            "en": "Addressing the Moon"
+          },
+          "page": 168
+        },
+        {
+          "slug": "02-ghazal-poem",
+          "title": {
+            "ar": "قصيدة في الغزل",
+            "en": "Poem on Love Poetry (Ghazal)"
+          },
+          "page": 171
+        },
+        {
+          "slug": "03-vocative",
+          "title": {
+            "ar": "النحو : المنادى",
+            "en": "Grammar: The Vocative (Al-Munada)"
+          },
+          "page": 176,
+          "image": "clickview/middle-parts-of-speech-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

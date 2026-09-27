@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history"
+  },
+  "exams": [
+    {
+      "id": "gb-g7-history-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq01",
+          "type": "mcq",
+          "question": "Who won the Battle of Hastings in 1066?",
+          "options": [
+            "Harold Godwinson",
+            "William of Normandy",
+            "Alfred the Great",
+            "Henry VIII"
+          ],
+          "answer": "William of Normandy",
+          "explanation": "William the Conqueror."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq02",
+          "type": "true_false",
+          "question": "The Norman Conquest changed who ruled England.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "New ruling class."
+        },
+        {
+          "id": "g7-his-unit-02-medieval-church-01-church-power-lq01",
+          "type": "mcq",
+          "question": "Most people in medieval England were:",
+          "options": [
+            "Christian",
+            "atheist",
+            "scientists",
+            "explorers"
+          ],
+          "answer": "Christian",
+          "explanation": "Catholic Church central."
+        },
+        {
+          "id": "g7-his-unit-02-medieval-church-01-church-power-lq02",
+          "type": "true_false",
+          "question": "The medieval Church was very wealthy and powerful.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Land and influence."
+        }
+      ]
+    }
+  ]
+}

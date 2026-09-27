@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "02-earth-processes"
+  },
+  "questions": [
+    {
+      "id": "g4-sci-unit-02-earth-processes-01-weathering-erosion-lq01",
+      "type": "mcq",
+      "question": "Erosion is the ___ of weathered material.",
+      "options": [
+        "melting",
+        "moving",
+        "freezing",
+        "glowing"
+      ],
+      "answer": "moving",
+      "explanation": "Transport by water/wind."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-01-weathering-erosion-lq02",
+      "type": "true_false",
+      "question": "Wind and water can cause erosion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Moving agents."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-01-weathering-erosion-lq03",
+      "type": "fill_blank",
+      "question": "The breaking down of rock is called ___.",
+      "answer": "weathering",
+      "explanation": "Rock breakdown."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-01-weathering-erosion-lq04",
+      "type": "short_answer",
+      "question": "How are weathering and erosion different?",
+      "answer": "Weathering breaks rock down; erosion moves the pieces.",
+      "explanation": "Break vs move."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-02-fossils-lq01",
+      "type": "mcq",
+      "question": "Fossils are evidence of:",
+      "options": [
+        "future events",
+        "past living things",
+        "today's weather",
+        "planets"
+      ],
+      "answer": "past living things",
+      "explanation": "Preserved remains/traces."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-02-fossils-lq02",
+      "type": "true_false",
+      "question": "Fossils can tell us about environments long ago.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Clues to the past."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-02-fossils-lq03",
+      "type": "fill_blank",
+      "question": "Hardened remains of ancient life are ___.",
+      "answer": "fossils",
+      "explanation": "Fossil record."
+    },
+    {
+      "id": "g4-sci-unit-02-earth-processes-02-fossils-lq04",
+      "type": "short_answer",
+      "question": "What can a fish fossil on a mountain suggest?",
+      "answer": "That the area was once underwater.",
+      "explanation": "Environmental change."
+    }
+  ]
+}

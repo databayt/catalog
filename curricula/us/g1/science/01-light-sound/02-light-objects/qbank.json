@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "science",
+    "chapter": "01-light-sound",
+    "lesson": "02-light-objects"
+  },
+  "questions": [
+    {
+      "id": "g1-sci-unit-01-light-sound-02-light-objects-lq01",
+      "type": "mcq",
+      "question": "We can see objects when light:",
+      "options": [
+        "disappears",
+        "bounces off them into our eyes",
+        "is off",
+        "is silent"
+      ],
+      "answer": "bounces off them into our eyes",
+      "explanation": "Reflected light lets us see."
+    },
+    {
+      "id": "g1-sci-unit-01-light-sound-02-light-objects-lq02",
+      "type": "true_false",
+      "question": "In total darkness we cannot see objects.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "No light, no sight."
+    },
+    {
+      "id": "g1-sci-unit-01-light-sound-02-light-objects-lq03",
+      "type": "fill_blank",
+      "question": "A mirror ___ light.",
+      "answer": "reflects",
+      "explanation": "Reflection."
+    },
+    {
+      "id": "g1-sci-unit-01-light-sound-02-light-objects-lq04",
+      "type": "short_answer",
+      "question": "Name a source of light.",
+      "answer": "e.g., the Sun, a lamp.",
+      "explanation": "Light sources."
+    }
+  ]
+}

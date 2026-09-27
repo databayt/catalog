@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g3-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq01",
+          "type": "mcq",
+          "question": "In 482, the 4 represents:",
+          "options": [
+            "4",
+            "40",
+            "400",
+            "4000"
+          ],
+          "answer": "400",
+          "explanation": "Hundreds place."
+        },
+        {
+          "id": "g3-mat-unit-01-place-value-1000-01-hundreds-lq02",
+          "type": "true_false",
+          "question": "305 = 300 + 5.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No tens."
+        },
+        {
+          "id": "g3-mat-unit-02-fractions-01-tenths-lq01",
+          "type": "mcq",
+          "question": "One part of ten equal parts is:",
+          "options": [
+            "1/5",
+            "1/10",
+            "1/2",
+            "10"
+          ],
+          "answer": "1/10",
+          "explanation": "A tenth."
+        },
+        {
+          "id": "g3-mat-unit-02-fractions-01-tenths-lq02",
+          "type": "true_false",
+          "question": "3/10 means 3 out of 10 equal parts.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Numerator/denominator."
+        }
+      ]
+    }
+  ]
+}

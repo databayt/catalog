@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-arabic-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-ara-unit-01-kana-01-kana-lq01",
+          "type": "mcq",
+          "question": "(كان) ترفع المبتدأ وتنصب:",
+          "options": [
+            "الفاعل",
+            "الخبر",
+            "المفعول",
+            "الحرف"
+          ],
+          "answer": "الخبر",
+          "explanation": "ترفع اسمها وتنصب خبرها."
+        },
+        {
+          "id": "g8-ara-unit-01-kana-01-kana-lq02",
+          "type": "true_false",
+          "question": "(أصبح، أمسى، صار) من أخوات كان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الأفعال الناقصة."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq01",
+          "type": "mcq",
+          "question": "أي الكلمات معرفة؟",
+          "options": [
+            "كتابٌ",
+            "الكتابُ",
+            "قلمٌ",
+            "بيتٌ"
+          ],
+          "answer": "الكتابُ",
+          "explanation": "معرّف بأل."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq02",
+          "type": "true_false",
+          "question": "الأسماء المعرّفة بأل من المعارف.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "المعارف."
+        }
+      ]
+    }
+  ]
+}

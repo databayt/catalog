@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "01-forces-motion",
+    "lesson": "02-gravity"
+  },
+  "exams": [
+    {
+      "id": "g8-sci-unit-01-forces-motion-02-gravity-quiz",
+      "title": "Quiz: Gravity & Motion",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-sci-unit-01-forces-motion-02-gravity-lq01",
+          "type": "mcq",
+          "question": "Gravity is a force of:",
+          "options": [
+            "repulsion",
+            "attraction",
+            "friction",
+            "tension"
+          ],
+          "answer": "attraction",
+          "explanation": "Masses attract."
+        },
+        {
+          "id": "g8-sci-unit-01-forces-motion-02-gravity-lq02",
+          "type": "true_false",
+          "question": "Heavier objects fall faster in a vacuum.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "All fall at same rate (no air)."
+        },
+        {
+          "id": "g8-sci-unit-01-forces-motion-02-gravity-lq03",
+          "type": "fill_blank",
+          "question": "Weight is the force of gravity on an object's ___.",
+          "answer": "mass",
+          "explanation": "Weight = mg."
+        },
+        {
+          "id": "g8-sci-unit-01-forces-motion-02-gravity-lq04",
+          "type": "short_answer",
+          "question": "Why do astronauts float in orbit?",
+          "answer": "They are in continuous free fall around Earth.",
+          "explanation": "Microgravity."
+        }
+      ]
+    }
+  ]
+}

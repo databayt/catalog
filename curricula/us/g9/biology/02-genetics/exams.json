@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "biology",
+    "chapter": "02-genetics"
+  },
+  "exams": [
+    {
+      "id": "g9-bio-unit-02-genetics-exam",
+      "title": "Exam: Genetics & Heredity",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq01",
+          "type": "mcq",
+          "question": "DNA's shape is a:",
+          "options": [
+            "single line",
+            "double helix",
+            "circle",
+            "triangle"
+          ],
+          "answer": "double helix",
+          "explanation": "Watson-Crick model."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq02",
+          "type": "true_false",
+          "question": "Genes are segments of DNA that code for traits.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Units of heredity."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq03",
+          "type": "fill_blank",
+          "question": "DNA bases pair A with T and C with ___.",
+          "answer": "G",
+          "explanation": "Base pairing."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-01-dna-lq04",
+          "type": "short_answer",
+          "question": "What is the role of DNA?",
+          "answer": "To store genetic instructions for building proteins.",
+          "explanation": "DNA function."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-02-inheritance-lq01",
+          "type": "mcq",
+          "question": "An organism with two identical alleles is:",
+          "options": [
+            "heterozygous",
+            "homozygous",
+            "dominant",
+            "recessive"
+          ],
+          "answer": "homozygous",
+          "explanation": "Same alleles."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-02-inheritance-lq02",
+          "type": "true_false",
+          "question": "A Punnett square predicts offspring genotypes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Genetics tool."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-02-inheritance-lq03",
+          "type": "fill_blank",
+          "question": "A trait masked by a dominant allele is ___.",
+          "answer": "recessive",
+          "explanation": "Recessive trait."
+        },
+        {
+          "id": "g9-bio-unit-02-genetics-02-inheritance-lq04",
+          "type": "short_answer",
+          "question": "What did Mendel discover about inheritance?",
+          "answer": "Traits are passed via discrete units (genes) in predictable ratios.",
+          "explanation": "Mendelian genetics."
+        }
+      ]
+    }
+  ]
+}

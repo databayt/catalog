@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g5-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-geo-unit-01-settlements-01-settlements-lq01",
+          "type": "mcq",
+          "question": "A very large settlement is a:",
+          "options": [
+            "hamlet",
+            "village",
+            "city",
+            "farm"
+          ],
+          "answer": "city",
+          "explanation": "Large settlement."
+        },
+        {
+          "id": "g5-geo-unit-01-settlements-01-settlements-lq02",
+          "type": "true_false",
+          "question": "Settlements often grow near water and good land.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Site factors."
+        },
+        {
+          "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq01",
+          "type": "mcq",
+          "question": "The capital of the UAE is:",
+          "options": [
+            "Dubai",
+            "Abu Dhabi",
+            "Sharjah",
+            "Doha"
+          ],
+          "answer": "Abu Dhabi",
+          "explanation": "UAE capital."
+        },
+        {
+          "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq02",
+          "type": "true_false",
+          "question": "Much of the UAE's landscape is desert.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Arid climate."
+        }
+      ]
+    }
+  ]
+}

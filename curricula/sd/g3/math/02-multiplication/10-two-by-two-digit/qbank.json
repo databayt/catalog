@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "02-multiplication",
+    "lesson": "10-two-by-two-digit"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u02-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: ٣ × ٦ = ١٨",
+      "answer": true,
+      "explanation": "The statement about الضرب is True."
+    }
+  ]
+}

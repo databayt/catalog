@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "01-living",
+    "lesson": "01-classification"
+  },
+  "exams": [
+    {
+      "id": "g6-sci-unit-01-living-01-classification-quiz",
+      "title": "Quiz: Classification",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq01",
+          "type": "mcq",
+          "question": "Scientists group living things to:",
+          "options": [
+            "confuse us",
+            "organise and study them",
+            "make art",
+            "cook"
+          ],
+          "answer": "organise and study them",
+          "explanation": "Classification."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq02",
+          "type": "true_false",
+          "question": "Mammals feed their young with milk.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Mammal trait."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq03",
+          "type": "fill_blank",
+          "question": "Animals with a backbone are ___.",
+          "answer": "vertebrates",
+          "explanation": "Have spines."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq04",
+          "type": "short_answer",
+          "question": "Name two animal groups.",
+          "answer": "e.g., mammals and birds (also fish, reptiles, amphibians).",
+          "explanation": "Classification."
+        }
+      ]
+    }
+  ]
+}

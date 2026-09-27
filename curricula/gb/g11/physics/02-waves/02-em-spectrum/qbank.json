@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "02-waves",
+    "lesson": "02-em-spectrum"
+  },
+  "questions": [
+    {
+      "id": "g11-phy-unit-02-waves-02-em-spectrum-lq01",
+      "type": "mcq",
+      "question": "Which has the longest wavelength?",
+      "options": [
+        "gamma",
+        "X-ray",
+        "radio waves",
+        "ultraviolet"
+      ],
+      "answer": "radio waves",
+      "explanation": "Longest λ."
+    },
+    {
+      "id": "g11-phy-unit-02-waves-02-em-spectrum-lq02",
+      "type": "true_false",
+      "question": "All EM waves travel at the speed of light in a vacuum.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Constant c."
+    },
+    {
+      "id": "g11-phy-unit-02-waves-02-em-spectrum-lq03",
+      "type": "fill_blank",
+      "question": "Visible light is part of the ___ spectrum.",
+      "answer": "electromagnetic",
+      "explanation": "EM spectrum."
+    },
+    {
+      "id": "g11-phy-unit-02-waves-02-em-spectrum-lq04",
+      "type": "short_answer",
+      "question": "Name one use of microwaves.",
+      "answer": "e.g., heating food or communication.",
+      "explanation": "EM uses."
+    }
+  ]
+}

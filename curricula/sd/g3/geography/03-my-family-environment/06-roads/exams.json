@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "03-my-family-environment",
+    "lesson": "06-roads"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-03-exam-2591",
+      "title": "Lesson Quiz - 06-roads - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u03-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: النيل أطول نهر في العالم",
+          "answer": true,
+          "explanation": "The statement about بيئتي الأسرية is True."
+        }
+      ]
+    }
+  ]
+}

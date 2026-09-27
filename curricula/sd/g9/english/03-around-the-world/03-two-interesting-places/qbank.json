@@ -1,0 +1,87 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "03-around-the-world",
+    "lesson": "03-two-interesting-places"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq01",
+      "type": "mcq",
+      "question": "What is the main purpose of reading comprehension exercises?",
+      "options": [
+        "To understand text meaning and develop critical thinking",
+        "To memorize vocabulary only",
+        "To practice handwriting",
+        "To learn grammar rules"
+      ],
+      "answer": "To understand text meaning and develop critical thinking",
+      "explanation": "Reading comprehension develops understanding and critical analysis skills."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq02",
+      "type": "true_false",
+      "question": "Skimming a text means reading it slowly and carefully.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "Skimming means reading quickly to get the general idea, not in detail."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq03",
+      "type": "fill_blank",
+      "question": "The ___ of a text is the central message the author wants to convey.",
+      "answer": "theme/main idea",
+      "explanation": "The theme is the central message or main idea of a text."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq04",
+      "type": "short_answer",
+      "question": "Name two reading strategies you can use to understand a difficult text.",
+      "answer": "Context clues to infer meaning of unknown words; re-reading difficult passages; using prior knowledge.",
+      "explanation": "Good readers use strategies to comprehend difficult texts."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq01-2",
+      "type": "mcq",
+      "question": "What is the main purpose of reading comprehension exercises?",
+      "options": [
+        "To understand text meaning and develop critical thinking",
+        "To memorize vocabulary only",
+        "To practice handwriting",
+        "To learn grammar rules"
+      ],
+      "answer": "To understand text meaning and develop critical thinking",
+      "explanation": "Reading comprehension develops understanding and critical analysis skills."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq02-2",
+      "type": "true_false",
+      "question": "Skimming a text means reading it slowly and carefully.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "Skimming means reading quickly to get the general idea, not in detail."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq03-2",
+      "type": "fill_blank",
+      "question": "The ___ of a text is the central message the author wants to convey.",
+      "answer": "theme/main idea",
+      "explanation": "The theme is the central message or main idea of a text."
+    },
+    {
+      "id": "g9-eng-unit-03-03-two-interesting-places-lq04-2",
+      "type": "short_answer",
+      "question": "Name two reading strategies you can use to understand a difficult text.",
+      "answer": "Context clues to infer meaning of unknown words; re-reading difficult passages; using prior knowledge.",
+      "explanation": "Good readers use strategies to comprehend difficult texts."
+    }
+  ]
+}

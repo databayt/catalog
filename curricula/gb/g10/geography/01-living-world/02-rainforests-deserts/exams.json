@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "geography",
+    "chapter": "01-living-world",
+    "lesson": "02-rainforests-deserts"
+  },
+  "exams": [
+    {
+      "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-quiz",
+      "title": "Quiz: Rainforests & Hot Deserts",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq01",
+          "type": "mcq",
+          "question": "Tropical rainforests are found mainly near the:",
+          "options": [
+            "poles",
+            "equator",
+            "deserts",
+            "mountains"
+          ],
+          "answer": "equator",
+          "explanation": "Equatorial belt."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq02",
+          "type": "true_false",
+          "question": "Plants in hot deserts are adapted to conserve water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Xerophytes."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq03",
+          "type": "fill_blank",
+          "question": "Cutting down rainforest is called ___.",
+          "answer": "deforestation",
+          "explanation": "Rainforest loss."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq04",
+          "type": "short_answer",
+          "question": "Name one way rainforest plants are adapted.",
+          "answer": "e.g., drip-tips, buttress roots, or tall trees for light.",
+          "explanation": "Rainforest adaptation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "01-energy",
+    "lesson": "02-electricity"
+  },
+  "exams": [
+    {
+      "id": "g4-sci-unit-01-energy-02-electricity-quiz",
+      "title": "Quiz: Electricity & Circuits",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-sci-unit-01-energy-02-electricity-lq01",
+          "type": "mcq",
+          "question": "A complete circuit must be:",
+          "options": [
+            "broken",
+            "closed (a loop)",
+            "wet",
+            "cold"
+          ],
+          "answer": "closed (a loop)",
+          "explanation": "Current needs a closed path."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-02-electricity-lq02",
+          "type": "true_false",
+          "question": "A switch can open or close a circuit.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Controls current flow."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-02-electricity-lq03",
+          "type": "fill_blank",
+          "question": "Electricity flows through a ___ like copper.",
+          "answer": "conductor",
+          "explanation": "Conductors carry current."
+        },
+        {
+          "id": "g4-sci-unit-01-energy-02-electricity-lq04",
+          "type": "short_answer",
+          "question": "Why won't a bulb light in an open circuit?",
+          "answer": "The path is broken so current cannot flow.",
+          "explanation": "Open circuit."
+        }
+      ]
+    }
+  ]
+}

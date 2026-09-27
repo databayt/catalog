@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "chemistry"
+  },
+  "exams": [
+    {
+      "id": "gb-g10-chemistry-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-che-unit-01-atomic-structure-01-atoms-lq01",
+          "type": "mcq",
+          "question": "The relative charge of a proton is:",
+          "options": [
+            "-1",
+            "0",
+            "+1",
+            "+2"
+          ],
+          "answer": "+1",
+          "explanation": "Proton charge."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-structure-01-atoms-lq02",
+          "type": "true_false",
+          "question": "Atoms have no overall charge.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Protons = electrons."
+        },
+        {
+          "id": "g10-che-unit-02-bonding-01-bonding-lq01",
+          "type": "mcq",
+          "question": "Ionic bonding involves the transfer of:",
+          "options": [
+            "protons",
+            "electrons",
+            "neutrons",
+            "atoms"
+          ],
+          "answer": "electrons",
+          "explanation": "Transfer."
+        },
+        {
+          "id": "g10-che-unit-02-bonding-01-bonding-lq02",
+          "type": "true_false",
+          "question": "Covalent bonding involves shared electron pairs.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Sharing."
+        }
+      ]
+    }
+  ]
+}

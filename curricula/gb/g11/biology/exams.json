@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "biology"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-biology-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq01",
+          "type": "mcq",
+          "question": "Photosynthesis produces glucose and:",
+          "options": [
+            "carbon dioxide",
+            "oxygen",
+            "nitrogen",
+            "protein"
+          ],
+          "answer": "oxygen",
+          "explanation": "Byproduct O₂."
+        },
+        {
+          "id": "g11-bio-unit-01-bioenergetics-01-photosynthesis-lq02",
+          "type": "true_false",
+          "question": "Photosynthesis requires light energy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Light-driven."
+        },
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq01",
+          "type": "mcq",
+          "question": "A community plus its abiotic environment is an:",
+          "options": [
+            "organism",
+            "ecosystem",
+            "organ",
+            "atom"
+          ],
+          "answer": "ecosystem",
+          "explanation": "Eco unit."
+        },
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq02",
+          "type": "true_false",
+          "question": "Organisms compete for resources like food and space.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Competition."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "01-poetry",
+    "lesson": "01-poetic-devices"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq01",
+      "type": "mcq",
+      "question": "Repetition of initial consonant sounds is:",
+      "options": [
+        "rhyme",
+        "alliteration",
+        "simile",
+        "stanza"
+      ],
+      "answer": "alliteration",
+      "explanation": "e.g., 'wild winds'."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq02",
+      "type": "true_false",
+      "question": "A stanza is a group of lines in a poem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Poem 'paragraph'."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq03",
+      "type": "fill_blank",
+      "question": "Giving human qualities to objects is ___.",
+      "answer": "personification",
+      "explanation": "Figurative device."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq04",
+      "type": "short_answer",
+      "question": "What effect can rhythm have in a poem?",
+      "answer": "It can create mood, pace, or emphasis.",
+      "explanation": "Rhythm effect."
+    }
+  ]
+}

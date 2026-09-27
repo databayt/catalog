@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "physical-education",
+    "chapter": "01-fitness",
+    "lesson": "02-training"
+  },
+  "questions": [
+    {
+      "id": "g10-phy-unit-01-fitness-02-training-lq01",
+      "type": "mcq",
+      "question": "Exercise that strengthens the heart and lungs is:",
+      "options": [
+        "aerobic",
+        "silent",
+        "still",
+        "passive"
+      ],
+      "answer": "aerobic",
+      "explanation": "Cardio."
+    },
+    {
+      "id": "g10-phy-unit-01-fitness-02-training-lq02",
+      "type": "true_false",
+      "question": "A cool-down helps the body recover after exercise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cool-down."
+    },
+    {
+      "id": "g10-phy-unit-01-fitness-02-training-lq03",
+      "type": "fill_blank",
+      "question": "Lifting weights mainly builds ___.",
+      "answer": "strength",
+      "explanation": "Strength training."
+    },
+    {
+      "id": "g10-phy-unit-01-fitness-02-training-lq04",
+      "type": "short_answer",
+      "question": "Why is rest important in a training programme?",
+      "answer": "It lets the body recover and adapt to get fitter.",
+      "explanation": "Recovery."
+    }
+  ]
+}

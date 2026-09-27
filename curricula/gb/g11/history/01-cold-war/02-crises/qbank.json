@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history",
+    "chapter": "01-cold-war",
+    "lesson": "02-crises"
+  },
+  "questions": [
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq01",
+      "type": "mcq",
+      "question": "In 1962 the world neared nuclear war over missiles in:",
+      "options": [
+        "Cuba",
+        "Canada",
+        "India",
+        "Egypt"
+      ],
+      "answer": "Cuba",
+      "explanation": "Cuban Missile Crisis."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq02",
+      "type": "true_false",
+      "question": "The Berlin Wall divided the city from 1961.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Berlin Wall."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq03",
+      "type": "fill_blank",
+      "question": "The Cold War standoff over Cuba in 1962 is the Cuban Missile ___.",
+      "answer": "Crisis",
+      "explanation": "13 days."
+    },
+    {
+      "id": "g11-his-unit-01-cold-war-02-crises-lq04",
+      "type": "short_answer",
+      "question": "Why was the Cuban Missile Crisis significant?",
+      "answer": "It brought the superpowers closest to nuclear war.",
+      "explanation": "Significance."
+    }
+  ]
+}

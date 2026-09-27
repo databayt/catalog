@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "02-geography-skills",
+    "lesson": "02-landforms"
+  },
+  "questions": [
+    {
+      "id": "g3-soc-unit-02-geography-skills-02-landforms-lq01",
+      "type": "mcq",
+      "question": "A large area of flat land is a:",
+      "options": [
+        "plain",
+        "mountain",
+        "ocean",
+        "river"
+      ],
+      "answer": "plain",
+      "explanation": "Landform."
+    },
+    {
+      "id": "g3-soc-unit-02-geography-skills-02-landforms-lq02",
+      "type": "true_false",
+      "question": "A lake is a body of water surrounded by land.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Water body."
+    },
+    {
+      "id": "g3-soc-unit-02-geography-skills-02-landforms-lq03",
+      "type": "fill_blank",
+      "question": "A high landform with steep sides is a ___.",
+      "answer": "mountain",
+      "explanation": "Landform."
+    },
+    {
+      "id": "g3-soc-unit-02-geography-skills-02-landforms-lq04",
+      "type": "short_answer",
+      "question": "Name one landform and one body of water.",
+      "answer": "e.g., a hill (land) and a river (water).",
+      "explanation": "Geography features."
+    }
+  ]
+}

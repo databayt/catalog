@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "physics",
+    "chapter": "01-mechanics",
+    "lesson": "02-energy-momentum"
+  },
+  "questions": [
+    {
+      "id": "g12-phy-unit-01-mechanics-02-energy-momentum-lq01",
+      "type": "mcq",
+      "question": "Work done = force ×:",
+      "options": [
+        "mass",
+        "distance moved in direction of force",
+        "time",
+        "charge"
+      ],
+      "answer": "distance moved in direction of force",
+      "explanation": "W = Fs."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-02-energy-momentum-lq02",
+      "type": "true_false",
+      "question": "In an elastic collision kinetic energy is conserved.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Elastic collision."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-02-energy-momentum-lq03",
+      "type": "fill_blank",
+      "question": "Power is the rate of doing ___.",
+      "answer": "work",
+      "explanation": "P = W/t."
+    },
+    {
+      "id": "g12-phy-unit-01-mechanics-02-energy-momentum-lq04",
+      "type": "short_answer",
+      "question": "State the principle of conservation of momentum.",
+      "answer": "Total momentum before = total momentum after (no external force).",
+      "explanation": "Momentum."
+    }
+  ]
+}

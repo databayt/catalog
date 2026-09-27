@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "science"
+  },
+  "questions": [
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq01",
+      "type": "mcq",
+      "question": "Which part controls a cell's activities?",
+      "options": [
+        "cell wall",
+        "nucleus",
+        "membrane",
+        "vacuole"
+      ],
+      "answer": "nucleus",
+      "explanation": "Control centre."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq02",
+      "type": "true_false",
+      "question": "Plant cells have a cell wall.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Made of cellulose."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq03",
+      "type": "fill_blank",
+      "question": "The jelly-like substance filling a cell is the ___.",
+      "answer": "cytoplasm",
+      "explanation": "Cell contents."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-01-cells-lq04",
+      "type": "short_answer",
+      "question": "Name one structure found only in plant cells.",
+      "answer": "e.g., cell wall, chloroplast, or large vacuole.",
+      "explanation": "Plant cell features."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-02-organ-systems-lq01",
+      "type": "mcq",
+      "question": "The organ that pumps blood is the:",
+      "options": [
+        "lung",
+        "heart",
+        "kidney",
+        "brain"
+      ],
+      "answer": "heart",
+      "explanation": "Circulatory organ."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-02-organ-systems-lq02",
+      "type": "true_false",
+      "question": "Organs are made of tissues.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tissue → organ."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-02-organ-systems-lq03",
+      "type": "fill_blank",
+      "question": "The breathing organs are the ___.",
+      "answer": "lungs",
+      "explanation": "Respiratory."
+    },
+    {
+      "id": "g7-sci-unit-01-biology-02-organ-systems-lq04",
+      "type": "short_answer",
+      "question": "Put these in order: cell, organ, tissue, system.",
+      "answer": "Cell, tissue, organ, system.",
+      "explanation": "Levels of organisation."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-01-states-lq01",
+      "type": "mcq",
+      "question": "Which state has particles packed in a fixed pattern?",
+      "options": [
+        "gas",
+        "liquid",
+        "solid",
+        "plasma"
+      ],
+      "answer": "solid",
+      "explanation": "Fixed arrangement."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-01-states-lq02",
+      "type": "true_false",
+      "question": "Gas particles move freely and fill the container.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Random, spread out."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-01-states-lq03",
+      "type": "fill_blank",
+      "question": "Turning a liquid into a gas is called ___.",
+      "answer": "evaporation",
+      "explanation": "Or boiling."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-01-states-lq04",
+      "type": "short_answer",
+      "question": "Describe particle movement in a liquid.",
+      "answer": "Particles are close but can move/slide past each other.",
+      "explanation": "Liquid particles."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq01",
+      "type": "mcq",
+      "question": "Water is an example of a:",
+      "options": [
+        "element",
+        "compound",
+        "mixture",
+        "metal"
+      ],
+      "answer": "compound",
+      "explanation": "H and O bonded."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq02",
+      "type": "true_false",
+      "question": "Air is a mixture of gases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Not chemically bonded."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq03",
+      "type": "fill_blank",
+      "question": "A substance made of only one type of atom is an ___.",
+      "answer": "element",
+      "explanation": "Pure element."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq04",
+      "type": "short_answer",
+      "question": "How is a compound different from a mixture?",
+      "answer": "A compound is chemically bonded; a mixture is not and can be separated physically.",
+      "explanation": "Compound vs mixture."
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-01-01-concept-of-sets-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-01-01-concept-of-sets-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-01-02-describing-sets-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-01-02-describing-sets-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-01-03-types-of-sets-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-01-03-types-of-sets-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-01-04-subsets-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-01-04-subsets-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-01-05-venn-diagrams-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-01-05-venn-diagrams-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-02-01-integers-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-02-01-integers-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-02-02-comparing-integers-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-02-02-comparing-integers-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-02-03-adding-integers-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-02-03-adding-integers-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-02-04-subtracting-integers-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-02-04-subtracting-integers-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-02-05-multiplying-integers-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-02-05-multiplying-integers-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-q01",
+      "type": "mcq",
+      "question": "ما النسبة المئوية لـ 45 من 150؟",
+      "options": [
+        "30%",
+        "45%",
+        "25%",
+        "35%"
+      ],
+      "answer": "30%",
+      "explanation": "(45/150) × 100 = 30%."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-q02",
+      "type": "true_false",
+      "question": "النسبة 3:4 تساوي 75%.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "3÷4 = 0.75 = 75%."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-q03",
+      "type": "fill_blank",
+      "question": "إذا كانت نسبة الخصم 20% وسعر السلعة 500، فقيمة الخصم = ___ جنيه.",
+      "answer": "100",
+      "explanation": "الخصم = 20% × 500 = 100 جنيه."
+    },
+    {
+      "id": "g6-mat-unit-03-02-converting-percentages-q01",
+      "type": "mcq",
+      "question": "ما النسبة المئوية لـ 45 من 150؟",
+      "options": [
+        "30%",
+        "45%",
+        "25%",
+        "35%"
+      ],
+      "answer": "30%",
+      "explanation": "(45/150) × 100 = 30%."
+    },
+    {
+      "id": "g6-mat-unit-03-02-converting-percentages-q02",
+      "type": "true_false",
+      "question": "النسبة 3:4 تساوي 75%.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "3÷4 = 0.75 = 75%."
+    },
+    {
+      "id": "g6-mat-unit-03-02-converting-percentages-q03",
+      "type": "fill_blank",
+      "question": "إذا كانت نسبة الخصم 20% وسعر السلعة 500، فقيمة الخصم = ___ جنيه.",
+      "answer": "100",
+      "explanation": "الخصم = 20% × 500 = 100 جنيه."
+    },
+    {
+      "id": "g6-mat-unit-03-03-percentage-applications-q01",
+      "type": "mcq",
+      "question": "ما النسبة المئوية لـ 45 من 150؟",
+      "options": [
+        "30%",
+        "45%",
+        "25%",
+        "35%"
+      ],
+      "answer": "30%",
+      "explanation": "(45/150) × 100 = 30%."
+    },
+    {
+      "id": "g6-mat-unit-03-03-percentage-applications-q02",
+      "type": "true_false",
+      "question": "النسبة 3:4 تساوي 75%.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "3÷4 = 0.75 = 75%."
+    },
+    {
+      "id": "g6-mat-unit-03-03-percentage-applications-q03",
+      "type": "fill_blank",
+      "question": "إذا كانت نسبة الخصم 20% وسعر السلعة 500، فقيمة الخصم = ___ جنيه.",
+      "answer": "100",
+      "explanation": "الخصم = 20% × 500 = 100 جنيه."
+    },
+    {
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 5x = 35؟",
+      "options": [
+        "x = 7",
+        "x = 5",
+        "x = 30",
+        "x = 40"
+      ],
+      "answer": "x = 7",
+      "explanation": "x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q02",
+      "type": "true_false",
+      "question": "في المعادلة x + 3 = 10، حل المعادلة هو x = 7.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "x = 10 - 3 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-01-algebraic-expressions-q03",
+      "type": "fill_blank",
+      "question": "حل المعادلة 2x - 4 = 10 هو x = ___.",
+      "answer": "7",
+      "explanation": "2x = 14، x = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-02-simplifying-expressions-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 5x = 35؟",
+      "options": [
+        "x = 7",
+        "x = 5",
+        "x = 30",
+        "x = 40"
+      ],
+      "answer": "x = 7",
+      "explanation": "x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-02-simplifying-expressions-q02",
+      "type": "true_false",
+      "question": "في المعادلة x + 3 = 10، حل المعادلة هو x = 7.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "x = 10 - 3 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-02-simplifying-expressions-q03",
+      "type": "fill_blank",
+      "question": "حل المعادلة 2x - 4 = 10 هو x = ___.",
+      "answer": "7",
+      "explanation": "2x = 14، x = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-q01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 5x = 35؟",
+      "options": [
+        "x = 7",
+        "x = 5",
+        "x = 30",
+        "x = 40"
+      ],
+      "answer": "x = 7",
+      "explanation": "x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-q02",
+      "type": "true_false",
+      "question": "في المعادلة x + 3 = 10، حل المعادلة هو x = 7.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "x = 10 - 3 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-q03",
+      "type": "fill_blank",
+      "question": "حل المعادلة 2x - 4 = 10 هو x = ___.",
+      "answer": "7",
+      "explanation": "2x = 14، x = 7."
+    },
+    {
+      "id": "g6-mat-unit-05-01-union-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-05-01-union-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-05-01-union-q03",
+      "type": "fill_blank",
+      "question": "القاسم المشترك الأكبر للعددين 12 و 18 هو ___.",
+      "answer": "6",
+      "explanation": "قواسم 12: 1,2,3,4,6,12. قواسم 18: 1,2,3,6,9,18. الأكبر المشترك = 6."
+    },
+    {
+      "id": "g6-mat-unit-05-02-intersection-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-05-02-intersection-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-05-02-intersection-q03",
+      "type": "fill_blank",
+      "question": "القاسم المشترك الأكبر للعددين 12 و 18 هو ___.",
+      "answer": "6",
+      "explanation": "قواسم 12: 1,2,3,4,6,12. قواسم 18: 1,2,3,6,9,18. الأكبر المشترك = 6."
+    },
+    {
+      "id": "g6-mat-unit-05-03-complement-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-05-03-complement-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-05-03-complement-q03",
+      "type": "fill_blank",
+      "question": "القاسم المشترك الأكبر للعددين 12 و 18 هو ___.",
+      "answer": "6",
+      "explanation": "قواسم 12: 1,2,3,4,6,12. قواسم 18: 1,2,3,6,9,18. الأكبر المشترك = 6."
+    },
+    {
+      "id": "g6-mat-unit-06-01-area-of-triangle-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-06-01-area-of-triangle-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-06-02-area-of-parallelogram-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-06-02-area-of-parallelogram-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-06-03-area-of-trapezoid-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-06-03-area-of-trapezoid-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-06-04-area-of-circle-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-06-04-area-of-circle-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-07-01-pythagorean-theorem-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-07-01-pythagorean-theorem-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-07-01-pythagorean-theorem-q03",
+      "type": "fill_blank",
+      "question": "القاسم المشترك الأكبر للعددين 12 و 18 هو ___.",
+      "answer": "6",
+      "explanation": "قواسم 12: 1,2,3,4,6,12. قواسم 18: 1,2,3,6,9,18. الأكبر المشترك = 6."
+    },
+    {
+      "id": "g6-mat-unit-07-01-pythagorean-theorem-q04",
+      "type": "short_answer",
+      "question": "ما الفرق بين العدد الأولي والمركب؟",
+      "answer": "الأولي يقبل القسمة على 1 وعلى نفسه فقط، والمركب له قواسم أخرى.",
+      "explanation": "الأعداد الصحيحة الموجبة تنقسم إلى أولية ومركبة."
+    },
+    {
+      "id": "g6-mat-unit-07-02-applications-q01",
+      "type": "mcq",
+      "question": "ما الأعداد الأولية بين 1 و 20؟",
+      "options": [
+        "2، 3، 5، 7، 11، 13، 17، 19",
+        "1، 2، 3، 5، 7",
+        "2، 4، 6، 8، 10",
+        "3، 6، 9، 12"
+      ],
+      "answer": "2، 3، 5، 7، 11، 13، 17، 19",
+      "explanation": "الأعداد الأولية هي التي لا تقبل القسمة إلا على 1 وعلى نفسها."
+    },
+    {
+      "id": "g6-mat-unit-07-02-applications-q02",
+      "type": "true_false",
+      "question": "العدد 1 يُعدّ عدداً أولياً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": false,
+      "explanation": "العدد 1 ليس أولياً بالتعريف؛ الأعداد الأولية تبدأ من 2."
+    },
+    {
+      "id": "g6-mat-unit-07-02-applications-q03",
+      "type": "fill_blank",
+      "question": "القاسم المشترك الأكبر للعددين 12 و 18 هو ___.",
+      "answer": "6",
+      "explanation": "قواسم 12: 1,2,3,4,6,12. قواسم 18: 1,2,3,6,9,18. الأكبر المشترك = 6."
+    },
+    {
+      "id": "g6-mat-unit-07-02-applications-q04",
+      "type": "short_answer",
+      "question": "ما الفرق بين العدد الأولي والمركب؟",
+      "answer": "الأولي يقبل القسمة على 1 وعلى نفسه فقط، والمركب له قواسم أخرى.",
+      "explanation": "الأعداد الصحيحة الموجبة تنقسم إلى أولية ومركبة."
+    }
+  ]
+}

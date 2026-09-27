@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-themes"
+  },
+  "exams": [
+    {
+      "id": "g5-eng-unit-01-reading-01-themes-quiz",
+      "title": "Quiz: Themes & Conventions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq01",
+          "type": "mcq",
+          "question": "A theme is a story's:",
+          "options": [
+            "length",
+            "underlying message",
+            "font",
+            "author"
+          ],
+          "answer": "underlying message",
+          "explanation": "Central idea."
+        },
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq02",
+          "type": "true_false",
+          "question": "Different books can share a theme.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., friendship."
+        },
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq03",
+          "type": "fill_blank",
+          "question": "A recurring idea across a text is a ___.",
+          "answer": "theme",
+          "explanation": "Theme."
+        },
+        {
+          "id": "g5-eng-unit-01-reading-01-themes-lq04",
+          "type": "short_answer",
+          "question": "Name a common story theme.",
+          "answer": "e.g., courage or friendship.",
+          "explanation": "Theme example."
+        }
+      ]
+    }
+  ]
+}

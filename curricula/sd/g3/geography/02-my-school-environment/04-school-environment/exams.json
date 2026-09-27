@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "02-my-school-environment",
+    "lesson": "04-school-environment"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-02-exam-9140",
+      "title": "Lesson Quiz - 04-school-environment - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u02-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح ما هي الخريطة",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from بيئتي المدرسية."
+        }
+      ]
+    }
+  ]
+}

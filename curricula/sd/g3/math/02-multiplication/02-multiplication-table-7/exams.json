@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "02-multiplication",
+    "lesson": "02-multiplication-table-7"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-02-exam-5073",
+      "title": "Lesson Quiz - 02-multiplication-table-7 - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u02-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢٠ قابل للقسمة على ٥",
+          "answer": true,
+          "explanation": "The statement about الضرب is True."
+        }
+      ]
+    }
+  ]
+}

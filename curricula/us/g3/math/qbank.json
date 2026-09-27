@@ -1,0 +1,275 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq01",
+      "type": "mcq",
+      "question": "4 × 3 means:",
+      "options": [
+        "4 groups of 3",
+        "4 + 3",
+        "4 - 3",
+        "3 ÷ 4"
+      ],
+      "answer": "4 groups of 3",
+      "explanation": "Multiplication is repeated addition of equal groups."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq02",
+      "type": "true_false",
+      "question": "6 × 2 = 2 × 6.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Multiplication is commutative."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq03",
+      "type": "fill_blank",
+      "question": "5 × 4 = ___.",
+      "answer": "20",
+      "explanation": "Five groups of four."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-01-meaning-multiplication-lq04",
+      "type": "short_answer",
+      "question": "Draw or describe 3 × 5 as an array.",
+      "answer": "3 rows of 5 = 15.",
+      "explanation": "Array model of multiplication."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-02-division-basics-lq01",
+      "type": "mcq",
+      "question": "20 ÷ 5 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "20 shared into 5 groups = 4 each."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-02-division-basics-lq02",
+      "type": "true_false",
+      "question": "Division can be checked with multiplication.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "4 × 5 = 20 checks 20 ÷ 5."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-02-division-basics-lq03",
+      "type": "fill_blank",
+      "question": "24 ÷ 6 = ___.",
+      "answer": "4",
+      "explanation": "Six groups of four make 24."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-02-division-basics-lq04",
+      "type": "short_answer",
+      "question": "How are multiplication and division related?",
+      "answer": "They are inverse operations.",
+      "explanation": "One undoes the other."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-03-fact-families-lq01",
+      "type": "mcq",
+      "question": "Which is NOT in the family of 3, 4, 12?",
+      "options": [
+        "3×4=12",
+        "4×3=12",
+        "12÷3=4",
+        "3+4=12"
+      ],
+      "answer": "3+4=12",
+      "explanation": "Fact families use × and ÷, not +."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-03-fact-families-lq02",
+      "type": "true_false",
+      "question": "12 ÷ 4 = 3 belongs to the 3,4,12 family.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "It uses the same three numbers."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-03-fact-families-lq03",
+      "type": "fill_blank",
+      "question": "If 7 × 8 = 56 then 56 ÷ 8 = ___.",
+      "answer": "7",
+      "explanation": "Inverse fact."
+    },
+    {
+      "id": "g3-mat-unit-01-multiplication-03-fact-families-lq04",
+      "type": "short_answer",
+      "question": "Write the fact family for 2, 9, 18.",
+      "answer": "2×9=18, 9×2=18, 18÷2=9, 18÷9=2",
+      "explanation": "Four related facts."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq01",
+      "type": "mcq",
+      "question": "In 3/4, what does the 4 represent?",
+      "options": [
+        "parts taken",
+        "equal parts in whole",
+        "the whole",
+        "nothing"
+      ],
+      "answer": "equal parts in whole",
+      "explanation": "Denominator = total equal parts."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq02",
+      "type": "true_false",
+      "question": "1/2 is greater than 1/4.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Halves are bigger than quarters."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq03",
+      "type": "fill_blank",
+      "question": "Three out of five equal parts is written ___.",
+      "answer": "3/5",
+      "explanation": "Numerator/denominator."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq04",
+      "type": "short_answer",
+      "question": "What does the numerator tell you?",
+      "answer": "How many equal parts are counted.",
+      "explanation": "Top number."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-02-equivalent-fractions-lq01",
+      "type": "mcq",
+      "question": "Which is equivalent to 1/2?",
+      "options": [
+        "2/4",
+        "1/3",
+        "3/4",
+        "2/5"
+      ],
+      "answer": "2/4",
+      "explanation": "2/4 simplifies to 1/2."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-02-equivalent-fractions-lq02",
+      "type": "true_false",
+      "question": "4/8 = 1/2.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Both equal one half."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-02-equivalent-fractions-lq03",
+      "type": "fill_blank",
+      "question": "1/3 = 2/___.",
+      "answer": "6",
+      "explanation": "Multiply top and bottom by 2."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-02-equivalent-fractions-lq04",
+      "type": "short_answer",
+      "question": "How can you make an equivalent fraction?",
+      "answer": "Multiply (or divide) numerator and denominator by the same number.",
+      "explanation": "Scaling."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-01-area-lq01",
+      "type": "mcq",
+      "question": "Area of a 4 by 3 rectangle (square units)?",
+      "options": [
+        "7",
+        "12",
+        "14",
+        "24"
+      ],
+      "answer": "12",
+      "explanation": "Area = length × width = 12."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-01-area-lq02",
+      "type": "true_false",
+      "question": "Area is measured in square units.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., cm²."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-01-area-lq03",
+      "type": "fill_blank",
+      "question": "A square of side 5 has area ___ square units.",
+      "answer": "25",
+      "explanation": "5 × 5."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-01-area-lq04",
+      "type": "short_answer",
+      "question": "Why multiply length by width for area?",
+      "answer": "It counts the unit squares that fill the shape.",
+      "explanation": "Tiling."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-02-perimeter-lq01",
+      "type": "mcq",
+      "question": "Perimeter of a 4 by 3 rectangle?",
+      "options": [
+        "7",
+        "12",
+        "14",
+        "24"
+      ],
+      "answer": "14",
+      "explanation": "2×(4+3)=14."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-02-perimeter-lq02",
+      "type": "true_false",
+      "question": "Perimeter is the distance around a shape.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sum of all sides."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-02-perimeter-lq03",
+      "type": "fill_blank",
+      "question": "A square of side 6 has perimeter ___.",
+      "answer": "24",
+      "explanation": "4 × 6."
+    },
+    {
+      "id": "g3-mat-unit-03-area-perimeter-02-perimeter-lq04",
+      "type": "short_answer",
+      "question": "How is perimeter different from area?",
+      "answer": "Perimeter is the boundary length; area is the surface inside.",
+      "explanation": "Boundary vs surface."
+    }
+  ]
+}

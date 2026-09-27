@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "geography"
+  },
+  "questions": [
+    {
+      "id": "g2-geo-unit-01-continents-oceans-01-continents-lq01",
+      "type": "mcq",
+      "question": "How many continents are there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "Seven continents."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-01-continents-lq02",
+      "type": "true_false",
+      "question": "Antarctica is a continent.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Southernmost continent."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-01-continents-lq03",
+      "type": "fill_blank",
+      "question": "The largest continent is ___.",
+      "answer": "Asia",
+      "explanation": "Biggest continent."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-01-continents-lq04",
+      "type": "short_answer",
+      "question": "Name three continents.",
+      "answer": "e.g., Asia, Africa, Europe.",
+      "explanation": "Continents."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-02-oceans-lq01",
+      "type": "mcq",
+      "question": "The largest ocean is the:",
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "answer": "Pacific",
+      "explanation": "Largest ocean."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-02-oceans-lq02",
+      "type": "true_false",
+      "question": "Oceans cover most of Earth's surface.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "~71%."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-02-oceans-lq03",
+      "type": "fill_blank",
+      "question": "There are ___ oceans on Earth.",
+      "answer": "five",
+      "explanation": "Five oceans."
+    },
+    {
+      "id": "g2-geo-unit-01-continents-oceans-02-oceans-lq04",
+      "type": "short_answer",
+      "question": "Name two oceans.",
+      "answer": "e.g., Pacific and Atlantic.",
+      "explanation": "Oceans."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-01-equator-poles-lq01",
+      "type": "mcq",
+      "question": "Places near the equator are usually:",
+      "options": [
+        "very cold",
+        "very hot",
+        "frozen",
+        "dark all year"
+      ],
+      "answer": "very hot",
+      "explanation": "Equatorial heat."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-01-equator-poles-lq02",
+      "type": "true_false",
+      "question": "The North and South Poles are very cold.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Polar regions."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-01-equator-poles-lq03",
+      "type": "fill_blank",
+      "question": "The imaginary line around the middle of Earth is the ___.",
+      "answer": "equator",
+      "explanation": "Equator."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-01-equator-poles-lq04",
+      "type": "short_answer",
+      "question": "Why is it hot near the equator?",
+      "answer": "The Sun's rays are most direct there.",
+      "explanation": "Climate reason."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-02-comparing-places-lq01",
+      "type": "mcq",
+      "question": "A hot, dry place with sand is a:",
+      "options": [
+        "desert",
+        "glacier",
+        "rainforest",
+        "ocean"
+      ],
+      "answer": "desert",
+      "explanation": "Desert biome."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-02-comparing-places-lq02",
+      "type": "true_false",
+      "question": "People wear different clothes in hot and cold places.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Adaptation."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-02-comparing-places-lq03",
+      "type": "fill_blank",
+      "question": "A very cold place covered in ice is the ___ region.",
+      "answer": "polar",
+      "explanation": "Polar."
+    },
+    {
+      "id": "g2-geo-unit-02-hot-cold-02-comparing-places-lq04",
+      "type": "short_answer",
+      "question": "Name one difference between a hot and a cold place.",
+      "answer": "e.g., temperature, clothing, or wildlife.",
+      "explanation": "Comparison."
+    }
+  ]
+}

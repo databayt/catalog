@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "02-writing",
+    "lesson": "02-clause-types"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq01",
+      "type": "mcq",
+      "question": "A relative clause often starts with:",
+      "options": [
+        "who/which/that",
+        "run",
+        "blue",
+        "loudly"
+      ],
+      "answer": "who/which/that",
+      "explanation": "Relative pronouns."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq02",
+      "type": "true_false",
+      "question": "A main clause can stand alone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Independent."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq03",
+      "type": "fill_blank",
+      "question": "'The dog, which was black, barked.' has a ___ clause.",
+      "answer": "relative",
+      "explanation": "Adds info."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-02-clause-types-lq04",
+      "type": "short_answer",
+      "question": "Add a relative clause to 'The book was long.'",
+      "answer": "e.g., 'The book, which I borrowed, was long.'",
+      "explanation": "Relative clause."
+    }
+  ]
+}

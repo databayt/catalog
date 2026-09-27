@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "social-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g10-social-studies-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-soc-unit-01-world-wars-01-wwi-lq01",
+          "type": "mcq",
+          "question": "WWI was triggered partly by an assassination in:",
+          "options": [
+            "Sarajevo",
+            "London",
+            "Tokyo",
+            "Cairo"
+          ],
+          "answer": "Sarajevo",
+          "explanation": "1914."
+        },
+        {
+          "id": "g10-soc-unit-01-world-wars-01-wwi-lq02",
+          "type": "true_false",
+          "question": "Alliances helped turn a local conflict into a world war.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Alliance system."
+        },
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq01",
+          "type": "mcq",
+          "question": "The Cold War was a rivalry between the US and the:",
+          "options": [
+            "USSR",
+            "UK",
+            "France",
+            "Japan"
+          ],
+          "answer": "USSR",
+          "explanation": "Superpowers."
+        },
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq02",
+          "type": "true_false",
+          "question": "The Cold War rarely involved direct fighting between the superpowers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cold conflict."
+        }
+      ]
+    }
+  ]
+}

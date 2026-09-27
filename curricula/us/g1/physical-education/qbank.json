@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "physical-education"
+  },
+  "questions": [
+    {
+      "id": "g1-phy-unit-01-movement-01-locomotor-lq01",
+      "type": "mcq",
+      "question": "Which is a locomotor (travelling) skill?",
+      "options": [
+        "running",
+        "standing still",
+        "sitting",
+        "sleeping"
+      ],
+      "answer": "running",
+      "explanation": "Movement skill."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-01-locomotor-lq02",
+      "type": "true_false",
+      "question": "Warming up prepares the body for exercise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Warm-up."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-01-locomotor-lq03",
+      "type": "fill_blank",
+      "question": "Moving the body from one place to another uses ___ skills.",
+      "answer": "locomotor",
+      "explanation": "Locomotor."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-01-locomotor-lq04",
+      "type": "short_answer",
+      "question": "Why do we warm up before sport?",
+      "answer": "To prepare muscles and reduce the risk of injury.",
+      "explanation": "Warm-up."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-02-games-lq01",
+      "type": "mcq",
+      "question": "In a team game, players must:",
+      "options": [
+        "cooperate",
+        "play alone",
+        "ignore rules",
+        "stop moving"
+      ],
+      "answer": "cooperate",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-02-games-lq02",
+      "type": "true_false",
+      "question": "Following rules makes games fair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fair play."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-02-games-lq03",
+      "type": "fill_blank",
+      "question": "Working together with teammates is ___.",
+      "answer": "cooperation",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g1-phy-unit-01-movement-02-games-lq04",
+      "type": "short_answer",
+      "question": "Name one rule that makes a game fair.",
+      "answer": "e.g., taking turns or not pushing others.",
+      "explanation": "Fair play."
+    },
+    {
+      "id": "g1-phy-unit-02-health-01-fitness-lq01",
+      "type": "mcq",
+      "question": "Regular exercise keeps the body:",
+      "options": [
+        "healthy",
+        "tired forever",
+        "unwell",
+        "still"
+      ],
+      "answer": "healthy",
+      "explanation": "Health benefits."
+    },
+    {
+      "id": "g1-phy-unit-02-health-01-fitness-lq02",
+      "type": "true_false",
+      "question": "Exercise makes the heart stronger.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cardio benefit."
+    },
+    {
+      "id": "g1-phy-unit-02-health-01-fitness-lq03",
+      "type": "fill_blank",
+      "question": "Being physically active helps keep us ___.",
+      "answer": "healthy",
+      "explanation": "Health."
+    },
+    {
+      "id": "g1-phy-unit-02-health-01-fitness-lq04",
+      "type": "short_answer",
+      "question": "Name one benefit of exercise.",
+      "answer": "e.g., a stronger heart, more energy, or better mood.",
+      "explanation": "Exercise benefits."
+    },
+    {
+      "id": "g1-phy-unit-02-health-02-gymnastics-lq01",
+      "type": "mcq",
+      "question": "Standing on one foot tests your:",
+      "options": [
+        "balance",
+        "hearing",
+        "reading",
+        "singing"
+      ],
+      "answer": "balance",
+      "explanation": "Balance."
+    },
+    {
+      "id": "g1-phy-unit-02-health-02-gymnastics-lq02",
+      "type": "true_false",
+      "question": "Coordination means moving body parts smoothly together.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Coordination."
+    },
+    {
+      "id": "g1-phy-unit-02-health-02-gymnastics-lq03",
+      "type": "fill_blank",
+      "question": "Holding a steady position uses your ___.",
+      "answer": "balance",
+      "explanation": "Balance."
+    },
+    {
+      "id": "g1-phy-unit-02-health-02-gymnastics-lq04",
+      "type": "short_answer",
+      "question": "Name an activity that improves balance.",
+      "answer": "e.g., gymnastics, beam walking, or yoga poses.",
+      "explanation": "Balance."
+    }
+  ]
+}

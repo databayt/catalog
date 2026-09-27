@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "03-writing",
+    "lesson": "02-sentence-types"
+  },
+  "exams": [
+    {
+      "id": "g4-eng-unit-03-writing-02-sentence-types-quiz",
+      "title": "Quiz: Sentence Types",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-eng-unit-03-writing-02-sentence-types-lq01",
+          "type": "mcq",
+          "question": "Which is a compound sentence?",
+          "options": [
+            "I ran.",
+            "I ran and I jumped.",
+            "Run!",
+            "The big dog."
+          ],
+          "answer": "I ran and I jumped.",
+          "explanation": "Two clauses joined."
+        },
+        {
+          "id": "g4-eng-unit-03-writing-02-sentence-types-lq02",
+          "type": "true_false",
+          "question": "A simple sentence has one independent clause.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "One complete thought."
+        },
+        {
+          "id": "g4-eng-unit-03-writing-02-sentence-types-lq03",
+          "type": "fill_blank",
+          "question": "Two independent clauses joined by 'and' form a ___ sentence.",
+          "answer": "compound",
+          "explanation": "Compound."
+        },
+        {
+          "id": "g4-eng-unit-03-writing-02-sentence-types-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a question sentence.",
+          "answer": "e.g., 'Where are you going?'",
+          "explanation": "Interrogative."
+        }
+      ]
+    }
+  ]
+}

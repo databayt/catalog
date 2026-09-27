@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "02-map-fieldwork",
+    "lesson": "01-grid-references"
+  },
+  "exams": [
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-quiz",
+      "title": "Quiz: Grid References",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq01",
+          "type": "mcq",
+          "question": "A four-figure grid reference locates a:",
+          "options": [
+            "country",
+            "grid square",
+            "planet",
+            "ocean"
+          ],
+          "answer": "grid square",
+          "explanation": "OS grid."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq02",
+          "type": "true_false",
+          "question": "Eastings are read before northings ('along then up').",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Grid reading rule."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq03",
+          "type": "fill_blank",
+          "question": "Lines running up a map used in grid references are ___.",
+          "answer": "eastings",
+          "explanation": "Vertical grid lines."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq04",
+          "type": "short_answer",
+          "question": "Why are grid references useful?",
+          "answer": "They give a precise location on a map.",
+          "explanation": "Grid references."
+        }
+      ]
+    }
+  ]
+}

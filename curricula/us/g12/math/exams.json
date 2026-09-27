@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g12-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-mat-unit-01-trig-01-trig-ratios-lq01",
+          "type": "mcq",
+          "question": "sin(30°) = ?",
+          "options": [
+            "1",
+            "0.5",
+            "√3/2",
+            "0"
+          ],
+          "answer": "0.5",
+          "explanation": "Standard value."
+        },
+        {
+          "id": "g12-mat-unit-01-trig-01-trig-ratios-lq02",
+          "type": "true_false",
+          "question": "The unit circle has radius 1.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Definition."
+        },
+        {
+          "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq01",
+          "type": "mcq",
+          "question": "The set of all inputs of a function is its:",
+          "options": [
+            "range",
+            "domain",
+            "slope",
+            "limit"
+          ],
+          "answer": "domain",
+          "explanation": "Inputs = domain."
+        },
+        {
+          "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq02",
+          "type": "true_false",
+          "question": "A function can be even, odd, or neither.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Symmetry."
+        }
+      ]
+    }
+  ]
+}

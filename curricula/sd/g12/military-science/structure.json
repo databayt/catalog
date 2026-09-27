@@ -1,0 +1,188 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g12-military-science",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "military-science",
+  "title": {
+    "ar": "العلوم العسكرية",
+    "en": "Military Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "civic",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم العسكرية — الصف الثالث الثانوي — الطبعة الثانية ٢٠٠٨م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-national-strategy",
+      "title": {
+        "ar": "الاستراتيجية القومية",
+        "en": "National Strategy"
+      },
+      "concept": "civic",
+      "image": "clickview/high-systems-of-government-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "02-military-strategy",
+      "title": {
+        "ar": "الاستراتيجية العسكرية",
+        "en": "Military Strategy"
+      },
+      "concept": "civic",
+      "image": "clickview/high-decision-making-cover.jpg",
+      "page": 15,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "03-military-doctrine",
+      "title": {
+        "ar": "العقيدة العسكرية",
+        "en": "Military Doctrine"
+      },
+      "concept": "civic",
+      "image": "clickview/high-philosophy-cover.jpg",
+      "page": 24,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "04-the-art-of-war",
+      "title": {
+        "ar": "فن الحرب",
+        "en": "The Art of War"
+      },
+      "concept": "history",
+      "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg",
+      "page": 37,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "05-the-nature-of-contemporary-wars",
+      "title": {
+        "ar": "طبيعة الحروب المعاصرة",
+        "en": "The Nature of Contemporary Wars"
+      },
+      "concept": "history",
+      "image": "clickview/high-the-vietnam-war-cover.jpg",
+      "page": 43,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "06-star-wars",
+      "title": {
+        "ar": "حرب النجوم",
+        "en": "Star Wars"
+      },
+      "concept": "physics",
+      "image": "clickview/high-space-cover.jpg",
+      "page": 59,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "07-military-education-and-training",
+      "title": {
+        "ar": "التربية والتدريب العسكري",
+        "en": "Military Education and Training"
+      },
+      "concept": "civic",
+      "image": "clickview/high-personal-training-cover.jpg",
+      "page": 65,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "08-qualities-of-a-leader",
+      "title": {
+        "ar": "صفات القائد",
+        "en": "Qualities of a Leader"
+      },
+      "concept": "skills",
+      "image": "clickview/high-leadership-skills-cover.jpg",
+      "page": 77,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "09-islamic-guidance-on-leadership",
+      "title": {
+        "ar": "توجيهات الإسلام في القيادة",
+        "en": "Islamic Guidance on Leadership"
+      },
+      "concept": "faith",
+      "image": "clickview/high-ethical-debates-cover.jpg",
+      "page": 88,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "10-examples-of-leaders",
+      "title": {
+        "ar": "نماذج من القادة",
+        "en": "Examples of Leaders"
+      },
+      "concept": "history",
+      "image": "clickview/high-historical-inquiry-cover.jpg",
+      "page": 97,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "11-preparing-the-state-for-war",
+      "title": {
+        "ar": "إعداد الدولة للحرب",
+        "en": "Preparing the State for War"
+      },
+      "concept": "economy",
+      "image": "clickview/high-macroeconomics-cover.jpg",
+      "page": 118,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "12-preparing-the-armed-forces-for-war",
+      "title": {
+        "ar": "إعداد القوات المسلحة للحرب",
+        "en": "Preparing the Armed Forces for War"
+      },
+      "concept": "history",
+      "image": "clickview/high-world-war-ii-cover.jpg",
+      "page": 126,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "13-examples-of-historic-battles",
+      "title": {
+        "ar": "نماذج من المعارك التاريخية",
+        "en": "Examples of Historic Battles"
+      },
+      "concept": "history",
+      "image": "clickview/high-world-war-i-cover.jpg",
+      "page": 130,
+      "lessonsGeneric": false,
+      "lessons": []
+    }
+  ]
+}

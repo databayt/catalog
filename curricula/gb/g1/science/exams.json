@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g1-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-sci-unit-01-plants-01-plant-parts-lq01",
+          "type": "mcq",
+          "question": "Which part takes in water from the soil?",
+          "options": [
+            "leaf",
+            "root",
+            "flower",
+            "petal"
+          ],
+          "answer": "root",
+          "explanation": "Roots absorb water."
+        },
+        {
+          "id": "g1-sci-unit-01-plants-01-plant-parts-lq02",
+          "type": "true_false",
+          "question": "Leaves help a plant make food.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Photosynthesis (simple)."
+        },
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq01",
+          "type": "mcq",
+          "question": "A fish breathes using:",
+          "options": [
+            "lungs",
+            "gills",
+            "leaves",
+            "roots"
+          ],
+          "answer": "gills",
+          "explanation": "Fish use gills."
+        },
+        {
+          "id": "g1-sci-unit-02-animals-01-animal-groups-lq02",
+          "type": "true_false",
+          "question": "Birds have feathers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Feature of birds."
+        }
+      ]
+    }
+  ]
+}

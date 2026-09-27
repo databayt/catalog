@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "g3-math-final-exam-1086",
+      "title": "Final Exam - Math - G3",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g3-ma-u01-q001",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٥٦ ÷ ٧ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢٠ قابل للقسمة على ٥",
+          "answer": true,
+          "explanation": "The statement about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح is True."
+        },
+        {
+          "id": "g3-ma-u01-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أصغر عامل مشترك لـ ٦ و ٩ هو ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q004",
+          "type": "short_answer",
+          "question": "حل: اشرح كيف تضرب عددين",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q005",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٧ × ٨ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢/٣ أكبر من ١/٣",
+          "answer": true,
+          "explanation": "The statement about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح is True."
+        },
+        {
+          "id": "g3-ma-u01-q007",
+          "type": "fill_blank",
+          "question": "أكمل: ١/٢ = ___/٤",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q008",
+          "type": "short_answer",
+          "question": "حل: اشرح كيف تضرب عددين",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q009",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: مضاعفات العدد ٥ هي: ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح."
+        },
+        {
+          "id": "g3-ma-u01-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٣ × ٦ = ١٨",
+          "answer": true,
+          "explanation": "The statement about قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح is True."
+        },
+        {
+          "id": "g3-ma-u02-q001",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٥٦ ÷ ٧ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢٠ قابل للقسمة على ٥",
+          "answer": true,
+          "explanation": "The statement about الضرب is True."
+        },
+        {
+          "id": "g3-ma-u02-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أصغر عامل مشترك لـ ٦ و ٩ هو ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q004",
+          "type": "short_answer",
+          "question": "حل: اشرح كيف تضرب عددين",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q005",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٧ × ٨ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٢/٣ أكبر من ١/٣",
+          "answer": true,
+          "explanation": "The statement about الضرب is True."
+        },
+        {
+          "id": "g3-ma-u02-q007",
+          "type": "fill_blank",
+          "question": "أكمل: ١/٢ = ___/٤",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q008",
+          "type": "short_answer",
+          "question": "حل: اشرح كيف تضرب عددين",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q009",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: مضاعفات العدد ٥ هي: ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الضرب."
+        },
+        {
+          "id": "g3-ma-u02-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٣ × ٦ = ١٨",
+          "answer": true,
+          "explanation": "The statement about الضرب is True."
+        }
+      ]
+    }
+  ]
+}

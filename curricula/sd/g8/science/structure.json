@@ -1,0 +1,434 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g8-science",
+  "curriculum": "sd",
+  "grade": "g8",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم الطبيعية",
+    "en": "Natural Science"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "science",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-nature-of-science",
+      "title": {
+        "ar": "طبيعة العلم",
+        "en": "The Nature of Science"
+      },
+      "concept": "science",
+      "image": "clickview/middle-thinking-scientifically-cover.jpg",
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-science-and-processes",
+          "title": {
+            "ar": "العلم وعملياته",
+            "en": "Science and Its Processes"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-scientific-practice",
+          "title": {
+            "ar": "الممارسة العلمية",
+            "en": "Scientific Practice"
+          },
+          "page": 4
+        },
+        {
+          "slug": "03-scientific-method",
+          "title": {
+            "ar": "الطريقة العلمية",
+            "en": "The Scientific Method"
+          },
+          "page": 4
+        },
+        {
+          "slug": "04-scientific-theory",
+          "title": {
+            "ar": "النظرية العلمية",
+            "en": "Scientific Theory"
+          },
+          "page": 10
+        },
+        {
+          "slug": "05-scientific-laws",
+          "title": {
+            "ar": "القوانين العلمية",
+            "en": "Scientific Laws"
+          },
+          "page": 10
+        },
+        {
+          "slug": "06-systems-in-science",
+          "title": {
+            "ar": "النظم في العلوم",
+            "en": "Systems in Science"
+          },
+          "page": 11
+        },
+        {
+          "slug": "07-branches-of-science",
+          "title": {
+            "ar": "فروع العلوم",
+            "en": "Branches of Science"
+          },
+          "page": 13
+        },
+        {
+          "slug": "08-science-and-technology",
+          "title": {
+            "ar": "العلوم والتكنولوجيا",
+            "en": "Science and Technology"
+          },
+          "page": 15,
+          "image": "clickview/middle-innovation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-work-and-simple-machines",
+      "title": {
+        "ar": "الشغل والآلات البسيطة",
+        "en": "Work and Simple Machines"
+      },
+      "concept": "physics",
+      "image": "clickview/middle-mechanical-systems-cover.jpg",
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-work",
+          "title": {
+            "ar": "الشغل",
+            "en": "Work"
+          },
+          "page": 21
+        },
+        {
+          "slug": "02-simple-machines",
+          "title": {
+            "ar": "الآلات البسيطة",
+            "en": "Simple Machines"
+          },
+          "page": 24
+        },
+        {
+          "slug": "03-pulley",
+          "title": {
+            "ar": "البكرة",
+            "en": "The Pulley"
+          },
+          "page": 26
+        },
+        {
+          "slug": "04-lever",
+          "title": {
+            "ar": "الرافعة",
+            "en": "The Lever"
+          },
+          "page": 27
+        },
+        {
+          "slug": "05-wheel-and-axle",
+          "title": {
+            "ar": "العجلة والمحور",
+            "en": "Wheel and Axle"
+          },
+          "page": 29
+        },
+        {
+          "slug": "06-inclined-plane",
+          "title": {
+            "ar": "المستوى المائل",
+            "en": "The Inclined Plane"
+          },
+          "page": 30
+        },
+        {
+          "slug": "07-screw",
+          "title": {
+            "ar": "المسمار اللولبي",
+            "en": "The Screw"
+          },
+          "page": 32
+        }
+      ]
+    },
+    {
+      "slug": "03-composition-of-matter",
+      "title": {
+        "ar": "تركيب المادة",
+        "en": "Composition of Matter"
+      },
+      "concept": "chemistry",
+      "image": "clickview/middle-the-atom-cover.jpg",
+      "page": 38,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-atom",
+          "title": {
+            "ar": "الذرة",
+            "en": "The Atom"
+          },
+          "page": 39
+        },
+        {
+          "slug": "02-atomic-properties",
+          "title": {
+            "ar": "الخصائص الرئيسة للذرة",
+            "en": "Main Properties of the Atom"
+          },
+          "page": 47
+        },
+        {
+          "slug": "03-electron-configuration",
+          "title": {
+            "ar": "التركيب الإلكتروني",
+            "en": "Electron Configuration"
+          },
+          "page": 48
+        },
+        {
+          "slug": "04-electron-configuration-chemical-activity",
+          "title": {
+            "ar": "التركيب الإلكتروني والنشاط الكيميائي",
+            "en": "Electron Configuration and Chemical Activity"
+          },
+          "page": 55,
+          "image": "clickview/middle-elements-and-the-periodic-table-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-vertebrate-animals",
+      "title": {
+        "ar": "الحيوانات الفقارية",
+        "en": "Vertebrate Animals"
+      },
+      "concept": "life",
+      "image": "clickview/middle-classification-cover.jpg",
+      "page": 62,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-chordates-and-vertebrates",
+          "title": {
+            "ar": "الحبليات والحيوانات الفقارية",
+            "en": "Chordates and Vertebrate Animals"
+          },
+          "page": 64
+        },
+        {
+          "slug": "02-fish",
+          "title": {
+            "ar": "الأسماك",
+            "en": "Fish"
+          },
+          "page": 65,
+          "image": "clickview/elementary-fish-and-marine-animals-cover.jpg"
+        },
+        {
+          "slug": "03-amphibians",
+          "title": {
+            "ar": "البرمائيات",
+            "en": "Amphibians"
+          },
+          "page": 68,
+          "image": "clickview/elementary-reptiles-and-amphibians-cover.jpg"
+        },
+        {
+          "slug": "04-reptiles",
+          "title": {
+            "ar": "الزواحف",
+            "en": "Reptiles"
+          },
+          "page": 71,
+          "image": "clickview/elementary-reptiles-and-amphibians-cover.jpg"
+        },
+        {
+          "slug": "05-birds",
+          "title": {
+            "ar": "الطيور",
+            "en": "Birds"
+          },
+          "page": 74,
+          "image": "clickview/elementary-birds-cover.jpg"
+        },
+        {
+          "slug": "06-mammals",
+          "title": {
+            "ar": "الثديات",
+            "en": "Mammals"
+          },
+          "page": 80,
+          "image": "clickview/elementary-mammals-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-photosynthesis-and-plant-transport",
+      "title": {
+        "ar": "البناء الضوئي والنقل في النبات",
+        "en": "Photosynthesis and Transport in Plants"
+      },
+      "concept": "life",
+      "image": "clickview/middle-healthy-plants-cover.jpg",
+      "page": 87,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-photosynthesis-in-plants",
+          "title": {
+            "ar": "البناء الضوئي في النبات",
+            "en": "Photosynthesis in Plants"
+          },
+          "page": 89
+        },
+        {
+          "slug": "02-photosynthesis-respiration-relationship",
+          "title": {
+            "ar": "العلاقة بين التمثيل الضوئي والتنفس",
+            "en": "The Relationship Between Photosynthesis and Respiration"
+          },
+          "page": 92,
+          "image": "clickview/middle-respiration-cover.jpg"
+        },
+        {
+          "slug": "03-photosynthesis-factors",
+          "title": {
+            "ar": "العوامل التي تؤثر على عملية التمثيل الضوئي",
+            "en": "Factors Affecting Photosynthesis"
+          },
+          "page": 96
+        },
+        {
+          "slug": "04-transport-in-plants",
+          "title": {
+            "ar": "النقل في النبات",
+            "en": "Transport in Plants"
+          },
+          "page": 102
+        },
+        {
+          "slug": "05-water-mineral-transport",
+          "title": {
+            "ar": "نقل الماء والأملاح في النبات",
+            "en": "Transport of Water and Minerals in Plants"
+          },
+          "page": 103
+        },
+        {
+          "slug": "06-food-transport-in-plants",
+          "title": {
+            "ar": "نقل الغذاء في النبات",
+            "en": "Transport of Food in Plants"
+          },
+          "page": 106
+        },
+        {
+          "slug": "07-transport-parts-structure",
+          "title": {
+            "ar": "تركيب أجزاء النقل في النبات",
+            "en": "Structure of Transport Parts in Plants"
+          },
+          "page": 106
+        }
+      ]
+    },
+    {
+      "slug": "06-environment",
+      "title": {
+        "ar": "البيئة",
+        "en": "The Environment"
+      },
+      "concept": "nature",
+      "image": "clickview/middle-ecosystems-cover.jpg",
+      "page": 109,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-cycles-in-nature",
+          "title": {
+            "ar": "الدورات في الطبيعة",
+            "en": "Cycles in Nature"
+          },
+          "page": 110
+        },
+        {
+          "slug": "02-matter-cycles",
+          "title": {
+            "ar": "دورات المادة",
+            "en": "Matter Cycles"
+          },
+          "page": 110,
+          "image": "clickview/high-biogeochemical-cycles-cover.jpg"
+        },
+        {
+          "slug": "03-water-cycle",
+          "title": {
+            "ar": "دورة الماء",
+            "en": "The Water Cycle"
+          },
+          "page": 114,
+          "image": "clickview/middle-the-water-cycle-cover.jpg"
+        },
+        {
+          "slug": "04-nitrogen-cycle",
+          "title": {
+            "ar": "دورة النيتروجين",
+            "en": "The Nitrogen Cycle"
+          },
+          "page": 116,
+          "image": "clickview/high-biogeochemical-cycles-cover.jpg"
+        },
+        {
+          "slug": "05-environmental-problems",
+          "title": {
+            "ar": "المشاكل البيئية التي تواجه الإنسان",
+            "en": "Environmental Problems Facing Humans"
+          },
+          "page": 118
+        },
+        {
+          "slug": "06-desertification",
+          "title": {
+            "ar": "التصحر",
+            "en": "Desertification"
+          },
+          "page": 120,
+          "image": "clickview/high-deserts-cover.jpg"
+        },
+        {
+          "slug": "07-deforestation",
+          "title": {
+            "ar": "إزالة الغابات",
+            "en": "Deforestation"
+          },
+          "page": 122,
+          "image": "clickview/high-deforestation-cover.jpg"
+        },
+        {
+          "slug": "08-biodiversity-loss",
+          "title": {
+            "ar": "فقدان التنوع الحيوي",
+            "en": "Loss of Biodiversity"
+          },
+          "page": 125,
+          "image": "clickview/middle-biodiversity-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

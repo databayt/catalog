@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g9-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq01",
+          "type": "mcq",
+          "question": "The wearing away of a riverbed and banks is:",
+          "options": [
+            "deposition",
+            "erosion",
+            "evaporation",
+            "condensation"
+          ],
+          "answer": "erosion",
+          "explanation": "River erosion."
+        },
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq02",
+          "type": "true_false",
+          "question": "A meander is a bend in a river.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "River feature."
+        },
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq01",
+          "type": "mcq",
+          "question": "A renewable energy resource is:",
+          "options": [
+            "coal",
+            "wind",
+            "oil",
+            "gas"
+          ],
+          "answer": "wind",
+          "explanation": "Renewable."
+        },
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq02",
+          "type": "true_false",
+          "question": "Water, food and energy are key resources for development.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Vital resources."
+        }
+      ]
+    }
+  ]
+}

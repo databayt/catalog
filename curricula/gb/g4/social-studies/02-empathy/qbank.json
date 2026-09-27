@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "social-studies",
+    "chapter": "02-empathy"
+  },
+  "questions": [
+    {
+      "id": "g4-uae-unit-02-empathy-01-empathy-lq01",
+      "type": "mcq",
+      "question": "Empathy means understanding others':",
+      "options": [
+        "feelings",
+        "heights",
+        "ages only",
+        "names"
+      ],
+      "answer": "feelings",
+      "explanation": "Empathy."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-01-empathy-lq02",
+      "type": "true_false",
+      "question": "Helping someone in need shows empathy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Caring."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-01-empathy-lq03",
+      "type": "fill_blank",
+      "question": "Understanding how someone else feels is ___.",
+      "answer": "empathy",
+      "explanation": "Empathy."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-01-empathy-lq04",
+      "type": "short_answer",
+      "question": "Give an example of showing empathy.",
+      "answer": "e.g., comforting a friend who is upset.",
+      "explanation": "Empathy."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-02-caring-community-lq01",
+      "type": "mcq",
+      "question": "Caring for our community includes:",
+      "options": [
+        "helping neighbours",
+        "ignoring others",
+        "littering",
+        "being unkind"
+      ],
+      "answer": "helping neighbours",
+      "explanation": "Community care."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-02-caring-community-lq02",
+      "type": "true_false",
+      "question": "Volunteering is a way to help others.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Volunteering."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-02-caring-community-lq03",
+      "type": "fill_blank",
+      "question": "Giving time to help others without pay is ___.",
+      "answer": "volunteering",
+      "explanation": "Volunteering."
+    },
+    {
+      "id": "g4-uae-unit-02-empathy-02-caring-community-lq04",
+      "type": "short_answer",
+      "question": "Name one way to care for your community.",
+      "answer": "e.g., volunteering, keeping it clean, or helping neighbours.",
+      "explanation": "Community."
+    }
+  ]
+}

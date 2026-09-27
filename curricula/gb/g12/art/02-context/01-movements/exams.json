@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "art",
+    "chapter": "02-context",
+    "lesson": "01-movements"
+  },
+  "exams": [
+    {
+      "id": "g12-art-unit-02-context-01-movements-quiz",
+      "title": "Quiz: Art Movements",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-art-unit-02-context-01-movements-lq01",
+          "type": "mcq",
+          "question": "Impressionism is an example of an art:",
+          "options": [
+            "movement",
+            "sport",
+            "recipe",
+            "equation"
+          ],
+          "answer": "movement",
+          "explanation": "Art movement."
+        },
+        {
+          "id": "g12-art-unit-02-context-01-movements-lq02",
+          "type": "true_false",
+          "question": "Art can reflect the time and culture it was made in.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Context."
+        },
+        {
+          "id": "g12-art-unit-02-context-01-movements-lq03",
+          "type": "fill_blank",
+          "question": "Studying an artist's work to inform your own is using them as a ___.",
+          "answer": "reference",
+          "explanation": "Artist study."
+        },
+        {
+          "id": "g12-art-unit-02-context-01-movements-lq04",
+          "type": "short_answer",
+          "question": "Why study art from different cultures and periods?",
+          "answer": "To understand context and gain ideas for your own work.",
+          "explanation": "Context."
+        }
+      ]
+    }
+  ]
+}

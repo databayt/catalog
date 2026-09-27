@@ -1,0 +1,523 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g10-arabic",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "اللغة العربية (الكتاب الموحد) — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book",
+    "coverNote": "The scan carries no printed cover (page 1 is the preface, the last page is the aggregator splash) and none is online; the subject uses the concept cover until a real cover is found."
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-part-one-grammar",
+      "title": {
+        "ar": "القسم الأول: النحو",
+        "en": "Part One: Grammar"
+      },
+      "concept": "language",
+      "image": "clickview/high-writing-structures-and-conventions-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-clauses-and-phrases-with-a-grammatical-position",
+          "title": {
+            "ar": "الجمل وأشباه الجمل التي لها محل من الإعراب",
+            "en": "Clauses and Phrases with a Grammatical Position"
+          },
+          "page": 4
+        },
+        {
+          "slug": "02-particles-governing-the-subjunctive-and-jussive",
+          "title": {
+            "ar": "نواصب وجوازم الفعل المضارع",
+            "en": "Particles Governing the Subjunctive and Jussive Moods"
+          },
+          "page": 12
+        },
+        {
+          "slug": "03-implied-inflection-of-the-imperfect-verb",
+          "title": {
+            "ar": "الإعراب التقديري للفعل المضارع",
+            "en": "Implied Inflection of the Imperfect Verb"
+          },
+          "page": 14
+        },
+        {
+          "slug": "04-bare-and-augmented-verb-forms",
+          "title": {
+            "ar": "المجرد والمزيد",
+            "en": "Bare and Augmented Verb Forms"
+          },
+          "page": 15
+        },
+        {
+          "slug": "05-using-dictionaries",
+          "title": {
+            "ar": "البحث في المعاجم",
+            "en": "Using Dictionaries"
+          },
+          "page": 20,
+          "image": "clickview/high-spelling-rules-cover.jpg"
+        },
+        {
+          "slug": "06-the-morphological-pattern",
+          "title": {
+            "ar": "الميزان الصرفي",
+            "en": "The Morphological Pattern"
+          },
+          "page": 23
+        },
+        {
+          "slug": "07-the-relative-adjective-nisba",
+          "title": {
+            "ar": "النسب",
+            "en": "The Relative Adjective (Nisba)"
+          },
+          "page": 27,
+          "image": "clickview/high-spelling-rules-cover.jpg"
+        },
+        {
+          "slug": "08-la-acting-like-laysa",
+          "title": {
+            "ar": "لا التي تعمل عمل ليس",
+            "en": "'La' Acting Like 'Laysa'"
+          },
+          "page": 46
+        },
+        {
+          "slug": "09-the-generic-negative-la",
+          "title": {
+            "ar": "لا النافية للجنس",
+            "en": "The Generic Negative 'La'"
+          },
+          "page": 47
+        },
+        {
+          "slug": "10-hamzat-al-qat-and-hamzat-al-wasl",
+          "title": {
+            "ar": "همزتا القطع والوصل",
+            "en": "Hamzat al-Qat' and Hamzat al-Wasl"
+          },
+          "page": 52,
+          "image": "clickview/high-spelling-rules-cover.jpg"
+        },
+        {
+          "slug": "11-the-verbal-noun-ism-al-fil",
+          "title": {
+            "ar": "اسم الفعل",
+            "en": "The Verbal Noun (Ism al-Fi'l)"
+          },
+          "page": 58
+        },
+        {
+          "slug": "12-numbers",
+          "title": {
+            "ar": "العدد",
+            "en": "Numbers"
+          },
+          "page": 64
+        },
+        {
+          "slug": "13-inflection-of-number-words",
+          "title": {
+            "ar": "إعراب ألفاظ الأعداد",
+            "en": "Inflection of Number Words"
+          },
+          "page": 67
+        },
+        {
+          "slug": "14-forming-ordinal-numbers-on-the-pattern-fail",
+          "title": {
+            "ar": "صوغ العدد على زنة فاعل",
+            "en": "Forming Ordinal Numbers on the Pattern Fa'il"
+          },
+          "page": 72
+        },
+        {
+          "slug": "15-making-numbers-definite-with-al",
+          "title": {
+            "ar": "تعريف العدد بأل",
+            "en": "Making Numbers Definite with 'Al'"
+          },
+          "page": 75
+        },
+        {
+          "slug": "16-some-common-errors-in-arabic",
+          "title": {
+            "ar": "بعض الأخطاء الشائعة في اللغة العربية",
+            "en": "Some Common Errors in Arabic"
+          },
+          "page": 80,
+          "image": "clickview/high-punctuation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-part-two-rhetoric-and-composition",
+      "title": {
+        "ar": "القسم الثاني: البلاغة والتعبير",
+        "en": "Part Two: Rhetoric and Composition"
+      },
+      "concept": "language",
+      "image": "clickview/high-imagery-cover.jpg",
+      "page": 84,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-origin-and-development-of-rhetoric",
+          "title": {
+            "ar": "نشأة البلاغة وتطورها",
+            "en": "The Origin and Development of Rhetoric"
+          },
+          "page": 85,
+          "image": "clickview/high-debating-and-public-speaking-cover.jpg"
+        },
+        {
+          "slug": "02-eloquence-and-rhetoric",
+          "title": {
+            "ar": "الفصاحة والبلاغة",
+            "en": "Eloquence and Rhetoric"
+          },
+          "page": 87
+        },
+        {
+          "slug": "03-writing-and-composition-skills",
+          "title": {
+            "ar": "مهارة الكتابة والتعبير",
+            "en": "Writing and Composition Skills"
+          },
+          "page": 92,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-the-science-of-figurative-language-bayan",
+          "title": {
+            "ar": "علم البيان",
+            "en": "The Science of Figurative Language (Bayan)"
+          },
+          "page": 98
+        },
+        {
+          "slug": "05-simile-and-its-elements",
+          "title": {
+            "ar": "التشبيه وأركانه",
+            "en": "Simile and Its Elements"
+          },
+          "page": 100
+        },
+        {
+          "slug": "06-representational-simile",
+          "title": {
+            "ar": "تشبيه التمثيل",
+            "en": "Representational Simile"
+          },
+          "page": 104
+        },
+        {
+          "slug": "07-implicit-simile",
+          "title": {
+            "ar": "التشبيه الضمني",
+            "en": "Implicit Simile"
+          },
+          "page": 109
+        },
+        {
+          "slug": "08-literal-and-figurative-meaning",
+          "title": {
+            "ar": "الحقيقة والمجاز",
+            "en": "Literal and Figurative Meaning"
+          },
+          "page": 114
+        },
+        {
+          "slug": "09-explicit-and-implicit-metaphor",
+          "title": {
+            "ar": "الاستعارة التصريحية والمكنية",
+            "en": "Explicit and Implicit Metaphor"
+          },
+          "page": 117
+        },
+        {
+          "slug": "10-metonymy-majaz-mursal",
+          "title": {
+            "ar": "المجاز المرسل",
+            "en": "Metonymy (Majaz Mursal)"
+          },
+          "page": 125
+        },
+        {
+          "slug": "11-allusion-kinaya",
+          "title": {
+            "ar": "الكناية",
+            "en": "Allusion (Kinaya)"
+          },
+          "page": 133
+        },
+        {
+          "slug": "12-types-of-allusion",
+          "title": {
+            "ar": "أنواع الكناية",
+            "en": "Types of Allusion"
+          },
+          "page": 135
+        },
+        {
+          "slug": "13-the-science-of-embellishment-badi",
+          "title": {
+            "ar": "علم البديع",
+            "en": "The Science of Embellishment (Badi')"
+          },
+          "page": 142,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-part-three-literature-and-reading",
+      "title": {
+        "ar": "القسم الثالث: الأدب والمطالعة",
+        "en": "Part Three: Literature and Reading"
+      },
+      "concept": "language",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 148,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-importance-of-reading-in-our-lives",
+          "title": {
+            "ar": "أهمية القراءة في حياتنا",
+            "en": "The Importance of Reading in Our Lives"
+          },
+          "page": 149
+        },
+        {
+          "slug": "02-the-meaning-of-islam",
+          "title": {
+            "ar": "معنى الإسلام",
+            "en": "The Meaning of Islam"
+          },
+          "page": 153,
+          "image": "clickview/high-learning-cover.jpg"
+        },
+        {
+          "slug": "03-an-overview-of-arabic-literature",
+          "title": {
+            "ar": "لمحة عن الأدب العربي",
+            "en": "An Overview of Arabic Literature"
+          },
+          "page": 156,
+          "image": "clickview/middle-literary-texts-cover.jpg"
+        },
+        {
+          "slug": "04-sudan-my-father-and-mother",
+          "title": {
+            "ar": "السودان أبي وأمي",
+            "en": "Sudan, My Father and Mother"
+          },
+          "page": 161,
+          "image": "clickview/high-landforms-and-landscapes-cover.jpg"
+        },
+        {
+          "slug": "05-beneficial-reading",
+          "title": {
+            "ar": "القراءة المفيدة",
+            "en": "Beneficial Reading"
+          },
+          "page": 165
+        },
+        {
+          "slug": "06-sources-of-knowledge",
+          "title": {
+            "ar": "مصادر المعرفة",
+            "en": "Sources of Knowledge"
+          },
+          "page": 168,
+          "image": "clickview/high-learning-cover.jpg"
+        },
+        {
+          "slug": "07-time-is-life",
+          "title": {
+            "ar": "الوقت هو الحياة",
+            "en": "Time Is Life"
+          },
+          "page": 175,
+          "image": "clickview/high-growth-mindset-cover.jpg"
+        },
+        {
+          "slug": "08-what-zarqa-al-yamama-did-not-say",
+          "title": {
+            "ar": "ما لم تقله زرقاء اليمامة",
+            "en": "What Zarqa al-Yamama Did Not Say"
+          },
+          "page": 179,
+          "image": "clickview/high-genre-cover.jpg"
+        },
+        {
+          "slug": "09-artificial-intelligence",
+          "title": {
+            "ar": "الذكاء الاصطناعي",
+            "en": "Artificial Intelligence"
+          },
+          "page": 183,
+          "image": "clickview/high-artificial-intelligence-cover.jpg"
+        },
+        {
+          "slug": "10-self-reliance",
+          "title": {
+            "ar": "الاعتماد على الذات",
+            "en": "Self-Reliance"
+          },
+          "page": 187,
+          "image": "clickview/high-self-esteem-cover.jpg"
+        },
+        {
+          "slug": "11-the-story-and-the-stages-of-its-development",
+          "title": {
+            "ar": "القصة ومراحل تطورها",
+            "en": "The Story and the Stages of Its Development"
+          },
+          "page": 190,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "12-tabaldiya-the-baobab",
+          "title": {
+            "ar": "تبلدية",
+            "en": "Tabaldiya (The Baobab)"
+          },
+          "page": 192,
+          "image": "clickview/high-plants-cover.jpg"
+        },
+        {
+          "slug": "13-dealing-with-people-is-an-art",
+          "title": {
+            "ar": "التعامل مع الناس فن",
+            "en": "Dealing with People Is an Art"
+          },
+          "page": 196,
+          "image": "clickview/high-community-engagement-and-care-cover.jpg"
+        },
+        {
+          "slug": "14-antara-in-the-memory-of-history",
+          "title": {
+            "ar": "عنترة في ذاكرة التاريخ",
+            "en": "Antara in the Memory of History"
+          },
+          "page": 199,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        },
+        {
+          "slug": "15-how-can-sudan-become-green-again",
+          "title": {
+            "ar": "كيف يعود السودان أخضر؟",
+            "en": "How Can Sudan Become Green Again?"
+          },
+          "page": 206,
+          "image": "clickview/high-regenerative-agriculture-cover.jpg"
+        },
+        {
+          "slug": "16-human-rights",
+          "title": {
+            "ar": "حقوق الإنسان",
+            "en": "Human Rights"
+          },
+          "page": 212,
+          "image": "clickview/high-human-rights-cover.jpg"
+        },
+        {
+          "slug": "17-students-and-the-skills-of-the-future",
+          "title": {
+            "ar": "الطلاب ومهارات المستقبل",
+            "en": "Students and the Skills of the Future"
+          },
+          "page": 215,
+          "image": "clickview/high-workplace-skills-cover.jpg"
+        },
+        {
+          "slug": "18-from-the-gardens-of-language",
+          "title": {
+            "ar": "من حدائق اللغة",
+            "en": "From the Gardens of Language"
+          },
+          "page": 218
+        },
+        {
+          "slug": "19-muslims-and-the-challenges-of-the-age",
+          "title": {
+            "ar": "المسلمون وتحديات العصر",
+            "en": "Muslims and the Challenges of the Age"
+          },
+          "page": 222,
+          "image": "clickview/high-decision-making-cover.jpg"
+        },
+        {
+          "slug": "20-womens-education",
+          "title": {
+            "ar": "تعليم المرأة",
+            "en": "Women's Education"
+          },
+          "page": 225,
+          "image": "clickview/high-changing-roles-of-women-cover.jpg"
+        },
+        {
+          "slug": "21-an-overview-of-sudanese-theatre",
+          "title": {
+            "ar": "لمحة عن المسرح السوداني",
+            "en": "An Overview of Sudanese Theatre"
+          },
+          "page": 229,
+          "image": "clickview/high-elements-of-theatrical-production-cover.jpg"
+        },
+        {
+          "slug": "22-from-the-theatre-fabricated-reasons",
+          "title": {
+            "ar": "من المسرح: الأسباب الملفقة",
+            "en": "From the Theatre: Fabricated Reasons"
+          },
+          "page": 233,
+          "image": "clickview/high-acting-skills-cover.jpg"
+        },
+        {
+          "slug": "23-sustainable-development-and-the-human-being",
+          "title": {
+            "ar": "التنمية المستدامة والإنسان",
+            "en": "Sustainable Development and the Human Being"
+          },
+          "page": 239,
+          "image": "clickview/high-sustainability-case-studies-cover.jpg"
+        },
+        {
+          "slug": "24-woman-the-icon-of-life",
+          "title": {
+            "ar": "المرأة أيقونة الحياة",
+            "en": "Woman, the Icon of Life"
+          },
+          "page": 242,
+          "image": "clickview/middle-identity-and-community-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

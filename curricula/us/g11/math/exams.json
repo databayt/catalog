@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g11-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-mat-unit-01-quadratics-01-quadratics-lq01",
+          "type": "mcq",
+          "question": "The graph of y = x² is a:",
+          "options": [
+            "line",
+            "parabola",
+            "circle",
+            "spiral"
+          ],
+          "answer": "parabola",
+          "explanation": "Quadratic graph."
+        },
+        {
+          "id": "g11-mat-unit-01-quadratics-01-quadratics-lq02",
+          "type": "true_false",
+          "question": "The quadratic formula solves ax²+bx+c=0.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "x = (-b±√(b²-4ac))/2a."
+        },
+        {
+          "id": "g11-mat-unit-02-exp-log-01-exponential-lq01",
+          "type": "mcq",
+          "question": "y = 2^x represents exponential:",
+          "options": [
+            "decay",
+            "growth",
+            "linear change",
+            "no change"
+          ],
+          "answer": "growth",
+          "explanation": "Base > 1."
+        },
+        {
+          "id": "g11-mat-unit-02-exp-log-01-exponential-lq02",
+          "type": "true_false",
+          "question": "Exponential growth increases faster over time.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Accelerating."
+        }
+      ]
+    }
+  ]
+}

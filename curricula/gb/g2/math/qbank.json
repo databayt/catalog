@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math"
+  },
+  "questions": [
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq01",
+      "type": "mcq",
+      "question": "In 47, the 4 means:",
+      "options": [
+        "4 ones",
+        "4 tens",
+        "4 hundreds",
+        "40 tens"
+      ],
+      "answer": "4 tens",
+      "explanation": "40."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq02",
+      "type": "true_false",
+      "question": "63 = 60 + 3.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tens and ones."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq03",
+      "type": "fill_blank",
+      "question": "7 tens and 5 ones = ___.",
+      "answer": "75",
+      "explanation": "70 + 5."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq04",
+      "type": "short_answer",
+      "question": "Write 90 as tens.",
+      "answer": "9 tens",
+      "explanation": "90 = 9 tens."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-02-compare-lq01",
+      "type": "mcq",
+      "question": "Which is greater, 34 or 43?",
+      "options": [
+        "34",
+        "43",
+        "equal",
+        "cannot tell"
+      ],
+      "answer": "43",
+      "explanation": "4 tens > 3 tens."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-02-compare-lq02",
+      "type": "true_false",
+      "question": "28 < 30.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "28 is less than 30."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-02-compare-lq03",
+      "type": "fill_blank",
+      "question": "Use a symbol: 56 ___ 65.",
+      "answer": "<",
+      "explanation": "56 is less than 65."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-02-compare-lq04",
+      "type": "short_answer",
+      "question": "Order 21, 12, 31 smallest first.",
+      "answer": "12, 21, 31",
+      "explanation": "Ascending order."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq01",
+      "type": "mcq",
+      "question": "5 × 4 = ?",
+      "options": [
+        "9",
+        "20",
+        "25",
+        "15"
+      ],
+      "answer": "20",
+      "explanation": "Five fours."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq02",
+      "type": "true_false",
+      "question": "10 × 3 = 30.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Ten threes."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq03",
+      "type": "fill_blank",
+      "question": "2 × 7 = ___.",
+      "answer": "14",
+      "explanation": "Two sevens."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq04",
+      "type": "short_answer",
+      "question": "Skip count in 5s to 25.",
+      "answer": "5, 10, 15, 20, 25",
+      "explanation": "Count in fives."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-02-sharing-lq01",
+      "type": "mcq",
+      "question": "12 shared between 3 = ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "12 ÷ 3 = 4."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-02-sharing-lq02",
+      "type": "true_false",
+      "question": "Division shares into equal groups.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Equal sharing."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-02-sharing-lq03",
+      "type": "fill_blank",
+      "question": "10 ÷ 2 = ___.",
+      "answer": "5",
+      "explanation": "Two equal groups of 5."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-02-sharing-lq04",
+      "type": "short_answer",
+      "question": "Share 8 apples between 2 children.",
+      "answer": "4 each",
+      "explanation": "8 ÷ 2 = 4."
+    }
+  ]
+}

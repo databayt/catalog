@@ -1,0 +1,582 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "ict"
+  },
+  "questions": [
+    {
+      "id": "g9-ict-unit-01-01-technology-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-01-01-technology-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-01-01-technology-q03",
+      "type": "fill_blank",
+      "question": "الجيل الخامس من شبكات الاتصال يُعرف بشبكة ___.",
+      "answer": "5G",
+      "explanation": "5G الجيل الخامس من تقنية الاتصالات اللاسلكية."
+    },
+    {
+      "id": "g9-ict-unit-01-02-engineering-materials-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-01-02-engineering-materials-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-01-02-engineering-materials-q03",
+      "type": "fill_blank",
+      "question": "الجيل الخامس من شبكات الاتصال يُعرف بشبكة ___.",
+      "answer": "5G",
+      "explanation": "5G الجيل الخامس من تقنية الاتصالات اللاسلكية."
+    },
+    {
+      "id": "g9-ict-unit-01-03-metals-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-01-03-metals-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-01-03-metals-q03",
+      "type": "fill_blank",
+      "question": "الجيل الخامس من شبكات الاتصال يُعرف بشبكة ___.",
+      "answer": "5G",
+      "explanation": "5G الجيل الخامس من تقنية الاتصالات اللاسلكية."
+    },
+    {
+      "id": "g9-ict-unit-02-01-solar-energy-techniques-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-02-01-solar-energy-techniques-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-02-02-solar-energy-applications-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-02-02-solar-energy-applications-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-02-03-solar-energy-in-sudan-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-02-03-solar-energy-in-sudan-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-02-04-solar-cells-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-02-04-solar-cells-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-02-05-installing-solar-panels-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-02-05-installing-solar-panels-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-03-01-forests-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-03-01-forests-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-03-02-desertification-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-03-02-desertification-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-03-03-poultry-industry-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-03-03-poultry-industry-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-03-04-chick-incubation-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-03-04-chick-incubation-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-03-05-poultry-diseases-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-03-05-poultry-diseases-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-04-01-production-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-04-01-production-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-04-02-business-project-sources-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-04-02-business-project-sources-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-04-03-project-evaluation-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-04-03-project-evaluation-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-04-04-project-planning-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-04-04-project-planning-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-04-05-product-marketing-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-04-05-product-marketing-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-05-01-awadiya-fish-restaurant-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-05-01-awadiya-fish-restaurant-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-05-02-coffee-republic-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-05-02-coffee-republic-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-05-03-planning-idea-execution-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-05-03-planning-idea-execution-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-05-04-sprinjene-company-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-05-04-sprinjene-company-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    },
+    {
+      "id": "g9-ict-unit-05-05-grameen-bank-q01",
+      "type": "mcq",
+      "question": "ما الاسم الكامل لـ ICT؟",
+      "options": [
+        "Information and Communications Technology",
+        "International Computer Technology",
+        "Integrated Circuit Technology",
+        "Internet Connection Technology"
+      ],
+      "answer": "Information and Communications Technology",
+      "explanation": "ICT تعني تقنية المعلومات والاتصالات."
+    },
+    {
+      "id": "g9-ict-unit-05-05-grameen-bank-q02",
+      "type": "true_false",
+      "question": "الحاسوب يحتاج إلى برامج ليعمل بشكل صحيح.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الحاسوب بدون برامج (Software) مجرد آلة غير مفيدة."
+    }
+  ]
+}

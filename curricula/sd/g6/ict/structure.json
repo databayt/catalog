@@ -1,0 +1,258 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g6-ict",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "ict",
+  "title": {
+    "ar": "تكنولوجيا المعلومات والاتصالات",
+    "en": "Information and Communication Technology"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "computer",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-networks",
+      "title": {
+        "ar": "الشبكات",
+        "en": "Networks"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-networks-and-the-internet-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-what-is-a-network",
+          "title": {
+            "ar": "ما هي الشبكة",
+            "en": "What is a Network?"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-network-addresses",
+          "title": {
+            "ar": "عناوين الشبكات",
+            "en": "Network Addresses"
+          },
+          "page": 3
+        },
+        {
+          "slug": "03-types-of-networks",
+          "title": {
+            "ar": "أنواع الشبكات",
+            "en": "Types of Networks"
+          },
+          "page": 5
+        },
+        {
+          "slug": "04-network-server",
+          "title": {
+            "ar": "خادم الشبكة",
+            "en": "The Network Server"
+          },
+          "page": 7
+        },
+        {
+          "slug": "05-cloud-computing",
+          "title": {
+            "ar": "الحوسبة السحابية",
+            "en": "Cloud Computing"
+          },
+          "page": 9
+        }
+      ]
+    },
+    {
+      "slug": "02-cybercrime-information-security",
+      "title": {
+        "ar": "الجرائم الإلكترونية و أمن المعلومات",
+        "en": "Electronic Crimes and Information Security"
+      },
+      "concept": "computer",
+      "image": "clickview/middle-online-safety-cover.jpg",
+      "page": 11,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-electronic-crimes",
+          "title": {
+            "ar": "الجرائم الإلكترونية",
+            "en": "Electronic Crimes"
+          },
+          "page": 12
+        },
+        {
+          "slug": "02-information-security",
+          "title": {
+            "ar": "أمن المعلومات",
+            "en": "Information Security"
+          },
+          "page": 14
+        },
+        {
+          "slug": "03-protecting-information",
+          "title": {
+            "ar": "كيف نحمي المعلومات",
+            "en": "How Do We Protect Information"
+          },
+          "page": 15
+        },
+        {
+          "slug": "04-safe-internet-use",
+          "title": {
+            "ar": "الاستخدام الآمن للإنترنت",
+            "en": "Safe Use of the Internet"
+          },
+          "page": 17
+        }
+      ]
+    },
+    {
+      "slug": "03-presentations",
+      "title": {
+        "ar": "العروض التقديمية",
+        "en": "Presentations"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-digital-media-cover.jpg",
+      "page": 21,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-what-is-powerpoint",
+          "title": {
+            "ar": "ما هو برنامج Power Point",
+            "en": "What is PowerPoint?"
+          },
+          "page": 22
+        },
+        {
+          "slug": "02-designing-a-presentation",
+          "title": {
+            "ar": "طريقة تصميم عرض تقديمي",
+            "en": "How to Design a Presentation"
+          },
+          "page": 25
+        },
+        {
+          "slug": "03-animations-and-effects",
+          "title": {
+            "ar": "إضافة الحركات و التأثيرات",
+            "en": "Adding Animations and Effects"
+          },
+          "page": 28
+        }
+      ]
+    },
+    {
+      "slug": "04-software-databases",
+      "title": {
+        "ar": "البرمجيات و قواعد البيانات",
+        "en": "Software and Databases"
+      },
+      "concept": "computer",
+      "image": "clickview/middle-programming-language-cover.jpg",
+      "page": 31,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-types-of-software",
+          "title": {
+            "ar": "أنواع البرمجيات",
+            "en": "Types of Software"
+          },
+          "page": 32
+        },
+        {
+          "slug": "02-systems-software",
+          "title": {
+            "ar": "برمجيات النظم",
+            "en": "Systems Software"
+          },
+          "page": 33
+        },
+        {
+          "slug": "03-programming-languages",
+          "title": {
+            "ar": "لغات البرمجة",
+            "en": "Programming Languages"
+          },
+          "page": 34
+        },
+        {
+          "slug": "04-database-concept",
+          "title": {
+            "ar": "مفهوم قواعد البيانات",
+            "en": "The Concept of Databases"
+          },
+          "page": 35,
+          "image": "clickview/middle-data-and-information-cover.jpg"
+        },
+        {
+          "slug": "05-network-system-model",
+          "title": {
+            "ar": "نموذج لنظام شبكي",
+            "en": "A Model of a Networked System"
+          },
+          "page": 38
+        },
+        {
+          "slug": "06-smartphone-applications",
+          "title": {
+            "ar": "تطبيقات الهواتف الذكية",
+            "en": "Smartphone Applications"
+          },
+          "page": 40
+        },
+        {
+          "slug": "07-ipschools-smart-school-app",
+          "title": {
+            "ar": "تطبيق المدرسة الذكي ipSchools",
+            "en": "The Smart School App: ipSchools"
+          },
+          "page": 41
+        }
+      ]
+    },
+    {
+      "slug": "05-computers-around-us",
+      "title": {
+        "ar": "الكمبيوتر من حولنا",
+        "en": "Computers Around Us"
+      },
+      "concept": "computer",
+      "image": "clickview/middle-computers-in-our-world-cover.jpg",
+      "page": 42,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-computers-in-banks",
+          "title": {
+            "ar": "الكمبيوتر في البنوك",
+            "en": "Computers in Banks"
+          },
+          "page": 43
+        },
+        {
+          "slug": "02-computers-in-police-institutions",
+          "title": {
+            "ar": "الكمبيوتر في المؤسسات الشرطية",
+            "en": "Computers in Police Institutions"
+          },
+          "page": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "02-add-sub-100",
+    "lesson": "01-add-2digit"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-quiz",
+      "title": "Quiz: Adding Two-Digit Numbers",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq01",
+          "type": "mcq",
+          "question": "47 + 38 = ?",
+          "options": [
+            "75",
+            "85",
+            "86",
+            "84"
+          ],
+          "answer": "85",
+          "explanation": "47 + 38 = 85 (regroup the ones)."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq02",
+          "type": "true_false",
+          "question": "When ones add to more than 9, you regroup a ten.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carry to the tens place."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq03",
+          "type": "fill_blank",
+          "question": "56 + ___ = 90.",
+          "answer": "34",
+          "explanation": "90 - 56 = 34."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq04",
+          "type": "short_answer",
+          "question": "Add 29 + 29 using doubles.",
+          "answer": "58",
+          "explanation": "Double 29 = 58."
+        }
+      ]
+    }
+  ]
+}

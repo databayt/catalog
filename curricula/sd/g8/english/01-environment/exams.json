@@ -1,0 +1,226 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "01-environment"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-01-quiz",
+      "title": "اختبار - Environment",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g8-en-unit01-q001",
+          "type": "mcq",
+          "question": "Complete: 'If I ___ you were coming, I would have waited.'",
+          "options": [
+            "know",
+            "knew",
+            "had known",
+            "known"
+          ],
+          "answer": "had known",
+          "explanation": "Third conditional uses past perfect"
+        },
+        {
+          "id": "g8-en-unit01-q002",
+          "type": "true_false",
+          "question": "'She would help if she could' uses conditional tense",
+          "answer": true,
+          "explanation": "Yes, this is second conditional"
+        },
+        {
+          "id": "g8-en-unit01-q003",
+          "type": "mcq",
+          "question": "What is the past participle of 'go'?",
+          "options": [
+            "went",
+            "go",
+            "gone",
+            "going"
+          ],
+          "answer": "gone",
+          "explanation": "'Gone' is the past participle"
+        },
+        {
+          "id": "g8-en-unit01-q004",
+          "type": "fill_blank",
+          "question": "I have ___ to Paris twice. (be/been/was)",
+          "answer": "been",
+          "explanation": "Present perfect uses 'been'"
+        },
+        {
+          "id": "g8-en-unit01-q005",
+          "type": "mcq",
+          "question": "Transform: 'Active: The teacher explained the lesson.' to Passive",
+          "options": [
+            "The lesson explained the teacher",
+            "The lesson was explained by the teacher",
+            "The teacher was explained the lesson",
+            "Explaining the lesson by teacher"
+          ],
+          "answer": "The lesson was explained by the teacher",
+          "explanation": "Passive voice: object becomes subject"
+        },
+        {
+          "id": "g8-en-unit01-q006",
+          "type": "short_answer",
+          "question": "Write a sentence using relative clause with 'who'",
+          "answer": "The student who studies hard will succeed",
+          "explanation": "Any sentence with relative clause"
+        },
+        {
+          "id": "g8-en-unit01-q007",
+          "type": "true_false",
+          "question": "'She is being studied by many students' uses passive voice",
+          "answer": true,
+          "explanation": "Yes, continuous passive"
+        },
+        {
+          "id": "g8-en-unit01-q008",
+          "type": "mcq",
+          "question": "What does 'reported speech' mean?",
+          "options": [
+            "Speaking loudly",
+            "Telling what someone said",
+            "Public announcement",
+            "Dialogue"
+          ],
+          "answer": "Telling what someone said",
+          "explanation": "Indirect speech reporting"
+        },
+        {
+          "id": "g8-en-unit01-q009",
+          "type": "fill_blank",
+          "question": "He said, 'I am tired.' (Reported speech) → He said ___",
+          "answer": "he was tired",
+          "explanation": "Tenses shift in reported speech"
+        },
+        {
+          "id": "g8-en-unit01-q010",
+          "type": "mcq",
+          "question": "Choose the correct tag question: 'You like football, ___?'",
+          "options": [
+            "don't you?",
+            "didn't you?",
+            "won't you?",
+            "can't you?"
+          ],
+          "answer": "don't you?",
+          "explanation": "Tag questions use auxiliary verb"
+        }
+      ]
+    },
+    {
+      "id": "g8-eng-unit-01-quiz-2",
+      "title": "اختبار - Environment",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g8-en-unit01-q001",
+          "type": "mcq",
+          "question": "Complete: 'If I ___ you were coming, I would have waited.'",
+          "options": [
+            "know",
+            "knew",
+            "had known",
+            "known"
+          ],
+          "answer": "had known",
+          "explanation": "Third conditional uses past perfect"
+        },
+        {
+          "id": "g8-en-unit01-q002",
+          "type": "true_false",
+          "question": "'She would help if she could' uses conditional tense",
+          "answer": true,
+          "explanation": "Yes, this is second conditional"
+        },
+        {
+          "id": "g8-en-unit01-q003",
+          "type": "mcq",
+          "question": "What is the past participle of 'go'?",
+          "options": [
+            "went",
+            "go",
+            "gone",
+            "going"
+          ],
+          "answer": "gone",
+          "explanation": "'Gone' is the past participle"
+        },
+        {
+          "id": "g8-en-unit01-q004",
+          "type": "fill_blank",
+          "question": "I have ___ to Paris twice. (be/been/was)",
+          "answer": "been",
+          "explanation": "Present perfect uses 'been'"
+        },
+        {
+          "id": "g8-en-unit01-q005",
+          "type": "mcq",
+          "question": "Transform: 'Active: The teacher explained the lesson.' to Passive",
+          "options": [
+            "The lesson explained the teacher",
+            "The lesson was explained by the teacher",
+            "The teacher was explained the lesson",
+            "Explaining the lesson by teacher"
+          ],
+          "answer": "The lesson was explained by the teacher",
+          "explanation": "Passive voice: object becomes subject"
+        },
+        {
+          "id": "g8-en-unit01-q006",
+          "type": "short_answer",
+          "question": "Write a sentence using relative clause with 'who'",
+          "answer": "The student who studies hard will succeed",
+          "explanation": "Any sentence with relative clause"
+        },
+        {
+          "id": "g8-en-unit01-q007",
+          "type": "true_false",
+          "question": "'She is being studied by many students' uses passive voice",
+          "answer": true,
+          "explanation": "Yes, continuous passive"
+        },
+        {
+          "id": "g8-en-unit01-q008",
+          "type": "mcq",
+          "question": "What does 'reported speech' mean?",
+          "options": [
+            "Speaking loudly",
+            "Telling what someone said",
+            "Public announcement",
+            "Dialogue"
+          ],
+          "answer": "Telling what someone said",
+          "explanation": "Indirect speech reporting"
+        },
+        {
+          "id": "g8-en-unit01-q009",
+          "type": "fill_blank",
+          "question": "He said, 'I am tired.' (Reported speech) → He said ___",
+          "answer": "he was tired",
+          "explanation": "Tenses shift in reported speech"
+        },
+        {
+          "id": "g8-en-unit01-q010",
+          "type": "mcq",
+          "question": "Choose the correct tag question: 'You like football, ___?'",
+          "options": [
+            "don't you?",
+            "didn't you?",
+            "won't you?",
+            "can't you?"
+          ],
+          "answer": "don't you?",
+          "explanation": "Tag questions use auxiliary verb"
+        }
+      ]
+    }
+  ]
+}

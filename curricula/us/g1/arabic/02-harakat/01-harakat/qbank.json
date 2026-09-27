@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "arabic",
+    "chapter": "02-harakat",
+    "lesson": "01-harakat"
+  },
+  "questions": [
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq01",
+      "type": "mcq",
+      "question": "الحركة ( َ ) فوق الحرف تسمى:",
+      "options": [
+        "فتحة",
+        "ضمة",
+        "كسرة",
+        "سكون"
+      ],
+      "answer": "فتحة",
+      "explanation": "الفتحة فوق الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq02",
+      "type": "true_false",
+      "question": "الكسرة توضع تحت الحرف.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الكسرة أسفل الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq03",
+      "type": "fill_blank",
+      "question": "الحركة التي تكتب على شكل واو صغيرة هي ___.",
+      "answer": "الضمة",
+      "explanation": "الضمة فوق الحرف."
+    },
+    {
+      "id": "g1-ara-unit-02-harakat-01-harakat-lq04",
+      "type": "short_answer",
+      "question": "ما الحركات القصيرة في العربية؟",
+      "answer": "الفتحة والضمة والكسرة.",
+      "explanation": "الحركات الثلاث."
+    }
+  ]
+}

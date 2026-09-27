@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g10-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq01",
+          "type": "mcq",
+          "question": "Which proves two triangles congruent?",
+          "options": [
+            "SSA",
+            "SAS",
+            "AAA",
+            "none"
+          ],
+          "answer": "SAS",
+          "explanation": "Side-Angle-Side."
+        },
+        {
+          "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq02",
+          "type": "true_false",
+          "question": "The angles of a triangle sum to 180°.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Triangle sum."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq01",
+          "type": "mcq",
+          "question": "The circumference of a circle is:",
+          "options": [
+            "πr²",
+            "2πr",
+            "πd²",
+            "r/2"
+          ],
+          "answer": "2πr",
+          "explanation": "C = 2πr (= πd)."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq02",
+          "type": "true_false",
+          "question": "All radii of a circle are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Constant radius."
+        }
+      ]
+    }
+  ]
+}

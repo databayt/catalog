@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "citizenship",
+    "chapter": "02-society",
+    "lesson": "02-economy"
+  },
+  "exams": [
+    {
+      "id": "g7-cit-unit-02-society-02-economy-quiz",
+      "title": "Quiz: Citizens & the Economy",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-cit-unit-02-society-02-economy-lq01",
+          "type": "mcq",
+          "question": "Paying taxes helps fund public services like:",
+          "options": [
+            "schools and hospitals",
+            "video games",
+            "private jets",
+            "nothing"
+          ],
+          "answer": "schools and hospitals",
+          "explanation": "Public goods."
+        },
+        {
+          "id": "g7-cit-unit-02-society-02-economy-lq02",
+          "type": "true_false",
+          "question": "Consumers make choices that affect the economy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Economic role."
+        },
+        {
+          "id": "g7-cit-unit-02-society-02-economy-lq03",
+          "type": "fill_blank",
+          "question": "Money collected by government to fund services is ___.",
+          "answer": "tax",
+          "explanation": "Taxation."
+        },
+        {
+          "id": "g7-cit-unit-02-society-02-economy-lq04",
+          "type": "short_answer",
+          "question": "Why do governments collect taxes?",
+          "answer": "To pay for public services that benefit everyone.",
+          "explanation": "Taxes."
+        }
+      ]
+    }
+  ]
+}

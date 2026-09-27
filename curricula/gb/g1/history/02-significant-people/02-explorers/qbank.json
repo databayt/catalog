@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "history",
+    "chapter": "02-significant-people",
+    "lesson": "02-explorers"
+  },
+  "questions": [
+    {
+      "id": "g1-his-unit-02-significant-people-02-explorers-lq01",
+      "type": "mcq",
+      "question": "An explorer is someone who:",
+      "options": [
+        "cooks food",
+        "travels to discover new places",
+        "builds houses",
+        "teaches maths"
+      ],
+      "answer": "travels to discover new places",
+      "explanation": "Exploration."
+    },
+    {
+      "id": "g1-his-unit-02-significant-people-02-explorers-lq02",
+      "type": "true_false",
+      "question": "Neil Armstrong was the first person to walk on the Moon.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1969."
+    },
+    {
+      "id": "g1-his-unit-02-significant-people-02-explorers-lq03",
+      "type": "fill_blank",
+      "question": "People who travel to find out about new places are ___.",
+      "answer": "explorers",
+      "explanation": "Explorers."
+    },
+    {
+      "id": "g1-his-unit-02-significant-people-02-explorers-lq04",
+      "type": "short_answer",
+      "question": "Name one famous explorer and what they did.",
+      "answer": "e.g., Neil Armstrong walked on the Moon.",
+      "explanation": "Explorer example."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "islamic-studies",
+    "chapter": "01-prayer",
+    "lesson": "01-salah"
+  },
+  "exams": [
+    {
+      "id": "g2-isl-unit-01-prayer-01-salah-quiz",
+      "title": "Quiz: الصلوات الخمس",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq01",
+          "type": "mcq",
+          "question": "كم عدد الصلوات المفروضة في اليوم؟",
+          "options": [
+            "ثلاث",
+            "أربع",
+            "خمس",
+            "ست"
+          ],
+          "answer": "خمس",
+          "explanation": "الصلوات الخمس."
+        },
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq02",
+          "type": "true_false",
+          "question": "صلاة الفجر ركعتان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الفجر ركعتان."
+        },
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq03",
+          "type": "fill_blank",
+          "question": "أول صلوات اليوم هي صلاة ___.",
+          "answer": "الفجر",
+          "explanation": "الفجر أولاً."
+        },
+        {
+          "id": "g2-isl-unit-01-prayer-01-salah-lq04",
+          "type": "short_answer",
+          "question": "اذكر أسماء الصلوات الخمس.",
+          "answer": "الفجر، الظهر، العصر، المغرب، العشاء.",
+          "explanation": "الصلوات."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "us-g2-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g2-mat-unit-01-place-value-1000-01-hundreds-tens-ones-lq01",
+          "type": "mcq",
+          "question": "In 365, the digit 3 represents:",
+          "options": [
+            "3",
+            "30",
+            "300",
+            "3000"
+          ],
+          "answer": "300",
+          "explanation": "3 is in the hundreds place."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-1000-01-hundreds-tens-ones-lq02",
+          "type": "true_false",
+          "question": "724 = 700 + 20 + 4.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Expanded form of 724."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq01",
+          "type": "mcq",
+          "question": "47 + 38 = ?",
+          "options": [
+            "75",
+            "85",
+            "86",
+            "84"
+          ],
+          "answer": "85",
+          "explanation": "47 + 38 = 85 (regroup the ones)."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq02",
+          "type": "true_false",
+          "question": "When ones add to more than 9, you regroup a ten.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carry to the tens place."
+        },
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-01-length-lq01",
+          "type": "mcq",
+          "question": "Which unit best measures a pencil's length?",
+          "options": [
+            "kilometers",
+            "centimeters",
+            "liters",
+            "grams"
+          ],
+          "answer": "centimeters",
+          "explanation": "Small objects use cm."
+        },
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-01-length-lq02",
+          "type": "true_false",
+          "question": "A ruler can measure length.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Rulers measure length."
+        }
+      ]
+    }
+  ]
+}

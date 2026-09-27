@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "math"
+  },
+  "exams": [
+    {
+      "id": "gb-g11-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g11-mat-unit-01-number-ratio-01-surds-indices-lq01",
+          "type": "mcq",
+          "question": "Simplify √8:",
+          "options": [
+            "2√2",
+            "4√2",
+            "8",
+            "2√4"
+          ],
+          "answer": "2√2",
+          "explanation": "√4×√2."
+        },
+        {
+          "id": "g11-mat-unit-01-number-ratio-01-surds-indices-lq02",
+          "type": "true_false",
+          "question": "x^0 = 1 for any nonzero x.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Index law."
+        },
+        {
+          "id": "g11-mat-unit-02-statistics-01-averages-lq01",
+          "type": "mcq",
+          "question": "The middle value of ordered data is the:",
+          "options": [
+            "mean",
+            "median",
+            "mode",
+            "range"
+          ],
+          "answer": "median",
+          "explanation": "Middle value."
+        },
+        {
+          "id": "g11-mat-unit-02-statistics-01-averages-lq02",
+          "type": "true_false",
+          "question": "The range is the difference between highest and lowest values.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Spread."
+        }
+      ]
+    }
+  ]
+}

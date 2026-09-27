@@ -1,0 +1,28 @@
+# Binaries live on the CDN (databayt-cdn → cdn.databayt.org), tracked by assets.lock.json.
+# Git holds text only. `pnpm assets pull` fetches them; `pnpm assets push` uploads them.
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.svg
+*.gif
+*.mp4
+*.mp3
+*.zip
+
+# Local-only working areas
+.work/
+.archive/
+_legacy_us_images/
+node_modules/
+dist/
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.tmp
+__pycache__/

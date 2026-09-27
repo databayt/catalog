@@ -1,0 +1,193 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "arabic"
+  },
+  "exams": [
+    {
+      "id": "g4-arabic-final-exam-5671",
+      "title": "Final Exam - Arabic - G4",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g4-ar-u01-q001",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: الإضافة تربط بين ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: إن وأخواتها تنصب الاسم وترفع الخبر",
+          "answer": true,
+          "explanation": "The statement about Values Ethics is True."
+        },
+        {
+          "id": "g4-ar-u01-q003",
+          "type": "fill_blank",
+          "question": "أكمل: الحروف الجارة تدخل على ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح الفرق بين كان وإن وأخواتهما",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q005",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: النعت يوافق المنعوت في ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الحروف الناسخة تدخل على الجملة الفعلية",
+          "answer": true,
+          "explanation": "The statement about Values Ethics is True."
+        },
+        {
+          "id": "g4-ar-u01-q007",
+          "type": "fill_blank",
+          "question": "أكمل: الموصول الاسمي مثل: ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح الفرق بين كان وإن وأخواتهما",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q009",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: الاستثناء يأتي بعد ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Values Ethics."
+        },
+        {
+          "id": "g4-ar-u01-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: البدل يحل محل المبدل منه",
+          "answer": true,
+          "explanation": "The statement about Values Ethics is True."
+        },
+        {
+          "id": "g4-ar-u02-q001",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: الإضافة تربط بين ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Environment."
+        },
+        {
+          "id": "g4-ar-u02-q002",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: إن وأخواتها تنصب الاسم وترفع الخبر",
+          "answer": true,
+          "explanation": "The statement about Environment is True."
+        },
+        {
+          "id": "g4-ar-u02-q003",
+          "type": "fill_blank",
+          "question": "أكمل: الحروف الجارة تدخل على ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Environment."
+        },
+        {
+          "id": "g4-ar-u02-q004",
+          "type": "short_answer",
+          "question": "أجب: اشرح الفرق بين كان وإن وأخواتهما",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Environment."
+        },
+        {
+          "id": "g4-ar-u02-q005",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: النعت يوافق المنعوت في ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Environment."
+        },
+        {
+          "id": "g4-ar-u02-q006",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: الحروف الناسخة تدخل على الجملة الفعلية",
+          "answer": true,
+          "explanation": "The statement about Environment is True."
+        },
+        {
+          "id": "g4-ar-u02-q007",
+          "type": "fill_blank",
+          "question": "أكمل: الموصول الاسمي مثل: ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about Environment."
+        },
+        {
+          "id": "g4-ar-u02-q008",
+          "type": "short_answer",
+          "question": "أجب: اشرح الفرق بين كان وإن وأخواتهما",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from Environment."
+        },
+        {
+          "id": "g4-ar-u02-q009",
+          "type": "mcq",
+          "question": "اختر الإجابة الصحيحة: الاستثناء يأتي بعد ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for Environment."
+        },
+        {
+          "id": "g4-ar-u02-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: البدل يحل محل المبدل منه",
+          "answer": true,
+          "explanation": "The statement about Environment is True."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "citizenship",
+    "chapter": "02-society",
+    "lesson": "01-community"
+  },
+  "exams": [
+    {
+      "id": "g9-cit-unit-02-society-01-community-quiz",
+      "title": "Quiz: Community & Identity",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-cit-unit-02-society-01-community-lq01",
+          "type": "mcq",
+          "question": "An active citizen contributes to their:",
+          "options": [
+            "community",
+            "fonts",
+            "weather",
+            "prices"
+          ],
+          "answer": "community",
+          "explanation": "Active citizenship."
+        },
+        {
+          "id": "g9-cit-unit-02-society-01-community-lq02",
+          "type": "true_false",
+          "question": "Diversity can strengthen a community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Diversity."
+        },
+        {
+          "id": "g9-cit-unit-02-society-01-community-lq03",
+          "type": "fill_blank",
+          "question": "Volunteering to help others is a form of active ___.",
+          "answer": "citizenship",
+          "explanation": "Citizenship."
+        },
+        {
+          "id": "g9-cit-unit-02-society-01-community-lq04",
+          "type": "short_answer",
+          "question": "Name one way to contribute to your community.",
+          "answer": "e.g., volunteering, voting, or respecting others.",
+          "explanation": "Community."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-evidence"
+  },
+  "questions": [
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq01",
+      "type": "mcq",
+      "question": "To answer a comprehension question you should:",
+      "options": [
+        "guess",
+        "find evidence in the text",
+        "skip it",
+        "ask a friend"
+      ],
+      "answer": "find evidence in the text",
+      "explanation": "Text-based answers."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq02",
+      "type": "true_false",
+      "question": "Quoting the text supports your answer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Evidence."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq03",
+      "type": "fill_blank",
+      "question": "Finding information in a text is ___.",
+      "answer": "retrieval",
+      "explanation": "Retrieve facts."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq04",
+      "type": "short_answer",
+      "question": "Why use evidence from the text?",
+      "answer": "It proves your answer is based on the text.",
+      "explanation": "Justification."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "01-reading"
+  },
+  "questions": [
+    {
+      "id": "g4-eng-unit-01-reading-01-summarise-lq01",
+      "type": "mcq",
+      "question": "A summary is:",
+      "options": [
+        "the whole text",
+        "the main points briefly",
+        "one word",
+        "the title"
+      ],
+      "answer": "the main points briefly",
+      "explanation": "Concise."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-summarise-lq02",
+      "type": "true_false",
+      "question": "Summaries leave out minor detail.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Key points only."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-summarise-lq03",
+      "type": "fill_blank",
+      "question": "Stating main points briefly is ___.",
+      "answer": "summarising",
+      "explanation": "Summary."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-01-summarise-lq04",
+      "type": "short_answer",
+      "question": "Summarise a story you know in one sentence.",
+      "answer": "e.g., 'A girl helps a lost dog find home.'",
+      "explanation": "One-sentence summary."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-fact-opinion-lq01",
+      "type": "mcq",
+      "question": "Which is a fact?",
+      "options": [
+        "Water boils at 100°C",
+        "Maths is fun",
+        "Blue is best",
+        "Cats are cute"
+      ],
+      "answer": "Water boils at 100°C",
+      "explanation": "Provable."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-fact-opinion-lq02",
+      "type": "true_false",
+      "question": "An opinion expresses a belief.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Not provable."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-fact-opinion-lq03",
+      "type": "fill_blank",
+      "question": "A statement that can be proved is a ___.",
+      "answer": "fact",
+      "explanation": "Fact."
+    },
+    {
+      "id": "g4-eng-unit-01-reading-02-fact-opinion-lq04",
+      "type": "short_answer",
+      "question": "Write one fact and one opinion about rain.",
+      "answer": "Fact: rain is water. Opinion: rain is annoying.",
+      "explanation": "Distinguish."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "ib-dp-g12-psychology",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "psychology",
+  "title": {
+    "ar": "علم النفس",
+    "en": "Psychology"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "mind",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-biological-approach-to-behaviour",
+      "title": {
+        "en": "Biological Approach to Behaviour"
+      },
+      "lessons": [
+        {
+          "slug": "01-biological-approach-to-behaviour",
+          "title": {
+            "en": "Biological Approach to Behaviour"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-cognitive-approach-to-behaviour",
+      "title": {
+        "en": "Cognitive Approach to Behaviour"
+      },
+      "lessons": [
+        {
+          "slug": "01-cognitive-approach-to-behaviour",
+          "title": {
+            "en": "Cognitive Approach to Behaviour"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-sociocultural-approach-to-behaviour",
+      "title": {
+        "en": "Sociocultural Approach to Behaviour"
+      },
+      "lessons": [
+        {
+          "slug": "01-sociocultural-approach-to-behaviour",
+          "title": {
+            "en": "Sociocultural Approach to Behaviour"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-abnormal-psychology",
+      "title": {
+        "en": "Abnormal Psychology"
+      },
+      "lessons": [
+        {
+          "slug": "01-abnormal-psychology",
+          "title": {
+            "en": "Abnormal Psychology"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-research-methodology",
+      "title": {
+        "en": "Research Methodology"
+      },
+      "lessons": [
+        {
+          "slug": "01-research-methodology",
+          "title": {
+            "en": "Research Methodology"
+          }
+        }
+      ]
+    }
+  ]
+}

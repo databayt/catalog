@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "science",
+    "chapter": "01-chemistry",
+    "lesson": "01-reactions"
+  },
+  "exams": [
+    {
+      "id": "g9-sci-unit-01-chemistry-01-reactions-quiz",
+      "title": "Quiz: Chemical Reactions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq01",
+          "type": "mcq",
+          "question": "An acid has a pH that is:",
+          "options": [
+            "above 7",
+            "exactly 7",
+            "below 7",
+            "negative"
+          ],
+          "answer": "below 7",
+          "explanation": "Acids pH < 7."
+        },
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq02",
+          "type": "true_false",
+          "question": "A neutralisation reaction makes a salt and water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Acid + base."
+        },
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq03",
+          "type": "fill_blank",
+          "question": "A substance with pH 7 is ___.",
+          "answer": "neutral",
+          "explanation": "e.g., pure water."
+        },
+        {
+          "id": "g9-sci-unit-01-chemistry-01-reactions-lq04",
+          "type": "short_answer",
+          "question": "What gas is often produced when acid reacts with a metal?",
+          "answer": "Hydrogen.",
+          "explanation": "Acid + metal."
+        }
+      ]
+    }
+  ]
+}

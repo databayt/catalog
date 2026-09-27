@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature",
+    "chapter": "01-tragedy",
+    "lesson": "01-tragic-conventions"
+  },
+  "exams": [
+    {
+      "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-quiz",
+      "title": "Quiz: Tragic Conventions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq01",
+          "type": "mcq",
+          "question": "A 'tragic hero' typically has a fatal:",
+          "options": [
+            "friend",
+            "flaw (hamartia)",
+            "fortune",
+            "castle"
+          ],
+          "answer": "flaw (hamartia)",
+          "explanation": "Hamartia."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq02",
+          "type": "true_false",
+          "question": "Catharsis is the emotional release felt by the audience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Aristotelian term."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq03",
+          "type": "fill_blank",
+          "question": "The downfall of the tragic hero is the tragic ___.",
+          "answer": "fall",
+          "explanation": "Peripeteia/fall."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-01-tragic-conventions-lq04",
+          "type": "short_answer",
+          "question": "Name two conventions of tragedy.",
+          "answer": "e.g., a tragic hero, hamartia, downfall, catharsis (any two).",
+          "explanation": "Tragedy."
+        }
+      ]
+    }
+  ]
+}

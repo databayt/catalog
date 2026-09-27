@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "us-g10-english-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g10-eng-unit-01-world-lit-01-context-lq01",
+          "type": "mcq",
+          "question": "Understanding context helps a reader interpret a text's:",
+          "options": [
+            "font",
+            "meaning and values",
+            "length",
+            "price"
+          ],
+          "answer": "meaning and values",
+          "explanation": "Context aids meaning."
+        },
+        {
+          "id": "g10-eng-unit-01-world-lit-01-context-lq02",
+          "type": "true_false",
+          "question": "A text can reflect the values of its time and place.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Sociohistorical context."
+        },
+        {
+          "id": "g10-eng-unit-02-research-01-sources-lq01",
+          "type": "mcq",
+          "question": "A credible source is usually:",
+          "options": [
+            "anonymous",
+            "authoritative and reliable",
+            "a random blog",
+            "unsourced"
+          ],
+          "answer": "authoritative and reliable",
+          "explanation": "Reliability."
+        },
+        {
+          "id": "g10-eng-unit-02-research-01-sources-lq02",
+          "type": "true_false",
+          "question": "Primary sources are firsthand accounts.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., diaries, data."
+        }
+      ]
+    }
+  ]
+}

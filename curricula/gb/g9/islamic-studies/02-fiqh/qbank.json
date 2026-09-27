@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "02-fiqh"
+  },
+  "questions": [
+    {
+      "id": "g9-isl-unit-02-fiqh-01-taharah-lq01",
+      "type": "mcq",
+      "question": "من شروط صحة الصلاة:",
+      "options": [
+        "الطهارة",
+        "الجوع",
+        "النوم",
+        "اللعب"
+      ],
+      "answer": "الطهارة",
+      "explanation": "شروط الصلاة."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-01-taharah-lq02",
+      "type": "true_false",
+      "question": "الوضوء شرط لصحة الصلاة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الطهارة."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-01-taharah-lq03",
+      "type": "fill_blank",
+      "question": "التيمم يكون عند فقد ___.",
+      "answer": "الماء",
+      "explanation": "رخصة التيمم."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-01-taharah-lq04",
+      "type": "short_answer",
+      "question": "اذكر شرطاً من شروط الصلاة.",
+      "answer": "مثل: الطهارة، استقبال القبلة، دخول الوقت.",
+      "explanation": "الفقه."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-02-sawm-lq01",
+      "type": "mcq",
+      "question": "الصيام ركن يكون في شهر:",
+      "options": [
+        "رمضان",
+        "رجب",
+        "شعبان",
+        "محرم"
+      ],
+      "answer": "رمضان",
+      "explanation": "الصوم."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-02-sawm-lq02",
+      "type": "true_false",
+      "question": "الصيام الامتناع عن المفطرات من الفجر إلى المغرب.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف الصوم."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-02-sawm-lq03",
+      "type": "fill_blank",
+      "question": "من فوائد الصيام تقوى الله والشعور بـ___.",
+      "answer": "الفقراء",
+      "explanation": "حكمة الصوم."
+    },
+    {
+      "id": "g9-isl-unit-02-fiqh-02-sawm-lq04",
+      "type": "short_answer",
+      "question": "ما الحكمة من الصيام؟",
+      "answer": "تقوى الله وتهذيب النفس والشعور بالفقراء.",
+      "explanation": "الصوم."
+    }
+  ]
+}

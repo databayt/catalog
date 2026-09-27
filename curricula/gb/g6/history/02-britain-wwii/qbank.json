@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "history",
+    "chapter": "02-britain-wwii"
+  },
+  "questions": [
+    {
+      "id": "g6-his-unit-02-britain-wwii-01-home-front-lq01",
+      "type": "mcq",
+      "question": "During WWII, children were moved from cities for safety in the:",
+      "options": [
+        "evacuation",
+        "invasion",
+        "coronation",
+        "exhibition"
+      ],
+      "answer": "evacuation",
+      "explanation": "Evacuees."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-01-home-front-lq02",
+      "type": "true_false",
+      "question": "Rationing limited the food people could buy during WWII.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Rationing."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-01-home-front-lq03",
+      "type": "fill_blank",
+      "question": "People sheltered from air raids in Anderson ___.",
+      "answer": "shelters",
+      "explanation": "Bomb shelters."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-01-home-front-lq04",
+      "type": "short_answer",
+      "question": "Why were children evacuated during WWII?",
+      "answer": "To protect them from bombing in the cities.",
+      "explanation": "Evacuation reason."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-02-sources-lq01",
+      "type": "mcq",
+      "question": "A wartime poster is an example of a:",
+      "options": [
+        "primary source",
+        "modern textbook",
+        "novel",
+        "map app"
+      ],
+      "answer": "primary source",
+      "explanation": "From the time."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-02-sources-lq02",
+      "type": "true_false",
+      "question": "Propaganda posters aimed to influence people.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Persuasion."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-02-sources-lq03",
+      "type": "fill_blank",
+      "question": "A source made at the time of an event is a ___ source.",
+      "answer": "primary",
+      "explanation": "Primary source."
+    },
+    {
+      "id": "g6-his-unit-02-britain-wwii-02-sources-lq04",
+      "type": "short_answer",
+      "question": "Why must historians question sources?",
+      "answer": "Sources can be biased or incomplete, so they must be evaluated.",
+      "explanation": "Source evaluation."
+    }
+  ]
+}

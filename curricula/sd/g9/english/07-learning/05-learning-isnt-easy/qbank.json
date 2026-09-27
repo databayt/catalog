@@ -1,0 +1,87 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "07-learning",
+    "lesson": "05-learning-isnt-easy"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq01",
+      "type": "mcq",
+      "question": "What does the word 'beneficial' mean?",
+      "options": [
+        "helpful",
+        "harmful",
+        "boring",
+        "difficult"
+      ],
+      "answer": "helpful",
+      "explanation": "'Beneficial' means producing good results or advantages."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq02",
+      "type": "true_false",
+      "question": "The word 'enormous' means very large.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'Enormous' means very large in size or amount."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq03",
+      "type": "fill_blank",
+      "question": "A synonym for 'happy' is ___.",
+      "answer": "joyful/glad/pleased",
+      "explanation": "Happy, joyful, glad are synonyms meaning feeling pleasure."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq04",
+      "type": "short_answer",
+      "question": "Use the word 'determine' in a sentence.",
+      "answer": "I will determine the best solution after careful study.",
+      "explanation": "'Determine' means to decide or establish with authority."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq01-2",
+      "type": "mcq",
+      "question": "What does the word 'beneficial' mean?",
+      "options": [
+        "helpful",
+        "harmful",
+        "boring",
+        "difficult"
+      ],
+      "answer": "helpful",
+      "explanation": "'Beneficial' means producing good results or advantages."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq02-2",
+      "type": "true_false",
+      "question": "The word 'enormous' means very large.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'Enormous' means very large in size or amount."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq03-2",
+      "type": "fill_blank",
+      "question": "A synonym for 'happy' is ___.",
+      "answer": "joyful/glad/pleased",
+      "explanation": "Happy, joyful, glad are synonyms meaning feeling pleasure."
+    },
+    {
+      "id": "g9-eng-unit-07-05-learning-isnt-easy-lq04-2",
+      "type": "short_answer",
+      "question": "Use the word 'determine' in a sentence.",
+      "answer": "I will determine the best solution after careful study.",
+      "explanation": "'Determine' means to decide or establish with authority."
+    }
+  ]
+}

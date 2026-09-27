@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "01-quran",
+    "lesson": "01-short-surahs"
+  },
+  "questions": [
+    {
+      "id": "g5-isl-unit-01-quran-01-short-surahs-lq01",
+      "type": "mcq",
+      "question": "سورة الإخلاص تتحدث عن:",
+      "options": [
+        "توحيد الله",
+        "قصة نبي",
+        "معركة",
+        "الطعام"
+      ],
+      "answer": "توحيد الله",
+      "explanation": "التوحيد."
+    },
+    {
+      "id": "g5-isl-unit-01-quran-01-short-surahs-lq02",
+      "type": "true_false",
+      "question": "سورة الفاتحة تُقرأ في كل صلاة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "أم الكتاب."
+    },
+    {
+      "id": "g5-isl-unit-01-quran-01-short-surahs-lq03",
+      "type": "fill_blank",
+      "question": "أول سورة في القرآن هي سورة ___.",
+      "answer": "الفاتحة",
+      "explanation": "الفاتحة."
+    },
+    {
+      "id": "g5-isl-unit-01-quran-01-short-surahs-lq04",
+      "type": "short_answer",
+      "question": "اذكر اسم سورة قصيرة حفظتها.",
+      "answer": "مثل: الإخلاص، الفلق، الناس.",
+      "explanation": "قصار السور."
+    }
+  ]
+}

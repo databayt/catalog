@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "01-place-value-100",
+    "lesson": "01-tens-ones"
+  },
+  "questions": [
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq01",
+      "type": "mcq",
+      "question": "In 47, the 4 means:",
+      "options": [
+        "4 ones",
+        "4 tens",
+        "4 hundreds",
+        "40 tens"
+      ],
+      "answer": "4 tens",
+      "explanation": "40."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq02",
+      "type": "true_false",
+      "question": "63 = 60 + 3.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tens and ones."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq03",
+      "type": "fill_blank",
+      "question": "7 tens and 5 ones = ___.",
+      "answer": "75",
+      "explanation": "70 + 5."
+    },
+    {
+      "id": "g2-mat-unit-01-place-value-100-01-tens-ones-lq04",
+      "type": "short_answer",
+      "question": "Write 90 as tens.",
+      "answer": "9 tens",
+      "explanation": "90 = 9 tens."
+    }
+  ]
+}

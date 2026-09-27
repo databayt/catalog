@@ -1,0 +1,270 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g11-arabic-grammar",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "arabic-grammar",
+  "title": {
+    "ar": "قواعد النحو",
+    "en": "Arabic Grammar"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "قواعد اللغة العربية للصف الثاني الثانوي — المركز القومي للمناهج والبحث التربوي (بخت الرضا) — طبعة غير مؤرخة (ملف PDF ٢٠١٠م)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-part-1-the-verbal-sentence-and-accusative-nouns",
+      "title": {
+        "ar": "الباب الأول: الجملة الفعلية ومنصوبات الأسماء",
+        "en": "Part 1: The Verbal Sentence and Accusative Nouns"
+      },
+      "concept": "language",
+      "image": "clickview/high-sentences-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-verbal-sentence",
+          "title": {
+            "ar": "الجملة الفعلية",
+            "en": "The Verbal Sentence"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-accusative-nouns",
+          "title": {
+            "ar": "منصوبات الأسماء",
+            "en": "Accusative Nouns"
+          },
+          "page": 6
+        }
+      ]
+    },
+    {
+      "slug": "02-part-2-some-grammatical-styles",
+      "title": {
+        "ar": "الباب الثاني: بعض الأساليب النحوية",
+        "en": "Part 2: Some Grammatical Styles"
+      },
+      "concept": "language",
+      "image": "clickview/high-writing-structures-and-conventions-cover.jpg",
+      "page": 9,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-style-of-specification",
+          "title": {
+            "ar": "أسلوب الاختصاص",
+            "en": "The Style of Specification"
+          },
+          "page": 9
+        },
+        {
+          "slug": "02-the-styles-of-incitement-and-warning",
+          "title": {
+            "ar": "أسلوب الإغراء والتحذير",
+            "en": "The Styles of Incitement and Warning"
+          },
+          "page": 17
+        }
+      ]
+    },
+    {
+      "slug": "03-part-3-vowel-mutation-and-substitution",
+      "title": {
+        "ar": "الباب الثالث: الإعلال والإبدال",
+        "en": "Part 3: Vowel Mutation and Substitution"
+      },
+      "concept": "language",
+      "image": "clickview/high-spelling-rules-cover.jpg",
+      "page": 28,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-vowel-mutation-and-substitution",
+          "title": {
+            "ar": "الإعلال والإبدال",
+            "en": "Vowel Mutation and Substitution"
+          },
+          "page": 28
+        }
+      ]
+    },
+    {
+      "slug": "04-part-4-verbs",
+      "title": {
+        "ar": "الباب الرابع: الأفعال",
+        "en": "Part 4: Verbs"
+      },
+      "concept": "language",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 46,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sound-and-weak-verbs",
+          "title": {
+            "ar": "تقسيم الفعل إلى صحيح ومعتل",
+            "en": "Sound and Weak Verbs"
+          },
+          "page": 46
+        },
+        {
+          "slug": "02-patterns-of-the-bare-triliteral-verb",
+          "title": {
+            "ar": "أبواب الفعل الثلاثي المجرد",
+            "en": "Patterns of the Bare Triliteral Verb"
+          },
+          "page": 55
+        },
+        {
+          "slug": "03-rules-of-the-weak-verb",
+          "title": {
+            "ar": "أحكام الفعل المعتل",
+            "en": "Rules of the Weak Verb"
+          },
+          "page": 64
+        }
+      ]
+    },
+    {
+      "slug": "05-part-5-verbal-nouns",
+      "title": {
+        "ar": "الباب الخامس: المصادر",
+        "en": "Part 5: Verbal Nouns"
+      },
+      "concept": "language",
+      "image": "clickview/high-punctuation-cover.jpg",
+      "page": 80,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-verbal-nouns-of-triliteral-verbs",
+          "title": {
+            "ar": "مصادر الأفعال الثلاثية",
+            "en": "Verbal Nouns of Triliteral Verbs"
+          },
+          "page": 80
+        },
+        {
+          "slug": "02-verbal-nouns-of-quadriliteral-verbs",
+          "title": {
+            "ar": "مصادر الأفعال الرباعية",
+            "en": "Verbal Nouns of Quadriliteral Verbs"
+          },
+          "page": 87
+        },
+        {
+          "slug": "03-verbal-nouns-of-five-letter-verbs",
+          "title": {
+            "ar": "مصادر الأفعال الخماسية",
+            "en": "Verbal Nouns of Five-Letter Verbs"
+          },
+          "page": 91
+        },
+        {
+          "slug": "04-verbal-nouns-of-six-letter-verbs",
+          "title": {
+            "ar": "مصادر السداسي",
+            "en": "Verbal Nouns of Six-Letter Verbs"
+          },
+          "page": 92
+        },
+        {
+          "slug": "05-the-mim-prefixed-verbal-noun",
+          "title": {
+            "ar": "المصدر الميمي",
+            "en": "The Mim-Prefixed Verbal Noun"
+          },
+          "page": 95
+        },
+        {
+          "slug": "06-the-artificial-verbal-noun",
+          "title": {
+            "ar": "المصدر الصناعي",
+            "en": "The Artificial Verbal Noun"
+          },
+          "page": 98
+        },
+        {
+          "slug": "07-nouns-of-instance-and-manner",
+          "title": {
+            "ar": "اسم المرة واسم الهيئة",
+            "en": "Nouns of Instance and Manner"
+          },
+          "page": 99
+        },
+        {
+          "slug": "08-the-interpreted-verbal-noun",
+          "title": {
+            "ar": "المصدر المؤول",
+            "en": "The Interpreted Verbal Noun"
+          },
+          "page": 103
+        },
+        {
+          "slug": "09-the-verbal-noun-acting-as-a-verb",
+          "title": {
+            "ar": "إعمال المصدر",
+            "en": "The Verbal Noun Acting as a Verb"
+          },
+          "page": 111
+        }
+      ]
+    },
+    {
+      "slug": "06-part-6-the-diminutive",
+      "title": {
+        "ar": "الباب السادس: التصغير",
+        "en": "Part 6: The Diminutive"
+      },
+      "concept": "language",
+      "image": "clickview/high-spelling-rules-cover.jpg",
+      "page": 115,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-diminutive-definition-purposes-and-forms",
+          "title": {
+            "ar": "التصغير: تعريفه وأغراضه وصيغه",
+            "en": "The Diminutive: Definition, Purposes and Forms"
+          },
+          "page": 115
+        },
+        {
+          "slug": "02-how-to-form-the-diminutive",
+          "title": {
+            "ar": "كيفية التصغير",
+            "en": "How to Form the Diminutive"
+          },
+          "page": 118
+        },
+        {
+          "slug": "03-diminutives-of-words-with-a-weak-second-or",
+          "title": {
+            "ar": "تصغير ما ثانيه حرف علة وما ثالثه حرف علة",
+            "en": "Diminutives of Words with a Weak Second or Third Letter"
+          },
+          "page": 121
+        }
+      ]
+    }
+  ]
+}

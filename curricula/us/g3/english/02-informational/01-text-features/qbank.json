@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "02-informational",
+    "lesson": "01-text-features"
+  },
+  "questions": [
+    {
+      "id": "g3-eng-unit-02-informational-01-text-features-lq01",
+      "type": "mcq",
+      "question": "A heading helps you:",
+      "options": [
+        "color the page",
+        "know the section topic",
+        "end the book",
+        "find the author"
+      ],
+      "answer": "know the section topic",
+      "explanation": "Headings label sections."
+    },
+    {
+      "id": "g3-eng-unit-02-informational-01-text-features-lq02",
+      "type": "true_false",
+      "question": "A caption explains a picture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Caption = picture text."
+    },
+    {
+      "id": "g3-eng-unit-02-informational-01-text-features-lq03",
+      "type": "fill_blank",
+      "question": "A list of topics with page numbers is the table of ___.",
+      "answer": "contents",
+      "explanation": "Table of contents."
+    },
+    {
+      "id": "g3-eng-unit-02-informational-01-text-features-lq04",
+      "type": "short_answer",
+      "question": "Why are text features useful?",
+      "answer": "They help readers find and understand information.",
+      "explanation": "Navigation/comprehension."
+    }
+  ]
+}

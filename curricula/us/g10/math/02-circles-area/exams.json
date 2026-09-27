@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "02-circles-area"
+  },
+  "exams": [
+    {
+      "id": "g10-mat-unit-02-circles-area-exam",
+      "title": "Exam: Circles, Area & Volume",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq01",
+          "type": "mcq",
+          "question": "The circumference of a circle is:",
+          "options": [
+            "πr²",
+            "2πr",
+            "πd²",
+            "r/2"
+          ],
+          "answer": "2πr",
+          "explanation": "C = 2πr (= πd)."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq02",
+          "type": "true_false",
+          "question": "All radii of a circle are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Constant radius."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq03",
+          "type": "fill_blank",
+          "question": "The area of a circle is π times the radius ___.",
+          "answer": "squared",
+          "explanation": "A = πr²."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq04",
+          "type": "short_answer",
+          "question": "How are diameter and radius related?",
+          "answer": "Diameter = 2 × radius.",
+          "explanation": "Circle parts."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-02-volume-lq01",
+          "type": "mcq",
+          "question": "Volume of a cube with side 3 is:",
+          "options": [
+            "9",
+            "27",
+            "18",
+            "12"
+          ],
+          "answer": "27",
+          "explanation": "3³."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-02-volume-lq02",
+          "type": "true_false",
+          "question": "Volume is measured in cubic units.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., cm³."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-02-volume-lq03",
+          "type": "fill_blank",
+          "question": "Volume of a rectangular prism = length × width × ___.",
+          "answer": "height",
+          "explanation": "V = lwh."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-02-volume-lq04",
+          "type": "short_answer",
+          "question": "Why is surface area measured in square units?",
+          "answer": "It measures the total area of a 3D shape's faces.",
+          "explanation": "Surface area."
+        }
+      ]
+    }
+  ]
+}

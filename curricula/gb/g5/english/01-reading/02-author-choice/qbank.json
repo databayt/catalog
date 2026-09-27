@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "02-author-choice"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq01",
+      "type": "mcq",
+      "question": "Writers choose words to:",
+      "options": [
+        "fill space",
+        "create effect/mood",
+        "confuse",
+        "rhyme always"
+      ],
+      "answer": "create effect/mood",
+      "explanation": "Deliberate choice."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq02",
+      "type": "true_false",
+      "question": "Powerful verbs can make writing vivid.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Word choice."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq03",
+      "type": "fill_blank",
+      "question": "A comparison using 'like/as' is a ___.",
+      "answer": "simile",
+      "explanation": "Figurative language."
+    },
+    {
+      "id": "g5-eng-unit-01-reading-02-author-choice-lq04",
+      "type": "short_answer",
+      "question": "Why might an author pick 'crept' over 'walked'?",
+      "answer": "To suggest quiet, careful or sneaky movement.",
+      "explanation": "Connotation."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "computer-science"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-computer-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-com-unit-01-algorithms-01-algorithms-lq01",
+          "type": "mcq",
+          "question": "An algorithm is a set of step-by-step:",
+          "options": [
+            "instructions",
+            "colours",
+            "sounds",
+            "prices"
+          ],
+          "answer": "instructions",
+          "explanation": "Algorithm."
+        },
+        {
+          "id": "g4-com-unit-01-algorithms-01-algorithms-lq02",
+          "type": "true_false",
+          "question": "Computers follow instructions in order.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Sequence."
+        },
+        {
+          "id": "g4-com-unit-02-online-safety-01-safety-lq01",
+          "type": "mcq",
+          "question": "If something online makes you uncomfortable, you should:",
+          "options": [
+            "tell a trusted adult",
+            "keep it secret",
+            "reply angrily",
+            "share more"
+          ],
+          "answer": "tell a trusted adult",
+          "explanation": "Online safety."
+        },
+        {
+          "id": "g4-com-unit-02-online-safety-01-safety-lq02",
+          "type": "true_false",
+          "question": "You should keep personal information private online.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Privacy."
+        }
+      ]
+    }
+  ]
+}

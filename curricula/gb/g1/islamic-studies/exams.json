@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "gb-g1-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإسلام؟",
+          "options": [
+            "ثلاثة",
+            "أربعة",
+            "خمسة",
+            "ستة"
+          ],
+          "answer": "خمسة",
+          "explanation": "أركان الإسلام خمسة."
+        },
+        {
+          "id": "g1-isl-unit-01-pillars-islam-01-shahada-lq02",
+          "type": "true_false",
+          "question": "الركن الأول من أركان الإسلام هو الشهادتان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "أول الأركان."
+        },
+        {
+          "id": "g1-isl-unit-02-manners-01-adab-lq01",
+          "type": "mcq",
+          "question": "ماذا نقول عند بدء الطعام؟",
+          "options": [
+            "بسم الله",
+            "لا شيء",
+            "شكراً فقط",
+            "مع السلامة"
+          ],
+          "answer": "بسم الله",
+          "explanation": "التسمية."
+        },
+        {
+          "id": "g1-isl-unit-02-manners-01-adab-lq02",
+          "type": "true_false",
+          "question": "نقول (السلام عليكم) عند اللقاء.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "آداب السلام."
+        }
+      ]
+    }
+  ]
+}

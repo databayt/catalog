@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "03-measurement-time-money",
+    "lesson": "02-time-money"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-03-measurement-time-money-02-time-money-quiz",
+      "title": "Quiz: Telling Time & Counting Money",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-02-time-money-lq01",
+          "type": "mcq",
+          "question": "How many minutes are in one hour?",
+          "options": [
+            "30",
+            "45",
+            "60",
+            "100"
+          ],
+          "answer": "60",
+          "explanation": "1 hour = 60 minutes."
+        },
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-02-time-money-lq02",
+          "type": "true_false",
+          "question": "A quarter is worth 25 cents.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "25¢ = one quarter."
+        },
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-02-time-money-lq03",
+          "type": "fill_blank",
+          "question": "Two quarters equal ___ cents.",
+          "answer": "50",
+          "explanation": "25 + 25 = 50."
+        },
+        {
+          "id": "g2-mat-unit-03-measurement-time-money-02-time-money-lq04",
+          "type": "short_answer",
+          "question": "What time is 15 minutes after 3:00?",
+          "answer": "3:15",
+          "explanation": "Add 15 minutes."
+        }
+      ]
+    }
+  ]
+}

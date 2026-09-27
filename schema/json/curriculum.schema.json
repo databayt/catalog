@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "id": {
+      "type": "string",
+      "maxLength": 64,
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "ar": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "lang": {
+      "type": "string",
+      "enum": [
+        "ar",
+        "en",
+        "fr"
+      ]
+    },
+    "structure": {
+      "type": "string"
+    },
+    "reformYear": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
+    "reference": {
+      "type": "string",
+      "format": "uri"
+    },
+    "operator": {
+      "type": "string"
+    },
+    "accreditation": {
+      "type": "string"
+    },
+    "basis": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "stages": {
+      "minItems": 1,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "maxLength": 64,
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "title": {
+            "type": "object",
+            "properties": {
+              "ar": {
+                "type": "string",
+                "minLength": 1
+              },
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "fr": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          "grades": {
+            "minItems": 1,
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(kg[1-2]|g([1-9]|1[0-2]))$"
+            }
+          },
+          "localNames": {
+            "type": "object",
+            "propertyNames": {
+              "type": "string",
+              "pattern": "^(kg[1-2]|g([1-9]|1[0-2]))$"
+            },
+            "additionalProperties": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "grades"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "grades": {
+      "type": "object",
+      "propertyNames": {
+        "type": "string",
+        "pattern": "^(kg[1-2]|g([1-9]|1[0-2]))$"
+      },
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "maxLength": 64,
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        }
+      }
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "lang",
+    "stages",
+    "grades"
+  ],
+  "additionalProperties": false,
+  "$id": "https://cdn.databayt.org/catalog/schema/curriculum.schema.json",
+  "title": "curriculum"
+}

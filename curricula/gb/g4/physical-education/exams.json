@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "physical-education"
+  },
+  "exams": [
+    {
+      "id": "gb-g4-physical-education-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g4-phy-unit-01-movement-01-locomotor-lq01",
+          "type": "mcq",
+          "question": "Which is a locomotor (travelling) skill?",
+          "options": [
+            "running",
+            "standing still",
+            "sitting",
+            "sleeping"
+          ],
+          "answer": "running",
+          "explanation": "Movement skill."
+        },
+        {
+          "id": "g4-phy-unit-01-movement-01-locomotor-lq02",
+          "type": "true_false",
+          "question": "Warming up prepares the body for exercise.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Warm-up."
+        },
+        {
+          "id": "g4-phy-unit-02-health-01-fitness-lq01",
+          "type": "mcq",
+          "question": "Regular exercise keeps the body:",
+          "options": [
+            "healthy",
+            "tired forever",
+            "unwell",
+            "still"
+          ],
+          "answer": "healthy",
+          "explanation": "Health benefits."
+        },
+        {
+          "id": "g4-phy-unit-02-health-01-fitness-lq02",
+          "type": "true_false",
+          "question": "Exercise makes the heart stronger.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cardio benefit."
+        }
+      ]
+    }
+  ]
+}

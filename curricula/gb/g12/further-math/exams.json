@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "further-math"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-further-math-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-fur-unit-01-core-pure-01-complex-lq01",
+          "type": "mcq",
+          "question": "The imaginary unit i is defined by i² =",
+          "options": [
+            "1",
+            "-1",
+            "0",
+            "2"
+          ],
+          "answer": "-1",
+          "explanation": "Definition of i."
+        },
+        {
+          "id": "g12-fur-unit-01-core-pure-01-complex-lq02",
+          "type": "true_false",
+          "question": "A complex number has a real and an imaginary part.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "a + bi."
+        },
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq01",
+          "type": "mcq",
+          "question": "Proof by induction proves a statement for all:",
+          "options": [
+            "positive integers",
+            "colours",
+            "letters",
+            "shapes"
+          ],
+          "answer": "positive integers",
+          "explanation": "Induction."
+        },
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq02",
+          "type": "true_false",
+          "question": "Induction has a base case and an inductive step.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structure."
+        }
+      ]
+    }
+  ]
+}

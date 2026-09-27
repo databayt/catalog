@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "03-writing"
+  },
+  "questions": [
+    {
+      "id": "g3-eng-unit-03-writing-01-opinion-lq01",
+      "type": "mcq",
+      "question": "Opinion writing states what you:",
+      "options": [
+        "measured",
+        "think/believe",
+        "copied",
+        "ate"
+      ],
+      "answer": "think/believe",
+      "explanation": "Opinion = belief with reasons."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-01-opinion-lq02",
+      "type": "true_false",
+      "question": "Opinions should be supported with reasons.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Reasons strengthen opinions."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-01-opinion-lq03",
+      "type": "fill_blank",
+      "question": "Words like 'because' introduce a ___.",
+      "answer": "reason",
+      "explanation": "Reason/justification."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-01-opinion-lq04",
+      "type": "short_answer",
+      "question": "Write an opinion with one reason.",
+      "answer": "e.g., 'Recess is best because we can play.'",
+      "explanation": "Opinion + reason."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-02-parts-of-speech-lq01",
+      "type": "mcq",
+      "question": "An adjective describes a:",
+      "options": [
+        "verb",
+        "noun",
+        "sentence",
+        "page"
+      ],
+      "answer": "noun",
+      "explanation": "Adjectives modify nouns."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-02-parts-of-speech-lq02",
+      "type": "true_false",
+      "question": "An adverb can describe a verb.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., 'runs quickly'."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-02-parts-of-speech-lq03",
+      "type": "fill_blank",
+      "question": "In 'red ball', the adjective is ___.",
+      "answer": "red",
+      "explanation": "Describes 'ball'."
+    },
+    {
+      "id": "g3-eng-unit-03-writing-02-parts-of-speech-lq04",
+      "type": "short_answer",
+      "question": "Give an adjective and the noun it describes.",
+      "answer": "e.g., 'tall' tree.",
+      "explanation": "Adjective + noun."
+    }
+  ]
+}

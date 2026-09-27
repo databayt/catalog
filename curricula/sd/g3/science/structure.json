@@ -1,0 +1,255 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "sd-g3-science",
+  "curriculum": "sd",
+  "grade": "g3",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم",
+    "en": "Science"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "science",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم — الصف الثالث — المنهج الجديد (سلسلة 2020) — نسخة الوزارة (59 صفحة)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04",
+    "supersedes": "_old/2026-09-04-old-scan"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-world-of-living-things",
+      "title": {
+        "ar": "عالم الأحياء",
+        "en": "The World of Living Things"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-living-and-non-living-things-cover.jpg",
+      "page": 6,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-organisms",
+          "title": {
+            "ar": "الكائنات",
+            "en": "Organisms"
+          },
+          "page": 8
+        },
+        {
+          "slug": "02-characteristics-of-living-things",
+          "title": {
+            "ar": "خصائص الكائنات الحية",
+            "en": "Characteristics of Living Things"
+          },
+          "page": 11
+        },
+        {
+          "slug": "03-needs-of-living-things",
+          "title": {
+            "ar": "حاجات الكائنات الحية",
+            "en": "Needs of Living Things"
+          },
+          "page": 14
+        },
+        {
+          "slug": "04-habitats-of-living-things",
+          "title": {
+            "ar": "مواطن الكائنات الحية",
+            "en": "Habitats of Living Things"
+          },
+          "page": 17,
+          "image": "clickview/elementary-habitats-cover.jpg"
+        },
+        {
+          "slug": "05-the-human-body",
+          "title": {
+            "ar": "جسم الإنسان",
+            "en": "The Human Body"
+          },
+          "page": 20,
+          "image": "clickview/elementary-body-systems-cover.jpg"
+        },
+        {
+          "slug": "06-the-sense-organs",
+          "title": {
+            "ar": "أعضاء الحس",
+            "en": "The Sense Organs"
+          },
+          "page": 21,
+          "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
+        },
+        {
+          "slug": "07-the-sense-of-sight",
+          "title": {
+            "ar": "حاسة البصر",
+            "en": "The Sense of Sight"
+          },
+          "page": 23,
+          "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
+        },
+        {
+          "slug": "08-the-sense-of-smell",
+          "title": {
+            "ar": "حاسة الشم",
+            "en": "The Sense of Smell"
+          },
+          "page": 24,
+          "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
+        },
+        {
+          "slug": "09-the-sense-of-taste",
+          "title": {
+            "ar": "حاسة الذوق",
+            "en": "The Sense of Taste"
+          },
+          "page": 25,
+          "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
+        },
+        {
+          "slug": "10-the-sense-of-touch",
+          "title": {
+            "ar": "حاسة اللمس",
+            "en": "The Sense of Touch"
+          },
+          "page": 26,
+          "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
+        },
+        {
+          "slug": "11-plants",
+          "title": {
+            "ar": "النباتات",
+            "en": "Plants"
+          },
+          "page": 28,
+          "image": "clickview/elementary-plants-cover.jpg"
+        },
+        {
+          "slug": "12-animals",
+          "title": {
+            "ar": "الحيوانات",
+            "en": "Animals"
+          },
+          "page": 30,
+          "image": "clickview/elementary-animals-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-materials",
+      "title": {
+        "ar": "المواد",
+        "en": "Materials"
+      },
+      "concept": "science",
+      "image": "clickview/elementary-matter-cover.jpg",
+      "page": 34,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-matter",
+          "title": {
+            "ar": "المادة",
+            "en": "Matter"
+          },
+          "page": 35
+        },
+        {
+          "slug": "02-properties-of-materials",
+          "title": {
+            "ar": "خواص المواد",
+            "en": "Properties of Materials"
+          },
+          "page": 37
+        },
+        {
+          "slug": "03-classifying-materials",
+          "title": {
+            "ar": "تصنيف المواد",
+            "en": "Classifying Materials"
+          },
+          "page": 39,
+          "image": "clickview/elementary-classification-cover.jpg"
+        },
+        {
+          "slug": "04-using-materials",
+          "title": {
+            "ar": "استخدام المواد",
+            "en": "Using Materials"
+          },
+          "page": 41,
+          "image": "clickview/elementary-materials-in-design-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-energy",
+      "title": {
+        "ar": "الطاقة",
+        "en": "Energy"
+      },
+      "concept": "physics",
+      "image": "clickview/elementary-energy-cover.jpg",
+      "page": 44,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-light-energy",
+          "title": {
+            "ar": "الطاقة الضوئية",
+            "en": "Light Energy"
+          },
+          "page": 48,
+          "image": "clickview/elementary-light-cover.jpg"
+        },
+        {
+          "slug": "02-shadows",
+          "title": {
+            "ar": "الظل",
+            "en": "Shadows"
+          },
+          "page": 49,
+          "image": "clickview/elementary-light-cover.jpg"
+        },
+        {
+          "slug": "03-electrical-energy",
+          "title": {
+            "ar": "الطاقة الكهربية",
+            "en": "Electrical Energy"
+          },
+          "page": 52,
+          "image": "clickview/elementary-electricity-cover.jpg"
+        },
+        {
+          "slug": "04-sources-of-electricity",
+          "title": {
+            "ar": "مصادر الكهرباء",
+            "en": "Sources of Electricity"
+          },
+          "page": 53,
+          "image": "clickview/elementary-electricity-cover.jpg"
+        },
+        {
+          "slug": "05-the-electric-circuit",
+          "title": {
+            "ar": "الدائرة الكهربية",
+            "en": "The Electric Circuit"
+          },
+          "page": 56,
+          "image": "clickview/elementary-electricity-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

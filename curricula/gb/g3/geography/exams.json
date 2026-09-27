@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g3-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq01",
+          "type": "mcq",
+          "question": "On a compass, which direction is at the top by convention?",
+          "options": [
+            "South",
+            "North",
+            "East",
+            "West"
+          ],
+          "answer": "North",
+          "explanation": "Maps oriented north."
+        },
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq02",
+          "type": "true_false",
+          "question": "A map key explains the symbols on a map.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Legend/key."
+        },
+        {
+          "id": "g3-geo-unit-02-rivers-01-rivers-lq01",
+          "type": "mcq",
+          "question": "The start of a river is called its:",
+          "options": [
+            "mouth",
+            "source",
+            "bank",
+            "bed"
+          ],
+          "answer": "source",
+          "explanation": "River source."
+        },
+        {
+          "id": "g3-geo-unit-02-rivers-01-rivers-lq02",
+          "type": "true_false",
+          "question": "A river flows from high ground to the sea.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Downhill flow."
+        }
+      ]
+    }
+  ]
+}

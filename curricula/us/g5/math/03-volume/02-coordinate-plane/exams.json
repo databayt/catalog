@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "03-volume",
+    "lesson": "02-coordinate-plane"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-03-volume-02-coordinate-plane-quiz",
+      "title": "Quiz: The Coordinate Plane",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-mat-unit-03-volume-02-coordinate-plane-lq01",
+          "type": "mcq",
+          "question": "In (3, 5), the 3 is the:",
+          "options": [
+            "y-coordinate",
+            "x-coordinate",
+            "origin",
+            "slope"
+          ],
+          "answer": "x-coordinate",
+          "explanation": "First number is x (across)."
+        },
+        {
+          "id": "g5-mat-unit-03-volume-02-coordinate-plane-lq02",
+          "type": "true_false",
+          "question": "The origin is the point (0, 0).",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Where the axes meet."
+        },
+        {
+          "id": "g5-mat-unit-03-volume-02-coordinate-plane-lq03",
+          "type": "fill_blank",
+          "question": "To plot (0,4) you move up ___ from the origin.",
+          "answer": "4",
+          "explanation": "y = 4, x = 0."
+        },
+        {
+          "id": "g5-mat-unit-03-volume-02-coordinate-plane-lq04",
+          "type": "short_answer",
+          "question": "How do you plot the point (2, 3)?",
+          "answer": "Move 2 right along x, then 3 up along y.",
+          "explanation": "Ordered pair."
+        }
+      ]
+    }
+  ]
+}

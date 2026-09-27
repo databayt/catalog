@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "01-inference"
+  },
+  "exams": [
+    {
+      "id": "g7-eng-unit-01-reading-01-inference-quiz",
+      "title": "Quiz: Making Inferences",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq01",
+          "type": "mcq",
+          "question": "An inference combines text clues with:",
+          "options": [
+            "random guesses",
+            "prior knowledge",
+            "the title only",
+            "page count"
+          ],
+          "answer": "prior knowledge",
+          "explanation": "Clues + knowledge."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq02",
+          "type": "true_false",
+          "question": "Authors can imply ideas without stating them.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Implicit meaning."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq03",
+          "type": "fill_blank",
+          "question": "Drawing a conclusion from clues is making an ___.",
+          "answer": "inference",
+          "explanation": "Inferring."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-01-inference-lq04",
+          "type": "short_answer",
+          "question": "How do you support an inference?",
+          "answer": "Cite specific text evidence.",
+          "explanation": "Evidence-based."
+        }
+      ]
+    }
+  ]
+}

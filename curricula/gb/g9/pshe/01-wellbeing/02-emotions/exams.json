@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "pshe",
+    "chapter": "01-wellbeing",
+    "lesson": "02-emotions"
+  },
+  "exams": [
+    {
+      "id": "g9-psh-unit-01-wellbeing-02-emotions-quiz",
+      "title": "Quiz: Emotions & Mental Health",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-psh-unit-01-wellbeing-02-emotions-lq01",
+          "type": "mcq",
+          "question": "If you feel worried, a good step is to:",
+          "options": [
+            "talk to someone you trust",
+            "keep it hidden",
+            "ignore it forever",
+            "blame others"
+          ],
+          "answer": "talk to someone you trust",
+          "explanation": "Mental health."
+        },
+        {
+          "id": "g9-psh-unit-01-wellbeing-02-emotions-lq02",
+          "type": "true_false",
+          "question": "It is normal to feel a range of emotions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Emotions."
+        },
+        {
+          "id": "g9-psh-unit-01-wellbeing-02-emotions-lq03",
+          "type": "fill_blank",
+          "question": "Sharing feelings with a trusted person can help your ___ health.",
+          "answer": "mental",
+          "explanation": "Mental health."
+        },
+        {
+          "id": "g9-psh-unit-01-wellbeing-02-emotions-lq04",
+          "type": "short_answer",
+          "question": "Name one healthy way to manage stress.",
+          "answer": "e.g., talking to someone, exercise, or breathing exercises.",
+          "explanation": "Coping."
+        }
+      ]
+    }
+  ]
+}

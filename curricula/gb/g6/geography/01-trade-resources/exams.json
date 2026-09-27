@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "01-trade-resources"
+  },
+  "exams": [
+    {
+      "id": "g6-geo-unit-01-trade-resources-exam",
+      "title": "Exam: Trade & Natural Resources",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq01",
+          "type": "mcq",
+          "question": "Which is a natural resource?",
+          "options": [
+            "plastic toy",
+            "oil",
+            "smartphone",
+            "car"
+          ],
+          "answer": "oil",
+          "explanation": "Raw natural material."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq02",
+          "type": "true_false",
+          "question": "Natural resources include water, minerals and fuels.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Earth's resources."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq03",
+          "type": "fill_blank",
+          "question": "Oil and gas are examples of ___ fuels.",
+          "answer": "fossil",
+          "explanation": "Fossil fuels."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq04",
+          "type": "short_answer",
+          "question": "Why are some resources called non-renewable?",
+          "answer": "They take millions of years to form and can run out.",
+          "explanation": "Non-renewable."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-02-trade-lq01",
+          "type": "mcq",
+          "question": "Trade is the buying and ___ of goods.",
+          "options": [
+            "hiding",
+            "selling",
+            "losing",
+            "burning"
+          ],
+          "answer": "selling",
+          "explanation": "Exchange."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-02-trade-lq02",
+          "type": "true_false",
+          "question": "Countries trade goods they have for goods they need.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Imports/exports."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-02-trade-lq03",
+          "type": "fill_blank",
+          "question": "Goods bought from another country are ___.",
+          "answer": "imports",
+          "explanation": "Imports."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-02-trade-lq04",
+          "type": "short_answer",
+          "question": "Why do countries trade with each other?",
+          "answer": "To obtain goods they cannot produce as easily themselves.",
+          "explanation": "Trade reason."
+        }
+      ]
+    }
+  ]
+}

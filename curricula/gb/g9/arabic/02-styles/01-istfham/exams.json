@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "02-styles",
+    "lesson": "01-istfham"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-02-styles-01-istfham-quiz",
+      "title": "Quiz: أسلوب الاستفهام",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq01",
+          "type": "mcq",
+          "question": "أداة استفهام مما يلي:",
+          "options": [
+            "هل",
+            "لم",
+            "لن",
+            "قد"
+          ],
+          "answer": "هل",
+          "explanation": "أداة استفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq02",
+          "type": "true_false",
+          "question": "(متى، أين، كيف) أدوات استفهام.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاستفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq03",
+          "type": "fill_blank",
+          "question": "أسلوب يُطلب به العلم بشيء هو أسلوب ___.",
+          "answer": "الاستفهام",
+          "explanation": "الاستفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq04",
+          "type": "short_answer",
+          "question": "هات جملة فيها أسلوب استفهام.",
+          "answer": "مثل: متى تعود؟",
+          "explanation": "الاستفهام."
+        }
+      ]
+    }
+  ]
+}

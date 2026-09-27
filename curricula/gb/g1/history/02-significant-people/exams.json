@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "history",
+    "chapter": "02-significant-people"
+  },
+  "exams": [
+    {
+      "id": "g1-his-unit-02-significant-people-exam",
+      "title": "Exam: Significant Individuals",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g1-his-unit-02-significant-people-01-florence-nightingale-lq01",
+          "type": "mcq",
+          "question": "Florence Nightingale was a famous:",
+          "options": [
+            "pilot",
+            "nurse",
+            "queen",
+            "painter"
+          ],
+          "answer": "nurse",
+          "explanation": "Pioneering nurse."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-01-florence-nightingale-lq02",
+          "type": "true_false",
+          "question": "Florence Nightingale helped improve hospitals.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Improved cleanliness/care."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-01-florence-nightingale-lq03",
+          "type": "fill_blank",
+          "question": "Florence Nightingale was known as 'The Lady with the ___'.",
+          "answer": "Lamp",
+          "explanation": "Tended soldiers at night."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-01-florence-nightingale-lq04",
+          "type": "short_answer",
+          "question": "Why is Florence Nightingale remembered?",
+          "answer": "She improved nursing and hospital hygiene, saving lives.",
+          "explanation": "Significance."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-02-explorers-lq01",
+          "type": "mcq",
+          "question": "An explorer is someone who:",
+          "options": [
+            "cooks food",
+            "travels to discover new places",
+            "builds houses",
+            "teaches maths"
+          ],
+          "answer": "travels to discover new places",
+          "explanation": "Exploration."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-02-explorers-lq02",
+          "type": "true_false",
+          "question": "Neil Armstrong was the first person to walk on the Moon.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1969."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-02-explorers-lq03",
+          "type": "fill_blank",
+          "question": "People who travel to find out about new places are ___.",
+          "answer": "explorers",
+          "explanation": "Explorers."
+        },
+        {
+          "id": "g1-his-unit-02-significant-people-02-explorers-lq04",
+          "type": "short_answer",
+          "question": "Name one famous explorer and what they did.",
+          "answer": "e.g., Neil Armstrong walked on the Moon.",
+          "explanation": "Explorer example."
+        }
+      ]
+    }
+  ]
+}

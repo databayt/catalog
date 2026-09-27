@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "01-reading",
+    "lesson": "02-vocabulary"
+  },
+  "questions": [
+    {
+      "id": "g3-eng-unit-01-reading-02-vocabulary-lq01",
+      "type": "mcq",
+      "question": "A word's meaning can be found from:",
+      "options": [
+        "its colour",
+        "surrounding words",
+        "its length",
+        "the cover"
+      ],
+      "answer": "surrounding words",
+      "explanation": "Context clues."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-02-vocabulary-lq02",
+      "type": "true_false",
+      "question": "A dictionary gives word meanings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Reference tool."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-02-vocabulary-lq03",
+      "type": "fill_blank",
+      "question": "A word with a similar meaning is a ___.",
+      "answer": "synonym",
+      "explanation": "Synonyms."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-02-vocabulary-lq04",
+      "type": "short_answer",
+      "question": "Give a synonym for 'big'.",
+      "answer": "large/huge",
+      "explanation": "Similar meaning."
+    }
+  ]
+}

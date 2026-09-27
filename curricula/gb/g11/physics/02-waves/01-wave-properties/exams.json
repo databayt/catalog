@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "02-waves",
+    "lesson": "01-wave-properties"
+  },
+  "exams": [
+    {
+      "id": "g11-phy-unit-02-waves-01-wave-properties-quiz",
+      "title": "Quiz: Wave Properties",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq01",
+          "type": "mcq",
+          "question": "Wave speed = frequency ×:",
+          "options": [
+            "amplitude",
+            "wavelength",
+            "period",
+            "mass"
+          ],
+          "answer": "wavelength",
+          "explanation": "v = fλ."
+        },
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq02",
+          "type": "true_false",
+          "question": "Transverse waves vibrate at right angles to travel direction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Transverse."
+        },
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq03",
+          "type": "fill_blank",
+          "question": "The number of waves per second is the ___.",
+          "answer": "frequency",
+          "explanation": "Hz."
+        },
+        {
+          "id": "g11-phy-unit-02-waves-01-wave-properties-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a longitudinal wave.",
+          "answer": "Sound.",
+          "explanation": "Wave type."
+        }
+      ]
+    }
+  ]
+}

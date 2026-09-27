@@ -1,0 +1,130 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "02-my-family-and-my-community"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-2-01-lesson-1-q01",
+      "type": "mcq",
+      "question": "Which sentence is in the past continuous tense?",
+      "options": [
+        "She was reading when I called.",
+        "She reads every day.",
+        "She will read tomorrow.",
+        "She has read the book."
+      ],
+      "answer": "She was reading when I called.",
+      "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+    },
+    {
+      "id": "g5-eng-unit-2-01-lesson-1-q02",
+      "type": "true_false",
+      "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third person singular present simple: verb + s/es."
+    },
+    {
+      "id": "g5-eng-unit-2-02-lesson-2-q01",
+      "type": "mcq",
+      "question": "Which sentence is in the past continuous tense?",
+      "options": [
+        "She was reading when I called.",
+        "She reads every day.",
+        "She will read tomorrow.",
+        "She has read the book."
+      ],
+      "answer": "She was reading when I called.",
+      "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+    },
+    {
+      "id": "g5-eng-unit-2-02-lesson-2-q02",
+      "type": "true_false",
+      "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third person singular present simple: verb + s/es."
+    },
+    {
+      "id": "g5-eng-unit-2-03-lesson-3-q01",
+      "type": "mcq",
+      "question": "Which sentence is in the past continuous tense?",
+      "options": [
+        "She was reading when I called.",
+        "She reads every day.",
+        "She will read tomorrow.",
+        "She has read the book."
+      ],
+      "answer": "She was reading when I called.",
+      "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+    },
+    {
+      "id": "g5-eng-unit-2-03-lesson-3-q02",
+      "type": "true_false",
+      "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third person singular present simple: verb + s/es."
+    },
+    {
+      "id": "g5-eng-unit-2-04-lesson-4-q01",
+      "type": "mcq",
+      "question": "Which sentence is in the past continuous tense?",
+      "options": [
+        "She was reading when I called.",
+        "She reads every day.",
+        "She will read tomorrow.",
+        "She has read the book."
+      ],
+      "answer": "She was reading when I called.",
+      "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+    },
+    {
+      "id": "g5-eng-unit-2-04-lesson-4-q02",
+      "type": "true_false",
+      "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third person singular present simple: verb + s/es."
+    },
+    {
+      "id": "g5-eng-unit-2-05-lesson-5-q01",
+      "type": "mcq",
+      "question": "Which sentence is in the past continuous tense?",
+      "options": [
+        "She was reading when I called.",
+        "She reads every day.",
+        "She will read tomorrow.",
+        "She has read the book."
+      ],
+      "answer": "She was reading when I called.",
+      "explanation": "Past continuous: was/were + verb-ing, for actions in progress at a past time."
+    },
+    {
+      "id": "g5-eng-unit-2-05-lesson-5-q02",
+      "type": "true_false",
+      "question": "We add '-s' to the verb when the subject is he, she, or it in simple present.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third person singular present simple: verb + s/es."
+    }
+  ]
+}

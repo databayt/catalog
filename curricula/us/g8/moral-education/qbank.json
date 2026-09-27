@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "moral-education"
+  },
+  "questions": [
+    {
+      "id": "g8-mor-unit-01-uae-world-01-diplomacy-lq01",
+      "type": "mcq",
+      "question": "The UAE is known internationally for tolerance and:",
+      "options": [
+        "humanitarian aid",
+        "isolation",
+        "conflict",
+        "secrecy"
+      ],
+      "answer": "humanitarian aid",
+      "explanation": "Global role."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-01-diplomacy-lq02",
+      "type": "true_false",
+      "question": "The UAE hosts people and organisations from around the world.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Global hub."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-01-diplomacy-lq03",
+      "type": "fill_blank",
+      "question": "Helping other nations in need is humanitarian ___.",
+      "answer": "aid",
+      "explanation": "Aid."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-01-diplomacy-lq04",
+      "type": "short_answer",
+      "question": "Name one way the UAE engages with the world.",
+      "answer": "e.g., humanitarian aid, trade, hosting events like Expo.",
+      "explanation": "Global engagement."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-02-coexistence-lq01",
+      "type": "mcq",
+      "question": "Coexistence means different groups living:",
+      "options": [
+        "peacefully together",
+        "apart in conflict",
+        "in fear",
+        "separately only"
+      ],
+      "answer": "peacefully together",
+      "explanation": "Coexistence."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-02-coexistence-lq02",
+      "type": "true_false",
+      "question": "The UAE promotes religious and cultural tolerance.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tolerance."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-02-coexistence-lq03",
+      "type": "fill_blank",
+      "question": "The peaceful living together of diverse people is ___.",
+      "answer": "coexistence",
+      "explanation": "Coexistence."
+    },
+    {
+      "id": "g8-mor-unit-01-uae-world-02-coexistence-lq04",
+      "type": "short_answer",
+      "question": "Why does the UAE value coexistence?",
+      "answer": "Because its population is diverse and unity brings strength.",
+      "explanation": "Coexistence."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-01-decisions-lq01",
+      "type": "mcq",
+      "question": "A good decision considers the:",
+      "options": [
+        "consequences",
+        "weather only",
+        "fonts",
+        "colours"
+      ],
+      "answer": "consequences",
+      "explanation": "Decision-making."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-01-decisions-lq02",
+      "type": "true_false",
+      "question": "Thinking before acting leads to better choices.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Reflection."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-01-decisions-lq03",
+      "type": "fill_blank",
+      "question": "Weighing right and wrong before acting involves ___.",
+      "answer": "ethics",
+      "explanation": "Ethics."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-01-decisions-lq04",
+      "type": "short_answer",
+      "question": "Name one step in making a good decision.",
+      "answer": "e.g., consider options and their consequences.",
+      "explanation": "Decision-making."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-02-integrity-lq01",
+      "type": "mcq",
+      "question": "Integrity means doing the right thing even when:",
+      "options": [
+        "no one is watching",
+        "rewarded only",
+        "forced",
+        "easy only"
+      ],
+      "answer": "no one is watching",
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-02-integrity-lq02",
+      "type": "true_false",
+      "question": "Integrity means your actions match your values.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-02-integrity-lq03",
+      "type": "fill_blank",
+      "question": "Being honest and principled is having ___.",
+      "answer": "integrity",
+      "explanation": "Integrity."
+    },
+    {
+      "id": "g8-mor-unit-02-decision-02-integrity-lq04",
+      "type": "short_answer",
+      "question": "Why is integrity important?",
+      "answer": "It builds trust and reflects strong character.",
+      "explanation": "Integrity."
+    }
+  ]
+}

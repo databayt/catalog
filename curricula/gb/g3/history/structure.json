@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../../schema/json/structure.schema.json",
+  "id": "gb-g3-history",
+  "curriculum": "gb",
+  "grade": "g3",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "history",
+  "source": {
+    "publisher": "aldar",
+    "title": "National Curriculum in England: History programmes of study",
+    "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-history-programmes-of-study",
+    "license": "LicenseRef-Publisher",
+    "standards": "England NC History",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-stone-age",
+      "title": {
+        "en": "Stone Age to Iron Age"
+      },
+      "lessons": [
+        {
+          "slug": "01-stone-age",
+          "title": {
+            "en": "Life in the Stone Age"
+          }
+        },
+        {
+          "slug": "02-bronze-iron",
+          "title": {
+            "en": "Bronze Age & Iron Age"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-ancient-egypt",
+      "title": {
+        "en": "Ancient Egypt"
+      },
+      "lessons": [
+        {
+          "slug": "01-egypt-life",
+          "title": {
+            "en": "Life in Ancient Egypt"
+          }
+        },
+        {
+          "slug": "02-egypt-writing",
+          "title": {
+            "en": "Writing & Beliefs"
+          }
+        }
+      ]
+    }
+  ]
+}

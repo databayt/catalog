@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "history",
+    "chapter": "02-cold-war-depth",
+    "lesson": "01-superpower-relations"
+  },
+  "exams": [
+    {
+      "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-quiz",
+      "title": "Quiz: Superpower Relations",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq01",
+          "type": "mcq",
+          "question": "Detente in the 1970s meant a period of:",
+          "options": [
+            "eased tension",
+            "open war",
+            "no contact",
+            "colonisation"
+          ],
+          "answer": "eased tension",
+          "explanation": "Relaxation of tension."
+        },
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq02",
+          "type": "true_false",
+          "question": "The Cold War ended around 1991 with the collapse of the USSR.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1991."
+        },
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq03",
+          "type": "fill_blank",
+          "question": "The 1980s leader who reformed the USSR was Mikhail ___.",
+          "answer": "Gorbachev",
+          "explanation": "Glasnost/Perestroika."
+        },
+        {
+          "id": "g12-his-unit-02-cold-war-depth-01-superpower-relations-lq04",
+          "type": "short_answer",
+          "question": "Name one reason the Cold War ended.",
+          "answer": "e.g., Soviet economic weakness and Gorbachev's reforms.",
+          "explanation": "End of Cold War."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "$schema": "../../schema/json/curriculum.schema.json",
+  "id": "us",
+  "title": {
+    "ar": "المنهج الأمريكي",
+    "en": "American Curriculum (Aldar Education)"
+  },
+  "country": "US",
+  "lang": "en",
+  "structure": "5+3+4 (Elementary / Middle / High School)",
+  "reference": "https://www.aldar.com/education/curriculum/american-curriculum",
+  "operator": "Aldar Education (e.g. Yas American Academy, Yasmina American School)",
+  "accreditation": "NEASC; American High School Diploma",
+  "basis": "Massachusetts State Standards, Common Core (ELA & Math), NGSS (Science), SHAPE (PE), Advanced Placement; tailored for the UAE (ADEK)",
+  "notes": "Arabic, Islamic Studies and UAE Moral & Social Studies are mandated by ADEK for all schools. High-school sequence: Biology (g9), Chemistry (g10), Physics (g11), Environmental Science (g12); Math: Algebra I, Geometry, Algebra II, Pre-Calculus.",
+  "stages": [
+    {
+      "id": "elementary",
+      "title": {
+        "en": "Elementary School"
+      },
+      "grades": [
+        "g1",
+        "g2",
+        "g3",
+        "g4",
+        "g5"
+      ],
+      "localNames": {
+        "g1": "Grade 1",
+        "g2": "Grade 2",
+        "g3": "Grade 3",
+        "g4": "Grade 4",
+        "g5": "Grade 5"
+      }
+    },
+    {
+      "id": "middle",
+      "title": {
+        "en": "Middle School"
+      },
+      "grades": [
+        "g6",
+        "g7",
+        "g8"
+      ],
+      "localNames": {
+        "g6": "Grade 6",
+        "g7": "Grade 7",
+        "g8": "Grade 8"
+      }
+    },
+    {
+      "id": "high",
+      "title": {
+        "en": "High School"
+      },
+      "grades": [
+        "g9",
+        "g10",
+        "g11",
+        "g12"
+      ],
+      "localNames": {
+        "g9": "Grade 9",
+        "g10": "Grade 10",
+        "g11": "Grade 11",
+        "g12": "Grade 12"
+      }
+    }
+  ],
+  "grades": {
+    "g1": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "music",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g2": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "music",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g3": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "music",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g4": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "music",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g5": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "music",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g6": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "health",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g7": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "health",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g8": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "health",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "science",
+      "social-studies"
+    ],
+    "g9": [
+      "arabic",
+      "art",
+      "biology",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "social-studies"
+    ],
+    "g10": [
+      "arabic",
+      "art",
+      "chemistry",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "social-studies"
+    ],
+    "g11": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "physics",
+      "social-studies"
+    ],
+    "g12": [
+      "arabic",
+      "art",
+      "computer-science",
+      "english",
+      "environmental-science",
+      "islamic-studies",
+      "math",
+      "moral-education",
+      "physical-education",
+      "social-studies"
+    ]
+  }
+}

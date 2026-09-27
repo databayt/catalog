@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "02-materials",
+    "lesson": "01-separating"
+  },
+  "exams": [
+    {
+      "id": "g5-sci-unit-02-materials-01-separating-quiz",
+      "title": "Quiz: Separating Mixtures",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-sci-unit-02-materials-01-separating-lq01",
+          "type": "mcq",
+          "question": "Which separates sand from water?",
+          "options": [
+            "evaporation",
+            "filtering",
+            "melting",
+            "freezing"
+          ],
+          "answer": "filtering",
+          "explanation": "Filter traps sand."
+        },
+        {
+          "id": "g5-sci-unit-02-materials-01-separating-lq02",
+          "type": "true_false",
+          "question": "Evaporation can recover salt from salt water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Water evaporates, salt remains."
+        },
+        {
+          "id": "g5-sci-unit-02-materials-01-separating-lq03",
+          "type": "fill_blank",
+          "question": "A mixture of iron and sand can be separated using a ___.",
+          "answer": "magnet",
+          "explanation": "Magnetic separation."
+        },
+        {
+          "id": "g5-sci-unit-02-materials-01-separating-lq04",
+          "type": "short_answer",
+          "question": "How would you get salt back from salt water?",
+          "answer": "Evaporate the water.",
+          "explanation": "Evaporation."
+        }
+      ]
+    }
+  ]
+}

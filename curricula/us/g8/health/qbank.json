@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "health"
+  },
+  "questions": [
+    {
+      "id": "g8-hea-unit-01-personal-health-01-nutrition-lq01",
+      "type": "mcq",
+      "question": "Which provides the body with quick energy?",
+      "options": [
+        "carbohydrates",
+        "plastic",
+        "metal",
+        "water only"
+      ],
+      "answer": "carbohydrates",
+      "explanation": "Nutrition."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-01-nutrition-lq02",
+      "type": "true_false",
+      "question": "Regular exercise benefits both body and mind.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fitness."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-01-nutrition-lq03",
+      "type": "fill_blank",
+      "question": "Eating a variety of food groups is a ___ diet.",
+      "answer": "balanced",
+      "explanation": "Balanced diet."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-01-nutrition-lq04",
+      "type": "short_answer",
+      "question": "Name one benefit of good nutrition.",
+      "answer": "e.g., energy, growth, and disease prevention.",
+      "explanation": "Nutrition."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-02-hygiene-lq01",
+      "type": "mcq",
+      "question": "Good sleep helps the body to:",
+      "options": [
+        "rest and recover",
+        "grow weaker",
+        "stop working",
+        "never wake"
+      ],
+      "answer": "rest and recover",
+      "explanation": "Sleep."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-02-hygiene-lq02",
+      "type": "true_false",
+      "question": "Hand washing helps prevent the spread of germs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Hygiene."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-02-hygiene-lq03",
+      "type": "fill_blank",
+      "question": "Keeping clean to stay healthy is good ___.",
+      "answer": "hygiene",
+      "explanation": "Hygiene."
+    },
+    {
+      "id": "g8-hea-unit-01-personal-health-02-hygiene-lq04",
+      "type": "short_answer",
+      "question": "Why is sleep important for health?",
+      "answer": "It lets the body and brain rest, recover and grow.",
+      "explanation": "Sleep."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq01",
+      "type": "mcq",
+      "question": "A healthy way to cope with stress is to:",
+      "options": [
+        "talk to someone",
+        "bottle it up",
+        "skip sleep",
+        "isolate fully"
+      ],
+      "answer": "talk to someone",
+      "explanation": "Coping."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq02",
+      "type": "true_false",
+      "question": "Mental health is as important as physical health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Wellbeing."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq03",
+      "type": "fill_blank",
+      "question": "Sharing worries with a trusted person supports your ___ health.",
+      "answer": "mental",
+      "explanation": "Mental health."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq04",
+      "type": "short_answer",
+      "question": "Name one healthy coping strategy.",
+      "answer": "e.g., talking to someone, exercise, or relaxation.",
+      "explanation": "Coping."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq01",
+      "type": "mcq",
+      "question": "Making healthy choices means thinking about the:",
+      "options": [
+        "consequences",
+        "fonts",
+        "prices only",
+        "weather"
+      ],
+      "answer": "consequences",
+      "explanation": "Decisions."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq02",
+      "type": "true_false",
+      "question": "Avoiding harmful substances protects your health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Substance awareness."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq03",
+      "type": "fill_blank",
+      "question": "Thinking ahead about risks is making a safe ___.",
+      "answer": "decision",
+      "explanation": "Decision-making."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq04",
+      "type": "short_answer",
+      "question": "Why think before making a health decision?",
+      "answer": "To choose options that keep you safe and healthy.",
+      "explanation": "Decision-making."
+    }
+  ]
+}

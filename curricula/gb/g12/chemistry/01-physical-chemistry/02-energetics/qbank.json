@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "chemistry",
+    "chapter": "01-physical-chemistry",
+    "lesson": "02-energetics"
+  },
+  "questions": [
+    {
+      "id": "g12-che-unit-01-physical-chemistry-02-energetics-lq01",
+      "type": "mcq",
+      "question": "Which statement best describes the focus of \"Energetics\"?",
+      "options": [
+        "It is the core idea of this lesson",
+        "It is unrelated to Physical Chemistry",
+        "It belongs to a different grade",
+        "None of the above"
+      ],
+      "answer": "It is the core idea of this lesson",
+      "explanation": "\"Energetics\" is a lesson within the unit \"Physical Chemistry\"."
+    },
+    {
+      "id": "g12-che-unit-01-physical-chemistry-02-energetics-lq02",
+      "type": "true_false",
+      "question": "\"Energetics\" is part of the unit \"Physical Chemistry\".",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "This lesson sits inside the named unit."
+    },
+    {
+      "id": "g12-che-unit-01-physical-chemistry-02-energetics-lq03",
+      "type": "fill_blank",
+      "question": "The lesson titled ___ teaches this topic.",
+      "answer": "Energetics",
+      "explanation": "The topic is \"Energetics\"."
+    },
+    {
+      "id": "g12-che-unit-01-physical-chemistry-02-energetics-lq04",
+      "type": "short_answer",
+      "question": "In your own words, summarise \"Energetics\".",
+      "answer": "A short summary of Energetics.",
+      "explanation": "Open response; assess understanding of the lesson objective."
+    }
+  ]
+}

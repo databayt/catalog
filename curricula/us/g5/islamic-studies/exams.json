@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "islamic-studies"
+  },
+  "exams": [
+    {
+      "id": "us-g5-islamic-studies-1",
+      "title": "اختبار",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g5-isl-unit-01-quran-01-short-surahs-lq01",
+          "type": "mcq",
+          "question": "سورة الإخلاص تتحدث عن:",
+          "options": [
+            "توحيد الله",
+            "قصة نبي",
+            "معركة",
+            "الطعام"
+          ],
+          "answer": "توحيد الله",
+          "explanation": "التوحيد."
+        },
+        {
+          "id": "g5-isl-unit-01-quran-01-short-surahs-lq02",
+          "type": "true_false",
+          "question": "سورة الفاتحة تُقرأ في كل صلاة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "أم الكتاب."
+        },
+        {
+          "id": "g5-isl-unit-02-akhlaq-01-mercy-lq01",
+          "type": "mcq",
+          "question": "الرحمة تعني:",
+          "options": [
+            "اللين والشفقة",
+            "القسوة",
+            "الغضب",
+            "البخل"
+          ],
+          "answer": "اللين والشفقة",
+          "explanation": "الرحمة."
+        },
+        {
+          "id": "g5-isl-unit-02-akhlaq-01-mercy-lq02",
+          "type": "true_false",
+          "question": "الإسلام يدعو إلى الرحمة بالناس والحيوان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الرحمة."
+        }
+      ]
+    }
+  ]
+}

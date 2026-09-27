@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "english",
+    "chapter": "02-college-writing"
+  },
+  "exams": [
+    {
+      "id": "g12-eng-unit-02-college-writing-exam",
+      "title": "Exam: College & Career Writing",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq01",
+          "type": "mcq",
+          "question": "A literary analysis essay focuses on:",
+          "options": [
+            "plot retelling",
+            "how a text creates meaning",
+            "the author's bio",
+            "the cover"
+          ],
+          "answer": "how a text creates meaning",
+          "explanation": "Analysis not summary."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq02",
+          "type": "true_false",
+          "question": "Strong analysis explains how evidence supports the thesis.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Explain the link."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq03",
+          "type": "fill_blank",
+          "question": "A paragraph proving one point begins with a ___ sentence.",
+          "answer": "topic",
+          "explanation": "Topic sentence."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-01-analysis-essay-lq04",
+          "type": "short_answer",
+          "question": "How is analysis different from summary?",
+          "answer": "Summary retells; analysis explains how and why something works.",
+          "explanation": "Analysis vs summary."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-02-professional-lq01",
+          "type": "mcq",
+          "question": "A formal email should be:",
+          "options": [
+            "slangy",
+            "clear and professional",
+            "all caps",
+            "emoji-filled"
+          ],
+          "answer": "clear and professional",
+          "explanation": "Professional tone."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-02-professional-lq02",
+          "type": "true_false",
+          "question": "A resume summarizes skills and experience.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Career document."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-02-professional-lq03",
+          "type": "fill_blank",
+          "question": "A persuasive letter for a job is a ___ letter.",
+          "answer": "cover",
+          "explanation": "Cover letter."
+        },
+        {
+          "id": "g12-eng-unit-02-college-writing-02-professional-lq04",
+          "type": "short_answer",
+          "question": "Name one feature of professional writing.",
+          "answer": "e.g., clear purpose, appropriate tone, correct conventions.",
+          "explanation": "Professional writing."
+        }
+      ]
+    }
+  ]
+}

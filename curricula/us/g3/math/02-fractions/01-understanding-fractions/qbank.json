@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "02-fractions",
+    "lesson": "01-understanding-fractions"
+  },
+  "questions": [
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq01",
+      "type": "mcq",
+      "question": "In 3/4, what does the 4 represent?",
+      "options": [
+        "parts taken",
+        "equal parts in whole",
+        "the whole",
+        "nothing"
+      ],
+      "answer": "equal parts in whole",
+      "explanation": "Denominator = total equal parts."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq02",
+      "type": "true_false",
+      "question": "1/2 is greater than 1/4.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Halves are bigger than quarters."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq03",
+      "type": "fill_blank",
+      "question": "Three out of five equal parts is written ___.",
+      "answer": "3/5",
+      "explanation": "Numerator/denominator."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-understanding-fractions-lq04",
+      "type": "short_answer",
+      "question": "What does the numerator tell you?",
+      "answer": "How many equal parts are counted.",
+      "explanation": "Top number."
+    }
+  ]
+}

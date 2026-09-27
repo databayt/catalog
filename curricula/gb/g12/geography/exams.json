@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "geography"
+  },
+  "exams": [
+    {
+      "id": "gb-g12-geography-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq01",
+          "type": "mcq",
+          "question": "Inputs, stores, flows and outputs describe a:",
+          "options": [
+            "system",
+            "font",
+            "map",
+            "graph"
+          ],
+          "answer": "system",
+          "explanation": "Systems approach."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq02",
+          "type": "true_false",
+          "question": "The water cycle is a closed system at a global scale.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Global closed system."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq01",
+          "type": "mcq",
+          "question": "Globalisation has increased the flow of capital, goods and:",
+          "options": [
+            "people",
+            "mountains",
+            "oceans",
+            "deserts"
+          ],
+          "answer": "people",
+          "explanation": "Global flows."
+        },
+        {
+          "id": "g12-geo-unit-02-global-places-01-global-systems-lq02",
+          "type": "true_false",
+          "question": "International organisations help govern global systems.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Global governance."
+        }
+      ]
+    }
+  ]
+}

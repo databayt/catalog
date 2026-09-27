@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "science"
+  },
+  "exams": [
+    {
+      "id": "gb-g3-science-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g3-sci-unit-01-rocks-01-rock-types-lq01",
+          "type": "mcq",
+          "question": "Which rock forms from cooled magma?",
+          "options": [
+            "sedimentary",
+            "igneous",
+            "fossil",
+            "metamorphic only"
+          ],
+          "answer": "igneous",
+          "explanation": "Cooled molten rock."
+        },
+        {
+          "id": "g3-sci-unit-01-rocks-01-rock-types-lq02",
+          "type": "true_false",
+          "question": "Sedimentary rocks form in layers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Compacted sediment."
+        },
+        {
+          "id": "g3-sci-unit-02-light-01-light-shadows-lq01",
+          "type": "mcq",
+          "question": "A shadow forms when light is:",
+          "options": [
+            "reflected",
+            "blocked by an object",
+            "coloured",
+            "heard"
+          ],
+          "answer": "blocked by an object",
+          "explanation": "Opaque object blocks light."
+        },
+        {
+          "id": "g3-sci-unit-02-light-01-light-shadows-lq02",
+          "type": "true_false",
+          "question": "We need light to see.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No light, no sight."
+        }
+      ]
+    }
+  ]
+}

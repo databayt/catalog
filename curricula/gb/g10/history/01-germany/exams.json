@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "history",
+    "chapter": "01-germany"
+  },
+  "exams": [
+    {
+      "id": "g10-his-unit-01-germany-exam",
+      "title": "Exam: Germany 1890-1945",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-his-unit-01-germany-01-weimar-lq01",
+          "type": "mcq",
+          "question": "The Weimar Republic governed Germany after which war?",
+          "options": [
+            "WWI",
+            "WWII",
+            "Cold War",
+            "Civil War"
+          ],
+          "answer": "WWI",
+          "explanation": "1919 onwards."
+        },
+        {
+          "id": "g10-his-unit-01-germany-01-weimar-lq02",
+          "type": "true_false",
+          "question": "Hyperinflation in 1923 damaged the Weimar economy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Economic crisis."
+        },
+        {
+          "id": "g10-his-unit-01-germany-01-weimar-lq03",
+          "type": "fill_blank",
+          "question": "The Weimar Republic faced crisis after the 1929 Wall Street ___.",
+          "answer": "Crash",
+          "explanation": "Depression."
+        },
+        {
+          "id": "g10-his-unit-01-germany-01-weimar-lq04",
+          "type": "short_answer",
+          "question": "Why did the Weimar Republic struggle?",
+          "answer": "Economic crises, political extremism and weak coalition government.",
+          "explanation": "Weimar weaknesses."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq01",
+          "type": "mcq",
+          "question": "Hitler became Chancellor of Germany in:",
+          "options": [
+            "1933",
+            "1914",
+            "1945",
+            "1989"
+          ],
+          "answer": "1933",
+          "explanation": "Nazi takeover."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq02",
+          "type": "true_false",
+          "question": "The Nazis established a one-party dictatorship.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Totalitarian state."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq03",
+          "type": "fill_blank",
+          "question": "Nazi propaganda was led by Joseph ___.",
+          "answer": "Goebbels",
+          "explanation": "Propaganda."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq04",
+          "type": "short_answer",
+          "question": "How did the Nazis consolidate power after 1933?",
+          "answer": "Through laws (Enabling Act), terror, propaganda and removing opposition.",
+          "explanation": "Consolidation."
+        }
+      ]
+    }
+  ]
+}

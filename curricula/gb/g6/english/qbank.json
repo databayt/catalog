@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq01",
+      "type": "mcq",
+      "question": "To answer a comprehension question you should:",
+      "options": [
+        "guess",
+        "find evidence in the text",
+        "skip it",
+        "ask a friend"
+      ],
+      "answer": "find evidence in the text",
+      "explanation": "Text-based answers."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq02",
+      "type": "true_false",
+      "question": "Quoting the text supports your answer.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Evidence."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq03",
+      "type": "fill_blank",
+      "question": "Finding information in a text is ___.",
+      "answer": "retrieval",
+      "explanation": "Retrieve facts."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-01-evidence-lq04",
+      "type": "short_answer",
+      "question": "Why use evidence from the text?",
+      "answer": "It proves your answer is based on the text.",
+      "explanation": "Justification."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-02-figurative-lq01",
+      "type": "mcq",
+      "question": "'The wind whispered' is:",
+      "options": [
+        "simile",
+        "personification",
+        "fact",
+        "command"
+      ],
+      "answer": "personification",
+      "explanation": "Human action to wind."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-02-figurative-lq02",
+      "type": "true_false",
+      "question": "A metaphor states one thing IS another.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Direct comparison."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-02-figurative-lq03",
+      "type": "fill_blank",
+      "question": "'As brave as a lion' is a ___.",
+      "answer": "simile",
+      "explanation": "Uses 'as'."
+    },
+    {
+      "id": "g6-eng-unit-01-reading-02-figurative-lq04",
+      "type": "short_answer",
+      "question": "Write a metaphor for the sea.",
+      "answer": "e.g., 'The sea was a roaring beast.'",
+      "explanation": "Metaphor."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq01",
+      "type": "mcq",
+      "question": "Which is passive?",
+      "options": [
+        "The cat chased the mouse.",
+        "The mouse was chased.",
+        "Run now!",
+        "Cats sleep."
+      ],
+      "answer": "The mouse was chased.",
+      "explanation": "Subject receives action."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq02",
+      "type": "true_false",
+      "question": "Passive voice can hide who did the action.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Agent optional."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq03",
+      "type": "fill_blank",
+      "question": "Active: 'The chef cooked the meal.' Passive: 'The meal was ___ by the chef.'",
+      "answer": "cooked",
+      "explanation": "Passive form."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq04",
+      "type": "short_answer",
+      "question": "When is passive voice useful?",
+      "answer": "When the doer is unknown or unimportant.",
+      "explanation": "Use of passive."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-02-punctuation-lq01",
+      "type": "mcq",
+      "question": "A semicolon can:",
+      "options": [
+        "end a question",
+        "join two related clauses",
+        "start a word",
+        "replace a capital"
+      ],
+      "answer": "join two related clauses",
+      "explanation": "Links independent clauses."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-02-punctuation-lq02",
+      "type": "true_false",
+      "question": "A colon can introduce a list.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Before a list."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-02-punctuation-lq03",
+      "type": "fill_blank",
+      "question": "Use a ___ to introduce a list: apples, pears, plums.",
+      "answer": "colon",
+      "explanation": "Colon."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-02-punctuation-lq04",
+      "type": "short_answer",
+      "question": "Give a use for a semicolon.",
+      "answer": "To join two closely related complete sentences.",
+      "explanation": "Semicolon use."
+    }
+  ]
+}

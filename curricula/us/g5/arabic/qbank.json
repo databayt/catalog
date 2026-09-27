@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "arabic"
+  },
+  "questions": [
+    {
+      "id": "g5-ara-unit-01-grammar-01-subject-object-lq01",
+      "type": "mcq",
+      "question": "في (شربَ خالدٌ الماءَ) الفاعل هو:",
+      "options": [
+        "شرب",
+        "خالد",
+        "الماء",
+        "ال"
+      ],
+      "answer": "خالد",
+      "explanation": "من قام بالفعل."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-01-subject-object-lq02",
+      "type": "true_false",
+      "question": "المفعول به هو من وقع عليه الفعل.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف المفعول."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-01-subject-object-lq03",
+      "type": "fill_blank",
+      "question": "في (أكل الطفلُ التفاحةَ) المفعول به هو ___.",
+      "answer": "التفاحة",
+      "explanation": "وقع عليه الفعل."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-01-subject-object-lq04",
+      "type": "short_answer",
+      "question": "عرّف الفاعل.",
+      "answer": "الاسم الذي قام بالفعل ويأتي بعد الفعل مرفوعاً.",
+      "explanation": "الفاعل."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-02-punctuation-lq01",
+      "type": "mcq",
+      "question": "العلامة (؟) تستخدم بعد:",
+      "options": [
+        "جملة خبرية",
+        "سؤال",
+        "تعجب",
+        "نهاية فقرة"
+      ],
+      "answer": "سؤال",
+      "explanation": "علامة الاستفهام."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-02-punctuation-lq02",
+      "type": "true_false",
+      "question": "الفاصلة (،) تفصل بين أجزاء الجملة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الفاصلة."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-02-punctuation-lq03",
+      "type": "fill_blank",
+      "question": "علامة التعجب هي ___.",
+      "answer": "!",
+      "explanation": "علامة التعجب."
+    },
+    {
+      "id": "g5-ara-unit-01-grammar-02-punctuation-lq04",
+      "type": "short_answer",
+      "question": "متى نستخدم النقطة؟",
+      "answer": "في نهاية الجملة التامة المعنى.",
+      "explanation": "النقطة."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-01-tenses-lq01",
+      "type": "mcq",
+      "question": "الفعل (اكتبْ) نوعه:",
+      "options": [
+        "ماض",
+        "مضارع",
+        "أمر",
+        "اسم"
+      ],
+      "answer": "أمر",
+      "explanation": "يدل على طلب."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-01-tenses-lq02",
+      "type": "true_false",
+      "question": "الفعل (يلعبُ) فعل مضارع.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "يدل على الحاضر."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-01-tenses-lq03",
+      "type": "fill_blank",
+      "question": "الفعل الذي حدث وانتهى هو الفعل ___.",
+      "answer": "الماضي",
+      "explanation": "الماضي."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-01-tenses-lq04",
+      "type": "short_answer",
+      "question": "حوّل (كتب) إلى المضارع.",
+      "answer": "يكتب",
+      "explanation": "تصريف."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-02-conjugation-lq01",
+      "type": "mcq",
+      "question": "(لعبوا) أُسند الفعل إلى:",
+      "options": [
+        "المفرد",
+        "جماعة الذكور",
+        "المؤنث المفرد",
+        "المثنى"
+      ],
+      "answer": "جماعة الذكور",
+      "explanation": "واو الجماعة."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-02-conjugation-lq02",
+      "type": "true_false",
+      "question": "يتغير آخر الفعل حسب الفاعل.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الإسناد."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-02-conjugation-lq03",
+      "type": "fill_blank",
+      "question": "أسند الفعل (درس) إلى المتكلم: ___.",
+      "answer": "درستُ",
+      "explanation": "تاء المتكلم."
+    },
+    {
+      "id": "g5-ara-unit-02-tenses-02-conjugation-lq04",
+      "type": "short_answer",
+      "question": "أسند الفعل (كتب) إلى المثنى.",
+      "answer": "كتبا",
+      "explanation": "التثنية."
+    }
+  ]
+}

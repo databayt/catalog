@@ -1,0 +1,65 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "citizenship"
+  },
+  "exams": [
+    {
+      "id": "gb-g8-citizenship-1",
+      "title": "Test",
+      "kind": "test",
+      "durationMinutes": 60,
+      "questions": [
+        {
+          "id": "g8-cit-unit-01-democracy-01-democracy-lq01",
+          "type": "mcq",
+          "question": "In a democracy, leaders are chosen by:",
+          "options": [
+            "voting",
+            "force",
+            "luck",
+            "age only"
+          ],
+          "answer": "voting",
+          "explanation": "Democracy."
+        },
+        {
+          "id": "g8-cit-unit-01-democracy-01-democracy-lq02",
+          "type": "true_false",
+          "question": "Citizens can influence decisions by voting.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Participation."
+        },
+        {
+          "id": "g8-cit-unit-02-society-01-community-lq01",
+          "type": "mcq",
+          "question": "An active citizen contributes to their:",
+          "options": [
+            "community",
+            "fonts",
+            "weather",
+            "prices"
+          ],
+          "answer": "community",
+          "explanation": "Active citizenship."
+        },
+        {
+          "id": "g8-cit-unit-02-society-01-community-lq02",
+          "type": "true_false",
+          "question": "Diversity can strengthen a community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Diversity."
+        }
+      ]
+    }
+  ]
+}

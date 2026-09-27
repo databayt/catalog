@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "history",
+    "chapter": "02-conflict-tension"
+  },
+  "questions": [
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq01",
+      "type": "mcq",
+      "question": "The Treaty of Versailles (1919) punished which country?",
+      "options": [
+        "Germany",
+        "Britain",
+        "USA",
+        "Japan"
+      ],
+      "answer": "Germany",
+      "explanation": "Post-WWI treaty."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq02",
+      "type": "true_false",
+      "question": "Versailles forced Germany to accept blame and pay reparations.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "War guilt clause."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq03",
+      "type": "fill_blank",
+      "question": "The international body set up after WWI was the League of ___.",
+      "answer": "Nations",
+      "explanation": "League of Nations."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq04",
+      "type": "short_answer",
+      "question": "Why did many Germans resent the Treaty of Versailles?",
+      "answer": "It imposed blame, territorial losses and heavy reparations.",
+      "explanation": "Resentment."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq01",
+      "type": "mcq",
+      "question": "The policy of giving in to Hitler's demands was called:",
+      "options": [
+        "appeasement",
+        "containment",
+        "isolation",
+        "alliance"
+      ],
+      "answer": "appeasement",
+      "explanation": "1930s policy."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq02",
+      "type": "true_false",
+      "question": "WWII in Europe began with the invasion of Poland in 1939.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sept 1939."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq03",
+      "type": "fill_blank",
+      "question": "Britain's PM associated with appeasement was Neville ___.",
+      "answer": "Chamberlain",
+      "explanation": "Munich 1938."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq04",
+      "type": "short_answer",
+      "question": "Why did appeasement fail?",
+      "answer": "It encouraged further aggression rather than preventing war.",
+      "explanation": "Appeasement."
+    }
+  ]
+}

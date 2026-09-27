@@ -1,0 +1,161 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq01",
+      "type": "mcq",
+      "question": "Repetition of initial consonant sounds is:",
+      "options": [
+        "rhyme",
+        "alliteration",
+        "simile",
+        "stanza"
+      ],
+      "answer": "alliteration",
+      "explanation": "e.g., 'wild winds'."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq02",
+      "type": "true_false",
+      "question": "A stanza is a group of lines in a poem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Poem 'paragraph'."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq03",
+      "type": "fill_blank",
+      "question": "Giving human qualities to objects is ___.",
+      "answer": "personification",
+      "explanation": "Figurative device."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-01-poetic-devices-lq04",
+      "type": "short_answer",
+      "question": "What effect can rhythm have in a poem?",
+      "answer": "It can create mood, pace, or emphasis.",
+      "explanation": "Rhythm effect."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq01",
+      "type": "mcq",
+      "question": "Comparing two poems means looking at:",
+      "options": [
+        "only length",
+        "similarities and differences",
+        "the poets' ages",
+        "the page numbers"
+      ],
+      "answer": "similarities and differences",
+      "explanation": "Compare/contrast."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq02",
+      "type": "true_false",
+      "question": "Two poems can share a theme but differ in tone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Theme vs tone."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq03",
+      "type": "fill_blank",
+      "question": "Words like 'whereas' and 'similarly' are useful for ___.",
+      "answer": "comparison",
+      "explanation": "Comparative connectives."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq04",
+      "type": "short_answer",
+      "question": "Name one thing to compare between poems.",
+      "answer": "e.g., theme, imagery, structure, or tone.",
+      "explanation": "Comparison points."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq01",
+      "type": "mcq",
+      "question": "A topic sentence does what at the start of a paragraph?",
+      "options": [
+        "ends it",
+        "states the point",
+        "quotes randomly",
+        "lists names"
+      ],
+      "answer": "states the point",
+      "explanation": "Paragraph point."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq02",
+      "type": "true_false",
+      "question": "An essay should have a clear introduction and conclusion.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Structure."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq03",
+      "type": "fill_blank",
+      "question": "Analysis paragraphs often follow the ___ structure (Point, Evidence, Explanation).",
+      "answer": "PEE",
+      "explanation": "Analytical structure."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-01-essay-lq04",
+      "type": "short_answer",
+      "question": "What is the purpose of a conclusion?",
+      "answer": "To sum up the argument and main points.",
+      "explanation": "Conclusion."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq01",
+      "type": "mcq",
+      "question": "A semicolon can join:",
+      "options": [
+        "two related clauses",
+        "a word and a letter",
+        "nothing",
+        "a title"
+      ],
+      "answer": "two related clauses",
+      "explanation": "Links clauses."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq02",
+      "type": "true_false",
+      "question": "A colon can introduce a list or explanation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Colon use."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq03",
+      "type": "fill_blank",
+      "question": "'Although it rained' is a ___ clause.",
+      "answer": "subordinate",
+      "explanation": "Dependent clause."
+    },
+    {
+      "id": "g9-eng-unit-02-writing-02-grammar-lq04",
+      "type": "short_answer",
+      "question": "When is a semicolon useful?",
+      "answer": "To link two closely related complete sentences.",
+      "explanation": "Semicolon."
+    }
+  ]
+}

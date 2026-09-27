@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "islamic-studies",
+    "chapter": "01-zakat-sawm",
+    "lesson": "01-sawm"
+  },
+  "questions": [
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq01",
+      "type": "mcq",
+      "question": "نصوم في شهر:",
+      "options": [
+        "رجب",
+        "شعبان",
+        "رمضان",
+        "محرم"
+      ],
+      "answer": "رمضان",
+      "explanation": "صيام رمضان."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq02",
+      "type": "true_false",
+      "question": "الصيام هو الامتناع عن الطعام والشراب من الفجر إلى المغرب.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف الصيام."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq03",
+      "type": "fill_blank",
+      "question": "صيام شهر ___ ركن من أركان الإسلام.",
+      "answer": "رمضان",
+      "explanation": "الصوم."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq04",
+      "type": "short_answer",
+      "question": "ما الحكمة من الصيام؟",
+      "answer": "تقوى الله والشعور بالفقراء وتهذيب النفس.",
+      "explanation": "حكمة الصيام."
+    }
+  ]
+}

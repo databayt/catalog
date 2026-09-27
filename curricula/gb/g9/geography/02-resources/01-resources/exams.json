@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "geography",
+    "chapter": "02-resources",
+    "lesson": "01-resources"
+  },
+  "exams": [
+    {
+      "id": "g9-geo-unit-02-resources-01-resources-quiz",
+      "title": "Quiz: Managing Resources",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq01",
+          "type": "mcq",
+          "question": "A renewable energy resource is:",
+          "options": [
+            "coal",
+            "wind",
+            "oil",
+            "gas"
+          ],
+          "answer": "wind",
+          "explanation": "Renewable."
+        },
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq02",
+          "type": "true_false",
+          "question": "Water, food and energy are key resources for development.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Vital resources."
+        },
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq03",
+          "type": "fill_blank",
+          "question": "Energy from the Sun is ___ energy.",
+          "answer": "solar",
+          "explanation": "Solar power."
+        },
+        {
+          "id": "g9-geo-unit-02-resources-01-resources-lq04",
+          "type": "short_answer",
+          "question": "Why is sustainable resource use important?",
+          "answer": "To meet present needs without harming future generations.",
+          "explanation": "Sustainability."
+        }
+      ]
+    }
+  ]
+}

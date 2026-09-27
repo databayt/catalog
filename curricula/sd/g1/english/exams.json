@@ -1,0 +1,229 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g1",
+    "subject": "english"
+  },
+  "exams": [
+    {
+      "id": "g1-en-final-exam-01",
+      "title": "Final Exam - English - Grade 1",
+      "durationMinutes": 40,
+      "totalMarks": 20,
+      "questions": [
+        {
+          "id": "g1-en-u1-q001",
+          "type": "mcq",
+          "question": "How do you greet someone? Choose the correct answer.",
+          "options": [
+            "Hello!",
+            "Goodbye!",
+            "Thank you!",
+            "Sorry!"
+          ],
+          "answer": "Hello!",
+          "explanation": "'Hello!' is a greeting used to say hi to someone."
+        },
+        {
+          "id": "g1-en-u1-q003",
+          "type": "fill_blank",
+          "question": "Complete: My _______ is Fatma. (name / color / age)",
+          "answer": "name",
+          "explanation": "We say 'My name is...' to introduce ourselves."
+        },
+        {
+          "id": "g1-en-u1-q005",
+          "type": "short_answer",
+          "question": "What is your name? Write your answer.",
+          "answer": "My name is [student name].",
+          "explanation": "We use 'My name is...' to introduce ourselves."
+        },
+        {
+          "id": "g1-en-u1-q007",
+          "type": "mcq",
+          "question": "Which word is a greeting?",
+          "options": [
+            "Hello",
+            "Apple",
+            "Book",
+            "Chair"
+          ],
+          "answer": "Hello",
+          "explanation": "'Hello' is a greeting word."
+        },
+        {
+          "id": "g1-en-u1-q009",
+          "type": "mcq",
+          "question": "How do you say goodbye in English?",
+          "options": [
+            "Goodbye!",
+            "Hello!",
+            "Good morning!",
+            "Please!"
+          ],
+          "answer": "Goodbye!",
+          "explanation": "'Goodbye!' is used when leaving or saying farewell."
+        },
+        {
+          "id": "g1-en-u2-q001",
+          "type": "mcq",
+          "question": "How many fingers do you have on one hand?",
+          "options": [
+            "Five",
+            "Three",
+            "Seven",
+            "Ten"
+          ],
+          "answer": "Five",
+          "explanation": "We have five fingers on one hand."
+        },
+        {
+          "id": "g1-en-u2-q003",
+          "type": "fill_blank",
+          "question": "One, two, three, _______, five",
+          "answer": "four",
+          "explanation": "The number after three is four."
+        },
+        {
+          "id": "g1-en-u2-q005",
+          "type": "short_answer",
+          "question": "Write the number 'seven' in digits.",
+          "answer": "7",
+          "explanation": "The word 'seven' is written as 7 in digits."
+        },
+        {
+          "id": "g1-en-u2-q007",
+          "type": "mcq",
+          "question": "How do you write the number 'three'?",
+          "options": [
+            "3",
+            "13",
+            "30",
+            "33"
+          ],
+          "answer": "3",
+          "explanation": "The word 'three' is written as the digit 3."
+        },
+        {
+          "id": "g1-en-u2-q009",
+          "type": "mcq",
+          "question": "What number comes before 6?",
+          "options": [
+            "5",
+            "7",
+            "4",
+            "8"
+          ],
+          "answer": "5",
+          "explanation": "The number 5 comes before 6."
+        },
+        {
+          "id": "g1-en-u3-q001",
+          "type": "mcq",
+          "question": "What colour is the sky?",
+          "options": [
+            "Blue",
+            "Red",
+            "Green",
+            "Yellow"
+          ],
+          "answer": "Blue",
+          "explanation": "The sky is blue in colour."
+        },
+        {
+          "id": "g1-en-u3-q003",
+          "type": "fill_blank",
+          "question": "The sun is _______ in colour.",
+          "answer": "yellow",
+          "explanation": "The sun appears yellow."
+        },
+        {
+          "id": "g1-en-u3-q005",
+          "type": "short_answer",
+          "question": "Name three colours you know in English.",
+          "answer": "red, blue, green (or any three colours)",
+          "explanation": "Common colours include: red, blue, green, yellow, orange, purple, pink, black, white."
+        },
+        {
+          "id": "g1-en-u3-q007",
+          "type": "mcq",
+          "question": "What colour is the night sky?",
+          "options": [
+            "Black",
+            "White",
+            "Red",
+            "Green"
+          ],
+          "answer": "Black",
+          "explanation": "The night sky appears black or very dark."
+        },
+        {
+          "id": "g1-en-u3-q009",
+          "type": "mcq",
+          "question": "Which of these is a colour?",
+          "options": [
+            "Red",
+            "Cat",
+            "Book",
+            "Run"
+          ],
+          "answer": "Red",
+          "explanation": "Red is a colour. Cat, book and run are not colours."
+        },
+        {
+          "id": "g1-en-u4-q001",
+          "type": "mcq",
+          "question": "How do you ask someone's age?",
+          "options": [
+            "How old are you?",
+            "What is your name?",
+            "Where are you from?",
+            "How are you?"
+          ],
+          "answer": "How old are you?",
+          "explanation": "We ask 'How old are you?' to find out someone's age."
+        },
+        {
+          "id": "g1-en-u4-q003",
+          "type": "fill_blank",
+          "question": "I am _______ years old. (age / name / colour)",
+          "answer": "age",
+          "explanation": "We use 'I am ... years old' to tell our age."
+        },
+        {
+          "id": "g1-en-u4-q005",
+          "type": "short_answer",
+          "question": "Answer: Where are you from?",
+          "answer": "I am from Sudan.",
+          "explanation": "We answer 'I am from [country/city]'."
+        },
+        {
+          "id": "g1-en-u4-q007",
+          "type": "mcq",
+          "question": "What does 'How are you?' mean?",
+          "options": [
+            "How do you feel?",
+            "What is your name?",
+            "Where do you live?",
+            "How old are you?"
+          ],
+          "answer": "How do you feel?",
+          "explanation": "'How are you?' is asking about your wellbeing or how you feel."
+        },
+        {
+          "id": "g1-en-u4-q009",
+          "type": "mcq",
+          "question": "Which sentence introduces yourself?",
+          "options": [
+            "My name is Ali.",
+            "The cat is black.",
+            "I like apples.",
+            "Open the door."
+          ],
+          "answer": "My name is Ali.",
+          "explanation": "'My name is...' introduces yourself."
+        }
+      ]
+    }
+  ]
+}
