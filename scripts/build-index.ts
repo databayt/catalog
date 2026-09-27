@@ -2,7 +2,7 @@
 // Licensed under MIT -- see LICENSE for details
 
 /**
- * `curricula/index.json` — the one file a consumer reads to discover
+ * `index.json` (repo root = `catalog/index.json` on the CDN) — the one file a consumer reads to discover
  * everything: every curriculum, its grades, and each subject with its counts
  * and which assets exist. Published to `catalog/index.json` on the CDN.
  *
@@ -15,11 +15,10 @@ import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "
 import { join } from "node:path"
 
 import type { Curriculum, Exams, QBank, Structure } from "../schema/index.ts"
-import { CONTENT_ROOT } from "../src/paths.ts"
+import { REPO, contentDirs } from "./lib/tree.ts"
 import { gradeOrder } from "./lib/vocab.ts"
 
-const REPO = join(import.meta.dirname, "..")
-const ROOT = join(REPO, CONTENT_ROOT)
+const ROOT = REPO
 const OUT = join(ROOT, "index.json")
 
 const lock: Record<string, unknown> = JSON.parse(
@@ -43,49 +42,47 @@ function assessments(dir: string) {
   return { questions, exams }
 }
 
-const curricula = dirs(ROOT)
-  .sort()
-  .map((cur) => {
-    const c = read<Curriculum>(join(ROOT, cur, "curriculum.json"))
-    const grades = dirs(join(ROOT, cur))
-      .sort((a, b) => gradeOrder(a) - gradeOrder(b))
-      .map((grade) => ({
-        id: grade,
-        subjects: dirs(join(ROOT, cur, grade))
-          .sort()
-          .map((subject) => {
-            const dir = join(ROOT, cur, grade, subject)
-            const s = read<Structure>(join(dir, "structure.json"))
-            const base = `catalog/${cur}/${grade}/${subject}`
-            const pages = Object.keys(lock).filter((k) => k.startsWith(`${base}/pages/`)).length
-            const pagesMd = existsSync(join(dir, "pages-md"))
-              ? readdirSync(join(dir, "pages-md")).filter((f) => /^\d+\.md$/.test(f)).length
-              : 0
-            return {
-              id: s.id,
-              subject,
-              title: s.title,
-              lang: s.lang,
-              status: s.status,
-              concept: s.concept,
-              publisher: s.source.publisher,
-              chapters: s.chapters.length,
-              lessons: s.chapters.reduce((n, ch) => n + ch.lessons.length, 0),
-              ...assessments(dir),
-              assets: {
-                textbook: locked(`${base}/textbook.pdf`),
-                markdown: existsSync(join(dir, "textbook.md")),
-                cover: locked(`${base}/cover.jpg`),
-                thumbnail: locked(`${base}/thumbnail.jpg`),
-                banner: locked(`${base}/banner.jpg`),
-                pages,
-                pagesMd,
-              },
-            }
-          }),
-      }))
-    return { id: c.id, title: c.title, country: c.country, lang: c.lang, grades }
-  })
+const curricula = contentDirs(ROOT).map((cur) => {
+  const c = read<Curriculum>(join(ROOT, cur, "curriculum.json"))
+  const grades = dirs(join(ROOT, cur))
+    .sort((a, b) => gradeOrder(a) - gradeOrder(b))
+    .map((grade) => ({
+      id: grade,
+      subjects: dirs(join(ROOT, cur, grade))
+        .sort()
+        .map((subject) => {
+          const dir = join(ROOT, cur, grade, subject)
+          const s = read<Structure>(join(dir, "structure.json"))
+          const base = `catalog/${cur}/${grade}/${subject}`
+          const pages = Object.keys(lock).filter((k) => k.startsWith(`${base}/pages/`)).length
+          const pagesMd = existsSync(join(dir, "pages-md"))
+            ? readdirSync(join(dir, "pages-md")).filter((f) => /^\d+\.md$/.test(f)).length
+            : 0
+          return {
+            id: s.id,
+            subject,
+            title: s.title,
+            lang: s.lang,
+            status: s.status,
+            concept: s.concept,
+            publisher: s.source.publisher,
+            chapters: s.chapters.length,
+            lessons: s.chapters.reduce((n, ch) => n + ch.lessons.length, 0),
+            ...assessments(dir),
+            assets: {
+              textbook: locked(`${base}/textbook.pdf`),
+              markdown: existsSync(join(dir, "textbook.md")),
+              cover: locked(`${base}/cover.jpg`),
+              thumbnail: locked(`${base}/thumbnail.jpg`),
+              banner: locked(`${base}/banner.jpg`),
+              pages,
+              pagesMd,
+            },
+          }
+        }),
+    }))
+  return { id: c.id, title: c.title, country: c.country, lang: c.lang, grades }
+})
 
 const totals = { curricula: curricula.length, subjects: 0, chapters: 0, lessons: 0, questions: 0 }
 for (const c of curricula)
@@ -102,7 +99,7 @@ const text = JSON.stringify(index, null, 1) + "\n"
 
 if (process.argv.includes("--check")) {
   if (!existsSync(OUT) || readFileSync(OUT, "utf8") !== text) {
-    console.error("curricula/index.json is stale — run `pnpm index`")
+    console.error("index.json is stale — run `pnpm index`")
     process.exit(1)
   }
   console.log("✓ index is current")

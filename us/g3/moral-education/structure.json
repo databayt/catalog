@@ -1,0 +1,74 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "us-g3-moral-education",
+  "curriculum": "us",
+  "grade": "g3",
+  "subject": "moral-education",
+  "title": {
+    "ar": "التربية الأخلاقية والاجتماعية",
+    "en": "Moral & Social Studies"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "society",
+  "source": {
+    "publisher": "aldar",
+    "title": "UAE Moral Education / Social Studies curriculum",
+    "url": "https://www.moe.gov.ae/",
+    "license": "LicenseRef-Publisher",
+    "standards": "UAE MoE / ADEK Moral & Social Education",
+    "standardsBody": "UAE MoE / ADEK (Arabic, Islamic & Moral/Social Studies)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "UAE Ministry of Education — Arabic, Islamic & Moral/Social Studies",
+      "url": "https://www.moe.gov.ae/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-my-country",
+      "title": {
+        "en": "The UAE — My Country"
+      },
+      "lessons": [
+        {
+          "slug": "01-uae",
+          "title": {
+            "en": "About the UAE"
+          }
+        },
+        {
+          "slug": "02-symbols",
+          "title": {
+            "en": "National Symbols"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-tolerance",
+      "title": {
+        "en": "Tolerance & Friendship"
+      },
+      "lessons": [
+        {
+          "slug": "01-tolerance",
+          "title": {
+            "en": "Tolerance"
+          }
+        },
+        {
+          "slug": "02-friendship",
+          "title": {
+            "en": "Friendship"
+          }
+        }
+      ]
+    }
+  ]
+}

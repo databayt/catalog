@@ -1,0 +1,94 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "cbse-g10-civics",
+  "curriculum": "cbse",
+  "grade": "g10",
+  "subject": "civics",
+  "title": {
+    "ar": "التربية المدنية",
+    "en": "Civics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "civic",
+  "source": {
+    "publisher": "ncert",
+    "url": "https://ncert.nic.in/textbook.php?jess4",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-power-sharing",
+      "title": {
+        "en": "Power Sharing"
+      },
+      "lessons": [
+        {
+          "slug": "01-power-sharing",
+          "title": {
+            "en": "Power Sharing"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-federalism",
+      "title": {
+        "en": "Federalism"
+      },
+      "lessons": [
+        {
+          "slug": "01-federalism",
+          "title": {
+            "en": "Federalism"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-gender-religion-and-caste",
+      "title": {
+        "en": "Gender, Religion and Caste"
+      },
+      "lessons": [
+        {
+          "slug": "01-gender-religion-and-caste",
+          "title": {
+            "en": "Gender, Religion and Caste"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-political-parties",
+      "title": {
+        "en": "Political Parties"
+      },
+      "lessons": [
+        {
+          "slug": "01-political-parties",
+          "title": {
+            "en": "Political Parties"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-outcomes-of-democracy",
+      "title": {
+        "en": "Outcomes of Democracy"
+      },
+      "lessons": [
+        {
+          "slug": "01-outcomes-of-democracy",
+          "title": {
+            "en": "Outcomes of Democracy"
+          }
+        }
+      ]
+    }
+  ]
+}

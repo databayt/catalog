@@ -1,0 +1,68 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g7-art",
+  "curriculum": "sd",
+  "grade": "g7",
+  "subject": "art",
+  "title": {
+    "ar": "التربية الفنية",
+    "en": "Art & Design"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "art",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-drawing-coloring",
+      "title": {
+        "ar": "الرسم والتلوين"
+      },
+      "concept": "art",
+      "image": "clickview/middle-artistic-skills-and-techniques-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "02-design-decoration",
+      "title": {
+        "ar": "التصميم والزخرفة"
+      },
+      "concept": "art",
+      "image": "clickview/middle-design-thinking-skills-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "03-mixed-materials",
+      "title": {
+        "ar": "التشكيل بالخامات المختلفة"
+      },
+      "concept": "art",
+      "image": "clickview/middle-elements-of-art-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "04-art-appreciation",
+      "title": {
+        "ar": "التذوق الفني"
+      },
+      "concept": "art",
+      "image": "clickview/high-evaluating-art-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "05-arabic-calligraphy",
+      "title": {
+        "ar": "الخط العربي"
+      },
+      "concept": "art",
+      "image": "clickview/middle-world-art-cover.jpg",
+      "lessons": []
+    }
+  ]
+}

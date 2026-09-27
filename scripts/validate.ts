@@ -2,7 +2,7 @@
 // Licensed under MIT -- see LICENSE for details
 
 /**
- * The gate. Walks `curricula/` and fails on anything that is not the catalog
+ * The gate. Walks every curriculum folder at the repo root and fails on anything that is not the catalog
  * shape: an unknown folder, a file outside the allow-list, a JSON file that
  * does not parse against its schema, a scope that disagrees with its path, a
  * curriculum.json that disagrees with the folders, or a binary that is not in
@@ -22,16 +22,15 @@ import { SCHEMAS, type Structure } from "../schema/index.ts"
 import {
   BINARY_EXT,
   BINARY_FILES,
-  CONTENT_ROOT,
   SUBJECT_DIRS,
   TEXT_FILES,
   pathToKey,
   subjectId,
 } from "../src/paths.ts"
+import { REPO, contentDirs } from "./lib/tree.ts"
 import { CURRICULA, GRADES, PUBLISHERS, parseSubject } from "./lib/vocab.ts"
 
-const REPO = join(import.meta.dirname, "..")
-const ROOT = join(REPO, CONTENT_ROOT)
+const ROOT = REPO
 
 const args = process.argv.slice(2)
 const exIdx = args.indexOf("--examples")
@@ -234,16 +233,7 @@ function checkCurriculum(cur: string) {
   }
 }
 
-if (!existsSync(ROOT)) {
-  console.error(`no ${CONTENT_ROOT}/ directory`)
-  process.exit(1)
-}
-for (const name of ls(ROOT)) {
-  const p = join(ROOT, name)
-  if (!isDir(p)) {
-    if (name !== "index.json") fail("file.unexpected", rel(p))
-    continue
-  }
+for (const name of contentDirs(ROOT)) {
   if (only.length && !only.includes(name)) continue
   checkCurriculum(name)
 }

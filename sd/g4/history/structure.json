@@ -1,0 +1,68 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g4-history",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "history",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-sudan-homeland",
+      "title": {
+        "ar": "الوحدة الأولى: وطننا السودان"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-this-month-in-history-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-assessment",
+          "title": {
+            "ar": "التقويم"
+          },
+          "image": "clickview/elementary-review-techniques-cover.jpg"
+        },
+        {
+          "slug": "02-stone-age",
+          "title": {
+            "ar": "حضارة العصور الحجرية في السودان"
+          },
+          "image": "clickview/elementary-early-humanity-cover.jpg"
+        },
+        {
+          "slug": "03-meroitic-civilization",
+          "title": {
+            "ar": "حضارة مروي"
+          },
+          "image": "clickview/elementary-ancient-egypt-cover.jpg"
+        },
+        {
+          "slug": "04-kushite-civilization",
+          "title": {
+            "ar": "حضارة كوش"
+          },
+          "image": "clickview/elementary-ancient-egypt-cover.jpg"
+        },
+        {
+          "slug": "05-nubian-kingdom",
+          "title": {
+            "ar": "المملكة النوبية المسيحية"
+          },
+          "image": "clickview/elementary-ancient-egypt-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

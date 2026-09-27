@@ -1,0 +1,74 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "us-g10-arabic",
+  "curriculum": "us",
+  "grade": "g10",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "authored",
+  "concept": "language",
+  "source": {
+    "publisher": "aldar",
+    "title": "UAE MoE Arabic Language curriculum",
+    "url": "https://www.moe.gov.ae/",
+    "license": "LicenseRef-Publisher",
+    "standards": "UAE MoE / ADEK Arabic",
+    "standardsBody": "UAE MoE / ADEK (Arabic, Islamic & Moral/Social Studies)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "UAE Ministry of Education — Arabic, Islamic & Moral/Social Studies",
+      "url": "https://www.moe.gov.ae/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-texts",
+      "title": {
+        "ar": "النصوص الأدبية"
+      },
+      "lessons": [
+        {
+          "slug": "01-analysis",
+          "title": {
+            "ar": "تحليل النص الأدبي"
+          }
+        },
+        {
+          "slug": "02-rhetoric",
+          "title": {
+            "ar": "مدخل إلى البلاغة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-bayan",
+      "title": {
+        "ar": "علم البيان"
+      },
+      "lessons": [
+        {
+          "slug": "01-tashbih",
+          "title": {
+            "ar": "التشبيه"
+          }
+        },
+        {
+          "slug": "02-istiara",
+          "title": {
+            "ar": "الاستعارة والكناية"
+          }
+        }
+      ]
+    }
+  ]
+}

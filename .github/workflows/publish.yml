@@ -4,7 +4,7 @@ name: publish
 on:
   push:
     branches: [main]
-    paths: ["curricula/**", "schema/json/**"]
+    paths-ignore: ["src/**", "scripts/**", "docs/**", "*.md", ".github/**"]
   workflow_dispatch:
     inputs:
       overwrite:

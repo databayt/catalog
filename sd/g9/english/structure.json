@@ -1,0 +1,509 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g9-english",
+  "curriculum": "sd",
+  "grade": "g9",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-people-and-science",
+      "title": {
+        "en": "People and Science"
+      },
+      "concept": "english",
+      "image": "clickview/high-thinking-scientifically-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-what-is-science",
+          "title": {
+            "en": "What is Science?"
+          }
+        },
+        {
+          "slug": "02-famous-scientists",
+          "title": {
+            "en": "Famous Scientists"
+          },
+          "image": "clickview/elementary-scientists-and-inventors-cover.jpg"
+        },
+        {
+          "slug": "03-bones",
+          "title": {
+            "en": "Bones"
+          },
+          "image": "clickview/high-the-musculoskeletal-system-cover.jpg"
+        },
+        {
+          "slug": "04-how-to-measure",
+          "title": {
+            "en": "How to Measure"
+          }
+        },
+        {
+          "slug": "05-traditional-medicine",
+          "title": {
+            "en": "Traditional Medicine"
+          }
+        },
+        {
+          "slug": "06-wonders-of-engineering",
+          "title": {
+            "en": "Wonders of Engineering"
+          },
+          "image": "clickview/high-engineering-design-cover.jpg"
+        },
+        {
+          "slug": "07-puzzles-and-games",
+          "title": {
+            "en": "Puzzles and Games"
+          }
+        },
+        {
+          "slug": "08-revision-science",
+          "title": {
+            "en": "Revision: Science"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-arts-and-literature",
+      "title": {
+        "en": "Arts and Literature"
+      },
+      "concept": "english",
+      "image": "clickview/high-art-and-culture-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-a-traditional-story",
+          "title": {
+            "en": "A Traditional Story"
+          }
+        },
+        {
+          "slug": "02-national-dress",
+          "title": {
+            "en": "National Dress"
+          },
+          "image": "clickview/high-textiles-and-design-cover.jpg"
+        },
+        {
+          "slug": "03-famous-sudanese-writers",
+          "title": {
+            "en": "Famous Sudanese Writers"
+          },
+          "image": "clickview/middle-literary-texts-cover.jpg"
+        },
+        {
+          "slug": "04-sand-art",
+          "title": {
+            "en": "Sand Art"
+          }
+        },
+        {
+          "slug": "05-robinson-crusoe",
+          "title": {
+            "en": "Robinson Crusoe"
+          },
+          "image": "clickview/high-genre-cover.jpg"
+        },
+        {
+          "slug": "06-calligraphy",
+          "title": {
+            "en": "Calligraphy"
+          }
+        },
+        {
+          "slug": "07-a-sudanese-artist",
+          "title": {
+            "en": "A Sudanese Artist"
+          }
+        },
+        {
+          "slug": "08-revision-words-and-pictures",
+          "title": {
+            "en": "Revision: Words and Pictures"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-around-the-world",
+      "title": {
+        "en": "Around the World"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-the-age-of-discovery-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-where-is-sudan",
+          "title": {
+            "en": "Where is Sudan?"
+          }
+        },
+        {
+          "slug": "02-countries-quiz",
+          "title": {
+            "en": "Countries Quiz"
+          }
+        },
+        {
+          "slug": "03-two-interesting-places",
+          "title": {
+            "en": "Two Interesting Places"
+          }
+        },
+        {
+          "slug": "04-saudi-arabia",
+          "title": {
+            "en": "Saudi Arabia"
+          }
+        },
+        {
+          "slug": "05-marco-polo",
+          "title": {
+            "en": "Marco Polo"
+          }
+        },
+        {
+          "slug": "06-a-trip-of-a-lifetime",
+          "title": {
+            "en": "A Trip of a Lifetime"
+          }
+        },
+        {
+          "slug": "07-friendly-people",
+          "title": {
+            "en": "Friendly People"
+          }
+        },
+        {
+          "slug": "08-revision-an-arab-adventure",
+          "title": {
+            "en": "Revision: An Arab Adventure"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-work-and-play",
+      "title": {
+        "en": "Work and Play"
+      },
+      "concept": "english",
+      "image": "clickview/high-workplace-skills-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-jobs-jobs-jobs",
+          "title": {
+            "en": "Jobs, Jobs, Jobs"
+          }
+        },
+        {
+          "slug": "02-teachers",
+          "title": {
+            "en": "Teachers"
+          }
+        },
+        {
+          "slug": "03-children-and-work",
+          "title": {
+            "en": "Children and Work"
+          }
+        },
+        {
+          "slug": "04-learning-for-a-job",
+          "title": {
+            "en": "Learning for a Job"
+          }
+        },
+        {
+          "slug": "05-my-hobby-and-my-job",
+          "title": {
+            "en": "My Hobby and My Job"
+          }
+        },
+        {
+          "slug": "06-who-gets-paid-the-most",
+          "title": {
+            "en": "Who Gets Paid the Most?"
+          }
+        },
+        {
+          "slug": "07-work-in-the-future",
+          "title": {
+            "en": "Work in the Future"
+          },
+          "image": "clickview/high-the-impact-of-innovation-cover.jpg"
+        },
+        {
+          "slug": "08-revision-hard-work",
+          "title": {
+            "en": "Revision: Hard Work"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-food-and-health",
+      "title": {
+        "en": "Food and Health"
+      },
+      "concept": "english",
+      "image": "clickview/high-nutrients-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-chocolate",
+          "title": {
+            "en": "Chocolate"
+          }
+        },
+        {
+          "slug": "02-growing-food",
+          "title": {
+            "en": "Growing Food"
+          },
+          "image": "clickview/high-regenerative-agriculture-cover.jpg"
+        },
+        {
+          "slug": "03-sudanese-crops",
+          "title": {
+            "en": "Sudanese Crops"
+          },
+          "image": "clickview/high-regenerative-agriculture-cover.jpg"
+        },
+        {
+          "slug": "04-a-healthy-diet",
+          "title": {
+            "en": "A Healthy Diet"
+          }
+        },
+        {
+          "slug": "05-the-greenhouse",
+          "title": {
+            "en": "The Greenhouse"
+          },
+          "image": "clickview/high-agricultural-technology-cover.jpg"
+        },
+        {
+          "slug": "06-honey",
+          "title": {
+            "en": "Honey"
+          }
+        },
+        {
+          "slug": "07-healthy-habits",
+          "title": {
+            "en": "Healthy Habits"
+          }
+        },
+        {
+          "slug": "08-revision-food-facts",
+          "title": {
+            "en": "Revision: Food Facts"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-money-and-shopping",
+      "title": {
+        "en": "Money and Shopping"
+      },
+      "concept": "english",
+      "image": "clickview/high-financial-literacy-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-shopping",
+          "title": {
+            "en": "Shopping"
+          }
+        },
+        {
+          "slug": "02-adverts",
+          "title": {
+            "en": "Adverts"
+          }
+        },
+        {
+          "slug": "03-saving-for-a-rainy-day",
+          "title": {
+            "en": "Saving for a Rainy Day!"
+          }
+        },
+        {
+          "slug": "04-young-business-people",
+          "title": {
+            "en": "Young Business People"
+          },
+          "image": "clickview/high-entrepreneurship-cover.jpg"
+        },
+        {
+          "slug": "05-the-gold-rush",
+          "title": {
+            "en": "The Gold Rush"
+          },
+          "image": "clickview/high-natural-resources-cover.jpg"
+        },
+        {
+          "slug": "06-omdurman-market",
+          "title": {
+            "en": "Omdurman Market"
+          },
+          "image": "clickview/high-retail-cover.jpg"
+        },
+        {
+          "slug": "07-paying-for-it",
+          "title": {
+            "en": "Paying for it!"
+          }
+        },
+        {
+          "slug": "08-revision-the-cost-of-shopping",
+          "title": {
+            "en": "Revision: The Cost of Shopping"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "07-learning",
+      "title": {
+        "en": "Learning"
+      },
+      "concept": "english",
+      "image": "clickview/high-learning-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-learning-a-lesson",
+          "title": {
+            "en": "Learning a Lesson"
+          }
+        },
+        {
+          "slug": "02-learning-for-a-competition",
+          "title": {
+            "en": "Learning for a Competition"
+          }
+        },
+        {
+          "slug": "03-history-of-university-of-khartoum",
+          "title": {
+            "en": "The History of the University of Khartoum"
+          },
+          "image": "clickview/middle-being-a-historian-cover.jpg"
+        },
+        {
+          "slug": "04-learning-to-do-things-yourself",
+          "title": {
+            "en": "Learning to Do Things Yourself"
+          }
+        },
+        {
+          "slug": "05-learning-isnt-easy",
+          "title": {
+            "en": "Learning isn't Easy"
+          }
+        },
+        {
+          "slug": "06-the-brain",
+          "title": {
+            "en": "The Brain"
+          },
+          "image": "clickview/high-the-brain-cover.jpg"
+        },
+        {
+          "slug": "07-test-your-knowledge",
+          "title": {
+            "en": "Test Your Knowledge"
+          }
+        },
+        {
+          "slug": "08-revision-test-your-learning",
+          "title": {
+            "en": "Revision: Test Your Learning"
+          },
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "08-looking-back",
+      "title": {
+        "en": "Looking Back"
+      },
+      "concept": "english",
+      "image": "clickview/high-study-skills-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-protecting-animals",
+          "title": {
+            "en": "Protecting Animals"
+          }
+        },
+        {
+          "slug": "02-sports-time",
+          "title": {
+            "en": "Sports Time"
+          }
+        },
+        {
+          "slug": "03-a-matter-of-science",
+          "title": {
+            "en": "A Matter of Science"
+          }
+        },
+        {
+          "slug": "04-stories",
+          "title": {
+            "en": "Stories"
+          }
+        },
+        {
+          "slug": "05-discovering-the-world",
+          "title": {
+            "en": "Discovering the World"
+          }
+        },
+        {
+          "slug": "06-a-time-for-tea",
+          "title": {
+            "en": "A Time for Tea"
+          }
+        },
+        {
+          "slug": "07-food-and-health",
+          "title": {
+            "en": "Food and Health"
+          }
+        },
+        {
+          "slug": "08-learning-for-life",
+          "title": {
+            "en": "Learning for Life"
+          }
+        }
+      ]
+    }
+  ]
+}

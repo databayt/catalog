@@ -1,0 +1,276 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g11-home-economics",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "home-economics",
+  "title": {
+    "ar": "العلوم الأسرية",
+    "en": "Family Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "life",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم الأسرية للصفين الأول والثاني (التعليم الثانوي) — الطبعة المنقحة ٢٠١٠م",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1-introduction-to-family-sciences",
+      "title": {
+        "ar": "الوحدة الأولى: مدخل لدراسة العلوم الأسرية",
+        "en": "Unit 1: Introduction to Family Sciences"
+      },
+      "concept": "health",
+      "image": "clickview/high-community-engagement-and-care-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-to-family-sciences",
+          "title": {
+            "ar": "مدخل لدراسة العلوم الأسرية",
+            "en": "Introduction to Family Sciences"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-the-contemporary-concept-of-the-family",
+          "title": {
+            "ar": "المفهوم المعاصر للأسرة",
+            "en": "The Contemporary Concept of the Family"
+          },
+          "page": 5
+        },
+        {
+          "slug": "03-the-function-of-the-family",
+          "title": {
+            "ar": "وظيفة الأسرة",
+            "en": "The Function of the Family"
+          },
+          "page": 9
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2-human-nutrition",
+      "title": {
+        "ar": "الوحدة الثانية: علم تغذية الإنسان",
+        "en": "Unit 2: Human Nutrition"
+      },
+      "concept": "health",
+      "image": "clickview/high-nutrients-cover.jpg",
+      "page": 17,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-human-nutrition-and-the-role-of-food-in-the-body",
+          "title": {
+            "ar": "علم تغذية الإنسان ودور الغذاء في الجسم",
+            "en": "Human Nutrition and the Role of Food in the Body"
+          },
+          "page": 17
+        },
+        {
+          "slug": "02-essential-nutrients",
+          "title": {
+            "ar": "العناصر الأساسية في الغذاء",
+            "en": "Essential Nutrients"
+          },
+          "page": 24
+        },
+        {
+          "slug": "03-food-energy-and-the-bodys-needs",
+          "title": {
+            "ar": "الطاقة الغذائية واحتياجات الجسم",
+            "en": "Food Energy and the Body's Needs"
+          },
+          "page": 43
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3-weight-problems-and-food-groups",
+      "title": {
+        "ar": "الوحدة الثالثة: مشاكل الوزن والمجموعات الغذائية",
+        "en": "Unit 3: Weight Problems and Food Groups"
+      },
+      "concept": "health",
+      "image": "clickview/high-pathology-cover.jpg",
+      "page": 52,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-problems-of-underweight-and-overweight",
+          "title": {
+            "ar": "مشاكل نقص وزيادة الوزن",
+            "en": "Problems of Underweight and Overweight"
+          },
+          "page": 52
+        },
+        {
+          "slug": "02-population-and-nutrition",
+          "title": {
+            "ar": "السكان والتغذية",
+            "en": "Population and Nutrition"
+          },
+          "page": 56
+        },
+        {
+          "slug": "03-food-groups",
+          "title": {
+            "ar": "المجموعات الغذائية",
+            "en": "Food Groups"
+          },
+          "page": 59,
+          "image": "clickview/high-nutrients-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4-introduction-to-health-sciences",
+      "title": {
+        "ar": "الوحدة الرابعة: مدخل لعلوم الصحة",
+        "en": "Unit 4: Introduction to Health Sciences"
+      },
+      "concept": "health",
+      "image": "clickview/high-healthy-lifestyle-cover.jpg",
+      "page": 76,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-to-health-sciences",
+          "title": {
+            "ar": "مدخل لعلوم الصحة",
+            "en": "Introduction to Health Sciences"
+          },
+          "page": 78
+        },
+        {
+          "slug": "02-environment-and-human-health",
+          "title": {
+            "ar": "البيئة وصحة الإنسان",
+            "en": "Environment and Human Health"
+          },
+          "page": 81
+        },
+        {
+          "slug": "03-health-awareness-and-community-participation",
+          "title": {
+            "ar": "الثقافة والوعي الصحي وأهمية مشاركة المجتمع",
+            "en": "Health Awareness and Community Participation"
+          },
+          "page": 84,
+          "image": "clickview/high-community-engagement-and-care-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-unit-5-family-health",
+      "title": {
+        "ar": "الوحدة الخامسة: صحة الأسرة",
+        "en": "Unit 5: Family Health"
+      },
+      "concept": "health",
+      "image": "clickview/high-healthy-lifestyle-cover.jpg",
+      "page": 90,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-family-health",
+          "title": {
+            "ar": "صحة الأسرة",
+            "en": "Family Health"
+          },
+          "page": 90
+        },
+        {
+          "slug": "02-infectious-diseases",
+          "title": {
+            "ar": "الأمراض المعدية",
+            "en": "Infectious Diseases"
+          },
+          "page": 91,
+          "image": "clickview/high-pathology-cover.jpg"
+        },
+        {
+          "slug": "03-harmful-habits-in-society",
+          "title": {
+            "ar": "العادات الضارة في المجتمع",
+            "en": "Harmful Habits in Society"
+          },
+          "page": 123,
+          "image": "clickview/high-decision-making-cover.jpg"
+        },
+        {
+          "slug": "04-preparing-for-married-life",
+          "title": {
+            "ar": "الإعداد للحياة الزوجية",
+            "en": "Preparing for Married Life"
+          },
+          "page": 126
+        }
+      ]
+    },
+    {
+      "slug": "06-unit-6-food-preparation-and-household-skills",
+      "title": {
+        "ar": "الوحدة السادسة: إعداد الأطعمة والمهارات الأسرية",
+        "en": "Unit 6: Food Preparation and Household Skills"
+      },
+      "concept": "health",
+      "image": "clickview/high-culinary-arts-cover.jpg",
+      "page": 132,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-food-preparation-and-the-effects-of-cooking",
+          "title": {
+            "ar": "إعداد الأطعمة وتأثير الطهي",
+            "en": "Food Preparation and the Effects of Cooking"
+          },
+          "page": 132
+        },
+        {
+          "slug": "02-food-preservation-and-processing",
+          "title": {
+            "ar": "حفظ وتصنيع الأغذية",
+            "en": "Food Preservation and Processing"
+          },
+          "page": 135,
+          "image": "clickview/high-food-product-development-cover.jpg"
+        },
+        {
+          "slug": "03-household-skills-making-food-products-at-home",
+          "title": {
+            "ar": "مدخل للمهارات الأسرية: صناعة بعض المنتجات الغذائية بالمنزل",
+            "en": "Household Skills: Making Food Products at Home"
+          },
+          "page": 141
+        },
+        {
+          "slug": "04-sewing-and-tailoring-techniques",
+          "title": {
+            "ar": "معالجات الخياطة والتفصيل",
+            "en": "Sewing and Tailoring Techniques"
+          },
+          "page": 147,
+          "image": "clickview/high-textiles-and-design-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

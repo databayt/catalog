@@ -1,6 +1,7 @@
 Content license — Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-Applies to content authored by catalog contributors under curricula/: the
+Applies to content authored by catalog contributors in the curriculum folders
+(sd/, gb/, us/, cbse/, ib-dp/, caie-igcse/ and any added later): the
 structure.json outlines, qbank.json question banks, exams.json assessments,
 curriculum.json manifests and Markdown twins (textbook.md, pages-md/), unless a
 file's structure.json names a different license.

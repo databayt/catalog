@@ -31,10 +31,10 @@ import {
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
 
-import { BINARY_EXT, CONTENT_ROOT, keyToPath, pathToKey } from "../src/paths.ts"
+import { BINARY_EXT, keyToPath, pathToKey } from "../src/paths.ts"
 import { BUCKET, CDN, contentType, listPrefix, pool, s3 } from "./lib/s3.ts"
+import { REPO, contentDirs } from "./lib/tree.ts"
 
-const REPO = join(import.meta.dirname, "..")
 const LOCK = join(REPO, "assets.lock.json")
 
 type Entry = { sha256: string; bytes: number }
@@ -49,7 +49,7 @@ function writeLock(assets: Record<string, Entry>) {
   const sorted = Object.fromEntries(Object.entries(assets).sort(([a], [b]) => a.localeCompare(b)))
   const lock: Lock = {
     $comment:
-      "Binaries that belong to the catalog but live on the CDN, not in git. Key = CDN key = 'catalog/' + path under curricula/. Maintained by `pnpm assets lock`.",
+      "Binaries that belong to the catalog but live on the CDN, not in git. Key = CDN key = 'catalog/' + repo path (the repo mirrors the CDN). Maintained by `pnpm assets lock`.",
     bucket: BUCKET,
     cdn: CDN,
     assets: sorted,
@@ -78,7 +78,7 @@ const md5 = (file: string) => createHash("md5").update(readFileSync(file)).diges
 
 async function lock() {
   const prev = readLock().assets
-  const files = [...walk(join(REPO, CONTENT_ROOT))]
+  const files = contentDirs().flatMap((d) => [...walk(join(REPO, d))])
   const next: Record<string, Entry> = {}
   let hashed = 0
   await pool(files, 16, async (f) => {

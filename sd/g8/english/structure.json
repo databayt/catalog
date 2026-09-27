@@ -1,0 +1,509 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g8-english",
+  "curriculum": "sd",
+  "grade": "g8",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-environment",
+      "title": {
+        "en": "Environment"
+      },
+      "concept": "english",
+      "image": "clickview/middle-sustainable-development-goals-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-drought",
+          "title": {
+            "en": "Drought"
+          }
+        },
+        {
+          "slug": "02-forests-deserts-and-mountains",
+          "title": {
+            "en": "Forests, Deserts and Mountains"
+          },
+          "image": "clickview/high-landforms-and-landscapes-cover.jpg"
+        },
+        {
+          "slug": "03-a-clean-environment",
+          "title": {
+            "en": "A Clean Environment"
+          }
+        },
+        {
+          "slug": "04-protect-the-environment",
+          "title": {
+            "en": "Protect the Environment"
+          }
+        },
+        {
+          "slug": "05-forest-fires-tornadoes-and-sandstorms",
+          "title": {
+            "en": "Forest Fires, Tornadoes and Sandstorms"
+          },
+          "image": "clickview/middle-extreme-weather-cover.jpg"
+        },
+        {
+          "slug": "06-life-cycles",
+          "title": {
+            "en": "Life Cycles"
+          },
+          "image": "clickview/elementary-life-cycles-cover.jpg"
+        },
+        {
+          "slug": "07-animals-in-danger",
+          "title": {
+            "en": "Animals in Danger"
+          },
+          "image": "clickview/high-wildlife-case-studies-cover.jpg"
+        },
+        {
+          "slug": "08-the-world",
+          "title": {
+            "en": "The World"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-stay-healthy",
+      "title": {
+        "en": "Stay Healthy"
+      },
+      "concept": "english",
+      "image": "clickview/middle-healthy-lifestyle-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-hand-washing",
+          "title": {
+            "en": "Hand Washing"
+          },
+          "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg"
+        },
+        {
+          "slug": "02-a-healthy-life",
+          "title": {
+            "en": "A Healthy Life"
+          }
+        },
+        {
+          "slug": "03-healthy-food",
+          "title": {
+            "en": "Healthy Food"
+          }
+        },
+        {
+          "slug": "04-a-visit-to-the-doctor",
+          "title": {
+            "en": "A Visit to the Doctor"
+          }
+        },
+        {
+          "slug": "05-first-aid",
+          "title": {
+            "en": "First Aid"
+          },
+          "image": "clickview/middle-safety-cover.jpg"
+        },
+        {
+          "slug": "06-malaria",
+          "title": {
+            "en": "Malaria"
+          },
+          "image": "clickview/elementary-health-conditions-cover.jpg"
+        },
+        {
+          "slug": "07-an-accident",
+          "title": {
+            "en": "An Accident"
+          },
+          "image": "clickview/middle-safety-cover.jpg"
+        },
+        {
+          "slug": "08-healthy-and-fit",
+          "title": {
+            "en": "Healthy and Fit"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-amazing-places",
+      "title": {
+        "en": "Amazing Places"
+      },
+      "concept": "english",
+      "image": "clickview/high-global-tourism-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-around-my-country",
+          "title": {
+            "en": "Around My Country"
+          }
+        },
+        {
+          "slug": "02-the-sultans-palace",
+          "title": {
+            "en": "The Sultan's Palace"
+          }
+        },
+        {
+          "slug": "03-a-wonderful-building",
+          "title": {
+            "en": "A Wonderful Building"
+          }
+        },
+        {
+          "slug": "04-into-the-mountains",
+          "title": {
+            "en": "Into the Mountains"
+          },
+          "image": "clickview/high-landforms-and-landscapes-cover.jpg"
+        },
+        {
+          "slug": "05-back-in-time",
+          "title": {
+            "en": "Back in Time"
+          },
+          "image": "clickview/middle-being-a-historian-cover.jpg"
+        },
+        {
+          "slug": "06-a-place-by-the-sea",
+          "title": {
+            "en": "A Place by the Sea"
+          },
+          "image": "clickview/high-oceans-cover.jpg"
+        },
+        {
+          "slug": "07-a-place-to-shop",
+          "title": {
+            "en": "A Place to Shop"
+          }
+        },
+        {
+          "slug": "08-wonderful-sudan",
+          "title": {
+            "en": "Wonderful Sudan"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-school-time",
+      "title": {
+        "en": "School Time"
+      },
+      "concept": "english",
+      "image": "clickview/elementary-the-school-community-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-making-friends",
+          "title": {
+            "en": "Making Friends"
+          },
+          "image": "clickview/elementary-friendship-cover.jpg"
+        },
+        {
+          "slug": "02-school-time",
+          "title": {
+            "en": "School Time"
+          }
+        },
+        {
+          "slug": "03-school-rules-and-classroom-language",
+          "title": {
+            "en": "School Rules and Classroom Language"
+          }
+        },
+        {
+          "slug": "04-our-family",
+          "title": {
+            "en": "Our Family"
+          },
+          "image": "clickview/elementary-family-cover.jpg"
+        },
+        {
+          "slug": "05-houses",
+          "title": {
+            "en": "Houses"
+          }
+        },
+        {
+          "slug": "06-first-aid",
+          "title": {
+            "en": "First Aid"
+          },
+          "image": "clickview/middle-safety-cover.jpg"
+        },
+        {
+          "slug": "07-summer-holiday",
+          "title": {
+            "en": "Summer Holiday"
+          }
+        },
+        {
+          "slug": "08-eid-el-fitr",
+          "title": {
+            "en": "Eid El Fitr"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-animals-and-nature",
+      "title": {
+        "en": "Animals and Nature"
+      },
+      "concept": "english",
+      "image": "clickview/middle-animals-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-strange-animals",
+          "title": {
+            "en": "Strange Animals"
+          }
+        },
+        {
+          "slug": "02-the-thirsty-animal",
+          "title": {
+            "en": "The Thirsty Animal"
+          }
+        },
+        {
+          "slug": "03-animals-in-danger",
+          "title": {
+            "en": "Animals in Danger"
+          },
+          "image": "clickview/high-wildlife-case-studies-cover.jpg"
+        },
+        {
+          "slug": "04-animals-helping-people",
+          "title": {
+            "en": "Animals Helping People"
+          }
+        },
+        {
+          "slug": "05-dangerous-animals",
+          "title": {
+            "en": "Dangerous Animals"
+          }
+        },
+        {
+          "slug": "06-products-and-animals",
+          "title": {
+            "en": "Products and Animals"
+          }
+        },
+        {
+          "slug": "07-the-horse-and-the-soup",
+          "title": {
+            "en": "The Horse and The Soup"
+          },
+          "image": "clickview/middle-literary-texts-cover.jpg"
+        },
+        {
+          "slug": "08-interesting-animal-facts",
+          "title": {
+            "en": "Interesting Animal Facts"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-the-universe",
+      "title": {
+        "en": "The Universe"
+      },
+      "concept": "english",
+      "image": "clickview/high-the-universe-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-the-night-sky",
+          "title": {
+            "en": "The Night Sky"
+          }
+        },
+        {
+          "slug": "02-our-solar-system",
+          "title": {
+            "en": "Our Solar System"
+          },
+          "image": "clickview/high-our-solar-system-cover.jpg"
+        },
+        {
+          "slug": "03-astronomy",
+          "title": {
+            "en": "Astronomy"
+          }
+        },
+        {
+          "slug": "04-a-trip-to-the-moon",
+          "title": {
+            "en": "A Trip to the Moon"
+          },
+          "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
+        },
+        {
+          "slug": "05-the-sun-the-earth-and-the-moon",
+          "title": {
+            "en": "The Sun, The Earth and The Moon"
+          },
+          "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
+        },
+        {
+          "slug": "06-life-in-space",
+          "title": {
+            "en": "Life in Space"
+          },
+          "image": "clickview/high-space-exploration-cover.jpg"
+        },
+        {
+          "slug": "07-the-eclipse",
+          "title": {
+            "en": "The Eclipse"
+          }
+        },
+        {
+          "slug": "08-out-into-space",
+          "title": {
+            "en": "Out Into Space"
+          },
+          "image": "clickview/high-space-exploration-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "07-sport-and-health",
+      "title": {
+        "en": "Sport and Health"
+      },
+      "concept": "english",
+      "image": "clickview/middle-personal-training-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-traditional-games-in-sudan",
+          "title": {
+            "en": "Traditional Games in Sudan"
+          }
+        },
+        {
+          "slug": "02-women-in-sport",
+          "title": {
+            "en": "Women in Sport"
+          },
+          "image": "clickview/high-changing-roles-of-women-cover.jpg"
+        },
+        {
+          "slug": "03-the-worlds-most-popular-sport",
+          "title": {
+            "en": "The World's Most Popular Sport"
+          }
+        },
+        {
+          "slug": "04-african-athletes",
+          "title": {
+            "en": "African Athletes"
+          }
+        },
+        {
+          "slug": "05-fit-and-healthy",
+          "title": {
+            "en": "Fit and Healthy"
+          }
+        },
+        {
+          "slug": "06-sudanese-sports-stars",
+          "title": {
+            "en": "Sudanese Sports Stars"
+          }
+        },
+        {
+          "slug": "07-strange-sports",
+          "title": {
+            "en": "Strange Sports"
+          }
+        },
+        {
+          "slug": "08-be-active",
+          "title": {
+            "en": "Be Active!"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-looking-back",
+      "title": {
+        "en": "Looking Back"
+      },
+      "concept": "english",
+      "image": "clickview/middle-study-skills-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-good-health",
+          "title": {
+            "en": "Good Health"
+          }
+        },
+        {
+          "slug": "02-protecting-animals",
+          "title": {
+            "en": "Protecting Animals"
+          }
+        },
+        {
+          "slug": "03-sports-time",
+          "title": {
+            "en": "Sports Time"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "en": "Lesson 8"
+          }
+        }
+      ]
+    }
+  ]
+}

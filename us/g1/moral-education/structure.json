@@ -1,0 +1,74 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "us-g1-moral-education",
+  "curriculum": "us",
+  "grade": "g1",
+  "subject": "moral-education",
+  "title": {
+    "ar": "التربية الأخلاقية والاجتماعية",
+    "en": "Moral & Social Studies"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "society",
+  "source": {
+    "publisher": "aldar",
+    "title": "UAE Moral Education / Social Studies curriculum",
+    "url": "https://www.moe.gov.ae/",
+    "license": "LicenseRef-Publisher",
+    "standards": "UAE MoE / ADEK Moral & Social Education",
+    "standardsBody": "UAE MoE / ADEK (Arabic, Islamic & Moral/Social Studies)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "UAE Ministry of Education — Arabic, Islamic & Moral/Social Studies",
+      "url": "https://www.moe.gov.ae/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-myself-family",
+      "title": {
+        "en": "My Family & Myself"
+      },
+      "lessons": [
+        {
+          "slug": "01-my-family",
+          "title": {
+            "en": "My Family"
+          }
+        },
+        {
+          "slug": "02-being-kind",
+          "title": {
+            "en": "Being Kind & Respectful"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-values",
+      "title": {
+        "en": "Good Values"
+      },
+      "lessons": [
+        {
+          "slug": "01-sharing",
+          "title": {
+            "en": "Sharing & Caring"
+          }
+        },
+        {
+          "slug": "02-honesty",
+          "title": {
+            "en": "Telling the Truth"
+          }
+        }
+      ]
+    }
+  ]
+}

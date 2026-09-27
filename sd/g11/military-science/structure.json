@@ -1,0 +1,134 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g11-military-science",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "military-science",
+  "title": {
+    "ar": "العلوم العسكرية",
+    "en": "Military Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "civic",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم العسكرية — الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م (ردمك 978-99942-53-23-4)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-qualities-of-the-soldier",
+      "title": {
+        "ar": "صفات الجندي",
+        "en": "Qualities of the Soldier"
+      },
+      "concept": "civic",
+      "image": "clickview/high-personal-training-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "02-the-art-of-leadership",
+      "title": {
+        "ar": "فن القيادة",
+        "en": "The Art of Leadership"
+      },
+      "concept": "skills",
+      "image": "clickview/high-leadership-skills-cover.jpg",
+      "page": 11,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "03-models-of-leadership",
+      "title": {
+        "ar": "نماذج من فن القيادة",
+        "en": "Models of Leadership"
+      },
+      "concept": "history",
+      "image": "clickview/high-leadership-skills-cover.jpg",
+      "page": 18,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sad-ibn-abi-waqqas",
+          "title": {
+            "ar": "سعد بن أبي وقاص",
+            "en": "Sa'd ibn Abi Waqqas"
+          },
+          "page": 19
+        },
+        {
+          "slug": "02-napoleon-bonaparte",
+          "title": {
+            "ar": "نابليون بونابرت",
+            "en": "Napoleon Bonaparte"
+          },
+          "page": 28,
+          "image": "clickview/high-being-a-historian-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-rules-of-combat",
+      "title": {
+        "ar": "أحكام القتال",
+        "en": "Rules of Combat"
+      },
+      "concept": "history",
+      "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg",
+      "page": 40,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "05-morale",
+      "title": {
+        "ar": "الروح المعنوية",
+        "en": "Morale"
+      },
+      "concept": "mind",
+      "image": "clickview/high-resilience-cover.jpg",
+      "page": 48,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "06-national-security",
+      "title": {
+        "ar": "الأمن القومي",
+        "en": "National Security"
+      },
+      "concept": "civic",
+      "image": "clickview/high-systems-of-government-cover.jpg",
+      "page": 58,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "07-psychological-warfare",
+      "title": {
+        "ar": "الحرب النفسية",
+        "en": "Psychological Warfare"
+      },
+      "concept": "mind",
+      "image": "clickview/high-psychology-concepts-and-theories-cover.jpg",
+      "page": 69,
+      "lessonsGeneric": false,
+      "lessons": []
+    }
+  ]
+}

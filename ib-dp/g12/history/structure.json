@@ -1,0 +1,80 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "ib-dp-g12-history",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "history",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-authoritarian-states",
+      "title": {
+        "en": "Authoritarian States"
+      },
+      "lessons": [
+        {
+          "slug": "01-authoritarian-states",
+          "title": {
+            "en": "Authoritarian States"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-the-move-to-global-war",
+      "title": {
+        "en": "The Move to Global War"
+      },
+      "lessons": [
+        {
+          "slug": "01-the-move-to-global-war",
+          "title": {
+            "en": "The Move to Global War"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-causes-and-effects-of-20th-century-wars",
+      "title": {
+        "en": "Causes and Effects of 20th-Century Wars"
+      },
+      "lessons": [
+        {
+          "slug": "01-causes-and-effects-of-20th-century-wars",
+          "title": {
+            "en": "Causes and Effects of 20th-Century Wars"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-the-cold-war-superpower-tensions-and-rivalries",
+      "title": {
+        "en": "The Cold War: Superpower Tensions and Rivalries"
+      },
+      "lessons": [
+        {
+          "slug": "01-the-cold-war-superpower-tensions-and-rivalries",
+          "title": {
+            "en": "The Cold War: Superpower Tensions and Rivalries"
+          }
+        }
+      ]
+    }
+  ]
+}

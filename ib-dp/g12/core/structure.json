@@ -1,0 +1,66 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "ib-dp-g12-core",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "core",
+  "title": {
+    "ar": "جوهر البكالوريا الدولية",
+    "en": "DP Core (TOK, EE, CAS)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "mind",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-theory-of-knowledge",
+      "title": {
+        "en": "Theory of Knowledge"
+      },
+      "lessons": [
+        {
+          "slug": "01-theory-of-knowledge",
+          "title": {
+            "en": "Theory of Knowledge"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-extended-essay",
+      "title": {
+        "en": "Extended Essay"
+      },
+      "lessons": [
+        {
+          "slug": "01-extended-essay",
+          "title": {
+            "en": "Extended Essay"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-creativity-activity-service",
+      "title": {
+        "en": "Creativity, Activity, Service"
+      },
+      "lessons": [
+        {
+          "slug": "01-creativity-activity-service",
+          "title": {
+            "en": "Creativity, Activity, Service"
+          }
+        }
+      ]
+    }
+  ]
+}

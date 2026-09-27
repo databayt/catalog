@@ -2,32 +2,46 @@
 // Licensed under MIT -- see LICENSE for details
 
 /**
- * The one rule that ties the repository to the CDN:
+ * The one rule that ties the repository to the CDN: the repo mirrors it.
  *
- *   curricula/<path>  <->  catalog/<path>
+ *   <repo>/sd/g6/math/exams.json  <->  cdn.databayt.org/catalog/sd/g6/math/exams.json
  *
- * A file's place in this repo IS its CDN key. There are no override tables,
- * no per-curriculum exceptions and no slug<->folder maps — the subject id is
+ * The repository root IS `catalog/`. A file's path in the repo, prefixed with
+ * `catalog/`, is its CDN key. There are no override tables, no per-curriculum
+ * exceptions and no slug<->folder maps: the subject id is
  * `<curriculum>-<grade>-<subject>`, derived from the same three segments.
  */
 
 import { CATALOG_ROOT } from "./key.ts"
 
-export const CONTENT_ROOT = "curricula"
+/**
+ * Top-level repo entries that are tooling, not content. They can never be
+ * curriculum ids. Everything else at the root must be a curriculum folder, or
+ * one of the published root files (index.json, schema/*.schema.json).
+ */
+export const RESERVED = [
+  "src",
+  "schema",
+  "scripts",
+  "vocab",
+  "docs",
+  "node_modules",
+  "dist",
+] as const
 
-/** `curricula/sd/g12/biology/textbook.pdf` -> `catalog/sd/g12/biology/textbook.pdf` */
+/** `sd/g6/math/exams.json` -> `catalog/sd/g6/math/exams.json` */
 export function pathToKey(repoPath: string): string {
   const p = repoPath.replace(/^\.?\/+/, "")
-  if (!p.startsWith(`${CONTENT_ROOT}/`))
-    throw new Error(`pathToKey: ${JSON.stringify(repoPath)} is outside ${CONTENT_ROOT}/`)
-  return `${CATALOG_ROOT}/${p.slice(CONTENT_ROOT.length + 1)}`
+  if (!p || p.startsWith("../") || p.startsWith("/"))
+    throw new Error(`pathToKey: ${JSON.stringify(repoPath)} is not a repo-relative path`)
+  return `${CATALOG_ROOT}/${p}`
 }
 
-/** `catalog/sd/g12/biology/textbook.pdf` -> `curricula/sd/g12/biology/textbook.pdf` */
+/** `catalog/sd/g6/math/exams.json` -> `sd/g6/math/exams.json` */
 export function keyToPath(key: string): string {
   if (!key.startsWith(`${CATALOG_ROOT}/`))
     throw new Error(`keyToPath: ${JSON.stringify(key)} is outside ${CATALOG_ROOT}/`)
-  return `${CONTENT_ROOT}/${key.slice(CATALOG_ROOT.length + 1)}`
+  return key.slice(CATALOG_ROOT.length + 1)
 }
 
 /** The stable subject id every consuming app keys on. */

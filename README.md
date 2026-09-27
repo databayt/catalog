@@ -5,39 +5,46 @@
 |           |                                                                                                                           |
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Curricula | Sudan (`sd`), British (`gb`), American (`us`), Indian CBSE (`cbse`), IB Diploma (`ib-dp`), Cambridge IGCSE (`caie-igcse`) |
-| Browse    | [`curricula/index.json`](curricula/index.json) · CDN: `https://cdn.databayt.org/catalog/index.json`                       |
-| Schema    | [`schema/index.ts`](schema/index.ts) (zod) → [`schema/json/`](schema/json) (JSON Schema)                                  |
+| Browse    | [`index.json`](index.json) · CDN: `https://cdn.databayt.org/catalog/index.json`                                           |
+| Schema    | [`schema/index.ts`](schema/index.ts) (zod) → [`schema/*.schema.json`](schema) (JSON Schema)                               |
 | Package   | `@databayt/catalog`: key and URL builders, types, concept art                                                             |
 
-## The one rule: the path is the key
+## The one rule: the repo mirrors the CDN
+
+The repository root **is** `cdn.databayt.org/catalog/`. Every content file sits at the same path in both:
 
 ```
-curricula/sd/g12/biology/textbook.pdf      ← in this repo
-catalog/sd/g12/biology/textbook.pdf        ← on the CDN
-https://cdn.databayt.org/catalog/sd/g12/biology/textbook.pdf
-sd-g12-biology                             ← the subject id every app keys on
+sd/g6/math/exams.json          ←→  https://cdn.databayt.org/catalog/sd/g6/math/exams.json
+sd/g6/math/qbank.json          ←→  https://cdn.databayt.org/catalog/sd/g6/math/qbank.json
+sd/g6/math/structure.json      ←→  https://cdn.databayt.org/catalog/sd/g6/math/structure.json
+sd/g6/math/textbook.pdf        ←→  https://cdn.databayt.org/catalog/sd/g6/math/textbook.pdf
+sd/g6/math/thumbnail.jpg       ←→  https://cdn.databayt.org/catalog/sd/g6/math/thumbnail.jpg
+index.json                     ←→  https://cdn.databayt.org/catalog/index.json
+schema/structure.schema.json   ←→  https://cdn.databayt.org/catalog/schema/structure.schema.json
+
+sd-g6-math                     ←   the subject id every app keys on
 ```
 
-A file's place in the repo is its CDN key, and its first three segments are its id. No override tables and no folder↔slug maps are needed.
+There are no override tables and no folder↔slug maps. `src/`, `scripts/`, `vocab/` and `docs/` are tooling and are never published.
 
 ## Layout
 
 ```
-curricula/
-  index.json                         generated: every curriculum → grade → subject, with counts
-  <curriculum>/
-    curriculum.json                  stages, and the subjects offered per grade
-    <grade>/                         g1 … g12 (kg1, kg2 reserved)
-      <subject>/                     an id from vocab/subjects.json (+ optional -specialized / -optional)
-        structure.json               THE subject manifest: title, source, license, chapters → lessons
-        textbook.md                  Markdown twin of the textbook (where transcribed)
-        pages-md/<N>.md              per-page twin + _CONTRACT.md
-        qbank.json   exams.json      subject-level question pool and assessments
-        textbook.pdf  cover.jpg  thumbnail.jpg  banner.jpg  pages/<N>.webp   ← binaries, on the CDN
-        <NN-chapter>/
+index.json                           generated: every curriculum → grade → subject, with counts
+schema/                              zod source + generated *.schema.json
+<curriculum>/                        sd · gb · us · cbse · ib-dp · caie-igcse
+  curriculum.json                    stages, and the subjects offered per grade
+  <grade>/                           g1 … g12 (kg1, kg2 reserved)
+    <subject>/                       an id from vocab/subjects.json (+ optional -specialized / -optional)
+      structure.json                 THE subject manifest: title, source, license, chapters → lessons
+      textbook.md                    Markdown twin of the textbook (where transcribed)
+      pages-md/<N>.md                per-page twin + _CONTRACT.md
+      qbank.json   exams.json        subject-level question pool and assessments
+      textbook.pdf  cover.jpg  thumbnail.jpg  banner.jpg  pages/<N>.webp   ← binaries, on the CDN
+      <NN-chapter>/
+        qbank.json  exams.json
+        <NN-lesson>/
           qbank.json  exams.json
-          <NN-lesson>/
-            qbank.json  exams.json
 ```
 
 The validator allows only these files and folders.
@@ -64,8 +71,8 @@ pnpm assets push --apply          # upload what the bucket lacks (maintainers)
 ```bash
 pnpm install
 pnpm validate          # the gate: schema, naming, vocabulary, tree shape, lockfile
-pnpm index             # regenerate curricula/index.json
-pnpm schema:json       # regenerate schema/json/ from schema/index.ts
+pnpm index             # regenerate index.json
+pnpm schema:json       # regenerate schema/*.schema.json from schema/index.ts
 pnpm publish:cdn       # dry run of the text publish (maintainers add --apply)
 ```
 
@@ -89,6 +96,6 @@ Brands, schools and publishers are welcome. See [CONTRIBUTING.md](CONTRIBUTING.m
 
 ## License
 
-- Tooling (`src/`, `schema/`, `scripts/`): [MIT](LICENSE).
-- Content authored by contributors (structures, question banks, exams, Markdown twins): [CC BY-SA 4.0](LICENSE-CONTENT).
+- Tooling (`src/`, `schema/`, `scripts/`, `vocab/`): [MIT](LICENSE).
+- Content authored by contributors (the curriculum folders: structures, question banks, exams, Markdown twins): [CC BY-SA 4.0](LICENSE-CONTENT).
 - Source textbooks belong to their publishers. Each `structure.json` names its publisher and license in `source`, and `LicenseRef-Publisher` means the publisher's own terms apply.

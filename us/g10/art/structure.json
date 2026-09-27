@@ -1,0 +1,94 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "us-g10-art",
+  "curriculum": "us",
+  "grade": "g10",
+  "subject": "art",
+  "title": {
+    "ar": "التربية الفنية",
+    "en": "Art"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "art",
+  "source": {
+    "publisher": "aldar",
+    "title": "Art (curriculum-aligned)",
+    "url": "https://www.aldar.com/education/curriculum/american-curriculum",
+    "license": "LicenseRef-Publisher",
+    "standards": "Massachusetts State Standards, Common Core (ELA & Math), NGSS (Science), SHAPE (PE), Advanced Placement; tailored for the UAE (ADEK)",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science); Advanced Placement (College Board); American High School Diploma",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    },
+    {
+      "title": "Advanced Placement (College Board) — course frameworks",
+      "url": "https://apstudents.collegeboard.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-formal-elements",
+      "title": {
+        "en": "Formal Elements & Techniques"
+      },
+      "lessons": [
+        {
+          "slug": "01-composition",
+          "title": {
+            "en": "Composition"
+          }
+        },
+        {
+          "slug": "02-media",
+          "title": {
+            "en": "Media & Techniques"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-context",
+      "title": {
+        "en": "Artists & Context"
+      },
+      "lessons": [
+        {
+          "slug": "01-movements",
+          "title": {
+            "en": "Art Movements"
+          }
+        },
+        {
+          "slug": "02-evaluation",
+          "title": {
+            "en": "Evaluating Artwork"
+          }
+        }
+      ]
+    }
+  ]
+}

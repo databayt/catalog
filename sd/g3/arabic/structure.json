@@ -1,0 +1,352 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g3-arabic",
+  "curriculum": "sd",
+  "grade": "g3",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-values-and-manners",
+      "title": {
+        "ar": "قيم وآداب",
+        "en": "Values and Manners"
+      },
+      "concept": "skills",
+      "image": "clickview/elementary-respectful-relationships-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-love-of-parents",
+          "title": {
+            "ar": "حب الوالدين",
+            "en": "Love of Parents"
+          },
+          "page": 6
+        },
+        {
+          "slug": "02-my-father-and-mother-anthem",
+          "title": {
+            "ar": "نشيد أبي وأمي",
+            "en": "Anthem: My Father and Mother"
+          },
+          "page": 10
+        },
+        {
+          "slug": "03-honouring-neighbour-and-guest",
+          "title": {
+            "ar": "إكرام الجار والضيف",
+            "en": "Honouring the Neighbour and the Guest"
+          },
+          "page": 12
+        },
+        {
+          "slug": "04-honest-living",
+          "title": {
+            "ar": "العيش الشريف",
+            "en": "Honest Living"
+          },
+          "page": 16
+        },
+        {
+          "slug": "05-noble-morals",
+          "title": {
+            "ar": "من مكارم الأخلاق",
+            "en": "From the Noble Morals"
+          },
+          "page": 19
+        }
+      ]
+    },
+    {
+      "slug": "02-my-school",
+      "title": {
+        "ar": "مدرستي",
+        "en": "My School"
+      },
+      "concept": "civic",
+      "image": "clickview/elementary-the-school-community-cover.jpg",
+      "page": 22,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-back-to-school",
+          "title": {
+            "ar": "العودة إلى المدرسة",
+            "en": "Back to School"
+          },
+          "page": 23
+        },
+        {
+          "slug": "02-school-cleanliness",
+          "title": {
+            "ar": "نظافة المدرسة",
+            "en": "School Cleanliness"
+          },
+          "page": 26
+        },
+        {
+          "slug": "03-saluting-the-flag",
+          "title": {
+            "ar": "تحية العلم",
+            "en": "Saluting the Flag"
+          },
+          "page": 30
+        },
+        {
+          "slug": "04-on-the-road",
+          "title": {
+            "ar": "في الطريق",
+            "en": "On the Road"
+          },
+          "page": 34,
+          "image": "clickview/elementary-safety-cover.jpg"
+        },
+        {
+          "slug": "05-how-i-walk-on-the-road",
+          "title": {
+            "ar": "كيف أمشي في الطريق؟",
+            "en": "How Do I Walk on the Road?"
+          },
+          "page": 39,
+          "image": "clickview/elementary-safety-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-my-homeland",
+      "title": {
+        "ar": "وطني",
+        "en": "My Homeland"
+      },
+      "concept": "civic",
+      "image": "clickview/elementary-community-cover.jpg",
+      "page": 45,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-i-love-my-country",
+          "title": {
+            "ar": "أحب بلادي",
+            "en": "I Love My Country"
+          },
+          "page": 46
+        },
+        {
+          "slug": "02-o-my-country-anthem",
+          "title": {
+            "ar": "نشيد يا بلادي",
+            "en": "Anthem: O My Country"
+          },
+          "page": 51
+        },
+        {
+          "slug": "03-mihera-bint-abboud",
+          "title": {
+            "ar": "بطلة من بلادي: مهيرة بت عبود",
+            "en": "A Heroine from My Country: Mihera bint Abboud"
+          },
+          "page": 53,
+          "image": "clickview/elementary-using-sources-cover.jpg"
+        },
+        {
+          "slug": "04-abdel-fadil-al-maz",
+          "title": {
+            "ar": "عبد الفضيل الماظ",
+            "en": "Abdel Fadil Al-Maz"
+          },
+          "page": 58,
+          "image": "clickview/elementary-using-sources-cover.jpg"
+        },
+        {
+          "slug": "05-independence-day",
+          "title": {
+            "ar": "عيد الاستقلال",
+            "en": "Independence Day"
+          },
+          "page": 64
+        }
+      ]
+    },
+    {
+      "slug": "04-wisdom-of-animals",
+      "title": {
+        "ar": "من حكم الحيوان",
+        "en": "From the Wisdom of Animals"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-animals-cover.jpg",
+      "page": 67,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-rooster-and-the-fox",
+          "title": {
+            "ar": "الديك والثعلب",
+            "en": "The Rooster and the Fox"
+          },
+          "page": 68
+        },
+        {
+          "slug": "02-the-beehive",
+          "title": {
+            "ar": "خلية النحل",
+            "en": "The Beehive"
+          },
+          "page": 71,
+          "image": "clickview/elementary-bees-cover.jpg"
+        },
+        {
+          "slug": "03-the-mouse-and-the-cat",
+          "title": {
+            "ar": "الفأر والقط",
+            "en": "The Mouse and the Cat"
+          },
+          "page": 75
+        },
+        {
+          "slug": "04-birds-of-the-gardens",
+          "title": {
+            "ar": "طيور الرياض",
+            "en": "Birds of the Gardens"
+          },
+          "page": 78,
+          "image": "clickview/elementary-birds-cover.jpg"
+        },
+        {
+          "slug": "05-ants",
+          "title": {
+            "ar": "النمل",
+            "en": "Ants"
+          },
+          "page": 81,
+          "image": "clickview/elementary-insects-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-my-health",
+      "title": {
+        "ar": "صحتي",
+        "en": "My Health"
+      },
+      "concept": "health",
+      "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg",
+      "page": 85,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-i-am-your-body",
+          "title": {
+            "ar": "أنا جسمك",
+            "en": "I Am Your Body"
+          },
+          "page": 86
+        },
+        {
+          "slug": "02-the-five-senses",
+          "title": {
+            "ar": "الحواس الخمس",
+            "en": "The Five Senses"
+          },
+          "page": 89
+        },
+        {
+          "slug": "03-medicine-in-food",
+          "title": {
+            "ar": "الدواء في الغذاء",
+            "en": "Medicine in Food"
+          },
+          "page": 92,
+          "image": "clickview/elementary-diet-and-nutrition-cover.jpg"
+        },
+        {
+          "slug": "04-caring-for-teeth",
+          "title": {
+            "ar": "المحافظة على الأسنان",
+            "en": "Caring for the Teeth"
+          },
+          "page": 96,
+          "image": "clickview/elementary-dental-health-cover.jpg"
+        },
+        {
+          "slug": "05-uncovered-food",
+          "title": {
+            "ar": "الأطعمة المكشوفة",
+            "en": "Uncovered Food"
+          },
+          "page": 100,
+          "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-varied-reflections",
+      "title": {
+        "ar": "تأملات متباينة",
+        "en": "Varied Reflections"
+      },
+      "concept": "skills",
+      "image": "clickview/elementary-ethics-and-decision-making-cover.jpg",
+      "page": 107,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-wise-farmer",
+          "title": {
+            "ar": "المزارع الحكيم",
+            "en": "The Wise Farmer"
+          },
+          "page": 108
+        },
+        {
+          "slug": "02-ashab-the-glutton",
+          "title": {
+            "ar": "أشعب الأكول",
+            "en": "Ash'ab the Glutton"
+          },
+          "page": 113
+        },
+        {
+          "slug": "03-table-salt",
+          "title": {
+            "ar": "ملح الطعام",
+            "en": "Table Salt"
+          },
+          "page": 117
+        },
+        {
+          "slug": "04-the-merchant-ali-and-the-thieves",
+          "title": {
+            "ar": "التاجر علي واللصوص",
+            "en": "The Merchant Ali and the Thieves"
+          },
+          "page": 120
+        },
+        {
+          "slug": "05-the-lost-boy-game",
+          "title": {
+            "ar": "لعبة الولد التائه",
+            "en": "The Lost Boy Game"
+          },
+          "page": 128
+        }
+      ]
+    }
+  ]
+}

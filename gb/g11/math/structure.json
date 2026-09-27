@@ -1,0 +1,90 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "gb-g11-math",
+  "curriculum": "gb",
+  "grade": "g11",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics (GCSE)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "aldar",
+    "title": "Mathematics (GCSE) (DfE / exam-board specification)",
+    "url": "https://www.gov.uk/government/collections/gcse-and-a-level-subject-content",
+    "license": "LicenseRef-Publisher",
+    "standards": "GCSE Mathematics",
+    "examBoard": "Pearson Edexcel International GCSE / Cambridge IGCSE (as used by Aldar Academies)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    },
+    {
+      "title": "Pearson Edexcel International GCSE specifications (free PDFs)",
+      "url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses.html"
+    },
+    {
+      "title": "Cambridge IGCSE programme & syllabuses (free PDFs)",
+      "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-number-ratio",
+      "title": {
+        "en": "Number & Ratio"
+      },
+      "lessons": [
+        {
+          "slug": "01-surds-indices",
+          "title": {
+            "en": "Surds & Indices"
+          }
+        },
+        {
+          "slug": "02-percentages",
+          "title": {
+            "en": "Percentages & Growth"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-statistics",
+      "title": {
+        "en": "Statistics & Probability"
+      },
+      "lessons": [
+        {
+          "slug": "01-averages",
+          "title": {
+            "en": "Averages & Spread"
+          }
+        },
+        {
+          "slug": "02-probability",
+          "title": {
+            "en": "Probability"
+          }
+        }
+      ]
+    }
+  ]
+}

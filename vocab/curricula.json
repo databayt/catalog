@@ -1,5 +1,5 @@
 {
-  "$comment": "Curriculum ids equal the lowercased DB Curriculum.code. The id is the first path segment under curricula/ and the first segment after catalog/ on the CDN.",
+  "$comment": "Curriculum ids equal the lowercased DB Curriculum.code. The id is a top-level folder of the repo and the first segment after catalog/ on the CDN (the repo mirrors the CDN).",
   "curricula": [
     {
       "id": "sd",

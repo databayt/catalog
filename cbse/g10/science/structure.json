@@ -1,0 +1,206 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "cbse-g10-science",
+  "curriculum": "cbse",
+  "grade": "g10",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم",
+    "en": "Science"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "science",
+  "source": {
+    "publisher": "ncert",
+    "url": "https://ncert.nic.in/textbook.php?jesc1",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-chemical-reactions-and-equations",
+      "title": {
+        "en": "Chemical Reactions and Equations"
+      },
+      "lessons": [
+        {
+          "slug": "01-chemical-reactions-and-equations",
+          "title": {
+            "en": "Chemical Reactions and Equations"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-acids-bases-and-salts",
+      "title": {
+        "en": "Acids, Bases and Salts"
+      },
+      "lessons": [
+        {
+          "slug": "01-acids-bases-and-salts",
+          "title": {
+            "en": "Acids, Bases and Salts"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-metals-and-non-metals",
+      "title": {
+        "en": "Metals and Non-Metals"
+      },
+      "lessons": [
+        {
+          "slug": "01-metals-and-non-metals",
+          "title": {
+            "en": "Metals and Non-Metals"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-carbon-and-its-compounds",
+      "title": {
+        "en": "Carbon and Its Compounds"
+      },
+      "lessons": [
+        {
+          "slug": "01-carbon-and-its-compounds",
+          "title": {
+            "en": "Carbon and Its Compounds"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-life-processes",
+      "title": {
+        "en": "Life Processes"
+      },
+      "lessons": [
+        {
+          "slug": "01-life-processes",
+          "title": {
+            "en": "Life Processes"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-control-and-coordination",
+      "title": {
+        "en": "Control and Coordination"
+      },
+      "lessons": [
+        {
+          "slug": "01-control-and-coordination",
+          "title": {
+            "en": "Control and Coordination"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-how-do-organisms-reproduce",
+      "title": {
+        "en": "How do Organisms Reproduce?"
+      },
+      "lessons": [
+        {
+          "slug": "01-how-do-organisms-reproduce",
+          "title": {
+            "en": "How do Organisms Reproduce?"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-heredity-and-evolution",
+      "title": {
+        "en": "Heredity and Evolution"
+      },
+      "lessons": [
+        {
+          "slug": "01-heredity-and-evolution",
+          "title": {
+            "en": "Heredity and Evolution"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "09-light-reflection-and-refraction",
+      "title": {
+        "en": "Light: Reflection and Refraction"
+      },
+      "lessons": [
+        {
+          "slug": "01-light-reflection-and-refraction",
+          "title": {
+            "en": "Light: Reflection and Refraction"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "10-human-eye-and-colourful-world",
+      "title": {
+        "en": "The Human Eye and the Colourful World"
+      },
+      "lessons": [
+        {
+          "slug": "01-human-eye-and-colourful-world",
+          "title": {
+            "en": "The Human Eye and the Colourful World"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "11-electricity",
+      "title": {
+        "en": "Electricity"
+      },
+      "lessons": [
+        {
+          "slug": "01-electricity",
+          "title": {
+            "en": "Electricity"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "12-magnetic-effects-of-electric-current",
+      "title": {
+        "en": "Magnetic Effects of Electric Current"
+      },
+      "lessons": [
+        {
+          "slug": "01-magnetic-effects-of-electric-current",
+          "title": {
+            "en": "Magnetic Effects of Electric Current"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "13-our-environment",
+      "title": {
+        "en": "Our Environment"
+      },
+      "lessons": [
+        {
+          "slug": "01-our-environment",
+          "title": {
+            "en": "Our Environment"
+          }
+        }
+      ]
+    }
+  ]
+}

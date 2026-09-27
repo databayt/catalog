@@ -1,0 +1,363 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g11-physics",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "physics",
+  "title": {
+    "ar": "الفيزياء",
+    "en": "Physics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "physics",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "الفيزياء للصف الثاني الثانوي — بخت الرضا — الطبعة الثانية (غير مؤرخة؛ ملف PDF ٢٠١٢م)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1-vectors",
+      "title": {
+        "ar": "الوحدة الأولى: المتجهات",
+        "en": "Unit 1: Vectors"
+      },
+      "concept": "physics",
+      "image": "clickview/high-measuring-force-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-to-vectors",
+          "title": {
+            "ar": "مقدمة في المتجهات",
+            "en": "Introduction to Vectors"
+          },
+          "page": 3
+        },
+        {
+          "slug": "02-the-resultant-of-several-vectors",
+          "title": {
+            "ar": "محصلة عدة متجهات",
+            "en": "The Resultant of Several Vectors"
+          },
+          "page": 8
+        },
+        {
+          "slug": "03-the-graphical-method-for-finding-a-resultant",
+          "title": {
+            "ar": "طريقة رسم المتجهات لإيجاد المحصلة",
+            "en": "The Graphical Method for Finding a Resultant"
+          },
+          "page": 9
+        },
+        {
+          "slug": "04-the-parallelogram-rule",
+          "title": {
+            "ar": "قاعدة متوازي الأضلاع",
+            "en": "The Parallelogram Rule"
+          },
+          "page": 12
+        },
+        {
+          "slug": "05-the-triangle-rule-for-two-vectors",
+          "title": {
+            "ar": "قاعدة المثلث لإيجاد محصلة متجهين",
+            "en": "The Triangle Rule for Two Vectors"
+          },
+          "page": 22
+        },
+        {
+          "slug": "06-resolving-a-vector-into-perpendicular-components",
+          "title": {
+            "ar": "تحليل المتجه إلى مركبتين متعامدتين",
+            "en": "Resolving a Vector into Perpendicular Components"
+          },
+          "page": 30
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2-projectiles",
+      "title": {
+        "ar": "الوحدة الثانية: المقذوفات",
+        "en": "Unit 2: Projectiles"
+      },
+      "concept": "physics",
+      "image": "clickview/high-newton-s-laws-of-motion-cover.jpg",
+      "page": 43,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-motion-of-a-projectile",
+          "title": {
+            "ar": "حركة الجسم المقذوف",
+            "en": "Motion of a Projectile"
+          },
+          "page": 45
+        },
+        {
+          "slug": "02-horizontal-and-vertical-velocities",
+          "title": {
+            "ar": "حساب السرعات الأفقية والرأسية",
+            "en": "Horizontal and Vertical Velocities"
+          },
+          "page": 49
+        },
+        {
+          "slug": "03-horizontal-and-vertical-displacement",
+          "title": {
+            "ar": "الإزاحة الأفقية والإزاحة الرأسية",
+            "en": "Horizontal and Vertical Displacement"
+          },
+          "page": 50
+        },
+        {
+          "slug": "04-total-velocity-and-the-sign-convention",
+          "title": {
+            "ar": "السرعة الكلية وقاعدة الإشارات",
+            "en": "Total Velocity and the Sign Convention"
+          },
+          "page": 54
+        },
+        {
+          "slug": "05-worked-examples-and-exercises",
+          "title": {
+            "ar": "أمثلة وتمارين على المقذوفات",
+            "en": "Worked Examples and Exercises"
+          },
+          "page": 57
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3-moments-and-equilibrium",
+      "title": {
+        "ar": "الوحدة الثالثة: العزم والاتزان",
+        "en": "Unit 3: Moments and Equilibrium"
+      },
+      "concept": "physics",
+      "image": "clickview/high-mechanical-systems-cover.jpg",
+      "page": 69,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-moment-of-a-force",
+          "title": {
+            "ar": "عزم القوة",
+            "en": "The Moment of a Force"
+          },
+          "page": 71
+        },
+        {
+          "slug": "02-the-principle-of-moments-and-equilibrium",
+          "title": {
+            "ar": "قانون العزوم والاتزان",
+            "en": "The Principle of Moments and Equilibrium"
+          },
+          "page": 76
+        },
+        {
+          "slug": "03-couples",
+          "title": {
+            "ar": "الازدواج",
+            "en": "Couples"
+          },
+          "page": 82
+        },
+        {
+          "slug": "04-equilibrium-of-concurrent-forces-triangle-of",
+          "title": {
+            "ar": "اتزان القوى المتلاقية: مثلث القوى وقاعدة لامي والقانون العام",
+            "en": "Equilibrium of Concurrent Forces: Triangle of Forces, Lami's Theorem and the General Law"
+          },
+          "page": 88
+        },
+        {
+          "slug": "05-centre-of-gravity-and-equilibrium",
+          "title": {
+            "ar": "مركز الثقل والاتزان",
+            "en": "Centre of Gravity and Equilibrium"
+          },
+          "page": 99
+        },
+        {
+          "slug": "06-states-of-equilibrium",
+          "title": {
+            "ar": "حالات اتزان الأجسام",
+            "en": "States of Equilibrium"
+          },
+          "page": 102
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4-work-energy-and-power",
+      "title": {
+        "ar": "الوحدة الرابعة: الشغل والطاقة والقدرة",
+        "en": "Unit 4: Work, Energy and Power"
+      },
+      "concept": "physics",
+      "image": "clickview/high-forms-of-energy-cover.jpg",
+      "page": 110,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-work-and-its-units",
+          "title": {
+            "ar": "الشغل ووحداته",
+            "en": "Work and Its Units"
+          },
+          "page": 112
+        },
+        {
+          "slug": "02-power-and-its-units",
+          "title": {
+            "ar": "القدرة ووحداتها",
+            "en": "Power and Its Units"
+          },
+          "page": 118
+        },
+        {
+          "slug": "03-energy-and-its-sources",
+          "title": {
+            "ar": "الطاقة ومصادرها",
+            "en": "Energy and Its Sources"
+          },
+          "page": 125
+        },
+        {
+          "slug": "04-mechanical-energy-kinetic-and-potential",
+          "title": {
+            "ar": "الطاقة الميكانيكية: الحركية وطاقة الوضع",
+            "en": "Mechanical Energy: Kinetic and Potential"
+          },
+          "page": 127
+        },
+        {
+          "slug": "05-transformations-and-conservation-of-mechanical",
+          "title": {
+            "ar": "تحولات الطاقة الميكانيكية وحفظها",
+            "en": "Transformations and Conservation of Mechanical Energy"
+          },
+          "page": 136
+        },
+        {
+          "slug": "06-bernoullis-principle",
+          "title": {
+            "ar": "قاعدة برنولي",
+            "en": "Bernoulli's Principle"
+          },
+          "page": 143,
+          "image": "clickview/high-properties-of-fluids-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-unit-5-heat-and-the-two-laws-of-thermodynamics",
+      "title": {
+        "ar": "الوحدة الخامسة: الحرارة وقانونا الديناميكا الحرارية",
+        "en": "Unit 5: Heat and the Two Laws of Thermodynamics"
+      },
+      "concept": "physics",
+      "image": "clickview/high-thermodynamics-cover.jpg",
+      "page": 157,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-introduction-and-quantity-of-heat",
+          "title": {
+            "ar": "مقدمة وكمية الحرارة",
+            "en": "Introduction and Quantity of Heat"
+          },
+          "page": 159
+        },
+        {
+          "slug": "02-heat-capacity",
+          "title": {
+            "ar": "السعة الحرارية",
+            "en": "Heat Capacity"
+          },
+          "page": 163
+        },
+        {
+          "slug": "03-specific-heat-capacity",
+          "title": {
+            "ar": "الحرارة النوعية للمادة",
+            "en": "Specific Heat Capacity"
+          },
+          "page": 165
+        },
+        {
+          "slug": "04-conservation-of-heat-energy",
+          "title": {
+            "ar": "حفظ الطاقة الحرارية",
+            "en": "Conservation of Heat Energy"
+          },
+          "page": 171
+        },
+        {
+          "slug": "05-determining-specific-heat-by-the-method-of",
+          "title": {
+            "ar": "تعيين الحرارة النوعية بطريقة الخلط",
+            "en": "Determining Specific Heat by the Method of Mixtures"
+          },
+          "page": 174
+        },
+        {
+          "slug": "06-states-of-matter",
+          "title": {
+            "ar": "حالات المادة",
+            "en": "States of Matter"
+          },
+          "page": 179,
+          "image": "clickview/high-changes-in-matter-cover.jpg"
+        },
+        {
+          "slug": "07-melting-point-and-latent-heat-of-fusion",
+          "title": {
+            "ar": "نقطة الانصهار والحرارة الكامنة للانصهار",
+            "en": "Melting Point and Latent Heat of Fusion"
+          },
+          "page": 180
+        },
+        {
+          "slug": "08-vaporisation-evaporation-boiling-point-and",
+          "title": {
+            "ar": "التصعيد والتبخر ونقطة الغليان والحرارة الكامنة للتصعيد",
+            "en": "Vaporisation, Evaporation, Boiling Point and Latent Heat of Vaporisation"
+          },
+          "page": 189
+        },
+        {
+          "slug": "09-the-first-law-of-thermodynamics",
+          "title": {
+            "ar": "القانون الأول للديناميكا الحرارية",
+            "en": "The First Law of Thermodynamics"
+          },
+          "page": 199
+        },
+        {
+          "slug": "10-the-second-law-of-thermodynamics-and-thermal",
+          "title": {
+            "ar": "القانون الثاني للديناميكا الحرارية والقصور الحراري",
+            "en": "The Second Law of Thermodynamics and Thermal Inertia"
+          },
+          "page": 203
+        }
+      ]
+    }
+  ]
+}

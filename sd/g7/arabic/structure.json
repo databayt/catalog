@@ -1,0 +1,784 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g7-arabic",
+  "curriculum": "sd",
+  "grade": "g7",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-unit-1",
+      "title": {
+        "ar": "الوحدة الأولى",
+        "en": "Unit One"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-book",
+          "title": {
+            "ar": "الكتاب",
+            "en": "The Book (reading text)"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-the-mother",
+          "title": {
+            "ar": "الأم",
+            "en": "The Mother — poem by al-Hadi Adam"
+          },
+          "page": 4,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-irab-and-binaa",
+          "title": {
+            "ar": "الإعراب والبناء",
+            "en": "I'raab and Binaa (Grammatical Case and Structure) — review"
+          },
+          "page": 7
+        },
+        {
+          "slug": "04-dictation",
+          "title": {
+            "ar": "الإملاء",
+            "en": "Dictation"
+          },
+          "page": 8
+        },
+        {
+          "slug": "05-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — the mother's/family's role in raising children"
+          },
+          "page": 9
+        }
+      ]
+    },
+    {
+      "slug": "02-unit-2",
+      "title": {
+        "ar": "الوحدة الثانية",
+        "en": "Unit Two"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 13,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-malikat-al-dar",
+          "title": {
+            "ar": "السيدة ملكة الدار",
+            "en": "The Lady Malikat al-Dar — on pioneering Sudanese writer Malikat al-Dar Mohamed Abdalla"
+          },
+          "page": 14
+        },
+        {
+          "slug": "02-continent-to-continent",
+          "title": {
+            "ar": "من قارة إلى قارة",
+            "en": "From Continent to Continent — poem on Tariq ibn Ziyad's crossing to Andalusia, by Ali Mahmoud Taha"
+          },
+          "page": 19,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        },
+        {
+          "slug": "03-punctuation-marks",
+          "title": {
+            "ar": "تطبيقات على علامات الترقيم",
+            "en": "Punctuation Mark Exercises (dictation)"
+          }
+        },
+        {
+          "slug": "04-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — oral and written"
+          }
+        },
+        {
+          "slug": "05-grammar",
+          "title": {
+            "ar": "النحو",
+            "en": "Grammar"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-unit-3",
+      "title": {
+        "ar": "الوحدة الثالثة",
+        "en": "Unit Three"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 28,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-robot",
+          "title": {
+            "ar": "الإنسان الآلي",
+            "en": "The Robot (reading text)"
+          },
+          "page": 29
+        },
+        {
+          "slug": "02-o-my-brother-man",
+          "title": {
+            "ar": "يا أخي الإنسان",
+            "en": "O My Brother, Man — poem by Ali Hashem Rashid"
+          },
+          "page": 31,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-tanween-maqsur",
+          "title": {
+            "ar": "تنوين المقصور",
+            "en": "Nunation (Tanween) of the Defective Noun al-Maqsur"
+          },
+          "page": 35
+        },
+        {
+          "slug": "04-the-five-nouns",
+          "title": {
+            "ar": "الأسماء الخمسة",
+            "en": "The Five Nouns"
+          },
+          "page": 36
+        },
+        {
+          "slug": "05-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition"
+          },
+          "page": 36
+        }
+      ]
+    },
+    {
+      "slug": "04-unit-4",
+      "title": {
+        "ar": "الوحدة الرابعة",
+        "en": "Unit Four"
+      },
+      "concept": "language",
+      "image": "clickview/middle-inference-cover.jpg",
+      "page": 40,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-aisha-mother-of-believers",
+          "title": {
+            "ar": "عائشة أم المؤمنين",
+            "en": "Aisha, Mother of the Believers (reading text)"
+          },
+          "page": 41
+        },
+        {
+          "slug": "02-be-great",
+          "title": {
+            "ar": "كوني عظيمة",
+            "en": "Be Great — essay by May Ziade"
+          },
+          "page": 43
+        },
+        {
+          "slug": "03-feminization-of-verb",
+          "title": {
+            "ar": "تأنيث الفعل",
+            "en": "Feminization of the Verb"
+          },
+          "page": 46
+        }
+      ]
+    },
+    {
+      "slug": "05-unit-5",
+      "title": {
+        "ar": "الوحدة الخامسة",
+        "en": "Unit Five"
+      },
+      "concept": "language",
+      "image": "clickview/middle-genre-cover.jpg",
+      "page": 50,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-artist-othman",
+          "title": {
+            "ar": "الفنان التشكيلي عثمان وقيع الله",
+            "en": "The Visual Artist Othman Waqi Allah (reading text)"
+          },
+          "page": 51
+        },
+        {
+          "slug": "02-freedom-poem",
+          "title": {
+            "ar": "قصيدة الحرية",
+            "en": "The Freedom Poem — by Abu al-Qasim al-Shabi"
+          },
+          "page": 54,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-the-five-verbs",
+          "title": {
+            "ar": "الأفعال الخمسة",
+            "en": "The Five Verbs"
+          },
+          "page": 57
+        },
+        {
+          "slug": "04-hamza-mid-word",
+          "title": {
+            "ar": "الهمزة في وسط الكلمة",
+            "en": "The Hamza in the Middle of a Word"
+          },
+          "page": 58
+        }
+      ]
+    },
+    {
+      "slug": "06-unit-6",
+      "title": {
+        "ar": "الوحدة السادسة",
+        "en": "Unit Six"
+      },
+      "concept": "language",
+      "image": "clickview/middle-media-literacy-cover.jpg",
+      "page": 59,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-noise-pollution",
+          "title": {
+            "ar": "التلوث الضوضائي",
+            "en": "Noise Pollution (reading text)"
+          },
+          "page": 60
+        },
+        {
+          "slug": "02-i-will-resist",
+          "title": {
+            "ar": "سأقاوم",
+            "en": "I Will Resist — poem by Samih al-Qasim"
+          },
+          "page": 65,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        },
+        {
+          "slug": "03-dictation",
+          "title": {
+            "ar": "الإملاء",
+            "en": "Dictation (teacher's choice)"
+          },
+          "page": 69
+        },
+        {
+          "slug": "04-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — on war and peace"
+          },
+          "page": 69
+        },
+        {
+          "slug": "05-types-of-khabar",
+          "title": {
+            "ar": "أنواع الخبر",
+            "en": "Types of the Predicate (Khabar)"
+          },
+          "page": 70
+        }
+      ]
+    },
+    {
+      "slug": "07-unit-7",
+      "title": {
+        "ar": "الوحدة السابعة",
+        "en": "Unit Seven"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-forms-and-structure-cover.jpg",
+      "page": 74,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-merchant-of-venice",
+          "title": {
+            "ar": "مناظر من مسرحية (تاجر البندقية)",
+            "en": "Scenes from the Play (The Merchant of Venice) — by William Shakespeare"
+          },
+          "page": 75
+        },
+        {
+          "slug": "02-the-noble-honor",
+          "title": {
+            "ar": "الشرف الرفيع",
+            "en": "The Noble Honor — anthem/memorized poem by al-Mu'tamid ibn Abbad"
+          },
+          "page": 79,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-hamza-on-ya-word-end",
+          "title": {
+            "ar": "الهمزة التي على الياء في آخر الكلمة",
+            "en": "The Hamza Written on Ya' at the End of a Word"
+          },
+          "page": 83
+        },
+        {
+          "slug": "04-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — on the importance of theatre"
+          },
+          "page": 84
+        },
+        {
+          "slug": "05-inna-and-sisters",
+          "title": {
+            "ar": "إنّ وأخواتها",
+            "en": "Inna and Her Sisters"
+          },
+          "page": 84
+        }
+      ]
+    },
+    {
+      "slug": "08-unit-8",
+      "title": {
+        "ar": "الوحدة الثامنة",
+        "en": "Unit Eight"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-terms-cover.jpg",
+      "page": 87,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-national-music-effect",
+          "title": {
+            "ar": "أثر الموسيقا الوطنية في حياة الشعوب",
+            "en": "The Effect of National Music on the Life of Peoples (reading text)"
+          },
+          "page": 88
+        },
+        {
+          "slug": "02-proverbs-and-wisdom",
+          "title": {
+            "ar": "طائفة من الأمثال والحكم",
+            "en": "A Selection of Proverbs and Wisdom Sayings"
+          },
+          "page": 93
+        },
+        {
+          "slug": "03-dictation",
+          "title": {
+            "ar": "الإملاء",
+            "en": "Dictation (teacher's choice)"
+          },
+          "page": 96
+        },
+        {
+          "slug": "04-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — on selected proverbs"
+          },
+          "page": 96
+        },
+        {
+          "slug": "05-kana-sisters",
+          "title": {
+            "ar": "بعض أخوات كان",
+            "en": "Some of Kana's Sisters"
+          },
+          "page": 97
+        }
+      ]
+    },
+    {
+      "slug": "09-unit-9",
+      "title": {
+        "ar": "الوحدة التاسعة",
+        "en": "Unit Nine"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 102,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-last-tears",
+          "title": {
+            "ar": "آخر الدموع",
+            "en": "The Last Tears (story)"
+          },
+          "page": 103
+        },
+        {
+          "slug": "02-al-qadarif",
+          "title": {
+            "ar": "القضارف",
+            "en": "Al-Qadarif — poem by Idris Muhammad Jamma'a"
+          },
+          "page": 109,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        },
+        {
+          "slug": "03-dictation",
+          "title": {
+            "ar": "الإملاء",
+            "en": "Dictation"
+          },
+          "page": 113
+        },
+        {
+          "slug": "04-composition",
+          "title": {
+            "ar": "التعبير",
+            "en": "Composition — 'Sudan, breadbasket of the world'"
+          },
+          "page": 113
+        },
+        {
+          "slug": "05-transitive-intransitive-verbs",
+          "title": {
+            "ar": "تعدي الفعل ولزومه",
+            "en": "Transitive and Intransitive Verbs"
+          },
+          "page": 113
+        }
+      ]
+    },
+    {
+      "slug": "10-unit-10",
+      "title": {
+        "ar": "الوحدة العاشرة",
+        "en": "Unit Ten"
+      },
+      "concept": "language",
+      "image": "clickview/middle-genre-cover.jpg",
+      "page": 119,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-bull-in-ceramics-warehouse",
+          "title": {
+            "ar": "الثور في مستودع الخزف",
+            "en": "The Bull in the Ceramics Warehouse (fable/reading text)"
+          },
+          "page": 120
+        },
+        {
+          "slug": "02-tuti-in-the-morning",
+          "title": {
+            "ar": "توتي في الصباح",
+            "en": "Tuti in the Morning — poem by al-Tijani Yousif Bashir"
+          },
+          "page": 124,
+          "image": "clickview/high-poetic-devices-cover.jpg"
+        },
+        {
+          "slug": "03-taa-marbuta-maftouha",
+          "title": {
+            "ar": "التاء المربوطة والتاء المفتوحة",
+            "en": "Taa Marbuta and Taa Maftouha"
+          },
+          "page": 129
+        }
+      ]
+    },
+    {
+      "slug": "11-unit-11",
+      "title": {
+        "ar": "الوحدة الحادية عشرة",
+        "en": "Unit Eleven"
+      },
+      "concept": "language",
+      "image": "clickview/middle-vocabulary-cover.jpg",
+      "page": 135,
+      "lessonsGeneric": true,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson One"
+          },
+          "page": 135
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson Two"
+          },
+          "page": 137
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson Three"
+          },
+          "page": 139
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson Four"
+          },
+          "page": 142
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson Five"
+          },
+          "page": 144
+        }
+      ]
+    },
+    {
+      "slug": "12-unit-12",
+      "title": {
+        "ar": "الوحدة الثانية عشرة",
+        "en": "Unit Twelve"
+      },
+      "concept": "language",
+      "image": "clickview/middle-word-origins-cover.jpg",
+      "page": 147,
+      "lessonsGeneric": true,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson One"
+          },
+          "page": 147
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson Two"
+          },
+          "page": 150
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson Three"
+          },
+          "page": 153
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson Four"
+          },
+          "page": 156
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson Five"
+          },
+          "page": 159
+        }
+      ]
+    },
+    {
+      "slug": "13-unit-13",
+      "title": {
+        "ar": "الوحدة الثالثة عشرة",
+        "en": "Unit Thirteen"
+      },
+      "concept": "language",
+      "image": "clickview/middle-communication-skills-cover.jpg",
+      "page": 163,
+      "lessonsGeneric": true,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson One"
+          },
+          "page": 163
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson Two"
+          },
+          "page": 166
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson Three"
+          },
+          "page": 169
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson Four"
+          },
+          "page": 172
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson Five"
+          },
+          "page": 175
+        }
+      ]
+    },
+    {
+      "slug": "14-unit-14",
+      "title": {
+        "ar": "الوحدة الرابعة عشرة",
+        "en": "Unit Fourteen"
+      },
+      "concept": "language",
+      "image": "clickview/middle-everyday-english-cover.jpg",
+      "page": 178,
+      "lessonsGeneric": true,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson One"
+          },
+          "page": 178
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson Two"
+          },
+          "page": 181
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson Three"
+          },
+          "page": 183
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson Four"
+          },
+          "page": 185
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson Five"
+          },
+          "page": 188
+        }
+      ]
+    },
+    {
+      "slug": "15-unit-15",
+      "title": {
+        "ar": "الوحدة الخامسة عشرة",
+        "en": "Unit Fifteen"
+      },
+      "concept": "language",
+      "image": "clickview/middle-the-research-process-cover.jpg",
+      "page": 191,
+      "lessonsGeneric": true,
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson One"
+          },
+          "page": 191
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson Two"
+          },
+          "page": 194
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson Three"
+          },
+          "page": 196
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson Four"
+          },
+          "page": 199
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson Five"
+          },
+          "page": 201
+        }
+      ]
+    }
+  ]
+}

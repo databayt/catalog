@@ -1,0 +1,178 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "ib-dp-g12-chemistry",
+  "curriculum": "ib-dp",
+  "grade": "g12",
+  "subject": "chemistry",
+  "title": {
+    "ar": "الكيمياء",
+    "en": "Chemistry"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "chemistry",
+  "source": {
+    "publisher": "ibo",
+    "url": "https://www.ibo.org/programmes/diploma-programme/curriculum/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-stoichiometric-relationships",
+      "title": {
+        "en": "Stoichiometric Relationships"
+      },
+      "lessons": [
+        {
+          "slug": "01-stoichiometric-relationships",
+          "title": {
+            "en": "Stoichiometric Relationships"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-atomic-structure",
+      "title": {
+        "en": "Atomic Structure"
+      },
+      "lessons": [
+        {
+          "slug": "01-atomic-structure",
+          "title": {
+            "en": "Atomic Structure"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-periodicity",
+      "title": {
+        "en": "Periodicity"
+      },
+      "lessons": [
+        {
+          "slug": "01-periodicity",
+          "title": {
+            "en": "Periodicity"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-chemical-bonding-and-structure",
+      "title": {
+        "en": "Chemical Bonding and Structure"
+      },
+      "lessons": [
+        {
+          "slug": "01-chemical-bonding-and-structure",
+          "title": {
+            "en": "Chemical Bonding and Structure"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-energetics-and-thermochemistry",
+      "title": {
+        "en": "Energetics and Thermochemistry"
+      },
+      "lessons": [
+        {
+          "slug": "01-energetics-and-thermochemistry",
+          "title": {
+            "en": "Energetics and Thermochemistry"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-chemical-kinetics",
+      "title": {
+        "en": "Chemical Kinetics"
+      },
+      "lessons": [
+        {
+          "slug": "01-chemical-kinetics",
+          "title": {
+            "en": "Chemical Kinetics"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-equilibrium",
+      "title": {
+        "en": "Equilibrium"
+      },
+      "lessons": [
+        {
+          "slug": "01-equilibrium",
+          "title": {
+            "en": "Equilibrium"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-acids-and-bases",
+      "title": {
+        "en": "Acids and Bases"
+      },
+      "lessons": [
+        {
+          "slug": "01-acids-and-bases",
+          "title": {
+            "en": "Acids and Bases"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "09-redox-processes",
+      "title": {
+        "en": "Redox Processes"
+      },
+      "lessons": [
+        {
+          "slug": "01-redox-processes",
+          "title": {
+            "en": "Redox Processes"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "10-organic-chemistry",
+      "title": {
+        "en": "Organic Chemistry"
+      },
+      "lessons": [
+        {
+          "slug": "01-organic-chemistry",
+          "title": {
+            "en": "Organic Chemistry"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "11-measurement-and-data-processing",
+      "title": {
+        "en": "Measurement and Data Processing"
+      },
+      "lessons": [
+        {
+          "slug": "01-measurement-and-data-processing",
+          "title": {
+            "en": "Measurement and Data Processing"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g12-literary-studies",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "literary-studies",
+  "title": {
+    "ar": "دراسات أدبية ولغوية",
+    "en": "Literary and Linguistic Studies"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "دراسات أدبية ولغوية — الصف الثالث الثانوي — بلا تاريخ طبع",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-literary-criticism",
+      "title": {
+        "ar": "النقد",
+        "en": "Literary Criticism"
+      },
+      "concept": "language",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-from-the-history-of-criticism",
+          "title": {
+            "ar": "من تاريخ النقد",
+            "en": "From the History of Criticism"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-examples-of-criticism",
+          "title": {
+            "ar": "نماذج من النقد",
+            "en": "Examples of Criticism"
+          },
+          "page": 1
+        },
+        {
+          "slug": "03-text-analysis",
+          "title": {
+            "ar": "تحليل النصوص",
+            "en": "Text Analysis"
+          },
+          "page": 17
+        },
+        {
+          "slug": "04-examples-of-analysis",
+          "title": {
+            "ar": "نماذج التحليل",
+            "en": "Examples of Analysis"
+          },
+          "page": 23
+        },
+        {
+          "slug": "05-first-example-the-poem-evening",
+          "title": {
+            "ar": "النموذج الأول: قصيدة المساء",
+            "en": "First Example: The Poem 'Evening'"
+          },
+          "page": 23
+        },
+        {
+          "slug": "06-second-example-the-poem-the-eagle",
+          "title": {
+            "ar": "النموذج الثاني: قصيدة النسر",
+            "en": "Second Example: The Poem 'The Eagle'"
+          },
+          "page": 27
+        }
+      ]
+    },
+    {
+      "slug": "02-a-poet-and-a-poem",
+      "title": {
+        "ar": "شاعر وقصيدة",
+        "en": "A Poet and a Poem"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-forms-and-structure-cover.jpg",
+      "page": 31,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-text-of-the-poem",
+          "title": {
+            "ar": "نص القصيدة",
+            "en": "The Text of the Poem"
+          },
+          "page": 36
+        },
+        {
+          "slug": "02-explanation-of-the-poem",
+          "title": {
+            "ar": "شرح القصيدة",
+            "en": "Explanation of the Poem"
+          },
+          "page": 39
+        }
+      ]
+    },
+    {
+      "slug": "03-introduction-to-prosody",
+      "title": {
+        "ar": "مقدمة في علم العروض",
+        "en": "Introduction to Prosody"
+      },
+      "concept": "language",
+      "image": "clickview/high-poetic-devices-cover.jpg",
+      "page": 75,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-form-of-the-arabic-poem",
+          "title": {
+            "ar": "صورة القصيدة العربية",
+            "en": "The Form of the Arabic Poem"
+          },
+          "page": 76
+        },
+        {
+          "slug": "02-the-music-of-poetry",
+          "title": {
+            "ar": "موسيقا الشعر",
+            "en": "The Music of Poetry"
+          },
+          "page": 82
+        },
+        {
+          "slug": "03-poetic-metres",
+          "title": {
+            "ar": "بحور الشعر",
+            "en": "Poetic Metres"
+          },
+          "page": 84
+        },
+        {
+          "slug": "04-prosodic-notation",
+          "title": {
+            "ar": "الخط العروضي",
+            "en": "Prosodic Notation"
+          },
+          "page": 85
+        },
+        {
+          "slug": "05-selected-metres",
+          "title": {
+            "ar": "بحور مختارة",
+            "en": "Selected Metres"
+          },
+          "page": 90
+        },
+        {
+          "slug": "06-the-development-of-poetic-music",
+          "title": {
+            "ar": "تطور موسيقا الشعر",
+            "en": "The Development of Poetic Music"
+          },
+          "page": 103
+        },
+        {
+          "slug": "07-poetic-licence",
+          "title": {
+            "ar": "من ضرورات الشعر",
+            "en": "Poetic Licence"
+          },
+          "page": 106
+        }
+      ]
+    },
+    {
+      "slug": "04-fragments-of-linguistics",
+      "title": {
+        "ar": "شذرات من علم اللغة",
+        "en": "Fragments of Linguistics"
+      },
+      "concept": "language",
+      "image": "clickview/high-spelling-rules-cover.jpg",
+      "page": 107,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-dictionaries",
+          "title": {
+            "ar": "المعاجم",
+            "en": "Dictionaries"
+          },
+          "page": 108
+        },
+        {
+          "slug": "02-the-main-lexicographic-schools",
+          "title": {
+            "ar": "أهم المدارس المعجمية",
+            "en": "The Main Lexicographic Schools"
+          },
+          "page": 109
+        },
+        {
+          "slug": "03-the-school-of-alphabetical-order-by-final",
+          "title": {
+            "ar": "مدرسة الترتيب الألفبائي حسب أواخر الكلمات",
+            "en": "The School of Alphabetical Order by Final Letters"
+          },
+          "page": 111
+        },
+        {
+          "slug": "04-the-school-of-alphabetical-order-by-initial",
+          "title": {
+            "ar": "مدرسة الترتيب الألفبائي حسب أوائل الكلمات",
+            "en": "The School of Alphabetical Order by Initial Letters"
+          },
+          "page": 112
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g10-home-economics",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "home-economics",
+  "title": {
+    "ar": "الاقتصاد المنزلي",
+    "en": "Home Economics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "life",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-introduction-to-family-sciences",
+      "title": {
+        "ar": "مدخل لدراسة العلوم الأسرية",
+        "en": "Introduction to Family Sciences"
+      },
+      "concept": "health",
+      "image": "clickview/high-community-engagement-and-care-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-defining-family-sciences",
+          "title": {
+            "ar": "تعريف العلوم الأسرية",
+            "en": "Defining Family Sciences"
+          }
+        },
+        {
+          "slug": "02-family-sciences-in-legislation",
+          "title": {
+            "ar": "حيثية العلوم الأسرية في التشريع",
+            "en": "Family Sciences in Legislation"
+          },
+          "image": "clickview/high-ethical-debates-cover.jpg"
+        },
+        {
+          "slug": "03-the-function-of-the-family",
+          "title": {
+            "ar": "وظيفة الأسرة",
+            "en": "The Function of the Family"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-nutrition-and-health",
+      "title": {
+        "ar": "التغذية والصحة",
+        "en": "Nutrition and Health"
+      },
+      "concept": "health",
+      "image": "clickview/high-nutrients-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-human-nutrition-and-the-role-of-food",
+          "title": {
+            "ar": "علم تغذية الإنسان ودور الغذاء في الجسم",
+            "en": "Human Nutrition and the Role of Food"
+          }
+        },
+        {
+          "slug": "02-essential-minerals-in-food",
+          "title": {
+            "ar": "المعادن الأساسية في الغذاء",
+            "en": "Essential Minerals in Food"
+          }
+        },
+        {
+          "slug": "03-food-energy-and-the-bodys-needs",
+          "title": {
+            "ar": "الطاقة الغذائية واحتياجات الجسم",
+            "en": "Food Energy and the Body's Needs"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-underweight-and-overweight",
+      "title": {
+        "ar": "مشاكل نقص وزيادة الوزن",
+        "en": "Underweight and Overweight"
+      },
+      "concept": "health",
+      "image": "clickview/high-pathology-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-underweight-and-overweight-problems",
+          "title": {
+            "ar": "مشاكل نقص وزيادة الوزن",
+            "en": "Underweight and Overweight Problems"
+          }
+        },
+        {
+          "slug": "02-population-and-nutrition",
+          "title": {
+            "ar": "السكان والتغذية",
+            "en": "Population and Nutrition"
+          },
+          "image": "clickview/high-agricultural-sustainability-cover.jpg"
+        },
+        {
+          "slug": "03-food-groups",
+          "title": {
+            "ar": "المجموعات الغذائية",
+            "en": "Food Groups"
+          },
+          "image": "clickview/high-nutrients-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-health-and-disease",
+      "title": {
+        "ar": "الصحة والأمراض",
+        "en": "Health and Disease"
+      },
+      "concept": "health",
+      "image": "clickview/high-healthy-lifestyle-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-introduction-to-health-sciences",
+          "title": {
+            "ar": "مدخل لعلوم الصحة",
+            "en": "Introduction to Health Sciences"
+          }
+        },
+        {
+          "slug": "02-environment-and-human-health",
+          "title": {
+            "ar": "البيئة وصحة الإنسان",
+            "en": "Environment and Human Health"
+          },
+          "image": "clickview/high-pollution-cover.jpg"
+        },
+        {
+          "slug": "03-health-culture-awareness-and-community",
+          "title": {
+            "ar": "الثقافة والوعي الصحي وأهمية مشاركة المجتمع",
+            "en": "Health Culture, Awareness and Community Participation"
+          },
+          "image": "clickview/high-community-engagement-and-care-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-family-health-and-infectious-diseases",
+      "title": {
+        "ar": "صحة الأسرة والأمراض المعدية",
+        "en": "Family Health and Infectious Diseases"
+      },
+      "concept": "health",
+      "image": "clickview/high-immune-system-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-family-health",
+          "title": {
+            "ar": "صحة الأسرة",
+            "en": "Family Health"
+          },
+          "image": "clickview/high-healthy-lifestyle-cover.jpg"
+        },
+        {
+          "slug": "02-infectious-diseases",
+          "title": {
+            "ar": "الأمراض المعدية",
+            "en": "Infectious Diseases"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-household-skills-and-making",
+      "title": {
+        "ar": "المهارات الأسرية والصنع",
+        "en": "Household Skills and Making"
+      },
+      "concept": "career",
+      "image": "clickview/high-culinary-arts-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-food-preparation-and-the-effects-of-cooking",
+          "title": {
+            "ar": "إعداد الأطعمة وتأثير الطهي",
+            "en": "Food Preparation and the Effects of Cooking"
+          }
+        },
+        {
+          "slug": "02-food-preservation-and-processing",
+          "title": {
+            "ar": "حفظ وتصنيع الأغذية",
+            "en": "Food Preservation and Processing"
+          },
+          "image": "clickview/high-food-product-development-cover.jpg"
+        },
+        {
+          "slug": "03-household-skills-making-food-products-at-home",
+          "title": {
+            "ar": "مدخل للمهارات الأسرية - صناعة بعض المنتجات الغذائية بالمنزل",
+            "en": "Household Skills: Making Food Products at Home"
+          },
+          "image": "clickview/high-food-product-development-cover.jpg"
+        },
+        {
+          "slug": "04-sewing-and-tailoring",
+          "title": {
+            "ar": "معالجات الخياطة والتفصيل",
+            "en": "Sewing and Tailoring"
+          },
+          "image": "clickview/high-textiles-and-design-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

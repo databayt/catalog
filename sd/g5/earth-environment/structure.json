@@ -1,0 +1,249 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g5-earth-environment",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "earth-environment",
+  "title": {
+    "ar": "الأرض بيئة الحياة",
+    "en": "Earth, the Environment of Life"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "earth",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-earth-and-universe",
+      "title": {
+        "ar": "الأرض والكون",
+        "en": "The Earth and the Universe"
+      },
+      "concept": "earth",
+      "image": "clickview/elementary-space-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-universe",
+          "title": {
+            "ar": "الكون",
+            "en": "The Universe"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-the-earth",
+          "title": {
+            "ar": "الأرض",
+            "en": "The Earth"
+          },
+          "page": 15
+        },
+        {
+          "slug": "03-the-moon",
+          "title": {
+            "ar": "القمر",
+            "en": "The Moon"
+          },
+          "page": 32,
+          "image": "clickview/elementary-the-moon-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-earth-envelopes",
+      "title": {
+        "ar": "أغلفة الأرض",
+        "en": "The Earth's Envelopes (Spheres)"
+      },
+      "concept": "earth",
+      "image": "clickview/elementary-earth-s-spheres-cover.jpg",
+      "page": 36,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-atmosphere",
+          "title": {
+            "ar": "الغلاف الجوي",
+            "en": "The Atmosphere"
+          },
+          "page": 37
+        },
+        {
+          "slug": "02-lithosphere",
+          "title": {
+            "ar": "الغلاف الصخري",
+            "en": "The Lithosphere"
+          },
+          "page": 52
+        },
+        {
+          "slug": "03-hydrosphere",
+          "title": {
+            "ar": "الغلاف المائي",
+            "en": "The Hydrosphere"
+          },
+          "page": 65
+        },
+        {
+          "slug": "04-biosphere",
+          "title": {
+            "ar": "الغلاف الحيوي",
+            "en": "The Biosphere"
+          },
+          "page": 77
+        }
+      ]
+    },
+    {
+      "slug": "03-the-environment",
+      "title": {
+        "ar": "البيئة",
+        "en": "The Environment"
+      },
+      "concept": "nature",
+      "image": "clickview/elementary-habitats-cover.jpg",
+      "page": 89,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-environment",
+          "title": {
+            "ar": "البيئة",
+            "en": "The Environment"
+          },
+          "page": 90
+        },
+        {
+          "slug": "02-relations-among-living-things",
+          "title": {
+            "ar": "العلاقة بين الكائنات الحية في النظام البيئي",
+            "en": "Relationships Among Living Things in the Ecosystem"
+          },
+          "page": 93
+        },
+        {
+          "slug": "03-humans-and-living-things",
+          "title": {
+            "ar": "العلاقة بين الإنسان والكائنات الحية",
+            "en": "The Relationship Between Humans and Living Things"
+          },
+          "page": 99
+        },
+        {
+          "slug": "04-gas-cycles-and-life",
+          "title": {
+            "ar": "دورة الغازات وأثرها على الحياة",
+            "en": "The Cycle of Gases and Its Effect on Life"
+          },
+          "page": 107,
+          "image": "clickview/middle-the-carbon-cycle-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-world-environments",
+      "title": {
+        "ar": "بيئات العالم",
+        "en": "Environments of the World"
+      },
+      "concept": "earth",
+      "image": "clickview/elementary-forests-rainforests-and-grasslands-cover.jpg",
+      "page": 113,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-environments-of-the-world",
+          "title": {
+            "ar": "بيئات العالم",
+            "en": "Environments of the World"
+          },
+          "page": 114
+        },
+        {
+          "slug": "02-environments-of-sudan",
+          "title": {
+            "ar": "بيئات السودان",
+            "en": "Environments of Sudan"
+          },
+          "page": 117
+        }
+      ]
+    },
+    {
+      "slug": "05-environment-and-civilizations",
+      "title": {
+        "ar": "أثر البيئة في قيام الحضارات",
+        "en": "The Effect of the Environment on the Rise of Civilizations"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-settlements-and-migration-cover.jpg",
+      "page": 126,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-river-civilization-kush",
+          "title": {
+            "ar": "نموذج لحضارة في بيئة نهرية (حضارة كوش)",
+            "en": "A Model of a Riverine Civilization (Kush)"
+          },
+          "page": 127
+        },
+        {
+          "slug": "02-grassland-civilization-darfur",
+          "title": {
+            "ar": "نموذج لحضارة في بيئة عشبية (منطقة دارفور)",
+            "en": "A Model of a Grassland Civilization (Darfur Region)"
+          },
+          "page": 146
+        }
+      ]
+    },
+    {
+      "slug": "06-human-environment-interaction-sudan",
+      "title": {
+        "ar": "التفاعل بين الإنسان والبيئة في السودان",
+        "en": "Human–Environment Interaction in Sudan"
+      },
+      "concept": "earth",
+      "image": "clickview/elementary-nature-conservation-cover.jpg",
+      "page": 161,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-human-environment-interaction",
+          "title": {
+            "ar": "التفاعل بين الإنسان والبيئة",
+            "en": "Human–Environment Interaction"
+          },
+          "page": 162
+        },
+        {
+          "slug": "02-livelihoods-in-sudan",
+          "title": {
+            "ar": "سبل كسب العيش في السودان",
+            "en": "Livelihoods in Sudan"
+          },
+          "page": 168,
+          "image": "clickview/elementary-farming-and-food-production-cover.jpg"
+        },
+        {
+          "slug": "03-environmental-harm-of-livelihoods",
+          "title": {
+            "ar": "الأضرار البيئية الناشئة عن ممارسة سبل كسب العيش",
+            "en": "Environmental Harm Arising from Livelihood Practices"
+          },
+          "page": 200
+        }
+      ]
+    }
+  ]
+}

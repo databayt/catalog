@@ -1,0 +1,461 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g12-english",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "SPINE 6 — Sudan Practical Integrated National English, Book 6 (177 pp)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "pdf"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-trees",
+      "title": {
+        "en": "Trees"
+      },
+      "concept": "english",
+      "image": "clickview/high-deforestation-cover.jpg",
+      "page": 6,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 6
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 6,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 6,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 6,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-young-people-today",
+      "title": {
+        "en": "Young People Today"
+      },
+      "concept": "english",
+      "image": "clickview/high-healthy-mindsets-for-teenage-boys-cover.jpg",
+      "page": 22,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 22
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 22,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 22,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 22,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-doing-the-right-thing",
+      "title": {
+        "en": "Doing the Right Thing"
+      },
+      "concept": "english",
+      "image": "clickview/high-ethical-debates-cover.jpg",
+      "page": 42,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 42
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 42,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 42,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 42,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-education",
+      "title": {
+        "en": "Education"
+      },
+      "concept": "english",
+      "image": "clickview/high-learning-cover.jpg",
+      "page": 56,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 56
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 56,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 56,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 56,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-womens-participation-life-line-for-development",
+      "title": {
+        "en": "Women's Participation: Life-line for Development"
+      },
+      "concept": "english",
+      "image": "clickview/high-changing-roles-of-women-cover.jpg",
+      "page": 70,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 70
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 70,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 70,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 70,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "06-food-and-nutrition",
+      "title": {
+        "en": "Food and Nutrition"
+      },
+      "concept": "english",
+      "image": "clickview/high-nutrients-cover.jpg",
+      "page": 86,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 86
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 86,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 86,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 86,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "07-development",
+      "title": {
+        "en": "Development"
+      },
+      "concept": "english",
+      "image": "clickview/high-sustainability-case-studies-cover.jpg",
+      "page": 107,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 107
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 107,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 107,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 107,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "08-a-world-of-difference",
+      "title": {
+        "en": "A World of Difference"
+      },
+      "concept": "english",
+      "image": "clickview/high-globalization-cover.jpg",
+      "page": 124,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 124
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 124,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 124,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 124,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "09-agatha-christie",
+      "title": {
+        "en": "Agatha Christie"
+      },
+      "concept": "english",
+      "image": "clickview/high-genre-cover.jpg",
+      "page": 142,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 142
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 142,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 142,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 142,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "10-science-in-action",
+      "title": {
+        "en": "Science in Action"
+      },
+      "concept": "english",
+      "image": "clickview/high-thinking-scientifically-cover.jpg",
+      "page": 160,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-reading",
+          "title": {
+            "en": "Reading"
+          },
+          "page": 160
+        },
+        {
+          "slug": "02-exploring-language",
+          "title": {
+            "en": "Exploring Language"
+          },
+          "page": 160,
+          "image": "clickview/high-sentences-cover.jpg"
+        },
+        {
+          "slug": "03-writing",
+          "title": {
+            "en": "Writing"
+          },
+          "page": 160,
+          "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
+        },
+        {
+          "slug": "04-spine-challenge",
+          "title": {
+            "en": "SPINE Challenge"
+          },
+          "page": 160,
+          "image": "clickview/high-study-skills-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

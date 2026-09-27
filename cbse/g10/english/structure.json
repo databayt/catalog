@@ -1,0 +1,150 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "cbse-g10-english",
+  "curriculum": "cbse",
+  "grade": "g10",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English (First Flight)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "english",
+  "source": {
+    "publisher": "ncert",
+    "url": "https://ncert.nic.in/textbook.php?jeff1",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-a-letter-to-god",
+      "title": {
+        "en": "A Letter to God"
+      },
+      "lessons": [
+        {
+          "slug": "01-a-letter-to-god",
+          "title": {
+            "en": "A Letter to God"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-nelson-mandela",
+      "title": {
+        "en": "Nelson Mandela: Long Walk to Freedom"
+      },
+      "lessons": [
+        {
+          "slug": "01-nelson-mandela",
+          "title": {
+            "en": "Nelson Mandela: Long Walk to Freedom"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-two-stories-about-flying",
+      "title": {
+        "en": "Two Stories about Flying"
+      },
+      "lessons": [
+        {
+          "slug": "01-two-stories-about-flying",
+          "title": {
+            "en": "Two Stories about Flying"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-diary-of-anne-frank",
+      "title": {
+        "en": "From the Diary of Anne Frank"
+      },
+      "lessons": [
+        {
+          "slug": "01-diary-of-anne-frank",
+          "title": {
+            "en": "From the Diary of Anne Frank"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-glimpses-of-india",
+      "title": {
+        "en": "Glimpses of India"
+      },
+      "lessons": [
+        {
+          "slug": "01-glimpses-of-india",
+          "title": {
+            "en": "Glimpses of India"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-mijbil-the-otter",
+      "title": {
+        "en": "Mijbil the Otter"
+      },
+      "lessons": [
+        {
+          "slug": "01-mijbil-the-otter",
+          "title": {
+            "en": "Mijbil the Otter"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-madam-rides-the-bus",
+      "title": {
+        "en": "Madam Rides the Bus"
+      },
+      "lessons": [
+        {
+          "slug": "01-madam-rides-the-bus",
+          "title": {
+            "en": "Madam Rides the Bus"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-the-sermon-at-benares",
+      "title": {
+        "en": "The Sermon at Benares"
+      },
+      "lessons": [
+        {
+          "slug": "01-the-sermon-at-benares",
+          "title": {
+            "en": "The Sermon at Benares"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "09-the-proposal",
+      "title": {
+        "en": "The Proposal"
+      },
+      "lessons": [
+        {
+          "slug": "01-the-proposal",
+          "title": {
+            "en": "The Proposal"
+          }
+        }
+      ]
+    }
+  ]
+}

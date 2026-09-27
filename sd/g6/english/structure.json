@@ -1,0 +1,69 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g6-english",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language"
+  },
+  "lang": "en",
+  "status": "official",
+  "concept": "english",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-anna-and-the-fighter",
+      "title": {
+        "en": "Unit 1: Anna and the Fighter"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-chapter-1",
+          "title": {
+            "en": "Chapter 1: Anna"
+          }
+        },
+        {
+          "slug": "02-chapter-2",
+          "title": {
+            "en": "Chapter 2: The Fighter"
+          }
+        },
+        {
+          "slug": "03-chapter-3",
+          "title": {
+            "en": "Chapter 3: The Journey Begins"
+          }
+        },
+        {
+          "slug": "04-chapter-4",
+          "title": {
+            "en": "Chapter 4: Challenges and Discoveries"
+          }
+        },
+        {
+          "slug": "05-chapter-5",
+          "title": {
+            "en": "Chapter 5: The Quest Continues"
+          }
+        },
+        {
+          "slug": "06-chapter-6",
+          "title": {
+            "en": "Chapter 6: Lessons Learned"
+          }
+        }
+      ]
+    }
+  ]
+}

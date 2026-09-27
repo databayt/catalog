@@ -1,0 +1,256 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g6-math",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "math",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-sets",
+      "title": {
+        "ar": "المجموعات",
+        "en": "Sets"
+      },
+      "concept": "math",
+      "image": "clickview/high-discrete-math-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-concept-of-sets",
+          "title": {
+            "ar": "مفهوم المجموعة والعنصر"
+          }
+        },
+        {
+          "slug": "02-describing-sets",
+          "title": {
+            "ar": "وصف المجموعات"
+          }
+        },
+        {
+          "slug": "03-types-of-sets",
+          "title": {
+            "ar": "أنواع المجموعات"
+          }
+        },
+        {
+          "slug": "04-subsets",
+          "title": {
+            "ar": "المجموعة الجزئية"
+          }
+        },
+        {
+          "slug": "05-venn-diagrams",
+          "title": {
+            "ar": "مخططات فن"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-the-set-of-integers",
+      "title": {
+        "ar": "مجموعة الأعداد الصحيحة",
+        "en": "The Set of Integers"
+      },
+      "concept": "math",
+      "image": "clickview/middle-whole-number-operations-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-integers",
+          "title": {
+            "ar": "الأعداد الصحيحة"
+          }
+        },
+        {
+          "slug": "02-comparing-integers",
+          "title": {
+            "ar": "مقارنة الأعداد الصحيحة"
+          }
+        },
+        {
+          "slug": "03-adding-integers",
+          "title": {
+            "ar": "جمع الأعداد الصحيحة"
+          }
+        },
+        {
+          "slug": "04-subtracting-integers",
+          "title": {
+            "ar": "طرح الأعداد الصحيحة"
+          }
+        },
+        {
+          "slug": "05-multiplying-integers",
+          "title": {
+            "ar": "ضرب الأعداد الصحيحة"
+          }
+        },
+        {
+          "slug": "06-dividing-integers",
+          "title": {
+            "ar": "قسمة الأعداد الصحيحة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-percentages",
+      "title": {
+        "ar": "النسبة المئوية",
+        "en": "Percentages"
+      },
+      "concept": "math",
+      "image": "clickview/middle-decimals-and-percentages-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-percentage-concept",
+          "title": {
+            "ar": "مفهوم النسبة المئوية"
+          }
+        },
+        {
+          "slug": "02-converting-percentages",
+          "title": {
+            "ar": "تحويل النسبة المئوية"
+          }
+        },
+        {
+          "slug": "03-percentage-applications",
+          "title": {
+            "ar": "تطبيقات على النسبة المئوية"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-algebraic-expressions",
+      "title": {
+        "ar": "التعابير الجبرية",
+        "en": "Algebraic Expressions"
+      },
+      "concept": "math",
+      "image": "clickview/middle-equations-and-expressions-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-algebraic-expressions",
+          "title": {
+            "ar": "التعابير الجبرية"
+          }
+        },
+        {
+          "slug": "02-simplifying-expressions",
+          "title": {
+            "ar": "تبسيط التعابير الجبرية"
+          }
+        },
+        {
+          "slug": "03-equations",
+          "title": {
+            "ar": "المعادلات"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-operations-on-sets",
+      "title": {
+        "ar": "العمليات على المجموعات",
+        "en": "Operations on Sets"
+      },
+      "concept": "math",
+      "image": "clickview/high-discrete-math-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-union",
+          "title": {
+            "ar": "الاتحاد"
+          }
+        },
+        {
+          "slug": "02-intersection",
+          "title": {
+            "ar": "التقاطع"
+          }
+        },
+        {
+          "slug": "03-complement",
+          "title": {
+            "ar": "المتممة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-area-of-geometric-shapes",
+      "title": {
+        "ar": "مساحة الأشكال الهندسية",
+        "en": "Area of Geometric Shapes"
+      },
+      "concept": "math",
+      "image": "clickview/middle-area-perimeter-surface-area-and-volume-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-area-of-triangle",
+          "title": {
+            "ar": "مساحة المثلث"
+          }
+        },
+        {
+          "slug": "02-area-of-parallelogram",
+          "title": {
+            "ar": "مساحة متوازي الأضلاع"
+          }
+        },
+        {
+          "slug": "03-area-of-trapezoid",
+          "title": {
+            "ar": "مساحة شبه المنحرف"
+          }
+        },
+        {
+          "slug": "04-area-of-circle",
+          "title": {
+            "ar": "مساحة الدائرة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-the-pythagorean-theorem",
+      "title": {
+        "ar": "نظرية فيثاغورث",
+        "en": "The Pythagorean Theorem"
+      },
+      "concept": "math",
+      "image": "clickview/middle-pythagorean-theorem-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-pythagorean-theorem",
+          "title": {
+            "ar": "نظرية فيثاغورث"
+          }
+        },
+        {
+          "slug": "02-applications",
+          "title": {
+            "ar": "تطبيقات نظرية فيثاغورث"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g3-geography",
+  "curriculum": "sd",
+  "grade": "g3",
+  "subject": "geography",
+  "title": {
+    "ar": "الجغرافيا",
+    "en": "Geography"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "geography",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-environment-around-us",
+      "title": {
+        "ar": "البيئة من حولنا",
+        "en": "The Environment Around Us"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-map-skills-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-geography-concept",
+          "title": {
+            "ar": "مفهوم الجغرافيا"
+          }
+        },
+        {
+          "slug": "02-environment-concept",
+          "title": {
+            "ar": "مفهوم البيئة"
+          }
+        },
+        {
+          "slug": "03-environment-elements",
+          "title": {
+            "ar": "عناصر البيئة"
+          }
+        },
+        {
+          "slug": "04-natural-environment",
+          "title": {
+            "ar": "البيئة الطبيعية"
+          }
+        },
+        {
+          "slug": "05-human-environment",
+          "title": {
+            "ar": "البيئة البشرية"
+          }
+        },
+        {
+          "slug": "06-directions",
+          "title": {
+            "ar": "الاتجاهات"
+          },
+          "image": "clickview/elementary-orientation-cover.jpg"
+        },
+        {
+          "slug": "07-map-elements",
+          "title": {
+            "ar": "الخريطة وعناصرها"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-my-school-environment",
+      "title": {
+        "ar": "بيئتي المدرسية",
+        "en": "My School Environment"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-the-school-community-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-my-classroom-1",
+          "title": {
+            "ar": "فصلي ١"
+          }
+        },
+        {
+          "slug": "02-my-classroom-2",
+          "title": {
+            "ar": "فصلي ٢"
+          }
+        },
+        {
+          "slug": "03-my-school",
+          "title": {
+            "ar": "مدرستي"
+          }
+        },
+        {
+          "slug": "04-school-environment",
+          "title": {
+            "ar": "بيئة المدرسة"
+          }
+        },
+        {
+          "slug": "05-school-neighborhood",
+          "title": {
+            "ar": "حي المدرسة"
+          }
+        },
+        {
+          "slug": "06-school-neighborhood-map",
+          "title": {
+            "ar": "خريطة حي المدرسة"
+          },
+          "image": "clickview/elementary-map-skills-cover.jpg"
+        },
+        {
+          "slug": "07-imaginary-visits",
+          "title": {
+            "ar": "الزيارات الخيالية"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-my-family-environment",
+      "title": {
+        "ar": "بيئتي الأسرية",
+        "en": "My Family Environment"
+      },
+      "concept": "geography",
+      "image": "clickview/elementary-community-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-family-concept",
+          "title": {
+            "ar": "مفهوم الأسرة"
+          }
+        },
+        {
+          "slug": "02-my-home",
+          "title": {
+            "ar": "منزلي"
+          }
+        },
+        {
+          "slug": "03-home-neighborhood",
+          "title": {
+            "ar": "حي المنزل"
+          }
+        },
+        {
+          "slug": "04-home-neighborhood-services",
+          "title": {
+            "ar": "خدمات حي المنزل"
+          }
+        },
+        {
+          "slug": "05-market",
+          "title": {
+            "ar": "السوق"
+          },
+          "image": "clickview/elementary-the-economy-cover.jpg"
+        },
+        {
+          "slug": "06-roads",
+          "title": {
+            "ar": "الطرق"
+          }
+        },
+        {
+          "slug": "07-local-traffic",
+          "title": {
+            "ar": "حركة المرور المحلية"
+          },
+          "image": "clickview/elementary-safety-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

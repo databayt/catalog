@@ -1,0 +1,218 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g8-technical-education",
+  "curriculum": "sd",
+  "grade": "g8",
+  "subject": "technical-education",
+  "title": {
+    "ar": "أساسيات التربية التقنية",
+    "en": "Fundamentals of Technical Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "skills",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-engineering-field",
+      "title": {
+        "ar": "المجال الهندسي",
+        "en": "The Engineering Field"
+      },
+      "concept": "career",
+      "image": "clickview/middle-mechanical-systems-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-humans-and-metals",
+          "title": {
+            "ar": "الإنسان والمعادن",
+            "en": "Humans and Metals"
+          },
+          "page": 7
+        },
+        {
+          "slug": "02-humans-and-wood",
+          "title": {
+            "ar": "الإنسان والأخشاب",
+            "en": "Humans and Wood"
+          },
+          "page": 12,
+          "image": "clickview/middle-woodwork-cover.jpg"
+        },
+        {
+          "slug": "03-sanitary-fixtures",
+          "title": {
+            "ar": "الأجهزة الصحية وأنواعها",
+            "en": "Sanitary Fixtures and Their Types"
+          },
+          "page": 20
+        },
+        {
+          "slug": "04-basins",
+          "title": {
+            "ar": "الأحواض",
+            "en": "Basins"
+          },
+          "page": 24
+        }
+      ]
+    },
+    {
+      "slug": "02-agricultural-field",
+      "title": {
+        "ar": "المجال الزراعي: المشاتل ونباتات الزينة",
+        "en": "The Agricultural Field: Nurseries and Ornamental Plants"
+      },
+      "concept": "life",
+      "image": "clickview/middle-life-of-plants-cover.jpg",
+      "page": 27,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-ornamental-plants",
+          "title": {
+            "ar": "نباتات الزينة",
+            "en": "Ornamental Plants"
+          },
+          "page": 29
+        },
+        {
+          "slug": "02-propagation-of-ornamental-plants",
+          "title": {
+            "ar": "تكاثر نباتات الزينة",
+            "en": "Propagation of Ornamental Plants"
+          },
+          "page": 32
+        },
+        {
+          "slug": "03-fish-farming",
+          "title": {
+            "ar": "تربية الأسماك",
+            "en": "Fish Farming"
+          },
+          "page": 39,
+          "image": "clickview/high-food-origins-cover.jpg"
+        },
+        {
+          "slug": "04-fish-farming-methods",
+          "title": {
+            "ar": "طرق تربية الأسماك",
+            "en": "Methods of Fish Farming"
+          },
+          "page": 42,
+          "image": "clickview/high-food-origins-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-hospitality-and-decor",
+      "title": {
+        "ar": "الفندقة والديكور والسياحة",
+        "en": "Hospitality, Decor and Tourism"
+      },
+      "concept": "career",
+      "image": "clickview/high-global-tourism-cover.jpg",
+      "page": 45,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-home-decor",
+          "title": {
+            "ar": "الديكور وتزيين المنزل",
+            "en": "Decor and Home Decoration"
+          },
+          "page": 47,
+          "image": "clickview/middle-design-thinking-skills-cover.jpg"
+        },
+        {
+          "slug": "02-hotel-work",
+          "title": {
+            "ar": "أعمال فندقية",
+            "en": "Hotel Work"
+          },
+          "page": 49
+        },
+        {
+          "slug": "03-hotel-industry",
+          "title": {
+            "ar": "صناعة الفنادق",
+            "en": "The Hotel Industry"
+          },
+          "page": 51
+        },
+        {
+          "slug": "04-tourism",
+          "title": {
+            "ar": "السياحة",
+            "en": "Tourism"
+          },
+          "page": 53
+        }
+      ]
+    },
+    {
+      "slug": "04-commerce-technologies",
+      "title": {
+        "ar": "تقنيات التجارة",
+        "en": "Commerce Technologies"
+      },
+      "concept": "economy",
+      "image": "clickview/high-financial-literacy-cover.jpg",
+      "page": 56,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-commercial-projects",
+          "title": {
+            "ar": "المشروعات التجارية",
+            "en": "Commercial Projects"
+          },
+          "page": 58,
+          "image": "clickview/high-understanding-business-cover.jpg"
+        },
+        {
+          "slug": "02-evolution-of-trade",
+          "title": {
+            "ar": "تطور التبادل التجاري",
+            "en": "The Evolution of Trade Exchange"
+          },
+          "page": 63,
+          "image": "clickview/high-international-trade-cover.jpg"
+        },
+        {
+          "slug": "03-bank-account",
+          "title": {
+            "ar": "الحساب البنكي (المصرفي)",
+            "en": "The Bank Account"
+          },
+          "page": 69
+        },
+        {
+          "slug": "04-electronic-banking-services",
+          "title": {
+            "ar": "الخدمات المصرفية الإلكترونية",
+            "en": "Electronic Banking Services"
+          },
+          "page": 75
+        },
+        {
+          "slug": "05-financing-commercial-projects",
+          "title": {
+            "ar": "تمويل المشروعات التجارية",
+            "en": "Financing Commercial Projects"
+          },
+          "page": 78
+        }
+      ]
+    }
+  ]
+}

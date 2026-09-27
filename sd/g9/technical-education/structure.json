@@ -1,0 +1,77 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g9-technical-education",
+  "curriculum": "sd",
+  "grade": "g9",
+  "subject": "technical-education",
+  "title": {
+    "ar": "التربية التقنية",
+    "en": "Technical Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "skills",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-technical-drawing",
+      "title": {
+        "ar": "الرسم الفني"
+      },
+      "concept": "career",
+      "image": "clickview/high-engineering-design-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "02-woodwork",
+      "title": {
+        "ar": "الأعمال الخشبية"
+      },
+      "concept": "career",
+      "image": "clickview/middle-woodwork-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "03-metalwork",
+      "title": {
+        "ar": "الأعمال المعدنية"
+      },
+      "concept": "career",
+      "image": "clickview/middle-mechanical-systems-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "04-electricity",
+      "title": {
+        "ar": "الكهرباء"
+      },
+      "concept": "physics",
+      "image": "clickview/high-electricity-and-circuits-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "05-electronics",
+      "title": {
+        "ar": "الإلكترونيات"
+      },
+      "concept": "physics",
+      "image": "clickview/high-hardware-and-software-cover.jpg",
+      "lessons": []
+    },
+    {
+      "slug": "06-maintenance",
+      "title": {
+        "ar": "الصيانة"
+      },
+      "concept": "career",
+      "image": "clickview/high-workplace-skills-cover.jpg",
+      "lessons": []
+    }
+  ]
+}

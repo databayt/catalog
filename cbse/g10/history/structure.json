@@ -1,0 +1,94 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "cbse-g10-history",
+  "curriculum": "cbse",
+  "grade": "g10",
+  "subject": "history",
+  "title": {
+    "ar": "التاريخ",
+    "en": "History"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "history",
+  "source": {
+    "publisher": "ncert",
+    "url": "https://ncert.nic.in/textbook.php?jess3",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-rise-of-nationalism-in-europe",
+      "title": {
+        "en": "The Rise of Nationalism in Europe"
+      },
+      "lessons": [
+        {
+          "slug": "01-rise-of-nationalism-in-europe",
+          "title": {
+            "en": "The Rise of Nationalism in Europe"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-nationalism-in-india",
+      "title": {
+        "en": "Nationalism in India"
+      },
+      "lessons": [
+        {
+          "slug": "01-nationalism-in-india",
+          "title": {
+            "en": "Nationalism in India"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-making-of-a-global-world",
+      "title": {
+        "en": "The Making of a Global World"
+      },
+      "lessons": [
+        {
+          "slug": "01-making-of-a-global-world",
+          "title": {
+            "en": "The Making of a Global World"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-age-of-industrialisation",
+      "title": {
+        "en": "The Age of Industrialisation"
+      },
+      "lessons": [
+        {
+          "slug": "01-age-of-industrialisation",
+          "title": {
+            "en": "The Age of Industrialisation"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-print-culture-and-the-modern-world",
+      "title": {
+        "en": "Print Culture and the Modern World"
+      },
+      "lessons": [
+        {
+          "slug": "01-print-culture-and-the-modern-world",
+          "title": {
+            "en": "Print Culture and the Modern World"
+          }
+        }
+      ]
+    }
+  ]
+}

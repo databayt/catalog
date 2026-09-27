@@ -2,14 +2,14 @@
 // Licensed under MIT -- see LICENSE for details
 
 /**
- * The catalog schema — the single source of truth for every JSON file under
- * `curricula/`. `pnpm validate` parses the whole tree against it and
+ * The catalog schema — the single source of truth for every JSON file in the
+ * curriculum folders. `pnpm validate` parses the whole tree against it and
  * `pnpm schema:json` emits JSON Schema for editors and other languages.
  *
  * Four file kinds exist, and nothing else is allowed:
  *
- *   curricula/<cur>/curriculum.json                      Curriculum
- *   curricula/<cur>/<grade>/<subject>/structure.json     Structure
+ *   <cur>/curriculum.json                      Curriculum
+ *   <cur>/<grade>/<subject>/structure.json     Structure
  *   …/<subject>[/<chapter>[/<lesson>]]/qbank.json        QBank   (question pool)
  *   …/<subject>[/<chapter>[/<lesson>]]/exams.json        Exams   (assembled assessments)
  */

@@ -1,0 +1,181 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g4-science",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم",
+    "en": "Science"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "science",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم — الصف الرابع — الطبعة الأولى ٢٠٢١م (97 صفحة)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-human-musculoskeletal-system",
+      "title": {
+        "ar": "الجهاز الحركي في الإنسان",
+        "en": "The Human Musculoskeletal System"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-the-musculoskeletal-system-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-skeleton",
+          "title": {
+            "ar": "الهيكل العظمي",
+            "en": "The Skeleton"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-functions-of-the-skeleton",
+          "title": {
+            "ar": "وظائف الهيكل العظمي",
+            "en": "Functions of the Skeleton"
+          },
+          "page": 6
+        },
+        {
+          "slug": "03-muscles",
+          "title": {
+            "ar": "العضلات",
+            "en": "Muscles"
+          },
+          "page": 10
+        }
+      ]
+    },
+    {
+      "slug": "02-plants",
+      "title": {
+        "ar": "النباتات",
+        "en": "Plants"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-plants-cover.jpg",
+      "page": 15,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-parts-of-the-plant",
+          "title": {
+            "ar": "أجزاء النبات",
+            "en": "Parts of the Plant"
+          },
+          "page": 15
+        },
+        {
+          "slug": "02-functions-of-the-plants-parts",
+          "title": {
+            "ar": "وظائف أجزاء النبات",
+            "en": "Functions of the Plant's Parts"
+          },
+          "page": 16
+        },
+        {
+          "slug": "03-the-plant-makes-its-own-food",
+          "title": {
+            "ar": "النبات يصنع غذاءه",
+            "en": "The Plant Makes Its Own Food"
+          },
+          "page": 18
+        }
+      ]
+    },
+    {
+      "slug": "03-animals",
+      "title": {
+        "ar": "الحيوانات",
+        "en": "Animals"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-animals-cover.jpg",
+      "page": 26,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-movement-in-animals",
+          "title": {
+            "ar": "الحركة في الحيوانات",
+            "en": "Movement in Animals"
+          },
+          "page": 26
+        },
+        {
+          "slug": "02-nutrition-in-animals",
+          "title": {
+            "ar": "التغذية في الحيوانات",
+            "en": "Nutrition in Animals"
+          },
+          "page": 30
+        },
+        {
+          "slug": "03-animal-body-coverings",
+          "title": {
+            "ar": "غطاء الحيوانات",
+            "en": "Animal Body Coverings"
+          },
+          "page": 32
+        }
+      ]
+    },
+    {
+      "slug": "04-habitats-of-living-things",
+      "title": {
+        "ar": "بيئات الكائنات الحية",
+        "en": "Habitats of Living Things"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-habitats-cover.jpg",
+      "page": 37,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-adaptation-of-living-things-to-life-on-land",
+          "title": {
+            "ar": "تكيف الكائنات الحية للعيش في البيئة اليابسة",
+            "en": "Adaptation of Living Things to Life on Land"
+          },
+          "page": 37,
+          "image": "clickview/elementary-adaptations-cover.jpg"
+        },
+        {
+          "slug": "02-adaptation-of-living-things-to-life-in-water",
+          "title": {
+            "ar": "تكيف الكائنات الحية للعيش في البيئة المائية",
+            "en": "Adaptation of Living Things to Life in Water"
+          },
+          "page": 40,
+          "image": "clickview/elementary-adaptations-cover.jpg"
+        },
+        {
+          "slug": "03-protecting-the-habitats-of-living-things",
+          "title": {
+            "ar": "حماية بيئة الكائنات الحية",
+            "en": "Protecting the Habitats of Living Things"
+          },
+          "page": 41
+        }
+      ]
+    }
+  ]
+}

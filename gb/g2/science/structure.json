@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "gb-g2-science",
+  "curriculum": "gb",
+  "grade": "g2",
+  "subject": "science",
+  "title": {
+    "ar": "العلوم",
+    "en": "Science"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "science",
+  "source": {
+    "publisher": "aldar",
+    "title": "National Curriculum in England: Science programmes of study",
+    "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-science-programmes-of-study",
+    "license": "LicenseRef-Publisher",
+    "standards": "England NC KS1 Year 2",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-living",
+      "title": {
+        "en": "Living Things & Habitats"
+      },
+      "lessons": [
+        {
+          "slug": "01-habitats",
+          "title": {
+            "en": "Habitats"
+          }
+        },
+        {
+          "slug": "02-living-nonliving",
+          "title": {
+            "en": "Living, Dead & Never Alive"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-materials",
+      "title": {
+        "en": "Uses of Materials"
+      },
+      "lessons": [
+        {
+          "slug": "01-properties",
+          "title": {
+            "en": "Material Properties"
+          }
+        },
+        {
+          "slug": "02-shaping",
+          "title": {
+            "en": "Changing Shapes"
+          }
+        }
+      ]
+    }
+  ]
+}

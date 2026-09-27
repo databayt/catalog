@@ -1,0 +1,350 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g5-arabic",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-review",
+      "title": {
+        "ar": "مراجعة",
+        "en": "Review"
+      },
+      "concept": "language",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-public-facilities",
+          "title": {
+            "ar": "المرافق العامة",
+            "en": "Public Facilities"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-the-kind-boy",
+          "title": {
+            "ar": "الولد العطوف",
+            "en": "The Kind Boy"
+          },
+          "page": 7
+        },
+        {
+          "slug": "03-counsels-of-luqman",
+          "title": {
+            "ar": "من وصايا لقمان",
+            "en": "From the Counsels of Luqman"
+          },
+          "page": 10
+        },
+        {
+          "slug": "04-the-parrot-and-the-thief",
+          "title": {
+            "ar": "الببغاء واللص",
+            "en": "The Parrot and the Thief"
+          },
+          "page": 13
+        },
+        {
+          "slug": "05-the-key-to-love",
+          "title": {
+            "ar": "مفتاح المحبة",
+            "en": "The Key to Love"
+          },
+          "page": 19
+        }
+      ]
+    },
+    {
+      "slug": "02-values-and-manners",
+      "title": {
+        "ar": "قيم وآداب",
+        "en": "Values and Manners"
+      },
+      "concept": "skills",
+      "image": "clickview/elementary-ethics-and-decision-making-cover.jpg",
+      "page": 24,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-trustworthiness",
+          "title": {
+            "ar": "الأمانة",
+            "en": "Trustworthiness"
+          },
+          "page": 24
+        },
+        {
+          "slug": "02-work",
+          "title": {
+            "ar": "العمل",
+            "en": "Work"
+          },
+          "page": 27,
+          "image": "clickview/elementary-world-of-work-cover.jpg"
+        },
+        {
+          "slug": "03-o-workers",
+          "title": {
+            "ar": "أيها العمال",
+            "en": "O Workers"
+          },
+          "page": 33,
+          "image": "clickview/elementary-world-of-work-cover.jpg"
+        },
+        {
+          "slug": "04-ostentation-nullifies-deeds",
+          "title": {
+            "ar": "الرياء يبطل العمل",
+            "en": "Ostentation Nullifies Deeds"
+          },
+          "page": 36
+        },
+        {
+          "slug": "05-importance-of-cooperation",
+          "title": {
+            "ar": "أهمية التعاون",
+            "en": "The Importance of Cooperation"
+          },
+          "page": 41
+        },
+        {
+          "slug": "06-virtue-of-cooperation",
+          "title": {
+            "ar": "فضل التعاون",
+            "en": "The Virtue of Cooperation"
+          },
+          "page": 44
+        },
+        {
+          "slug": "07-kinship-ties",
+          "title": {
+            "ar": "صلة الرحم",
+            "en": "Kinship Ties"
+          },
+          "page": 47,
+          "image": "clickview/elementary-family-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-family-and-society",
+      "title": {
+        "ar": "الأسرة والمجتمع",
+        "en": "Family and Society"
+      },
+      "concept": "society",
+      "image": "clickview/elementary-family-cover.jpg",
+      "page": 59,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-raising-children",
+          "title": {
+            "ar": "تربية الأبناء",
+            "en": "Raising Children"
+          },
+          "page": 59
+        },
+        {
+          "slug": "02-parents-rights",
+          "title": {
+            "ar": "حقوق الوالدين",
+            "en": "Parents' Rights"
+          },
+          "page": 67
+        },
+        {
+          "slug": "03-a-fathers-will-to-his-son",
+          "title": {
+            "ar": "وصية أب لأبنه",
+            "en": "A Father's Will to His Son"
+          },
+          "page": 70
+        },
+        {
+          "slug": "04-the-clever-friend",
+          "title": {
+            "ar": "الصديق الذكي",
+            "en": "The Clever Friend"
+          },
+          "page": 72,
+          "image": "clickview/elementary-friendship-cover.jpg"
+        },
+        {
+          "slug": "05-social-solidarity",
+          "title": {
+            "ar": "التكافل الاجتماعي",
+            "en": "Social Solidarity"
+          },
+          "page": 78,
+          "image": "clickview/elementary-community-cover.jpg"
+        },
+        {
+          "slug": "06-the-generous-one",
+          "title": {
+            "ar": "الكريم",
+            "en": "The Generous One"
+          },
+          "page": 83,
+          "image": "clickview/elementary-random-acts-of-kindness-day-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "04-environment-and-health",
+      "title": {
+        "ar": "البيئة والصحة",
+        "en": "Environment and Health"
+      },
+      "concept": "health",
+      "image": "clickview/elementary-healthy-lifestyle-cover.jpg",
+      "page": 88,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-oral-and-dental-health",
+          "title": {
+            "ar": "صحة الفم والأسنان",
+            "en": "Oral and Dental Health"
+          },
+          "page": 88,
+          "image": "clickview/elementary-dental-health-cover.jpg"
+        },
+        {
+          "slug": "02-protect-nature-anthem",
+          "title": {
+            "ar": "نشيد أحم الطبيعة يا فتى",
+            "en": "Anthem: Protect Nature, O Youth"
+          },
+          "page": 95,
+          "image": "clickview/elementary-nature-conservation-cover.jpg"
+        },
+        {
+          "slug": "03-at-the-eye-doctor",
+          "title": {
+            "ar": "عند طبيب العيون",
+            "en": "At the Eye Doctor"
+          },
+          "page": 99
+        },
+        {
+          "slug": "04-recycling-waste",
+          "title": {
+            "ar": "تدوير النفايات",
+            "en": "Recycling Waste"
+          },
+          "page": 102,
+          "image": "clickview/elementary-recycling-cover.jpg"
+        },
+        {
+          "slug": "05-medicine-in-food",
+          "title": {
+            "ar": "الدواء في الغذاء",
+            "en": "Medicine in Food"
+          },
+          "page": 109,
+          "image": "clickview/elementary-diet-and-nutrition-cover.jpg"
+        },
+        {
+          "slug": "06-the-axe-and-the-tree",
+          "title": {
+            "ar": "الفأس والشجرة",
+            "en": "The Axe and the Tree"
+          },
+          "page": 112,
+          "image": "clickview/high-deforestation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "05-my-homeland",
+      "title": {
+        "ar": "وطني",
+        "en": "My Homeland"
+      },
+      "concept": "history",
+      "image": "clickview/elementary-community-cover.jpg",
+      "page": 117,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-warrior-queens-kandakas",
+          "title": {
+            "ar": "الملكات المحاربات (الكنداكة)",
+            "en": "The Warrior Queens (the Kandakas)"
+          },
+          "page": 117
+        },
+        {
+          "slug": "02-nation-of-glories",
+          "title": {
+            "ar": "أمة الأمجاد",
+            "en": "Nation of Glories"
+          },
+          "page": 127,
+          "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
+        },
+        {
+          "slug": "03-kingdom-of-sennar",
+          "title": {
+            "ar": "مملكة سنار",
+            "en": "The Kingdom of Sennar"
+          },
+          "page": 130
+        },
+        {
+          "slug": "04-sultan-taj-al-din",
+          "title": {
+            "ar": "السلطان تاج الدين",
+            "en": "Sultan Taj Al-Din"
+          },
+          "page": 137
+        },
+        {
+          "slug": "05-princess-mandi",
+          "title": {
+            "ar": "الأميرة مندي",
+            "en": "Princess Mandi"
+          },
+          "page": 140
+        },
+        {
+          "slug": "06-which-voice-roared-yesterday",
+          "title": {
+            "ar": "أي صوت زار بالأمس خيال",
+            "en": "Which Voice Roared Yesterday, Khayal?"
+          },
+          "page": 143,
+          "image": "clickview/elementary-poetry-cover.jpg"
+        },
+        {
+          "slug": "07-muhammad-ahmad-al-mahjoub",
+          "title": {
+            "ar": "محمد أحمد المحجوب",
+            "en": "Muhammad Ahmad Al-Mahjoub"
+          },
+          "page": 146
+        }
+      ]
+    }
+  ]
+}

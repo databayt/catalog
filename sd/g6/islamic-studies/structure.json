@@ -1,0 +1,347 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g6-islamic-studies",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "islamic-studies",
+  "title": {
+    "ar": "التربية الإسلامية",
+    "en": "Islamic Education"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "faith",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-quran-surahs",
+      "title": {
+        "ar": "سور من القرآن الكريم",
+        "en": "Surahs from the Holy Quran"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-tajweed",
+          "title": {
+            "ar": "علم التجويد",
+            "en": "The Science of Tajweed"
+          },
+          "page": 6,
+          "image": "clickview/middle-sound-cover.jpg"
+        },
+        {
+          "slug": "02-surat-an-najm",
+          "title": {
+            "ar": "سورة النجم",
+            "en": "Surat An-Najm"
+          },
+          "page": 8
+        },
+        {
+          "slug": "03-surat-ar-rahman",
+          "title": {
+            "ar": "سورة الرحمن",
+            "en": "Surat Ar-Rahman"
+          },
+          "page": 20
+        },
+        {
+          "slug": "04-surat-al-waqiah",
+          "title": {
+            "ar": "سورة الواقعة",
+            "en": "Surat Al-Waqi'ah"
+          },
+          "page": 30
+        },
+        {
+          "slug": "05-surat-al-qamar",
+          "title": {
+            "ar": "سورة القمر",
+            "en": "Surat Al-Qamar"
+          },
+          "page": 33
+        }
+      ]
+    },
+    {
+      "slug": "02-quran-sciences",
+      "title": {
+        "ar": "من علوم القرآن الكريم",
+        "en": "From the Sciences of the Quran"
+      },
+      "concept": "faith",
+      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
+      "page": 38,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-virtue-of-memorizing-quran",
+          "title": {
+            "ar": "فضل حفظ القرآن",
+            "en": "The Virtue of Memorizing the Quran"
+          },
+          "page": 39,
+          "image": "clickview/middle-study-skills-cover.jpg"
+        },
+        {
+          "slug": "02-miracle-splitting-of-the-moon",
+          "title": {
+            "ar": "معجزة انشقاق القمر للنبي صلى الله عليه وسلم",
+            "en": "The Miracle of the Splitting of the Moon"
+          },
+          "page": 41,
+          "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
+        },
+        {
+          "slug": "03-emotive-inimitability-of-quran",
+          "title": {
+            "ar": "الإعجاز التأثيري للقرآن الكريم",
+            "en": "The Emotive Inimitability of the Quran"
+          },
+          "page": 44
+        },
+        {
+          "slug": "04-story-of-people-of-lut",
+          "title": {
+            "ar": "قصة قوم سيدنا لوط عليه السلام",
+            "en": "The Story of the People of Prophet Lut"
+          },
+          "page": 47
+        }
+      ]
+    },
+    {
+      "slug": "03-prophetic-hadith",
+      "title": {
+        "ar": "من الحديث النبوي الشريف",
+        "en": "From the Noble Prophetic Hadith"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-debating-and-public-speaking-cover.jpg",
+      "page": 50,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sanctity-of-the-believer",
+          "title": {
+            "ar": "عظمة المؤمن وحرمته",
+            "en": "The Greatness and Sanctity of the Believer"
+          },
+          "page": 51
+        },
+        {
+          "slug": "02-persistent-jahili-customs",
+          "title": {
+            "ar": "من عادات الجاهلية المستمرة",
+            "en": "Persistent Customs of the Jahiliyyah"
+          },
+          "page": 54
+        },
+        {
+          "slug": "03-islam-forbids-tribalism-racism",
+          "title": {
+            "ar": "تحريم الإسلام للعصبية والعنصرية",
+            "en": "Islam's Prohibition of Tribalism and Racism"
+          },
+          "page": 57
+        },
+        {
+          "slug": "04-love-for-the-sake-of-allah",
+          "title": {
+            "ar": "الحب في الله",
+            "en": "Love for the Sake of Allah"
+          },
+          "page": 60,
+          "image": "clickview/middle-friendship-cover.jpg"
+        },
+        {
+          "slug": "05-independence-of-opinion",
+          "title": {
+            "ar": "استقلال الرأي من منهج الإسلام",
+            "en": "Independence of Opinion in the Islamic Method"
+          },
+          "page": 63,
+          "image": "clickview/middle-decision-making-cover.jpg"
+        },
+        {
+          "slug": "06-counsels-of-the-prophet",
+          "title": {
+            "ar": "من وصايا النبي صلى الله عليه وسلم",
+            "en": "From the Counsels of the Prophet ﷺ"
+          },
+          "page": 66
+        }
+      ]
+    },
+    {
+      "slug": "04-creed",
+      "title": {
+        "ar": "العقيدة",
+        "en": "Creed (Aqeedah)"
+      },
+      "concept": "faith",
+      "image": "clickview/high-stars-cover.jpg",
+      "page": 68,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-names-of-allah-1",
+          "title": {
+            "ar": "من أسماء الله الحسنى (1)",
+            "en": "From the Beautiful Names of Allah (1)"
+          },
+          "page": 69
+        },
+        {
+          "slug": "02-names-of-allah-2",
+          "title": {
+            "ar": "من أسماء الله الحسنى (2)",
+            "en": "From the Beautiful Names of Allah (2)"
+          },
+          "page": 70
+        },
+        {
+          "slug": "03-names-of-allah-3",
+          "title": {
+            "ar": "من أسماء الله الحسنى (3)",
+            "en": "From the Beautiful Names of Allah (3)"
+          },
+          "page": 71
+        },
+        {
+          "slug": "04-belief-in-punishment-of-the-grave",
+          "title": {
+            "ar": "الإيمان بعذاب القبر",
+            "en": "Belief in the Punishment of the Grave"
+          },
+          "page": 74
+        }
+      ]
+    },
+    {
+      "slug": "05-fiqh",
+      "title": {
+        "ar": "الفقه",
+        "en": "Jurisprudence (Fiqh)"
+      },
+      "concept": "faith",
+      "image": "clickview/elementary-islam-cover.jpg",
+      "page": 77,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-obligations-and-sunnahs-of-prayer",
+          "title": {
+            "ar": "فرائض وسنن الصلاة",
+            "en": "Obligations and Sunnahs of Prayer"
+          },
+          "page": 78
+        },
+        {
+          "slug": "02-invalidators-of-prayer",
+          "title": {
+            "ar": "مبطلات الصلاة",
+            "en": "Invalidators of Prayer"
+          },
+          "page": 83
+        },
+        {
+          "slug": "03-disliked-acts-in-prayer",
+          "title": {
+            "ar": "الأفعال التي تكره في الصلاة",
+            "en": "Acts Disliked in Prayer"
+          },
+          "page": 84
+        },
+        {
+          "slug": "04-friday-prayer",
+          "title": {
+            "ar": "صلاة الجمعة",
+            "en": "The Friday Prayer"
+          },
+          "page": 86
+        },
+        {
+          "slug": "05-eid-prayers",
+          "title": {
+            "ar": "صلاة العيدين",
+            "en": "The Two Eid Prayers"
+          },
+          "page": 90
+        }
+      ]
+    },
+    {
+      "slug": "06-seerah-and-companions",
+      "title": {
+        "ar": "من سيرة النبي والصحابة",
+        "en": "From the Biography of the Prophet and the Companions"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-being-a-historian-cover.jpg",
+      "page": 94,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-al-isra-wal-miraj",
+          "title": {
+            "ar": "الإسراء والمعراج",
+            "en": "Al-Isra' and Al-Mi'raj"
+          },
+          "page": 95
+        },
+        {
+          "slug": "02-first-pledge-of-aqabah",
+          "title": {
+            "ar": "بيعة العقبة الأولى",
+            "en": "The First Pledge of Aqabah"
+          },
+          "page": 100
+        },
+        {
+          "slug": "03-second-pledge-of-aqabah",
+          "title": {
+            "ar": "بيعة العقبة الثانية",
+            "en": "The Second Pledge of Aqabah"
+          },
+          "page": 102
+        },
+        {
+          "slug": "04-abu-bakr-as-siddiq",
+          "title": {
+            "ar": "أبو بكر الصديق (رضي الله عنه)",
+            "en": "Abu Bakr As-Siddiq (may Allah be pleased with him)"
+          },
+          "page": 105
+        },
+        {
+          "slug": "05-zayd-ibn-harithah",
+          "title": {
+            "ar": "زيد بن حارثة (رضي الله عنه)",
+            "en": "Zayd ibn Harithah (may Allah be pleased with him)"
+          },
+          "page": 109
+        },
+        {
+          "slug": "06-abu-dharr-al-ghifari",
+          "title": {
+            "ar": "أبوذر الغفاري",
+            "en": "Abu Dharr Al-Ghifari"
+          },
+          "page": 111
+        }
+      ]
+    }
+  ]
+}

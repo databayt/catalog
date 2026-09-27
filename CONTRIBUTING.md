@@ -6,18 +6,18 @@ This catalog is shared by several brands and apps. Everyone writes the same shap
 
 1. Add your organisation to [`vocab/publishers.json`](vocab/publishers.json) with an `id`, a `title: { ar, en }`, a `kind` (`contributor`, `publisher` or `framework`) and the `license` you release your work under.
 2. Add your id to `contributors` in every `structure.json` you author or substantially edit.
-3. If you maintain a whole curriculum, add yourself to [`CODEOWNERS`](CODEOWNERS) for `curricula/<id>/`.
+3. If you maintain a whole curriculum, add yourself to [`CODEOWNERS`](CODEOWNERS) for `/<id>/`.
 
 ## Add a curriculum
 
 1. Add it to [`vocab/curricula.json`](vocab/curricula.json). Its `id` is the lowercased DB code, e.g. `eg`, `sa`, `ae`, or `<board>-<programme>` for a board.
-2. Create `curricula/<id>/curriculum.json` with its `stages` and `grades`. The `grades` map must list exactly the subject folders on disk.
+2. Create `<id>/curriculum.json` at the repo root (the repo mirrors `cdn.databayt.org/catalog/`) with its `stages` and `grades`. The `grades` map must list exactly the subject folders on disk.
 3. Add the subjects.
 
 ## Add a subject
 
 ```
-curricula/<curriculum>/<grade>/<subject>/structure.json
+<curriculum>/<grade>/<subject>/structure.json
 ```
 
 - `<subject>` must be an id in [`vocab/subjects.json`](vocab/subjects.json), optionally followed by a qualifier (`-specialized`, `-optional`). If the subject is genuinely new, add it to the vocabulary in the same PR, with `title: { ar, en }`, a `concept` and any `aliases`. Don't add a synonym of an existing id; add an alias instead.
@@ -31,7 +31,7 @@ curricula/<curriculum>/<grade>/<subject>/structure.json
 Put a `qbank.json` (a pool) and/or an `exams.json` (assembled assessments) at the subject, chapter or lesson level:
 
 ```jsonc
-// curricula/sd/g6/math/01-sets/03-types-of-sets/qbank.json
+// sd/g6/math/01-sets/03-types-of-sets/qbank.json  →  cdn.databayt.org/catalog/sd/g6/math/01-sets/03-types-of-sets/qbank.json
 {
   "scope": {
     "curriculum": "sd",
@@ -62,10 +62,10 @@ Put a `qbank.json` (a pool) and/or an `exams.json` (assembled assessments) at th
 
 Binaries don't go in git.
 
-1. Put the PDF at `curricula/<cur>/<grade>/<subject>/textbook.pdf`, with `cover.jpg`, `thumbnail.jpg` and `banner.jpg` beside it if you have them.
+1. Put the PDF at `<cur>/<grade>/<subject>/textbook.pdf`, with `cover.jpg`, `thumbnail.jpg` and `banner.jpg` beside it if you have them.
 2. Run `pnpm assets lock` and commit the `assets.lock.json` change.
 3. A maintainer runs `pnpm assets push --apply` to upload the bytes.
-4. The Markdown twin (`textbook.md`, `pages-md/`) is produced by the transcription pipeline. Put its scratch (crops, audits) under `.work/`, never in `curricula/`.
+4. The Markdown twin (`textbook.md`, `pages-md/`) is produced by the transcription pipeline. Put its scratch (crops, audits) under `.work/`, never in a curriculum folder.
 
 Only add a textbook you have the right to redistribute, and record its license in `structure.json` → `source.license`.
 
@@ -75,4 +75,4 @@ Only add a textbook you have the right to redistribute, and record its license i
 pnpm validate && pnpm index && pnpm schema:json && pnpm typecheck
 ```
 
-Commit the regenerated `curricula/index.json` with your change. CI runs the same checks.
+Commit the regenerated `index.json` with your change. CI runs the same checks.

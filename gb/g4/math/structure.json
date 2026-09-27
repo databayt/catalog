@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "gb-g4-math",
+  "curriculum": "gb",
+  "grade": "g4",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "aldar",
+    "title": "National Curriculum in England: Mathematics programmes of study",
+    "url": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study",
+    "license": "LicenseRef-Publisher",
+    "standards": "England NC KS2 Year 4",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-number",
+      "title": {
+        "en": "Number & Place Value to 10,000"
+      },
+      "lessons": [
+        {
+          "slug": "01-rounding",
+          "title": {
+            "en": "Rounding"
+          }
+        },
+        {
+          "slug": "02-times-tables",
+          "title": {
+            "en": "Times Tables to 12"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-decimals",
+      "title": {
+        "en": "Decimals"
+      },
+      "lessons": [
+        {
+          "slug": "01-tenths-hundredths",
+          "title": {
+            "en": "Tenths & Hundredths"
+          }
+        },
+        {
+          "slug": "02-money",
+          "title": {
+            "en": "Money & Decimals"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,8 @@
 
 /**
  * Emit JSON Schema from the zod source so editors validate as you type and
- * non-TypeScript consumers get the same contract. Output: schema/json/*.schema.json
+ * non-TypeScript consumers get the same contract. Output: schema/*.schema.json,
+ * published at catalog/schema/*.schema.json (the repo mirrors the CDN).
  *   pnpm schema:json           write
  *   pnpm schema:json --check   fail if stale (CI)
  */
@@ -14,7 +15,7 @@ import { z } from "zod"
 
 import { SCHEMAS } from "../schema/index.ts"
 
-const OUT = join(import.meta.dirname, "..", "schema", "json")
+const OUT = join(import.meta.dirname, "..", "schema")
 const check = process.argv.includes("--check")
 let stale = 0
 
@@ -30,7 +31,7 @@ for (const [name, schema] of Object.entries(SCHEMAS)) {
   const file = join(OUT, `${name}.schema.json`)
   if (check) {
     if (!existsSync(file) || readFileSync(file, "utf8") !== text) {
-      console.error(`stale: schema/json/${name}.schema.json`)
+      console.error(`stale: schema/${name}.schema.json`)
       stale++
     }
   } else writeFileSync(file, text)

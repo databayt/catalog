@@ -1,0 +1,260 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g5-home-economics",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "home-economics",
+  "title": {
+    "ar": "الاقتصاد المنزلي",
+    "en": "Home Economics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "life",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-the-importance-of-clothing",
+      "title": {
+        "ar": "أهمية الملابس",
+        "en": "The Importance of Clothing"
+      },
+      "concept": "life",
+      "image": "clickview/elementary-farming-and-food-production-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-importance-of-clothing",
+          "title": {
+            "ar": "أهمية الملابس"
+          }
+        },
+        {
+          "slug": "02-customs-and-traditions",
+          "title": {
+            "ar": "أثر العادات والتقاليد في اختلاف الملابس"
+          }
+        },
+        {
+          "slug": "03-islamic-dress",
+          "title": {
+            "ar": "الملبس الشرعي"
+          },
+          "image": "clickview/elementary-islam-cover.jpg"
+        },
+        {
+          "slug": "04-clothing-materials",
+          "title": {
+            "ar": "خامات الملابس"
+          },
+          "image": "clickview/elementary-materials-in-design-cover.jpg"
+        },
+        {
+          "slug": "05-cotton",
+          "title": {
+            "ar": "القطن"
+          }
+        },
+        {
+          "slug": "06-agricultural-operations",
+          "title": {
+            "ar": "العمليات الزراعية"
+          }
+        },
+        {
+          "slug": "07-cotton-pests",
+          "title": {
+            "ar": "آفات القطن"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-making-clothes",
+      "title": {
+        "ar": "صناعة الملابس",
+        "en": "Making Clothes"
+      },
+      "concept": "career",
+      "image": "clickview/middle-textiles-cover.jpg",
+      "lessons": [
+        {
+          "slug": "08-ginning",
+          "title": {
+            "ar": "الحلج"
+          }
+        },
+        {
+          "slug": "09-cotton-spinning",
+          "title": {
+            "ar": "غزل القطن"
+          }
+        },
+        {
+          "slug": "10-weaving",
+          "title": {
+            "ar": "النسج"
+          }
+        },
+        {
+          "slug": "11-fabrics",
+          "title": {
+            "ar": "الأقمشة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-tailoring-and-embroidery",
+      "title": {
+        "ar": "تفصيل الملابس وتطريزها",
+        "en": "Tailoring and Embroidery"
+      },
+      "concept": "career",
+      "image": "clickview/high-textiles-and-design-cover.jpg",
+      "lessons": [
+        {
+          "slug": "12-tailoring",
+          "title": {
+            "ar": "تفصيل الملابس"
+          }
+        },
+        {
+          "slug": "13-cutting-boy-clothes",
+          "title": {
+            "ar": "قص لباس لولد صغير"
+          }
+        },
+        {
+          "slug": "14-cutting-apron",
+          "title": {
+            "ar": "قص مريلة لطفل صغير"
+          }
+        },
+        {
+          "slug": "15-cutting-girl-dress",
+          "title": {
+            "ar": "قص فستان طفلة مبسط"
+          }
+        },
+        {
+          "slug": "16-quick-stitches",
+          "title": {
+            "ar": "الغرز السريعة"
+          }
+        },
+        {
+          "slug": "17-sewing-machine-parts",
+          "title": {
+            "ar": "أجزاء ماكينة الخياطة"
+          }
+        },
+        {
+          "slug": "18-embroidery",
+          "title": {
+            "ar": "التطريز"
+          }
+        },
+        {
+          "slug": "19-knitting-and-crochet",
+          "title": {
+            "ar": "التريكو والتشبيك"
+          }
+        },
+        {
+          "slug": "20-making-cap",
+          "title": {
+            "ar": "عمل طاقية"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-caring-for-clothes",
+      "title": {
+        "ar": "نظافة الملابس",
+        "en": "Caring for Clothes"
+      },
+      "concept": "health",
+      "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg",
+      "lessons": [
+        {
+          "slug": "21-clothing-cleanliness",
+          "title": {
+            "ar": "نظافة الملابس"
+          }
+        },
+        {
+          "slug": "22-soap",
+          "title": {
+            "ar": "الصابون"
+          }
+        },
+        {
+          "slug": "23-water-soap-cleanliness",
+          "title": {
+            "ar": "أهمية الماء والصابون في النظافة"
+          }
+        },
+        {
+          "slug": "24-washing-vessels",
+          "title": {
+            "ar": "أواني الغسيل"
+          }
+        },
+        {
+          "slug": "25-washing-cotton-clothes",
+          "title": {
+            "ar": "غسل الملابس القطنية"
+          }
+        },
+        {
+          "slug": "26-stain-removal",
+          "title": {
+            "ar": "إزالة البقع"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-shoes",
+      "title": {
+        "ar": "الأحذية",
+        "en": "Shoes"
+      },
+      "concept": "career",
+      "image": "clickview/middle-woodwork-cover.jpg",
+      "lessons": [
+        {
+          "slug": "27-shoes",
+          "title": {
+            "ar": "الأحذية"
+          }
+        },
+        {
+          "slug": "28-leather-shoe-making",
+          "title": {
+            "ar": "صناعة الأحذية الجلدية"
+          }
+        },
+        {
+          "slug": "29-shoemaking-tools",
+          "title": {
+            "ar": "أدوات صناعة الأحذية"
+          }
+        },
+        {
+          "slug": "30-making-shoe",
+          "title": {
+            "ar": "صناعة الحذاء"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g12-home-economics",
+  "curriculum": "sd",
+  "grade": "g12",
+  "subject": "home-economics",
+  "title": {
+    "ar": "العلوم الأسرية",
+    "en": "Family Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "life",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم الأسرية — الصف الثالث الثانوي — ٢٠٠٩م (بطاقة الفهرسة، ISBN 978-99942-53-05-0)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-general-nutrition",
+      "title": {
+        "ar": "التغذية العامة",
+        "en": "General Nutrition"
+      },
+      "concept": "health",
+      "image": "clickview/high-nutrients-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-general-and-dietary-behaviour-and-their-effect",
+          "title": {
+            "ar": "السلوكيات العامة والسلوك الغذائي وأثرهما على تغذية الأفراد",
+            "en": "General and Dietary Behaviour and Their Effect on Nutrition"
+          },
+          "page": 3
+        },
+        {
+          "slug": "02-nutritional-requirements-of-special-groups",
+          "title": {
+            "ar": "الأساسيات المطلوبة لتغذية المجموعات الخاصة",
+            "en": "Nutritional Requirements of Special Groups"
+          },
+          "page": 12
+        }
+      ]
+    },
+    {
+      "slug": "02-diseases-related-to-malnutrition",
+      "title": {
+        "ar": "الأمراض المرتبطة بسوء التغذية",
+        "en": "Diseases Related to Malnutrition"
+      },
+      "concept": "health",
+      "image": "clickview/high-pathology-cover.jpg",
+      "page": 31,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-malnutrition-diseases-and-associated-conditions",
+          "title": {
+            "ar": "أمراض سوء التغذية والأمراض المصاحبة",
+            "en": "Malnutrition Diseases and Associated Conditions"
+          },
+          "page": 33
+        },
+        {
+          "slug": "02-therapeutic-nutrition",
+          "title": {
+            "ar": "التغذية العلاجية",
+            "en": "Therapeutic Nutrition"
+          },
+          "page": 54
+        },
+        {
+          "slug": "03-food-allergies",
+          "title": {
+            "ar": "الحساسية الغذائية",
+            "en": "Food Allergies"
+          },
+          "page": 67
+        }
+      ]
+    },
+    {
+      "slug": "03-public-health-and-health-services",
+      "title": {
+        "ar": "الصحة العامة والخدمات الصحية",
+        "en": "Public Health and Health Services"
+      },
+      "concept": "health",
+      "image": "clickview/high-healthy-lifestyle-cover.jpg",
+      "page": 72,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-primary-health-care-programmes",
+          "title": {
+            "ar": "برامج الرعاية الصحية الأولية",
+            "en": "Primary Health Care Programmes"
+          },
+          "page": 74
+        },
+        {
+          "slug": "02-health-insurance",
+          "title": {
+            "ar": "التأمين الصحي",
+            "en": "Health Insurance"
+          },
+          "page": 83
+        },
+        {
+          "slug": "03-medicinal-plants-and-herbs",
+          "title": {
+            "ar": "النباتات والأعشاب الطبية",
+            "en": "Medicinal Plants and Herbs"
+          },
+          "page": 92
+        }
+      ]
+    },
+    {
+      "slug": "04-food-security-and-emergency-nutrition",
+      "title": {
+        "ar": "الأمن الغذائي وتغذية الطوارئ",
+        "en": "Food Security and Emergency Nutrition"
+      },
+      "concept": "health",
+      "image": "clickview/high-agricultural-sustainability-cover.jpg",
+      "page": 99,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-elements-and-strategies-of-food-security",
+          "title": {
+            "ar": "عناصر واستراتيجيات الأمن الغذائي",
+            "en": "Elements and Strategies of Food Security"
+          },
+          "page": 101
+        },
+        {
+          "slug": "02-nutrition-in-disasters-emergencies-and-famines",
+          "title": {
+            "ar": "التغذية في حالات الكوارث والطوارئ والمجاعات",
+            "en": "Nutrition in Disasters, Emergencies and Famines"
+          },
+          "page": 109
+        }
+      ]
+    },
+    {
+      "slug": "05-food-safety-and-quality-control",
+      "title": {
+        "ar": "صحة وسلامة الغذاء وضبط جودته",
+        "en": "Food Safety and Quality Control"
+      },
+      "concept": "health",
+      "image": "clickview/high-food-quality-and-safety-cover.jpg",
+      "page": 116,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-food-hygiene-and-safety",
+          "title": {
+            "ar": "صحة وسلامة الغذاء",
+            "en": "Food Hygiene and Safety"
+          },
+          "page": 118
+        },
+        {
+          "slug": "02-quality-control-and-consumer-protection-laws",
+          "title": {
+            "ar": "قوانين ضبط الجودة وحماية المستهلك",
+            "en": "Quality Control and Consumer Protection Laws"
+          },
+          "page": 125
+        }
+      ]
+    },
+    {
+      "slug": "06-community-health",
+      "title": {
+        "ar": "صحة المجتمع",
+        "en": "Community Health"
+      },
+      "concept": "health",
+      "image": "clickview/high-community-engagement-and-care-cover.jpg",
+      "page": 137,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-aids",
+          "title": {
+            "ar": "مرض الإيدز",
+            "en": "AIDS"
+          },
+          "page": 139
+        },
+        {
+          "slug": "02-female-genital-mutilation",
+          "title": {
+            "ar": "ختان الإناث",
+            "en": "Female Genital Mutilation"
+          },
+          "page": 153
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "caie-igcse-g10-business",
+  "curriculum": "caie-igcse",
+  "grade": "g10",
+  "subject": "business",
+  "title": {
+    "ar": "دراسات الأعمال",
+    "en": "Business Studies (0450)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "economy",
+  "source": {
+    "publisher": "cambridge",
+    "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-understanding-business-activity",
+      "title": {
+        "en": "Understanding Business Activity"
+      },
+      "lessons": [
+        {
+          "slug": "01-understanding-business-activity",
+          "title": {
+            "en": "Understanding Business Activity"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-people-in-business",
+      "title": {
+        "en": "People in Business"
+      },
+      "lessons": [
+        {
+          "slug": "01-people-in-business",
+          "title": {
+            "en": "People in Business"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-marketing",
+      "title": {
+        "en": "Marketing"
+      },
+      "lessons": [
+        {
+          "slug": "01-marketing",
+          "title": {
+            "en": "Marketing"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-operations-management",
+      "title": {
+        "en": "Operations Management"
+      },
+      "lessons": [
+        {
+          "slug": "01-operations-management",
+          "title": {
+            "en": "Operations Management"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-financial-information-and-decisions",
+      "title": {
+        "en": "Financial Information and Decisions"
+      },
+      "lessons": [
+        {
+          "slug": "01-financial-information-and-decisions",
+          "title": {
+            "en": "Financial Information and Decisions"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-external-influences-on-business-activity",
+      "title": {
+        "en": "External Influences on Business Activity"
+      },
+      "lessons": [
+        {
+          "slug": "01-external-influences-on-business-activity",
+          "title": {
+            "en": "External Influences on Business Activity"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@
 
 /**
  * Publish the text half of the catalog to the CDN: every JSON and Markdown
- * file under curricula/ (at its key), the index at catalog/index.json, and the
- * JSON Schemas at catalog/schema/. Binaries are `pnpm assets push`'s job.
+ * file in the curriculum folders (at its key), the root index.json at
+ * catalog/index.json, and schema/*.schema.json at catalog/schema/. Binaries are `pnpm assets push`'s job.
  *
  * Only changed objects are uploaded (MD5 vs the bucket's ETag), and the
  * CloudFront paths that changed are invalidated — collapsed to one wildcard
@@ -12,8 +12,8 @@
  * Nothing is ever deleted: a renamed path leaves its old key live.
  *
  *   pnpm publish:cdn                        dry run: list what would change
- *   pnpm publish:cdn --apply                upload new keys + invalidate
- *   pnpm publish:cdn --apply --overwrite    also replace live keys that differ
+ *   pnpm publish:cdn --apply                upload new + changed catalog keys, invalidate
+ *   pnpm publish:cdn --apply --overwrite    also replace pre-catalog keys (see CATALOG_EPOCH)
  *   pnpm publish:cdn --apply sd gb          limit to some curricula
  */
 
@@ -23,10 +23,10 @@ import { createHash } from "node:crypto"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
 
-import { CONTENT_ROOT, pathToKey } from "../src/paths.ts"
+import { pathToKey } from "../src/paths.ts"
 import { BUCKET, DISTRIBUTION, REGION, contentType, listPrefix, pool, s3 } from "./lib/s3.ts"
+import { REPO, contentDirs } from "./lib/tree.ts"
 
-const REPO = join(import.meta.dirname, "..")
 const apply = process.argv.includes("--apply")
 
 function* walk(dir: string): Generator<string> {
@@ -41,10 +41,14 @@ function* walk(dir: string): Generator<string> {
 const only = process.argv.slice(2).filter((a) => !a.startsWith("--"))
 
 const files: { key: string; file: string }[] = []
-for (const f of walk(join(REPO, CONTENT_ROOT)))
-  files.push({ key: pathToKey(relative(REPO, f)), file: f })
-for (const n of readdirSync(join(REPO, "schema", "json")))
-  files.push({ key: `catalog/schema/${n}`, file: join(REPO, "schema", "json", n) })
+const published = [
+  ...contentDirs().flatMap((d) => [...walk(join(REPO, d))]),
+  join(REPO, "index.json"),
+  ...readdirSync(join(REPO, "schema"))
+    .filter((n) => n.endsWith(".schema.json"))
+    .map((n) => join(REPO, "schema", n)),
+]
+for (const f of published) files.push({ key: pathToKey(relative(REPO, f)), file: f })
 
 if (only.length)
   files.splice(
@@ -61,17 +65,19 @@ if (only.length)
 
 const remote = await listPrefix("catalog/")
 const overwrite = process.argv.includes("--overwrite")
+const differs = (key: string, file: string) =>
+  remote.get(key)!.etag !== createHash("md5").update(readFileSync(file)).digest("hex")
 const fresh = files.filter(({ key }) => !remote.has(key))
-const stale = files.filter(({ key, file }) => {
-  const r = remote.get(key)
-  return r && r.etag !== createHash("md5").update(readFileSync(file)).digest("hex")
-})
-// Replacing a live key is opt-in: apps may still read the old shape there
-// (hogwarts reads structure.json + textbook.md at these keys until it cuts over).
-const changed = overwrite ? [...fresh, ...stale] : fresh
+// Catalog-owned keys (written since CATALOG_EPOCH) update freely.
+const owned = files.filter(
+  ({ key, file }) => remote.has(key) && !remote.get(key)!.foreign && differs(key, file)
+)
+// Foreign keys predate the repo; apps may still read their old shape there.
+const foreign = files.filter(({ key, file }) => remote.get(key)?.foreign && differs(key, file))
+const changed = [...fresh, ...owned, ...(overwrite ? foreign : [])]
 
 console.log(
-  `${files.length} text files · ${fresh.length} new · ${stale.length} live keys differ${overwrite ? "" : " (kept — pass --overwrite to replace)"}${apply ? "" : " — dry run, pass --apply"}`
+  `${files.length} text files · ${fresh.length} new · ${owned.length} updated · ${foreign.length} pre-catalog keys differ${overwrite ? " (replacing)" : " (kept — pass --overwrite to replace)"}${apply ? "" : " — dry run, pass --apply"}`
 )
 if (!apply) {
   for (const c of changed.slice(0, 30)) console.log(`  ${c.key}`)

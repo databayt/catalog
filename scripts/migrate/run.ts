@@ -2,17 +2,18 @@
 // Licensed under MIT -- see LICENSE for details
 
 /**
- * One-off restructure: legacy `hogwarts/curriculum/` tree -> canonical `curricula/`.
+ * One-off restructure: legacy `hogwarts/curriculum/` tree -> the canonical tree
+ * at the repo root (which mirrors catalog/ on the CDN).
  *
- * Idempotent: it rebuilds `curricula/` (and `.work/`) from the untouched legacy
+ * Idempotent: it rebuilds the curriculum folders (and `.work/`) from the untouched legacy
  * tree on every run, so it can be re-run after any rule changes. Binaries are
  * APFS-cloned (copy-on-write: instant, no extra disk, independent of the source).
  *
  *   pnpm migrate --from /Users/abdout/hogwarts/curriculum           # dry run: report only
- *   pnpm migrate --from /Users/abdout/hogwarts/curriculum --write   # rebuild curricula/
+ *   pnpm migrate --from /Users/abdout/hogwarts/curriculum --write   # rebuild the curriculum folders
  *
  * Outputs (with --write):
- *   curricula/**                         the canonical tree
+ *   <cur>/**                             the canonical tree
  *   .work/<cur>/<grade>/<subject>/**     textbook-pipeline scratch (gitignored)
  *   scripts/migrate/renames.json         every old -> new path, slug and DB slug
  *   scripts/migrate/report.md            what was kept, renamed, archived and dropped
@@ -32,7 +33,7 @@ import {
 import { dirname, join, relative } from "node:path"
 
 import { SCHEMAS } from "../../schema/index.ts"
-import { CONTENT_ROOT, subjectId } from "../../src/paths.ts"
+import { subjectId } from "../../src/paths.ts"
 import {
   CURRICULA,
   SUBJECT_ALIAS,
@@ -53,7 +54,8 @@ const opt = (n: string) => {
 const FROM = opt("--from") ?? "/Users/abdout/hogwarts/curriculum"
 const WRITE = flag("--write")
 const REPO = join(import.meta.dirname, "..", "..")
-const OUT = join(REPO, CONTENT_ROOT)
+/** The repo root mirrors catalog/ on the CDN: each curriculum is a top-level folder. */
+const OUT = REPO
 const WORK = join(REPO, ".work")
 const DATA = join(import.meta.dirname, "data")
 
@@ -573,7 +575,7 @@ function migrateSubject(legacyDir: string, grade: string, folder: string) {
       else if (/^[\x20-\x7E]+$/.test(part)) rawTitle.en ??= part
     }
   const structure = compact({
-    $schema: "../../../../schema/json/structure.schema.json",
+    $schema: "../../../schema/structure.schema.json",
     id,
     curriculum: cur.id,
     grade,
@@ -836,7 +838,7 @@ function migrateCurriculum(legacyDir: string) {
     },
   }))
   const curriculum = compact({
-    $schema: "../../schema/json/curriculum.schema.json",
+    $schema: "../schema/curriculum.schema.json",
     id: cur.id,
     title: compact({
       ar: str(legacy.name_ar) ?? v.title.ar,
@@ -866,7 +868,9 @@ function migrateCurriculum(legacyDir: string) {
 
 if (!existsSync(FROM)) throw new Error(`--from ${FROM} does not exist`)
 if (WRITE) {
-  rmSync(OUT, { recursive: true, force: true })
+  // Only the curriculum folders this script owns — OUT is the repo root.
+  for (const { id } of Object.values(CURRICULUM_DIRS))
+    rmSync(join(OUT, id), { recursive: true, force: true })
   rmSync(WORK, { recursive: true, force: true })
 }
 for (const legacyDir of Object.keys(CURRICULUM_DIRS)) migrateCurriculum(legacyDir)
@@ -883,7 +887,7 @@ for (const top of ls(FROM))
 const summary = [
   `# Migration report`,
   ``,
-  `From \`${FROM}\` → \`${CONTENT_ROOT}/\`${WRITE ? "" : " (dry run)"}.`,
+  `From \`${FROM}\` → the repo root (= catalog/ on the CDN)${WRITE ? "" : " (dry run)"}.`,
   ``,
   `| | count |`,
   `|---|---:|`,

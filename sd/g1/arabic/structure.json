@@ -1,0 +1,419 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g1-arabic",
+  "curriculum": "sd",
+  "grade": "g1",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-arabic-lessons",
+      "title": {
+        "ar": "دروس اللغة العربية",
+        "en": "Arabic Language Lessons"
+      },
+      "concept": "language",
+      "image": "clickview/elementary-sentences-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "ar": "الدرس السادس",
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "ar": "الدرس السابع",
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "ar": "الدرس الثامن",
+            "en": "Lesson 8"
+          }
+        },
+        {
+          "slug": "09-lesson-9",
+          "title": {
+            "ar": "الدرس التاسع",
+            "en": "Lesson 9"
+          }
+        },
+        {
+          "slug": "10-lesson-10",
+          "title": {
+            "ar": "الدرس العاشر",
+            "en": "Lesson 10"
+          }
+        },
+        {
+          "slug": "11-lesson-11",
+          "title": {
+            "ar": "الدرس الحادي عشر",
+            "en": "Lesson 11"
+          }
+        },
+        {
+          "slug": "12-lesson-12",
+          "title": {
+            "ar": "الدرس الثاني عشر",
+            "en": "Lesson 12"
+          }
+        },
+        {
+          "slug": "13-lesson-13",
+          "title": {
+            "ar": "الدرس الثالث عشر",
+            "en": "Lesson 13"
+          }
+        },
+        {
+          "slug": "14-lesson-14",
+          "title": {
+            "ar": "الدرس الرابع عشر",
+            "en": "Lesson 14"
+          }
+        },
+        {
+          "slug": "15-lesson-15",
+          "title": {
+            "ar": "الدرس الخامس عشر",
+            "en": "Lesson 15"
+          }
+        },
+        {
+          "slug": "16-lesson-16",
+          "title": {
+            "ar": "الدرس السادس عشر",
+            "en": "Lesson 16"
+          }
+        },
+        {
+          "slug": "17-lesson-17",
+          "title": {
+            "ar": "الدرس السابع عشر",
+            "en": "Lesson 17"
+          }
+        },
+        {
+          "slug": "18-lesson-18",
+          "title": {
+            "ar": "الدرس الثامن عشر",
+            "en": "Lesson 18"
+          }
+        },
+        {
+          "slug": "19-lesson-19",
+          "title": {
+            "ar": "الدرس التاسع عشر",
+            "en": "Lesson 19"
+          }
+        },
+        {
+          "slug": "20-lesson-20",
+          "title": {
+            "ar": "الدرس العشرون",
+            "en": "Lesson 20"
+          }
+        },
+        {
+          "slug": "21-lesson-21",
+          "title": {
+            "ar": "الدرس الحادي والعشرون",
+            "en": "Lesson 21"
+          }
+        },
+        {
+          "slug": "22-lesson-22",
+          "title": {
+            "ar": "الدرس الثاني والعشرون",
+            "en": "Lesson 22"
+          }
+        },
+        {
+          "slug": "23-lesson-23",
+          "title": {
+            "ar": "الدرس الثالث والعشرون",
+            "en": "Lesson 23"
+          }
+        },
+        {
+          "slug": "24-lesson-24",
+          "title": {
+            "ar": "الدرس الرابع والعشرون",
+            "en": "Lesson 24"
+          }
+        },
+        {
+          "slug": "25-lesson-25",
+          "title": {
+            "ar": "الدرس الخامس والعشرون",
+            "en": "Lesson 25"
+          }
+        },
+        {
+          "slug": "26-lesson-26",
+          "title": {
+            "ar": "الدرس السادس والعشرون",
+            "en": "Lesson 26"
+          }
+        },
+        {
+          "slug": "27-lesson-27",
+          "title": {
+            "ar": "الدرس السابع والعشرون",
+            "en": "Lesson 27"
+          }
+        },
+        {
+          "slug": "28-lesson-28",
+          "title": {
+            "ar": "الدرس الثامن والعشرون",
+            "en": "Lesson 28"
+          }
+        },
+        {
+          "slug": "29-lesson-29",
+          "title": {
+            "ar": "الدرس التاسع والعشرون",
+            "en": "Lesson 29"
+          }
+        },
+        {
+          "slug": "30-lesson-30",
+          "title": {
+            "ar": "الدرس الثلاثون",
+            "en": "Lesson 30"
+          }
+        },
+        {
+          "slug": "31-lesson-31",
+          "title": {
+            "ar": "الدرس الحادي والثلاثون",
+            "en": "Lesson 31"
+          }
+        },
+        {
+          "slug": "32-lesson-32",
+          "title": {
+            "ar": "الدرس الثاني والثلاثون",
+            "en": "Lesson 32"
+          }
+        },
+        {
+          "slug": "33-lesson-33",
+          "title": {
+            "ar": "الدرس الثالث والثلاثون",
+            "en": "Lesson 33"
+          }
+        },
+        {
+          "slug": "34-lesson-34",
+          "title": {
+            "ar": "الدرس الرابع والثلاثون",
+            "en": "Lesson 34"
+          }
+        },
+        {
+          "slug": "35-lesson-35",
+          "title": {
+            "ar": "الدرس الخامس والثلاثون",
+            "en": "Lesson 35"
+          }
+        },
+        {
+          "slug": "36-lesson-36",
+          "title": {
+            "ar": "الدرس السادس والثلاثون",
+            "en": "Lesson 36"
+          }
+        },
+        {
+          "slug": "37-lesson-37",
+          "title": {
+            "ar": "الدرس السابع والثلاثون",
+            "en": "Lesson 37"
+          }
+        },
+        {
+          "slug": "38-lesson-38",
+          "title": {
+            "ar": "الدرس الثامن والثلاثون",
+            "en": "Lesson 38"
+          }
+        },
+        {
+          "slug": "39-lesson-39",
+          "title": {
+            "ar": "الدرس التاسع والثلاثون",
+            "en": "Lesson 39"
+          }
+        },
+        {
+          "slug": "40-lesson-40",
+          "title": {
+            "ar": "الدرس الأربعون",
+            "en": "Lesson 40"
+          }
+        },
+        {
+          "slug": "41-lesson-41",
+          "title": {
+            "ar": "الدرس الحادي والأربعون",
+            "en": "Lesson 41"
+          }
+        },
+        {
+          "slug": "42-lesson-42",
+          "title": {
+            "ar": "الدرس الثاني والأربعون",
+            "en": "Lesson 42"
+          }
+        },
+        {
+          "slug": "43-lesson-43",
+          "title": {
+            "ar": "الدرس الثالث والأربعون",
+            "en": "Lesson 43"
+          }
+        },
+        {
+          "slug": "44-lesson-44",
+          "title": {
+            "ar": "الدرس الرابع والأربعون",
+            "en": "Lesson 44"
+          }
+        },
+        {
+          "slug": "45-lesson-45",
+          "title": {
+            "ar": "الدرس الخامس والأربعون",
+            "en": "Lesson 45"
+          }
+        },
+        {
+          "slug": "46-lesson-46",
+          "title": {
+            "ar": "الدرس السادس والأربعون",
+            "en": "Lesson 46"
+          }
+        },
+        {
+          "slug": "47-lesson-47",
+          "title": {
+            "ar": "الدرس السابع والأربعون",
+            "en": "Lesson 47"
+          }
+        },
+        {
+          "slug": "48-lesson-48",
+          "title": {
+            "ar": "الدرس الثامن والأربعون",
+            "en": "Lesson 48"
+          }
+        },
+        {
+          "slug": "49-lesson-49",
+          "title": {
+            "ar": "الدرس التاسع والأربعون",
+            "en": "Lesson 49"
+          }
+        },
+        {
+          "slug": "50-lesson-50",
+          "title": {
+            "ar": "الدرس الخمسون",
+            "en": "Lesson 50"
+          }
+        },
+        {
+          "slug": "51-lesson-51",
+          "title": {
+            "ar": "الدرس الحادي والخمسون",
+            "en": "Lesson 51"
+          }
+        },
+        {
+          "slug": "52-lesson-52",
+          "title": {
+            "ar": "الدرس الثاني والخمسون",
+            "en": "Lesson 52"
+          }
+        },
+        {
+          "slug": "53-lesson-53",
+          "title": {
+            "ar": "الدرس الثالث والخمسون",
+            "en": "Lesson 53"
+          }
+        },
+        {
+          "slug": "54-lesson-54",
+          "title": {
+            "ar": "الدرس الرابع والخمسون",
+            "en": "Lesson 54"
+          }
+        },
+        {
+          "slug": "55-lesson-55",
+          "title": {
+            "ar": "الدرس الخامس والخمسون",
+            "en": "Lesson 55"
+          }
+        }
+      ]
+    }
+  ]
+}

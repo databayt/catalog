@@ -1,0 +1,407 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g1-math",
+  "curriculum": "sd",
+  "grade": "g1",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "math",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-numbers-0-9",
+      "title": {
+        "ar": "الأعداد (0-9)",
+        "en": "Numbers (0-9)"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-counting-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-number-1",
+          "title": {
+            "ar": "العدد واحد",
+            "en": "Number One"
+          }
+        },
+        {
+          "slug": "02-number-2",
+          "title": {
+            "ar": "العدد اثنان",
+            "en": "Number Two"
+          }
+        },
+        {
+          "slug": "03-number-3",
+          "title": {
+            "ar": "العدد ثلاثة",
+            "en": "Number Three"
+          }
+        },
+        {
+          "slug": "04-number-4",
+          "title": {
+            "ar": "العدد أربعة",
+            "en": "Number Four"
+          }
+        },
+        {
+          "slug": "05-number-5",
+          "title": {
+            "ar": "العدد خمسة",
+            "en": "Number Five"
+          }
+        },
+        {
+          "slug": "06-number-6",
+          "title": {
+            "ar": "العدد ستة",
+            "en": "Number Six"
+          }
+        },
+        {
+          "slug": "07-number-7",
+          "title": {
+            "ar": "العدد سبعة",
+            "en": "Number Seven"
+          }
+        },
+        {
+          "slug": "08-number-8",
+          "title": {
+            "ar": "العدد ثمانية",
+            "en": "Number Eight"
+          }
+        },
+        {
+          "slug": "09-number-9",
+          "title": {
+            "ar": "العدد تسعة",
+            "en": "Number Nine"
+          }
+        },
+        {
+          "slug": "10-number-0",
+          "title": {
+            "ar": "العدد صفر",
+            "en": "Number Zero"
+          }
+        },
+        {
+          "slug": "11-lesson-11",
+          "title": {
+            "ar": "الدرس الحادي عشر",
+            "en": "Lesson 11"
+          }
+        },
+        {
+          "slug": "12-lesson-12",
+          "title": {
+            "ar": "الدرس الثاني عشر",
+            "en": "Lesson 12"
+          }
+        },
+        {
+          "slug": "13-lesson-13",
+          "title": {
+            "ar": "الدرس الثالث عشر",
+            "en": "Lesson 13"
+          }
+        },
+        {
+          "slug": "14-lesson-14",
+          "title": {
+            "ar": "الدرس الرابع عشر",
+            "en": "Lesson 14"
+          }
+        },
+        {
+          "slug": "15-lesson-15",
+          "title": {
+            "ar": "الدرس الخامس عشر",
+            "en": "Lesson 15"
+          }
+        },
+        {
+          "slug": "16-lesson-16",
+          "title": {
+            "ar": "الدرس السادس عشر",
+            "en": "Lesson 16"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-addition-within-9",
+      "title": {
+        "ar": "الجمع ضمن العدد 9",
+        "en": "Addition within 9"
+      },
+      "concept": "math",
+      "image": "clickview/middle-whole-number-operations-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "ar": "الدرس السادس",
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "ar": "الدرس السابع",
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "ar": "الدرس الثامن",
+            "en": "Lesson 8"
+          }
+        },
+        {
+          "slug": "09-lesson-9",
+          "title": {
+            "ar": "الدرس التاسع",
+            "en": "Lesson 9"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-subtraction-within-9",
+      "title": {
+        "ar": "الطرح ضمن العدد 9",
+        "en": "Subtraction within 9"
+      },
+      "concept": "math",
+      "image": "clickview/middle-whole-number-operations-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson 4"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-numbers-10-99",
+      "title": {
+        "ar": "الأعداد (10-99) وعمليات الجمع والطرح",
+        "en": "Numbers (10-99) and Addition/Subtraction"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-place-value-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson 4"
+          }
+        },
+        {
+          "slug": "05-lesson-5",
+          "title": {
+            "ar": "الدرس الخامس",
+            "en": "Lesson 5"
+          }
+        },
+        {
+          "slug": "06-lesson-6",
+          "title": {
+            "ar": "الدرس السادس",
+            "en": "Lesson 6"
+          }
+        },
+        {
+          "slug": "07-lesson-7",
+          "title": {
+            "ar": "الدرس السابع",
+            "en": "Lesson 7"
+          }
+        },
+        {
+          "slug": "08-lesson-8",
+          "title": {
+            "ar": "الدرس الثامن",
+            "en": "Lesson 8"
+          }
+        },
+        {
+          "slug": "09-lesson-9",
+          "title": {
+            "ar": "الدرس التاسع",
+            "en": "Lesson 9"
+          }
+        },
+        {
+          "slug": "10-lesson-10",
+          "title": {
+            "ar": "الدرس العاشر",
+            "en": "Lesson 10"
+          }
+        },
+        {
+          "slug": "11-lesson-11",
+          "title": {
+            "ar": "الدرس الحادي عشر",
+            "en": "Lesson 11"
+          }
+        },
+        {
+          "slug": "12-lesson-12",
+          "title": {
+            "ar": "الدرس الثاني عشر",
+            "en": "Lesson 12"
+          }
+        },
+        {
+          "slug": "13-lesson-13",
+          "title": {
+            "ar": "الدرس الثالث عشر",
+            "en": "Lesson 13"
+          }
+        },
+        {
+          "slug": "14-lesson-14",
+          "title": {
+            "ar": "الدرس الرابع عشر",
+            "en": "Lesson 14"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-measurement",
+      "title": {
+        "ar": "القياس",
+        "en": "Measurement"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-volume-and-capacity-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-lesson-1",
+          "title": {
+            "ar": "الدرس الأول",
+            "en": "Lesson 1"
+          }
+        },
+        {
+          "slug": "02-lesson-2",
+          "title": {
+            "ar": "الدرس الثاني",
+            "en": "Lesson 2"
+          }
+        },
+        {
+          "slug": "03-lesson-3",
+          "title": {
+            "ar": "الدرس الثالث",
+            "en": "Lesson 3"
+          }
+        },
+        {
+          "slug": "04-lesson-4",
+          "title": {
+            "ar": "الدرس الرابع",
+            "en": "Lesson 4"
+          }
+        }
+      ]
+    }
+  ]
+}

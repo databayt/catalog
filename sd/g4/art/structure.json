@@ -1,0 +1,106 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g4-art",
+  "curriculum": "sd",
+  "grade": "g4",
+  "subject": "art",
+  "title": {
+    "ar": "التربية الفنية",
+    "en": "Art & Design"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "art",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-drawing",
+      "title": {
+        "ar": "المجال الأول: الرسم"
+      },
+      "concept": "art",
+      "image": "clickview/elementary-elements-of-art-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-drawing-components",
+          "title": {
+            "ar": "مكونات المجال"
+          }
+        },
+        {
+          "slug": "02-simple-shapes",
+          "title": {
+            "ar": "دراسة الأشكال البسيطة"
+          }
+        },
+        {
+          "slug": "03-light-shadows",
+          "title": {
+            "ar": "الظل والضوء"
+          },
+          "image": "clickview/elementary-light-cover.jpg"
+        },
+        {
+          "slug": "04-plant-drawing",
+          "title": {
+            "ar": "رسم النبات"
+          }
+        },
+        {
+          "slug": "05-artistic-composition",
+          "title": {
+            "ar": "التكوين الفني"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-design-decoration",
+      "title": {
+        "ar": "المجال الثاني: التصميم والفرخزة"
+      },
+      "concept": "art",
+      "image": "clickview/elementary-artistic-techniques-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-design-components",
+          "title": {
+            "ar": "مكونات المجال"
+          }
+        },
+        {
+          "slug": "02-design-elements",
+          "title": {
+            "ar": "عناصر التصميم الفني"
+          }
+        },
+        {
+          "slug": "03-design-basics",
+          "title": {
+            "ar": "أسس التصميم الفني"
+          }
+        },
+        {
+          "slug": "04-sudanese-artistic-heritage",
+          "title": {
+            "ar": "التراث الفني السوداني"
+          },
+          "image": "clickview/elementary-world-art-cover.jpg"
+        },
+        {
+          "slug": "05-decorative-patterns",
+          "title": {
+            "ar": "الفرخزة"
+          },
+          "image": "clickview/elementary-elements-of-art-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

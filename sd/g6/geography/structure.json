@@ -1,0 +1,145 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g6-geography",
+  "curriculum": "sd",
+  "grade": "g6",
+  "subject": "geography",
+  "title": {
+    "ar": "الجغرافيا",
+    "en": "Geography"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "geography",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-08",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-natural-environment",
+      "title": {
+        "ar": "البيئة الطبيعية للوطن",
+        "en": "The Natural Environment of the Homeland"
+      },
+      "concept": "geography",
+      "image": "clickview/middle-places-and-regions-cover.jpg",
+      "page": 2,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-sudan-environments",
+          "title": {
+            "ar": "بيئات السودان المختلفة",
+            "en": "Sudan's Different Environments"
+          },
+          "page": 2
+        },
+        {
+          "slug": "02-latitude-longitude",
+          "title": {
+            "ar": "خطوط الطول والعرض",
+            "en": "Lines of Longitude and Latitude"
+          },
+          "page": 4,
+          "image": "clickview/middle-topographic-maps-cover.jpg"
+        },
+        {
+          "slug": "03-location-diversity",
+          "title": {
+            "ar": "موقع السودان وتنوعه",
+            "en": "Sudan's Location and Diversity"
+          },
+          "page": 5
+        }
+      ]
+    },
+    {
+      "slug": "02-productive-resources",
+      "title": {
+        "ar": "الموارد الإنتاجية",
+        "en": "Productive Resources"
+      },
+      "concept": "economy",
+      "image": "clickview/middle-economic-development-cover.jpg",
+      "page": 15,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-agriculture",
+          "title": {
+            "ar": "الزراعة",
+            "en": "Agriculture"
+          },
+          "page": 15
+        },
+        {
+          "slug": "02-industry",
+          "title": {
+            "ar": "الصناعة",
+            "en": "Industry"
+          },
+          "page": 27
+        },
+        {
+          "slug": "03-grazing",
+          "title": {
+            "ar": "الرعي",
+            "en": "Herding and Grazing"
+          },
+          "page": 29
+        },
+        {
+          "slug": "04-mining",
+          "title": {
+            "ar": "التعدين",
+            "en": "Mining"
+          },
+          "page": 37,
+          "image": "clickview/middle-natural-resources-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-human-geography",
+      "title": {
+        "ar": "الجغرافيا البشرية",
+        "en": "Human Geography"
+      },
+      "concept": "geography",
+      "image": "clickview/middle-population-and-urbanization-cover.jpg",
+      "page": 41,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-population-sudan",
+          "title": {
+            "ar": "السكان في السودان",
+            "en": "Population in Sudan"
+          },
+          "page": 41
+        },
+        {
+          "slug": "02-service-facilities",
+          "title": {
+            "ar": "المرافق الخدمية في السودان",
+            "en": "Service Facilities in Sudan"
+          },
+          "page": 44
+        },
+        {
+          "slug": "03-sudan-cities",
+          "title": {
+            "ar": "مدن السودان",
+            "en": "Cities of Sudan"
+          },
+          "page": 55
+        }
+      ]
+    }
+  ]
+}

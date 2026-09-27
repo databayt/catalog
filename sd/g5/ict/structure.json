@@ -1,0 +1,179 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g5-ict",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "ict",
+  "title": {
+    "ar": "تكنولوجيا المعلومات والاتصالات",
+    "en": "Information & Communication Technology"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "computer",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-processing-and-storing-data-in-the-computer",
+      "title": {
+        "ar": "معالجة وتخزين البيانات في الحاسوب",
+        "en": "Processing and Storing Data in the Computer"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-computing-systems-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-the-central-processing-unit",
+          "title": {
+            "ar": "وحدة المعالجة المركزية",
+            "en": "The Central Processing Unit"
+          }
+        },
+        {
+          "slug": "02-basic-computer-operations",
+          "title": {
+            "ar": "العمليات الأساسية للحاسوب",
+            "en": "Basic Computer Operations"
+          }
+        },
+        {
+          "slug": "03-computer-storage-units",
+          "title": {
+            "ar": "وحدات التخزين في الحاسوب",
+            "en": "Computer Storage Units"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-the-windows-operating-system",
+      "title": {
+        "ar": "نظام الويندوز لتشغيل الحاسوب",
+        "en": "The Windows Operating System"
+      },
+      "concept": "computer",
+      "image": "clickview/middle-computing-operating-systems-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-the-windows-interface",
+          "title": {
+            "ar": "المظهر العام لويندوز",
+            "en": "The Windows Interface"
+          }
+        },
+        {
+          "slug": "02-date-and-time",
+          "title": {
+            "ar": "التاريخ والوقت",
+            "en": "Date and Time"
+          }
+        },
+        {
+          "slug": "03-the-desktop",
+          "title": {
+            "ar": "سطح المكتب",
+            "en": "The Desktop"
+          }
+        },
+        {
+          "slug": "04-file-management",
+          "title": {
+            "ar": "إدارة الملفات",
+            "en": "File Management"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-accessory-programs",
+      "title": {
+        "ar": "البرامج المساعدة",
+        "en": "Accessory Programs"
+      },
+      "concept": "computer",
+      "image": "clickview/elementary-digital-media-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-paint",
+          "title": {
+            "ar": "الرسام",
+            "en": "Paint"
+          }
+        },
+        {
+          "slug": "02-calculator",
+          "title": {
+            "ar": "الآلة الحاسبة",
+            "en": "Calculator"
+          }
+        },
+        {
+          "slug": "03-basic-shapes",
+          "title": {
+            "ar": "الأشكال الأساسية",
+            "en": "Basic Shapes"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-application-software-ms-word",
+      "title": {
+        "ar": "البرامج التطبيقية (MS Word)",
+        "en": "Application Software (MS Word)"
+      },
+      "concept": "computer",
+      "image": "clickview/middle-data-and-information-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-the-programs-main-interface",
+          "title": {
+            "ar": "الواجهة الرئيسة للبرنامج",
+            "en": "The Program's Main Interface"
+          }
+        },
+        {
+          "slug": "02-basic-operations",
+          "title": {
+            "ar": "العمليات الأساسية",
+            "en": "Basic Operations"
+          }
+        },
+        {
+          "slug": "03-shapes-and-pictures",
+          "title": {
+            "ar": "الأشكال والصور",
+            "en": "Shapes and Pictures"
+          }
+        },
+        {
+          "slug": "04-tables",
+          "title": {
+            "ar": "الجداول",
+            "en": "Tables"
+          }
+        },
+        {
+          "slug": "05-header-and-footer",
+          "title": {
+            "ar": "رأس وتذييل الصفحة",
+            "en": "Header and Footer"
+          }
+        },
+        {
+          "slug": "06-printing-the-document",
+          "title": {
+            "ar": "طباعة المستند",
+            "en": "Printing the Document"
+          }
+        }
+      ]
+    }
+  ]
+}

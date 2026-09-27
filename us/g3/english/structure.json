@@ -1,0 +1,110 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "us-g3-english",
+  "curriculum": "us",
+  "grade": "g3",
+  "subject": "english",
+  "title": {
+    "ar": "اللغة الإنجليزية",
+    "en": "English Language Arts"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "english",
+  "source": {
+    "publisher": "aldar",
+    "title": "Massachusetts Curriculum Framework for English Language Arts (Common Core aligned)",
+    "url": "https://www.doe.mass.edu/frameworks/ela/",
+    "license": "LicenseRef-Publisher",
+    "standards": "CCSS.ELA Grade 3",
+    "standardsBody": "Massachusetts Curriculum Frameworks; Common Core (ELA & Math); NGSS (Science)",
+    "note": "Aldar's American schools follow the Massachusetts State Standards (Common Core for ELA & Math, NGSS for Science), with Advanced Placement at high school and the American High School Diploma. Commercial textbooks (McGraw-Hill, Savvas/Pearson, HMH) are copyrighted and are NOT bundled here. The links below point to the official free standards and to genuinely free / openly-licensed resources (OpenStax and CK-12 are CC-licensed and may be added as a textbook.pdf). To add a book, drop a licensed or open-licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "Common Core State Standards (free)",
+      "url": "https://www.thecorestandards.org/"
+    },
+    {
+      "title": "Next Generation Science Standards (free)",
+      "url": "https://www.nextgenscience.org/"
+    },
+    {
+      "title": "Massachusetts Curriculum Frameworks (free)",
+      "url": "https://www.doe.mass.edu/frameworks/"
+    },
+    {
+      "title": "Khan Academy — free lessons & practice",
+      "url": "https://www.khanacademy.org/"
+    },
+    {
+      "title": "CK-12 — free, openly-licensed textbooks (FlexBooks)",
+      "url": "https://www.ck12.org/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-reading-literature",
+      "title": {
+        "en": "Reading: Literature"
+      },
+      "lessons": [
+        {
+          "slug": "01-character-traits",
+          "title": {
+            "en": "Character Traits"
+          }
+        },
+        {
+          "slug": "02-theme",
+          "title": {
+            "en": "Identifying Theme"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-informational",
+      "title": {
+        "en": "Reading: Informational Text"
+      },
+      "lessons": [
+        {
+          "slug": "01-text-features",
+          "title": {
+            "en": "Text Features"
+          }
+        },
+        {
+          "slug": "02-main-idea-details",
+          "title": {
+            "en": "Main Idea & Details"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-writing",
+      "title": {
+        "en": "Writing"
+      },
+      "lessons": [
+        {
+          "slug": "01-opinion",
+          "title": {
+            "en": "Opinion Writing"
+          }
+        },
+        {
+          "slug": "02-parts-of-speech",
+          "title": {
+            "en": "Adjectives & Adverbs"
+          }
+        }
+      ]
+    }
+  ]
+}

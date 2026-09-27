@@ -1,0 +1,417 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g5-math",
+  "curriculum": "sd",
+  "grade": "g5",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "math",
+  "source": {
+    "publisher": "sd-ncerd",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-natural-numbers-and-their-operations",
+      "title": {
+        "ar": "مجموعة الأعداد الطبيعية والعمليات عليها",
+        "en": "Natural Numbers and Their Operations"
+      },
+      "concept": "math",
+      "image": "clickview/middle-factors-multiples-and-primes-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-natural-numbers",
+          "title": {
+            "ar": "مجموعة الأعداد الطبيعية"
+          }
+        },
+        {
+          "slug": "02-divisibility-by-9",
+          "title": {
+            "ar": "قابلية القسمة على ٩"
+          }
+        },
+        {
+          "slug": "03-divisibility-by-4",
+          "title": {
+            "ar": "قابلية القسمة على ٤"
+          }
+        },
+        {
+          "slug": "04-divisibility-by-8",
+          "title": {
+            "ar": "قابلية القسمة على ٨"
+          }
+        },
+        {
+          "slug": "05-divisibility-by-6",
+          "title": {
+            "ar": "قابلية القسمة على ٦"
+          }
+        },
+        {
+          "slug": "06-square-and-square-root",
+          "title": {
+            "ar": "مربع العدد والجذر التربيعي"
+          },
+          "image": "clickview/middle-exponents-and-powers-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-fractions-and-their-operations",
+      "title": {
+        "ar": "الكسور والعمليات عليها",
+        "en": "Fractions and Their Operations"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-multiplying-and-dividing-fractions-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-mixed-fractions",
+          "title": {
+            "ar": "الكسر المركب"
+          },
+          "image": "clickview/elementary-improper-fractions-and-mixed-numbers-cover.jpg"
+        },
+        {
+          "slug": "02-improper-to-mixed",
+          "title": {
+            "ar": "تحويل الكسر غير العادي إلى كسر مركب"
+          },
+          "image": "clickview/elementary-improper-fractions-and-mixed-numbers-cover.jpg"
+        },
+        {
+          "slug": "03-multiply-fraction-by-whole",
+          "title": {
+            "ar": "ضرب الكسر بعدد صحيح"
+          }
+        },
+        {
+          "slug": "04-multiply-fraction-by-fraction",
+          "title": {
+            "ar": "ضرب كسر عادي في كسر عادي"
+          }
+        },
+        {
+          "slug": "05-multiply-more-than-two",
+          "title": {
+            "ar": "ضرب أكثر من كسرين عاديين"
+          }
+        },
+        {
+          "slug": "06-multiply-fractions",
+          "title": {
+            "ar": "ضرب الكسور"
+          }
+        },
+        {
+          "slug": "07-reciprocal",
+          "title": {
+            "ar": "مقلوب الكسر"
+          }
+        },
+        {
+          "slug": "08-divide-whole-by-fraction",
+          "title": {
+            "ar": "قسمة عدد صحيح على كسر"
+          }
+        },
+        {
+          "slug": "09-divide-fraction-by-whole",
+          "title": {
+            "ar": "قسمة كسر على عدد صحيح"
+          }
+        },
+        {
+          "slug": "10-divide-fraction-by-fraction",
+          "title": {
+            "ar": "قسمة كسر عادي على كسر عادي"
+          }
+        },
+        {
+          "slug": "11-divide-fractions",
+          "title": {
+            "ar": "قسمة الكسور"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-decimals-and-their-operations",
+      "title": {
+        "ar": "الكسور العشرية والعمليات عليها",
+        "en": "Decimals and Their Operations"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-decimals-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-decimal-concept",
+          "title": {
+            "ar": "مفهوم الكسر العشري"
+          }
+        },
+        {
+          "slug": "02-decimal-places",
+          "title": {
+            "ar": "المنازل العشرية والقيمة المنزلية للأرقام"
+          }
+        },
+        {
+          "slug": "03-comparing-decimals",
+          "title": {
+            "ar": "مقارنة الكسور العشرية"
+          }
+        },
+        {
+          "slug": "04-adding-decimals",
+          "title": {
+            "ar": "جمع الكسور العشرية"
+          }
+        },
+        {
+          "slug": "05-subtracting-decimals",
+          "title": {
+            "ar": "طرح الكسور العشرية"
+          }
+        },
+        {
+          "slug": "06-rounding",
+          "title": {
+            "ar": "التقريب"
+          },
+          "image": "clickview/elementary-rounding-numbers-cover.jpg"
+        },
+        {
+          "slug": "07-fraction-to-decimal",
+          "title": {
+            "ar": "تحويل الكسر العادي إلى كسر عشري"
+          },
+          "image": "clickview/elementary-converting-fractions-to-decimals-and-percentages-cover.jpg"
+        },
+        {
+          "slug": "08-decimal-to-fraction",
+          "title": {
+            "ar": "تحويل الكسر العشري إلى كسر عادي"
+          },
+          "image": "clickview/elementary-converting-fractions-to-decimals-and-percentages-cover.jpg"
+        },
+        {
+          "slug": "09-multiply-decimal-by-10-100-1000",
+          "title": {
+            "ar": "ضرب الكسر العشري في ١٠، ١٠٠، ١٠٠٠"
+          }
+        },
+        {
+          "slug": "10-multiply-decimal-by-whole",
+          "title": {
+            "ar": "ضرب الكسر العشري في عدد صحيح"
+          }
+        },
+        {
+          "slug": "11-multiply-decimal-by-decimal",
+          "title": {
+            "ar": "ضرب كسر عشري في كسر عشري"
+          }
+        },
+        {
+          "slug": "12-divide-decimal-by-10-100-1000",
+          "title": {
+            "ar": "قسمة الكسور العشرية على ١٠، ١٠٠، ١٠٠٠"
+          }
+        },
+        {
+          "slug": "13-divide-decimal-by-whole",
+          "title": {
+            "ar": "قسمة كسر عشري على عدد صحيح"
+          }
+        },
+        {
+          "slug": "14-divide-whole-by-decimal",
+          "title": {
+            "ar": "قسمة عدد صحيح على كسر عشري"
+          }
+        },
+        {
+          "slug": "15-divide-decimal-by-decimal",
+          "title": {
+            "ar": "قسمة كسر عشري على كسر عشري"
+          }
+        },
+        {
+          "slug": "16-finding-missing-number",
+          "title": {
+            "ar": "إيجاد العدد المفقود"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-ratio-and-proportion",
+      "title": {
+        "ar": "النسبة والتناسب",
+        "en": "Ratio and Proportion"
+      },
+      "concept": "math",
+      "image": "clickview/middle-ratios-and-proportion-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-ratio",
+          "title": {
+            "ar": "النسبة"
+          }
+        },
+        {
+          "slug": "02-ratio-properties",
+          "title": {
+            "ar": "خواص النسبة"
+          }
+        },
+        {
+          "slug": "03-proportion",
+          "title": {
+            "ar": "التناسب"
+          }
+        },
+        {
+          "slug": "04-word-problems-proportion",
+          "title": {
+            "ar": "مسائل لفظية على التناسب"
+          }
+        },
+        {
+          "slug": "05-scale-drawing",
+          "title": {
+            "ar": "مقياس الرسم"
+          },
+          "image": "clickview/elementary-map-skills-cover.jpg"
+        },
+        {
+          "slug": "06-proportional-division",
+          "title": {
+            "ar": "التقسيم التناسبي"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-perimeter-of-plane-shapes",
+      "title": {
+        "ar": "حساب محيط الأشكال الهندسية المستوية",
+        "en": "Perimeter of Plane Shapes"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-perimeter-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-perimeter-concept",
+          "title": {
+            "ar": "مفهوم المحيط"
+          }
+        },
+        {
+          "slug": "02-triangle-perimeter",
+          "title": {
+            "ar": "محيط المثلث"
+          }
+        },
+        {
+          "slug": "03-square-perimeter",
+          "title": {
+            "ar": "محيط المربع"
+          }
+        },
+        {
+          "slug": "04-rectangle-perimeter",
+          "title": {
+            "ar": "محيط المستطيل"
+          }
+        },
+        {
+          "slug": "05-circle",
+          "title": {
+            "ar": "الدائرة"
+          }
+        },
+        {
+          "slug": "06-circle-circumference",
+          "title": {
+            "ar": "محيط الدائرة"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-angles-and-triangles",
+      "title": {
+        "ar": "الزوايا والمثلثات",
+        "en": "Angles and Triangles"
+      },
+      "concept": "math",
+      "image": "clickview/elementary-angles-and-lines-cover.jpg",
+      "lessons": [
+        {
+          "slug": "01-complementary-angles",
+          "title": {
+            "ar": "الزاويتان المتتامتان"
+          }
+        },
+        {
+          "slug": "02-supplementary-angles",
+          "title": {
+            "ar": "الزاويتان المتكاملتان"
+          }
+        },
+        {
+          "slug": "03-vertical-angles",
+          "title": {
+            "ar": "الزوايا المتقابلة بالرأس"
+          }
+        },
+        {
+          "slug": "04-angles-from-intersecting-lines",
+          "title": {
+            "ar": "الزوايا الناشئة من تقاطع المستقيمات"
+          }
+        },
+        {
+          "slug": "05-angles-in-parallel-lines",
+          "title": {
+            "ar": "الزوايا المتناظرة والمتبادلة والداخلية في حالة التوازي"
+          }
+        },
+        {
+          "slug": "06-triangle-classification-by-angles",
+          "title": {
+            "ar": "تصنيف المثلث حسب زواياه"
+          },
+          "image": "clickview/middle-geometric-figures-cover.jpg"
+        },
+        {
+          "slug": "07-triangle-classification-by-sides",
+          "title": {
+            "ar": "تصنيف المثلث حسب أضلاعه"
+          },
+          "image": "clickview/middle-geometric-figures-cover.jpg"
+        },
+        {
+          "slug": "08-triangle-angle-sum",
+          "title": {
+            "ar": "مجموع قياس زوايا المثلث"
+          },
+          "image": "clickview/middle-geometric-figures-cover.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -24,16 +24,28 @@ export const CONTENT_TYPES: Record<string, string> = {
 export const contentType = (key: string) =>
   CONTENT_TYPES[key.split(".").pop()!.toLowerCase()] ?? "application/octet-stream"
 
-/** Every object under a prefix: key -> { size, etag }. */
+/**
+ * Objects written before this instant predate the catalog repo: other apps
+ * wrote them and may still read their old shape (hogwarts reads structure.json
+ * and textbook.md at these keys until it cuts over). The catalog updates its
+ * own objects freely; replacing a foreign one takes an explicit --overwrite.
+ */
+export const CATALOG_EPOCH = new Date("2026-09-27T05:30:00Z")
+
+/** Every object under a prefix: key -> { size, etag, foreign }. */
 export async function listPrefix(prefix: string) {
-  const out = new Map<string, { size: number; etag: string }>()
+  const out = new Map<string, { size: number; etag: string; foreign: boolean }>()
   let token: string | undefined
   do {
     const r = await s3.send(
       new ListObjectsV2Command({ Bucket: BUCKET, Prefix: prefix, ContinuationToken: token })
     )
     for (const o of r.Contents ?? [])
-      out.set(o.Key!, { size: o.Size ?? 0, etag: (o.ETag ?? "").replaceAll('"', "") })
+      out.set(o.Key!, {
+        size: o.Size ?? 0,
+        etag: (o.ETag ?? "").replaceAll('"', ""),
+        foreign: (o.LastModified ?? new Date(0)) < CATALOG_EPOCH,
+      })
     token = r.IsTruncated ? r.NextContinuationToken : undefined
   } while (token)
   return out

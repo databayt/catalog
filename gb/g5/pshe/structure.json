@@ -1,0 +1,82 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "gb-g5-pshe",
+  "curriculum": "gb",
+  "grade": "g5",
+  "subject": "pshe",
+  "title": {
+    "ar": "التربية الشخصية والاجتماعية والصحية",
+    "en": "PSHE & Wellbeing"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "health",
+  "source": {
+    "publisher": "aldar",
+    "title": "PSHE & Wellbeing (curriculum-aligned)",
+    "url": "https://www.aldar.com/education/curriculum/british-curriculum",
+    "license": "LicenseRef-Publisher",
+    "standards": "National Curriculum for England, tailored for the UAE (ADEK), I/GCSE & A-Level",
+    "examBoard": "National Curriculum for England (DfE)",
+    "note": "Aldar Academies' British schools follow the National Curriculum for England (primary/KS3) then IGCSE and A-Level via Pearson Edexcel and Cambridge. Commercial textbooks (Pearson, Cambridge, CGP, Oxford, Collins) are copyrighted and are NOT bundled here; the links below point to the official, free curriculum specifications and free revision resources. To add an actual textbook.pdf, drop a licensed copy into this folder."
+  },
+  "resources": [
+    {
+      "title": "National Curriculum in England (DfE, Open Government Licence — free)",
+      "url": "https://www.gov.uk/government/collections/national-curriculum"
+    },
+    {
+      "title": "BBC Bitesize — free revision by subject & level",
+      "url": "https://www.bbc.co.uk/bitesize"
+    },
+    {
+      "title": "Oak National Academy — free lessons & resources",
+      "url": "https://www.thenational.academy/"
+    }
+  ],
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-wellbeing",
+      "title": {
+        "en": "Health & Wellbeing"
+      },
+      "lessons": [
+        {
+          "slug": "01-healthy-living",
+          "title": {
+            "en": "Healthy Living"
+          }
+        },
+        {
+          "slug": "02-emotions",
+          "title": {
+            "en": "Emotions & Mental Health"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-relationships",
+      "title": {
+        "en": "Relationships & the Wider World"
+      },
+      "lessons": [
+        {
+          "slug": "01-relationships",
+          "title": {
+            "en": "Healthy Relationships"
+          }
+        },
+        {
+          "slug": "02-money-world",
+          "title": {
+            "en": "Money & Responsibility"
+          }
+        }
+      ]
+    }
+  ]
+}

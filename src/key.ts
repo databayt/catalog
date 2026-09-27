@@ -8,8 +8,8 @@
  *   catalog/<curriculum>/<grade>/<subject>/<chapter>/qbank.json
  *   catalog/<curriculum>/<grade>/<subject>/<chapter>/<lesson>/exams.json
  *
- * The key is the repository path with `curricula/` swapped for `catalog/`
- * (see ./paths.ts), and the subject id is `<curriculum>-<grade>-<subject>` —
+ * The key is the repository path prefixed with `catalog/` — the repo mirrors
+ * the CDN (see ./paths.ts), and the subject id is `<curriculum>-<grade>-<subject>` —
  * so a key, a path and an id are three spellings of the same thing, with no
  * override table in between.
  *

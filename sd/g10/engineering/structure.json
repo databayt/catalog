@@ -1,0 +1,343 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g10-engineering",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "engineering",
+  "title": {
+    "ar": "العلوم الهندسية",
+    "en": "Engineering Sciences"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "physics",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "العلوم الهندسية — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "pdf"
+  },
+  "history": {
+    "appliedOn": "2026-09-04",
+    "supersedes": "_old/2026-09-04-old-curriculum"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-introduction-to-engineering-sciences",
+      "title": {
+        "ar": "مقدمة في العلوم الهندسية",
+        "en": "Introduction to Engineering Sciences"
+      },
+      "concept": "science",
+      "image": "clickview/high-thinking-scientifically-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-engineering-sciences",
+          "title": {
+            "ar": "العلوم الهندسية",
+            "en": "Engineering Sciences"
+          },
+          "page": 6
+        },
+        {
+          "slug": "02-branches-of-engineering-sciences",
+          "title": {
+            "ar": "فروع العلوم الهندسية",
+            "en": "Branches of Engineering Sciences"
+          },
+          "page": 6
+        },
+        {
+          "slug": "03-the-relationship-of-engineering-sciences-with",
+          "title": {
+            "ar": "علاقة العلوم الهندسية بالعلوم الأخرى",
+            "en": "The Relationship of Engineering Sciences with Other Sciences"
+          },
+          "page": 7
+        },
+        {
+          "slug": "04-the-importance-of-engineering-sciences",
+          "title": {
+            "ar": "أهمية العلوم الهندسية",
+            "en": "The Importance of Engineering Sciences"
+          },
+          "page": 11
+        },
+        {
+          "slug": "05-the-relationship-between-innovation-problem",
+          "title": {
+            "ar": "العلاقة بين الابتكار وحل المشكلات والهندسة",
+            "en": "The Relationship between Innovation, Problem Solving and Engineering"
+          },
+          "page": 13,
+          "image": "clickview/high-the-impact-of-innovation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-fundamentals-of-engineering-drawing",
+      "title": {
+        "ar": "أساسيات الرسم الهندسي",
+        "en": "Fundamentals of Engineering Drawing"
+      },
+      "concept": "career",
+      "image": "clickview/high-engineering-design-cover.jpg",
+      "page": 17,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-engineering-drawing",
+          "title": {
+            "ar": "الرسم الهندسي",
+            "en": "Engineering Drawing"
+          },
+          "page": 18
+        },
+        {
+          "slug": "02-rules-of-engineering-drawing",
+          "title": {
+            "ar": "قواعد الرسم الهندسي",
+            "en": "Rules of Engineering Drawing"
+          },
+          "page": 21
+        },
+        {
+          "slug": "03-simple-geometric-constructions",
+          "title": {
+            "ar": "العمليات الهندسية البسيطة",
+            "en": "Simple Geometric Constructions"
+          },
+          "page": 29
+        },
+        {
+          "slug": "04-triangles",
+          "title": {
+            "ar": "المثلثات",
+            "en": "Triangles"
+          },
+          "page": 35
+        },
+        {
+          "slug": "05-the-circle-and-tangency",
+          "title": {
+            "ar": "الدائرة والتماس",
+            "en": "The Circle and Tangency"
+          },
+          "page": 39
+        },
+        {
+          "slug": "06-regular-polygons",
+          "title": {
+            "ar": "المضلعات المنتظمة",
+            "en": "Regular Polygons"
+          },
+          "page": 50
+        },
+        {
+          "slug": "07-computer-aided-drawing-autocad",
+          "title": {
+            "ar": "الرسم التلقائي (الأوتوكاد)",
+            "en": "Computer-Aided Drawing (AutoCAD)"
+          },
+          "page": 56,
+          "image": "clickview/high-innovation-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "03-fundamentals-of-mechanical-engineering",
+      "title": {
+        "ar": "أساسيات الهندسة الميكانيكية",
+        "en": "Fundamentals of Mechanical Engineering"
+      },
+      "concept": "career",
+      "image": "clickview/high-mechanical-systems-cover.jpg",
+      "page": 59,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-mechanical-engineering",
+          "title": {
+            "ar": "الهندسة الميكانيكية",
+            "en": "Mechanical Engineering"
+          },
+          "page": 60
+        },
+        {
+          "slug": "02-metal-cutting",
+          "title": {
+            "ar": "قطع المعادن",
+            "en": "Metal Cutting"
+          },
+          "page": 62
+        },
+        {
+          "slug": "03-countersinking",
+          "title": {
+            "ar": "التخويش أو الدشلكة",
+            "en": "Countersinking"
+          },
+          "page": 70
+        },
+        {
+          "slug": "04-threading-and-screws",
+          "title": {
+            "ar": "البرغلة والبراغي",
+            "en": "Threading and Screws"
+          },
+          "page": 72
+        },
+        {
+          "slug": "05-methods-of-joining-metals",
+          "title": {
+            "ar": "أساليب وصل المعادن",
+            "en": "Methods of Joining Metals"
+          },
+          "page": 74
+        },
+        {
+          "slug": "06-joining-metals-by-mechanical-methods",
+          "title": {
+            "ar": "وصل المعادن بالطرق الميكانيكية",
+            "en": "Joining Metals by Mechanical Methods"
+          },
+          "page": 75
+        },
+        {
+          "slug": "07-gas-welding-oxy-acetylene",
+          "title": {
+            "ar": "اللحام بالغاز (الأوكسجين والأسيتلين)",
+            "en": "Gas Welding (Oxy-Acetylene)"
+          },
+          "page": 77
+        }
+      ]
+    },
+    {
+      "slug": "04-fundamentals-of-electrical-engineering",
+      "title": {
+        "ar": "أساسيات الهندسة الكهربائية",
+        "en": "Fundamentals of Electrical Engineering"
+      },
+      "concept": "physics",
+      "image": "clickview/high-electricity-and-circuits-cover.jpg",
+      "page": 81,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-electricity",
+          "title": {
+            "ar": "الكهربية",
+            "en": "Electricity"
+          },
+          "page": 82
+        },
+        {
+          "slug": "02-conductors-insulators-and-semiconductors",
+          "title": {
+            "ar": "المواد الموصلة والعازلة وشبه الموصلة",
+            "en": "Conductors, Insulators and Semiconductors"
+          },
+          "page": 85,
+          "image": "clickview/high-hardware-and-software-cover.jpg"
+        },
+        {
+          "slug": "03-static-electricity",
+          "title": {
+            "ar": "الكهربية الاستاتيكية (الساكنة)",
+            "en": "Static Electricity"
+          },
+          "page": 87
+        },
+        {
+          "slug": "04-practical-applications-of-static-electricity",
+          "title": {
+            "ar": "تطبيقات عملية للكهربية الاستاتيكية",
+            "en": "Practical Applications of Static Electricity"
+          },
+          "page": 94
+        },
+        {
+          "slug": "05-basic-electrical-quantities",
+          "title": {
+            "ar": "الكميات الكهربية الأساسية",
+            "en": "Basic Electrical Quantities"
+          },
+          "page": 102
+        }
+      ]
+    },
+    {
+      "slug": "05-fundamentals-of-civil-engineering-and",
+      "title": {
+        "ar": "أساسيات الهندسة المدنية والعمارة",
+        "en": "Fundamentals of Civil Engineering and Architecture"
+      },
+      "concept": "career",
+      "image": "clickview/high-measuring-force-cover.jpg",
+      "page": 129,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-civil-engineering-and-architecture",
+          "title": {
+            "ar": "الهندسة المدنية والعمارة",
+            "en": "Civil Engineering and Architecture"
+          },
+          "page": 130
+        },
+        {
+          "slug": "02-binding-building-materials",
+          "title": {
+            "ar": "مواد البناء اللاصقة",
+            "en": "Binding Building Materials"
+          },
+          "page": 132,
+          "image": "clickview/high-materials-cover.jpg"
+        },
+        {
+          "slug": "03-mortar",
+          "title": {
+            "ar": "المونة",
+            "en": "Mortar"
+          },
+          "page": 135,
+          "image": "clickview/high-materials-cover.jpg"
+        },
+        {
+          "slug": "04-foundations",
+          "title": {
+            "ar": "الأساسات",
+            "en": "Foundations"
+          },
+          "page": 140
+        },
+        {
+          "slug": "05-types-of-bricks",
+          "title": {
+            "ar": "أنواع الطوب",
+            "en": "Types of Bricks"
+          },
+          "page": 145,
+          "image": "clickview/high-materials-cover.jpg"
+        },
+        {
+          "slug": "06-technical-terms",
+          "title": {
+            "ar": "المصطلحات الفنية",
+            "en": "Technical Terms"
+          },
+          "page": 149
+        }
+      ]
+    }
+  ]
+}

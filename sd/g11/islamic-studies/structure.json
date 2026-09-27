@@ -1,0 +1,380 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g11-islamic-studies",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "islamic-studies",
+  "title": {
+    "ar": "الدراسات الإسلامية",
+    "en": "Islamic Studies"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "faith",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "الدراسات الإسلامية — الصف الثاني الثانوي — بخت الرضا — طبعة غير مؤرخة (ملف PDF ٢٠١٤م)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-05",
+    "supersedes": "_old/2026-09-05-legacy-pdftotext"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-part-1-the-companions",
+      "title": {
+        "ar": "الباب الأول: الصحابة رضوان الله عليهم",
+        "en": "Part 1: The Companions"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-being-a-historian-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-who-the-companions-are-and-how-the-quran-and",
+          "title": {
+            "ar": "تعريف الصحابة ووصفهم في القرآن الكريم والسنة النبوية",
+            "en": "Who the Companions Are and How the Quran and Sunnah Describe Them"
+          },
+          "page": 1
+        },
+        {
+          "slug": "02-roles-of-the-companions-leading-armies",
+          "title": {
+            "ar": "مهام وأدوار أصحاب النبي ﷺ: قيادة الجيوش",
+            "en": "Roles of the Companions: Leading Armies"
+          },
+          "page": 12,
+          "image": "clickview/high-leadership-skills-cover.jpg"
+        },
+        {
+          "slug": "03-sacrifice-and-devotion",
+          "title": {
+            "ar": "الفداء والتضحية",
+            "en": "Sacrifice and Devotion"
+          },
+          "page": 27
+        },
+        {
+          "slug": "04-issuing-legal-opinions",
+          "title": {
+            "ar": "الفتوى",
+            "en": "Issuing Legal Opinions"
+          },
+          "page": 33
+        },
+        {
+          "slug": "05-writing-down-the-revelation",
+          "title": {
+            "ar": "كتابة الوحي",
+            "en": "Writing Down the Revelation"
+          },
+          "page": 38,
+          "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "02-part-2-from-the-history-of-islamic-legislation",
+      "title": {
+        "ar": "الباب الثاني: من تاريخ التشريع الإسلامي",
+        "en": "Part 2: From the History of Islamic Legislation"
+      },
+      "concept": "faith",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 46,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-legislation-in-the-prophets-time",
+          "title": {
+            "ar": "التشريع في عهد النبي ﷺ",
+            "en": "Legislation in the Prophet's Time"
+          },
+          "page": 46
+        },
+        {
+          "slug": "02-legislation-in-the-companions-era",
+          "title": {
+            "ar": "التشريع في عصر الصحابة",
+            "en": "Legislation in the Companions' Era"
+          },
+          "page": 53
+        },
+        {
+          "slug": "03-legislation-in-the-era-of-the-successors-and",
+          "title": {
+            "ar": "التشريع في عصر التابعين والأئمة المجتهدين",
+            "en": "Legislation in the Era of the Successors and the Jurist Imams"
+          },
+          "page": 55
+        },
+        {
+          "slug": "04-the-era-of-imitation",
+          "title": {
+            "ar": "عصر التقليد",
+            "en": "The Era of Imitation"
+          },
+          "page": 58
+        },
+        {
+          "slug": "05-the-modern-era",
+          "title": {
+            "ar": "العصر الحديث",
+            "en": "The Modern Era"
+          },
+          "page": 59
+        }
+      ]
+    },
+    {
+      "slug": "03-part-3-schools-of-jurisprudence",
+      "title": {
+        "ar": "الباب الثالث: مدارس الفقه",
+        "en": "Part 3: Schools of Jurisprudence"
+      },
+      "concept": "faith",
+      "image": "clickview/high-learning-cover.jpg",
+      "page": 62,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-imam-abu-hanifa",
+          "title": {
+            "ar": "الإمام أبو حنيفة",
+            "en": "Imam Abu Hanifa"
+          },
+          "page": 62
+        },
+        {
+          "slug": "02-imam-malik",
+          "title": {
+            "ar": "الإمام مالك",
+            "en": "Imam Malik"
+          },
+          "page": 69
+        },
+        {
+          "slug": "03-imam-al-shafii",
+          "title": {
+            "ar": "الإمام الشافعي",
+            "en": "Imam al-Shafi'i"
+          },
+          "page": 74
+        },
+        {
+          "slug": "04-imam-ahmad-ibn-hanbal",
+          "title": {
+            "ar": "الإمام أحمد بن حنبل",
+            "en": "Imam Ahmad ibn Hanbal"
+          },
+          "page": 79
+        },
+        {
+          "slug": "05-other-scholars-with-schools-of-their-own",
+          "title": {
+            "ar": "علماء لهم مذاهب",
+            "en": "Other Scholars with Schools of Their Own"
+          },
+          "page": 84
+        }
+      ]
+    },
+    {
+      "slug": "04-part-4-judiciary-and-prescribed-punishments-in",
+      "title": {
+        "ar": "الباب الرابع: القضاء والحدود في الإسلام",
+        "en": "Part 4: Judiciary and Prescribed Punishments in Islam"
+      },
+      "concept": "faith",
+      "image": "clickview/high-research-and-ethics-in-sociology-cover.jpg",
+      "page": 87,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-judiciary-in-islam",
+          "title": {
+            "ar": "القضاء في الإسلام",
+            "en": "The Judiciary in Islam"
+          },
+          "page": 87
+        },
+        {
+          "slug": "02-claims-and-evidence",
+          "title": {
+            "ar": "الدعاوى والبينات",
+            "en": "Claims and Evidence"
+          },
+          "page": 92
+        },
+        {
+          "slug": "03-hudud-crimes-in-islam",
+          "title": {
+            "ar": "جرائم الحدود في الإسلام",
+            "en": "Hudud Crimes in Islam"
+          },
+          "page": 99
+        }
+      ]
+    },
+    {
+      "slug": "05-part-5-jurisprudence-of-financial-transactions",
+      "title": {
+        "ar": "الباب الخامس: فقه المعاملات المالية في الإسلام",
+        "en": "Part 5: Jurisprudence of Financial Transactions"
+      },
+      "concept": "faith",
+      "image": "clickview/high-accounting-and-finance-cover.jpg",
+      "page": 120,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-rules-of-sale",
+          "title": {
+            "ar": "أحكام البيوع",
+            "en": "Rules of Sale"
+          },
+          "page": 120,
+          "image": "clickview/high-marketing-cover.jpg"
+        },
+        {
+          "slug": "02-partnerships",
+          "title": {
+            "ar": "الشركات",
+            "en": "Partnerships"
+          },
+          "page": 123
+        },
+        {
+          "slug": "03-forward-sale-salam",
+          "title": {
+            "ar": "بيع السلم",
+            "en": "Forward Sale (Salam)"
+          },
+          "page": 126
+        },
+        {
+          "slug": "04-irrigation-partnership-musaqat",
+          "title": {
+            "ar": "المساقاة",
+            "en": "Irrigation Partnership (Musaqat)"
+          },
+          "page": 129,
+          "image": "clickview/high-food-product-development-cover.jpg"
+        },
+        {
+          "slug": "05-sharecropping-muzaraa",
+          "title": {
+            "ar": "المزارعة",
+            "en": "Sharecropping (Muzara'a)"
+          },
+          "page": 131,
+          "image": "clickview/high-food-product-development-cover.jpg"
+        },
+        {
+          "slug": "06-leasing-ijara",
+          "title": {
+            "ar": "الإجارة",
+            "en": "Leasing (Ijara)"
+          },
+          "page": 134
+        },
+        {
+          "slug": "07-guarantee",
+          "title": {
+            "ar": "الضمان",
+            "en": "Guarantee"
+          },
+          "page": 137
+        },
+        {
+          "slug": "08-agency",
+          "title": {
+            "ar": "الوكالة",
+            "en": "Agency"
+          },
+          "page": 138
+        },
+        {
+          "slug": "09-pledge-rahn",
+          "title": {
+            "ar": "الرهن",
+            "en": "Pledge (Rahn)"
+          },
+          "page": 141
+        },
+        {
+          "slug": "10-prohibited-sales",
+          "title": {
+            "ar": "البيوع المحرمة",
+            "en": "Prohibited Sales"
+          },
+          "page": 144
+        }
+      ]
+    },
+    {
+      "slug": "06-part-6-jurisprudence-of-jihad",
+      "title": {
+        "ar": "الباب السادس: فقه الجهاد",
+        "en": "Part 6: Jurisprudence of Jihad"
+      },
+      "concept": "faith",
+      "image": "clickview/high-decision-making-cover.jpg",
+      "page": 160,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-the-ruling-on-jihad",
+          "title": {
+            "ar": "حكم الجهاد في الإسلام",
+            "en": "The Ruling on Jihad"
+          },
+          "page": 160
+        },
+        {
+          "slug": "02-when-fighting-counts-as-jihad",
+          "title": {
+            "ar": "متى يكون القتال جهاداً",
+            "en": "When Fighting Counts as Jihad"
+          },
+          "page": 164
+        },
+        {
+          "slug": "03-peace-in-islam",
+          "title": {
+            "ar": "السلام في الإسلام",
+            "en": "Peace in Islam"
+          },
+          "page": 166,
+          "image": "clickview/high-international-day-of-peace-cover.jpg"
+        },
+        {
+          "slug": "04-when-war-is-legitimate",
+          "title": {
+            "ar": "متى تشرع الحرب",
+            "en": "When War Is Legitimate"
+          },
+          "page": 168
+        },
+        {
+          "slug": "05-general-rules",
+          "title": {
+            "ar": "أحكام عامة",
+            "en": "General Rules"
+          },
+          "page": 170
+        }
+      ]
+    }
+  ]
+}

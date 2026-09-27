@@ -1,6 +1,6 @@
 # Migration report
 
-From `/Users/abdout/hogwarts/curriculum` → `curricula/`.
+From `/Users/abdout/hogwarts/curriculum` → the repo root (= catalog/ on the CDN).
 
 | | count |
 |---|---:|

@@ -1,0 +1,329 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g10-physics",
+  "curriculum": "sd",
+  "grade": "g10",
+  "subject": "physics",
+  "title": {
+    "ar": "الفيزياء",
+    "en": "Physics"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "physics",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-09",
+    "edition": "الفيزياء — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "license": "LicenseRef-Publisher"
+  },
+  "textbook": {
+    "pageNumbers": "book"
+  },
+  "history": {
+    "appliedOn": "2026-09-04"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-physics-and-the-scientific-method",
+      "title": {
+        "ar": "الفيزياء والمنهج العلمي",
+        "en": "Physics and the Scientific Method"
+      },
+      "concept": "science",
+      "image": "clickview/high-thinking-scientifically-cover.jpg",
+      "page": 9,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-science-and-the-scientific-method",
+          "title": {
+            "ar": "العلم والمنهج العلمي",
+            "en": "Science and the Scientific Method"
+          },
+          "page": 9
+        },
+        {
+          "slug": "02-the-nature-of-physics",
+          "title": {
+            "ar": "طبيعة علم الفيزياء",
+            "en": "The Nature of Physics"
+          },
+          "page": 9
+        },
+        {
+          "slug": "03-physics-and-mathematics",
+          "title": {
+            "ar": "الفيزياء والرياضيات",
+            "en": "Physics and Mathematics"
+          },
+          "page": 10
+        },
+        {
+          "slug": "04-physical-measurements",
+          "title": {
+            "ar": "القياسات الفيزيائية",
+            "en": "Physical Measurements"
+          },
+          "page": 13
+        },
+        {
+          "slug": "05-physical-quantities",
+          "title": {
+            "ar": "الكميات الفيزيائية",
+            "en": "Physical Quantities"
+          },
+          "page": 16
+        },
+        {
+          "slug": "06-measuring-instruments",
+          "title": {
+            "ar": "أدوات القياس",
+            "en": "Measuring Instruments"
+          },
+          "page": 16,
+          "image": "clickview/high-lab-skills-cover.jpg"
+        },
+        {
+          "slug": "07-standard-units",
+          "title": {
+            "ar": "الوحدات المعيارية",
+            "en": "Standard Units"
+          },
+          "page": 16
+        },
+        {
+          "slug": "08-deriving-laws",
+          "title": {
+            "ar": "اشتقاق القوانين",
+            "en": "Deriving Laws"
+          },
+          "page": 20
+        },
+        {
+          "slug": "09-the-importance-of-writing-laws-in-mathematical",
+          "title": {
+            "ar": "أهمية كتابة القوانين بصيغة رياضية",
+            "en": "The Importance of Writing Laws in Mathematical Form"
+          },
+          "page": 22
+        }
+      ]
+    },
+    {
+      "slug": "02-linear-motion",
+      "title": {
+        "ar": "الحركة الخطية",
+        "en": "Linear Motion"
+      },
+      "concept": "physics",
+      "image": "clickview/high-graphs-cover.jpg",
+      "page": 26,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-representing-motion",
+          "title": {
+            "ar": "تمثيل الحركة",
+            "en": "Representing Motion"
+          },
+          "page": 27
+        },
+        {
+          "slug": "02-position-and-time",
+          "title": {
+            "ar": "الموضع والزمن",
+            "en": "Position and Time"
+          },
+          "page": 32
+        },
+        {
+          "slug": "03-the-position-time-graph",
+          "title": {
+            "ar": "منحنى الموضع والزمن",
+            "en": "The Position-Time Graph"
+          },
+          "page": 40
+        },
+        {
+          "slug": "04-velocity",
+          "title": {
+            "ar": "السرعة المتجهة",
+            "en": "Velocity"
+          },
+          "page": 45
+        },
+        {
+          "slug": "05-mathematics-the-language-of-physics",
+          "title": {
+            "ar": "الرياضيات لغة الفيزياء",
+            "en": "Mathematics, the Language of Physics"
+          },
+          "page": 51
+        }
+      ]
+    },
+    {
+      "slug": "03-accelerated-motion",
+      "title": {
+        "ar": "تسارع الحركة",
+        "en": "Accelerated Motion"
+      },
+      "concept": "physics",
+      "image": "clickview/high-graphs-cover.jpg",
+      "page": 62,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-acceleration",
+          "title": {
+            "ar": "التسارع",
+            "en": "Acceleration"
+          },
+          "page": 63
+        },
+        {
+          "slug": "02-types-of-acceleration",
+          "title": {
+            "ar": "أنواع التسارع",
+            "en": "Types of Acceleration"
+          },
+          "page": 68
+        },
+        {
+          "slug": "03-motion-with-constant-acceleration",
+          "title": {
+            "ar": "الحركة بتسارع ثابت",
+            "en": "Motion with Constant Acceleration"
+          },
+          "page": 73
+        }
+      ]
+    },
+    {
+      "slug": "04-forces-in-one-dimension",
+      "title": {
+        "ar": "القوى في بعد واحد",
+        "en": "Forces in One Dimension"
+      },
+      "concept": "physics",
+      "image": "clickview/high-newton-s-laws-of-motion-cover.jpg",
+      "page": 89,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-force-and-motion",
+          "title": {
+            "ar": "القوة والحركة",
+            "en": "Force and Motion"
+          },
+          "page": 89
+        },
+        {
+          "slug": "02-newtons-laws-for-motion-in-a-straight-line",
+          "title": {
+            "ar": "قوانين نيوتن في الحركة على خط مستقيم",
+            "en": "Newton's Laws for Motion in a Straight Line"
+          },
+          "page": 90
+        },
+        {
+          "slug": "03-interacting-forces-action-and-reaction",
+          "title": {
+            "ar": "القوى المتفاعلة (قوى التأثير المتبادل)",
+            "en": "Interacting Forces (Action and Reaction)"
+          },
+          "page": 100
+        }
+      ]
+    },
+    {
+      "slug": "05-forces-in-two-dimensions",
+      "title": {
+        "ar": "القوى في بعدين",
+        "en": "Forces in Two Dimensions"
+      },
+      "concept": "physics",
+      "image": "clickview/high-friction-cover.jpg",
+      "page": 112,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-vectors",
+          "title": {
+            "ar": "المتجهات",
+            "en": "Vectors"
+          },
+          "page": 112,
+          "image": "clickview/high-analytic-geometry-cover.jpg"
+        },
+        {
+          "slug": "02-friction",
+          "title": {
+            "ar": "الاحتكاك",
+            "en": "Friction"
+          },
+          "page": 118
+        },
+        {
+          "slug": "03-force-and-motion-in-two-dimensions",
+          "title": {
+            "ar": "القوة والحركة في بعدين",
+            "en": "Force and Motion in Two Dimensions"
+          },
+          "page": 122
+        }
+      ]
+    },
+    {
+      "slug": "06-motion-in-two-dimensions",
+      "title": {
+        "ar": "الحركة في بعدين",
+        "en": "Motion in Two Dimensions"
+      },
+      "concept": "physics",
+      "image": "clickview/high-laws-of-gravity-cover.jpg",
+      "page": 125,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "01-projectile-motion",
+          "title": {
+            "ar": "حركة المقذوفات",
+            "en": "Projectile Motion"
+          },
+          "page": 125
+        },
+        {
+          "slug": "02-uniform-circular-motion",
+          "title": {
+            "ar": "الحركة الدائرية المنتظمة",
+            "en": "Uniform Circular Motion"
+          },
+          "page": 131,
+          "image": "clickview/high-our-solar-system-cover.jpg"
+        },
+        {
+          "slug": "03-relative-velocity",
+          "title": {
+            "ar": "السرعة المتجهة النسبية",
+            "en": "Relative Velocity"
+          },
+          "page": 140,
+          "image": "clickview/high-graphs-cover.jpg"
+        },
+        {
+          "slug": "04-gravity",
+          "title": {
+            "ar": "الجاذبية",
+            "en": "Gravity"
+          },
+          "page": 144
+        }
+      ]
+    }
+  ]
+}

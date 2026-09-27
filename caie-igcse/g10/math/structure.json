@@ -1,0 +1,150 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "caie-igcse-g10-math",
+  "curriculum": "caie-igcse",
+  "grade": "g10",
+  "subject": "math",
+  "title": {
+    "ar": "الرياضيات",
+    "en": "Mathematics (0580)"
+  },
+  "lang": "en",
+  "status": "authored",
+  "concept": "math",
+  "source": {
+    "publisher": "cambridge",
+    "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects/",
+    "license": "LicenseRef-Publisher"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "01-number",
+      "title": {
+        "en": "Number"
+      },
+      "lessons": [
+        {
+          "slug": "01-number",
+          "title": {
+            "en": "Number"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "02-algebra-and-graphs",
+      "title": {
+        "en": "Algebra and Graphs"
+      },
+      "lessons": [
+        {
+          "slug": "01-algebra-and-graphs",
+          "title": {
+            "en": "Algebra and Graphs"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "03-coordinate-geometry",
+      "title": {
+        "en": "Coordinate Geometry"
+      },
+      "lessons": [
+        {
+          "slug": "01-coordinate-geometry",
+          "title": {
+            "en": "Coordinate Geometry"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "04-geometry",
+      "title": {
+        "en": "Geometry"
+      },
+      "lessons": [
+        {
+          "slug": "01-geometry",
+          "title": {
+            "en": "Geometry"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "05-mensuration",
+      "title": {
+        "en": "Mensuration"
+      },
+      "lessons": [
+        {
+          "slug": "01-mensuration",
+          "title": {
+            "en": "Mensuration"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "06-trigonometry",
+      "title": {
+        "en": "Trigonometry"
+      },
+      "lessons": [
+        {
+          "slug": "01-trigonometry",
+          "title": {
+            "en": "Trigonometry"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "07-transformations-and-vectors",
+      "title": {
+        "en": "Transformations and Vectors"
+      },
+      "lessons": [
+        {
+          "slug": "01-transformations-and-vectors",
+          "title": {
+            "en": "Transformations and Vectors"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "08-probability",
+      "title": {
+        "en": "Probability"
+      },
+      "lessons": [
+        {
+          "slug": "01-probability",
+          "title": {
+            "en": "Probability"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "09-statistics",
+      "title": {
+        "en": "Statistics"
+      },
+      "lessons": [
+        {
+          "slug": "01-statistics",
+          "title": {
+            "en": "Statistics"
+          }
+        }
+      ]
+    }
+  ]
+}
