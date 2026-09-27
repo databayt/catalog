@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-tudors",
+      "slug": "c1",
       "title": {
         "en": "The Tudors & Reformation"
       },
       "lessons": [
         {
-          "slug": "01-henry-viii",
+          "slug": "l1",
           "title": {
             "en": "Henry VIII & the Reformation"
           }
         },
         {
-          "slug": "02-elizabeth",
+          "slug": "l2",
           "title": {
             "en": "Elizabethan England"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-civil-war-empire",
+      "slug": "c2",
       "title": {
         "en": "Civil War & Empire"
       },
       "lessons": [
         {
-          "slug": "01-civil-war",
+          "slug": "l1",
           "title": {
             "en": "The English Civil War"
           }
         },
         {
-          "slug": "02-empire-slavery",
+          "slug": "l2",
           "title": {
             "en": "Empire & the Slave Trade"
           }

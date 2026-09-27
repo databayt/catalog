@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-algorithms",
+      "slug": "c1",
       "title": {
         "en": "Algorithms & Programming"
       },
       "lessons": [
         {
-          "slug": "01-algorithms",
+          "slug": "l1",
           "title": {
             "en": "What is an Algorithm?"
           }
         },
         {
-          "slug": "02-programming",
+          "slug": "l2",
           "title": {
             "en": "Simple Programs"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-online-safety",
+      "slug": "c2",
       "title": {
         "en": "Technology & Online Safety"
       },
       "lessons": [
         {
-          "slug": "01-safety",
+          "slug": "l1",
           "title": {
             "en": "Staying Safe Online"
           }
         },
         {
-          "slug": "02-devices",
+          "slug": "l2",
           "title": {
             "en": "Using Technology"
           }

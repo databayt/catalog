@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq01",
+      "type": "mcq",
+      "question": "Which word has a short 'a' sound?",
+      "options": [
+        "cake",
+        "cat",
+        "car",
+        "cape"
+      ],
+      "answer": "cat",
+      "explanation": "'cat' uses the short a."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq02",
+      "type": "true_false",
+      "question": "The word 'bed' has a short 'e' sound.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e as in bed."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq03",
+      "type": "fill_blank",
+      "question": "Fill the short-i word: p__g.",
+      "answer": "i",
+      "explanation": "'pig' has short i."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-01-short-vowels-lq04",
+      "type": "short_answer",
+      "question": "Say a word with a short 'o' sound.",
+      "answer": "e.g., 'dog' or 'hot'.",
+      "explanation": "Short o as in hot."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq01",
+      "type": "mcq",
+      "question": "Which word starts with the 'sh' digraph?",
+      "options": [
+        "chip",
+        "ship",
+        "trip",
+        "slip"
+      ],
+      "answer": "ship",
+      "explanation": "'sh' makes one sound."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq02",
+      "type": "true_false",
+      "question": "'bl' in 'black' is a consonant blend.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Two sounds blended."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq03",
+      "type": "fill_blank",
+      "question": "Digraph 'ch' is in the word ___.",
+      "answer": "chair",
+      "explanation": "ch as in chair (example)."
+    },
+    {
+      "id": "g1-eng-unit-01-phonics-02-blends-digraphs-lq04",
+      "type": "short_answer",
+      "question": "What is a digraph?",
+      "answer": "Two letters that make one sound, like sh or ch.",
+      "explanation": "One sound, two letters."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "physics",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-phy-unit-02-electricity-02-mains-lq01",
+      "type": "mcq",
+      "question": "UK mains supply is approximately:",
+      "options": [
+        "12 V",
+        "230 V",
+        "1000 V",
+        "5 V"
+      ],
+      "answer": "230 V",
+      "explanation": "UK mains."
+    },
+    {
+      "id": "g10-phy-unit-02-electricity-02-mains-lq02",
+      "type": "true_false",
+      "question": "The earth wire is a safety feature.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Safety."
+    },
+    {
+      "id": "g10-phy-unit-02-electricity-02-mains-lq03",
+      "type": "fill_blank",
+      "question": "Power = voltage × ___.",
+      "answer": "current",
+      "explanation": "P = VI."
+    },
+    {
+      "id": "g10-phy-unit-02-electricity-02-mains-lq04",
+      "type": "short_answer",
+      "question": "Why is the fuse a safety device?",
+      "answer": "It melts and breaks the circuit if the current is too high.",
+      "explanation": "Fuse."
+    }
+  ]
+}

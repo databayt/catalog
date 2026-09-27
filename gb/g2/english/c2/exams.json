@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g2-eng-unit-02-writing-exam",
+      "title": "Exam: Writing",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g2-eng-unit-02-writing-01-conjunctions-lq01",
+          "type": "mcq",
+          "question": "Which word joins two ideas?",
+          "options": [
+            "and",
+            "cat",
+            "blue",
+            "slowly"
+          ],
+          "answer": "and",
+          "explanation": "Conjunction."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-01-conjunctions-lq02",
+          "type": "true_false",
+          "question": "'because' gives a reason.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Subordinating conjunction."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-01-conjunctions-lq03",
+          "type": "fill_blank",
+          "question": "I was cold ___ I wore a coat. (so)",
+          "answer": "so",
+          "explanation": "Joining word."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-01-conjunctions-lq04",
+          "type": "short_answer",
+          "question": "Join: 'I ran.' 'I was late.' using 'because'.",
+          "answer": "I ran because I was late.",
+          "explanation": "Conjunction use."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-02-description-lq01",
+          "type": "mcq",
+          "question": "An adjective in 'the soft cat' is:",
+          "options": [
+            "the",
+            "soft",
+            "cat",
+            "none"
+          ],
+          "answer": "soft",
+          "explanation": "Describes cat."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-02-description-lq02",
+          "type": "true_false",
+          "question": "Describing words make writing vivid.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Adjectives add detail."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-02-description-lq03",
+          "type": "fill_blank",
+          "question": "Add an adjective: the ___ sun.",
+          "answer": "bright",
+          "explanation": "Description (example)."
+        },
+        {
+          "id": "g2-eng-unit-02-writing-02-description-lq04",
+          "type": "short_answer",
+          "question": "Describe an apple using two adjectives.",
+          "answer": "e.g., 'a shiny, red apple'.",
+          "explanation": "Adjectives."
+        }
+      ]
+    }
+  ]
+}

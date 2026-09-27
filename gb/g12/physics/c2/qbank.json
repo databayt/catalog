@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "physics",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq01",
+      "type": "mcq",
+      "question": "Gravitational field strength near Earth is about:",
+      "options": [
+        "1 N/kg",
+        "9.8 N/kg",
+        "100 N/kg",
+        "0 N/kg"
+      ],
+      "answer": "9.8 N/kg",
+      "explanation": "g ≈ 9.8."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq02",
+      "type": "true_false",
+      "question": "Gravitational force follows an inverse-square law.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1/r²."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq03",
+      "type": "fill_blank",
+      "question": "Weight = mass × gravitational field ___.",
+      "answer": "strength",
+      "explanation": "W = mg."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq04",
+      "type": "short_answer",
+      "question": "What is meant by an inverse-square law?",
+      "answer": "The quantity is proportional to 1 divided by the distance squared.",
+      "explanation": "Inverse square."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-02-electric-lq01",
+      "type": "mcq",
+      "question": "Like charges:",
+      "options": [
+        "attract",
+        "repel",
+        "neutralise",
+        "disappear"
+      ],
+      "answer": "repel",
+      "explanation": "Same sign repels."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-02-electric-lq02",
+      "type": "true_false",
+      "question": "Electric field lines point from positive to negative.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Field direction."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-02-electric-lq03",
+      "type": "fill_blank",
+      "question": "The force between charges follows ___'s law.",
+      "answer": "Coulomb",
+      "explanation": "Coulomb's law."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-02-electric-lq04",
+      "type": "short_answer",
+      "question": "Compare gravitational and electric fields.",
+      "answer": "Both are inverse-square; gravity only attracts, electric can attract or repel.",
+      "explanation": "Field comparison."
+    }
+  ]
+}

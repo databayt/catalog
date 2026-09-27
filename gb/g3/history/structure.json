@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-stone-age",
+      "slug": "c1",
       "title": {
         "en": "Stone Age to Iron Age"
       },
       "lessons": [
         {
-          "slug": "01-stone-age",
+          "slug": "l1",
           "title": {
             "en": "Life in the Stone Age"
           }
         },
         {
-          "slug": "02-bronze-iron",
+          "slug": "l2",
           "title": {
             "en": "Bronze Age & Iron Age"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-ancient-egypt",
+      "slug": "c2",
       "title": {
         "en": "Ancient Egypt"
       },
       "lessons": [
         {
-          "slug": "01-egypt-life",
+          "slug": "l1",
           "title": {
             "en": "Life in Ancient Egypt"
           }
         },
         {
-          "slug": "02-egypt-writing",
+          "slug": "l2",
           "title": {
             "en": "Writing & Beliefs"
           }

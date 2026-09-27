@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g7-his-unit-01-norman-conquest-01-1066-quiz",
+      "title": "Quiz: 1066 and the Battle of Hastings",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq01",
+          "type": "mcq",
+          "question": "Who won the Battle of Hastings in 1066?",
+          "options": [
+            "Harold Godwinson",
+            "William of Normandy",
+            "Alfred the Great",
+            "Henry VIII"
+          ],
+          "answer": "William of Normandy",
+          "explanation": "William the Conqueror."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq02",
+          "type": "true_false",
+          "question": "The Norman Conquest changed who ruled England.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "New ruling class."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq03",
+          "type": "fill_blank",
+          "question": "The events of 1066 are shown on the ___ Tapestry.",
+          "answer": "Bayeux",
+          "explanation": "Bayeux Tapestry."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq04",
+          "type": "short_answer",
+          "question": "Name one way the Normans controlled England.",
+          "answer": "e.g., building castles or the Domesday survey.",
+          "explanation": "Norman control."
+        }
+      ]
+    }
+  ]
+}

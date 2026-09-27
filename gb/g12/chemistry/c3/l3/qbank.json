@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "chemistry",
+    "chapter": "c3",
+    "lesson": "l3"
+  },
+  "questions": [
+    {
+      "id": "g12-che-unit-03-organic-chemistry-03-organic-analysis-lq01",
+      "type": "mcq",
+      "question": "Which statement best describes the focus of \"Organic Analysis\"?",
+      "options": [
+        "It is the core idea of this lesson",
+        "It is unrelated to Organic Chemistry",
+        "It belongs to a different grade",
+        "None of the above"
+      ],
+      "answer": "It is the core idea of this lesson",
+      "explanation": "\"Organic Analysis\" is a lesson within the unit \"Organic Chemistry\"."
+    },
+    {
+      "id": "g12-che-unit-03-organic-chemistry-03-organic-analysis-lq02",
+      "type": "true_false",
+      "question": "\"Organic Analysis\" is part of the unit \"Organic Chemistry\".",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "This lesson sits inside the named unit."
+    },
+    {
+      "id": "g12-che-unit-03-organic-chemistry-03-organic-analysis-lq03",
+      "type": "fill_blank",
+      "question": "The lesson titled ___ teaches this topic.",
+      "answer": "Organic Analysis",
+      "explanation": "The topic is \"Organic Analysis\"."
+    },
+    {
+      "id": "g12-che-unit-03-organic-chemistry-03-organic-analysis-lq04",
+      "type": "short_answer",
+      "question": "In your own words, summarise \"Organic Analysis\".",
+      "answer": "A short summary of Organic Analysis.",
+      "explanation": "Open response; assess understanding of the lesson objective."
+    }
+  ]
+}

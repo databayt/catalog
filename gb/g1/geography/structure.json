@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-uk",
+      "slug": "c1",
       "title": {
         "en": "The United Kingdom"
       },
       "lessons": [
         {
-          "slug": "01-four-countries",
+          "slug": "l1",
           "title": {
             "en": "The Four Countries of the UK"
           }
         },
         {
-          "slug": "02-my-area",
+          "slug": "l2",
           "title": {
             "en": "My Local Area"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-weather",
+      "slug": "c2",
       "title": {
         "en": "Weather & Seasons"
       },
       "lessons": [
         {
-          "slug": "01-seasons",
+          "slug": "l1",
           "title": {
             "en": "The Four Seasons"
           }
         },
         {
-          "slug": "02-weather",
+          "slug": "l2",
           "title": {
             "en": "Daily Weather"
           }

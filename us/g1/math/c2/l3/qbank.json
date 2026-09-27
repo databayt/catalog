@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l3"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq01",
+      "type": "mcq",
+      "question": "Sam has 9 stickers and gets 6 more. How many now?",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "15",
+      "explanation": "9 + 6 = 15."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq02",
+      "type": "true_false",
+      "question": "'How many more' problems often use subtraction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Comparison uses subtraction."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq03",
+      "type": "fill_blank",
+      "question": "A box had 18; 9 were removed, leaving ___.",
+      "answer": "9",
+      "explanation": "18 - 9 = 9."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq04",
+      "type": "short_answer",
+      "question": "Write a number sentence: 7 birds, 5 fly away.",
+      "answer": "7 - 5 = 2",
+      "explanation": "Two birds remain."
+    }
+  ]
+}

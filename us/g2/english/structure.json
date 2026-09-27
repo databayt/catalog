@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-phonics",
+      "slug": "c1",
       "title": {
         "en": "Phonics & Spelling Patterns"
       },
       "lessons": [
         {
-          "slug": "01-long-vowels",
+          "slug": "l1",
           "title": {
             "en": "Long Vowel Patterns"
           }
         },
         {
-          "slug": "02-syllables",
+          "slug": "l2",
           "title": {
             "en": "Counting Syllables"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-reading",
+      "slug": "c2",
       "title": {
         "en": "Reading Comprehension"
       },
       "lessons": [
         {
-          "slug": "01-asking-questions",
+          "slug": "l1",
           "title": {
             "en": "Who, What, Where, When, Why"
           }
         },
         {
-          "slug": "02-retelling",
+          "slug": "l2",
           "title": {
             "en": "Retelling a Story"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-writing",
+      "slug": "c3",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-paragraphs",
+          "slug": "l1",
           "title": {
             "en": "Writing a Paragraph"
           }
         },
         {
-          "slug": "02-punctuation",
+          "slug": "l2",
           "title": {
             "en": "Capitalization & Punctuation"
           }

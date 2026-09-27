@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-aqeedah-akhlaq",
+      "slug": "c1",
       "title": {
         "ar": "العقيدة وأخلاق المسلم"
       },
       "lessons": [
         {
-          "slug": "01-aqeedah",
+          "slug": "l1",
           "title": {
             "ar": "العقيدة الإسلامية"
           }
         },
         {
-          "slug": "02-ethics",
+          "slug": "l2",
           "title": {
             "ar": "أخلاق المسلم"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-fiqh",
+      "slug": "c2",
       "title": {
         "ar": "الفقه الإسلامي"
       },
       "lessons": [
         {
-          "slug": "01-taharah",
+          "slug": "l1",
           "title": {
             "ar": "الطهارة والصلاة"
           }
         },
         {
-          "slug": "02-sawm",
+          "slug": "l2",
           "title": {
             "ar": "الصيام"
           }

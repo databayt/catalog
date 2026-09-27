@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "social-studies",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g4-soc-unit-01-us-regions-exam",
+      "title": "Exam: Regions of the United States",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq01",
+          "type": "mcq",
+          "question": "The US is often divided into regions like the Northeast and the:",
+          "options": [
+            "Southwest",
+            "Sahara",
+            "Amazon",
+            "Alps"
+          ],
+          "answer": "Southwest",
+          "explanation": "US regions."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq02",
+          "type": "true_false",
+          "question": "Different US regions have different climates and resources.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Regional diversity."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq03",
+          "type": "fill_blank",
+          "question": "The longest river in the US is the ___ River.",
+          "answer": "Mississippi",
+          "explanation": "Major river."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-01-regions-lq04",
+          "type": "short_answer",
+          "question": "Why do regions differ from one another?",
+          "answer": "Differences in climate, landforms, resources and economy.",
+          "explanation": "Regional variation."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-02-states-lq01",
+          "type": "mcq",
+          "question": "How many states are in the United States?",
+          "options": [
+            "13",
+            "50",
+            "100",
+            "25"
+          ],
+          "answer": "50",
+          "explanation": "50 states."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-02-states-lq02",
+          "type": "true_false",
+          "question": "Each US state has its own capital city.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "State capitals."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-02-states-lq03",
+          "type": "fill_blank",
+          "question": "The capital city of the United States is Washington, ___.",
+          "answer": "D.C.",
+          "explanation": "National capital."
+        },
+        {
+          "id": "g4-soc-unit-01-us-regions-02-states-lq04",
+          "type": "short_answer",
+          "question": "What is a state capital?",
+          "answer": "The city where a state's government is based.",
+          "explanation": "State capital."
+        }
+      ]
+    }
+  ]
+}

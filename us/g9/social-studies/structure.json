@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-revolutions",
+      "slug": "c1",
       "title": {
         "en": "Revolutions & Enlightenment"
       },
       "lessons": [
         {
-          "slug": "01-enlightenment",
+          "slug": "l1",
           "title": {
             "en": "The Enlightenment"
           }
         },
         {
-          "slug": "02-revolutions",
+          "slug": "l2",
           "title": {
             "en": "Age of Revolutions"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-industrialization",
+      "slug": "c2",
       "title": {
         "en": "Industrialization & Imperialism"
       },
       "lessons": [
         {
-          "slug": "01-industrial-revolution",
+          "slug": "l1",
           "title": {
             "en": "The Industrial Revolution"
           }
         },
         {
-          "slug": "02-imperialism",
+          "slug": "l2",
           "title": {
             "en": "Imperialism"
           }

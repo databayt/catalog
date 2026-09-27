@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq01",
+      "type": "mcq",
+      "question": "(كاتب) اسم:",
+      "options": [
+        "فاعل",
+        "مفعول",
+        "آلة",
+        "زمان"
+      ],
+      "answer": "فاعل",
+      "explanation": "اسم الفاعل."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq02",
+      "type": "true_false",
+      "question": "اسم المفعول يدل على من وقع عليه الفعل.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "اسم المفعول."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq03",
+      "type": "fill_blank",
+      "question": "اسم الفاعل من (لعب) هو ___.",
+      "answer": "لاعب",
+      "explanation": "اسم الفاعل."
+    },
+    {
+      "id": "g8-ara-unit-01-kana-02-derivatives-lq04",
+      "type": "short_answer",
+      "question": "اشتق اسم الفاعل من الفعل (شرب).",
+      "answer": "شارب",
+      "explanation": "الاشتقاق."
+    }
+  ]
+}

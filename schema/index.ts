@@ -22,13 +22,20 @@ import { CONCEPTS } from "../src/concepts.ts"
 
 /** A path segment: ASCII lowercase kebab-case. Arabic lives in titles, never in paths. */
 export const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/
-/** Chapter and lesson folders: a two-digit order prefix, then a kebab topic. */
-export const ORDERED_SLUG = /^\d{2}-[a-z0-9]+(-[a-z0-9]+)*$/
+/**
+ * Chapter and lesson folders are positional, like grades: `c1`, `c2` … and,
+ * within a chapter, `l1`, `l2` … The number is the order in the book; the
+ * words live in `title`. So `sd/g6/math/c1/l3` is "grade 6 math, chapter 1,
+ * lesson 3" — buildable from numbers alone.
+ */
+export const CHAPTER_SLUG = /^c[1-9]\d*$/
+export const LESSON_SLUG = /^l[1-9]\d*$/
 export const GRADE = /^(kg[1-2]|g([1-9]|1[0-2]))$/
 export const MAX_SLUG = 64
 
 export const Slug = z.string().max(MAX_SLUG).regex(SLUG, "kebab-case ASCII")
-export const OrderedSlug = z.string().max(MAX_SLUG).regex(ORDERED_SLUG, "NN-kebab-case ASCII")
+export const ChapterSlug = z.string().regex(CHAPTER_SLUG, "c<N>")
+export const LessonSlug = z.string().regex(LESSON_SLUG, "l<N>")
 export const GradeId = z.string().regex(GRADE, "g1–g12 or kg1–kg2")
 export const Lang = z.enum(["ar", "en", "fr"])
 export const Concept = z.enum(CONCEPTS)
@@ -94,7 +101,7 @@ export type Curriculum = z.infer<typeof Curriculum>
 // ---------------------------------------------------------------- structure
 
 export const Lesson = z.strictObject({
-  slug: OrderedSlug,
+  slug: LessonSlug,
   title: Title,
   page: z.number().int().positive().optional(),
   image: z.string().optional(),
@@ -105,7 +112,7 @@ export const Lesson = z.strictObject({
 })
 
 export const Chapter = z.strictObject({
-  slug: OrderedSlug,
+  slug: ChapterSlug,
   title: Title,
   concept: Concept.optional(),
   /** A CDN key (e.g. `clickview/high-…-cover.jpg`), never a URL. */
@@ -196,8 +203,8 @@ export const Scope = z.strictObject({
   curriculum: Slug,
   grade: GradeId,
   subject: Slug,
-  chapter: OrderedSlug.optional(),
-  lesson: OrderedSlug.optional(),
+  chapter: ChapterSlug.optional(),
+  lesson: LessonSlug.optional(),
 })
 
 export const QBank = z.strictObject({

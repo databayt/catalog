@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "geography",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g9-geo-unit-02-resources-01-resources-lq01",
+      "type": "mcq",
+      "question": "A renewable energy resource is:",
+      "options": [
+        "coal",
+        "wind",
+        "oil",
+        "gas"
+      ],
+      "answer": "wind",
+      "explanation": "Renewable."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-01-resources-lq02",
+      "type": "true_false",
+      "question": "Water, food and energy are key resources for development.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Vital resources."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-01-resources-lq03",
+      "type": "fill_blank",
+      "question": "Energy from the Sun is ___ energy.",
+      "answer": "solar",
+      "explanation": "Solar power."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-01-resources-lq04",
+      "type": "short_answer",
+      "question": "Why is sustainable resource use important?",
+      "answer": "To meet present needs without harming future generations.",
+      "explanation": "Sustainability."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-02-sustainability-lq01",
+      "type": "mcq",
+      "question": "Reducing, reusing and recycling helps achieve:",
+      "options": [
+        "pollution",
+        "sustainability",
+        "deforestation",
+        "waste"
+      ],
+      "answer": "sustainability",
+      "explanation": "Three Rs."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-02-sustainability-lq02",
+      "type": "true_false",
+      "question": "Sustainable development balances economy, society and environment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Triple bottom line."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-02-sustainability-lq03",
+      "type": "fill_blank",
+      "question": "Cutting down forests is called ___.",
+      "answer": "deforestation",
+      "explanation": "Forest loss."
+    },
+    {
+      "id": "g9-geo-unit-02-resources-02-sustainability-lq04",
+      "type": "short_answer",
+      "question": "Give one way to use resources more sustainably.",
+      "answer": "e.g., renewable energy, recycling, or reducing waste.",
+      "explanation": "Sustainable actions."
+    }
+  ]
+}

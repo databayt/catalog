@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-opening-reading-from-surat-luqman",
+      "slug": "c1",
       "title": {
         "ar": "افتتاحية: من سورة لقمان",
         "en": "Opening Reading: From Surat Luqman"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-from-surat-luqman",
+          "slug": "l1",
           "title": {
             "ar": "من سورة لقمان",
             "en": "From Surat Luqman"
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "slug": "02-part-1-selections-from-abbasid-literature",
+      "slug": "c2",
       "title": {
         "ar": "الباب الأول: مختارات من الأدب العباسي",
         "en": "Part 1: Selections from Abbasid Literature"
@@ -61,7 +61,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-arabic-literature-in-the-abbasid-mamluk-and",
+          "slug": "l1",
           "title": {
             "ar": "من تاريخ الأدب العربي في العصر العباسي والمملوكي والعثماني",
             "en": "Arabic Literature in the Abbasid, Mamluk and Ottoman Eras"
@@ -70,7 +70,7 @@
           "image": "clickview/middle-literary-texts-cover.jpg"
         },
         {
-          "slug": "02-doing-ones-work",
+          "slug": "l2",
           "title": {
             "ar": "أداء الأعمال",
             "en": "Doing One's Work"
@@ -78,7 +78,7 @@
           "page": 12
         },
         {
-          "slug": "03-bashar-ibn-burd-describes-an-army",
+          "slug": "l3",
           "title": {
             "ar": "بشار بن برد يصف جيشاً",
             "en": "Bashar ibn Burd Describes an Army"
@@ -86,7 +86,7 @@
           "page": 16
         },
         {
-          "slug": "04-abu-tammams-elegy-for-muhammad-ibn-humayd-al",
+          "slug": "l4",
           "title": {
             "ar": "أبو تمام يرثي محمد بن حمد الطوسي",
             "en": "Abu Tammam's Elegy for Muhammad ibn Humayd al-Tusi"
@@ -94,7 +94,7 @@
           "page": 23
         },
         {
-          "slug": "05-a-night-and-a-wolf",
+          "slug": "l5",
           "title": {
             "ar": "ليل وذئب",
             "en": "A Night and a Wolf"
@@ -102,7 +102,7 @@
           "page": 27
         },
         {
-          "slug": "06-the-gazelle-of-the-ban-tree",
+          "slug": "l6",
           "title": {
             "ar": "ظبية البان",
             "en": "The Gazelle of the Ban Tree"
@@ -110,7 +110,7 @@
           "page": 33
         },
         {
-          "slug": "07-precious-advice",
+          "slug": "l7",
           "title": {
             "ar": "نصيحة غالية",
             "en": "Precious Advice"
@@ -118,7 +118,7 @@
           "page": 37
         },
         {
-          "slug": "08-abu-firas-in-captivity",
+          "slug": "l8",
           "title": {
             "ar": "أبو فراس في الأسر",
             "en": "Abu Firas in Captivity"
@@ -126,7 +126,7 @@
           "page": 40
         },
         {
-          "slug": "09-lamiyyat-al-ajam",
+          "slug": "l9",
           "title": {
             "ar": "لامية العجم",
             "en": "Lamiyyat al-Ajam"
@@ -134,7 +134,7 @@
           "page": 45
         },
         {
-          "slug": "10-a-poet-disparages-his-house",
+          "slug": "l10",
           "title": {
             "ar": "شاعر يذم داره",
             "en": "A Poet Disparages His House"
@@ -143,7 +143,7 @@
           "image": "clickview/high-satire-cover.jpg"
         },
         {
-          "slug": "11-on-boasting",
+          "slug": "l11",
           "title": {
             "ar": "في الفخر",
             "en": "On Boasting"
@@ -152,7 +152,7 @@
           "image": "clickview/high-persuasive-techniques-cover.jpg"
         },
         {
-          "slug": "12-the-maqamat",
+          "slug": "l12",
           "title": {
             "ar": "المقامات",
             "en": "The Maqamat"
@@ -161,7 +161,7 @@
           "image": "clickview/high-genre-cover.jpg"
         },
         {
-          "slug": "13-spring-the-youth-of-the-earth",
+          "slug": "l13",
           "title": {
             "ar": "الربيع شباب الأرض",
             "en": "Spring, the Youth of the Earth"
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "slug": "03-part-2-selections-from-andalusian-literature",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثاني: مختارات من الأدب الأندلسي",
         "en": "Part 2: Selections from Andalusian Literature"
@@ -182,7 +182,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-andalusian-literature",
+          "slug": "l1",
           "title": {
             "ar": "الأدب الأندلسي",
             "en": "Andalusian Literature"
@@ -190,7 +190,7 @@
           "page": 75
         },
         {
-          "slug": "02-ibn-zayduns-nuniyya",
+          "slug": "l2",
           "title": {
             "ar": "نونية ابن زيدون",
             "en": "Ibn Zaydun's Nuniyya"
@@ -198,7 +198,7 @@
           "page": 76
         },
         {
-          "slug": "03-from-the-andalusian-muwashshahat",
+          "slug": "l3",
           "title": {
             "ar": "من الموشحات الأندلسية",
             "en": "From the Andalusian Muwashshahat"
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "slug": "04-part-3-the-essay",
+      "slug": "c4",
       "title": {
         "ar": "الباب الثالث: فن المقال",
         "en": "Part 3: The Essay"
@@ -219,7 +219,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-the-essay",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة عن فن المقال",
             "en": "Introduction to the Essay"
@@ -227,7 +227,7 @@
           "page": 89
         },
         {
-          "slug": "02-the-companions-of-the-prophet",
+          "slug": "l2",
           "title": {
             "ar": "أصحاب رسول الله صلى الله عليه وسلم",
             "en": "The Companions of the Prophet"
@@ -235,7 +235,7 @@
           "page": 91
         },
         {
-          "slug": "03-i-admire-the-young-when",
+          "slug": "l3",
           "title": {
             "ar": "يعجبني الشباب إذا",
             "en": "I Admire the Young When"
@@ -243,7 +243,7 @@
           "page": 94
         },
         {
-          "slug": "04-genius",
+          "slug": "l4",
           "title": {
             "ar": "النبوغ",
             "en": "Genius"
@@ -251,7 +251,7 @@
           "page": 97
         },
         {
-          "slug": "05-leisure-time",
+          "slug": "l5",
           "title": {
             "ar": "أوقات الفراغ",
             "en": "Leisure Time"
@@ -259,7 +259,7 @@
           "page": 104
         },
         {
-          "slug": "06-scenes-from-the-village-the-khalwa",
+          "slug": "l6",
           "title": {
             "ar": "صور من القرية «المسيد»",
             "en": "Scenes from the Village: The Khalwa"
@@ -267,7 +267,7 @@
           "page": 107
         },
         {
-          "slug": "07-private-and-public-libraries",
+          "slug": "l7",
           "title": {
             "ar": "المكتبات الخاصة والعامة",
             "en": "Private and Public Libraries"
@@ -275,7 +275,7 @@
           "page": 112
         },
         {
-          "slug": "08-the-mosque-and-the-upbringing-of-an-upright",
+          "slug": "l8",
           "title": {
             "ar": "المسجد وأثره في بناء الجيل المستقيم",
             "en": "The Mosque and the Upbringing of an Upright Generation"
@@ -283,7 +283,7 @@
           "page": 119
         },
         {
-          "slug": "09-the-book-and-the-home",
+          "slug": "l9",
           "title": {
             "ar": "الكتاب والبيت",
             "en": "The Book and the Home"
@@ -291,7 +291,7 @@
           "page": 123
         },
         {
-          "slug": "10-scenes-from-the-life-of-umar",
+          "slug": "l10",
           "title": {
             "ar": "صور من حياة عمر",
             "en": "Scenes from the Life of Umar"
@@ -299,7 +299,7 @@
           "page": 127
         },
         {
-          "slug": "11-al-shafii-the-man-of-letters",
+          "slug": "l11",
           "title": {
             "ar": "الشافعي الأديب",
             "en": "Al-Shafi'i the Man of Letters"
@@ -307,7 +307,7 @@
           "page": 133
         },
         {
-          "slug": "12-abu-al-rayhan-al-biruni",
+          "slug": "l12",
           "title": {
             "ar": "أبو الريحان البيروني",
             "en": "Abu al-Rayhan al-Biruni"
@@ -316,7 +316,7 @@
           "image": "clickview/high-thinking-scientifically-cover.jpg"
         },
         {
-          "slug": "13-zayd-ibn-thabit",
+          "slug": "l13",
           "title": {
             "ar": "زيد بن ثابت",
             "en": "Zayd ibn Thabit"
@@ -325,7 +325,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "14-a-model-young-man",
+          "slug": "l14",
           "title": {
             "ar": "مثل من الشباب",
             "en": "A Model Young Man"
@@ -333,7 +333,7 @@
           "page": 148
         },
         {
-          "slug": "15-a-description-of-the-prophet",
+          "slug": "l15",
           "title": {
             "ar": "وصف النبي صلى الله عليه وسلم",
             "en": "A Description of the Prophet"
@@ -341,7 +341,7 @@
           "page": 152
         },
         {
-          "slug": "16-the-prophets-birthday",
+          "slug": "l16",
           "title": {
             "ar": "ذكرى المولد",
             "en": "The Prophet's Birthday"
@@ -349,7 +349,7 @@
           "page": 157
         },
         {
-          "slug": "17-the-great-immortal-women",
+          "slug": "l17",
           "title": {
             "ar": "الخالدات العظيمات",
             "en": "The Great Immortal Women"
@@ -358,7 +358,7 @@
           "image": "clickview/high-changing-roles-of-women-cover.jpg"
         },
         {
-          "slug": "18-islamic-government",
+          "slug": "l18",
           "title": {
             "ar": "الحكومة الإسلامية",
             "en": "Islamic Government"
@@ -367,7 +367,7 @@
           "image": "clickview/high-systems-of-government-cover.jpg"
         },
         {
-          "slug": "19-sheikh-ahmed-al-aqib",
+          "slug": "l19",
           "title": {
             "ar": "الشيخ أحمد العاقب",
             "en": "Sheikh Ahmed al-Aqib"
@@ -375,7 +375,7 @@
           "page": 171
         },
         {
-          "slug": "20-satti-majid",
+          "slug": "l20",
           "title": {
             "ar": "ساتي ماجد",
             "en": "Satti Majid"

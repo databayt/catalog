@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-algebra",
+      "slug": "c1",
       "title": {
         "en": "Algebra & Graphs"
       },
       "lessons": [
         {
-          "slug": "01-straight-line",
+          "slug": "l1",
           "title": {
             "en": "Straight-Line Graphs"
           }
         },
         {
-          "slug": "02-quadratics",
+          "slug": "l2",
           "title": {
             "en": "Introducing Quadratics"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-pythagoras",
+      "slug": "c2",
       "title": {
         "en": "Pythagoras & Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-pythagoras",
+          "slug": "l1",
           "title": {
             "en": "Pythagoras' Theorem"
           }
         },
         {
-          "slug": "02-trig",
+          "slug": "l2",
           "title": {
             "en": "Trigonometry (SOHCAHTOA)"
           }

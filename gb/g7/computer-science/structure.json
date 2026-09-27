@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-programming",
+      "slug": "c1",
       "title": {
         "en": "Programming"
       },
       "lessons": [
         {
-          "slug": "01-fundamentals",
+          "slug": "l1",
           "title": {
             "en": "Programming Fundamentals"
           }
         },
         {
-          "slug": "02-data",
+          "slug": "l2",
           "title": {
             "en": "Data Representation"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-systems",
+      "slug": "c2",
       "title": {
         "en": "Computer Systems & Networks"
       },
       "lessons": [
         {
-          "slug": "01-hardware",
+          "slug": "l1",
           "title": {
             "en": "Hardware & Software"
           }
         },
         {
-          "slug": "02-networks",
+          "slug": "l2",
           "title": {
             "en": "Networks & the Internet"
           }

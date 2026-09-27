@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq01",
+      "type": "mcq",
+      "question": "A place where many people live close together is a:",
+      "options": [
+        "town/city",
+        "desert",
+        "ocean",
+        "forest"
+      ],
+      "answer": "town/city",
+      "explanation": "Settlement."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq02",
+      "type": "true_false",
+      "question": "A map is a drawing of a place from above.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bird's-eye view."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq03",
+      "type": "fill_blank",
+      "question": "Human features include shops, roads and ___.",
+      "answer": "houses",
+      "explanation": "Human features."
+    },
+    {
+      "id": "g1-geo-unit-01-uk-02-my-area-lq04",
+      "type": "short_answer",
+      "question": "Name one physical and one human feature near you.",
+      "answer": "e.g., a hill (physical) and a school (human).",
+      "explanation": "Feature types."
+    }
+  ]
+}

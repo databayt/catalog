@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-review",
+      "slug": "c1",
       "title": {
         "ar": "مراجعة",
         "en": "Review"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-public-facilities",
+          "slug": "l1",
           "title": {
             "ar": "المرافق العامة",
             "en": "Public Facilities"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-the-kind-boy",
+          "slug": "l2",
           "title": {
             "ar": "الولد العطوف",
             "en": "The Kind Boy"
@@ -48,7 +48,7 @@
           "page": 7
         },
         {
-          "slug": "03-counsels-of-luqman",
+          "slug": "l3",
           "title": {
             "ar": "من وصايا لقمان",
             "en": "From the Counsels of Luqman"
@@ -56,7 +56,7 @@
           "page": 10
         },
         {
-          "slug": "04-the-parrot-and-the-thief",
+          "slug": "l4",
           "title": {
             "ar": "الببغاء واللص",
             "en": "The Parrot and the Thief"
@@ -64,7 +64,7 @@
           "page": 13
         },
         {
-          "slug": "05-the-key-to-love",
+          "slug": "l5",
           "title": {
             "ar": "مفتاح المحبة",
             "en": "The Key to Love"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-values-and-manners",
+      "slug": "c2",
       "title": {
         "ar": "قيم وآداب",
         "en": "Values and Manners"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-trustworthiness",
+          "slug": "l1",
           "title": {
             "ar": "الأمانة",
             "en": "Trustworthiness"
@@ -93,7 +93,7 @@
           "page": 24
         },
         {
-          "slug": "02-work",
+          "slug": "l2",
           "title": {
             "ar": "العمل",
             "en": "Work"
@@ -102,7 +102,7 @@
           "image": "clickview/elementary-world-of-work-cover.jpg"
         },
         {
-          "slug": "03-o-workers",
+          "slug": "l3",
           "title": {
             "ar": "أيها العمال",
             "en": "O Workers"
@@ -111,7 +111,7 @@
           "image": "clickview/elementary-world-of-work-cover.jpg"
         },
         {
-          "slug": "04-ostentation-nullifies-deeds",
+          "slug": "l4",
           "title": {
             "ar": "الرياء يبطل العمل",
             "en": "Ostentation Nullifies Deeds"
@@ -119,7 +119,7 @@
           "page": 36
         },
         {
-          "slug": "05-importance-of-cooperation",
+          "slug": "l5",
           "title": {
             "ar": "أهمية التعاون",
             "en": "The Importance of Cooperation"
@@ -127,7 +127,7 @@
           "page": 41
         },
         {
-          "slug": "06-virtue-of-cooperation",
+          "slug": "l6",
           "title": {
             "ar": "فضل التعاون",
             "en": "The Virtue of Cooperation"
@@ -135,7 +135,7 @@
           "page": 44
         },
         {
-          "slug": "07-kinship-ties",
+          "slug": "l7",
           "title": {
             "ar": "صلة الرحم",
             "en": "Kinship Ties"
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "slug": "03-family-and-society",
+      "slug": "c3",
       "title": {
         "ar": "الأسرة والمجتمع",
         "en": "Family and Society"
@@ -157,7 +157,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-raising-children",
+          "slug": "l1",
           "title": {
             "ar": "تربية الأبناء",
             "en": "Raising Children"
@@ -165,7 +165,7 @@
           "page": 59
         },
         {
-          "slug": "02-parents-rights",
+          "slug": "l2",
           "title": {
             "ar": "حقوق الوالدين",
             "en": "Parents' Rights"
@@ -173,7 +173,7 @@
           "page": 67
         },
         {
-          "slug": "03-a-fathers-will-to-his-son",
+          "slug": "l3",
           "title": {
             "ar": "وصية أب لأبنه",
             "en": "A Father's Will to His Son"
@@ -181,7 +181,7 @@
           "page": 70
         },
         {
-          "slug": "04-the-clever-friend",
+          "slug": "l4",
           "title": {
             "ar": "الصديق الذكي",
             "en": "The Clever Friend"
@@ -190,7 +190,7 @@
           "image": "clickview/elementary-friendship-cover.jpg"
         },
         {
-          "slug": "05-social-solidarity",
+          "slug": "l5",
           "title": {
             "ar": "التكافل الاجتماعي",
             "en": "Social Solidarity"
@@ -199,7 +199,7 @@
           "image": "clickview/elementary-community-cover.jpg"
         },
         {
-          "slug": "06-the-generous-one",
+          "slug": "l6",
           "title": {
             "ar": "الكريم",
             "en": "The Generous One"
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "slug": "04-environment-and-health",
+      "slug": "c4",
       "title": {
         "ar": "البيئة والصحة",
         "en": "Environment and Health"
@@ -221,7 +221,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-oral-and-dental-health",
+          "slug": "l1",
           "title": {
             "ar": "صحة الفم والأسنان",
             "en": "Oral and Dental Health"
@@ -230,7 +230,7 @@
           "image": "clickview/elementary-dental-health-cover.jpg"
         },
         {
-          "slug": "02-protect-nature-anthem",
+          "slug": "l2",
           "title": {
             "ar": "نشيد أحم الطبيعة يا فتى",
             "en": "Anthem: Protect Nature, O Youth"
@@ -239,7 +239,7 @@
           "image": "clickview/elementary-nature-conservation-cover.jpg"
         },
         {
-          "slug": "03-at-the-eye-doctor",
+          "slug": "l3",
           "title": {
             "ar": "عند طبيب العيون",
             "en": "At the Eye Doctor"
@@ -247,7 +247,7 @@
           "page": 99
         },
         {
-          "slug": "04-recycling-waste",
+          "slug": "l4",
           "title": {
             "ar": "تدوير النفايات",
             "en": "Recycling Waste"
@@ -256,7 +256,7 @@
           "image": "clickview/elementary-recycling-cover.jpg"
         },
         {
-          "slug": "05-medicine-in-food",
+          "slug": "l5",
           "title": {
             "ar": "الدواء في الغذاء",
             "en": "Medicine in Food"
@@ -265,7 +265,7 @@
           "image": "clickview/elementary-diet-and-nutrition-cover.jpg"
         },
         {
-          "slug": "06-the-axe-and-the-tree",
+          "slug": "l6",
           "title": {
             "ar": "الفأس والشجرة",
             "en": "The Axe and the Tree"
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "slug": "05-my-homeland",
+      "slug": "c5",
       "title": {
         "ar": "وطني",
         "en": "My Homeland"
@@ -287,7 +287,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-warrior-queens-kandakas",
+          "slug": "l1",
           "title": {
             "ar": "الملكات المحاربات (الكنداكة)",
             "en": "The Warrior Queens (the Kandakas)"
@@ -295,7 +295,7 @@
           "page": 117
         },
         {
-          "slug": "02-nation-of-glories",
+          "slug": "l2",
           "title": {
             "ar": "أمة الأمجاد",
             "en": "Nation of Glories"
@@ -304,7 +304,7 @@
           "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
         },
         {
-          "slug": "03-kingdom-of-sennar",
+          "slug": "l3",
           "title": {
             "ar": "مملكة سنار",
             "en": "The Kingdom of Sennar"
@@ -312,7 +312,7 @@
           "page": 130
         },
         {
-          "slug": "04-sultan-taj-al-din",
+          "slug": "l4",
           "title": {
             "ar": "السلطان تاج الدين",
             "en": "Sultan Taj Al-Din"
@@ -320,7 +320,7 @@
           "page": 137
         },
         {
-          "slug": "05-princess-mandi",
+          "slug": "l5",
           "title": {
             "ar": "الأميرة مندي",
             "en": "Princess Mandi"
@@ -328,7 +328,7 @@
           "page": 140
         },
         {
-          "slug": "06-which-voice-roared-yesterday",
+          "slug": "l6",
           "title": {
             "ar": "أي صوت زار بالأمس خيال",
             "en": "Which Voice Roared Yesterday, Khayal?"
@@ -337,7 +337,7 @@
           "image": "clickview/elementary-poetry-cover.jpg"
         },
         {
-          "slug": "07-muhammad-ahmad-al-mahjoub",
+          "slug": "l7",
           "title": {
             "ar": "محمد أحمد المحجوب",
             "en": "Muhammad Ahmad Al-Mahjoub"

@@ -5,8 +5,8 @@
  * The single derivation for every catalog CDN key.
  *
  *   catalog/<curriculum>/<grade>/<subject>/textbook.pdf
- *   catalog/<curriculum>/<grade>/<subject>/<chapter>/qbank.json
- *   catalog/<curriculum>/<grade>/<subject>/<chapter>/<lesson>/exams.json
+ *   catalog/<curriculum>/<grade>/<subject>/c<N>/qbank.json
+ *   catalog/<curriculum>/<grade>/<subject>/c<N>/l<N>/exams.json
  *
  * The key is the repository path prefixed with `catalog/` — the repo mirrors
  * the CDN (see ./paths.ts), and the subject id is `<curriculum>-<grade>-<subject>` —
@@ -32,9 +32,9 @@ export interface CatalogScope {
   grade: string
   /** Subject folder — "biology", "islamic-studies", "math-specialized". */
   subjectDir: string
-  /** Chapter slug — "01-asexual-reproduction". */
+  /** Chapter — "c1" (positional, like grades). */
   chapterSlug?: string
-  /** Lesson slug — "01-characteristics-of-asexual-reproduction". */
+  /** Lesson within the chapter — "l3". */
   lessonSlug?: string
 }
 
@@ -132,8 +132,8 @@ export function catalogLegacyPrefix(dbSlug: string): string {
  *
  *   catalogSibling("catalog/sd/g12/biology/textbook.pdf", "textbook.md")
  *     -> "catalog/sd/g12/biology/textbook.md"
- *   catalogSibling("catalog/sd/g12/biology/textbook.pdf", "01-mitosis", "qbank.json")
- *     -> "catalog/sd/g12/biology/01-mitosis/qbank.json"
+ *   catalogSibling("catalog/sd/g12/biology/textbook.pdf", "c1", "l3", "qbank.json")
+ *     -> "catalog/sd/g12/biology/c1/l3/qbank.json"
  */
 export function catalogSibling(storedKey: string, ...segments: string[]): string {
   const base = storedKey.replace(/\/[^/]+$/, "")
@@ -152,3 +152,9 @@ export function catalogSibling(storedKey: string, ...segments: string[]): string
 export function encodeCatalogKey(key: string): string {
   return key.split("/").map(encodeURIComponent).join("/")
 }
+
+/** `chapterSlug(1)` -> "c1". Chapters are numbered in book order from 1. */
+export const chapterSlug = (n: number): string => `c${n}`
+
+/** `lessonSlug(3)` -> "l3". Lessons are numbered from 1 within their chapter. */
+export const lessonSlug = (n: number): string => `l${n}`

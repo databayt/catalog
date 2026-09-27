@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g6-isl-unit-02-worship-02-zakah-lq01",
+      "type": "mcq",
+      "question": "الزكاة تطهّر:",
+      "options": [
+        "المال والنفس",
+        "الثياب",
+        "البيت",
+        "السيارة"
+      ],
+      "answer": "المال والنفس",
+      "explanation": "حكمة الزكاة."
+    },
+    {
+      "id": "g6-isl-unit-02-worship-02-zakah-lq02",
+      "type": "true_false",
+      "question": "الصدقة تنفع المتصدق والفقير.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الصدقة."
+    },
+    {
+      "id": "g6-isl-unit-02-worship-02-zakah-lq03",
+      "type": "fill_blank",
+      "question": "الزكاة ركن من أركان ___.",
+      "answer": "الإسلام",
+      "explanation": "الأركان."
+    },
+    {
+      "id": "g6-isl-unit-02-worship-02-zakah-lq04",
+      "type": "short_answer",
+      "question": "ما الحكمة من الزكاة؟",
+      "answer": "مساعدة الفقراء وتطهير المال.",
+      "explanation": "الزكاة."
+    }
+  ]
+}

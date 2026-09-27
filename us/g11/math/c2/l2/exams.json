@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g11-mat-unit-02-exp-log-02-logarithms-quiz",
+      "title": "Quiz: Logarithms",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-mat-unit-02-exp-log-02-logarithms-lq01",
+          "type": "mcq",
+          "question": "log₂(8) = ?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+          ],
+          "answer": "3",
+          "explanation": "2³=8."
+        },
+        {
+          "id": "g11-mat-unit-02-exp-log-02-logarithms-lq02",
+          "type": "true_false",
+          "question": "A logarithm is the inverse of an exponential.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Inverse functions."
+        },
+        {
+          "id": "g11-mat-unit-02-exp-log-02-logarithms-lq03",
+          "type": "fill_blank",
+          "question": "log₁₀(100) = ___.",
+          "answer": "2",
+          "explanation": "10²=100."
+        },
+        {
+          "id": "g11-mat-unit-02-exp-log-02-logarithms-lq04",
+          "type": "short_answer",
+          "question": "What does logₐ(b) ask?",
+          "answer": "To what power must a be raised to get b.",
+          "explanation": "Log meaning."
+        }
+      ]
+    }
+  ]
+}

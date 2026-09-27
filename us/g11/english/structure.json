@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-american-lit",
+      "slug": "c1",
       "title": {
         "en": "American Literature"
       },
       "lessons": [
         {
-          "slug": "01-movements",
+          "slug": "l1",
           "title": {
             "en": "Literary Movements"
           }
         },
         {
-          "slug": "02-rhetoric-speeches",
+          "slug": "l2",
           "title": {
             "en": "American Rhetoric"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-argument",
+      "slug": "c2",
       "title": {
         "en": "Advanced Argument"
       },
       "lessons": [
         {
-          "slug": "01-claims-evidence",
+          "slug": "l1",
           "title": {
             "en": "Claims, Evidence & Reasoning"
           }
         },
         {
-          "slug": "02-research-paper",
+          "slug": "l2",
           "title": {
             "en": "The Research Paper"
           }

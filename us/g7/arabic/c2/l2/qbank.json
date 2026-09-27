@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "arabic",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-ara-unit-02-verbs-02-mutall-lq01",
+      "type": "mcq",
+      "question": "(وعد) فعل معتل لأن أوله:",
+      "options": [
+        "حرف علة (و)",
+        "همزة",
+        "تاء",
+        "نون"
+      ],
+      "answer": "حرف علة (و)",
+      "explanation": "مثال (معتل الأول)."
+    },
+    {
+      "id": "g7-ara-unit-02-verbs-02-mutall-lq02",
+      "type": "true_false",
+      "question": "(قال) و(باع) من الأفعال المعتلة.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "معتل الوسط (أجوف)."
+    },
+    {
+      "id": "g7-ara-unit-02-verbs-02-mutall-lq03",
+      "type": "fill_blank",
+      "question": "الفعل الذي في آخره حرف علة يسمى الناقص أو ___.",
+      "answer": "المعتل الآخر",
+      "explanation": "الناقص."
+    },
+    {
+      "id": "g7-ara-unit-02-verbs-02-mutall-lq04",
+      "type": "short_answer",
+      "question": "اذكر مثالاً لفعل معتل.",
+      "answer": "مثل: قال، دعا، وعد.",
+      "explanation": "الفعل المعتل."
+    }
+  ]
+}

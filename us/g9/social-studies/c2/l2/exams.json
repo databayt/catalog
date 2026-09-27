@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-soc-unit-02-industrialization-02-imperialism-quiz",
+      "title": "Quiz: Imperialism",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-soc-unit-02-industrialization-02-imperialism-lq01",
+          "type": "mcq",
+          "question": "Imperialism is when a country extends power over other:",
+          "options": [
+            "territories",
+            "planets",
+            "oceans only",
+            "fonts"
+          ],
+          "answer": "territories",
+          "explanation": "Empire-building."
+        },
+        {
+          "id": "g9-soc-unit-02-industrialization-02-imperialism-lq02",
+          "type": "true_false",
+          "question": "Industrial powers sought colonies for resources and markets.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Motives."
+        },
+        {
+          "id": "g9-soc-unit-02-industrialization-02-imperialism-lq03",
+          "type": "fill_blank",
+          "question": "Controlling another country economically/politically is ___.",
+          "answer": "imperialism",
+          "explanation": "Imperialism."
+        },
+        {
+          "id": "g9-soc-unit-02-industrialization-02-imperialism-lq04",
+          "type": "short_answer",
+          "question": "Name one motive for imperialism.",
+          "answer": "e.g., resources, markets, national prestige, or strategy.",
+          "explanation": "Imperialism."
+        }
+      ]
+    }
+  ]
+}

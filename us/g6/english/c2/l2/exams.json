@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g6-eng-unit-02-writing-02-grammar-quiz",
+      "title": "Quiz: Grammar & Usage",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq01",
+          "type": "mcq",
+          "question": "Which is a pronoun?",
+          "options": [
+            "run",
+            "they",
+            "quickly",
+            "blue"
+          ],
+          "answer": "they",
+          "explanation": "Replaces a noun."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq02",
+          "type": "true_false",
+          "question": "A clause must contain a verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Clause has subject + verb."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq03",
+          "type": "fill_blank",
+          "question": "'The dog that barked' contains a relative ___.",
+          "answer": "clause",
+          "explanation": "Adds info."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq04",
+          "type": "short_answer",
+          "question": "Use a comma correctly in a list.",
+          "answer": "e.g., 'apples, pears, and plums'.",
+          "explanation": "Serial list commas."
+        }
+      ]
+    }
+  ]
+}

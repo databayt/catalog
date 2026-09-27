@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq01",
+      "type": "mcq",
+      "question": "Transcendentalism emphasized:",
+      "options": [
+        "industry",
+        "individualism and nature",
+        "monarchy",
+        "warfare"
+      ],
+      "answer": "individualism and nature",
+      "explanation": "Emerson/Thoreau."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq02",
+      "type": "true_false",
+      "question": "The Harlem Renaissance celebrated African American culture.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1920s movement."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq03",
+      "type": "fill_blank",
+      "question": "Writing that depicts life realistically is ___.",
+      "answer": "realism",
+      "explanation": "Literary realism."
+    },
+    {
+      "id": "g11-eng-unit-01-american-lit-01-movements-lq04",
+      "type": "short_answer",
+      "question": "Name one American literary movement and a trait.",
+      "answer": "e.g., Romanticism — emphasis on emotion and nature.",
+      "explanation": "Movements."
+    }
+  ]
+}

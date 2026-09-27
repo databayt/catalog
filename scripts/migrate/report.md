@@ -14,11 +14,10 @@ From `/Users/abdout/hogwarts/curriculum` → the repo root (= catalog/ on the CD
 | binaries | 5462 |
 | scratch dirs → .work/ | 41 |
 | subject renames | 249 |
-| chapter renames | 1029 |
-| lesson renames | 98 |
+| chapter renames | 1624 |
+| lesson renames | 5592 |
 | placeholder questions dropped ("Question N about …") | 3194 |
 | questions dropped (no question or answer) | 12 |
-| topic fallbacks (Arabic-only title, no English topic) | 0 |
 | errors | 0 |
 
 ## Errors

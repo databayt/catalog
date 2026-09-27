@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "chemistry",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g10-che-unit-01-atomic-exam",
+      "title": "Exam: Atomic Structure & the Periodic Table",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq01",
+          "type": "mcq",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "proton",
+            "neutron",
+            "electron",
+            "nucleus"
+          ],
+          "answer": "electron",
+          "explanation": "Negative charge."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq02",
+          "type": "true_false",
+          "question": "Protons and neutrons are found in the nucleus.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Nucleus contents."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq03",
+          "type": "fill_blank",
+          "question": "The atomic number equals the number of ___.",
+          "answer": "protons",
+          "explanation": "Defines element."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq04",
+          "type": "short_answer",
+          "question": "What determines an element's identity?",
+          "answer": "Its number of protons (atomic number).",
+          "explanation": "Atomic number."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-02-periodic-table-lq01",
+          "type": "mcq",
+          "question": "Elements in a group have the same number of:",
+          "options": [
+            "protons",
+            "valence electrons",
+            "neutrons",
+            "isotopes"
+          ],
+          "answer": "valence electrons",
+          "explanation": "Group property."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-02-periodic-table-lq02",
+          "type": "true_false",
+          "question": "Reactivity trends can be predicted from the periodic table.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Periodicity."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-02-periodic-table-lq03",
+          "type": "fill_blank",
+          "question": "Rows of the periodic table are called ___.",
+          "answer": "periods",
+          "explanation": "Horizontal rows."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-02-periodic-table-lq04",
+          "type": "short_answer",
+          "question": "Why do elements in a group behave similarly?",
+          "answer": "They have the same number of valence electrons.",
+          "explanation": "Group behavior."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "chemistry",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-che-unit-01-atomic-02-periodic-table-lq01",
+      "type": "mcq",
+      "question": "Elements in a group have the same number of:",
+      "options": [
+        "protons",
+        "valence electrons",
+        "neutrons",
+        "isotopes"
+      ],
+      "answer": "valence electrons",
+      "explanation": "Group property."
+    },
+    {
+      "id": "g10-che-unit-01-atomic-02-periodic-table-lq02",
+      "type": "true_false",
+      "question": "Reactivity trends can be predicted from the periodic table.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Periodicity."
+    },
+    {
+      "id": "g10-che-unit-01-atomic-02-periodic-table-lq03",
+      "type": "fill_blank",
+      "question": "Rows of the periodic table are called ___.",
+      "answer": "periods",
+      "explanation": "Horizontal rows."
+    },
+    {
+      "id": "g10-che-unit-01-atomic-02-periodic-table-lq04",
+      "type": "short_answer",
+      "question": "Why do elements in a group behave similarly?",
+      "answer": "They have the same number of valence electrons.",
+      "explanation": "Group behavior."
+    }
+  ]
+}

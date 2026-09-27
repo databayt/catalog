@@ -9,16 +9,18 @@
  * Only changed objects are uploaded (MD5 vs the bucket's ETag), and the
  * CloudFront paths that changed are invalidated — collapsed to one wildcard
  * per subject so a big publish stays a handful of invalidation paths.
- * Nothing is ever deleted: a renamed path leaves its old key live.
+ * Nothing is deleted unless --prune is passed, and then only text keys the
+ * catalog itself wrote. Pre-catalog keys are never deleted.
  *
  *   pnpm publish:cdn                        dry run: list what would change
  *   pnpm publish:cdn --apply                upload new + changed catalog keys, invalidate
  *   pnpm publish:cdn --apply --overwrite    also replace pre-catalog keys (see CATALOG_EPOCH)
+ *   pnpm publish:cdn --apply --prune        also delete catalog-owned text keys the repo no longer has
  *   pnpm publish:cdn --apply sd gb          limit to some curricula
  */
 
 import { CloudFrontClient, CreateInvalidationCommand } from "@aws-sdk/client-cloudfront"
-import { PutObjectCommand } from "@aws-sdk/client-s3"
+import { DeleteObjectsCommand, PutObjectCommand } from "@aws-sdk/client-s3"
 import { createHash } from "node:crypto"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
@@ -76,12 +78,25 @@ const owned = files.filter(
 const foreign = files.filter(({ key, file }) => remote.get(key)?.foreign && differs(key, file))
 const changed = [...fresh, ...owned, ...(overwrite ? foreign : [])]
 
+// --prune: catalog-owned text keys the repo no longer has (a renamed folder's
+// old copy). Pre-catalog keys and binaries are never pruned.
+const prune = process.argv.includes("--prune")
+const current = new Set(files.map((f) => f.key))
+const orphans = prune
+  ? [...remote]
+      .filter(([key, o]) => !o.foreign && /\.(json|md)$/.test(key) && !current.has(key))
+      .filter(([key]) => !only.length || only.some((c) => key.startsWith(`catalog/${c}/`)))
+      .map(([key]) => key)
+  : []
+
 console.log(
-  `${files.length} text files · ${fresh.length} new · ${owned.length} updated · ${foreign.length} pre-catalog keys differ${overwrite ? " (replacing)" : " (kept — pass --overwrite to replace)"}${apply ? "" : " — dry run, pass --apply"}`
+  `${files.length} text files · ${fresh.length} new · ${owned.length} updated · ${foreign.length} pre-catalog keys differ${overwrite ? " (replacing)" : " (kept — pass --overwrite to replace)"}${prune ? ` · ${orphans.length} orphans to delete` : ""}${apply ? "" : " — dry run, pass --apply"}`
 )
 if (!apply) {
   for (const c of changed.slice(0, 30)) console.log(`  ${c.key}`)
   if (changed.length > 30) console.log(`  … ${changed.length - 30} more`)
+  for (const k of orphans.slice(0, 10)) console.log(`  delete ${k}`)
+  if (orphans.length > 10) console.log(`  … ${orphans.length - 10} more to delete`)
   process.exit(0)
 }
 
@@ -101,9 +116,20 @@ await pool(changed, 16, async ({ key, file }) => {
 })
 console.log(`uploaded ${done}`)
 
+for (let i = 0; i < orphans.length; i += 1000) {
+  const batch = orphans.slice(i, i + 1000)
+  await s3.send(
+    new DeleteObjectsCommand({
+      Bucket: BUCKET,
+      Delete: { Objects: batch.map((Key) => ({ Key })), Quiet: true },
+    })
+  )
+}
+if (orphans.length) console.log(`deleted ${orphans.length} orphan(s)`)
+
 // Collapse to subject-level wildcards (or the file itself above subject level).
 const paths = new Set<string>()
-for (const { key } of changed) {
+for (const key of [...changed.map((c) => c.key), ...orphans]) {
   const parts = key.split("/")
   paths.add(parts.length > 5 ? `/${parts.slice(0, 4).join("/")}/*` : `/${key}`)
 }

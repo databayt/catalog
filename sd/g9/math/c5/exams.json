@@ -1,0 +1,234 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c5"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-05-quiz",
+      "title": "اختبار - ضرب وتحليل المقادير الجبرية",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q01",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x - 3)؟",
+          "options": [
+            "x² - 9",
+            "x² + 9",
+            "x² - 6x + 9",
+            "x² + 6x - 9"
+          ],
+          "answer": "x² - 9",
+          "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+        },
+        {
+          "id": "g9-mat-unit-05-01-multiplying-algebraic-expressions-q02",
+          "type": "true_false",
+          "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+        },
+        {
+          "id": "g9-mat-unit-05-02-factoring-algebraic-expression-q01",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x - 3)؟",
+          "options": [
+            "x² - 9",
+            "x² + 9",
+            "x² - 6x + 9",
+            "x² + 6x - 9"
+          ],
+          "answer": "x² - 9",
+          "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+        },
+        {
+          "id": "g9-mat-unit-05-02-factoring-algebraic-expression-q02",
+          "type": "true_false",
+          "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+        },
+        {
+          "id": "g9-mat-unit-05-03-common-factor-q01",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x - 3)؟",
+          "options": [
+            "x² - 9",
+            "x² + 9",
+            "x² - 6x + 9",
+            "x² + 6x - 9"
+          ],
+          "answer": "x² - 9",
+          "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+        },
+        {
+          "id": "g9-mat-unit-05-03-common-factor-q02",
+          "type": "true_false",
+          "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+        },
+        {
+          "id": "g9-mat-unit-05-04-relation-x-minus-y-q01",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x - 3)؟",
+          "options": [
+            "x² - 9",
+            "x² + 9",
+            "x² - 6x + 9",
+            "x² + 6x - 9"
+          ],
+          "answer": "x² - 9",
+          "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+        },
+        {
+          "id": "g9-mat-unit-05-04-relation-x-minus-y-q02",
+          "type": "true_false",
+          "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+        },
+        {
+          "id": "g9-mat-unit-05-05-relation-and-common-factor-q01",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x - 3)؟",
+          "options": [
+            "x² - 9",
+            "x² + 9",
+            "x² - 6x + 9",
+            "x² + 6x - 9"
+          ],
+          "answer": "x² - 9",
+          "explanation": "(x+a)(x-a) = x² - a²، هنا a=3."
+        },
+        {
+          "id": "g9-mat-unit-05-05-relation-and-common-factor-q02",
+          "type": "true_false",
+          "question": "كثير الحدود 3x² - 2x + 1 درجته 2.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "درجة كثير الحدود هي أعلى قوة للمتغير = 2."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-c5-1",
+      "title": "ضرب وتحليل المقادير الجبرية",
+      "kind": "test",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "039cb2a3",
+          "type": "mcq",
+          "question": "ما ناتج (x + 3)(x + 2)؟",
+          "options": [
+            "x² + 5x + 6",
+            "x² + 6x + 5",
+            "x² + 5x + 5",
+            "x² + 6x + 6"
+          ],
+          "answer": "x² + 5x + 6",
+          "explanation": "بفك الأقواس: x² + 2x + 3x + 6 = x² + 5x + 6"
+        },
+        {
+          "id": "ebc6ebe8",
+          "type": "fill_blank",
+          "question": "التحليل باستخراج العامل المشترك من 2x + 4 يعطي ___",
+          "answer": "2(x + 2)",
+          "explanation": "العامل المشترك الأكبر هو 2"
+        },
+        {
+          "id": "3a099eaa",
+          "type": "true_false",
+          "question": "المربع الكامل للمقدار (x + 3)² = x² + 6x + 9",
+          "answer": true,
+          "explanation": "توسيع المربع الكامل: x² + 2(3)x + 3² = x² + 6x + 9"
+        },
+        {
+          "id": "296f1af8",
+          "type": "short_answer",
+          "question": "حلل: x² - 25",
+          "answer": "(x - 5)(x + 5)",
+          "explanation": "هذا فرق بين مربعين: x² - 5² = (x-5)(x+5)"
+        },
+        {
+          "id": "e26e364b",
+          "type": "mcq",
+          "question": "ما تحليل x² + 5x + 6؟",
+          "options": [
+            "(x+1)(x+6)",
+            "(x+2)(x+3)",
+            "(x+2)(x+4)",
+            "(x+3)(x+3)"
+          ],
+          "answer": "(x+2)(x+3)",
+          "explanation": "نحتاج عددين حاصل ضربهما 6 ومجموعهما 5: هما 2 و 3"
+        },
+        {
+          "id": "80c26d76",
+          "type": "true_false",
+          "question": "العلاقة (س - ص) = -(ص - س)",
+          "answer": true,
+          "explanation": "طرح العكسين يعطي سالب المقدار"
+        },
+        {
+          "id": "becdd154",
+          "type": "fill_blank",
+          "question": "تحليل x² - 9 = (x - 3)___",
+          "answer": "(x + 3)",
+          "explanation": "فرق بين مربعين: (x-3)(x+3)"
+        },
+        {
+          "id": "02c260f5",
+          "type": "short_answer",
+          "question": "حلل: x² + 4x + 4",
+          "answer": "(x + 2)²",
+          "explanation": "هذا مربع كامل: (x+2)² = x² + 4x + 4"
+        },
+        {
+          "id": "682631c9",
+          "type": "mcq",
+          "question": "حاصل ضرب (2x + 3)(x - 1) يساوي:",
+          "options": [
+            "2x² + x - 3",
+            "2x² + x + 3",
+            "2x² - x - 3",
+            "2x² - x + 3"
+          ],
+          "answer": "2x² + x - 3",
+          "explanation": "2x² - 2x + 3x - 3 = 2x² + x - 3"
+        },
+        {
+          "id": "d23a046a",
+          "type": "true_false",
+          "question": "x³ - 8 = (x - 2)(x² + 2x + 4)",
+          "answer": true,
+          "explanation": "فرق بين مكعبين: a³ - b³ = (a-b)(a² + ab + b²)"
+        }
+      ]
+    }
+  ]
+}

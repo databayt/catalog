@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "history",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq01",
+      "type": "mcq",
+      "question": "Ancient Egypt grew along the river:",
+      "options": [
+        "Thames",
+        "Nile",
+        "Amazon",
+        "Tigris"
+      ],
+      "answer": "Nile",
+      "explanation": "Nile civilisation."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq02",
+      "type": "true_false",
+      "question": "The Egyptians built pyramids as tombs for pharaohs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Royal tombs."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq03",
+      "type": "fill_blank",
+      "question": "The Egyptian ruler was called a ___.",
+      "answer": "pharaoh",
+      "explanation": "Pharaoh."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-01-egypt-life-lq04",
+      "type": "short_answer",
+      "question": "Why was the River Nile important to Egypt?",
+      "answer": "Its floods enriched the soil for farming and provided water and transport.",
+      "explanation": "Nile's role."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq01",
+      "type": "mcq",
+      "question": "Egyptian picture writing is called:",
+      "options": [
+        "hieroglyphs",
+        "emoji",
+        "Latin",
+        "runes"
+      ],
+      "answer": "hieroglyphs",
+      "explanation": "Hieroglyphic script."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq02",
+      "type": "true_false",
+      "question": "Egyptians preserved bodies as mummies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Mummification."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq03",
+      "type": "fill_blank",
+      "question": "The Egyptians believed in many gods, so they were ___.",
+      "answer": "polytheistic",
+      "explanation": "Many gods."
+    },
+    {
+      "id": "g3-his-unit-02-ancient-egypt-02-egypt-writing-lq04",
+      "type": "short_answer",
+      "question": "How do we know about Ancient Egyptian beliefs?",
+      "answer": "From tomb paintings, artefacts and hieroglyphic writing.",
+      "explanation": "Evidence."
+    }
+  ]
+}

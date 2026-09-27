@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-gravitational-fields-circular-motion-and-the",
+      "slug": "c1",
       "title": {
         "ar": "المجال التثاقلي والحركة الدائرية وحركة الكواكب والأقمار الاصطناعية",
         "en": "Gravitational Fields, Circular Motion and the Motion of Planets and Satellites"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-gravitational-field",
+          "slug": "l1",
           "title": {
             "ar": "المجال التثاقلي (مجال الجاذبية)",
             "en": "The Gravitational Field"
@@ -72,7 +72,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-circular-motion",
+          "slug": "l2",
           "title": {
             "ar": "الحركة الدائرية",
             "en": "Circular Motion"
@@ -87,7 +87,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-motion-of-planets-and-satellites",
+          "slug": "l3",
           "title": {
             "ar": "حركة الكواكب والأقمار الاصطناعية",
             "en": "Motion of Planets and Satellites"
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "slug": "02-waves-and-light",
+      "slug": "c2",
       "title": {
         "ar": "الموجات والضوء",
         "en": "Waves and Light"
@@ -117,7 +117,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-simple-harmonic-motion",
+          "slug": "l1",
           "title": {
             "ar": "الحركة التوافقية البسيطة",
             "en": "Simple Harmonic Motion"
@@ -132,7 +132,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-waves",
+          "slug": "l2",
           "title": {
             "ar": "الموجات",
             "en": "Waves"
@@ -147,7 +147,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-light",
+          "slug": "l3",
           "title": {
             "ar": "الضوء",
             "en": "Light"
@@ -163,7 +163,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-refraction",
+          "slug": "l4",
           "title": {
             "ar": "الانكسار",
             "en": "Refraction"
@@ -179,7 +179,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-lenses",
+          "slug": "l5",
           "title": {
             "ar": "العدسات",
             "en": "Lenses"
@@ -195,7 +195,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-optical-systems",
+          "slug": "l6",
           "title": {
             "ar": "المجموعات البصرية",
             "en": "Optical Systems"
@@ -211,7 +211,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-spherical-mirrors",
+          "slug": "l7",
           "title": {
             "ar": "المرايا الكرية",
             "en": "Spherical Mirrors"
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "slug": "03-magnetic-and-electric-fields",
+      "slug": "c3",
       "title": {
         "ar": "المجالات المغنطيسية والكهربية",
         "en": "Magnetic and Electric Fields"
@@ -241,7 +241,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-magnetism",
+          "slug": "l1",
           "title": {
             "ar": "المغنطيسية",
             "en": "Magnetism"
@@ -256,7 +256,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-static-electricity",
+          "slug": "l2",
           "title": {
             "ar": "الكهربية الساكنة",
             "en": "Static Electricity"
@@ -272,7 +272,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-current-electricity",
+          "slug": "l3",
           "title": {
             "ar": "الكهربية التيارية",
             "en": "Current Electricity"
@@ -288,7 +288,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-the-magnetic-field-of-an-electric-current",
+          "slug": "l4",
           "title": {
             "ar": "المجال المغنطيسي للتيار الكهربي",
             "en": "The Magnetic Field of an Electric Current"
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "slug": "04-the-atom-and-communications",
+      "slug": "c4",
       "title": {
         "ar": "الذرة والاتصالات",
         "en": "The Atom and Communications"
@@ -317,7 +317,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-atom",
+          "slug": "l1",
           "title": {
             "ar": "الذرة",
             "en": "The Atom"
@@ -333,7 +333,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-communications",
+          "slug": "l2",
           "title": {
             "ar": "الاتصالات",
             "en": "Communications"

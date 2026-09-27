@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "history",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g4-his-unit-01-roman-britain-02-roman-life-quiz",
+      "title": "Quiz: Roman Life & Legacy",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-his-unit-01-roman-britain-02-roman-life-lq01",
+          "type": "mcq",
+          "question": "A Roman town often had public baths and a:",
+          "options": [
+            "forum",
+            "spaceport",
+            "cinema",
+            "supermarket"
+          ],
+          "answer": "forum",
+          "explanation": "Forum = marketplace."
+        },
+        {
+          "id": "g4-his-unit-01-roman-britain-02-roman-life-lq02",
+          "type": "true_false",
+          "question": "Latin was the language of the Romans.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Roman language."
+        },
+        {
+          "id": "g4-his-unit-01-roman-britain-02-roman-life-lq03",
+          "type": "fill_blank",
+          "question": "Roman soldiers were organised into groups called ___.",
+          "answer": "legions",
+          "explanation": "Legions."
+        },
+        {
+          "id": "g4-his-unit-01-roman-britain-02-roman-life-lq04",
+          "type": "short_answer",
+          "question": "Why were Roman roads important?",
+          "answer": "They allowed fast movement of soldiers, trade and messages.",
+          "explanation": "Roads."
+        }
+      ]
+    }
+  ]
+}

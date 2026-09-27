@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-wellbeing",
+      "slug": "c1",
       "title": {
         "en": "Health & Wellbeing"
       },
       "lessons": [
         {
-          "slug": "01-healthy-living",
+          "slug": "l1",
           "title": {
             "en": "Healthy Living"
           }
         },
         {
-          "slug": "02-emotions",
+          "slug": "l2",
           "title": {
             "en": "Emotions & Mental Health"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-relationships",
+      "slug": "c2",
       "title": {
         "en": "Relationships & the Wider World"
       },
       "lessons": [
         {
-          "slug": "01-relationships",
+          "slug": "l1",
           "title": {
             "en": "Healthy Relationships"
           }
         },
         {
-          "slug": "02-money-world",
+          "slug": "l2",
           "title": {
             "en": "Money & Responsibility"
           }

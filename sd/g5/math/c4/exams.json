@@ -1,0 +1,138 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c4"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-04-quiz",
+      "title": "اختبار - النسبة والتناسب",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g5-mat-unit-04-01-ratio-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-04-01-ratio-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-04-02-ratio-properties-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-04-02-ratio-properties-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-04-03-proportion-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-04-03-proportion-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-04-04-word-problems-proportion-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-04-04-word-problems-proportion-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-04-05-scale-drawing-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-04-05-scale-drawing-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        }
+      ]
+    }
+  ]
+}

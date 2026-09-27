@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-us-regions",
+      "slug": "c1",
       "title": {
         "en": "Regions of the United States"
       },
       "lessons": [
         {
-          "slug": "01-regions",
+          "slug": "l1",
           "title": {
             "en": "US Regions & Geography"
           }
         },
         {
-          "slug": "02-states",
+          "slug": "l2",
           "title": {
             "en": "States & Capitals"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-native-peoples",
+      "slug": "c2",
       "title": {
         "en": "Native Peoples & Early History"
       },
       "lessons": [
         {
-          "slug": "01-native-peoples",
+          "slug": "l1",
           "title": {
             "en": "Native American Cultures"
           }
         },
         {
-          "slug": "02-exploration",
+          "slug": "l2",
           "title": {
             "en": "European Exploration"
           }

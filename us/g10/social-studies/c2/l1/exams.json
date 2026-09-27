@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-soc-unit-02-modern-era-01-cold-war-quiz",
+      "title": "Quiz: The Cold War",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq01",
+          "type": "mcq",
+          "question": "The Cold War was a rivalry between the US and the:",
+          "options": [
+            "USSR",
+            "UK",
+            "France",
+            "Japan"
+          ],
+          "answer": "USSR",
+          "explanation": "Superpowers."
+        },
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq02",
+          "type": "true_false",
+          "question": "The Cold War rarely involved direct fighting between the superpowers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cold conflict."
+        },
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq03",
+          "type": "fill_blank",
+          "question": "Europe was divided by the Iron ___.",
+          "answer": "Curtain",
+          "explanation": "East-West divide."
+        },
+        {
+          "id": "g10-soc-unit-02-modern-era-01-cold-war-lq04",
+          "type": "short_answer",
+          "question": "Name one feature of the Cold War.",
+          "answer": "e.g., arms race, proxy wars, or ideological rivalry.",
+          "explanation": "Cold War."
+        }
+      ]
+    }
+  ]
+}

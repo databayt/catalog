@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-north-america",
+      "slug": "c1",
       "title": {
         "ar": "قارة أمريكا الشمالية",
         "en": "North America"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-continent-of-north-america",
+          "slug": "l1",
           "title": {
             "ar": "قارة أمريكا الشمالية",
             "en": "The Continent of North America"
@@ -48,7 +48,7 @@
           "page": 2
         },
         {
-          "slug": "02-area",
+          "slug": "l2",
           "title": {
             "ar": "المساحة",
             "en": "Area"
@@ -56,7 +56,7 @@
           "page": 2
         },
         {
-          "slug": "03-structure-and-relief",
+          "slug": "l3",
           "title": {
             "ar": "البنية والتضاريس",
             "en": "Structure and Relief"
@@ -65,7 +65,7 @@
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "04-drainage",
+          "slug": "l4",
           "title": {
             "ar": "التصريف المائي",
             "en": "Drainage"
@@ -74,7 +74,7 @@
           "image": "clickview/middle-rivers-cover.jpg"
         },
         {
-          "slug": "05-climate",
+          "slug": "l5",
           "title": {
             "ar": "المناخ",
             "en": "Climate"
@@ -83,7 +83,7 @@
           "image": "clickview/middle-climate-and-weather-cover.jpg"
         },
         {
-          "slug": "06-natural-vegetation",
+          "slug": "l6",
           "title": {
             "ar": "النبات الطبيعي",
             "en": "Natural Vegetation"
@@ -92,7 +92,7 @@
           "image": "clickview/middle-jungles-forests-and-woods-cover.jpg"
         },
         {
-          "slug": "07-human-and-economic-geography-of-the-continent",
+          "slug": "l7",
           "title": {
             "ar": "جغرافية القارة البشرية والاقتصادية",
             "en": "Human and Economic Geography of the Continent"
@@ -101,7 +101,7 @@
           "image": "clickview/middle-population-and-urbanization-cover.jpg"
         },
         {
-          "slug": "08-canada",
+          "slug": "l8",
           "title": {
             "ar": "كندا",
             "en": "Canada"
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "slug": "02-south-america",
+      "slug": "c2",
       "title": {
         "ar": "قارة أمريكا الجنوبية",
         "en": "South America"
@@ -122,7 +122,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-geographical-and-astronomical-location",
+          "slug": "l1",
           "title": {
             "ar": "الموقع الجغرافي والفلكي",
             "en": "Geographical and Astronomical Location"
@@ -130,7 +130,7 @@
           "page": 65
         },
         {
-          "slug": "02-surface-features-and-relief",
+          "slug": "l2",
           "title": {
             "ar": "مظاهر السطح والتضاريس",
             "en": "Surface Features and Relief"
@@ -139,7 +139,7 @@
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "03-climate-and-natural-vegetation",
+          "slug": "l3",
           "title": {
             "ar": "المناخ والنبات الطبيعي",
             "en": "Climate and Natural Vegetation"
@@ -148,7 +148,7 @@
           "image": "clickview/middle-climate-and-weather-cover.jpg"
         },
         {
-          "slug": "04-water-resources",
+          "slug": "l4",
           "title": {
             "ar": "الموارد المائية",
             "en": "Water Resources"
@@ -157,7 +157,7 @@
           "image": "clickview/middle-water-in-the-world-cover.jpg"
         },
         {
-          "slug": "05-population-and-economic-activity",
+          "slug": "l5",
           "title": {
             "ar": "السكان والنشاط الاقتصادي",
             "en": "Population and Economic Activity"
@@ -166,7 +166,7 @@
           "image": "clickview/middle-population-and-urbanization-cover.jpg"
         },
         {
-          "slug": "06-the-republic-of-brazil",
+          "slug": "l6",
           "title": {
             "ar": "جمهورية البرازيل",
             "en": "The Republic of Brazil"
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "slug": "03-australia",
+      "slug": "c3",
       "title": {
         "ar": "قارة أستراليا",
         "en": "Australia"
@@ -187,7 +187,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-australia-a-general-study",
+          "slug": "l1",
           "title": {
             "ar": "قارة أستراليا: دراسة عامة",
             "en": "Australia: A General Study"
@@ -195,7 +195,7 @@
           "page": 104
         },
         {
-          "slug": "02-landforms-and-relief",
+          "slug": "l2",
           "title": {
             "ar": "أشكال السطح والتضاريس",
             "en": "Landforms and Relief"
@@ -204,7 +204,7 @@
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "03-water-resources",
+          "slug": "l3",
           "title": {
             "ar": "الموارد المائية",
             "en": "Water Resources"
@@ -213,7 +213,7 @@
           "image": "clickview/middle-water-in-the-world-cover.jpg"
         },
         {
-          "slug": "04-climate",
+          "slug": "l4",
           "title": {
             "ar": "المناخ",
             "en": "Climate"
@@ -222,7 +222,7 @@
           "image": "clickview/middle-climate-and-weather-cover.jpg"
         },
         {
-          "slug": "05-population",
+          "slug": "l5",
           "title": {
             "ar": "السكان",
             "en": "Population"

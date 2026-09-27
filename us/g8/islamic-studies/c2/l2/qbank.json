@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g8-isl-unit-02-muamalat-02-neighbours-lq01",
+      "type": "mcq",
+      "question": "الإسلام أوصى بحسن معاملة:",
+      "options": [
+        "الجار",
+        "البعيد فقط",
+        "الغريب فقط",
+        "لا أحد"
+      ],
+      "answer": "الجار",
+      "explanation": "حقوق الجار."
+    },
+    {
+      "id": "g8-isl-unit-02-muamalat-02-neighbours-lq02",
+      "type": "true_false",
+      "question": "للجار حقوق في الإسلام.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "حق الجوار."
+    },
+    {
+      "id": "g8-isl-unit-02-muamalat-02-neighbours-lq03",
+      "type": "fill_blank",
+      "question": "(ما زال جبريل يوصيني بالجار حتى ظننت أنه سيُ___).",
+      "answer": "ورّثه",
+      "explanation": "الحديث."
+    },
+    {
+      "id": "g8-isl-unit-02-muamalat-02-neighbours-lq04",
+      "type": "short_answer",
+      "question": "اذكر حقاً من حقوق الجار.",
+      "answer": "مثل: كف الأذى عنه ومساعدته.",
+      "explanation": "حقوق الجار."
+    }
+  ]
+}

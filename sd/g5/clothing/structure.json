@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-importance-of-clothing",
+      "slug": "c1",
       "title": {
         "ar": "أهمية الملابس",
         "en": "The Importance of Clothing"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-importance-of-clothes",
+          "slug": "l1",
           "title": {
             "ar": "أهمية الملابس",
             "en": "The Importance of Clothes"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-customs-and-clothing-differences",
+          "slug": "l2",
           "title": {
             "ar": "أثر العادات والتقاليد في اختلاف الملابس",
             "en": "The Effect of Customs and Traditions on Clothing Differences"
@@ -48,7 +48,7 @@
           "page": 9
         },
         {
-          "slug": "03-islamic-dress",
+          "slug": "l3",
           "title": {
             "ar": "الملبس الشرعي",
             "en": "Islamic (Lawful) Dress"
@@ -57,7 +57,7 @@
           "image": "clickview/elementary-islam-cover.jpg"
         },
         {
-          "slug": "04-clothing-materials",
+          "slug": "l4",
           "title": {
             "ar": "خامات الملابس",
             "en": "Clothing Materials"
@@ -66,7 +66,7 @@
           "image": "clickview/elementary-materials-in-design-cover.jpg"
         },
         {
-          "slug": "05-cotton",
+          "slug": "l5",
           "title": {
             "ar": "القطن",
             "en": "Cotton"
@@ -74,7 +74,7 @@
           "page": 25
         },
         {
-          "slug": "06-agricultural-operations",
+          "slug": "l6",
           "title": {
             "ar": "العمليات الزراعية",
             "en": "Agricultural Operations"
@@ -82,7 +82,7 @@
           "page": 29
         },
         {
-          "slug": "07-cotton-pests",
+          "slug": "l7",
           "title": {
             "ar": "آفات القطن",
             "en": "Cotton Pests"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "slug": "02-clothing-manufacture",
+      "slug": "c2",
       "title": {
         "ar": "صناعة الملابس",
         "en": "Clothing Manufacture"
@@ -103,7 +103,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-ginning",
+          "slug": "l1",
           "title": {
             "ar": "الحلج",
             "en": "Ginning"
@@ -111,7 +111,7 @@
           "page": 39
         },
         {
-          "slug": "02-cotton-spinning",
+          "slug": "l2",
           "title": {
             "ar": "غزل القطن",
             "en": "Cotton Spinning"
@@ -119,7 +119,7 @@
           "page": 44
         },
         {
-          "slug": "03-weaving",
+          "slug": "l3",
           "title": {
             "ar": "النسج",
             "en": "Weaving"
@@ -127,7 +127,7 @@
           "page": 47
         },
         {
-          "slug": "04-fabrics",
+          "slug": "l4",
           "title": {
             "ar": "الأقمشة",
             "en": "Fabrics"
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "slug": "03-tailoring-and-embroidery",
+      "slug": "c3",
       "title": {
         "ar": "تفصيل الملابس وتطريزها",
         "en": "Tailoring and Embroidering Clothes"
@@ -148,7 +148,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-tailoring-clothes",
+          "slug": "l1",
           "title": {
             "ar": "تفصيل الملابس",
             "en": "Tailoring Clothes"
@@ -156,7 +156,7 @@
           "page": 60
         },
         {
-          "slug": "02-cutting-a-small-boys-garment",
+          "slug": "l2",
           "title": {
             "ar": "قص لباس لولد صغير",
             "en": "Cutting a Garment for a Small Boy"
@@ -164,7 +164,7 @@
           "page": 64
         },
         {
-          "slug": "03-cutting-a-childs-apron",
+          "slug": "l3",
           "title": {
             "ar": "قص (مريلة) لطفل صغير",
             "en": "Cutting an Apron (Maryala) for a Small Child"
@@ -172,7 +172,7 @@
           "page": 65
         },
         {
-          "slug": "04-cutting-a-simple-girls-dress",
+          "slug": "l4",
           "title": {
             "ar": "قص فستان طفلة مبسط",
             "en": "Cutting a Simple Dress for a Small Girl"
@@ -180,7 +180,7 @@
           "page": 71
         },
         {
-          "slug": "05-quick-stitches",
+          "slug": "l5",
           "title": {
             "ar": "الغرز السريعة",
             "en": "Quick Stitches"
@@ -188,7 +188,7 @@
           "page": 73
         },
         {
-          "slug": "06-sewing-machine-parts",
+          "slug": "l6",
           "title": {
             "ar": "أجزاء ماكينة الخياطة",
             "en": "Parts of the Sewing Machine"
@@ -196,7 +196,7 @@
           "page": 77
         },
         {
-          "slug": "07-embroidery",
+          "slug": "l7",
           "title": {
             "ar": "التطريز",
             "en": "Embroidery"
@@ -204,7 +204,7 @@
           "page": 77
         },
         {
-          "slug": "08-knitting-and-crochet",
+          "slug": "l8",
           "title": {
             "ar": "التريكو والتشبيك",
             "en": "Knitting and Crochet"
@@ -212,7 +212,7 @@
           "page": 85
         },
         {
-          "slug": "09-making-a-cap",
+          "slug": "l9",
           "title": {
             "ar": "عمل طاقية",
             "en": "Making a Cap"
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "slug": "04-clothing-hygiene",
+      "slug": "c4",
       "title": {
         "ar": "نظافة الملابس",
         "en": "Clothing Hygiene"
@@ -233,7 +233,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-clean-clothes",
+          "slug": "l1",
           "title": {
             "ar": "نظافة الملابس",
             "en": "Clean Clothes"
@@ -241,7 +241,7 @@
           "page": 91
         },
         {
-          "slug": "02-soap",
+          "slug": "l2",
           "title": {
             "ar": "الصابون",
             "en": "Soap"
@@ -249,7 +249,7 @@
           "page": 93
         },
         {
-          "slug": "03-water-and-soap-in-hygiene",
+          "slug": "l3",
           "title": {
             "ar": "أهمية الماء والصابون في النظافة",
             "en": "The Importance of Water and Soap in Hygiene"
@@ -257,7 +257,7 @@
           "page": 97
         },
         {
-          "slug": "04-laundry-containers",
+          "slug": "l4",
           "title": {
             "ar": "أواني الغسيل",
             "en": "Laundry Containers"
@@ -265,7 +265,7 @@
           "page": 99
         },
         {
-          "slug": "05-washing-cotton-clothes",
+          "slug": "l5",
           "title": {
             "ar": "غسل الملابس القطنية",
             "en": "Washing Cotton Clothes"
@@ -273,7 +273,7 @@
           "page": 102
         },
         {
-          "slug": "06-stain-removal",
+          "slug": "l6",
           "title": {
             "ar": "إزالة البقع",
             "en": "Stain Removal"
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "slug": "05-footwear",
+      "slug": "c5",
       "title": {
         "ar": "الأحذية",
         "en": "Footwear"
@@ -294,7 +294,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-shoes",
+          "slug": "l1",
           "title": {
             "ar": "الأحذية",
             "en": "Shoes"
@@ -302,7 +302,7 @@
           "page": 111
         },
         {
-          "slug": "02-leather-shoe-making",
+          "slug": "l2",
           "title": {
             "ar": "صناعة الأحذية الجلدية",
             "en": "Leather Shoe Making"
@@ -310,7 +310,7 @@
           "page": 113
         },
         {
-          "slug": "03-shoemaking-tools",
+          "slug": "l3",
           "title": {
             "ar": "أدوات صناعة الأحذية",
             "en": "Shoemaking Tools"
@@ -318,7 +318,7 @@
           "page": 116
         },
         {
-          "slug": "04-making-a-shoe",
+          "slug": "l4",
           "title": {
             "ar": "صناعة الحذاء",
             "en": "Making a Shoe"

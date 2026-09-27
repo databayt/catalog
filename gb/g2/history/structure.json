@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-great-fire",
+      "slug": "c1",
       "title": {
         "en": "The Great Fire of London"
       },
       "lessons": [
         {
-          "slug": "01-great-fire",
+          "slug": "l1",
           "title": {
             "en": "The Great Fire of London (1666)"
           }
         },
         {
-          "slug": "02-significant-events",
+          "slug": "l2",
           "title": {
             "en": "Remembering Events"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-significant-people",
+      "slug": "c2",
       "title": {
         "en": "Significant People & Places"
       },
       "lessons": [
         {
-          "slug": "01-monarchs",
+          "slug": "l1",
           "title": {
             "en": "Kings and Queens"
           }
         },
         {
-          "slug": "02-local-history",
+          "slug": "l2",
           "title": {
             "en": "Our Local History"
           }

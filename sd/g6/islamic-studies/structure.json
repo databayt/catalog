@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-quran-surahs",
+      "slug": "c1",
       "title": {
         "ar": "سور من القرآن الكريم",
         "en": "Surahs from the Holy Quran"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-tajweed",
+          "slug": "l1",
           "title": {
             "ar": "علم التجويد",
             "en": "The Science of Tajweed"
@@ -41,7 +41,7 @@
           "image": "clickview/middle-sound-cover.jpg"
         },
         {
-          "slug": "02-surat-an-najm",
+          "slug": "l2",
           "title": {
             "ar": "سورة النجم",
             "en": "Surat An-Najm"
@@ -49,7 +49,7 @@
           "page": 8
         },
         {
-          "slug": "03-surat-ar-rahman",
+          "slug": "l3",
           "title": {
             "ar": "سورة الرحمن",
             "en": "Surat Ar-Rahman"
@@ -57,7 +57,7 @@
           "page": 20
         },
         {
-          "slug": "04-surat-al-waqiah",
+          "slug": "l4",
           "title": {
             "ar": "سورة الواقعة",
             "en": "Surat Al-Waqi'ah"
@@ -65,7 +65,7 @@
           "page": 30
         },
         {
-          "slug": "05-surat-al-qamar",
+          "slug": "l5",
           "title": {
             "ar": "سورة القمر",
             "en": "Surat Al-Qamar"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "slug": "02-quran-sciences",
+      "slug": "c2",
       "title": {
         "ar": "من علوم القرآن الكريم",
         "en": "From the Sciences of the Quran"
@@ -86,7 +86,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-virtue-of-memorizing-quran",
+          "slug": "l1",
           "title": {
             "ar": "فضل حفظ القرآن",
             "en": "The Virtue of Memorizing the Quran"
@@ -95,7 +95,7 @@
           "image": "clickview/middle-study-skills-cover.jpg"
         },
         {
-          "slug": "02-miracle-splitting-of-the-moon",
+          "slug": "l2",
           "title": {
             "ar": "معجزة انشقاق القمر للنبي صلى الله عليه وسلم",
             "en": "The Miracle of the Splitting of the Moon"
@@ -104,7 +104,7 @@
           "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
         },
         {
-          "slug": "03-emotive-inimitability-of-quran",
+          "slug": "l3",
           "title": {
             "ar": "الإعجاز التأثيري للقرآن الكريم",
             "en": "The Emotive Inimitability of the Quran"
@@ -112,7 +112,7 @@
           "page": 44
         },
         {
-          "slug": "04-story-of-people-of-lut",
+          "slug": "l4",
           "title": {
             "ar": "قصة قوم سيدنا لوط عليه السلام",
             "en": "The Story of the People of Prophet Lut"
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "slug": "03-prophetic-hadith",
+      "slug": "c3",
       "title": {
         "ar": "من الحديث النبوي الشريف",
         "en": "From the Noble Prophetic Hadith"
@@ -133,7 +133,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sanctity-of-the-believer",
+          "slug": "l1",
           "title": {
             "ar": "عظمة المؤمن وحرمته",
             "en": "The Greatness and Sanctity of the Believer"
@@ -141,7 +141,7 @@
           "page": 51
         },
         {
-          "slug": "02-persistent-jahili-customs",
+          "slug": "l2",
           "title": {
             "ar": "من عادات الجاهلية المستمرة",
             "en": "Persistent Customs of the Jahiliyyah"
@@ -149,7 +149,7 @@
           "page": 54
         },
         {
-          "slug": "03-islam-forbids-tribalism-racism",
+          "slug": "l3",
           "title": {
             "ar": "تحريم الإسلام للعصبية والعنصرية",
             "en": "Islam's Prohibition of Tribalism and Racism"
@@ -157,7 +157,7 @@
           "page": 57
         },
         {
-          "slug": "04-love-for-the-sake-of-allah",
+          "slug": "l4",
           "title": {
             "ar": "الحب في الله",
             "en": "Love for the Sake of Allah"
@@ -166,7 +166,7 @@
           "image": "clickview/middle-friendship-cover.jpg"
         },
         {
-          "slug": "05-independence-of-opinion",
+          "slug": "l5",
           "title": {
             "ar": "استقلال الرأي من منهج الإسلام",
             "en": "Independence of Opinion in the Islamic Method"
@@ -175,7 +175,7 @@
           "image": "clickview/middle-decision-making-cover.jpg"
         },
         {
-          "slug": "06-counsels-of-the-prophet",
+          "slug": "l6",
           "title": {
             "ar": "من وصايا النبي صلى الله عليه وسلم",
             "en": "From the Counsels of the Prophet ﷺ"
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "slug": "04-creed",
+      "slug": "c4",
       "title": {
         "ar": "العقيدة",
         "en": "Creed (Aqeedah)"
@@ -196,7 +196,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-names-of-allah-1",
+          "slug": "l1",
           "title": {
             "ar": "من أسماء الله الحسنى (1)",
             "en": "From the Beautiful Names of Allah (1)"
@@ -204,7 +204,7 @@
           "page": 69
         },
         {
-          "slug": "02-names-of-allah-2",
+          "slug": "l2",
           "title": {
             "ar": "من أسماء الله الحسنى (2)",
             "en": "From the Beautiful Names of Allah (2)"
@@ -212,7 +212,7 @@
           "page": 70
         },
         {
-          "slug": "03-names-of-allah-3",
+          "slug": "l3",
           "title": {
             "ar": "من أسماء الله الحسنى (3)",
             "en": "From the Beautiful Names of Allah (3)"
@@ -220,7 +220,7 @@
           "page": 71
         },
         {
-          "slug": "04-belief-in-punishment-of-the-grave",
+          "slug": "l4",
           "title": {
             "ar": "الإيمان بعذاب القبر",
             "en": "Belief in the Punishment of the Grave"
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "slug": "05-fiqh",
+      "slug": "c5",
       "title": {
         "ar": "الفقه",
         "en": "Jurisprudence (Fiqh)"
@@ -241,7 +241,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-obligations-and-sunnahs-of-prayer",
+          "slug": "l1",
           "title": {
             "ar": "فرائض وسنن الصلاة",
             "en": "Obligations and Sunnahs of Prayer"
@@ -249,7 +249,7 @@
           "page": 78
         },
         {
-          "slug": "02-invalidators-of-prayer",
+          "slug": "l2",
           "title": {
             "ar": "مبطلات الصلاة",
             "en": "Invalidators of Prayer"
@@ -257,7 +257,7 @@
           "page": 83
         },
         {
-          "slug": "03-disliked-acts-in-prayer",
+          "slug": "l3",
           "title": {
             "ar": "الأفعال التي تكره في الصلاة",
             "en": "Acts Disliked in Prayer"
@@ -265,7 +265,7 @@
           "page": 84
         },
         {
-          "slug": "04-friday-prayer",
+          "slug": "l4",
           "title": {
             "ar": "صلاة الجمعة",
             "en": "The Friday Prayer"
@@ -273,7 +273,7 @@
           "page": 86
         },
         {
-          "slug": "05-eid-prayers",
+          "slug": "l5",
           "title": {
             "ar": "صلاة العيدين",
             "en": "The Two Eid Prayers"
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "slug": "06-seerah-and-companions",
+      "slug": "c6",
       "title": {
         "ar": "من سيرة النبي والصحابة",
         "en": "From the Biography of the Prophet and the Companions"
@@ -294,7 +294,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-al-isra-wal-miraj",
+          "slug": "l1",
           "title": {
             "ar": "الإسراء والمعراج",
             "en": "Al-Isra' and Al-Mi'raj"
@@ -302,7 +302,7 @@
           "page": 95
         },
         {
-          "slug": "02-first-pledge-of-aqabah",
+          "slug": "l2",
           "title": {
             "ar": "بيعة العقبة الأولى",
             "en": "The First Pledge of Aqabah"
@@ -310,7 +310,7 @@
           "page": 100
         },
         {
-          "slug": "03-second-pledge-of-aqabah",
+          "slug": "l3",
           "title": {
             "ar": "بيعة العقبة الثانية",
             "en": "The Second Pledge of Aqabah"
@@ -318,7 +318,7 @@
           "page": 102
         },
         {
-          "slug": "04-abu-bakr-as-siddiq",
+          "slug": "l4",
           "title": {
             "ar": "أبو بكر الصديق (رضي الله عنه)",
             "en": "Abu Bakr As-Siddiq (may Allah be pleased with him)"
@@ -326,7 +326,7 @@
           "page": 105
         },
         {
-          "slug": "05-zayd-ibn-harithah",
+          "slug": "l5",
           "title": {
             "ar": "زيد بن حارثة (رضي الله عنه)",
             "en": "Zayd ibn Harithah (may Allah be pleased with him)"
@@ -334,7 +334,7 @@
           "page": 109
         },
         {
-          "slug": "06-abu-dharr-al-ghifari",
+          "slug": "l6",
           "title": {
             "ar": "أبوذر الغفاري",
             "en": "Abu Dharr Al-Ghifari"

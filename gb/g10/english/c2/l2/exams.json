@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-02-writing-02-narrative-quiz",
+      "title": "Quiz: Narrative Writing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-02-writing-02-narrative-lq01",
+          "type": "mcq",
+          "question": "A narrative hook is designed to:",
+          "options": [
+            "bore",
+            "engage the reader immediately",
+            "end the story",
+            "list facts"
+          ],
+          "answer": "engage the reader immediately",
+          "explanation": "Opening hook."
+        },
+        {
+          "id": "g10-eng-unit-02-writing-02-narrative-lq02",
+          "type": "true_false",
+          "question": "Crafting a clear structure improves a narrative.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Beginning/middle/end."
+        },
+        {
+          "id": "g10-eng-unit-02-writing-02-narrative-lq03",
+          "type": "fill_blank",
+          "question": "The voice telling the story is the ___.",
+          "answer": "narrator",
+          "explanation": "Narrative voice."
+        },
+        {
+          "id": "g10-eng-unit-02-writing-02-narrative-lq04",
+          "type": "short_answer",
+          "question": "Why plan a narrative before writing?",
+          "answer": "To ensure clear structure and a satisfying arc.",
+          "explanation": "Planning."
+        }
+      ]
+    }
+  ]
+}

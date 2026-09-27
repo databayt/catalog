@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-pillars-islam",
+      "slug": "c1",
       "title": {
         "ar": "أركان الإسلام"
       },
       "lessons": [
         {
-          "slug": "01-shahada",
+          "slug": "l1",
           "title": {
             "ar": "الشهادتان"
           }
         },
         {
-          "slug": "02-purity",
+          "slug": "l2",
           "title": {
             "ar": "الطهارة"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-manners",
+      "slug": "c2",
       "title": {
         "ar": "الآداب الإسلامية"
       },
       "lessons": [
         {
-          "slug": "01-adab",
+          "slug": "l1",
           "title": {
             "ar": "آداب السلام والطعام"
           }
         },
         {
-          "slug": "02-cleanliness",
+          "slug": "l2",
           "title": {
             "ar": "النظافة"
           }

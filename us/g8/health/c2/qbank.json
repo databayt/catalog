@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "health",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq01",
+      "type": "mcq",
+      "question": "A healthy way to cope with stress is to:",
+      "options": [
+        "talk to someone",
+        "bottle it up",
+        "skip sleep",
+        "isolate fully"
+      ],
+      "answer": "talk to someone",
+      "explanation": "Coping."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq02",
+      "type": "true_false",
+      "question": "Mental health is as important as physical health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Wellbeing."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq03",
+      "type": "fill_blank",
+      "question": "Sharing worries with a trusted person supports your ___ health.",
+      "answer": "mental",
+      "explanation": "Mental health."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-01-mental-health-lq04",
+      "type": "short_answer",
+      "question": "Name one healthy coping strategy.",
+      "answer": "e.g., talking to someone, exercise, or relaxation.",
+      "explanation": "Coping."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq01",
+      "type": "mcq",
+      "question": "Making healthy choices means thinking about the:",
+      "options": [
+        "consequences",
+        "fonts",
+        "prices only",
+        "weather"
+      ],
+      "answer": "consequences",
+      "explanation": "Decisions."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq02",
+      "type": "true_false",
+      "question": "Avoiding harmful substances protects your health.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Substance awareness."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq03",
+      "type": "fill_blank",
+      "question": "Thinking ahead about risks is making a safe ___.",
+      "answer": "decision",
+      "explanation": "Decision-making."
+    },
+    {
+      "id": "g8-hea-unit-02-wellbeing-02-safety-lq04",
+      "type": "short_answer",
+      "question": "Why think before making a health decision?",
+      "answer": "To choose options that keep you safe and healthy.",
+      "explanation": "Decision-making."
+    }
+  ]
+}

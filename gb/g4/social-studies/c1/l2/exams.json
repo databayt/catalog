@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g4-uae-unit-01-geography-02-landmarks-quiz",
+      "title": "Quiz: Famous Landmarks",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-uae-unit-01-geography-02-landmarks-lq01",
+          "type": "mcq",
+          "question": "Which famous landmark is in the UAE?",
+          "options": [
+            "Burj Khalifa",
+            "Eiffel Tower",
+            "Big Ben",
+            "Colosseum"
+          ],
+          "answer": "Burj Khalifa",
+          "explanation": "Dubai landmark."
+        },
+        {
+          "id": "g4-uae-unit-01-geography-02-landmarks-lq02",
+          "type": "true_false",
+          "question": "The Sheikh Zayed Grand Mosque is in Abu Dhabi.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Landmark."
+        },
+        {
+          "id": "g4-uae-unit-01-geography-02-landmarks-lq03",
+          "type": "fill_blank",
+          "question": "The world's tallest building is the Burj ___.",
+          "answer": "Khalifa",
+          "explanation": "Burj Khalifa."
+        },
+        {
+          "id": "g4-uae-unit-01-geography-02-landmarks-lq04",
+          "type": "short_answer",
+          "question": "Name one UAE landmark.",
+          "answer": "e.g., Burj Khalifa or Sheikh Zayed Grand Mosque.",
+          "explanation": "Landmarks."
+        }
+      ]
+    }
+  ]
+}

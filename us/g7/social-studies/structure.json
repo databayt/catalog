@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-world-history",
+      "slug": "c1",
       "title": {
         "en": "World History: Medieval to Early Modern"
       },
       "lessons": [
         {
-          "slug": "01-middle-ages",
+          "slug": "l1",
           "title": {
             "en": "The Middle Ages"
           }
         },
         {
-          "slug": "02-renaissance",
+          "slug": "l2",
           "title": {
             "en": "The Renaissance"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-world-regions",
+      "slug": "c2",
       "title": {
         "en": "World Regions & Cultures"
       },
       "lessons": [
         {
-          "slug": "01-regions",
+          "slug": "l1",
           "title": {
             "en": "Regions of the World"
           }
         },
         {
-          "slug": "02-trade-exchange",
+          "slug": "l2",
           "title": {
             "en": "Trade & Cultural Exchange"
           }

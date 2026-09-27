@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "physical-education",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g6-phy-unit-01-movement-01-locomotor-lq01",
+      "type": "mcq",
+      "question": "Which is a locomotor (travelling) skill?",
+      "options": [
+        "running",
+        "standing still",
+        "sitting",
+        "sleeping"
+      ],
+      "answer": "running",
+      "explanation": "Movement skill."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-01-locomotor-lq02",
+      "type": "true_false",
+      "question": "Warming up prepares the body for exercise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Warm-up."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-01-locomotor-lq03",
+      "type": "fill_blank",
+      "question": "Moving the body from one place to another uses ___ skills.",
+      "answer": "locomotor",
+      "explanation": "Locomotor."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-01-locomotor-lq04",
+      "type": "short_answer",
+      "question": "Why do we warm up before sport?",
+      "answer": "To prepare muscles and reduce the risk of injury.",
+      "explanation": "Warm-up."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-02-games-lq01",
+      "type": "mcq",
+      "question": "In a team game, players must:",
+      "options": [
+        "cooperate",
+        "play alone",
+        "ignore rules",
+        "stop moving"
+      ],
+      "answer": "cooperate",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-02-games-lq02",
+      "type": "true_false",
+      "question": "Following rules makes games fair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fair play."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-02-games-lq03",
+      "type": "fill_blank",
+      "question": "Working together with teammates is ___.",
+      "answer": "cooperation",
+      "explanation": "Teamwork."
+    },
+    {
+      "id": "g6-phy-unit-01-movement-02-games-lq04",
+      "type": "short_answer",
+      "question": "Name one rule that makes a game fair.",
+      "answer": "e.g., taking turns or not pushing others.",
+      "explanation": "Fair play."
+    }
+  ]
+}

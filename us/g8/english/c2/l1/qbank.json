@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g8-eng-unit-02-language-01-figurative-lq01",
+      "type": "mcq",
+      "question": "'Her smile was sunshine' is a:",
+      "options": [
+        "simile",
+        "metaphor",
+        "pun",
+        "fact"
+      ],
+      "answer": "metaphor",
+      "explanation": "Direct comparison."
+    },
+    {
+      "id": "g8-eng-unit-02-language-01-figurative-lq02",
+      "type": "true_false",
+      "question": "Tone is the author's attitude toward the subject.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Attitude/mood."
+    },
+    {
+      "id": "g8-eng-unit-02-language-01-figurative-lq03",
+      "type": "fill_blank",
+      "question": "A comparison using 'like' or 'as' is a ___.",
+      "answer": "simile",
+      "explanation": "Simile."
+    },
+    {
+      "id": "g8-eng-unit-02-language-01-figurative-lq04",
+      "type": "short_answer",
+      "question": "How does word choice affect tone?",
+      "answer": "Connotations of words create mood and attitude.",
+      "explanation": "Diction → tone."
+    }
+  ]
+}

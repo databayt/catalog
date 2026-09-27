@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading: Inference & Summary"
       },
       "lessons": [
         {
-          "slug": "01-inference",
+          "slug": "l1",
           "title": {
             "en": "Making Inferences"
           }
         },
         {
-          "slug": "02-summarizing",
+          "slug": "l2",
           "title": {
             "en": "Summarizing"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-language",
+      "slug": "c2",
       "title": {
         "en": "Language & Vocabulary"
       },
       "lessons": [
         {
-          "slug": "01-context-clues",
+          "slug": "l1",
           "title": {
             "en": "Context Clues"
           }
         },
         {
-          "slug": "02-prefixes-suffixes",
+          "slug": "l2",
           "title": {
             "en": "Prefixes & Suffixes"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-writing",
+      "slug": "c3",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-informative",
+          "slug": "l1",
           "title": {
             "en": "Informative Essays"
           }
         },
         {
-          "slug": "02-sentence-types",
+          "slug": "l2",
           "title": {
             "en": "Sentence Types"
           }

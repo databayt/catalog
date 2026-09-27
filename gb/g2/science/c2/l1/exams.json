@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g2-sci-unit-02-materials-01-properties-quiz",
+      "title": "Quiz: Material Properties",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq01",
+          "type": "mcq",
+          "question": "Glass is usually:",
+          "options": [
+            "transparent",
+            "soft",
+            "bendy",
+            "magnetic"
+          ],
+          "answer": "transparent",
+          "explanation": "See-through."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq02",
+          "type": "true_false",
+          "question": "Rubber is flexible.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Bends easily."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq03",
+          "type": "fill_blank",
+          "question": "Metal is a good ___ of heat.",
+          "answer": "conductor",
+          "explanation": "Conducts heat."
+        },
+        {
+          "id": "g2-sci-unit-02-materials-01-properties-lq04",
+          "type": "short_answer",
+          "question": "Why is wood used for furniture?",
+          "answer": "It is strong and easy to shape.",
+          "explanation": "Material choice."
+        }
+      ]
+    }
+  ]
+}

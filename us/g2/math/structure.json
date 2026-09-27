@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-place-value-1000",
+      "slug": "c1",
       "title": {
         "en": "Place Value to 1,000"
       },
       "lessons": [
         {
-          "slug": "01-hundreds-tens-ones",
+          "slug": "l1",
           "title": {
             "en": "Hundreds, Tens, and Ones"
           }
         },
         {
-          "slug": "02-comparing-3digit",
+          "slug": "l2",
           "title": {
             "en": "Comparing 3-Digit Numbers"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-add-sub-100",
+      "slug": "c2",
       "title": {
         "en": "Addition & Subtraction within 100"
       },
       "lessons": [
         {
-          "slug": "01-add-2digit",
+          "slug": "l1",
           "title": {
             "en": "Adding Two-Digit Numbers"
           }
         },
         {
-          "slug": "02-subtract-2digit",
+          "slug": "l2",
           "title": {
             "en": "Subtracting Two-Digit Numbers"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-measurement-time-money",
+      "slug": "c3",
       "title": {
         "en": "Measurement, Time & Money"
       },
       "lessons": [
         {
-          "slug": "01-length",
+          "slug": "l1",
           "title": {
             "en": "Measuring Length"
           }
         },
         {
-          "slug": "02-time-money",
+          "slug": "l2",
           "title": {
             "en": "Telling Time & Counting Money"
           }

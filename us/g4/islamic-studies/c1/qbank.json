@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "islamic-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq01",
+      "type": "mcq",
+      "question": "نصوم في شهر:",
+      "options": [
+        "رجب",
+        "شعبان",
+        "رمضان",
+        "محرم"
+      ],
+      "answer": "رمضان",
+      "explanation": "صيام رمضان."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq02",
+      "type": "true_false",
+      "question": "الصيام هو الامتناع عن الطعام والشراب من الفجر إلى المغرب.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف الصيام."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq03",
+      "type": "fill_blank",
+      "question": "صيام شهر ___ ركن من أركان الإسلام.",
+      "answer": "رمضان",
+      "explanation": "الصوم."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-01-sawm-lq04",
+      "type": "short_answer",
+      "question": "ما الحكمة من الصيام؟",
+      "answer": "تقوى الله والشعور بالفقراء وتهذيب النفس.",
+      "explanation": "حكمة الصيام."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-02-honesty-lq01",
+      "type": "mcq",
+      "question": "ضد الصدق هو:",
+      "options": [
+        "الأمانة",
+        "الكذب",
+        "الكرم",
+        "الصبر"
+      ],
+      "answer": "الكذب",
+      "explanation": "الصدق ضد الكذب."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-02-honesty-lq02",
+      "type": "true_false",
+      "question": "الأمانة خلق إسلامي حميد.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "من الأخلاق."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-02-honesty-lq03",
+      "type": "fill_blank",
+      "question": "قول الحق دائماً يسمى ___.",
+      "answer": "الصدق",
+      "explanation": "الصدق."
+    },
+    {
+      "id": "g4-isl-unit-01-zakat-sawm-02-honesty-lq04",
+      "type": "short_answer",
+      "question": "لماذا أمرنا الإسلام بالصدق؟",
+      "answer": "لأنه يبني الثقة ويهدي إلى الخير.",
+      "explanation": "الأخلاق."
+    }
+  ]
+}

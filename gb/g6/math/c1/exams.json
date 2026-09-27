@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g6-mat-unit-01-ratio-algebra-exam",
+      "title": "Exam: Ratio & Algebra",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq01",
+          "type": "mcq",
+          "question": "The ratio 2:4 simplifies to:",
+          "options": [
+            "1:2",
+            "2:1",
+            "1:4",
+            "4:2"
+          ],
+          "answer": "1:2",
+          "explanation": "Divide both by 2."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq02",
+          "type": "true_false",
+          "question": "A ratio compares two quantities.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Part-to-part."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq03",
+          "type": "fill_blank",
+          "question": "Share 12 in the ratio 1:2 → 4 and ___.",
+          "answer": "8",
+          "explanation": "3 parts: 4 and 8."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-01-ratio-lq04",
+          "type": "short_answer",
+          "question": "If 3 pens cost £6, what do 6 pens cost?",
+          "answer": "£12",
+          "explanation": "Double the amount."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq01",
+          "type": "mcq",
+          "question": "If x + 5 = 12, then x = ?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "17"
+          ],
+          "answer": "7",
+          "explanation": "12 - 5 = 7."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq02",
+          "type": "true_false",
+          "question": "A letter can stand for an unknown number.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Variable."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq03",
+          "type": "fill_blank",
+          "question": "2n where n = 4 equals ___.",
+          "answer": "8",
+          "explanation": "2 × 4."
+        },
+        {
+          "id": "g6-mat-unit-01-ratio-algebra-02-algebra-lq04",
+          "type": "short_answer",
+          "question": "Solve y - 3 = 10.",
+          "answer": "y = 13",
+          "explanation": "Add 3 to both sides."
+        }
+      ]
+    }
+  ]
+}

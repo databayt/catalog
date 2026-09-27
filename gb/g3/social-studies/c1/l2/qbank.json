@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g3-uae-unit-01-my-country-02-symbols-lq01",
+      "type": "mcq",
+      "question": "The UAE flag has how many colours?",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": "four",
+      "explanation": "Red, green, white, black."
+    },
+    {
+      "id": "g3-uae-unit-01-my-country-02-symbols-lq02",
+      "type": "true_false",
+      "question": "The national day of the UAE is celebrated on 2 December.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "UAE National Day."
+    },
+    {
+      "id": "g3-uae-unit-01-my-country-02-symbols-lq03",
+      "type": "fill_blank",
+      "question": "A country's flag is one of its national ___.",
+      "answer": "symbols",
+      "explanation": "Symbols."
+    },
+    {
+      "id": "g3-uae-unit-01-my-country-02-symbols-lq04",
+      "type": "short_answer",
+      "question": "Name one UAE national symbol.",
+      "answer": "e.g., the flag, the falcon, or the national anthem.",
+      "explanation": "Symbols."
+    }
+  ]
+}

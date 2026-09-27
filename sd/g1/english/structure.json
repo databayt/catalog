@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-hello",
+      "slug": "c1",
       "title": {
         "ar": "مرحباً",
         "en": "Hello!"
@@ -29,56 +29,56 @@
       "image": "clickview/elementary-communication-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "ar": "الدرس السادس",
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "ar": "الدرس السابع",
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "الدرس الثامن",
             "en": "Lesson 8"
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "slug": "02-numbers",
+      "slug": "c2",
       "title": {
         "ar": "الأرقام",
         "en": "Numbers"
@@ -96,56 +96,56 @@
       "image": "clickview/elementary-counting-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "ar": "الدرس السادس",
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "ar": "الدرس السابع",
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "الدرس الثامن",
             "en": "Lesson 8"
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "slug": "03-colours",
+      "slug": "c3",
       "title": {
         "ar": "الألوان",
         "en": "Colours"
@@ -163,56 +163,56 @@
       "image": "clickview/elementary-color-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "ar": "الدرس السادس",
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "ar": "الدرس السابع",
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "الدرس الثامن",
             "en": "Lesson 8"
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "slug": "04-about-me",
+      "slug": "c4",
       "title": {
         "ar": "عن نفسي",
         "en": "About Me"
@@ -230,56 +230,56 @@
       "image": "clickview/elementary-self-awareness-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "ar": "الدرس السادس",
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "ar": "الدرس السابع",
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "الدرس الثامن",
             "en": "Lesson 8"
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "slug": "05-my-school",
+      "slug": "c5",
       "title": {
         "ar": "مدرستي",
         "en": "My School"
@@ -297,56 +297,56 @@
       "image": "clickview/elementary-the-school-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "ar": "الدرس السادس",
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "ar": "الدرس السابع",
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "الدرس الثامن",
             "en": "Lesson 8"

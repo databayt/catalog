@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq01",
+      "type": "mcq",
+      "question": "In a right triangle, a²+b² = ?",
+      "options": [
+        "c",
+        "c²",
+        "2c",
+        "ab"
+      ],
+      "answer": "c²",
+      "explanation": "Hypotenuse squared."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq02",
+      "type": "true_false",
+      "question": "Pythagoras' theorem works only for right-angled triangles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Right angle required."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq03",
+      "type": "fill_blank",
+      "question": "If legs are 3 and 4, the hypotenuse is ___.",
+      "answer": "5",
+      "explanation": "√(9+16)."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-01-pythagoras-lq04",
+      "type": "short_answer",
+      "question": "State Pythagoras' theorem.",
+      "answer": "The square of the hypotenuse equals the sum of the squares of the other two sides.",
+      "explanation": "Theorem."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq01",
+      "type": "mcq",
+      "question": "sin = opposite ÷ ?",
+      "options": [
+        "adjacent",
+        "hypotenuse",
+        "angle",
+        "area"
+      ],
+      "answer": "hypotenuse",
+      "explanation": "SOH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq02",
+      "type": "true_false",
+      "question": "tan = opposite ÷ adjacent.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "TOA."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq03",
+      "type": "fill_blank",
+      "question": "cos = adjacent ÷ ___.",
+      "answer": "hypotenuse",
+      "explanation": "CAH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq04",
+      "type": "short_answer",
+      "question": "What does SOHCAHTOA help you remember?",
+      "answer": "The ratios for sine, cosine and tangent.",
+      "explanation": "Trig ratios."
+    }
+  ]
+}

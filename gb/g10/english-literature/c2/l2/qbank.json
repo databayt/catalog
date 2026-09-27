@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english-literature",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-02-novel-02-theme-lq01",
+      "type": "mcq",
+      "question": "19th-century novels often explore:",
+      "options": [
+        "space travel",
+        "social class and morality",
+        "smartphones",
+        "the internet"
+      ],
+      "answer": "social class and morality",
+      "explanation": "Victorian concerns."
+    },
+    {
+      "id": "g10-eng-unit-02-novel-02-theme-lq02",
+      "type": "true_false",
+      "question": "A novel can critique the society of its time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Social commentary."
+    },
+    {
+      "id": "g10-eng-unit-02-novel-02-theme-lq03",
+      "type": "fill_blank",
+      "question": "A central idea explored across a text is a ___.",
+      "answer": "theme",
+      "explanation": "Theme."
+    },
+    {
+      "id": "g10-eng-unit-02-novel-02-theme-lq04",
+      "type": "short_answer",
+      "question": "Name a common theme in 19th-century fiction.",
+      "answer": "e.g., class, redemption, or social injustice.",
+      "explanation": "Themes."
+    }
+  ]
+}

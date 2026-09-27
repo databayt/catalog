@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "design-technology",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq01",
+      "type": "mcq",
+      "question": "A property of a good material for a chair leg is:",
+      "options": [
+        "strength",
+        "being edible",
+        "glowing",
+        "melting easily"
+      ],
+      "answer": "strength",
+      "explanation": "Material properties."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq02",
+      "type": "true_false",
+      "question": "Different materials suit different purposes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Material choice."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq03",
+      "type": "fill_blank",
+      "question": "How a material behaves (e.g., strong, flexible) is its ___.",
+      "answer": "property",
+      "explanation": "Properties."
+    },
+    {
+      "id": "g8-des-unit-02-materials-01-materials-lq04",
+      "type": "short_answer",
+      "question": "Name one factor in choosing a material.",
+      "answer": "e.g., strength, cost, weight, or sustainability.",
+      "explanation": "Material choice."
+    }
+  ]
+}

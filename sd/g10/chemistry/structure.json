@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-atomic-structure-of-matter",
+      "slug": "c1",
       "title": {
         "ar": "التركيب الذري للمادة",
         "en": "Atomic Structure of Matter"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-atomic-structure-of-matter",
+          "slug": "l1",
           "title": {
             "ar": "التركيب الذري للمادة",
             "en": "Atomic Structure of Matter"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-rutherfords-model",
+          "slug": "l2",
           "title": {
             "ar": "نموذج رذرفورد",
             "en": "Rutherford's Model"
@@ -56,7 +56,7 @@
           "page": 6
         },
         {
-          "slug": "03-electrons-in-the-atom",
+          "slug": "l3",
           "title": {
             "ar": "الإلكترونات في الذرة",
             "en": "Electrons in the Atom"
@@ -64,7 +64,7 @@
           "page": 14
         },
         {
-          "slug": "04-quantum-numbers",
+          "slug": "l4",
           "title": {
             "ar": "أعداد الكم",
             "en": "Quantum Numbers"
@@ -73,7 +73,7 @@
           "image": "clickview/high-nuclear-and-quantum-physics-cover.jpg"
         },
         {
-          "slug": "05-values-of-quantum-numbers",
+          "slug": "l5",
           "title": {
             "ar": "قيم أعداد الكم",
             "en": "Values of Quantum Numbers"
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "slug": "02-chemical-bonds",
+      "slug": "c2",
       "title": {
         "ar": "الروابط الكيميائية",
         "en": "Chemical Bonds"
@@ -95,7 +95,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-chemical-bonds",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة عن الروابط الكيميائية",
             "en": "Introduction to Chemical Bonds"
@@ -103,7 +103,7 @@
           "page": 37
         },
         {
-          "slug": "02-the-ionic-bond",
+          "slug": "l2",
           "title": {
             "ar": "الرابطة الأيونية",
             "en": "The Ionic Bond"
@@ -111,7 +111,7 @@
           "page": 43
         },
         {
-          "slug": "03-the-covalent-bond",
+          "slug": "l3",
           "title": {
             "ar": "الرابطة الإسهامية",
             "en": "The Covalent Bond"
@@ -119,7 +119,7 @@
           "page": 48
         },
         {
-          "slug": "04-molecules-of-elements",
+          "slug": "l4",
           "title": {
             "ar": "جزيئات العناصر",
             "en": "Molecules of Elements"
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "slug": "03-chemical-equations",
+      "slug": "c3",
       "title": {
         "ar": "المعادلات الكيميائية",
         "en": "Chemical Equations"
@@ -140,7 +140,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-word-equations",
+          "slug": "l1",
           "title": {
             "ar": "المعادلات اللفظية",
             "en": "Word Equations"
@@ -148,7 +148,7 @@
           "page": 76
         },
         {
-          "slug": "02-balancing-chemical-equations",
+          "slug": "l2",
           "title": {
             "ar": "وزن المعادلات الكيميائية",
             "en": "Balancing Chemical Equations"
@@ -158,7 +158,7 @@
       ]
     },
     {
-      "slug": "04-chemical-reactions",
+      "slug": "c4",
       "title": {
         "ar": "التفاعلات الكيميائية",
         "en": "Chemical Reactions"
@@ -169,7 +169,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-chemical-reactions",
+          "slug": "l1",
           "title": {
             "ar": "التفاعلات الكيميائية",
             "en": "Chemical Reactions"
@@ -178,7 +178,7 @@
           "image": "clickview/high-properties-of-chemical-reactions-cover.jpg"
         },
         {
-          "slug": "02-oxidation-numbers",
+          "slug": "l2",
           "title": {
             "ar": "أعداد الأكسدة",
             "en": "Oxidation Numbers"
@@ -186,7 +186,7 @@
           "page": 96
         },
         {
-          "slug": "03-oxidation-reduction-reactions",
+          "slug": "l3",
           "title": {
             "ar": "تفاعلات الأكسدة والاختزال",
             "en": "Oxidation-Reduction Reactions"
@@ -194,7 +194,7 @@
           "page": 99
         },
         {
-          "slug": "04-balancing-redox-equations",
+          "slug": "l4",
           "title": {
             "ar": "وزن معادلات الأكسدة والاختزال",
             "en": "Balancing Redox Equations"
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "slug": "05-chemical-calculations",
+      "slug": "c5",
       "title": {
         "ar": "الحساب الكيميائي",
         "en": "Chemical Calculations"
@@ -215,7 +215,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-chemical-calculation",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الحساب الكيميائي",
             "en": "The Concept of Chemical Calculation"
@@ -223,7 +223,7 @@
           "page": 107
         },
         {
-          "slug": "02-avogadros-number",
+          "slug": "l2",
           "title": {
             "ar": "عدد أفوقادرو",
             "en": "Avogadro's Number"
@@ -231,7 +231,7 @@
           "page": 116
         },
         {
-          "slug": "03-finding-the-molecular-formula-using-the-number",
+          "slug": "l3",
           "title": {
             "ar": "إيجاد الصيغة الجزيئية باستخدام عدد المولات",
             "en": "Finding the Molecular Formula Using the Number of Moles"
@@ -239,7 +239,7 @@
           "page": 120
         },
         {
-          "slug": "04-calculations-involving-the-empirical-formula",
+          "slug": "l4",
           "title": {
             "ar": "حسابات تتعلق بالصيغة الأولية",
             "en": "Calculations Involving the Empirical Formula"
@@ -247,7 +247,7 @@
           "page": 125
         },
         {
-          "slug": "05-the-relationship-between-moles-and-gas-volume",
+          "slug": "l5",
           "title": {
             "ar": "العلاقة بين عدد المولات وحجم الغاز",
             "en": "The Relationship between Moles and Gas Volume"
@@ -255,7 +255,7 @@
           "page": 128
         },
         {
-          "slug": "06-isotopes",
+          "slug": "l6",
           "title": {
             "ar": "النظائر",
             "en": "Isotopes"
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "slug": "06-laws-of-chemical-combination",
+      "slug": "c6",
       "title": {
         "ar": "قوانين الاتحاد الكيميائي",
         "en": "Laws of Chemical Combination"
@@ -277,7 +277,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-law-of-conservation-of-mass",
+          "slug": "l1",
           "title": {
             "ar": "قانون بقاء الكتلة",
             "en": "The Law of Conservation of Mass"
@@ -285,7 +285,7 @@
           "page": 144
         },
         {
-          "slug": "02-the-law-of-constant-proportions",
+          "slug": "l2",
           "title": {
             "ar": "قانون النسب الثابتة",
             "en": "The Law of Constant Proportions"
@@ -293,7 +293,7 @@
           "page": 148
         },
         {
-          "slug": "03-the-law-of-multiple-proportions",
+          "slug": "l3",
           "title": {
             "ar": "قانون النسب المتضاعفة",
             "en": "The Law of Multiple Proportions"

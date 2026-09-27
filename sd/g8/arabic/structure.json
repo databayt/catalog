@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى",
         "en": "Unit One"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-great-debate",
+          "slug": "l1",
           "title": {
             "ar": "المناظرة الكبرى",
             "en": "The Great Debate"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-arabic-language-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة اللغة العربية",
             "en": "Poem: The Arabic Language"
@@ -49,7 +49,7 @@
           "image": "clickview/middle-literary-terms-cover.jpg"
         },
         {
-          "slug": "03-grammar-review",
+          "slug": "l3",
           "title": {
             "ar": "النحو : دروس مراجعة لما سبقت دراسته",
             "en": "Grammar: Review of Previously Studied Lessons"
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "slug": "02-unit-2",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية",
         "en": "Unit Two"
@@ -71,7 +71,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-food-and-health",
+          "slug": "l1",
           "title": {
             "ar": "الغذاء والصحة",
             "en": "Food and Health"
@@ -79,7 +79,7 @@
           "page": 12
         },
         {
-          "slug": "02-letter-to-my-son",
+          "slug": "l2",
           "title": {
             "ar": "رسالة إلى ولدي",
             "en": "A Letter to My Son"
@@ -88,7 +88,7 @@
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-diptote",
+          "slug": "l3",
           "title": {
             "ar": "النحو : المَمْنُوعُ من الصَّرْفِ",
             "en": "Grammar: The Diptote (Forbidden from Full Declension)"
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "slug": "03-unit-3",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة",
         "en": "Unit Three"
@@ -110,7 +110,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-fine-arts",
+          "slug": "l1",
           "title": {
             "ar": "الفنون الجميلة",
             "en": "The Fine Arts"
@@ -118,7 +118,7 @@
           "page": 32
         },
         {
-          "slug": "02-kinds-of-arts-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة في ضروب الفنون",
             "en": "Poem on the Kinds of Arts"
@@ -126,7 +126,7 @@
           "page": 36
         },
         {
-          "slug": "03-exception",
+          "slug": "l3",
           "title": {
             "ar": "النحو : الاستثناء",
             "en": "Grammar: Exception (Istithna)"
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "slug": "04-unit-4",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة",
         "en": "Unit Four"
@@ -148,7 +148,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-scenes-from-sudan",
+          "slug": "l1",
           "title": {
             "ar": "صور من الحياة في السودان",
             "en": "Scenes from Life in Sudan"
@@ -156,7 +156,7 @@
           "page": 53
         },
         {
-          "slug": "02-take-me-to-the-nile",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة عُد بي إلى النيل",
             "en": "Poem: Take Me Back to the Nile"
@@ -164,7 +164,7 @@
           "page": 60
         },
         {
-          "slug": "03-circumstantial-accusative",
+          "slug": "l3",
           "title": {
             "ar": "النحو : الحال",
             "en": "Grammar: The Circumstantial Accusative (Al-Haal)"
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "slug": "05-unit-5",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة",
         "en": "Unit Five"
@@ -186,7 +186,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-galaxy",
+          "slug": "l1",
           "title": {
             "ar": "المَجَرَّةُ",
             "en": "The Galaxy"
@@ -194,7 +194,7 @@
           "page": 74
         },
         {
-          "slug": "02-bakht-al-rida-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة بخت الرضا",
             "en": "Poem: Bakht al-Ridha"
@@ -202,7 +202,7 @@
           "page": 78
         },
         {
-          "slug": "03-numbers-specifier",
+          "slug": "l3",
           "title": {
             "ar": "النحو : العددُ وتَمْييزُهُ",
             "en": "Grammar: Numbers and Their Specifier"
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "slug": "06-unit-6",
+      "slug": "c6",
       "title": {
         "ar": "الوحدة السادسة",
         "en": "Unit Six"
@@ -224,7 +224,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-tale-without-title",
+          "slug": "l1",
           "title": {
             "ar": "حكاية بلا عنوان",
             "en": "A Tale Without a Title"
@@ -232,7 +232,7 @@
           "page": 94
         },
         {
-          "slug": "02-island-inspired-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة من وحي الجزيرة",
             "en": "Poem Inspired by the Island"
@@ -240,7 +240,7 @@
           "page": 100
         },
         {
-          "slug": "03-appositive",
+          "slug": "l3",
           "title": {
             "ar": "النحو : البدل",
             "en": "Grammar: The Appositive (Al-Badal)"
@@ -251,7 +251,7 @@
       ]
     },
     {
-      "slug": "07-unit-7",
+      "slug": "c7",
       "title": {
         "ar": "الوحدة السابعة",
         "en": "Unit Seven"
@@ -262,7 +262,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-women-in-literary-life",
+          "slug": "l1",
           "title": {
             "ar": "صور من مشاركة المرأة في الحياة الأدبية",
             "en": "Scenes of Women's Participation in Literary Life"
@@ -270,7 +270,7 @@
           "page": 111
         },
         {
-          "slug": "02-the-flag-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة العلم",
             "en": "Poem: The Flag"
@@ -278,7 +278,7 @@
           "page": 115
         },
         {
-          "slug": "03-adjective",
+          "slug": "l3",
           "title": {
             "ar": "النحو : النعت",
             "en": "Grammar: The Adjective (Al-Na'at)"
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "slug": "08-unit-8",
+      "slug": "c8",
       "title": {
         "ar": "الوحدة الثامنة",
         "en": "Unit Eight"
@@ -300,7 +300,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-human-vocal-apparatus",
+          "slug": "l1",
           "title": {
             "ar": "الجهاز الصوتي للإنسان",
             "en": "The Human Vocal Apparatus"
@@ -308,7 +308,7 @@
           "page": 129
         },
         {
-          "slug": "02-waheed-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة وحيد",
             "en": "Poem: Alone"
@@ -316,7 +316,7 @@
           "page": 135
         },
         {
-          "slug": "03-emphasis",
+          "slug": "l3",
           "title": {
             "ar": "النحو : التوكيد",
             "en": "Grammar: Emphasis (Al-Tawkid)"
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "slug": "09-unit-9",
+      "slug": "c9",
       "title": {
         "ar": "الوحدة التاسعة",
         "en": "Unit Nine"
@@ -338,7 +338,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-beyond-the-horizon",
+          "slug": "l1",
           "title": {
             "ar": "ماذا وراء الأفق",
             "en": "What Lies Beyond the Horizon"
@@ -346,7 +346,7 @@
           "page": 151
         },
         {
-          "slug": "02-melit-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة مليط",
             "en": "Poem: Melit"
@@ -354,7 +354,7 @@
           "page": 154
         },
         {
-          "slug": "03-coordination",
+          "slug": "l3",
           "title": {
             "ar": "النحو : العطف",
             "en": "Grammar: Coordination (Al-'Atf)"
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "slug": "10-unit-10",
+      "slug": "c10",
       "title": {
         "ar": "الوحدة العاشرة",
         "en": "Unit Ten"
@@ -376,7 +376,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-address-to-the-moon",
+          "slug": "l1",
           "title": {
             "ar": "مناجاة القمر",
             "en": "Addressing the Moon"
@@ -384,7 +384,7 @@
           "page": 168
         },
         {
-          "slug": "02-ghazal-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة في الغزل",
             "en": "Poem on Love Poetry (Ghazal)"
@@ -392,7 +392,7 @@
           "page": 171
         },
         {
-          "slug": "03-vocative",
+          "slug": "l3",
           "title": {
             "ar": "النحو : المنادى",
             "en": "Grammar: The Vocative (Al-Munada)"

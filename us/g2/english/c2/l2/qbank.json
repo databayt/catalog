@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g2-eng-unit-02-reading-02-retelling-lq01",
+      "type": "mcq",
+      "question": "Retelling should be in the right:",
+      "options": [
+        "color",
+        "order",
+        "font",
+        "size"
+      ],
+      "answer": "order",
+      "explanation": "Beginning, middle, end."
+    },
+    {
+      "id": "g2-eng-unit-02-reading-02-retelling-lq02",
+      "type": "true_false",
+      "question": "A good retell includes the main events.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Key events only."
+    },
+    {
+      "id": "g2-eng-unit-02-reading-02-retelling-lq03",
+      "type": "fill_blank",
+      "question": "Stories have a beginning, middle, and ___.",
+      "answer": "end",
+      "explanation": "Three parts."
+    },
+    {
+      "id": "g2-eng-unit-02-reading-02-retelling-lq04",
+      "type": "short_answer",
+      "question": "Why retell in order?",
+      "answer": "So the story makes sense.",
+      "explanation": "Logical sequence."
+    }
+  ]
+}

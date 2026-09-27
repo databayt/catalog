@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-mathematical-induction-permutations",
+      "slug": "c1",
       "title": {
         "ar": "الاستنتاج الرياضي، التباديل والتوافيق ونظرية ذات الحدين",
         "en": "Mathematical Induction, Permutations, Combinations and the Binomial Theorem"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-principle-of-mathematical-induction",
+          "slug": "l1",
           "title": {
             "ar": "مبدأ الاستنتاج الرياضي",
             "en": "The Principle of Mathematical Induction"
@@ -72,7 +72,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-the-counting-principle",
+          "slug": "l2",
           "title": {
             "ar": "مبدأ العد",
             "en": "The Counting Principle"
@@ -87,7 +87,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-the-factorial-of-a-natural-number-and-its",
+          "slug": "l3",
           "title": {
             "ar": "مضروب العدد الطبيعي وخصائصه",
             "en": "The Factorial of a Natural Number and Its Properties"
@@ -102,7 +102,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-permutations",
+          "slug": "l4",
           "title": {
             "ar": "التباديل",
             "en": "Permutations"
@@ -117,7 +117,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-combinations",
+          "slug": "l5",
           "title": {
             "ar": "التوافيق",
             "en": "Combinations"
@@ -132,7 +132,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-the-binomial-theorem",
+          "slug": "l6",
           "title": {
             "ar": "نظرية ذات الحدين",
             "en": "The Binomial Theorem"
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "slug": "02-matrices",
+      "slug": "c2",
       "title": {
         "ar": "المصفوفات",
         "en": "Matrices"
@@ -161,7 +161,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -176,7 +176,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-some-special-types-of-matrices",
+          "slug": "l2",
           "title": {
             "ar": "بعض الأنواع الخاصة من المصفوفات",
             "en": "Some Special Types of Matrices"
@@ -191,7 +191,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-equality-of-matrices",
+          "slug": "l3",
           "title": {
             "ar": "تساوي المصفوفات",
             "en": "Equality of Matrices"
@@ -206,7 +206,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-transpose-of-a-matrix",
+          "slug": "l4",
           "title": {
             "ar": "منقول المصفوفة",
             "en": "The Transpose of a Matrix"
@@ -221,7 +221,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-adding-matrices",
+          "slug": "l5",
           "title": {
             "ar": "جمع المصفوفات",
             "en": "Adding Matrices"
@@ -236,7 +236,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-properties-of-matrix-addition",
+          "slug": "l6",
           "title": {
             "ar": "خواص جمع المصفوفات",
             "en": "Properties of Matrix Addition"
@@ -251,7 +251,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-subtracting-matrices",
+          "slug": "l7",
           "title": {
             "ar": "طرح المصفوفات",
             "en": "Subtracting Matrices"
@@ -266,7 +266,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-multiplying-a-matrix-by-a-scalar",
+          "slug": "l8",
           "title": {
             "ar": "ضرب المصفوفة بعدد ثابت",
             "en": "Multiplying a Matrix by a Scalar"
@@ -281,7 +281,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-properties-of-scalar-multiplication",
+          "slug": "l9",
           "title": {
             "ar": "خواص ضرب المصفوفة بعدد",
             "en": "Properties of Scalar Multiplication"
@@ -296,7 +296,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "10-multiplying-matrices",
+          "slug": "l10",
           "title": {
             "ar": "ضرب المصفوفات",
             "en": "Multiplying Matrices"
@@ -311,7 +311,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "11-some-properties-of-matrix-multiplication",
+          "slug": "l11",
           "title": {
             "ar": "بعض خواص ضرب المصفوفات",
             "en": "Some Properties of Matrix Multiplication"
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "slug": "03-partial-fractions",
+      "slug": "c3",
       "title": {
         "ar": "الكسور الجزئية",
         "en": "Partial Fractions"
@@ -340,7 +340,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -355,7 +355,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-case-one-linear-factors-in-the-denominator",
+          "slug": "l2",
           "title": {
             "ar": "الحالة الأولى: معاملات المقام خطية",
             "en": "Case One: Linear Factors in the Denominator"
@@ -370,7 +370,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-case-two-a-repeated-linear-factor-in-the",
+          "slug": "l3",
           "title": {
             "ar": "الحالة الثانية: أحد معاملات المقام خطي متكرر",
             "en": "Case Two: A Repeated Linear Factor in the Denominator"
@@ -385,7 +385,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-case-three-an-irreducible-quadratic-factor-in",
+          "slug": "l4",
           "title": {
             "ar": "الحالة الثالثة: أحد معاملات المقام من الدرجة الثانية ولا يمكن تحليله",
             "en": "Case Three: An Irreducible Quadratic Factor in the Denominator"
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "slug": "04-probability",
+      "slug": "c4",
       "title": {
         "ar": "الاحتمالات",
         "en": "Probability"
@@ -414,7 +414,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة",
             "en": "Introduction"
@@ -429,7 +429,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-random-experiment",
+          "slug": "l2",
           "title": {
             "ar": "التجربة العشوائية",
             "en": "The Random Experiment"
@@ -444,7 +444,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-the-sample-space",
+          "slug": "l3",
           "title": {
             "ar": "فضاء العينة",
             "en": "The Sample Space"
@@ -459,7 +459,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-the-event",
+          "slug": "l4",
           "title": {
             "ar": "الحادثة",
             "en": "The Event"
@@ -474,7 +474,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-operations-on-events",
+          "slug": "l5",
           "title": {
             "ar": "العمليات على الحوادث",
             "en": "Operations on Events"
@@ -489,7 +489,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-axioms-of-probability-theory",
+          "slug": "l6",
           "title": {
             "ar": "مسلمات نظرية الاحتمالات",
             "en": "Axioms of Probability Theory"
@@ -504,7 +504,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-equally-likely-outcomes",
+          "slug": "l7",
           "title": {
             "ar": "الاحتمالات المتساوية",
             "en": "Equally Likely Outcomes"
@@ -519,7 +519,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "08-the-binomial-probability-law-binomial",
+          "slug": "l8",
           "title": {
             "ar": "قانون الاحتمال الثنائي (توزيع ذات الحدين)",
             "en": "The Binomial Probability Law (Binomial Distribution)"
@@ -534,7 +534,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-the-law-of-total-probability",
+          "slug": "l9",
           "title": {
             "ar": "قانون الاحتمال الكلي",
             "en": "The Law of Total Probability"
@@ -551,7 +551,7 @@
       ]
     },
     {
-      "slug": "05-statistics",
+      "slug": "c5",
       "title": {
         "ar": "الإحصاء",
         "en": "Statistics"
@@ -563,7 +563,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-and-historical-note",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة ونبذة تاريخية",
             "en": "Introduction and Historical Note"
@@ -578,7 +578,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-measures-of-central-tendency",
+          "slug": "l2",
           "title": {
             "ar": "مقاييس النزعة المركزية",
             "en": "Measures of Central Tendency"
@@ -593,7 +593,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-calculating-the-mean-from-a-grouped-frequency",
+          "slug": "l3",
           "title": {
             "ar": "حساب الوسط الحسابي من جدول تكراري ذي فئات",
             "en": "Calculating the Mean from a Grouped Frequency Table"
@@ -608,7 +608,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-the-median",
+          "slug": "l4",
           "title": {
             "ar": "الوسيط",
             "en": "The Median"
@@ -623,7 +623,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-the-mode",
+          "slug": "l5",
           "title": {
             "ar": "المنوال",
             "en": "The Mode"
@@ -638,7 +638,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-dispersion",
+          "slug": "l6",
           "title": {
             "ar": "التشتت",
             "en": "Dispersion"
@@ -655,7 +655,7 @@
       ]
     },
     {
-      "slug": "06-real-functions-and-limits",
+      "slug": "c6",
       "title": {
         "ar": "الدوال الحقيقية والنهايات",
         "en": "Real Functions and Limits"
@@ -667,7 +667,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-calculus",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد لحساب التفاضل والتكامل (الحسبان)",
             "en": "Introduction to Calculus"
@@ -682,7 +682,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-real-functions-and-limits",
+          "slug": "l2",
           "title": {
             "ar": "الدوال الحقيقية والنهايات",
             "en": "Real Functions and Limits"
@@ -697,7 +697,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-mappings",
+          "slug": "l3",
           "title": {
             "ar": "التطبيق",
             "en": "Mappings"
@@ -712,7 +712,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-composition-of-functions",
+          "slug": "l4",
           "title": {
             "ar": "تركيبات الدوال",
             "en": "Composition of Functions"
@@ -727,7 +727,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-limits",
+          "slug": "l5",
           "title": {
             "ar": "النهايات",
             "en": "Limits"
@@ -742,7 +742,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-limits-of-rational-functions",
+          "slug": "l6",
           "title": {
             "ar": "النهايات للدوال الكسرية",
             "en": "Limits of Rational Functions"
@@ -757,7 +757,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "07-some-important-limits",
+          "slug": "l7",
           "title": {
             "ar": "بعض النهايات الهامة",
             "en": "Some Important Limits"
@@ -772,7 +772,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-continuous-functions",
+          "slug": "l8",
           "title": {
             "ar": "الدوال المتصلة",
             "en": "Continuous Functions"
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "slug": "07-differentiation",
+      "slug": "c7",
       "title": {
         "ar": "التفاضل",
         "en": "Differentiation"
@@ -801,7 +801,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-change-and-the-average-rate-of-change",
+          "slug": "l1",
           "title": {
             "ar": "التغير ومتوسط معدل التغير",
             "en": "Change and the Average Rate of Change"
@@ -816,7 +816,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-derivative-of-a-function",
+          "slug": "l2",
           "title": {
             "ar": "مشتقة الدالة",
             "en": "The Derivative of a Function"
@@ -831,7 +831,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-finding-the-first-derivative-of-some-functions",
+          "slug": "l3",
           "title": {
             "ar": "إيجاد المشتقة الأولى لبعض الدوال",
             "en": "Finding the First Derivative of Some Functions"
@@ -846,7 +846,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-basic-rules-of-differentiation",
+          "slug": "l4",
           "title": {
             "ar": "القواعد الأساسية للتفاضل",
             "en": "Basic Rules of Differentiation"
@@ -861,7 +861,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-the-function-of-a-function-chain-rule",
+          "slug": "l5",
           "title": {
             "ar": "دالة الدالة",
             "en": "The Function of a Function (Chain Rule)"
@@ -876,7 +876,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "06-differentiating-implicitly-defined-functions",
+          "slug": "l6",
           "title": {
             "ar": "تفاضل الدوال المعرفة ضمنياً",
             "en": "Differentiating Implicitly Defined Functions"
@@ -891,7 +891,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "07-higher-derivatives",
+          "slug": "l7",
           "title": {
             "ar": "المشتقات العليا",
             "en": "Higher Derivatives"
@@ -908,7 +908,7 @@
       ]
     },
     {
-      "slug": "08-applications-of-differentiation",
+      "slug": "c8",
       "title": {
         "ar": "تطبيقات على التفاضل",
         "en": "Applications of Differentiation"
@@ -920,7 +920,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-applications-to-analytic-geometry",
+          "slug": "l1",
           "title": {
             "ar": "تطبيقات على الهندسة التحليلية",
             "en": "Applications to Analytic Geometry"
@@ -935,7 +935,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-maxima-and-minima",
+          "slug": "l2",
           "title": {
             "ar": "النهايات العظمى والصغرى",
             "en": "Maxima and Minima"
@@ -950,7 +950,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-applications-in-mechanics",
+          "slug": "l3",
           "title": {
             "ar": "تطبيقات في الميكانيكا",
             "en": "Applications in Mechanics"
@@ -965,7 +965,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-related-rates",
+          "slug": "l4",
           "title": {
             "ar": "المعدلات الزمنية المرتبطة",
             "en": "Related Rates"
@@ -982,7 +982,7 @@
       ]
     },
     {
-      "slug": "09-integration",
+      "slug": "c9",
       "title": {
         "ar": "التكامل",
         "en": "Integration"
@@ -994,7 +994,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-integration-as-the-inverse-of-differentiation",
+          "slug": "l1",
           "title": {
             "ar": "التكامل كعملية عكسية للتفاضل",
             "en": "Integration as the Inverse of Differentiation"
@@ -1009,7 +1009,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-some-methods-of-integration",
+          "slug": "l2",
           "title": {
             "ar": "بعض طرق التكامل",
             "en": "Some Methods of Integration"
@@ -1026,7 +1026,7 @@
       ]
     },
     {
-      "slug": "10-the-definite-integral-and-its-applications",
+      "slug": "c10",
       "title": {
         "ar": "التكامل المحدد وتطبيقاته",
         "en": "The Definite Integral and Its Applications"
@@ -1038,7 +1038,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-definite-integral",
+          "slug": "l1",
           "title": {
             "ar": "التكامل المحدد",
             "en": "The Definite Integral"
@@ -1053,7 +1053,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-some-properties-of-the-definite-integral",
+          "slug": "l2",
           "title": {
             "ar": "بعض خواص التكامل المحدد",
             "en": "Some Properties of the Definite Integral"
@@ -1068,7 +1068,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-areas",
+          "slug": "l3",
           "title": {
             "ar": "المساحات",
             "en": "Areas"
@@ -1083,7 +1083,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-the-fundamental-theorem-of-calculus",
+          "slug": "l4",
           "title": {
             "ar": "النظرية الأساسية للتكامل",
             "en": "The Fundamental Theorem of Calculus"
@@ -1100,7 +1100,7 @@
       ]
     },
     {
-      "slug": "11-the-circle",
+      "slug": "c11",
       "title": {
         "ar": "الدائرة",
         "en": "The Circle"
@@ -1112,7 +1112,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-equation-of-the-circle",
+          "slug": "l1",
           "title": {
             "ar": "معادلة الدائرة",
             "en": "The Equation of the Circle"
@@ -1127,7 +1127,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-the-general-form-of-the-circles-equation",
+          "slug": "l2",
           "title": {
             "ar": "الصورة العامة لمعادلة الدائرة",
             "en": "The General Form of the Circle's Equation"
@@ -1142,7 +1142,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-the-circle-satisfying-given-conditions",
+          "slug": "l3",
           "title": {
             "ar": "الدائرة التي تحقق شروطاً معينة",
             "en": "The Circle Satisfying Given Conditions"
@@ -1157,7 +1157,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-the-equation-of-the-tangent-to-a-circle-at-a",
+          "slug": "l4",
           "title": {
             "ar": "معادلة المماس لدائرة عند نقطة عليها",
             "en": "The Equation of the Tangent to a Circle at a Point on It"
@@ -1172,7 +1172,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-the-length-of-the-tangent-to-a-circle-from-an",
+          "slug": "l5",
           "title": {
             "ar": "طول المماس المرسوم للدائرة من نقطة خارجها",
             "en": "The Length of the Tangent to a Circle from an External Point"
@@ -1189,7 +1189,7 @@
       ]
     },
     {
-      "slug": "12-the-set-of-complex-numbers",
+      "slug": "c12",
       "title": {
         "ar": "مجموعة الأعداد المركبة",
         "en": "The Set of Complex Numbers"
@@ -1201,7 +1201,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-graphical-representation-and-polar-form-of-a",
+          "slug": "l1",
           "title": {
             "ar": "التمثيل البياني والصورة القطبية للعدد المركب",
             "en": "Graphical Representation and Polar Form of a Complex Number"
@@ -1217,7 +1217,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-some-properties-of-the-polar-form",
+          "slug": "l2",
           "title": {
             "ar": "بعض خواص الصورة القطبية",
             "en": "Some Properties of the Polar Form"
@@ -1232,7 +1232,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-powers-and-de-moivres-theorem",
+          "slug": "l3",
           "title": {
             "ar": "القوى ونظرية دي موافر",
             "en": "Powers and De Moivre's Theorem"
@@ -1247,7 +1247,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-roots-of-complex-numbers",
+          "slug": "l4",
           "title": {
             "ar": "جذور الأعداد المركبة",
             "en": "Roots of Complex Numbers"
@@ -1262,7 +1262,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-solving-quadratic-equations-in-the-set-of",
+          "slug": "l5",
           "title": {
             "ar": "حل معادلات الدرجة الثانية في مجموعة الأعداد المركبة",
             "en": "Solving Quadratic Equations in the Set of Complex Numbers"
@@ -1277,7 +1277,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-the-cube-roots-of-unity",
+          "slug": "l6",
           "title": {
             "ar": "الجذور التكعيبية للواحد الصحيح",
             "en": "The Cube Roots of Unity"

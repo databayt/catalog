@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "social-studies",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g12-soc-unit-02-economics-exam",
+      "title": "Exam: Economics",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-soc-unit-02-economics-01-micro-lq01",
+          "type": "mcq",
+          "question": "When demand rises and supply stays the same, price usually:",
+          "options": [
+            "falls",
+            "rises",
+            "disappears",
+            "freezes"
+          ],
+          "answer": "rises",
+          "explanation": "Supply & demand."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-01-micro-lq02",
+          "type": "true_false",
+          "question": "Scarcity means limited resources for unlimited wants.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Basic economic problem."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-01-micro-lq03",
+          "type": "fill_blank",
+          "question": "The point where supply meets demand is the ___ price.",
+          "answer": "equilibrium",
+          "explanation": "Market equilibrium."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-01-micro-lq04",
+          "type": "short_answer",
+          "question": "What is scarcity?",
+          "answer": "Limited resources relative to people's unlimited wants.",
+          "explanation": "Scarcity."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-02-macro-lq01",
+          "type": "mcq",
+          "question": "GDP measures a country's total:",
+          "options": [
+            "population",
+            "output of goods and services",
+            "area",
+            "rainfall"
+          ],
+          "answer": "output of goods and services",
+          "explanation": "Economic output."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-02-macro-lq02",
+          "type": "true_false",
+          "question": "Inflation is a general rise in prices over time.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Inflation."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-02-macro-lq03",
+          "type": "fill_blank",
+          "question": "The government's taxing and spending policy is ___ policy.",
+          "answer": "fiscal",
+          "explanation": "Fiscal policy."
+        },
+        {
+          "id": "g12-soc-unit-02-economics-02-macro-lq04",
+          "type": "short_answer",
+          "question": "Why do governments manage the economy?",
+          "answer": "To promote growth, stable prices and low unemployment.",
+          "explanation": "Economic management."
+        }
+      ]
+    }
+  ]
+}

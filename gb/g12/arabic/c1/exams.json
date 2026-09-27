@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "arabic",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g12-ara-unit-01-criticism-exam",
+      "title": "Exam: النقد والتعبير",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq01",
+          "type": "mcq",
+          "question": "النقد الأدبي يهتم بـ:",
+          "options": [
+            "تقييم النص وتحليله",
+            "عدّ الصفحات",
+            "الخط",
+            "الطباعة"
+          ],
+          "answer": "تقييم النص وتحليله",
+          "explanation": "النقد."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq02",
+          "type": "true_false",
+          "question": "للناقد أن يبدي رأياً معللاً في النص.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الحكم النقدي."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq03",
+          "type": "fill_blank",
+          "question": "دراسة النص وتقويمه يسمى ___.",
+          "answer": "النقد",
+          "explanation": "النقد الأدبي."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-01-criticism-lq04",
+          "type": "short_answer",
+          "question": "ما وظيفة الناقد الأدبي؟",
+          "answer": "تحليل النص وتقويمه وبيان جوانب جماله وضعفه.",
+          "explanation": "النقد."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-02-composition-lq01",
+          "type": "mcq",
+          "question": "المقال الجيد يبدأ بـ:",
+          "options": [
+            "خاتمة",
+            "مقدمة",
+            "مراجع",
+            "فهرس"
+          ],
+          "answer": "مقدمة",
+          "explanation": "بنية المقال."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-02-composition-lq02",
+          "type": "true_false",
+          "question": "التعبير الكتابي يحتاج إلى ترابط الأفكار.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "التماسك."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-02-composition-lq03",
+          "type": "fill_blank",
+          "question": "الفقرة التي تلخص الموضوع في آخر المقال هي ___.",
+          "answer": "الخاتمة",
+          "explanation": "الخاتمة."
+        },
+        {
+          "id": "g12-ara-unit-01-criticism-02-composition-lq04",
+          "type": "short_answer",
+          "question": "اذكر عناصر المقال.",
+          "answer": "مقدمة، وعرض (أفكار مدعومة)، وخاتمة.",
+          "explanation": "التعبير."
+        }
+      ]
+    }
+  ]
+}

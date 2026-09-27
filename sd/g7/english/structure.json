@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-welcome-back",
+      "slug": "c1",
       "title": {
         "en": "Welcome Back!"
       },
@@ -28,50 +28,50 @@
       "image": "clickview/elementary-family-cover.jpg",
       "lessons": [
         {
-          "slug": "01-you-and-me",
+          "slug": "l1",
           "title": {
             "en": "You and Me"
           }
         },
         {
-          "slug": "02-my-family",
+          "slug": "l2",
           "title": {
             "en": "My Family"
           }
         },
         {
-          "slug": "03-free-time",
+          "slug": "l3",
           "title": {
             "en": "Free Time"
           }
         },
         {
-          "slug": "04-healthy-and-happy",
+          "slug": "l4",
           "title": {
             "en": "Healthy and Happy"
           }
         },
         {
-          "slug": "05-time",
+          "slug": "l5",
           "title": {
             "en": "Time"
           }
         },
         {
-          "slug": "06-a-helping-hand",
+          "slug": "l6",
           "title": {
             "en": "A Helping Hand"
           }
         },
         {
-          "slug": "07-the-scorpion-and-the-frog",
+          "slug": "l7",
           "title": {
             "en": "The Scorpion and the Frog"
           },
           "image": "clickview/middle-genre-cover.jpg"
         },
         {
-          "slug": "08-revision-new-friends",
+          "slug": "l8",
           "title": {
             "en": "Revision: New Friends"
           }
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "slug": "02-home-sweet-home",
+      "slug": "c2",
       "title": {
         "en": "Home Sweet Home"
       },
@@ -87,49 +87,49 @@
       "image": "clickview/middle-everyday-english-cover.jpg",
       "lessons": [
         {
-          "slug": "01-types-of-houses",
+          "slug": "l1",
           "title": {
             "en": "Types of Houses"
           }
         },
         {
-          "slug": "02-a-good-place-to-live",
+          "slug": "l2",
           "title": {
             "en": "A Good Place to Live"
           }
         },
         {
-          "slug": "03-rooms-and-furniture",
+          "slug": "l3",
           "title": {
             "en": "Rooms and Furniture"
           }
         },
         {
-          "slug": "04-where-is-it",
+          "slug": "l4",
           "title": {
             "en": "Where is it?"
           }
         },
         {
-          "slug": "05-technology-in-our-houses",
+          "slug": "l5",
           "title": {
             "en": "Technology in Our Houses"
           }
         },
         {
-          "slug": "06-finding-a-place",
+          "slug": "l6",
           "title": {
             "en": "Finding a Place"
           }
         },
         {
-          "slug": "07-safety-at-home",
+          "slug": "l7",
           "title": {
             "en": "Safety at Home"
           }
         },
         {
-          "slug": "08-revision-my-family-house",
+          "slug": "l8",
           "title": {
             "en": "Revision: My Family House"
           }
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "slug": "03-learning-new-things",
+      "slug": "c3",
       "title": {
         "en": "Learning New Things"
       },
@@ -145,49 +145,49 @@
       "image": "clickview/high-learning-cover.jpg",
       "lessons": [
         {
-          "slug": "01-at-school",
+          "slug": "l1",
           "title": {
             "en": "At School"
           }
         },
         {
-          "slug": "02-my-school",
+          "slug": "l2",
           "title": {
             "en": "My School"
           }
         },
         {
-          "slug": "03-school-rules",
+          "slug": "l3",
           "title": {
             "en": "School Rules"
           }
         },
         {
-          "slug": "04-the-khalwa",
+          "slug": "l4",
           "title": {
             "en": "The Khalwa"
           }
         },
         {
-          "slug": "05-my-favourite-subject",
+          "slug": "l5",
           "title": {
             "en": "My Favourite Subject"
           }
         },
         {
-          "slug": "06-different-schools",
+          "slug": "l6",
           "title": {
             "en": "Different Schools"
           }
         },
         {
-          "slug": "07-a-tidy-school",
+          "slug": "l7",
           "title": {
             "en": "A Tidy School"
           }
         },
         {
-          "slug": "08-revision-school-time",
+          "slug": "l8",
           "title": {
             "en": "Revision: School Time"
           }
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "slug": "04-technology",
+      "slug": "c4",
       "title": {
         "en": "Technology"
       },
@@ -203,49 +203,49 @@
       "image": "clickview/middle-innovation-cover.jpg",
       "lessons": [
         {
-          "slug": "01-how-much",
+          "slug": "l1",
           "title": {
             "en": "How Much?"
           }
         },
         {
-          "slug": "02-before-mobile-phones",
+          "slug": "l2",
           "title": {
             "en": "Before Mobile Phones"
           }
         },
         {
-          "slug": "03-technology-everywhere",
+          "slug": "l3",
           "title": {
             "en": "Technology Everywhere"
           }
         },
         {
-          "slug": "04-e-learning",
+          "slug": "l4",
           "title": {
             "en": "e-Learning"
           }
         },
         {
-          "slug": "05-how-does-it-work",
+          "slug": "l5",
           "title": {
             "en": "How does it Work?"
           }
         },
         {
-          "slug": "06-the-internet",
+          "slug": "l6",
           "title": {
             "en": "The Internet"
           }
         },
         {
-          "slug": "07-a-request",
+          "slug": "l7",
           "title": {
             "en": "A Request"
           }
         },
         {
-          "slug": "08-revision-gadget-time",
+          "slug": "l8",
           "title": {
             "en": "Revision: Gadget Time"
           }
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "slug": "05-amazing-people",
+      "slug": "c5",
       "title": {
         "en": "Amazing People"
       },
@@ -261,49 +261,49 @@
       "image": "clickview/middle-leadership-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-everyone-is-good-at-something",
+          "slug": "l1",
           "title": {
             "en": "Everyone is Good at Something"
           }
         },
         {
-          "slug": "02-a-heroine",
+          "slug": "l2",
           "title": {
             "en": "A Heroine"
           }
         },
         {
-          "slug": "03-living-with-gorillas",
+          "slug": "l3",
           "title": {
             "en": "Living with Gorillas"
           }
         },
         {
-          "slug": "04-the-best-i-can-be",
+          "slug": "l4",
           "title": {
             "en": "The Best I Can Be"
           }
         },
         {
-          "slug": "05-role-models",
+          "slug": "l5",
           "title": {
             "en": "Role Models"
           }
         },
         {
-          "slug": "06-a-special-award",
+          "slug": "l6",
           "title": {
             "en": "A Special Award"
           }
         },
         {
-          "slug": "07-an-amazing-man",
+          "slug": "l7",
           "title": {
             "en": "An Amazing Man"
           }
         },
         {
-          "slug": "08-revision-special-people",
+          "slug": "l8",
           "title": {
             "en": "Revision: Special People"
           }
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "slug": "06-the-arts",
+      "slug": "c6",
       "title": {
         "en": "The Arts"
       },
@@ -319,49 +319,49 @@
       "image": "clickview/middle-art-and-culture-cover.jpg",
       "lessons": [
         {
-          "slug": "01-the-arts",
+          "slug": "l1",
           "title": {
             "en": "The Arts"
           }
         },
         {
-          "slug": "02-sudanese-arts",
+          "slug": "l2",
           "title": {
             "en": "Sudanese Arts"
           }
         },
         {
-          "slug": "03-three-famous-sudanese",
+          "slug": "l3",
           "title": {
             "en": "Three Famous Sudanese"
           }
         },
         {
-          "slug": "04-once-upon-a-time",
+          "slug": "l4",
           "title": {
             "en": "Once Upon a Time"
           }
         },
         {
-          "slug": "05-a-young-artist",
+          "slug": "l5",
           "title": {
             "en": "A Young Artist"
           }
         },
         {
-          "slug": "06-handicrafts",
+          "slug": "l6",
           "title": {
             "en": "Handicrafts"
           }
         },
         {
-          "slug": "07-traditional-music",
+          "slug": "l7",
           "title": {
             "en": "Traditional Music"
           }
         },
         {
-          "slug": "08-revision-which-art-do-you-like",
+          "slug": "l8",
           "title": {
             "en": "Revision: Which Art do you Like?"
           }
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "slug": "07-celebrations",
+      "slug": "c7",
       "title": {
         "en": "Celebrations"
       },
@@ -377,50 +377,50 @@
       "image": "clickview/elementary-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-eid-mubarak",
+          "slug": "l1",
           "title": {
             "en": "Eid Mubarak!"
           }
         },
         {
-          "slug": "02-celebrations-around-the-world",
+          "slug": "l2",
           "title": {
             "en": "Celebrations around the World"
           }
         },
         {
-          "slug": "03-a-school-sports-day",
+          "slug": "l3",
           "title": {
             "en": "A School Sports Day"
           },
           "image": "clickview/middle-running-cover.jpg"
         },
         {
-          "slug": "04-independence-day",
+          "slug": "l4",
           "title": {
             "en": "Independence Day"
           }
         },
         {
-          "slug": "05-international-childrens-day",
+          "slug": "l5",
           "title": {
             "en": "International Children's Day"
           }
         },
         {
-          "slug": "06-a-wedding",
+          "slug": "l6",
           "title": {
             "en": "A Wedding"
           }
         },
         {
-          "slug": "07-a-special-day",
+          "slug": "l7",
           "title": {
             "en": "A Special Day"
           }
         },
         {
-          "slug": "08-revision-special-days",
+          "slug": "l8",
           "title": {
             "en": "Revision: Special Days"
           }
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "slug": "08-travelling",
+      "slug": "c8",
       "title": {
         "en": "Travelling"
       },
@@ -436,50 +436,50 @@
       "image": "clickview/high-global-tourism-cover.jpg",
       "lessons": [
         {
-          "slug": "01-holiday-time",
+          "slug": "l1",
           "title": {
             "en": "Holiday Time"
           }
         },
         {
-          "slug": "02-getting-around",
+          "slug": "l2",
           "title": {
             "en": "Getting Around"
           }
         },
         {
-          "slug": "03-places-to-visit",
+          "slug": "l3",
           "title": {
             "en": "Places to Visit"
           }
         },
         {
-          "slug": "04-radom-national-park",
+          "slug": "l4",
           "title": {
             "en": "Radom National Park"
           },
           "image": "clickview/elementary-habitats-cover.jpg"
         },
         {
-          "slug": "05-a-special-journey",
+          "slug": "l5",
           "title": {
             "en": "A Special Journey"
           }
         },
         {
-          "slug": "06-a-visit-to-dubai",
+          "slug": "l6",
           "title": {
             "en": "A Visit to Dubai"
           }
         },
         {
-          "slug": "07-my-journey",
+          "slug": "l7",
           "title": {
             "en": "My Journey"
           }
         },
         {
-          "slug": "08-revision-time-to-travel",
+          "slug": "l8",
           "title": {
             "en": "Revision: Time to Travel"
           }

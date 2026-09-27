@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-norman-conquest",
+      "slug": "c1",
       "title": {
         "en": "The Norman Conquest"
       },
       "lessons": [
         {
-          "slug": "01-1066",
+          "slug": "l1",
           "title": {
             "en": "1066 and the Battle of Hastings"
           }
         },
         {
-          "slug": "02-feudalism",
+          "slug": "l2",
           "title": {
             "en": "Castles & the Feudal System"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-medieval-church",
+      "slug": "c2",
       "title": {
         "en": "Power & the Medieval Church"
       },
       "lessons": [
         {
-          "slug": "01-church-power",
+          "slug": "l1",
           "title": {
             "en": "The Power of the Church"
           }
         },
         {
-          "slug": "02-black-death",
+          "slug": "l2",
           "title": {
             "en": "The Black Death"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g8-soc-unit-02-civil-war-02-reconstruction-quiz",
+      "title": "Quiz: Reconstruction",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-soc-unit-02-civil-war-02-reconstruction-lq01",
+          "type": "mcq",
+          "question": "Reconstruction was the period of rebuilding after the:",
+          "options": [
+            "Civil War",
+            "Revolution",
+            "WWII",
+            "Great Depression"
+          ],
+          "answer": "Civil War",
+          "explanation": "Post-war era."
+        },
+        {
+          "id": "g8-soc-unit-02-civil-war-02-reconstruction-lq02",
+          "type": "true_false",
+          "question": "Amendments after the Civil War ended slavery and expanded rights.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "13th-15th Amendments."
+        },
+        {
+          "id": "g8-soc-unit-02-civil-war-02-reconstruction-lq03",
+          "type": "fill_blank",
+          "question": "The 13th Amendment abolished ___.",
+          "answer": "slavery",
+          "explanation": "Abolition."
+        },
+        {
+          "id": "g8-soc-unit-02-civil-war-02-reconstruction-lq04",
+          "type": "short_answer",
+          "question": "What was the goal of Reconstruction?",
+          "answer": "To rebuild the South and integrate freed people as citizens.",
+          "explanation": "Reconstruction."
+        }
+      ]
+    }
+  ]
+}

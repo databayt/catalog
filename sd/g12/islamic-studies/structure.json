@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-tajweed",
+      "slug": "c1",
       "title": {
         "ar": "التجويد",
         "en": "Tajweed"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-prolongations-mudood",
+          "slug": "l1",
           "title": {
             "ar": "المدود",
             "en": "Prolongations (Mudood)"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-secondary-prolongation",
+          "slug": "l2",
           "title": {
             "ar": "المد الفرعي",
             "en": "Secondary Prolongation"
@@ -56,7 +56,7 @@
           "page": 2
         },
         {
-          "slug": "03-the-disjointed-letters",
+          "slug": "l3",
           "title": {
             "ar": "الحروف المتقطعة",
             "en": "The Disjointed Letters"
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "slug": "02-surat-an-nur-memorisation-and-exegesis",
+      "slug": "c2",
       "title": {
         "ar": "سورة النور (للحفظ والتفسير)",
         "en": "Surat An-Nur (Memorisation and Exegesis)"
@@ -77,7 +77,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة",
             "en": "Introduction"
@@ -85,7 +85,7 @@
           "page": 9
         },
         {
-          "slug": "02-the-punishment-for-adultery",
+          "slug": "l2",
           "title": {
             "ar": "عقوبة الزنا",
             "en": "The Punishment for Adultery"
@@ -93,7 +93,7 @@
           "page": 12
         },
         {
-          "slug": "03-the-rulings-on-slander-and-lian",
+          "slug": "l3",
           "title": {
             "ar": "حكم القذف بالزنا وحكم اللعان",
             "en": "The Rulings on Slander and Li'an"
@@ -101,7 +101,7 @@
           "page": 15
         },
         {
-          "slug": "04-the-incident-of-the-slander-1",
+          "slug": "l4",
           "title": {
             "ar": "حادثة الإفك (١)",
             "en": "The Incident of the Slander (1)"
@@ -109,7 +109,7 @@
           "page": 18
         },
         {
-          "slug": "05-the-incident-of-the-slander-2",
+          "slug": "l5",
           "title": {
             "ar": "حادثة الإفك (٢)",
             "en": "The Incident of the Slander (2)"
@@ -117,7 +117,7 @@
           "page": 23
         },
         {
-          "slug": "06-revisiting-the-story-of-the-slander",
+          "slug": "l6",
           "title": {
             "ar": "عودة على قصة الإفك",
             "en": "Revisiting the Story of the Slander"
@@ -125,7 +125,7 @@
           "page": 28
         },
         {
-          "slug": "07-etiquette-of-visiting-and-seeking-permission",
+          "slug": "l7",
           "title": {
             "ar": "آداب الزيارة والاستئذان",
             "en": "Etiquette of Visiting and Seeking Permission"
@@ -133,7 +133,7 @@
           "page": 33
         },
         {
-          "slug": "08-the-verse-of-the-hijab",
+          "slug": "l8",
           "title": {
             "ar": "آية الحجاب",
             "en": "The Verse of the Hijab"
@@ -141,7 +141,7 @@
           "page": 37
         },
         {
-          "slug": "09-resolving-social-crises",
+          "slug": "l9",
           "title": {
             "ar": "علاج الأزمات الاجتماعية",
             "en": "Resolving Social Crises"
@@ -149,7 +149,7 @@
           "page": 42
         },
         {
-          "slug": "10-god-is-the-light-of-the-heavens-and-the-earth",
+          "slug": "l10",
           "title": {
             "ar": "الله نور السماوات والأرض",
             "en": "God Is the Light of the Heavens and the Earth"
@@ -157,7 +157,7 @@
           "page": 46
         },
         {
-          "slug": "11-deeds-are-worthless-without-faith",
+          "slug": "l11",
           "title": {
             "ar": "لا قيمة للأعمال بلا إيمان",
             "en": "Deeds Are Worthless without Faith"
@@ -165,7 +165,7 @@
           "page": 51
         },
         {
-          "slug": "12-signs-of-gods-power",
+          "slug": "l12",
           "title": {
             "ar": "من دلائل قدرة الله",
             "en": "Signs of God's Power"
@@ -173,7 +173,7 @@
           "page": 54
         },
         {
-          "slug": "13-traits-of-the-lying-hypocrite-and-the-truthful",
+          "slug": "l13",
           "title": {
             "ar": "صفات المنافق الكاذب وصفات المؤمن الصادق",
             "en": "Traits of the Lying Hypocrite and the Truthful Believer"
@@ -181,7 +181,7 @@
           "page": 59
         },
         {
-          "slug": "14-the-believers-state-endures-with-faith",
+          "slug": "l14",
           "title": {
             "ar": "دولة المؤمنين تدوم بدوام الإيمان",
             "en": "The Believers' State Endures with Faith"
@@ -189,7 +189,7 @@
           "page": 64
         },
         {
-          "slug": "15-etiquette-of-seeking-permission-within-the",
+          "slug": "l15",
           "title": {
             "ar": "آداب الاستئذان داخل الأسرة",
             "en": "Etiquette of Seeking Permission within the Family"
@@ -197,7 +197,7 @@
           "page": 67
         },
         {
-          "slug": "16-relief-for-those-with-valid-excuses",
+          "slug": "l16",
           "title": {
             "ar": "رفع الحرج عن أصحاب الأعذار",
             "en": "Relief for Those with Valid Excuses"
@@ -205,7 +205,7 @@
           "page": 70
         },
         {
-          "slug": "17-the-believing-communitys-conduct-toward-its",
+          "slug": "l17",
           "title": {
             "ar": "أدب الجماعة المؤمنة مع قائدها",
             "en": "The Believing Community's Conduct toward Its Leader"
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "slug": "03-selected-verses-for-exegesis-and-understanding",
+      "slug": "c3",
       "title": {
         "ar": "آيات مختارة للتفسير والفهم",
         "en": "Selected Verses for Exegesis and Understanding"
@@ -226,7 +226,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-verses-of-inheritance",
+          "slug": "l1",
           "title": {
             "ar": "آيات المواريث",
             "en": "The Verses of Inheritance"
@@ -234,7 +234,7 @@
           "page": 77
         },
         {
-          "slug": "02-attributes-of-the-servants-of-the-most-merciful",
+          "slug": "l2",
           "title": {
             "ar": "صفات عباد الرحمن",
             "en": "Attributes of the Servants of the Most Merciful"
@@ -242,7 +242,7 @@
           "page": 92
         },
         {
-          "slug": "03-the-command-to-be-just-and-keep-covenants",
+          "slug": "l3",
           "title": {
             "ar": "الأمر بالعدل والوفاء بالعهد",
             "en": "The Command to Be Just and Keep Covenants"
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "slug": "04-general-jurisprudential-rulings",
+      "slug": "c4",
       "title": {
         "ar": "أحكام فقهية عامة",
         "en": "General Jurisprudential Rulings"
@@ -263,7 +263,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -271,7 +271,7 @@
           "page": 104
         },
         {
-          "slug": "02-rulings-on-offspring",
+          "slug": "l2",
           "title": {
             "ar": "أحكام النسل",
             "en": "Rulings on Offspring"
@@ -279,7 +279,7 @@
           "page": 105
         },
         {
-          "slug": "03-oaths",
+          "slug": "l3",
           "title": {
             "ar": "الأيمان",
             "en": "Oaths"
@@ -287,7 +287,7 @@
           "page": 112
         },
         {
-          "slug": "04-vows",
+          "slug": "l4",
           "title": {
             "ar": "النذور",
             "en": "Vows"
@@ -295,7 +295,7 @@
           "page": 115
         },
         {
-          "slug": "05-endowment-waqf",
+          "slug": "l5",
           "title": {
             "ar": "الوقف",
             "en": "Endowment (Waqf)"
@@ -303,7 +303,7 @@
           "page": 118
         },
         {
-          "slug": "06-debt",
+          "slug": "l6",
           "title": {
             "ar": "الدين",
             "en": "Debt"
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "slug": "05-the-islamic-nation-and-its-characteristics",
+      "slug": "c5",
       "title": {
         "ar": "الأمة الإسلامية وخصائصها",
         "en": "The Islamic Nation and Its Characteristics"
@@ -324,7 +324,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-meaning-and-origin-of-the-ummah",
+          "slug": "l1",
           "title": {
             "ar": "معنى الأمة ونشأتها",
             "en": "The Meaning and Origin of the Ummah"
@@ -332,7 +332,7 @@
           "page": 126
         },
         {
-          "slug": "02-the-rise-of-the-islamic-nation",
+          "slug": "l2",
           "title": {
             "ar": "نشأة الأمة الإسلامية",
             "en": "The Rise of the Islamic Nation"
@@ -340,7 +340,7 @@
           "page": 126
         },
         {
-          "slug": "03-divine-orientation",
+          "slug": "l3",
           "title": {
             "ar": "الربانية",
             "en": "Divine Orientation"
@@ -348,7 +348,7 @@
           "page": 129
         },
         {
-          "slug": "04-humanity",
+          "slug": "l4",
           "title": {
             "ar": "الإنسانية",
             "en": "Humanity"
@@ -356,7 +356,7 @@
           "page": 132
         },
         {
-          "slug": "05-comprehensiveness",
+          "slug": "l5",
           "title": {
             "ar": "الشمول",
             "en": "Comprehensiveness"
@@ -364,7 +364,7 @@
           "page": 137
         },
         {
-          "slug": "06-moderation",
+          "slug": "l6",
           "title": {
             "ar": "الوسطية",
             "en": "Moderation"
@@ -372,7 +372,7 @@
           "page": 141
         },
         {
-          "slug": "07-constancy-and-flexibility",
+          "slug": "l7",
           "title": {
             "ar": "الثبات والمرونة",
             "en": "Constancy and Flexibility"
@@ -380,7 +380,7 @@
           "page": 144
         },
         {
-          "slug": "08-islam-the-religion-of-monotheism",
+          "slug": "l8",
           "title": {
             "ar": "الإسلام دين التوحيد",
             "en": "Islam, the Religion of Monotheism"
@@ -388,7 +388,7 @@
           "page": 147
         },
         {
-          "slug": "09-oneness-of-worship",
+          "slug": "l9",
           "title": {
             "ar": "توحيد الألوهية",
             "en": "Oneness of Worship"
@@ -396,7 +396,7 @@
           "page": 147
         },
         {
-          "slug": "10-oneness-of-names-and-attributes",
+          "slug": "l10",
           "title": {
             "ar": "توحيد الأسماء والصفات",
             "en": "Oneness of Names and Attributes"
@@ -404,7 +404,7 @@
           "page": 149
         },
         {
-          "slug": "11-manifestations-of-monotheism-in-islam",
+          "slug": "l11",
           "title": {
             "ar": "مظاهر التوحيد في دين الإسلام",
             "en": "Manifestations of Monotheism in Islam"
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "slug": "06-faith-and-knowledge-in-the-books-of-the-sunnah",
+      "slug": "c6",
       "title": {
         "ar": "الإيمان والعلم في كتاب السنة",
         "en": "Faith and Knowledge in the Books of the Sunnah"
@@ -425,7 +425,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-faith-in-sahih-al-bukhari",
+          "slug": "l1",
           "title": {
             "ar": "الإيمان من كتاب صحيح البخاري",
             "en": "Faith in Sahih Al-Bukhari"
@@ -433,7 +433,7 @@
           "page": 156
         },
         {
-          "slug": "02-knowledge",
+          "slug": "l2",
           "title": {
             "ar": "العلم",
             "en": "Knowledge"

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g7-soc-unit-01-world-history-01-middle-ages-lq01",
+      "type": "mcq",
+      "question": "The social system of lords and vassals was:",
+      "options": [
+        "feudalism",
+        "democracy",
+        "capitalism",
+        "socialism"
+      ],
+      "answer": "feudalism",
+      "explanation": "Medieval system."
+    },
+    {
+      "id": "g7-soc-unit-01-world-history-01-middle-ages-lq02",
+      "type": "true_false",
+      "question": "The Middle Ages followed the fall of the Roman Empire.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "c. 500-1500."
+    },
+    {
+      "id": "g7-soc-unit-01-world-history-01-middle-ages-lq03",
+      "type": "fill_blank",
+      "question": "Powerful religious institutions shaped medieval ___.",
+      "answer": "society",
+      "explanation": "Church influence."
+    },
+    {
+      "id": "g7-soc-unit-01-world-history-01-middle-ages-lq04",
+      "type": "short_answer",
+      "question": "What was feudalism?",
+      "answer": "A system where land was exchanged for service and loyalty.",
+      "explanation": "Feudalism."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "arabic",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-ara-unit-02-bayan-01-tashbih-quiz",
+      "title": "Quiz: التشبيه",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq01",
+          "type": "mcq",
+          "question": "(العلمُ كالنورِ) أسلوب:",
+          "options": [
+            "تشبيه",
+            "استعارة",
+            "كناية",
+            "خبر"
+          ],
+          "answer": "تشبيه",
+          "explanation": "أداة الكاف."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq02",
+          "type": "true_false",
+          "question": "التشبيه يحتاج إلى مشبه ومشبه به.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "أركان التشبيه."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq03",
+          "type": "fill_blank",
+          "question": "أداة التشبيه في (كالأسد) هي ___.",
+          "answer": "الكاف",
+          "explanation": "أداة التشبيه."
+        },
+        {
+          "id": "g10-ara-unit-02-bayan-01-tashbih-lq04",
+          "type": "short_answer",
+          "question": "هات تشبيهاً.",
+          "answer": "مثل: الجنديُّ كالأسدِ في الشجاعة.",
+          "explanation": "التشبيه."
+        }
+      ]
+    }
+  ]
+}

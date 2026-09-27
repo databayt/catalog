@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-my-country",
+      "slug": "c1",
       "title": {
         "en": "The UAE — My Country"
       },
       "lessons": [
         {
-          "slug": "01-uae",
+          "slug": "l1",
           "title": {
             "en": "About the UAE"
           }
         },
         {
-          "slug": "02-symbols",
+          "slug": "l2",
           "title": {
             "en": "National Symbols"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-tolerance",
+      "slug": "c2",
       "title": {
         "en": "Tolerance & Friendship"
       },
       "lessons": [
         {
-          "slug": "01-tolerance",
+          "slug": "l1",
           "title": {
             "en": "Tolerance"
           }
         },
         {
-          "slug": "02-friendship",
+          "slug": "l2",
           "title": {
             "en": "Friendship"
           }

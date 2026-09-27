@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-drawing",
+      "slug": "c1",
       "title": {
         "ar": "الرسم",
         "en": "Drawing"
@@ -29,46 +29,46 @@
       "image": "clickview/elementary-artistic-techniques-cover.jpg",
       "lessons": [
         {
-          "slug": "01-household-vessels",
+          "slug": "l1",
           "title": {
             "ar": "رسم الأواني المنزلية"
           }
         },
         {
-          "slug": "02-color-gradient",
+          "slug": "l2",
           "title": {
             "ar": "التدرج اللوني"
           },
           "image": "clickview/elementary-color-cover.jpg"
         },
         {
-          "slug": "03-eid-joy",
+          "slug": "l3",
           "title": {
             "ar": "فرحة العيد"
           }
         },
         {
-          "slug": "04-folk-heritage",
+          "slug": "l4",
           "title": {
             "ar": "التراث الشعبي"
           },
           "image": "clickview/elementary-world-art-cover.jpg"
         },
         {
-          "slug": "05-natural-landscape",
+          "slug": "l5",
           "title": {
             "ar": "رسم لمنظر طبيعي"
           }
         },
         {
-          "slug": "06-tawaf-around-kaaba",
+          "slug": "l6",
           "title": {
             "ar": "الطواف حول الكعبة الشريفة"
           },
           "image": "clickview/elementary-islam-cover.jpg"
         },
         {
-          "slug": "07-market",
+          "slug": "l7",
           "title": {
             "ar": "السوق"
           }
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "slug": "02-design-and-decoration",
+      "slug": "c2",
       "title": {
         "ar": "التصميم والزخرفة",
         "en": "Design and Decoration"
@@ -85,45 +85,45 @@
       "image": "clickview/middle-design-thinking-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-artistic-design",
+          "slug": "l1",
           "title": {
             "ar": "التصميم الفني"
           }
         },
         {
-          "slug": "02-decorative-design",
+          "slug": "l2",
           "title": {
             "ar": "تصميم زخرفي"
           }
         },
         {
-          "slug": "03-overlapping-shapes",
+          "slug": "l3",
           "title": {
             "ar": "التداخل بين الأشكال"
           }
         },
         {
-          "slug": "04-prayer-rug-design",
+          "slug": "l4",
           "title": {
             "ar": "تصميم مُصلاية أو سجادة الصلاة"
           },
           "image": "clickview/elementary-islam-cover.jpg"
         },
         {
-          "slug": "05-arabic-calligraphy",
+          "slug": "l5",
           "title": {
             "ar": "الخطوط العربية"
           },
           "image": "clickview/elementary-arabic-cover.jpg"
         },
         {
-          "slug": "06-botanical-decoration",
+          "slug": "l6",
           "title": {
             "ar": "الزخرفة النباتية"
           }
         },
         {
-          "slug": "07-geometric-decoration",
+          "slug": "l7",
           "title": {
             "ar": "الزخرفة الهندسية"
           },
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "slug": "03-forming-and-assembly",
+      "slug": "c3",
       "title": {
         "ar": "التشكيل والتركيب",
         "en": "Forming and Assembly"
@@ -141,44 +141,44 @@
       "image": "clickview/elementary-materials-in-design-cover.jpg",
       "lessons": [
         {
-          "slug": "01-mixed-materials",
+          "slug": "l1",
           "title": {
             "ar": "التشكيل بخامات متنوعة"
           }
         },
         {
-          "slug": "02-dyes",
+          "slug": "l2",
           "title": {
             "ar": "الأصباغ"
           }
         },
         {
-          "slug": "03-paper-weaving",
+          "slug": "l3",
           "title": {
             "ar": "أعمال النسيج الورقي"
           },
           "image": "clickview/middle-textiles-cover.jpg"
         },
         {
-          "slug": "04-spray-printing",
+          "slug": "l4",
           "title": {
             "ar": "الطباعة بالبخ (الرش)"
           }
         },
         {
-          "slug": "05-clay-works",
+          "slug": "l5",
           "title": {
             "ar": "أعمال الطين"
           }
         },
         {
-          "slug": "06-seed-forming",
+          "slug": "l6",
           "title": {
             "ar": "التشكيل بالحبوب"
           }
         },
         {
-          "slug": "07-3d-forming",
+          "slug": "l7",
           "title": {
             "ar": "التشكيل ثلاثي الأبعاد"
           },

@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-environment-around-us",
+      "slug": "c1",
       "title": {
         "ar": "البيئة من حولنا",
         "en": "The Environment Around Us"
@@ -29,44 +29,44 @@
       "image": "clickview/elementary-map-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-geography-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الجغرافيا"
           }
         },
         {
-          "slug": "02-environment-concept",
+          "slug": "l2",
           "title": {
             "ar": "مفهوم البيئة"
           }
         },
         {
-          "slug": "03-environment-elements",
+          "slug": "l3",
           "title": {
             "ar": "عناصر البيئة"
           }
         },
         {
-          "slug": "04-natural-environment",
+          "slug": "l4",
           "title": {
             "ar": "البيئة الطبيعية"
           }
         },
         {
-          "slug": "05-human-environment",
+          "slug": "l5",
           "title": {
             "ar": "البيئة البشرية"
           }
         },
         {
-          "slug": "06-directions",
+          "slug": "l6",
           "title": {
             "ar": "الاتجاهات"
           },
           "image": "clickview/elementary-orientation-cover.jpg"
         },
         {
-          "slug": "07-map-elements",
+          "slug": "l7",
           "title": {
             "ar": "الخريطة وعناصرها"
           }
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-my-school-environment",
+      "slug": "c2",
       "title": {
         "ar": "بيئتي المدرسية",
         "en": "My School Environment"
@@ -83,44 +83,44 @@
       "image": "clickview/elementary-the-school-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-my-classroom-1",
+          "slug": "l1",
           "title": {
             "ar": "فصلي ١"
           }
         },
         {
-          "slug": "02-my-classroom-2",
+          "slug": "l2",
           "title": {
             "ar": "فصلي ٢"
           }
         },
         {
-          "slug": "03-my-school",
+          "slug": "l3",
           "title": {
             "ar": "مدرستي"
           }
         },
         {
-          "slug": "04-school-environment",
+          "slug": "l4",
           "title": {
             "ar": "بيئة المدرسة"
           }
         },
         {
-          "slug": "05-school-neighborhood",
+          "slug": "l5",
           "title": {
             "ar": "حي المدرسة"
           }
         },
         {
-          "slug": "06-school-neighborhood-map",
+          "slug": "l6",
           "title": {
             "ar": "خريطة حي المدرسة"
           },
           "image": "clickview/elementary-map-skills-cover.jpg"
         },
         {
-          "slug": "07-imaginary-visits",
+          "slug": "l7",
           "title": {
             "ar": "الزيارات الخيالية"
           }
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "slug": "03-my-family-environment",
+      "slug": "c3",
       "title": {
         "ar": "بيئتي الأسرية",
         "en": "My Family Environment"
@@ -137,44 +137,44 @@
       "image": "clickview/elementary-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-family-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الأسرة"
           }
         },
         {
-          "slug": "02-my-home",
+          "slug": "l2",
           "title": {
             "ar": "منزلي"
           }
         },
         {
-          "slug": "03-home-neighborhood",
+          "slug": "l3",
           "title": {
             "ar": "حي المنزل"
           }
         },
         {
-          "slug": "04-home-neighborhood-services",
+          "slug": "l4",
           "title": {
             "ar": "خدمات حي المنزل"
           }
         },
         {
-          "slug": "05-market",
+          "slug": "l5",
           "title": {
             "ar": "السوق"
           },
           "image": "clickview/elementary-the-economy-cover.jpg"
         },
         {
-          "slug": "06-roads",
+          "slug": "l6",
           "title": {
             "ar": "الطرق"
           }
         },
         {
-          "slug": "07-local-traffic",
+          "slug": "l7",
           "title": {
             "ar": "حركة المرور المحلية"
           },

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g4-eng-unit-01-reading-02-summarizing-quiz",
+      "title": "Quiz: Summarizing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-eng-unit-01-reading-02-summarizing-lq01",
+          "type": "mcq",
+          "question": "A summary should be:",
+          "options": [
+            "longer than the text",
+            "short with key points",
+            "only the first line",
+            "a copy"
+          ],
+          "answer": "short with key points",
+          "explanation": "Brief, main points only."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-02-summarizing-lq02",
+          "type": "true_false",
+          "question": "A summary leaves out minor details.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Keep only the essentials."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-02-summarizing-lq03",
+          "type": "fill_blank",
+          "question": "Restating the key points briefly is ___.",
+          "answer": "summarizing",
+          "explanation": "Summary."
+        },
+        {
+          "id": "g4-eng-unit-01-reading-02-summarizing-lq04",
+          "type": "short_answer",
+          "question": "What makes a good summary?",
+          "answer": "It is brief and captures the main ideas in your own words.",
+          "explanation": "Concise + accurate."
+        }
+      ]
+    }
+  ]
+}

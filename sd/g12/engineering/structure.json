@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-fundamentals-of-engineering-drawing",
+      "slug": "c1",
       "title": {
         "ar": "أساسيات الرسم الهندسي",
         "en": "Fundamentals of Engineering Drawing"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-parallel-projection-arranging-views-on-the-sheet",
+          "slug": "l1",
           "title": {
             "ar": "الإسقاط المتوازي: توزيع المساقط على ورقة الرسم",
             "en": "Parallel Projection: Arranging Views on the Sheet"
@@ -72,7 +72,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-drawing-views-from-a-pictorial",
+          "slug": "l2",
           "title": {
             "ar": "رسم المساقط من المنظور المجسم",
             "en": "Drawing Views from a Pictorial"
@@ -87,7 +87,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-deriving-the-third-view-from-two-views",
+          "slug": "l3",
           "title": {
             "ar": "استنتاج المسقط الثالث بمعلومية مسقطين",
             "en": "Deriving the Third View from Two Views"
@@ -102,7 +102,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "04-engineering-pictorials-perspective-drawing",
+          "slug": "l4",
           "title": {
             "ar": "المنظور الهندسي: المنظور التصويري",
             "en": "Engineering Pictorials: Perspective Drawing"
@@ -117,7 +117,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-isometric-projection",
+          "slug": "l5",
           "title": {
             "ar": "المنظور المائل على وجهين (الإيسومتري)",
             "en": "Isometric Projection"
@@ -132,7 +132,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-drawing-an-isometric-from-given-views",
+          "slug": "l6",
           "title": {
             "ar": "رسم المنظور الإيسومتري من مساقط معلومة",
             "en": "Drawing an Isometric from Given Views"
@@ -147,7 +147,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-oblique-projection",
+          "slug": "l7",
           "title": {
             "ar": "المنظور المائل على وجه واحد (الأوبليك)",
             "en": "Oblique Projection"
@@ -162,7 +162,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-drawing-an-oblique-pictorial",
+          "slug": "l8",
           "title": {
             "ar": "رسم المنظور الأوبليك",
             "en": "Drawing an Oblique Pictorial"
@@ -177,7 +177,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "09-development-views-and-surface-development-of-a",
+          "slug": "l9",
           "title": {
             "ar": "الإفراد: رسم مساقط الأسطوانة وإفراد سطحها",
             "en": "Development: Views and Surface Development of a Cylinder"
@@ -192,7 +192,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-views-and-surface-development-of-a-cone",
+          "slug": "l10",
           "title": {
             "ar": "رسم مساقط المخروط وإفراد سطحه",
             "en": "Views and Surface Development of a Cone"
@@ -207,7 +207,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-views-and-surface-development-of-a-prism",
+          "slug": "l11",
           "title": {
             "ar": "رسم مساقط المنشور وإفراد سطحه",
             "en": "Views and Surface Development of a Prism"
@@ -222,7 +222,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-the-triangular-prism",
+          "slug": "l12",
           "title": {
             "ar": "المنشور الثلاثي",
             "en": "The Triangular Prism"
@@ -237,7 +237,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "13-views-and-surface-development-of-a-hexagonal",
+          "slug": "l13",
           "title": {
             "ar": "رسم مساقط هرم سداسي وإفراد سطحه",
             "en": "Views and Surface Development of a Hexagonal Pyramid"
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "slug": "02-fundamentals-of-mechanical-engineering",
+      "slug": "c2",
       "title": {
         "ar": "أساسيات الهندسة الميكانيكية",
         "en": "Fundamentals of Mechanical Engineering"
@@ -266,7 +266,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-machines-benefits-of-simple-machines",
+          "slug": "l1",
           "title": {
             "ar": "الآلات: فوائد الآلات البسيطة",
             "en": "Machines: Benefits of Simple Machines"
@@ -281,7 +281,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-mechanical-advantage",
+          "slug": "l2",
           "title": {
             "ar": "الفائدة الميكانيكية",
             "en": "Mechanical Advantage"
@@ -296,7 +296,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-machine-efficiency",
+          "slug": "l3",
           "title": {
             "ar": "كفاءة الآلة",
             "en": "Machine Efficiency"
@@ -311,7 +311,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-ideal-machine",
+          "slug": "l4",
           "title": {
             "ar": "الآلة المثالية",
             "en": "The Ideal Machine"
@@ -326,7 +326,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-velocity-ratio",
+          "slug": "l5",
           "title": {
             "ar": "نسبة السرعة",
             "en": "Velocity Ratio"
@@ -341,7 +341,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-the-lever",
+          "slug": "l6",
           "title": {
             "ar": "الرافعة الميكانيكية",
             "en": "The Lever"
@@ -356,7 +356,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-pulleys",
+          "slug": "l7",
           "title": {
             "ar": "البكرات",
             "en": "Pulleys"
@@ -371,7 +371,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-the-wheel-and-axle",
+          "slug": "l8",
           "title": {
             "ar": "الملفاف",
             "en": "The Wheel and Axle"
@@ -386,7 +386,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-the-inclined-plane",
+          "slug": "l9",
           "title": {
             "ar": "المستوى المائل",
             "en": "The Inclined Plane"
@@ -401,7 +401,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "10-the-screw-jack",
+          "slug": "l10",
           "title": {
             "ar": "المرفاع اللولبي",
             "en": "The Screw Jack"
@@ -416,7 +416,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "11-power-transmission-the-concept-of-motion",
+          "slug": "l11",
           "title": {
             "ar": "نقل الحركة: مفهوم الحركة",
             "en": "Power Transmission: The Concept of Motion"
@@ -431,7 +431,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "12-belt-drives",
+          "slug": "l12",
           "title": {
             "ar": "نقل الحركة بواسطة السيور",
             "en": "Belt Drives"
@@ -446,7 +446,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "13-gear-drives",
+          "slug": "l13",
           "title": {
             "ar": "نقل الحركة بالمسننات",
             "en": "Gear Drives"
@@ -461,7 +461,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-chain-drives",
+          "slug": "l14",
           "title": {
             "ar": "نقل الحركة بالسلاسل والجنازير",
             "en": "Chain Drives"
@@ -476,7 +476,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "15-machine-tools-drilling-machines",
+          "slug": "l15",
           "title": {
             "ar": "آلات التشغيل: آلات التثقيب",
             "en": "Machine Tools: Drilling Machines"
@@ -491,7 +491,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "16-portable-drilling-machines",
+          "slug": "l16",
           "title": {
             "ar": "آلات التثقيب المتحركة",
             "en": "Portable Drilling Machines"
@@ -506,7 +506,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "17-vertical-drilling-machines",
+          "slug": "l17",
           "title": {
             "ar": "آلات التثقيب الرأسية",
             "en": "Vertical Drilling Machines"
@@ -521,7 +521,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "18-bench-drilling-machines",
+          "slug": "l18",
           "title": {
             "ar": "آلات التثقيب الدف",
             "en": "Bench Drilling Machines"
@@ -536,7 +536,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "19-the-sensitive-drilling-machine",
+          "slug": "l19",
           "title": {
             "ar": "آلة التثقيب الحساسة",
             "en": "The Sensitive Drilling Machine"
@@ -551,7 +551,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "20-calculating-cutting-speed-for-drilling",
+          "slug": "l20",
           "title": {
             "ar": "حساب سرعة القطع لآلات التثقيب",
             "en": "Calculating Cutting Speed for Drilling"
@@ -566,7 +566,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "21-calculating-machining-time",
+          "slug": "l21",
           "title": {
             "ar": "حساب زمن التشغيل",
             "en": "Calculating Machining Time"
@@ -581,7 +581,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "22-diesel-engines-introduction",
+          "slug": "l22",
           "title": {
             "ar": "محركات الديزل: مقدمة",
             "en": "Diesel Engines: Introduction"
@@ -596,7 +596,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "23-main-parts-of-the-diesel-engine",
+          "slug": "l23",
           "title": {
             "ar": "الأجزاء الرئيسة لمحرك الديزل",
             "en": "Main Parts of the Diesel Engine"
@@ -611,7 +611,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "24-the-four-stroke-diesel-cycle",
+          "slug": "l24",
           "title": {
             "ar": "دورة الديزل الرباعية",
             "en": "The Four-stroke Diesel Cycle"
@@ -626,7 +626,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "25-the-compression-ratio",
+          "slug": "l25",
           "title": {
             "ar": "نسبة الانضغاط",
             "en": "The Compression Ratio"
@@ -643,7 +643,7 @@
       ]
     },
     {
-      "slug": "03-fundamentals-of-electrical-engineering",
+      "slug": "c3",
       "title": {
         "ar": "أساسيات الهندسة الكهربائية",
         "en": "Fundamentals of Electrical Engineering"
@@ -655,7 +655,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-electrical-machines-dc-machines",
+          "slug": "l1",
           "title": {
             "ar": "الآلات الكهربائية: ماكينات التيار المستمر",
             "en": "Electrical Machines: DC Machines"
@@ -671,7 +671,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-parts-of-dc-machines",
+          "slug": "l2",
           "title": {
             "ar": "أجزاء ماكينات التيار المستمر",
             "en": "Parts of DC Machines"
@@ -687,7 +687,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-the-emf-equation-of-the-armature",
+          "slug": "l3",
           "title": {
             "ar": "معادلة القوة الدافعة الكهربائية المنتجة في موصلات عضو الإنتاج",
             "en": "The EMF Equation of the Armature"
@@ -703,7 +703,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-generator-performance-under-load",
+          "slug": "l4",
           "title": {
             "ar": "مواصفات أداء المولد مع الحمل الكهربائي",
             "en": "Generator Performance under Load"
@@ -719,7 +719,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-the-dc-motor",
+          "slug": "l5",
           "title": {
             "ar": "محرك التيار المستمر",
             "en": "The DC Motor"
@@ -735,7 +735,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-ac-generators-introduction",
+          "slug": "l6",
           "title": {
             "ar": "مولدات التيار المتردد: مقدمة",
             "en": "AC Generators: Introduction"
@@ -751,7 +751,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-the-emf-produced-in-an-ac-generator",
+          "slug": "l7",
           "title": {
             "ar": "مقدار القوة الدافعة الكهربائية المنتجة في مولد التيار المتردد",
             "en": "The EMF Produced in an AC Generator"
@@ -767,7 +767,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-the-effect-of-poles-and-speed-on-frequency",
+          "slug": "l8",
           "title": {
             "ar": "أثر الأقطاب المغناطيسية والسرعة على التردد",
             "en": "The Effect of Poles and Speed on Frequency"
@@ -783,7 +783,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-ac-circuits",
+          "slug": "l9",
           "title": {
             "ar": "دوائر التيار المتردد",
             "en": "AC Circuits"
@@ -798,7 +798,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "10-ac-in-a-purely-capacitive-circuit",
+          "slug": "l10",
           "title": {
             "ar": "التيار المتردد في دائرة بها مواسعة فقط",
             "en": "AC in a Purely Capacitive Circuit"
@@ -813,7 +813,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-capacitive-reactance",
+          "slug": "l11",
           "title": {
             "ar": "المفاعلة السعوية",
             "en": "Capacitive Reactance"
@@ -828,7 +828,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-ac-in-a-purely-inductive-circuit",
+          "slug": "l12",
           "title": {
             "ar": "التيار المتردد في دائرة بها محاثة فقط",
             "en": "AC in a Purely Inductive Circuit"
@@ -843,7 +843,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "13-inductive-reactance",
+          "slug": "l13",
           "title": {
             "ar": "المفاعلة الحثية",
             "en": "Inductive Reactance"
@@ -858,7 +858,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-ac-in-a-series-rc-circuit",
+          "slug": "l14",
           "title": {
             "ar": "التيار المتردد في دائرة بها مواسعة ومقاومة على التوالي",
             "en": "AC in a Series RC Circuit"
@@ -873,7 +873,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "15-the-three-phase-ac-generator",
+          "slug": "l15",
           "title": {
             "ar": "مولد التيار المتردد ثلاثي الأطوار",
             "en": "The Three-phase AC Generator"
@@ -888,7 +888,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "16-types-of-three-phase-generators",
+          "slug": "l16",
           "title": {
             "ar": "أنواع مولدات التيار المتردد ثلاثي الأطوار",
             "en": "Types of Three-phase Generators"
@@ -903,7 +903,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "17-generator-rating",
+          "slug": "l17",
           "title": {
             "ar": "تقنين المولدات",
             "en": "Generator Rating"
@@ -918,7 +918,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "18-power-generation-in-three-phase-generators",
+          "slug": "l18",
           "title": {
             "ar": "توليد القدرة في مولدات التيار المتردد ثلاثي الأطوار",
             "en": "Power Generation in Three-phase Generators"
@@ -933,7 +933,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "19-connecting-the-generator-terminals",
+          "slug": "l19",
           "title": {
             "ar": "توصيل أطراف المولد",
             "en": "Connecting the Generator Terminals"
@@ -948,7 +948,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "20-transformers",
+          "slug": "l20",
           "title": {
             "ar": "المحولات",
             "en": "Transformers"
@@ -963,7 +963,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "21-main-parts-of-the-transformer",
+          "slug": "l21",
           "title": {
             "ar": "أجزاء المحول الرئيسة",
             "en": "Main Parts of the Transformer"
@@ -978,7 +978,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "22-transformer-principle-and-equations",
+          "slug": "l22",
           "title": {
             "ar": "فكرة عمل المحول ومعادلات المحول",
             "en": "Transformer Principle and Equations"
@@ -993,7 +993,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "23-transformer-losses-and-efficiency",
+          "slug": "l23",
           "title": {
             "ar": "فواقد المحول والكفاءة",
             "en": "Transformer Losses and Efficiency"
@@ -1008,7 +1008,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "24-types-of-transformers",
+          "slug": "l24",
           "title": {
             "ar": "أنواع المحولات",
             "en": "Types of Transformers"
@@ -1023,7 +1023,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "25-electronics-the-diode",
+          "slug": "l25",
           "title": {
             "ar": "هندسة الإلكترونيات: الثنائي (الدايود)",
             "en": "Electronics: The Diode"
@@ -1040,7 +1040,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "26-types-of-diodes",
+          "slug": "l26",
           "title": {
             "ar": "أنواع الثنائي",
             "en": "Types of Diodes"
@@ -1057,7 +1057,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "27-diode-applications",
+          "slug": "l27",
           "title": {
             "ar": "تطبيقات الثنائي",
             "en": "Diode Applications"
@@ -1074,7 +1074,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "28-the-transistor",
+          "slug": "l28",
           "title": {
             "ar": "الترانزستور",
             "en": "The Transistor"
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "slug": "04-fundamentals-of-civil-engineering",
+      "slug": "c4",
       "title": {
         "ar": "أساسيات الهندسة المدنية",
         "en": "Fundamentals of Civil Engineering"
@@ -1105,7 +1105,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-definitions-and-terms",
+          "slug": "l1",
           "title": {
             "ar": "تعريفات ومصطلحات",
             "en": "Definitions and Terms"
@@ -1120,7 +1120,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-resultant-force",
+          "slug": "l2",
           "title": {
             "ar": "محصلة القوة",
             "en": "The Resultant Force"
@@ -1135,7 +1135,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-resolving-forces",
+          "slug": "l3",
           "title": {
             "ar": "تحليل القوة",
             "en": "Resolving Forces"
@@ -1150,7 +1150,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-moments",
+          "slug": "l4",
           "title": {
             "ar": "العزوم",
             "en": "Moments"
@@ -1165,7 +1165,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-structural-engineering-static-equilibrium",
+          "slug": "l5",
           "title": {
             "ar": "أساسيات هندسة الإنشاءات: الاتزان السكوني (الإستاتيكي)",
             "en": "Structural Engineering: Static Equilibrium"
@@ -1180,7 +1180,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "06-trusses",
+          "slug": "l6",
           "title": {
             "ar": "الجملونات",
             "en": "Trusses"
@@ -1195,7 +1195,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-truss-analysis",
+          "slug": "l7",
           "title": {
             "ar": "تحليل الجملون",
             "en": "Truss Analysis"
@@ -1210,7 +1210,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "08-shear-forces",
+          "slug": "l8",
           "title": {
             "ar": "قوى القص",
             "en": "Shear Forces"
@@ -1225,7 +1225,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "09-fluid-engineering-introduction",
+          "slug": "l9",
           "title": {
             "ar": "أساسيات هندسة الموائع: مقدمة",
             "en": "Fluid Engineering: Introduction"
@@ -1242,7 +1242,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-the-ideal-gas-law",
+          "slug": "l10",
           "title": {
             "ar": "قانون الغاز المثالي",
             "en": "The Ideal Gas Law"
@@ -1259,7 +1259,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "11-static-fluids",
+          "slug": "l11",
           "title": {
             "ar": "الموائع الساكنة",
             "en": "Static Fluids"
@@ -1276,7 +1276,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-pressure-measuring-instruments",
+          "slug": "l12",
           "title": {
             "ar": "أجهزة قياس الضغط",
             "en": "Pressure-measuring Instruments"
@@ -1293,7 +1293,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "13-precipitation",
+          "slug": "l13",
           "title": {
             "ar": "التساقط",
             "en": "Precipitation"
@@ -1310,7 +1310,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-measuring-precipitation",
+          "slug": "l14",
           "title": {
             "ar": "قياس التساقط",
             "en": "Measuring Precipitation"
@@ -1327,7 +1327,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "15-areal-distribution-of-rainfall",
+          "slug": "l15",
           "title": {
             "ar": "التوزيع المساحي للأمطار",
             "en": "Areal Distribution of Rainfall"

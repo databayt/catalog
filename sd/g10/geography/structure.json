@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-foundations-of-physical-geography",
+      "slug": "c1",
       "title": {
         "ar": "أسس الجغرافيا الطبيعية",
         "en": "Foundations of Physical Geography"
@@ -29,68 +29,68 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "lessons": [
         {
-          "slug": "01-universe",
+          "slug": "l1",
           "title": {
             "ar": "الكون"
           },
           "image": "clickview/high-the-universe-cover.jpg"
         },
         {
-          "slug": "02-earth",
+          "slug": "l2",
           "title": {
             "ar": "الأرض"
           },
           "image": "clickview/high-our-solar-system-cover.jpg"
         },
         {
-          "slug": "03-climate-weather-maps",
+          "slug": "l3",
           "title": {
             "ar": "المناخ والخرائط المناخية"
           }
         },
         {
-          "slug": "04-climate-zones",
+          "slug": "l4",
           "title": {
             "ar": "النطاقات المناخية"
           }
         },
         {
-          "slug": "05-solar-radiation",
+          "slug": "l5",
           "title": {
             "ar": "الإشعاع الشمسي"
           },
           "image": "clickview/high-atmosphere-cover.jpg"
         },
         {
-          "slug": "06-earth-crust",
+          "slug": "l6",
           "title": {
             "ar": "القشرة الأرضية"
           },
           "image": "clickview/high-tectonic-landforms-cover.jpg"
         },
         {
-          "slug": "07-factors-affecting-earth-elevation",
+          "slug": "l7",
           "title": {
             "ar": "العوامل المؤثرة في ارتفاع سطح الأرض"
           },
           "image": "clickview/high-plate-tectonics-cover.jpg"
         },
         {
-          "slug": "08-rocks",
+          "slug": "l8",
           "title": {
             "ar": "الصخور"
           },
           "image": "clickview/middle-rock-cycle-cover.jpg"
         },
         {
-          "slug": "09-erosion-processes",
+          "slug": "l9",
           "title": {
             "ar": "عمليات التعرية"
           },
           "image": "clickview/elementary-weathering-and-erosion-cover.jpg"
         },
         {
-          "slug": "10-water",
+          "slug": "l10",
           "title": {
             "ar": "المياه"
           },
@@ -99,7 +99,7 @@
       ]
     },
     {
-      "slug": "02-climate-and-natural-phenomena",
+      "slug": "c2",
       "title": {
         "ar": "المناخ والظواهر الطبيعية",
         "en": "Climate and Natural Phenomena"
@@ -108,13 +108,13 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "lessons": [
         {
-          "slug": "01-definition-climate-science",
+          "slug": "l1",
           "title": {
             "ar": "تعريف علم المناخ"
           }
         },
         {
-          "slug": "02-climate-weather",
+          "slug": "l2",
           "title": {
             "ar": "المناخ والطقس"
           }

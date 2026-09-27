@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-eng-unit-02-composition-02-rhetoric-quiz",
+      "title": "Quiz: Rhetorical Appeals",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-eng-unit-02-composition-02-rhetoric-lq01",
+          "type": "mcq",
+          "question": "An appeal to logic is:",
+          "options": [
+            "ethos",
+            "pathos",
+            "logos",
+            "kairos"
+          ],
+          "answer": "logos",
+          "explanation": "Logic/evidence."
+        },
+        {
+          "id": "g9-eng-unit-02-composition-02-rhetoric-lq02",
+          "type": "true_false",
+          "question": "Ethos is an appeal based on credibility.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Speaker's authority."
+        },
+        {
+          "id": "g9-eng-unit-02-composition-02-rhetoric-lq03",
+          "type": "fill_blank",
+          "question": "An appeal to emotion is ___.",
+          "answer": "pathos",
+          "explanation": "Emotional appeal."
+        },
+        {
+          "id": "g9-eng-unit-02-composition-02-rhetoric-lq04",
+          "type": "short_answer",
+          "question": "Give an example of pathos in persuasion.",
+          "answer": "e.g., a story that evokes sympathy for a cause.",
+          "explanation": "Emotional appeal."
+        }
+      ]
+    }
+  ]
+}

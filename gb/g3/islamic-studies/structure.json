@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-iman",
+      "slug": "c1",
       "title": {
         "ar": "أركان الإيمان"
       },
       "lessons": [
         {
-          "slug": "01-iman",
+          "slug": "l1",
           "title": {
             "ar": "أركان الإيمان الستة"
           }
         },
         {
-          "slug": "02-seerah-childhood",
+          "slug": "l2",
           "title": {
             "ar": "طفولة النبي ﷺ"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-prophets",
+      "slug": "c2",
       "title": {
         "ar": "قصص الأنبياء"
       },
       "lessons": [
         {
-          "slug": "01-adam",
+          "slug": "l1",
           "title": {
             "ar": "آدم عليه السلام"
           }
         },
         {
-          "slug": "02-nuh",
+          "slug": "l2",
           "title": {
             "ar": "نوح عليه السلام"
           }

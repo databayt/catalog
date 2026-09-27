@@ -44,7 +44,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-asexual-reproduction",
+      "slug": "c1",
       "title": {
         "ar": "التكاثر غير الجنسي",
         "en": "Asexual Reproduction"
@@ -56,7 +56,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-characteristics-of-asexual-reproduction",
+          "slug": "l1",
           "title": {
             "ar": "خصائص التكاثر غير الجنسي",
             "en": "Characteristics of Asexual Reproduction"
@@ -71,7 +71,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-benefits-of-asexual-reproduction",
+          "slug": "l2",
           "title": {
             "ar": "فوائد التكاثر غير الجنسي",
             "en": "Benefits of Asexual Reproduction"
@@ -86,7 +86,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-disadvantages-of-asexual-reproduction",
+          "slug": "l3",
           "title": {
             "ar": "عيوب التكاثر غير الجنسي",
             "en": "Disadvantages of Asexual Reproduction"
@@ -100,7 +100,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-methods-of-asexual-reproduction",
+          "slug": "l4",
           "title": {
             "ar": "طرق التكاثر غير الجنسي",
             "en": "Methods of Asexual Reproduction"
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "slug": "02-sexual-reproduction",
+      "slug": "c2",
       "title": {
         "ar": "التكاثر الجنسي",
         "en": "Sexual Reproduction"
@@ -129,7 +129,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-characteristics-of-sexual-reproduction",
+          "slug": "l1",
           "title": {
             "ar": "خصائص التكاثر الجنسي",
             "en": "Characteristics of Sexual Reproduction"
@@ -144,7 +144,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-benefits-of-sexual-reproduction",
+          "slug": "l2",
           "title": {
             "ar": "فوائد التكاثر الجنسي",
             "en": "Benefits of Sexual Reproduction"
@@ -158,7 +158,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-disadvantages-of-sexual-reproduction",
+          "slug": "l3",
           "title": {
             "ar": "عيوب التكاثر الجنسي",
             "en": "Disadvantages of Sexual Reproduction"
@@ -172,7 +172,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-methods-of-sexual-reproduction",
+          "slug": "l4",
           "title": {
             "ar": "طريقتا التكاثر الجنسي",
             "en": "The Two Methods of Sexual Reproduction"
@@ -187,7 +187,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-life-cycle",
+          "slug": "l5",
           "title": {
             "ar": "دورة الحياة",
             "en": "Life Cycle"
@@ -201,7 +201,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-reproduction-in-hydra",
+          "slug": "l6",
           "title": {
             "ar": "التكاثر الجنسي في الهيدرا",
             "en": "Sexual Reproduction in Hydra"
@@ -216,7 +216,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-reproduction-in-tapeworms",
+          "slug": "l7",
           "title": {
             "ar": "التكاثر الجنسي في الديدان الشريطية",
             "en": "Sexual Reproduction in Tapeworms"
@@ -231,7 +231,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-reproduction-in-insects",
+          "slug": "l8",
           "title": {
             "ar": "التكاثر الجنسي في الحشرات",
             "en": "Sexual Reproduction in Insects"
@@ -246,7 +246,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "09-reproduction-in-frog",
+          "slug": "l9",
           "title": {
             "ar": "التكاثر الجنسي في الضفدعة",
             "en": "Sexual Reproduction in the Frog"
@@ -261,7 +261,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "10-reproduction-in-flowering-plants",
+          "slug": "l10",
           "title": {
             "ar": "التكاثر الجنسي في النباتات الزهرية",
             "en": "Sexual Reproduction in Flowering Plants"
@@ -277,7 +277,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "11-reproduction-in-humans",
+          "slug": "l11",
           "title": {
             "ar": "التكاثر الجنسي في الإنسان",
             "en": "Sexual Reproduction in Humans"
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "slug": "03-mendel-experiments-and-laws",
+      "slug": "c3",
       "title": {
         "ar": "تجارب وقوانين مندل",
         "en": "Mendel's Experiments and Laws"
@@ -307,7 +307,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-mendels-first-law",
+          "slug": "l1",
           "title": {
             "ar": "قانون مندل الأول",
             "en": "Mendel's First Law"
@@ -322,7 +322,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-mendels-second-law",
+          "slug": "l2",
           "title": {
             "ar": "قانون مندل الثاني",
             "en": "Mendel's Second Law"
@@ -337,7 +337,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-test-cross",
+          "slug": "l3",
           "title": {
             "ar": "التلقيح الاختباري",
             "en": "Test Cross"
@@ -351,7 +351,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-back-cross",
+          "slug": "l4",
           "title": {
             "ar": "التلقيح الرجعي",
             "en": "Back Cross"
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "slug": "04-chromosomes-role-in-heredity",
+      "slug": "c4",
       "title": {
         "ar": "دور الصبغيات في انتقال الصفات الوراثية",
         "en": "The Role of Chromosomes in Transmitting Hereditary Traits"
@@ -379,7 +379,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-chromosome-theory",
+          "slug": "l1",
           "title": {
             "ar": "نظرية الصبغيات",
             "en": "Chromosome Theory"
@@ -394,7 +394,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-key-characteristics-of-genes",
+          "slug": "l2",
           "title": {
             "ar": "أهم صفات الجينات",
             "en": "Key Characteristics of Genes"
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "slug": "05-variations-in-mendelian-ratios",
+      "slug": "c5",
       "title": {
         "ar": "التحورات في النسب المندلية",
         "en": "Variations in Mendelian Ratios"
@@ -423,7 +423,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-variation-in-3-1-ratio",
+          "slug": "l1",
           "title": {
             "ar": "التحور في النسبة المندلية 3:1",
             "en": "Variation in the 3:1 Mendelian Ratio"
@@ -438,7 +438,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-variation-in-9-3-3-1-ratio",
+          "slug": "l2",
           "title": {
             "ar": "التحور في النسبة المندلية 9:3:3:1",
             "en": "Variation in the 9:3:3:1 Mendelian Ratio"
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "slug": "06-multiple-alleles",
+      "slug": "c6",
       "title": {
         "ar": "الأليلات المتعددة",
         "en": "Multiple Alleles"
@@ -467,7 +467,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-multiple-alleles",
+          "slug": "l1",
           "title": {
             "ar": "الأليلات المتعددة",
             "en": "Multiple Alleles"
@@ -484,7 +484,7 @@
       ]
     },
     {
-      "slug": "07-multiple-genes",
+      "slug": "c7",
       "title": {
         "ar": "الجينات المتعددة",
         "en": "Multiple Genes"
@@ -496,7 +496,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-multiple-genes",
+          "slug": "l1",
           "title": {
             "ar": "الجينات المتعددة",
             "en": "Multiple Genes"
@@ -513,7 +513,7 @@
       ]
     },
     {
-      "slug": "08-sex-determination",
+      "slug": "c8",
       "title": {
         "ar": "تحديد الجنس",
         "en": "Sex Determination"
@@ -525,7 +525,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sex-determination-by-chromosome-number",
+          "slug": "l1",
           "title": {
             "ar": "تحديد الجنس اعتماداً على اختلاف عدد الصبغيات",
             "en": "Sex Determination Based on Chromosome Number"
@@ -540,7 +540,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-sex-determination-by-chromosome-type",
+          "slug": "l2",
           "title": {
             "ar": "تحديد الجنس اعتماداً على نوع الصبغيات",
             "en": "Sex Determination Based on Chromosome Type"
@@ -557,7 +557,7 @@
       ]
     },
     {
-      "slug": "09-sex-linked-inheritance",
+      "slug": "c9",
       "title": {
         "ar": "الوراثة المرتبطة بالجنس",
         "en": "Sex-Linked Inheritance"
@@ -569,7 +569,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-y-linked-traits",
+          "slug": "l1",
           "title": {
             "ar": "الصفات المرتبطة بصبغي الجنس Y",
             "en": "Y-Linked Traits"
@@ -583,7 +583,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-x-linked-traits",
+          "slug": "l2",
           "title": {
             "ar": "الصفات المرتبطة بصبغي الجنس X",
             "en": "X-Linked Traits"
@@ -600,7 +600,7 @@
       ]
     },
     {
-      "slug": "10-sex-influenced-traits",
+      "slug": "c10",
       "title": {
         "ar": "الصفات الوراثية المتأثرة بالجنس",
         "en": "Sex-Influenced Hereditary Traits"
@@ -612,7 +612,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-sex-influenced-traits",
+          "slug": "l1",
           "title": {
             "ar": "الصفات الوراثية المتأثرة بالجنس",
             "en": "Sex-Influenced Hereditary Traits"
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "slug": "11-sex-limited-traits",
+      "slug": "c11",
       "title": {
         "ar": "الصفات الوراثية المقصورة على الجنس",
         "en": "Sex-Limited Hereditary Traits"
@@ -641,7 +641,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-sex-limited-traits",
+          "slug": "l1",
           "title": {
             "ar": "الصفات الوراثية المقصورة على الجنس",
             "en": "Sex-Limited Hereditary Traits"
@@ -658,7 +658,7 @@
       ]
     },
     {
-      "slug": "12-linkage-and-crossing-over",
+      "slug": "c12",
       "title": {
         "ar": "الارتباط والعبور",
         "en": "Linkage and Crossing Over"
@@ -670,7 +670,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-linkage",
+          "slug": "l1",
           "title": {
             "ar": "الارتباط",
             "en": "Linkage"
@@ -684,7 +684,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-crossing-over",
+          "slug": "l2",
           "title": {
             "ar": "العبور",
             "en": "Crossing Over"
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "slug": "13-mutations",
+      "slug": "c13",
       "title": {
         "ar": "الطفرات",
         "en": "Mutations"
@@ -713,7 +713,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-chromosomal-mutations",
+          "slug": "l1",
           "title": {
             "ar": "الطفرات الصبغية",
             "en": "Chromosomal Mutations"
@@ -728,7 +728,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-gene-mutations",
+          "slug": "l2",
           "title": {
             "ar": "الطفرات الجينية",
             "en": "Gene Mutations"
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "slug": "14-human-genetic-disorders",
+      "slug": "c14",
       "title": {
         "ar": "الاختلالات الوراثية عند الإنسان",
         "en": "Genetic Disorders in Humans"
@@ -757,7 +757,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-diseases-related-to-chromosome-number",
+          "slug": "l1",
           "title": {
             "ar": "الأمراض الوراثية المرتبطة بالعدد الصبغي",
             "en": "Hereditary Diseases Related to Chromosome Number"
@@ -772,7 +772,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-diseases-related-to-gene-mutations",
+          "slug": "l2",
           "title": {
             "ar": "الأمراض الوراثية المرتبطة بالطفرات الجينية",
             "en": "Hereditary Diseases Related to Gene Mutations"
@@ -789,7 +789,7 @@
       ]
     },
     {
-      "slug": "15-genetic-fingerprint",
+      "slug": "c15",
       "title": {
         "ar": "البصمة الوراثية",
         "en": "Genetic Print"
@@ -801,7 +801,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-genetic-fingerprint",
+          "slug": "l1",
           "title": {
             "ar": "البصمة الوراثية",
             "en": "Genetic Print"
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "slug": "16-genetic-engineering",
+      "slug": "c16",
       "title": {
         "ar": "الهندسة الوراثية",
         "en": "Genetic Engineering"
@@ -830,7 +830,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-genetic-engineering",
+          "slug": "l1",
           "title": {
             "ar": "الهندسة الوراثية",
             "en": "Genetic Engineering"
@@ -847,7 +847,7 @@
       ]
     },
     {
-      "slug": "17-genetic-counselling",
+      "slug": "c17",
       "title": {
         "ar": "الاستشارة الوراثية",
         "en": "Genetic Counselling"
@@ -859,7 +859,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-genetic-counselling",
+          "slug": "l1",
           "title": {
             "ar": "الاستشارة الوراثية",
             "en": "Genetic Counselling"
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "slug": "18-biogeochemical-cycles",
+      "slug": "c18",
       "title": {
         "ar": "الدورات البيوجيوكيميائية",
         "en": "Biogeochemical Cycles"
@@ -888,7 +888,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-carbon-cycle",
+          "slug": "l1",
           "title": {
             "ar": "دورة الكربون",
             "en": "Carbon Cycle"
@@ -903,7 +903,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-water-cycle",
+          "slug": "l2",
           "title": {
             "ar": "دورة الماء",
             "en": "Water Cycle"
@@ -922,7 +922,7 @@
       ]
     },
     {
-      "slug": "19-ecosystem-balance-and-disruption",
+      "slug": "c19",
       "title": {
         "ar": "عوامل توازن النظام البيئي الطبيعي واستقراره، وعوامل اختلاله",
         "en": "Factors of Natural Ecosystem Balance and Stability, and Factors of Its Disruption"
@@ -934,7 +934,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-factors-of-ecosystem-balance-and-stability",
+          "slug": "l1",
           "title": {
             "ar": "عوامل توازن النظام البيئي الطبيعي واستقراره",
             "en": "Factors of Natural Ecosystem Balance and Stability"
@@ -948,7 +948,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-factors-disrupting-ecosystem-balance",
+          "slug": "l2",
           "title": {
             "ar": "عوامل اختلال توازن النظام البيئي الطبيعي",
             "en": "Factors Disrupting Natural Ecosystem Balance"
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "slug": "20-permanent-natural-resources",
+      "slug": "c20",
       "title": {
         "ar": "الموارد الطبيعية الدائمة",
         "en": "Permanent Natural Resources"
@@ -977,7 +977,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-solar-energy-in-sudan",
+          "slug": "l1",
           "title": {
             "ar": "طاقة الشمس واستغلالها في السودان",
             "en": "Solar Energy and Its Utilization in Sudan"
@@ -992,7 +992,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-wind-energy-in-sudan",
+          "slug": "l2",
           "title": {
             "ar": "طاقة الرياح واستغلالها في السودان",
             "en": "Wind Energy and Its Utilization in Sudan"
@@ -1006,7 +1006,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-hydro-energy-in-sudan",
+          "slug": "l3",
           "title": {
             "ar": "طاقة الماء واستغلالها في السودان لتوليد الكهرباء",
             "en": "Water Energy and Its Utilization in Sudan for Electricity Generation"
@@ -1022,7 +1022,7 @@
       ]
     },
     {
-      "slug": "21-renewable-natural-resources",
+      "slug": "c21",
       "title": {
         "ar": "الموارد الطبيعية المتجددة",
         "en": "Renewable Natural Resources"
@@ -1034,7 +1034,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-natural-plant-resources",
+          "slug": "l1",
           "title": {
             "ar": "الموارد النباتية الطبيعية",
             "en": "Natural Plant Resources"
@@ -1050,7 +1050,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-wild-animal-resources-in-sudan",
+          "slug": "l2",
           "title": {
             "ar": "الموارد الحيوانية البرية وبصفة خاصة في السودان",
             "en": "Wild Animal Resources, Particularly in Sudan"
@@ -1066,7 +1066,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-soil",
+          "slug": "l3",
           "title": {
             "ar": "التربة",
             "en": "Soil"
@@ -1085,7 +1085,7 @@
       ]
     },
     {
-      "slug": "22-non-renewable-natural-resources",
+      "slug": "c22",
       "title": {
         "ar": "الموارد الطبيعية غير المتجددة",
         "en": "Non-Renewable Natural Resources"
@@ -1097,7 +1097,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-non-renewable-natural-resources",
+          "slug": "l1",
           "title": {
             "ar": "الموارد الطبيعية غير المتجددة",
             "en": "Non-Renewable Natural Resources"

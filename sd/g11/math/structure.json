@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1-analytic-coordinate-geometry",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: الهندسة التحليلية (الإحداثية)",
         "en": "Unit 1: Analytic (Coordinate) Geometry"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-linear-equations",
+          "slug": "l1",
           "title": {
             "ar": "المعادلات الخطية",
             "en": "Linear Equations"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "02-distance-from-a-point-to-a-line",
+          "slug": "l2",
           "title": {
             "ar": "طول العمود النازل من نقطة معلومة على مستقيم معلوم",
             "en": "Distance from a Point to a Line"
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "slug": "02-unit-2-exponential-and-logarithmic-functions",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: الدوال الأسية واللوغريثمية",
         "en": "Unit 2: Exponential and Logarithmic Functions"
@@ -69,7 +69,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-exponents",
+          "slug": "l1",
           "title": {
             "ar": "الأس",
             "en": "Exponents"
@@ -78,7 +78,7 @@
           "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
         },
         {
-          "slug": "02-fractional-exponents",
+          "slug": "l2",
           "title": {
             "ar": "الأسس الكسرية",
             "en": "Fractional Exponents"
@@ -87,7 +87,7 @@
           "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
         },
         {
-          "slug": "03-exponential-equations",
+          "slug": "l3",
           "title": {
             "ar": "المعادلات الأسية",
             "en": "Exponential Equations"
@@ -96,7 +96,7 @@
           "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
         },
         {
-          "slug": "04-logarithms",
+          "slug": "l4",
           "title": {
             "ar": "اللوغريثم",
             "en": "Logarithms"
@@ -104,7 +104,7 @@
           "page": 42
         },
         {
-          "slug": "05-the-logarithmic-function",
+          "slug": "l5",
           "title": {
             "ar": "الدالة اللوغريثمية",
             "en": "The Logarithmic Function"
@@ -112,7 +112,7 @@
           "page": 45
         },
         {
-          "slug": "06-main-properties-of-the-logarithmic-function",
+          "slug": "l6",
           "title": {
             "ar": "أهم خواص الدالة اللوغريثمية",
             "en": "Main Properties of the Logarithmic Function"
@@ -120,7 +120,7 @@
           "page": 48
         },
         {
-          "slug": "07-logarithmic-equations",
+          "slug": "l7",
           "title": {
             "ar": "المعادلات اللوغريثمية",
             "en": "Logarithmic Equations"
@@ -128,7 +128,7 @@
           "page": 54
         },
         {
-          "slug": "08-common-logarithms-with-a-calculator",
+          "slug": "l8",
           "title": {
             "ar": "اللوغريثمات العشرية باستخدام الآلة الحاسبة",
             "en": "Common Logarithms with a Calculator"
@@ -136,7 +136,7 @@
           "page": 57
         },
         {
-          "slug": "09-antilogarithms",
+          "slug": "l9",
           "title": {
             "ar": "الأعداد المقابلة للوغريثمات العشرية",
             "en": "Antilogarithms"
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "slug": "03-unit-3-surds",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: الجذور الصم",
         "en": "Unit 3: Surds"
@@ -157,7 +157,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -165,7 +165,7 @@
           "page": 68
         },
         {
-          "slug": "02-surds",
+          "slug": "l2",
           "title": {
             "ar": "الجذور الصم",
             "en": "Surds"
@@ -173,7 +173,7 @@
           "page": 71
         },
         {
-          "slug": "03-the-four-operations-on-surds",
+          "slug": "l3",
           "title": {
             "ar": "العمليات الأربع في الجذور الصم",
             "en": "The Four Operations on Surds"
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "slug": "04-unit-4-the-remainder-and-factor-theorems",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: نظرية الباقي والعامل",
         "en": "Unit 4: The Remainder and Factor Theorems"
@@ -194,7 +194,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-remainder-theorem",
+          "slug": "l1",
           "title": {
             "ar": "نظرية الباقي",
             "en": "The Remainder Theorem"
@@ -202,7 +202,7 @@
           "page": 87
         },
         {
-          "slug": "02-the-factor-theorem",
+          "slug": "l2",
           "title": {
             "ar": "نظرية العامل",
             "en": "The Factor Theorem"
@@ -210,7 +210,7 @@
           "page": 89
         },
         {
-          "slug": "03-roots-of-equations-of-degree-greater-than-2",
+          "slug": "l3",
           "title": {
             "ar": "جذور المعادلة من درجة أكبر من ٢",
             "en": "Roots of Equations of Degree Greater than 2"
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "slug": "05-unit-5-trigonometry",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة: حساب المثلثات",
         "en": "Unit 5: Trigonometry"
@@ -231,7 +231,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-general-review",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة عامة",
             "en": "General Review"
@@ -239,7 +239,7 @@
           "page": 100
         },
         {
-          "slug": "02-trigonometric-ratios-of-a-negative-angle",
+          "slug": "l2",
           "title": {
             "ar": "النسب المثلثية للزاوية (−هـ)",
             "en": "Trigonometric Ratios of a Negative Angle"
@@ -247,7 +247,7 @@
           "page": 106
         },
         {
-          "slug": "03-ratios-of-the-sum-and-difference-of-two-angles",
+          "slug": "l3",
           "title": {
             "ar": "النسب المثلثية لمجموع وفرق الزاويتين",
             "en": "Ratios of the Sum and Difference of Two Angles"
@@ -255,7 +255,7 @@
           "page": 107
         },
         {
-          "slug": "04-double-and-half-angle-ratios",
+          "slug": "l4",
           "title": {
             "ar": "النسب المثلثية لضعف الزاوية ونصفها",
             "en": "Double- and Half-Angle Ratios"
@@ -263,7 +263,7 @@
           "page": 112
         },
         {
-          "slug": "05-related-angles",
+          "slug": "l5",
           "title": {
             "ar": "الزوايا المنتسبة",
             "en": "Related Angles"
@@ -271,7 +271,7 @@
           "page": 117
         },
         {
-          "slug": "06-products-of-sines-or-cosines-as-sums-or",
+          "slug": "l6",
           "title": {
             "ar": "تحويل حاصل ضرب جيبين أو جيبي تمام إلى مجموع أو فرق",
             "en": "Products of Sines or Cosines as Sums or Differences"
@@ -279,7 +279,7 @@
           "page": 123
         },
         {
-          "slug": "07-sums-or-differences-of-sines-or-cosines-as",
+          "slug": "l7",
           "title": {
             "ar": "تحويل مجموع أو فرق جيبين أو جيبي تمام إلى حاصل ضرب",
             "en": "Sums or Differences of Sines or Cosines as Products"
@@ -287,7 +287,7 @@
           "page": 127
         },
         {
-          "slug": "08-trigonometric-identities",
+          "slug": "l8",
           "title": {
             "ar": "المتطابقات المثلثية",
             "en": "Trigonometric Identities"
@@ -295,7 +295,7 @@
           "page": 131
         },
         {
-          "slug": "09-trigonometric-equations",
+          "slug": "l9",
           "title": {
             "ar": "المعادلات المثلثية",
             "en": "Trigonometric Equations"
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "slug": "06-unit-6-sequences",
+      "slug": "c6",
       "title": {
         "ar": "الوحدة السادسة: المتتاليات",
         "en": "Unit 6: Sequences"
@@ -316,7 +316,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sequences",
+          "slug": "l1",
           "title": {
             "ar": "المتتاليات",
             "en": "Sequences"
@@ -324,7 +324,7 @@
           "page": 142
         },
         {
-          "slug": "02-arithmetic-sequences",
+          "slug": "l2",
           "title": {
             "ar": "المتتالية الحسابية",
             "en": "Arithmetic Sequences"
@@ -332,7 +332,7 @@
           "page": 146
         },
         {
-          "slug": "03-sum-of-an-arithmetic-sequence",
+          "slug": "l3",
           "title": {
             "ar": "مجموع المتتالية الحسابية",
             "en": "Sum of an Arithmetic Sequence"
@@ -340,7 +340,7 @@
           "page": 150
         },
         {
-          "slug": "04-geometric-sequences",
+          "slug": "l4",
           "title": {
             "ar": "المتتالية الهندسية",
             "en": "Geometric Sequences"
@@ -348,7 +348,7 @@
           "page": 157
         },
         {
-          "slug": "05-sum-of-a-geometric-sequence",
+          "slug": "l5",
           "title": {
             "ar": "مجموع المتتالية الهندسية",
             "en": "Sum of a Geometric Sequence"
@@ -356,7 +356,7 @@
           "page": 162
         },
         {
-          "slug": "06-sum-of-an-infinite-geometric-sequence",
+          "slug": "l6",
           "title": {
             "ar": "مجموع المتتالية الهندسية اللانهائية",
             "en": "Sum of an Infinite Geometric Sequence"
@@ -366,7 +366,7 @@
       ]
     },
     {
-      "slug": "07-unit-7-inequalities-and-linear-programming",
+      "slug": "c7",
       "title": {
         "ar": "الوحدة السابعة: المتباينات والبرمجة الخطية",
         "en": "Unit 7: Inequalities and Linear Programming"
@@ -377,7 +377,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-inequalities",
+          "slug": "l1",
           "title": {
             "ar": "المتباينات",
             "en": "Inequalities"
@@ -385,7 +385,7 @@
           "page": 181
         },
         {
-          "slug": "02-linear-inequalities-in-two-variables",
+          "slug": "l2",
           "title": {
             "ar": "المتباينة الخطية في متغيرين",
             "en": "Linear Inequalities in Two Variables"
@@ -393,7 +393,7 @@
           "page": 187
         },
         {
-          "slug": "03-solving-systems-of-linear-inequalities-in-two",
+          "slug": "l3",
           "title": {
             "ar": "حل نظام المتباينات الخطية في متغيرين",
             "en": "Solving Systems of Linear Inequalities in Two Variables"
@@ -401,7 +401,7 @@
           "page": 195
         },
         {
-          "slug": "04-applications-of-graphing-inequalities-linear",
+          "slug": "l4",
           "title": {
             "ar": "تطبيقات على التمثيل البياني للمتباينة في متغيرين (البرمجة الخطية)",
             "en": "Applications of Graphing Inequalities: Linear Programming"
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "slug": "08-unit-8-binary-operations",
+      "slug": "c8",
       "title": {
         "ar": "الوحدة الثامنة: العمليات الثنائية",
         "en": "Unit 8: Binary Operations"
@@ -422,7 +422,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -430,7 +430,7 @@
           "page": 213
         },
         {
-          "slug": "02-closed-operations",
+          "slug": "l2",
           "title": {
             "ar": "العمليات الداخلية",
             "en": "Closed Operations"
@@ -438,7 +438,7 @@
           "page": 215
         },
         {
-          "slug": "03-algebraic-structures-and-mathematical-systems",
+          "slug": "l3",
           "title": {
             "ar": "البنية الجبرية والنظام الرياضي",
             "en": "Algebraic Structures and Mathematical Systems"
@@ -446,7 +446,7 @@
           "page": 220
         },
         {
-          "slug": "04-modular-arithmetic",
+          "slug": "l4",
           "title": {
             "ar": "الحساب ذو المقياس",
             "en": "Modular Arithmetic"
@@ -454,7 +454,7 @@
           "page": 223
         },
         {
-          "slug": "05-multiplication-modulo-n",
+          "slug": "l5",
           "title": {
             "ar": "الضرب بمقياس ن",
             "en": "Multiplication Modulo n"
@@ -462,7 +462,7 @@
           "page": 225
         },
         {
-          "slug": "06-properties-of-a-binary-operation-in-a",
+          "slug": "l6",
           "title": {
             "ar": "خواص العملية الثنائية في النظام الرياضي",
             "en": "Properties of a Binary Operation in a Mathematical System"

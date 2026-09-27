@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "art",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g8-art-unit-02-context-01-movements-lq01",
+      "type": "mcq",
+      "question": "Impressionism is an example of an art:",
+      "options": [
+        "movement",
+        "sport",
+        "recipe",
+        "equation"
+      ],
+      "answer": "movement",
+      "explanation": "Art movement."
+    },
+    {
+      "id": "g8-art-unit-02-context-01-movements-lq02",
+      "type": "true_false",
+      "question": "Art can reflect the time and culture it was made in.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context."
+    },
+    {
+      "id": "g8-art-unit-02-context-01-movements-lq03",
+      "type": "fill_blank",
+      "question": "Studying an artist's work to inform your own is using them as a ___.",
+      "answer": "reference",
+      "explanation": "Artist study."
+    },
+    {
+      "id": "g8-art-unit-02-context-01-movements-lq04",
+      "type": "short_answer",
+      "question": "Why study art from different cultures and periods?",
+      "answer": "To understand context and gain ideas for your own work.",
+      "explanation": "Context."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq01",
+      "type": "mcq",
+      "question": "Evaluating your work means judging its:",
+      "options": [
+        "strengths and improvements",
+        "price",
+        "frame",
+        "date only"
+      ],
+      "answer": "strengths and improvements",
+      "explanation": "Reflection."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq02",
+      "type": "true_false",
+      "question": "Annotating means writing notes to explain your work.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Annotation."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq03",
+      "type": "fill_blank",
+      "question": "Reviewing and improving your work is ___.",
+      "answer": "evaluation",
+      "explanation": "Evaluating."
+    },
+    {
+      "id": "g8-art-unit-02-context-02-evaluation-lq04",
+      "type": "short_answer",
+      "question": "Why evaluate your own artwork?",
+      "answer": "To recognise what works and how to improve.",
+      "explanation": "Evaluation."
+    }
+  ]
+}

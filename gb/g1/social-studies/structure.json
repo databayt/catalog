@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-myself-family",
+      "slug": "c1",
       "title": {
         "en": "My Family & Myself"
       },
       "lessons": [
         {
-          "slug": "01-my-family",
+          "slug": "l1",
           "title": {
             "en": "My Family"
           }
         },
         {
-          "slug": "02-being-kind",
+          "slug": "l2",
           "title": {
             "en": "Being Kind & Respectful"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-values",
+      "slug": "c2",
       "title": {
         "en": "Good Values"
       },
       "lessons": [
         {
-          "slug": "01-sharing",
+          "slug": "l1",
           "title": {
             "en": "Sharing & Caring"
           }
         },
         {
-          "slug": "02-honesty",
+          "slug": "l2",
           "title": {
             "en": "Telling the Truth"
           }

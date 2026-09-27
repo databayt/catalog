@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g12-mat-unit-01-trig-02-identities-lq01",
+      "type": "mcq",
+      "question": "sin²θ + cos²θ = ?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "θ"
+      ],
+      "answer": "1",
+      "explanation": "Pythagorean identity."
+    },
+    {
+      "id": "g12-mat-unit-01-trig-02-identities-lq02",
+      "type": "true_false",
+      "question": "tan θ = sin θ / cos θ.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Quotient identity."
+    },
+    {
+      "id": "g12-mat-unit-01-trig-02-identities-lq03",
+      "type": "fill_blank",
+      "question": "The reciprocal of sin θ is ___ θ.",
+      "answer": "csc",
+      "explanation": "Cosecant."
+    },
+    {
+      "id": "g12-mat-unit-01-trig-02-identities-lq04",
+      "type": "short_answer",
+      "question": "Why are trig identities useful?",
+      "answer": "They simplify expressions and solve equations.",
+      "explanation": "Identities."
+    }
+  ]
+}

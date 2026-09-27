@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-poetry",
+      "slug": "c1",
       "title": {
         "en": "Poetry"
       },
       "lessons": [
         {
-          "slug": "01-poetic-devices",
+          "slug": "l1",
           "title": {
             "en": "Poetic Devices"
           }
         },
         {
-          "slug": "02-comparison",
+          "slug": "l2",
           "title": {
             "en": "Comparing Poems"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Analytical Writing"
       },
       "lessons": [
         {
-          "slug": "01-essay",
+          "slug": "l1",
           "title": {
             "en": "Essay Writing"
           }
         },
         {
-          "slug": "02-grammar",
+          "slug": "l2",
           "title": {
             "en": "Advanced Grammar"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g3-mat-unit-01-multiplication-02-division-basics-quiz",
+      "title": "Quiz: Understanding Division",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-mat-unit-01-multiplication-02-division-basics-lq01",
+          "type": "mcq",
+          "question": "20 ÷ 5 = ?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": "4",
+          "explanation": "20 shared into 5 groups = 4 each."
+        },
+        {
+          "id": "g3-mat-unit-01-multiplication-02-division-basics-lq02",
+          "type": "true_false",
+          "question": "Division can be checked with multiplication.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "4 × 5 = 20 checks 20 ÷ 5."
+        },
+        {
+          "id": "g3-mat-unit-01-multiplication-02-division-basics-lq03",
+          "type": "fill_blank",
+          "question": "24 ÷ 6 = ___.",
+          "answer": "4",
+          "explanation": "Six groups of four make 24."
+        },
+        {
+          "id": "g3-mat-unit-01-multiplication-02-division-basics-lq04",
+          "type": "short_answer",
+          "question": "How are multiplication and division related?",
+          "answer": "They are inverse operations.",
+          "explanation": "One undoes the other."
+        }
+      ]
+    }
+  ]
+}

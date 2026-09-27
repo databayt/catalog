@@ -1,0 +1,130 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "c4"
+  },
+  "questions": [
+    {
+      "id": "g5-isl-unit-04-01-congregational-prayer-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g5-isl-unit-04-01-congregational-prayer-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    },
+    {
+      "id": "g5-isl-unit-04-02-benefits-of-prayer-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g5-isl-unit-04-02-benefits-of-prayer-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    },
+    {
+      "id": "g5-isl-unit-04-03-sunnah-prayers-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g5-isl-unit-04-03-sunnah-prayers-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    },
+    {
+      "id": "g5-isl-unit-04-04-making-up-prayers-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g5-isl-unit-04-04-making-up-prayers-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    },
+    {
+      "id": "g5-isl-unit-04-05-prostration-of-forgetfulness-q01",
+      "type": "mcq",
+      "question": "كم عدد فروض الوضوء الأساسية؟",
+      "options": [
+        "6 فروض",
+        "4 فروض",
+        "8 فروض",
+        "5 فروض"
+      ],
+      "answer": "6 فروض",
+      "explanation": "فروض الوضوء: النية، غسل الوجه، اليدين، مسح الرأس، غسل الرجلين، الترتيب."
+    },
+    {
+      "id": "g5-isl-unit-04-05-prostration-of-forgetfulness-q02",
+      "type": "true_false",
+      "question": "الصلاة تُؤدى خمس مرات في اليوم والليلة.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "فُرضت الصلوات الخمس ليلة المعراج."
+    }
+  ]
+}

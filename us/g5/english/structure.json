@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading: Analysis"
       },
       "lessons": [
         {
-          "slug": "01-point-of-view",
+          "slug": "l1",
           "title": {
             "en": "Point of View"
           }
         },
         {
-          "slug": "02-compare-texts",
+          "slug": "l2",
           "title": {
             "en": "Comparing Texts"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-language",
+      "slug": "c2",
       "title": {
         "en": "Language"
       },
       "lessons": [
         {
-          "slug": "01-figurative",
+          "slug": "l1",
           "title": {
             "en": "Figurative Language"
           }
         },
         {
-          "slug": "02-clauses",
+          "slug": "l2",
           "title": {
             "en": "Clauses & Conjunctions"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-writing",
+      "slug": "c3",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-narrative",
+          "slug": "l1",
           "title": {
             "en": "Narrative Writing"
           }
         },
         {
-          "slug": "02-research",
+          "slug": "l2",
           "title": {
             "en": "Research & Citing Sources"
           }

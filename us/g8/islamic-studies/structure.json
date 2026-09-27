@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-fiqh-sahaba",
+      "slug": "c1",
       "title": {
         "ar": "الفقه والصحابة"
       },
       "lessons": [
         {
-          "slug": "01-fiqh",
+          "slug": "l1",
           "title": {
             "ar": "الفقه: الطهارة والصلاة"
           }
         },
         {
-          "slug": "02-sahaba",
+          "slug": "l2",
           "title": {
             "ar": "الصحابة الكرام"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-muamalat",
+      "slug": "c2",
       "title": {
         "ar": "الأخلاق والمعاملات"
       },
       "lessons": [
         {
-          "slug": "01-amanah",
+          "slug": "l1",
           "title": {
             "ar": "الأمانة"
           }
         },
         {
-          "slug": "02-neighbours",
+          "slug": "l2",
           "title": {
             "ar": "حقوق الجار"
           }

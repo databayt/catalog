@@ -39,7 +39,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-clauses-with-grammatical-position",
+      "slug": "c1",
       "title": {
         "ar": "الجملُ وأشباهُ الجملِ التي لها محلٌّ من الإعراب \"مراجعة\"",
         "en": "Clauses and Phrase-Equivalents with a Grammatical Function (Review)"
@@ -51,7 +51,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-clauses-with-grammatical-position",
+          "slug": "l1",
           "title": {
             "ar": "الجملُ وأشباهُ الجملِ التي لها محلٌّ من الإعراب \"مراجعة\"",
             "en": "Clauses and Phrase-Equivalents with a Grammatical Function (Review)"
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "slug": "02-conditional-style",
+      "slug": "c2",
       "title": {
         "ar": "أسلوب الشّرط",
         "en": "The Conditional Sentence Style"
@@ -81,7 +81,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-jussive-conditional-particles",
+          "slug": "l1",
           "title": {
             "ar": "أدوات الشّرط الجازمة",
             "en": "Jussive Conditional Particles"
@@ -96,7 +96,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-non-jussive-conditional-particles",
+          "slug": "l2",
           "title": {
             "ar": "أدوات الشّرط غير الجازمة",
             "en": "Non-Jussive Conditional Particles"
@@ -112,7 +112,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-fa-with-conditional-response",
+          "slug": "l3",
           "title": {
             "ar": "اقتران جواب الشّرط بالفاء",
             "en": "Linking the Conditional Response with 'Fa'"
@@ -127,7 +127,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-jussive-in-request-response",
+          "slug": "l4",
           "title": {
             "ar": "جزم المضارع في جواب الطّلب",
             "en": "Jussive Mood in the Response to a Request"
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "slug": "03-nisba",
+      "slug": "c3",
       "title": {
         "ar": "النسب",
         "en": "The Nisba (Relative Adjective)"
@@ -157,7 +157,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-nisba-pattern",
+          "slug": "l1",
           "title": {
             "ar": "صيغة النَّسب",
             "en": "The Nisba Pattern"
@@ -172,7 +172,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-nisba-ending-in-ta-marbuta",
+          "slug": "l2",
           "title": {
             "ar": "النَّسب إلى المختوم بتاء التأنيث",
             "en": "Nisba for Words Ending in Ta' al-Ta'nith"
@@ -186,7 +186,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-nisba-maqsur",
+          "slug": "l3",
           "title": {
             "ar": "النَّسب إلى المقصور",
             "en": "Nisba for the Maqsur (Defective) Noun"
@@ -201,7 +201,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-nisba-manqus",
+          "slug": "l4",
           "title": {
             "ar": "النَّسب إلى المنقوص",
             "en": "Nisba for the Manqus Noun"
@@ -216,7 +216,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-nisba-mamdud",
+          "slug": "l5",
           "title": {
             "ar": "النَّسب إلى الممدود",
             "en": "Nisba for the Mamdud Noun"
@@ -231,7 +231,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-nisba-doubled-ya",
+          "slug": "l6",
           "title": {
             "ar": "النَّسب إلى ما فيه ياء مشددة",
             "en": "Nisba for Words with a Doubled Ya"
@@ -246,7 +246,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-nisba-failah-pattern",
+          "slug": "l7",
           "title": {
             "ar": "النَّسب إلى وزن فعيلة",
             "en": "Nisba for the Pattern Fa'ilah"
@@ -260,7 +260,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-nisba-failah-pattern-quoted",
+          "slug": "l8",
           "title": {
             "ar": "النَّسب إلى وزن \"فعيلة\"",
             "en": "Nisba for the Pattern \"Fa'ilah\" (variant)"
@@ -275,7 +275,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-nisba-trilateral-kasra-middle",
+          "slug": "l9",
           "title": {
             "ar": "النَّسب إلى الاسم الثلاثي مكسور العين",
             "en": "Nisba for a Trilateral Noun with a Kasra on the Middle Letter"
@@ -289,7 +289,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-nisba-trilateral-elided-final",
+          "slug": "l10",
           "title": {
             "ar": "النَّسب إلى الاسم الثلاثي محذوف اللام",
             "en": "Nisba for a Trilateral Noun with an Elided Final Letter"
@@ -304,7 +304,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-nisba-compound-nouns",
+          "slug": "l11",
           "title": {
             "ar": "النَّسب إلى المركب",
             "en": "Nisba for Compound Nouns"
@@ -319,7 +319,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-nisba-dual-plural",
+          "slug": "l12",
           "title": {
             "ar": "النَّسب إلى المثنى والجمع",
             "en": "Nisba for Dual and Plural Nouns"
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "slug": "04-derived-nouns",
+      "slug": "c4",
       "title": {
         "ar": "الجامد والمشتقّ",
         "en": "Non-Derived and Derived Nouns"
@@ -348,7 +348,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-classifying-noun-derived-status",
+          "slug": "l1",
           "title": {
             "ar": "تقسيم الاسم إلى جامد ومشتقّ",
             "en": "Classifying the Noun as Non-Derived or Derived"
@@ -363,7 +363,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-types-of-derived-nouns",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الأسماء المشتقّة",
             "en": "Types of Derived Nouns"
@@ -377,7 +377,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-active-participle",
+          "slug": "l3",
           "title": {
             "ar": "اسم الفاعل",
             "en": "The Active Participle (Ism al-Fa'il)"
@@ -392,7 +392,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-hyperbolic-forms",
+          "slug": "l4",
           "title": {
             "ar": "صيغ المبالغة",
             "en": "Hyperbolic (Intensive) Forms"
@@ -407,7 +407,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-passive-participle",
+          "slug": "l5",
           "title": {
             "ar": "صيغة اسم المفعول",
             "en": "The Passive Participle (Ism al-Maf'ul)"
@@ -422,7 +422,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-function-of-participles",
+          "slug": "l6",
           "title": {
             "ar": "إعمال اسم الفاعل واسم المفعول",
             "en": "The Grammatical Function ('Amal) of the Active and Passive Participles"
@@ -437,7 +437,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-assimilate-adjective-forms",
+          "slug": "l7",
           "title": {
             "ar": "صِيَغُ الصّفة المشبّهة باسم الفاعل",
             "en": "Forms of the Assimilate Adjective (Sifah Mushabbahah)"
@@ -452,7 +452,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "08-function-of-assimilate-adjective",
+          "slug": "l8",
           "title": {
             "ar": "إعمال الصّفة المشبّهة",
             "en": "The Grammatical Function of the Assimilate Adjective"
@@ -467,7 +467,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-exclamation",
+          "slug": "l9",
           "title": {
             "ar": "التّعجّب",
             "en": "Exclamation (Ta'ajjub)"
@@ -482,7 +482,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "10-forming-the-elative",
+          "slug": "l10",
           "title": {
             "ar": "صَوغُ اسم التفضيل",
             "en": "Forming the Elative (Ism al-Tafdil)"
@@ -497,7 +497,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-elative-cases",
+          "slug": "l11",
           "title": {
             "ar": "حالات اسم التفضيل",
             "en": "Cases of the Elative"
@@ -512,7 +512,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "12-nouns-of-time-and-place",
+          "slug": "l12",
           "title": {
             "ar": "اسما الزّمان والمكان",
             "en": "Nouns of Time and Place"
@@ -527,7 +527,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "13-noun-of-instrument",
+          "slug": "l13",
           "title": {
             "ar": "اسم الآلة",
             "en": "The Noun of Instrument"
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "slug": "05-broken-plural",
+      "slug": "c5",
       "title": {
         "ar": "جمع التكسير",
         "en": "The Broken Plural"
@@ -556,7 +556,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-broken-vs-sound-plural",
+          "slug": "l1",
           "title": {
             "ar": "الفرق بين جمع التكسير وجمع التصحيح",
             "en": "The Difference Between the Broken Plural and the Sound Plural"
@@ -571,7 +571,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-plurals-of-paucity",
+          "slug": "l2",
           "title": {
             "ar": "جموع القلة",
             "en": "The Plurals of Paucity"
@@ -588,7 +588,7 @@
       ]
     },
     {
-      "slug": "06-verbs-of-praise-and-blame",
+      "slug": "c6",
       "title": {
         "ar": "أفعال المدح والذّم",
         "en": "Verbs of Praise and Blame"
@@ -600,7 +600,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-verbs-of-praise-and-blame",
+          "slug": "l1",
           "title": {
             "ar": "أفعال المدح والذّم",
             "en": "Verbs of Praise and Blame"
@@ -618,7 +618,7 @@
       ]
     },
     {
-      "slug": "07-idafa-construction",
+      "slug": "c7",
       "title": {
         "ar": "الإضافة",
         "en": "The Genitive Construction (Idafa)"
@@ -630,7 +630,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-idafa-construction",
+          "slug": "l1",
           "title": {
             "ar": "الإضافة",
             "en": "The Genitive Construction (Idafa)"
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "slug": "08-kasr-hamzat-inna",
+      "slug": "c8",
       "title": {
         "ar": "كسر همزة إنّ",
         "en": "The Kasra of the Hamza of 'Inna'"
@@ -660,7 +660,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-kasr-hamzat-inna",
+          "slug": "l1",
           "title": {
             "ar": "كسر همزة إنّ",
             "en": "The Kasra of the Hamza of 'Inna'"
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "slug": "09-particles-of-meaning",
+      "slug": "c9",
       "title": {
         "ar": "بعض حروف المعاني",
         "en": "Some Particles of Meaning"
@@ -689,7 +689,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-min-lam-ya",
+          "slug": "l1",
           "title": {
             "ar": "من اللام والياء",
             "en": "Min, Lam, and Ya"
@@ -704,7 +704,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-an-ala",
+          "slug": "l2",
           "title": {
             "ar": "عن، على",
             "en": "'An and 'Ala"
@@ -721,7 +721,7 @@
       ]
     },
     {
-      "slug": "10-common-errors",
+      "slug": "c10",
       "title": {
         "ar": "بعض الأخطاء الشّائعة",
         "en": "Some Common Errors"
@@ -733,7 +733,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-common-errors",
+          "slug": "l1",
           "title": {
             "ar": "بعض الأخطاء الشّائعة",
             "en": "Some Common Errors"

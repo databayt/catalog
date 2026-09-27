@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq01",
+      "type": "mcq",
+      "question": "Iambic pentameter is a type of:",
+      "options": [
+        "rhyme scheme",
+        "metre",
+        "stanza",
+        "genre"
+      ],
+      "answer": "metre",
+      "explanation": "Rhythm/metre."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq02",
+      "type": "true_false",
+      "question": "Form and structure are part of a poet's method.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Methods."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq03",
+      "type": "fill_blank",
+      "question": "Analysing how meaning is made is analysing poetic ___.",
+      "answer": "method",
+      "explanation": "Methods."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-01-poetic-method-lq04",
+      "type": "short_answer",
+      "question": "Why analyse poetic form?",
+      "answer": "Because form shapes and reinforces meaning.",
+      "explanation": "Form and meaning."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-02-context-lq01",
+      "type": "mcq",
+      "question": "AO3 in A-Level Literature concerns:",
+      "options": [
+        "spelling",
+        "contexts",
+        "page count",
+        "fonts"
+      ],
+      "answer": "contexts",
+      "explanation": "Assessment objective."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-02-context-lq02",
+      "type": "true_false",
+      "question": "Texts can be connected through shared themes or movements.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Connections."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-02-context-lq03",
+      "type": "fill_blank",
+      "question": "Literary, social and historical background is ___.",
+      "answer": "context",
+      "explanation": "Context (AO3)."
+    },
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-02-context-lq04",
+      "type": "short_answer",
+      "question": "How does context deepen interpretation?",
+      "answer": "It situates a text within the ideas and conditions that shaped it.",
+      "explanation": "Context."
+    }
+  ]
+}

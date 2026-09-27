@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-ratios-rates",
+      "slug": "c1",
       "title": {
         "en": "Ratios & Rates"
       },
       "lessons": [
         {
-          "slug": "01-ratios",
+          "slug": "l1",
           "title": {
             "en": "Understanding Ratios"
           }
         },
         {
-          "slug": "02-unit-rates",
+          "slug": "l2",
           "title": {
             "en": "Unit Rates"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-expressions-equations",
+      "slug": "c2",
       "title": {
         "en": "Expressions & Equations"
       },
       "lessons": [
         {
-          "slug": "01-expressions",
+          "slug": "l1",
           "title": {
             "en": "Algebraic Expressions"
           }
         },
         {
-          "slug": "02-one-step-equations",
+          "slug": "l2",
           "title": {
             "en": "One-Step Equations"
           }

@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-real-numbers",
+      "slug": "c1",
       "title": {
         "en": "Real Numbers"
       },
       "lessons": [
         {
-          "slug": "01-real-numbers",
+          "slug": "l1",
           "title": {
             "en": "Real Numbers"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-polynomials",
+      "slug": "c2",
       "title": {
         "en": "Polynomials"
       },
       "lessons": [
         {
-          "slug": "01-polynomials",
+          "slug": "l1",
           "title": {
             "en": "Polynomials"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-pair-of-linear-equations",
+      "slug": "c3",
       "title": {
         "en": "Pair of Linear Equations in Two Variables"
       },
       "lessons": [
         {
-          "slug": "01-pair-of-linear-equations",
+          "slug": "l1",
           "title": {
             "en": "Pair of Linear Equations in Two Variables"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-quadratic-equations",
+      "slug": "c4",
       "title": {
         "en": "Quadratic Equations"
       },
       "lessons": [
         {
-          "slug": "01-quadratic-equations",
+          "slug": "l1",
           "title": {
             "en": "Quadratic Equations"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-arithmetic-progressions",
+      "slug": "c5",
       "title": {
         "en": "Arithmetic Progressions"
       },
       "lessons": [
         {
-          "slug": "01-arithmetic-progressions",
+          "slug": "l1",
           "title": {
             "en": "Arithmetic Progressions"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-triangles",
+      "slug": "c6",
       "title": {
         "en": "Triangles"
       },
       "lessons": [
         {
-          "slug": "01-triangles",
+          "slug": "l1",
           "title": {
             "en": "Triangles"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-coordinate-geometry",
+      "slug": "c7",
       "title": {
         "en": "Coordinate Geometry"
       },
       "lessons": [
         {
-          "slug": "01-coordinate-geometry",
+          "slug": "l1",
           "title": {
             "en": "Coordinate Geometry"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-introduction-to-trigonometry",
+      "slug": "c8",
       "title": {
         "en": "Introduction to Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-introduction-to-trigonometry",
+          "slug": "l1",
           "title": {
             "en": "Introduction to Trigonometry"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-applications-of-trigonometry",
+      "slug": "c9",
       "title": {
         "en": "Some Applications of Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-applications-of-trigonometry",
+          "slug": "l1",
           "title": {
             "en": "Some Applications of Trigonometry"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-circles",
+      "slug": "c10",
       "title": {
         "en": "Circles"
       },
       "lessons": [
         {
-          "slug": "01-circles",
+          "slug": "l1",
           "title": {
             "en": "Circles"
           }
@@ -161,13 +161,13 @@
       ]
     },
     {
-      "slug": "11-areas-related-to-circles",
+      "slug": "c11",
       "title": {
         "en": "Areas Related to Circles"
       },
       "lessons": [
         {
-          "slug": "01-areas-related-to-circles",
+          "slug": "l1",
           "title": {
             "en": "Areas Related to Circles"
           }
@@ -175,13 +175,13 @@
       ]
     },
     {
-      "slug": "12-surface-areas-and-volumes",
+      "slug": "c12",
       "title": {
         "en": "Surface Areas and Volumes"
       },
       "lessons": [
         {
-          "slug": "01-surface-areas-and-volumes",
+          "slug": "l1",
           "title": {
             "en": "Surface Areas and Volumes"
           }
@@ -189,13 +189,13 @@
       ]
     },
     {
-      "slug": "13-statistics",
+      "slug": "c13",
       "title": {
         "en": "Statistics"
       },
       "lessons": [
         {
-          "slug": "01-statistics",
+          "slug": "l1",
           "title": {
             "en": "Statistics"
           }
@@ -203,13 +203,13 @@
       ]
     },
     {
-      "slug": "14-probability",
+      "slug": "c14",
       "title": {
         "en": "Probability"
       },
       "lessons": [
         {
-          "slug": "01-probability",
+          "slug": "l1",
           "title": {
             "en": "Probability"
           }

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "geography",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq01",
+      "type": "mcq",
+      "question": "The wearing away of a riverbed and banks is:",
+      "options": [
+        "deposition",
+        "erosion",
+        "evaporation",
+        "condensation"
+      ],
+      "answer": "erosion",
+      "explanation": "River erosion."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq02",
+      "type": "true_false",
+      "question": "A meander is a bend in a river.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "River feature."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq03",
+      "type": "fill_blank",
+      "question": "Material dropped by a river is called ___.",
+      "answer": "deposition",
+      "explanation": "Sediment deposited."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-01-rivers-lq04",
+      "type": "short_answer",
+      "question": "Name one landform created by a river.",
+      "answer": "e.g., waterfall, meander, ox-bow lake, or floodplain.",
+      "explanation": "River landforms."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq01",
+      "type": "mcq",
+      "question": "Waves wearing away the coast is coastal:",
+      "options": [
+        "erosion",
+        "deposition",
+        "evaporation",
+        "melting"
+      ],
+      "answer": "erosion",
+      "explanation": "Coastal erosion."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq02",
+      "type": "true_false",
+      "question": "A spit is a coastal landform made by deposition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Deposition feature."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq03",
+      "type": "fill_blank",
+      "question": "An arch that collapses can leave a sea ___.",
+      "answer": "stack",
+      "explanation": "Coastal stack."
+    },
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq04",
+      "type": "short_answer",
+      "question": "How do humans try to protect coasts?",
+      "answer": "e.g., sea walls, groynes, or beach nourishment.",
+      "explanation": "Coastal management."
+    }
+  ]
+}

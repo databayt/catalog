@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g8-ara-unit-02-definite-exam",
+      "title": "Exam: المعرفة والنكرة",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq01",
+          "type": "mcq",
+          "question": "أي الكلمات معرفة؟",
+          "options": [
+            "كتابٌ",
+            "الكتابُ",
+            "قلمٌ",
+            "بيتٌ"
+          ],
+          "answer": "الكتابُ",
+          "explanation": "معرّف بأل."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq02",
+          "type": "true_false",
+          "question": "الأسماء المعرّفة بأل من المعارف.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "المعارف."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq03",
+          "type": "fill_blank",
+          "question": "الضمائر مثل (هو، أنتَ) من ___.",
+          "answer": "المعارف",
+          "explanation": "المعارف."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-01-marifa-lq04",
+          "type": "short_answer",
+          "question": "اذكر نوعاً من أنواع المعارف.",
+          "answer": "مثل: العلم، الضمير، المعرّف بأل.",
+          "explanation": "المعارف."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq01",
+          "type": "mcq",
+          "question": "النكرة اسم:",
+          "options": [
+            "يدل على غير معيّن",
+            "معروف",
+            "علم",
+            "ضمير"
+          ],
+          "answer": "يدل على غير معيّن",
+          "explanation": "تعريف النكرة."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq02",
+          "type": "true_false",
+          "question": "(رجلٌ) نكرة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "غير معيّن."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq03",
+          "type": "fill_blank",
+          "question": "الاسم غير المحدد بمعيّن يسمى ___.",
+          "answer": "النكرة",
+          "explanation": "النكرة."
+        },
+        {
+          "id": "g8-ara-unit-02-definite-02-nakira-lq04",
+          "type": "short_answer",
+          "question": "حوّل (ولد) إلى معرفة.",
+          "answer": "الولد",
+          "explanation": "التعريف بأل."
+        }
+      ]
+    }
+  ]
+}

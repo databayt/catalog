@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "biology",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g9-bio-unit-01-cells-01-cell-organelles-lq01",
+      "type": "mcq",
+      "question": "The powerhouse of the cell is the:",
+      "options": [
+        "nucleus",
+        "mitochondria",
+        "ribosome",
+        "vacuole"
+      ],
+      "answer": "mitochondria",
+      "explanation": "ATP production."
+    },
+    {
+      "id": "g9-bio-unit-01-cells-01-cell-organelles-lq02",
+      "type": "true_false",
+      "question": "Ribosomes synthesize proteins.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Protein synthesis."
+    },
+    {
+      "id": "g9-bio-unit-01-cells-01-cell-organelles-lq03",
+      "type": "fill_blank",
+      "question": "The site of photosynthesis in plant cells is the ___.",
+      "answer": "chloroplast",
+      "explanation": "Chloroplast."
+    },
+    {
+      "id": "g9-bio-unit-01-cells-01-cell-organelles-lq04",
+      "type": "short_answer",
+      "question": "Name one difference between prokaryotic and eukaryotic cells.",
+      "answer": "Eukaryotes have a membrane-bound nucleus; prokaryotes do not.",
+      "explanation": "Cell types."
+    }
+  ]
+}

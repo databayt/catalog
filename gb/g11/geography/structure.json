@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-urban",
+      "slug": "c1",
       "title": {
         "en": "Urban Issues & Challenges"
       },
       "lessons": [
         {
-          "slug": "01-urban-growth",
+          "slug": "l1",
           "title": {
             "en": "Urban Growth in LICs/NEEs"
           }
         },
         {
-          "slug": "02-sustainable-urban",
+          "slug": "l2",
           "title": {
             "en": "Sustainable Cities"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-economic-world",
+      "slug": "c2",
       "title": {
         "en": "The Changing Economic World"
       },
       "lessons": [
         {
-          "slug": "01-development-gap",
+          "slug": "l1",
           "title": {
             "en": "The Development Gap"
           }
         },
         {
-          "slug": "02-resource-management",
+          "slug": "l2",
           "title": {
             "en": "Resource Management"
           }

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq01",
+      "type": "mcq",
+      "question": "مدرسة الإحياء دعت إلى العودة إلى:",
+      "options": [
+        "الشعر القديم وقوته",
+        "النثر فقط",
+        "ترك الشعر",
+        "العامية"
+      ],
+      "answer": "الشعر القديم وقوته",
+      "explanation": "الإحياء والبعث."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq02",
+      "type": "true_false",
+      "question": "من رواد مدرسة الإحياء أحمد شوقي والبارودي.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الإحياء."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq03",
+      "type": "fill_blank",
+      "question": "مدرسة العودة إلى نمط القصيدة القديمة هي مدرسة ___.",
+      "answer": "الإحياء",
+      "explanation": "الكلاسيكية."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-01-classical-lq04",
+      "type": "short_answer",
+      "question": "بمَ تميزت مدرسة الإحياء؟",
+      "answer": "بمحاكاة الشعر العربي القديم وإحياء قوته.",
+      "explanation": "المدارس."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-02-modern-lq01",
+      "type": "mcq",
+      "question": "الشعر الحر تحرر من قيد:",
+      "options": [
+        "الوزن والقافية الموحدة",
+        "المعنى",
+        "اللغة",
+        "الخيال"
+      ],
+      "answer": "الوزن والقافية الموحدة",
+      "explanation": "التجديد."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-02-modern-lq02",
+      "type": "true_false",
+      "question": "ظهرت مدارس حديثة جدّدت في الشكل والمضمون.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "التجديد."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-02-modern-lq03",
+      "type": "fill_blank",
+      "question": "الشعر الذي لا يلتزم القافية الموحدة يسمى الشعر ___.",
+      "answer": "الحر",
+      "explanation": "الشعر الحر."
+    },
+    {
+      "id": "g12-ara-unit-02-schools-02-modern-lq04",
+      "type": "short_answer",
+      "question": "اذكر مظهراً من مظاهر التجديد في الشعر الحديث.",
+      "answer": "مثل: التحرر من القافية الموحدة والاهتمام بالتجربة الشعورية.",
+      "explanation": "التجديد."
+    }
+  ]
+}

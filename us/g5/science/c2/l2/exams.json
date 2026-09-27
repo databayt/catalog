@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g5-sci-unit-02-ecosystems-02-water-cycle-quiz",
+      "title": "Quiz: The Water Cycle",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq01",
+          "type": "mcq",
+          "question": "Water turning to vapor is:",
+          "options": [
+            "condensation",
+            "evaporation",
+            "precipitation",
+            "erosion"
+          ],
+          "answer": "evaporation",
+          "explanation": "Liquid → gas."
+        },
+        {
+          "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq02",
+          "type": "true_false",
+          "question": "Condensation forms clouds.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Vapor → droplets."
+        },
+        {
+          "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq03",
+          "type": "fill_blank",
+          "question": "Rain and snow are forms of ___.",
+          "answer": "precipitation",
+          "explanation": "Water falling."
+        },
+        {
+          "id": "g5-sci-unit-02-ecosystems-02-water-cycle-lq04",
+          "type": "short_answer",
+          "question": "Describe the water cycle briefly.",
+          "answer": "Evaporation, condensation, precipitation, and collection repeat.",
+          "explanation": "Cycle stages."
+        }
+      ]
+    }
+  ]
+}

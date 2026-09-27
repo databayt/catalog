@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-sci-unit-02-01-electric-charge-lquiz",
+      "title": "اختبار درس - الشحنة الكهربائية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-sci-unit-02-01-electric-charge-lq01",
+          "type": "mcq",
+          "question": "أي من الآتي مثال على العلوم التطبيقية في الفصل 2؟",
+          "options": [
+            "استخدام العلوم في الحياة اليومية",
+            "قراءة الكتب",
+            "حل الألغاز",
+            "الرسم"
+          ],
+          "answer": "استخدام العلوم في الحياة اليومية",
+          "explanation": "العلوم التطبيقية تربط النظرية بالحياة العملية."
+        },
+        {
+          "id": "g9-sci-unit-02-01-electric-charge-lq02",
+          "type": "true_false",
+          "question": "الملاحظة والتجربة أساس المنهج العلمي.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المنهج العلمي يبدأ بالملاحظة ثم الفرضية والتجربة."
+        },
+        {
+          "id": "g9-sci-unit-02-01-electric-charge-lq03",
+          "type": "fill_blank",
+          "question": "الخطوة الأولى في المنهج العلمي هي ___.",
+          "answer": "الملاحظة",
+          "explanation": "المنهج العلمي يبدأ بملاحظة الظاهرة."
+        },
+        {
+          "id": "g9-sci-unit-02-01-electric-charge-lq04",
+          "type": "short_answer",
+          "question": "ما خطوات المنهج العلمي؟",
+          "answer": "الملاحظة، الفرضية، التجربة، النتائج، الاستنتاج.",
+          "explanation": "المنهج العلمي له خطوات محددة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-science-c2-l1-1",
+      "title": "الشحنة الكهربائية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "28d93b32",
+          "type": "mcq",
+          "question": "ما هي الكهرباء؟",
+          "options": [
+            "حركة الإلكترونات",
+            "نوع من الضوء",
+            "شكل من الطاقة الحرارية",
+            "مادة سائلة"
+          ],
+          "answer": "حركة الإلكترونات",
+          "explanation": "الكهرباء تنتج من حركة الإلكترونات"
+        },
+        {
+          "id": "3a21d4f2",
+          "type": "fill_blank",
+          "question": "الشحنة الموجبة تُشار إليها بـ ___ والشحنة السالبة بـ ___",
+          "answer": "+ و -",
+          "explanation": "الرموز الكهربائية: + للموجبة و - للسالبة"
+        },
+        {
+          "id": "4a57a615",
+          "type": "true_false",
+          "question": "الشحنات المتشابهة تتنافر والشحنات المختلفة تتجاذب",
+          "answer": true,
+          "explanation": "هذا قانون أساسي في الكهرومغناطيسية"
+        }
+      ]
+    }
+  ]
+}

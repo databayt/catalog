@@ -1,0 +1,266 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "geography",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g9-geo-unit-02-quiz",
+      "title": "اختبار - جغرافية السودان البشرية",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-geo-unit-02-01-population-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-01-population-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-02-agricultural-activity-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-02-agricultural-activity-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-03-animal-production-and-fisheries-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-03-animal-production-and-fisheries-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-04-forestry-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-04-forestry-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-05-energy-petroleum-minerals-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-05-energy-petroleum-minerals-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        }
+      ]
+    },
+    {
+      "id": "g9-geo-unit-02-quiz-2",
+      "title": "اختبار - جغرافية السودان البشرية",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-geo-unit-02-01-population-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-01-population-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-02-agricultural-activity-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-02-agricultural-activity-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-03-animal-production-and-fisheries-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-03-animal-production-and-fisheries-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-04-forestry-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-04-forestry-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        },
+        {
+          "id": "g9-geo-unit-02-05-energy-petroleum-minerals-q01",
+          "type": "mcq",
+          "question": "ما العاصمة السياسية للسودان؟",
+          "options": [
+            "الخرطوم",
+            "أم درمان",
+            "بورتسودان",
+            "مدني"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم هي العاصمة الوطنية للسودان."
+        },
+        {
+          "id": "g9-geo-unit-02-05-energy-petroleum-minerals-q02",
+          "type": "true_false",
+          "question": "يقع السودان في شمال شرق أفريقيا.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان يقع في شمال شرق القارة الأفريقية."
+        }
+      ]
+    }
+  ]
+}

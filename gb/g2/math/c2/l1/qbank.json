@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq01",
+      "type": "mcq",
+      "question": "5 × 4 = ?",
+      "options": [
+        "9",
+        "20",
+        "25",
+        "15"
+      ],
+      "answer": "20",
+      "explanation": "Five fours."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq02",
+      "type": "true_false",
+      "question": "10 × 3 = 30.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Ten threes."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq03",
+      "type": "fill_blank",
+      "question": "2 × 7 = ___.",
+      "answer": "14",
+      "explanation": "Two sevens."
+    },
+    {
+      "id": "g2-mat-unit-02-multiplication-01-times-tables-lq04",
+      "type": "short_answer",
+      "question": "Skip count in 5s to 25.",
+      "answer": "5, 10, 15, 20, 25",
+      "explanation": "Count in fives."
+    }
+  ]
+}

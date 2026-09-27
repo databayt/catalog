@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-quiz",
+      "title": "Quiz: The Carbon Cycle",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-lq01",
+          "type": "mcq",
+          "question": "Burning fossil fuels transfers carbon to the:",
+          "options": [
+            "atmosphere",
+            "core",
+            "mantle",
+            "moon"
+          ],
+          "answer": "atmosphere",
+          "explanation": "Carbon flux."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-lq02",
+          "type": "true_false",
+          "question": "Oceans and forests act as carbon sinks.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carbon stores."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-lq03",
+          "type": "fill_blank",
+          "question": "Human activity has increased atmospheric ___ dioxide.",
+          "answer": "carbon",
+          "explanation": "CO₂ rise."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-02-carbon-cycle-lq04",
+          "type": "short_answer",
+          "question": "How do the water and carbon cycles link to climate?",
+          "answer": "Changes in their stores and flows drive climate change.",
+          "explanation": "Cycle-climate link."
+        }
+      ]
+    }
+  ]
+}

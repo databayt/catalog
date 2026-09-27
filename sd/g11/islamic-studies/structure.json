@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-part-1-the-companions",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: الصحابة رضوان الله عليهم",
         "en": "Part 1: The Companions"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-who-the-companions-are-and-how-the-quran-and",
+          "slug": "l1",
           "title": {
             "ar": "تعريف الصحابة ووصفهم في القرآن الكريم والسنة النبوية",
             "en": "Who the Companions Are and How the Quran and Sunnah Describe Them"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-roles-of-the-companions-leading-armies",
+          "slug": "l2",
           "title": {
             "ar": "مهام وأدوار أصحاب النبي ﷺ: قيادة الجيوش",
             "en": "Roles of the Companions: Leading Armies"
@@ -57,7 +57,7 @@
           "image": "clickview/high-leadership-skills-cover.jpg"
         },
         {
-          "slug": "03-sacrifice-and-devotion",
+          "slug": "l3",
           "title": {
             "ar": "الفداء والتضحية",
             "en": "Sacrifice and Devotion"
@@ -65,7 +65,7 @@
           "page": 27
         },
         {
-          "slug": "04-issuing-legal-opinions",
+          "slug": "l4",
           "title": {
             "ar": "الفتوى",
             "en": "Issuing Legal Opinions"
@@ -73,7 +73,7 @@
           "page": 33
         },
         {
-          "slug": "05-writing-down-the-revelation",
+          "slug": "l5",
           "title": {
             "ar": "كتابة الوحي",
             "en": "Writing Down the Revelation"
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "slug": "02-part-2-from-the-history-of-islamic-legislation",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: من تاريخ التشريع الإسلامي",
         "en": "Part 2: From the History of Islamic Legislation"
@@ -95,7 +95,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-legislation-in-the-prophets-time",
+          "slug": "l1",
           "title": {
             "ar": "التشريع في عهد النبي ﷺ",
             "en": "Legislation in the Prophet's Time"
@@ -103,7 +103,7 @@
           "page": 46
         },
         {
-          "slug": "02-legislation-in-the-companions-era",
+          "slug": "l2",
           "title": {
             "ar": "التشريع في عصر الصحابة",
             "en": "Legislation in the Companions' Era"
@@ -111,7 +111,7 @@
           "page": 53
         },
         {
-          "slug": "03-legislation-in-the-era-of-the-successors-and",
+          "slug": "l3",
           "title": {
             "ar": "التشريع في عصر التابعين والأئمة المجتهدين",
             "en": "Legislation in the Era of the Successors and the Jurist Imams"
@@ -119,7 +119,7 @@
           "page": 55
         },
         {
-          "slug": "04-the-era-of-imitation",
+          "slug": "l4",
           "title": {
             "ar": "عصر التقليد",
             "en": "The Era of Imitation"
@@ -127,7 +127,7 @@
           "page": 58
         },
         {
-          "slug": "05-the-modern-era",
+          "slug": "l5",
           "title": {
             "ar": "العصر الحديث",
             "en": "The Modern Era"
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "slug": "03-part-3-schools-of-jurisprudence",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: مدارس الفقه",
         "en": "Part 3: Schools of Jurisprudence"
@@ -148,7 +148,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-imam-abu-hanifa",
+          "slug": "l1",
           "title": {
             "ar": "الإمام أبو حنيفة",
             "en": "Imam Abu Hanifa"
@@ -156,7 +156,7 @@
           "page": 62
         },
         {
-          "slug": "02-imam-malik",
+          "slug": "l2",
           "title": {
             "ar": "الإمام مالك",
             "en": "Imam Malik"
@@ -164,7 +164,7 @@
           "page": 69
         },
         {
-          "slug": "03-imam-al-shafii",
+          "slug": "l3",
           "title": {
             "ar": "الإمام الشافعي",
             "en": "Imam al-Shafi'i"
@@ -172,7 +172,7 @@
           "page": 74
         },
         {
-          "slug": "04-imam-ahmad-ibn-hanbal",
+          "slug": "l4",
           "title": {
             "ar": "الإمام أحمد بن حنبل",
             "en": "Imam Ahmad ibn Hanbal"
@@ -180,7 +180,7 @@
           "page": 79
         },
         {
-          "slug": "05-other-scholars-with-schools-of-their-own",
+          "slug": "l5",
           "title": {
             "ar": "علماء لهم مذاهب",
             "en": "Other Scholars with Schools of Their Own"
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "slug": "04-part-4-judiciary-and-prescribed-punishments-in",
+      "slug": "c4",
       "title": {
         "ar": "الباب الرابع: القضاء والحدود في الإسلام",
         "en": "Part 4: Judiciary and Prescribed Punishments in Islam"
@@ -201,7 +201,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-judiciary-in-islam",
+          "slug": "l1",
           "title": {
             "ar": "القضاء في الإسلام",
             "en": "The Judiciary in Islam"
@@ -209,7 +209,7 @@
           "page": 87
         },
         {
-          "slug": "02-claims-and-evidence",
+          "slug": "l2",
           "title": {
             "ar": "الدعاوى والبينات",
             "en": "Claims and Evidence"
@@ -217,7 +217,7 @@
           "page": 92
         },
         {
-          "slug": "03-hudud-crimes-in-islam",
+          "slug": "l3",
           "title": {
             "ar": "جرائم الحدود في الإسلام",
             "en": "Hudud Crimes in Islam"
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "slug": "05-part-5-jurisprudence-of-financial-transactions",
+      "slug": "c5",
       "title": {
         "ar": "الباب الخامس: فقه المعاملات المالية في الإسلام",
         "en": "Part 5: Jurisprudence of Financial Transactions"
@@ -238,7 +238,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-rules-of-sale",
+          "slug": "l1",
           "title": {
             "ar": "أحكام البيوع",
             "en": "Rules of Sale"
@@ -247,7 +247,7 @@
           "image": "clickview/high-marketing-cover.jpg"
         },
         {
-          "slug": "02-partnerships",
+          "slug": "l2",
           "title": {
             "ar": "الشركات",
             "en": "Partnerships"
@@ -255,7 +255,7 @@
           "page": 123
         },
         {
-          "slug": "03-forward-sale-salam",
+          "slug": "l3",
           "title": {
             "ar": "بيع السلم",
             "en": "Forward Sale (Salam)"
@@ -263,7 +263,7 @@
           "page": 126
         },
         {
-          "slug": "04-irrigation-partnership-musaqat",
+          "slug": "l4",
           "title": {
             "ar": "المساقاة",
             "en": "Irrigation Partnership (Musaqat)"
@@ -272,7 +272,7 @@
           "image": "clickview/high-food-product-development-cover.jpg"
         },
         {
-          "slug": "05-sharecropping-muzaraa",
+          "slug": "l5",
           "title": {
             "ar": "المزارعة",
             "en": "Sharecropping (Muzara'a)"
@@ -281,7 +281,7 @@
           "image": "clickview/high-food-product-development-cover.jpg"
         },
         {
-          "slug": "06-leasing-ijara",
+          "slug": "l6",
           "title": {
             "ar": "الإجارة",
             "en": "Leasing (Ijara)"
@@ -289,7 +289,7 @@
           "page": 134
         },
         {
-          "slug": "07-guarantee",
+          "slug": "l7",
           "title": {
             "ar": "الضمان",
             "en": "Guarantee"
@@ -297,7 +297,7 @@
           "page": 137
         },
         {
-          "slug": "08-agency",
+          "slug": "l8",
           "title": {
             "ar": "الوكالة",
             "en": "Agency"
@@ -305,7 +305,7 @@
           "page": 138
         },
         {
-          "slug": "09-pledge-rahn",
+          "slug": "l9",
           "title": {
             "ar": "الرهن",
             "en": "Pledge (Rahn)"
@@ -313,7 +313,7 @@
           "page": 141
         },
         {
-          "slug": "10-prohibited-sales",
+          "slug": "l10",
           "title": {
             "ar": "البيوع المحرمة",
             "en": "Prohibited Sales"
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "slug": "06-part-6-jurisprudence-of-jihad",
+      "slug": "c6",
       "title": {
         "ar": "الباب السادس: فقه الجهاد",
         "en": "Part 6: Jurisprudence of Jihad"
@@ -334,7 +334,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-ruling-on-jihad",
+          "slug": "l1",
           "title": {
             "ar": "حكم الجهاد في الإسلام",
             "en": "The Ruling on Jihad"
@@ -342,7 +342,7 @@
           "page": 160
         },
         {
-          "slug": "02-when-fighting-counts-as-jihad",
+          "slug": "l2",
           "title": {
             "ar": "متى يكون القتال جهاداً",
             "en": "When Fighting Counts as Jihad"
@@ -350,7 +350,7 @@
           "page": 164
         },
         {
-          "slug": "03-peace-in-islam",
+          "slug": "l3",
           "title": {
             "ar": "السلام في الإسلام",
             "en": "Peace in Islam"
@@ -359,7 +359,7 @@
           "image": "clickview/high-international-day-of-peace-cover.jpg"
         },
         {
-          "slug": "04-when-war-is-legitimate",
+          "slug": "l4",
           "title": {
             "ar": "متى تشرع الحرب",
             "en": "When War Is Legitimate"
@@ -367,7 +367,7 @@
           "page": 168
         },
         {
-          "slug": "05-general-rules",
+          "slug": "l5",
           "title": {
             "ar": "أحكام عامة",
             "en": "General Rules"

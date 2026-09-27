@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-population",
+      "slug": "c1",
       "title": {
         "en": "Population & Urbanisation"
       },
       "lessons": [
         {
-          "slug": "01-population",
+          "slug": "l1",
           "title": {
             "en": "Population Distribution"
           }
         },
         {
-          "slug": "02-urbanisation",
+          "slug": "l2",
           "title": {
             "en": "Urbanisation"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-development",
+      "slug": "c2",
       "title": {
         "en": "Development & Globalisation"
       },
       "lessons": [
         {
-          "slug": "01-development",
+          "slug": "l1",
           "title": {
             "en": "Measuring Development"
           }
         },
         {
-          "slug": "02-globalisation",
+          "slug": "l2",
           "title": {
             "en": "Globalisation"
           }

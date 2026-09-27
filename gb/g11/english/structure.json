@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-nonfiction",
+      "slug": "c1",
       "title": {
         "en": "Comparing Non-Fiction"
       },
       "lessons": [
         {
-          "slug": "01-viewpoint",
+          "slug": "l1",
           "title": {
             "en": "Identifying Viewpoint"
           }
         },
         {
-          "slug": "02-evaluation",
+          "slug": "l2",
           "title": {
             "en": "Evaluating Texts"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing to Present a Viewpoint"
       },
       "lessons": [
         {
-          "slug": "01-persuasive",
+          "slug": "l1",
           "title": {
             "en": "Persuasive Writing"
           }
         },
         {
-          "slug": "02-form-audience",
+          "slug": "l2",
           "title": {
             "en": "Form, Audience & Purpose"
           }

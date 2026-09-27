@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading-and-comprehension",
+      "slug": "c1",
       "title": {
         "en": "Reading and Comprehension"
       },
       "lessons": [
         {
-          "slug": "01-reading-and-comprehension",
+          "slug": "l1",
           "title": {
             "en": "Reading and Comprehension"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-summary-writing",
+      "slug": "c2",
       "title": {
         "en": "Summary Writing"
       },
       "lessons": [
         {
-          "slug": "01-summary-writing",
+          "slug": "l1",
           "title": {
             "en": "Summary Writing"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-directed-writing",
+      "slug": "c3",
       "title": {
         "en": "Directed Writing"
       },
       "lessons": [
         {
-          "slug": "01-directed-writing",
+          "slug": "l1",
           "title": {
             "en": "Directed Writing"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-composition-narrative",
+      "slug": "c4",
       "title": {
         "en": "Composition: Narrative"
       },
       "lessons": [
         {
-          "slug": "01-composition-narrative",
+          "slug": "l1",
           "title": {
             "en": "Composition: Narrative"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-composition-descriptive",
+      "slug": "c5",
       "title": {
         "en": "Composition: Descriptive"
       },
       "lessons": [
         {
-          "slug": "01-composition-descriptive",
+          "slug": "l1",
           "title": {
             "en": "Composition: Descriptive"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-composition-argumentative",
+      "slug": "c6",
       "title": {
         "en": "Composition: Argumentative"
       },
       "lessons": [
         {
-          "slug": "01-composition-argumentative",
+          "slug": "l1",
           "title": {
             "en": "Composition: Argumentative"
           }

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "moral-education",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g9-mor-unit-01-economy-01-economy-lq01",
+      "type": "mcq",
+      "question": "The UAE's economy has diversified beyond oil into tourism and:",
+      "options": [
+        "finance",
+        "fishing only",
+        "farming only",
+        "mining only"
+      ],
+      "answer": "finance",
+      "explanation": "Diversification."
+    },
+    {
+      "id": "g9-mor-unit-01-economy-01-economy-lq02",
+      "type": "true_false",
+      "question": "The UAE invests in renewable energy and innovation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Future economy."
+    },
+    {
+      "id": "g9-mor-unit-01-economy-01-economy-lq03",
+      "type": "fill_blank",
+      "question": "Reducing dependence on oil is economic ___.",
+      "answer": "diversification",
+      "explanation": "Diversification."
+    },
+    {
+      "id": "g9-mor-unit-01-economy-01-economy-lq04",
+      "type": "short_answer",
+      "question": "Why does the UAE diversify its economy?",
+      "answer": "To build a sustainable economy not reliant on oil.",
+      "explanation": "Diversification."
+    }
+  ]
+}

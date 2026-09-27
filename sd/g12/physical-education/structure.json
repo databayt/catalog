@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-importance-of-physical-activity-in-human",
+      "slug": "c1",
       "title": {
         "ar": "أهمية النشاط البدني في حياة الإنسان",
         "en": "The Importance of Physical Activity in Human Life"
@@ -40,7 +40,7 @@
       "lessons": []
     },
     {
-      "slug": "02-football",
+      "slug": "c2",
       "title": {
         "ar": "كرة القدم",
         "en": "Football"
@@ -52,7 +52,7 @@
       "lessons": []
     },
     {
-      "slug": "03-basketball",
+      "slug": "c3",
       "title": {
         "ar": "كرة السلة",
         "en": "Basketball"
@@ -64,7 +64,7 @@
       "lessons": []
     },
     {
-      "slug": "04-volleyball",
+      "slug": "c4",
       "title": {
         "ar": "الكرة الطائرة",
         "en": "Volleyball"
@@ -76,7 +76,7 @@
       "lessons": []
     },
     {
-      "slug": "05-handball",
+      "slug": "c5",
       "title": {
         "ar": "كرة اليد",
         "en": "Handball"
@@ -88,7 +88,7 @@
       "lessons": []
     },
     {
-      "slug": "06-table-tennis",
+      "slug": "c6",
       "title": {
         "ar": "تنس الطاولة",
         "en": "Table Tennis"
@@ -100,7 +100,7 @@
       "lessons": []
     },
     {
-      "slug": "07-traditional-games",
+      "slug": "c7",
       "title": {
         "ar": "الألعاب الشعبية",
         "en": "Traditional Games"
@@ -112,7 +112,7 @@
       "lessons": []
     },
     {
-      "slug": "08-sports-injuries-and-first-aid",
+      "slug": "c8",
       "title": {
         "ar": "إصابات الملاعب والإسعافات الأولية",
         "en": "Sports Injuries and First Aid"
@@ -124,7 +124,7 @@
       "lessons": []
     },
     {
-      "slug": "09-organising-tournaments-trips-and-camps",
+      "slug": "c9",
       "title": {
         "ar": "تنظيم الدورات الرياضية والرحلات والمعسكرات",
         "en": "Organising Tournaments, Trips and Camps"
@@ -136,7 +136,7 @@
       "lessons": []
     },
     {
-      "slug": "10-the-modern-olympic-games",
+      "slug": "c10",
       "title": {
         "ar": "الألعاب الأولمبية الحديثة",
         "en": "The Modern Olympic Games"

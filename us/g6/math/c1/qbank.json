@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq01",
+      "type": "mcq",
+      "question": "The ratio of 6 boys to 9 girls in simplest form is:",
+      "options": [
+        "6:9",
+        "2:3",
+        "3:2",
+        "1:2"
+      ],
+      "answer": "2:3",
+      "explanation": "Divide both by 3."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq02",
+      "type": "true_false",
+      "question": "A ratio of 4:2 is equivalent to 2:1.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Divide both by 2."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq03",
+      "type": "fill_blank",
+      "question": "If the ratio of cats to dogs is 3:5 and there are 9 cats, there are ___ dogs.",
+      "answer": "15",
+      "explanation": "3:5 = 9:15."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq04",
+      "type": "short_answer",
+      "question": "What does the ratio 2:1 mean?",
+      "answer": "Two of the first quantity for every one of the second.",
+      "explanation": "Ratio meaning."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-02-unit-rates-lq01",
+      "type": "mcq",
+      "question": "If 4 apples cost $2, the unit rate is:",
+      "options": [
+        "$2",
+        "$0.50 each",
+        "$8",
+        "$4"
+      ],
+      "answer": "$0.50 each",
+      "explanation": "2 ÷ 4 = 0.50."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-02-unit-rates-lq02",
+      "type": "true_false",
+      "question": "60 miles in 2 hours is a unit rate of 30 mph.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "60 ÷ 2 = 30."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-02-unit-rates-lq03",
+      "type": "fill_blank",
+      "question": "A car travels 150 km in 3 h. Its speed is ___ km/h.",
+      "answer": "50",
+      "explanation": "150 ÷ 3."
+    },
+    {
+      "id": "g6-mat-unit-01-ratios-rates-02-unit-rates-lq04",
+      "type": "short_answer",
+      "question": "How do you find a unit rate?",
+      "answer": "Divide to get the amount per one unit.",
+      "explanation": "Per-one quantity."
+    }
+  ]
+}

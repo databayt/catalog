@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-eng-unit-02-writing-02-prefixes-lq01",
+      "type": "mcq",
+      "question": "'mis-' in 'misread' means:",
+      "options": [
+        "again",
+        "wrongly",
+        "before",
+        "after"
+      ],
+      "answer": "wrongly",
+      "explanation": "Mistaken."
+    },
+    {
+      "id": "g4-eng-unit-02-writing-02-prefixes-lq02",
+      "type": "true_false",
+      "question": "'-ful' means full of.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., joyful."
+    },
+    {
+      "id": "g4-eng-unit-02-writing-02-prefixes-lq03",
+      "type": "fill_blank",
+      "question": "'dis-' + 'agree' = ___.",
+      "answer": "disagree",
+      "explanation": "Prefix."
+    },
+    {
+      "id": "g4-eng-unit-02-writing-02-prefixes-lq04",
+      "type": "short_answer",
+      "question": "How does a suffix change a word?",
+      "answer": "It adds meaning to the end of a base word.",
+      "explanation": "Word endings."
+    }
+  ]
+}

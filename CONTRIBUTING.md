@@ -22,7 +22,7 @@ This catalog is shared by several brands and apps. Everyone writes the same shap
 
 - `<subject>` must be an id in [`vocab/subjects.json`](vocab/subjects.json), optionally followed by a qualifier (`-specialized`, `-optional`). If the subject is genuinely new, add it to the vocabulary in the same PR, with `title: { ar, en }`, a `concept` and any `aliases`. Don't add a synonym of an existing id; add an alias instead.
 - `structure.json` identity must match its path: `id` = `<curriculum>-<grade>-<subject>`.
-- Chapters and lessons are `NN-topic` slugs in order (`01-…`, `02-…`), and each has a `title` in at least one language. Give both `ar` and `en` whenever you can.
+- Chapters are `c1`, `c2` … in book order, and lessons are `l1`, `l2` … within each chapter. Each has a `title` in at least one language. Give both `ar` and `en` whenever you can. Inserting a chapter renumbers the ones after it, so do that only for a new edition.
 - `source` says where the outline came from: the publisher, edition, url and license.
 - `status` is `official` (from an official textbook), `authored` (written against a public framework) or `outline`.
 
@@ -31,18 +31,18 @@ This catalog is shared by several brands and apps. Everyone writes the same shap
 Put a `qbank.json` (a pool) and/or an `exams.json` (assembled assessments) at the subject, chapter or lesson level:
 
 ```jsonc
-// sd/g6/math/01-sets/03-types-of-sets/qbank.json  →  cdn.databayt.org/catalog/sd/g6/math/01-sets/03-types-of-sets/qbank.json
+// sd/g6/math/c1/l3/qbank.json  →  cdn.databayt.org/catalog/sd/g6/math/c1/l3/qbank.json
 {
   "scope": {
     "curriculum": "sd",
     "grade": "g6",
     "subject": "math",
-    "chapter": "01-sets",
-    "lesson": "03-types-of-sets",
+    "chapter": "c1",
+    "lesson": "l3",
   },
   "questions": [
     {
-      "id": "sd-g6-math-01-03-q1",
+      "id": "sd-g6-math-c1-l3-q1",
       "type": "mcq",
       "question": "…",
       "options": ["…", "…"],

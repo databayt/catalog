@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-founding",
+      "slug": "c1",
       "title": {
         "en": "Founding the United States"
       },
       "lessons": [
         {
-          "slug": "01-constitution",
+          "slug": "l1",
           "title": {
             "en": "The Constitution"
           }
         },
         {
-          "slug": "02-principles",
+          "slug": "l2",
           "title": {
             "en": "Principles of Government"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-civil-war",
+      "slug": "c2",
       "title": {
         "en": "Expansion & Civil War"
       },
       "lessons": [
         {
-          "slug": "01-civil-war",
+          "slug": "l1",
           "title": {
             "en": "The Civil War"
           }
         },
         {
-          "slug": "02-reconstruction",
+          "slug": "l2",
           "title": {
             "en": "Reconstruction"
           }

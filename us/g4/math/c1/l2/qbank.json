@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-mat-unit-01-place-value-multidigit-02-multiply-multidigit-lq01",
+      "type": "mcq",
+      "question": "23 × 14 = ?",
+      "options": [
+        "322",
+        "312",
+        "332",
+        "422"
+      ],
+      "answer": "322",
+      "explanation": "23×14 = 322."
+    },
+    {
+      "id": "g4-mat-unit-01-place-value-multidigit-02-multiply-multidigit-lq02",
+      "type": "true_false",
+      "question": "The product of a 2-digit and 2-digit number can have 4 digits.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "e.g., 99×99=9801."
+    },
+    {
+      "id": "g4-mat-unit-01-place-value-multidigit-02-multiply-multidigit-lq03",
+      "type": "fill_blank",
+      "question": "40 × 30 = ___.",
+      "answer": "1200",
+      "explanation": "4×3=12, add two zeros."
+    },
+    {
+      "id": "g4-mat-unit-01-place-value-multidigit-02-multiply-multidigit-lq04",
+      "type": "short_answer",
+      "question": "Estimate 49 × 21 by rounding.",
+      "answer": "About 1000 (50 × 20).",
+      "explanation": "Rounding to estimate."
+    }
+  ]
+}

@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-holy-quran-and-its-sciences",
+      "slug": "c1",
       "title": {
         "ar": "القرآن الكريم وعلومه",
         "en": "The Holy Quran and Its Sciences"
@@ -39,7 +39,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-exegesis-of-surat-muhammad",
+          "slug": "l1",
           "title": {
             "ar": "تفسير سورة محمد",
             "en": "Exegesis of Surat Muhammad"
@@ -47,7 +47,7 @@
           "page": 2
         },
         {
-          "slug": "02-selected-verses",
+          "slug": "l2",
           "title": {
             "ar": "الآيات المختارة",
             "en": "Selected Verses"
@@ -55,7 +55,7 @@
           "page": 28
         },
         {
-          "slug": "03-from-the-sciences-of-the-quran",
+          "slug": "l3",
           "title": {
             "ar": "من علوم القرآن",
             "en": "From the Sciences of the Quran"
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "slug": "02-the-economic-system",
+      "slug": "c2",
       "title": {
         "ar": "النظام الاقتصادي",
         "en": "The Economic System"
@@ -76,7 +76,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-islamic-economics-concept-and-characteristics",
+          "slug": "l1",
           "title": {
             "ar": "الاقتصاد الإسلامي: المفهوم والخصائص",
             "en": "Islamic Economics: Concept and Characteristics"
@@ -84,7 +84,7 @@
           "page": 70
         },
         {
-          "slug": "02-public-finance-in-islam",
+          "slug": "l2",
           "title": {
             "ar": "المالية العامة في الإسلام",
             "en": "Public Finance in Islam"
@@ -92,7 +92,7 @@
           "page": 81
         },
         {
-          "slug": "03-islamic-banks",
+          "slug": "l3",
           "title": {
             "ar": "المصارف الإسلامية",
             "en": "Islamic Banks"
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "slug": "03-from-the-principles-of-jurisprudence",
+      "slug": "c3",
       "title": {
         "ar": "من أصول الفقه",
         "en": "From the Principles of Jurisprudence"
@@ -114,7 +114,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-science-of-the-principles-of-jurisprudence",
+          "slug": "l1",
           "title": {
             "ar": "علم أصول الفقه",
             "en": "The Science of the Principles of Jurisprudence"
@@ -122,7 +122,7 @@
           "page": 97
         },
         {
-          "slug": "02-rulings-and-ijtihad",
+          "slug": "l2",
           "title": {
             "ar": "الحكم والاجتهاد",
             "en": "Rulings and Ijtihad"
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "slug": "04-sciences-of-the-sunnah",
+      "slug": "c4",
       "title": {
         "ar": "علوم السنة",
         "en": "Sciences of the Sunnah"
@@ -143,7 +143,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-critique-and-validation-of-narrators",
+          "slug": "l1",
           "title": {
             "ar": "الجرح والتعديل",
             "en": "Critique and Validation of Narrators"
@@ -151,7 +151,7 @@
           "page": 118
         },
         {
-          "slug": "02-types-of-hadith",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الأحاديث",
             "en": "Types of Hadith"

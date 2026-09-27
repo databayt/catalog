@@ -1,0 +1,18 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g3-ma-u03-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: ٢٠ قابل للقسمة على ٥",
+      "answer": true,
+      "explanation": "The statement about القسمة is True."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "geography",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g8-geo-unit-02-development-02-globalisation-lq01",
+      "type": "mcq",
+      "question": "Globalisation makes the world more:",
+      "options": [
+        "isolated",
+        "connected",
+        "empty",
+        "frozen"
+      ],
+      "answer": "connected",
+      "explanation": "Interconnection."
+    },
+    {
+      "id": "g8-geo-unit-02-development-02-globalisation-lq02",
+      "type": "true_false",
+      "question": "Transnational companies operate in many countries.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "TNCs."
+    },
+    {
+      "id": "g8-geo-unit-02-development-02-globalisation-lq03",
+      "type": "fill_blank",
+      "question": "The spread of goods, ideas and culture worldwide is ___.",
+      "answer": "globalisation",
+      "explanation": "Global links."
+    },
+    {
+      "id": "g8-geo-unit-02-development-02-globalisation-lq04",
+      "type": "short_answer",
+      "question": "Name one effect of globalisation.",
+      "answer": "e.g., global trade, shared culture, or job shifts between countries.",
+      "explanation": "Globalisation effects."
+    }
+  ]
+}

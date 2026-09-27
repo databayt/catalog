@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-01-number-exam",
+      "title": "Exam: Number",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq01",
+          "type": "mcq",
+          "question": "Using BIDMAS, 2 + 3 × 4 = ?",
+          "options": [
+            "20",
+            "14",
+            "24",
+            "9"
+          ],
+          "answer": "14",
+          "explanation": "Multiply first."
+        },
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq02",
+          "type": "true_false",
+          "question": "BIDMAS means brackets are done first.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Order of operations."
+        },
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq03",
+          "type": "fill_blank",
+          "question": "(5 + 3) × 2 = ___.",
+          "answer": "16",
+          "explanation": "Brackets first."
+        },
+        {
+          "id": "g7-mat-unit-01-number-01-operations-lq04",
+          "type": "short_answer",
+          "question": "Why do we need an order of operations?",
+          "answer": "So everyone gets the same answer from an expression.",
+          "explanation": "Consistency."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq01",
+          "type": "mcq",
+          "question": "1/4 as a percentage is:",
+          "options": [
+            "14%",
+            "25%",
+            "40%",
+            "4%"
+          ],
+          "answer": "25%",
+          "explanation": "1/4 = 25%."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq02",
+          "type": "true_false",
+          "question": "0.5 = 50%.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiply by 100."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq03",
+          "type": "fill_blank",
+          "question": "3/10 as a decimal is ___.",
+          "answer": "0.3",
+          "explanation": "Tenths."
+        },
+        {
+          "id": "g7-mat-unit-01-number-02-fractions-lq04",
+          "type": "short_answer",
+          "question": "Convert 0.2 to a fraction in simplest form.",
+          "answer": "1/5",
+          "explanation": "0.2 = 2/10 = 1/5."
+        }
+      ]
+    }
+  ]
+}

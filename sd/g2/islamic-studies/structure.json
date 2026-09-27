@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-from-the-holy-quran",
+      "slug": "c1",
       "title": {
         "ar": "من القرآن الكريم",
         "en": "From the Holy Quran"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-surat-quraysh",
+          "slug": "l1",
           "title": {
             "ar": "سورة قريش",
             "en": "Surat Quraysh"
@@ -40,7 +40,7 @@
           "page": 7
         },
         {
-          "slug": "02-surat-al-qadr",
+          "slug": "l2",
           "title": {
             "ar": "سورة القدر",
             "en": "Surat Al-Qadr"
@@ -48,7 +48,7 @@
           "page": 8
         },
         {
-          "slug": "03-surat-at-tin",
+          "slug": "l3",
           "title": {
             "ar": "سورة التين",
             "en": "Surat At-Tin"
@@ -56,7 +56,7 @@
           "page": 10
         },
         {
-          "slug": "04-surat-ash-sharh",
+          "slug": "l4",
           "title": {
             "ar": "سورة الشرح",
             "en": "Surat Ash-Sharh"
@@ -64,7 +64,7 @@
           "page": 10
         },
         {
-          "slug": "05-surat-al-kafirun",
+          "slug": "l5",
           "title": {
             "ar": "سورة الكافرون",
             "en": "Surat Al-Kafirun"
@@ -72,7 +72,7 @@
           "page": 6
         },
         {
-          "slug": "06-surat-al-maun",
+          "slug": "l6",
           "title": {
             "ar": "سورة الماعون",
             "en": "Surat Al-Ma'un"
@@ -80,7 +80,7 @@
           "page": 6
         },
         {
-          "slug": "07-surat-al-fil",
+          "slug": "l7",
           "title": {
             "ar": "سورة الفيل",
             "en": "Surat Al-Fil"
@@ -88,7 +88,7 @@
           "page": 7
         },
         {
-          "slug": "08-surat-al-humazah",
+          "slug": "l8",
           "title": {
             "ar": "سورة الهمزة",
             "en": "Surat Al-Humazah"
@@ -96,7 +96,7 @@
           "page": 8
         },
         {
-          "slug": "09-surat-al-alaq",
+          "slug": "l9",
           "title": {
             "ar": "سورة العلق",
             "en": "Surat Al-Alaq"
@@ -104,7 +104,7 @@
           "page": 9
         },
         {
-          "slug": "10-surat-al-fajr",
+          "slug": "l10",
           "title": {
             "ar": "سورة الفجر (تلاوة)",
             "en": "Surat Al-Fajr (recitation)"
@@ -112,7 +112,7 @@
           "page": 11
         },
         {
-          "slug": "11-surat-al-ghashiyah",
+          "slug": "l11",
           "title": {
             "ar": "سورة الغاشية (تلاوة)",
             "en": "Surat Al-Ghashiyah (recitation)"
@@ -120,7 +120,7 @@
           "page": 12
         },
         {
-          "slug": "12-surat-al-buruj",
+          "slug": "l12",
           "title": {
             "ar": "سورة البروج (تلاوة)",
             "en": "Surat Al-Buruj (recitation)"
@@ -128,7 +128,7 @@
           "page": 13
         },
         {
-          "slug": "13-surat-al-inshiqaq",
+          "slug": "l13",
           "title": {
             "ar": "سورة الانشقاق (تلاوة)",
             "en": "Surat Al-Inshiqaq (recitation)"
@@ -136,7 +136,7 @@
           "page": 13
         },
         {
-          "slug": "14-surat-al-mutaffifin",
+          "slug": "l14",
           "title": {
             "ar": "سورة المطففين (تلاوة)",
             "en": "Surat Al-Mutaffifin (recitation)"
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "slug": "02-hadith-and-noble-morals",
+      "slug": "c2",
       "title": {
         "ar": "الحديث النبوي ومكارم الأخلاق",
         "en": "Prophetic Hadith and Noble Morals"
@@ -157,7 +157,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-kindness-to-parents",
+          "slug": "l1",
           "title": {
             "ar": "بر الوالدين",
             "en": "Kindness to Parents"
@@ -166,7 +166,7 @@
           "image": "clickview/elementary-family-cover.jpg"
         },
         {
-          "slug": "02-beauty-and-cleanliness-in-islam",
+          "slug": "l2",
           "title": {
             "ar": "الجمال والنظافة في الإسلام",
             "en": "Beauty and Cleanliness in Islam"
@@ -175,7 +175,7 @@
           "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg"
         },
         {
-          "slug": "03-the-islamic-greeting",
+          "slug": "l3",
           "title": {
             "ar": "تحية الإسلام",
             "en": "The Islamic Greeting"
@@ -183,7 +183,7 @@
           "page": 20
         },
         {
-          "slug": "04-love-of-the-homeland",
+          "slug": "l4",
           "title": {
             "ar": "حب الوطن",
             "en": "Love of the Homeland"
@@ -192,7 +192,7 @@
           "image": "clickview/elementary-community-cover.jpg"
         },
         {
-          "slug": "05-hadith-5",
+          "slug": "l5",
           "title": {
             "ar": "الحديث الخامس",
             "en": "The Fifth Hadith"
@@ -200,7 +200,7 @@
           "page": 23
         },
         {
-          "slug": "06-hadith-6",
+          "slug": "l6",
           "title": {
             "ar": "الحديث السادس",
             "en": "The Sixth Hadith"
@@ -208,7 +208,7 @@
           "page": 23
         },
         {
-          "slug": "07-truthfulness",
+          "slug": "l7",
           "title": {
             "ar": "الصدق",
             "en": "Truthfulness"
@@ -216,7 +216,7 @@
           "page": 24
         },
         {
-          "slug": "08-keeping-promises",
+          "slug": "l8",
           "title": {
             "ar": "الوفاء بالوعد",
             "en": "Keeping Promises"
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "slug": "03-prayer",
+      "slug": "c3",
       "title": {
         "ar": "الصلاة",
         "en": "Prayer (Salah)"
@@ -237,7 +237,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-how-i-pray",
+          "slug": "l1",
           "title": {
             "ar": "كيف أصلي",
             "en": "How I Pray"
@@ -245,7 +245,7 @@
           "page": 28
         },
         {
-          "slug": "02-virtues-of-prayer",
+          "slug": "l2",
           "title": {
             "ar": "من فضائل الصلاة",
             "en": "Some Virtues of Prayer"
@@ -253,7 +253,7 @@
           "page": 31
         },
         {
-          "slug": "03-first-tashahhud",
+          "slug": "l3",
           "title": {
             "ar": "التشهد الأول",
             "en": "The First Tashahhud"
@@ -261,7 +261,7 @@
           "page": 32
         },
         {
-          "slug": "04-ibrahimic-prayer-second-tashahhud",
+          "slug": "l4",
           "title": {
             "ar": "الصلاة الإبراهيمية (التشهد الثاني)",
             "en": "The Ibrahimic Prayer (Second Tashahhud)"
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "slug": "04-pillars-of-faith",
+      "slug": "c4",
       "title": {
         "ar": "من أركان الإيمان",
         "en": "From the Pillars of Faith"
@@ -282,7 +282,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-belief-in-allah",
+          "slug": "l1",
           "title": {
             "ar": "الإيمان بالله",
             "en": "Belief in Allah"
@@ -290,7 +290,7 @@
           "page": 34
         },
         {
-          "slug": "02-belief-in-the-messengers",
+          "slug": "l2",
           "title": {
             "ar": "الإيمان بالرسل",
             "en": "Belief in the Messengers"
@@ -298,7 +298,7 @@
           "page": 36
         },
         {
-          "slug": "03-story-of-adam",
+          "slug": "l3",
           "title": {
             "ar": "قصة آدم عليه السلام",
             "en": "The Story of Adam (peace be upon him)"
@@ -306,7 +306,7 @@
           "page": 38
         },
         {
-          "slug": "04-story-of-nuh",
+          "slug": "l4",
           "title": {
             "ar": "قصة نوح عليه السلام",
             "en": "The Story of Nuh (peace be upon him)"
@@ -314,7 +314,7 @@
           "page": 39
         },
         {
-          "slug": "05-our-master-ibrahim",
+          "slug": "l5",
           "title": {
             "ar": "سيدنا إبراهيم عليه السلام",
             "en": "Our Master Ibrahim (peace be upon him)"
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "slug": "05-prophetic-biography",
+      "slug": "c5",
       "title": {
         "ar": "من السيرة النبوية الشريفة",
         "en": "From the Noble Prophetic Biography"
@@ -335,7 +335,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-childhood-of-the-prophet",
+          "slug": "l1",
           "title": {
             "ar": "طفولة النبي صلى الله عليه وسلم",
             "en": "The Childhood of the Prophet ﷺ"
@@ -343,7 +343,7 @@
           "page": 44
         },
         {
-          "slug": "02-longing-for-the-messenger",
+          "slug": "l2",
           "title": {
             "ar": "الشوق إلى رسول الله صلى الله عليه وسلم",
             "en": "Longing for the Messenger of Allah ﷺ"
@@ -351,7 +351,7 @@
           "page": 47
         },
         {
-          "slug": "03-return-of-the-prophet-to-makkah",
+          "slug": "l3",
           "title": {
             "ar": "عودة النبي صلى الله عليه وسلم إلى مكة",
             "en": "The Return of the Prophet ﷺ to Makkah"
@@ -359,7 +359,7 @@
           "page": 48
         },
         {
-          "slug": "04-youth-of-the-prophet",
+          "slug": "l4",
           "title": {
             "ar": "مرحلة شبابه صلى الله عليه وسلم",
             "en": "The Youth of the Prophet ﷺ"
@@ -367,7 +367,7 @@
           "page": 51
         },
         {
-          "slug": "05-marriage-to-khadijah",
+          "slug": "l5",
           "title": {
             "ar": "زواج النبي (صلى الله عليه وسلم) بخديجة (رضي الله عنها)",
             "en": "The Prophet's ﷺ Marriage to Khadijah (may Allah be pleased with her)"

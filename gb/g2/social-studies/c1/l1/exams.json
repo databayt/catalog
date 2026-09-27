@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g2-uae-unit-01-community-01-community-quiz",
+      "title": "Quiz: My Community",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-uae-unit-01-community-01-community-lq01",
+          "type": "mcq",
+          "question": "A community is a group of people who:",
+          "options": [
+            "live and work together",
+            "never meet",
+            "live far apart",
+            "are robots"
+          ],
+          "answer": "live and work together",
+          "explanation": "Community."
+        },
+        {
+          "id": "g2-uae-unit-01-community-01-community-lq02",
+          "type": "true_false",
+          "question": "We all have a role to play in our community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Belonging."
+        },
+        {
+          "id": "g2-uae-unit-01-community-01-community-lq03",
+          "type": "fill_blank",
+          "question": "People who help us, like doctors and police, are community ___.",
+          "answer": "helpers",
+          "explanation": "Helpers."
+        },
+        {
+          "id": "g2-uae-unit-01-community-01-community-lq04",
+          "type": "short_answer",
+          "question": "Name one community helper and their job.",
+          "answer": "e.g., a doctor helps sick people get better.",
+          "explanation": "Helpers."
+        }
+      ]
+    }
+  ]
+}

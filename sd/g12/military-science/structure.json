@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-national-strategy",
+      "slug": "c1",
       "title": {
         "ar": "الاستراتيجية القومية",
         "en": "National Strategy"
@@ -41,7 +41,7 @@
       "lessons": []
     },
     {
-      "slug": "02-military-strategy",
+      "slug": "c2",
       "title": {
         "ar": "الاستراتيجية العسكرية",
         "en": "Military Strategy"
@@ -53,7 +53,7 @@
       "lessons": []
     },
     {
-      "slug": "03-military-doctrine",
+      "slug": "c3",
       "title": {
         "ar": "العقيدة العسكرية",
         "en": "Military Doctrine"
@@ -65,7 +65,7 @@
       "lessons": []
     },
     {
-      "slug": "04-the-art-of-war",
+      "slug": "c4",
       "title": {
         "ar": "فن الحرب",
         "en": "The Art of War"
@@ -77,7 +77,7 @@
       "lessons": []
     },
     {
-      "slug": "05-the-nature-of-contemporary-wars",
+      "slug": "c5",
       "title": {
         "ar": "طبيعة الحروب المعاصرة",
         "en": "The Nature of Contemporary Wars"
@@ -89,7 +89,7 @@
       "lessons": []
     },
     {
-      "slug": "06-star-wars",
+      "slug": "c6",
       "title": {
         "ar": "حرب النجوم",
         "en": "Star Wars"
@@ -101,7 +101,7 @@
       "lessons": []
     },
     {
-      "slug": "07-military-education-and-training",
+      "slug": "c7",
       "title": {
         "ar": "التربية والتدريب العسكري",
         "en": "Military Education and Training"
@@ -113,7 +113,7 @@
       "lessons": []
     },
     {
-      "slug": "08-qualities-of-a-leader",
+      "slug": "c8",
       "title": {
         "ar": "صفات القائد",
         "en": "Qualities of a Leader"
@@ -125,7 +125,7 @@
       "lessons": []
     },
     {
-      "slug": "09-islamic-guidance-on-leadership",
+      "slug": "c9",
       "title": {
         "ar": "توجيهات الإسلام في القيادة",
         "en": "Islamic Guidance on Leadership"
@@ -137,7 +137,7 @@
       "lessons": []
     },
     {
-      "slug": "10-examples-of-leaders",
+      "slug": "c10",
       "title": {
         "ar": "نماذج من القادة",
         "en": "Examples of Leaders"
@@ -149,7 +149,7 @@
       "lessons": []
     },
     {
-      "slug": "11-preparing-the-state-for-war",
+      "slug": "c11",
       "title": {
         "ar": "إعداد الدولة للحرب",
         "en": "Preparing the State for War"
@@ -161,7 +161,7 @@
       "lessons": []
     },
     {
-      "slug": "12-preparing-the-armed-forces-for-war",
+      "slug": "c12",
       "title": {
         "ar": "إعداد القوات المسلحة للحرب",
         "en": "Preparing the Armed Forces for War"
@@ -173,7 +173,7 @@
       "lessons": []
     },
     {
-      "slug": "13-examples-of-historic-battles",
+      "slug": "c13",
       "title": {
         "ar": "نماذج من المعارك التاريخية",
         "en": "Examples of Historic Battles"

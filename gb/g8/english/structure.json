@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-shakespeare",
+      "slug": "c1",
       "title": {
         "en": "Shakespeare & Drama"
       },
       "lessons": [
         {
-          "slug": "01-context",
+          "slug": "l1",
           "title": {
             "en": "Shakespeare in Context"
           }
         },
         {
-          "slug": "02-language",
+          "slug": "l2",
           "title": {
             "en": "Analysing Dramatic Language"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-nonfiction",
+      "slug": "c2",
       "title": {
         "en": "Non-Fiction & Writing"
       },
       "lessons": [
         {
-          "slug": "01-analysis",
+          "slug": "l1",
           "title": {
             "en": "Analysing Non-Fiction"
           }
         },
         {
-          "slug": "02-writing-viewpoint",
+          "slug": "l2",
           "title": {
             "en": "Writing to Present a Viewpoint"
           }

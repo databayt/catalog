@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "french",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g10-fre-unit-01-greetings-exam",
+      "title": "Exam: Greetings & Self",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-fre-unit-01-greetings-01-greetings-lq01",
+          "type": "mcq",
+          "question": "'Bonjour' means:",
+          "options": [
+            "goodbye",
+            "hello",
+            "please",
+            "sorry"
+          ],
+          "answer": "hello",
+          "explanation": "Greeting."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-01-greetings-lq02",
+          "type": "true_false",
+          "question": "'Au revoir' means goodbye.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Farewell."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-01-greetings-lq03",
+          "type": "fill_blank",
+          "question": "To say 'my name is' in French you say 'Je m'___'.",
+          "answer": "appelle",
+          "explanation": "Je m'appelle."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-01-greetings-lq04",
+          "type": "short_answer",
+          "question": "How do you say 'thank you' in French?",
+          "answer": "Merci.",
+          "explanation": "Politeness."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-02-numbers-lq01",
+          "type": "mcq",
+          "question": "'Trois' means:",
+          "options": [
+            "two",
+            "three",
+            "four",
+            "ten"
+          ],
+          "answer": "three",
+          "explanation": "Numbers."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-02-numbers-lq02",
+          "type": "true_false",
+          "question": "'Dix' means ten.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Number 10."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-02-numbers-lq03",
+          "type": "fill_blank",
+          "question": "'Un, deux, ___' (one, two, three).",
+          "answer": "trois",
+          "explanation": "Counting."
+        },
+        {
+          "id": "g10-fre-unit-01-greetings-02-numbers-lq04",
+          "type": "short_answer",
+          "question": "How do you say 'I am ten years old'?",
+          "answer": "J'ai dix ans.",
+          "explanation": "Age."
+        }
+      ]
+    }
+  ]
+}

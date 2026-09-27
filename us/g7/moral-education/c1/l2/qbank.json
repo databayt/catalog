@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "moral-education",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-mor-unit-01-government-02-citizenship-lq01",
+      "type": "mcq",
+      "question": "Active citizens contribute to their:",
+      "options": [
+        "society",
+        "fonts",
+        "weather",
+        "prices"
+      ],
+      "answer": "society",
+      "explanation": "Participation."
+    },
+    {
+      "id": "g7-mor-unit-01-government-02-citizenship-lq02",
+      "type": "true_false",
+      "question": "Volunteering and respecting laws are signs of active citizenship.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Civic action."
+    },
+    {
+      "id": "g7-mor-unit-01-government-02-citizenship-lq03",
+      "type": "fill_blank",
+      "question": "Taking part positively in society is active ___.",
+      "answer": "citizenship",
+      "explanation": "Citizenship."
+    },
+    {
+      "id": "g7-mor-unit-01-government-02-citizenship-lq04",
+      "type": "short_answer",
+      "question": "Name one way youth can be active citizens.",
+      "answer": "e.g., volunteering, recycling, or community projects.",
+      "explanation": "Active citizenship."
+    }
+  ]
+}

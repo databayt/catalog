@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "moral-education",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g6-mor-unit-02-respect-diversity-01-diversity-lq01",
+      "type": "mcq",
+      "question": "The UAE values living together with people of many:",
+      "options": [
+        "cultures",
+        "planets",
+        "colours of cars",
+        "fonts"
+      ],
+      "answer": "cultures",
+      "explanation": "Diversity."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-01-diversity-lq02",
+      "type": "true_false",
+      "question": "Respecting diversity strengthens society.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tolerance."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-01-diversity-lq03",
+      "type": "fill_blank",
+      "question": "Accepting different cultures peacefully is ___.",
+      "answer": "coexistence",
+      "explanation": "Coexistence."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-01-diversity-lq04",
+      "type": "short_answer",
+      "question": "How does diversity benefit a country?",
+      "answer": "It brings varied skills, ideas and richer culture.",
+      "explanation": "Diversity."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq01",
+      "type": "mcq",
+      "question": "Self-discipline means controlling your:",
+      "options": [
+        "actions and choices",
+        "friends",
+        "weather",
+        "grades only"
+      ],
+      "answer": "actions and choices",
+      "explanation": "Self-control."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq02",
+      "type": "true_false",
+      "question": "Good habits require self-discipline.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Discipline."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq03",
+      "type": "fill_blank",
+      "question": "Managing your time well shows ___.",
+      "answer": "discipline",
+      "explanation": "Self-discipline."
+    },
+    {
+      "id": "g6-mor-unit-02-respect-diversity-02-self-discipline-lq04",
+      "type": "short_answer",
+      "question": "Give one example of self-discipline.",
+      "answer": "e.g., finishing homework before play, or saving money.",
+      "explanation": "Self-discipline."
+    }
+  ]
+}

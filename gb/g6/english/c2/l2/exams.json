@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g6-eng-unit-02-grammar-02-punctuation-quiz",
+      "title": "Quiz: Advanced Punctuation",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-eng-unit-02-grammar-02-punctuation-lq01",
+          "type": "mcq",
+          "question": "A semicolon can:",
+          "options": [
+            "end a question",
+            "join two related clauses",
+            "start a word",
+            "replace a capital"
+          ],
+          "answer": "join two related clauses",
+          "explanation": "Links independent clauses."
+        },
+        {
+          "id": "g6-eng-unit-02-grammar-02-punctuation-lq02",
+          "type": "true_false",
+          "question": "A colon can introduce a list.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Before a list."
+        },
+        {
+          "id": "g6-eng-unit-02-grammar-02-punctuation-lq03",
+          "type": "fill_blank",
+          "question": "Use a ___ to introduce a list: apples, pears, plums.",
+          "answer": "colon",
+          "explanation": "Colon."
+        },
+        {
+          "id": "g6-eng-unit-02-grammar-02-punctuation-lq04",
+          "type": "short_answer",
+          "question": "Give a use for a semicolon.",
+          "answer": "To join two closely related complete sentences.",
+          "explanation": "Semicolon use."
+        }
+      ]
+    }
+  ]
+}

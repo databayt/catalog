@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "biology",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-bio-unit-01-cells-02-transport-quiz",
+      "title": "Quiz: Cell Transport",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-bio-unit-01-cells-02-transport-lq01",
+          "type": "mcq",
+          "question": "Movement of water across a membrane is:",
+          "options": [
+            "osmosis",
+            "mitosis",
+            "respiration",
+            "translation"
+          ],
+          "answer": "osmosis",
+          "explanation": "Water diffusion."
+        },
+        {
+          "id": "g9-bio-unit-01-cells-02-transport-lq02",
+          "type": "true_false",
+          "question": "Diffusion moves particles from high to low concentration.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Down gradient."
+        },
+        {
+          "id": "g9-bio-unit-01-cells-02-transport-lq03",
+          "type": "fill_blank",
+          "question": "Transport requiring energy is ___ transport.",
+          "answer": "active",
+          "explanation": "ATP needed."
+        },
+        {
+          "id": "g9-bio-unit-01-cells-02-transport-lq04",
+          "type": "short_answer",
+          "question": "Why is the cell membrane called selectively permeable?",
+          "answer": "It controls which substances enter and leave the cell.",
+          "explanation": "Membrane function."
+        }
+      ]
+    }
+  ]
+}

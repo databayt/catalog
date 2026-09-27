@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-technical-drawing",
+      "slug": "c1",
       "title": {
         "ar": "الرسم الفني"
       },
@@ -29,7 +29,7 @@
       "lessons": []
     },
     {
-      "slug": "02-woodwork",
+      "slug": "c2",
       "title": {
         "ar": "الأعمال الخشبية"
       },
@@ -38,7 +38,7 @@
       "lessons": []
     },
     {
-      "slug": "03-metalwork",
+      "slug": "c3",
       "title": {
         "ar": "الأعمال المعدنية"
       },
@@ -47,7 +47,7 @@
       "lessons": []
     },
     {
-      "slug": "04-electricity",
+      "slug": "c4",
       "title": {
         "ar": "الكهرباء"
       },
@@ -56,7 +56,7 @@
       "lessons": []
     },
     {
-      "slug": "05-electronics",
+      "slug": "c5",
       "title": {
         "ar": "الإلكترونيات"
       },
@@ -65,7 +65,7 @@
       "lessons": []
     },
     {
-      "slug": "06-maintenance",
+      "slug": "c6",
       "title": {
         "ar": "الصيانة"
       },

@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-sudan-history",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: من تاريخ السودان"
       },
@@ -28,61 +28,61 @@
       "image": "clickview/middle-being-a-historian-cover.jpg",
       "lessons": [
         {
-          "slug": "01-prehistoric-civilization",
+          "slug": "l1",
           "title": {
             "ar": "حضارة الإنسان في عصور ما قبل التاريخ"
           }
         },
         {
-          "slug": "02-stone-ages",
+          "slug": "l2",
           "title": {
             "ar": "السودان في العصور الحجرية"
           }
         },
         {
-          "slug": "03-cultural-groups",
+          "slug": "l3",
           "title": {
             "ar": "السودان في عصر المجموعات الحضارية"
           }
         },
         {
-          "slug": "04-kerma-civilization",
+          "slug": "l4",
           "title": {
             "ar": "حضارة كرمة"
           }
         },
         {
-          "slug": "05-kush-kingdoms",
+          "slug": "l5",
           "title": {
             "ar": "مملكتا كوش"
           }
         },
         {
-          "slug": "06-napata-kings-a",
+          "slug": "l6",
           "title": {
             "ar": "أهم ملوك نبتة (أ)"
           }
         },
         {
-          "slug": "07-napata-kings-b",
+          "slug": "l7",
           "title": {
             "ar": "أهم ملوك نبتة (ب)"
           }
         },
         {
-          "slug": "08-meroe-civilization-a",
+          "slug": "l8",
           "title": {
             "ar": "مملكة مروي: حضارة مروي (أ)"
           }
         },
         {
-          "slug": "09-meroe-civilization-b",
+          "slug": "l9",
           "title": {
             "ar": "حضارة مروي (ب)"
           }
         },
         {
-          "slug": "10-christianity-sudan",
+          "slug": "l10",
           "title": {
             "ar": "دخول المسيحية إلى السودان"
           }
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "slug": "02-islamic-state",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: بناء الدولة الإسلامية"
       },
@@ -98,56 +98,56 @@
       "image": "clickview/middle-being-a-historian-cover.jpg",
       "lessons": [
         {
-          "slug": "01-arabian-peninsula",
+          "slug": "l1",
           "title": {
             "ar": "جغرافية شبه الجزيرة العربية"
           },
           "image": "clickview/middle-places-and-regions-cover.jpg"
         },
         {
-          "slug": "02-southern-kingdoms",
+          "slug": "l2",
           "title": {
             "ar": "ممالك الجنوب"
           }
         },
         {
-          "slug": "03-northern-kingdoms",
+          "slug": "l3",
           "title": {
             "ar": "ممالك الشمال"
           }
         },
         {
-          "slug": "04-pre-islamic-society",
+          "slug": "l4",
           "title": {
             "ar": "حالة المجتمع العربي قبل الإسلام"
           }
         },
         {
-          "slug": "05-prophetic-state",
+          "slug": "l5",
           "title": {
             "ar": "الدولة الإسلامية في عهد النبي صلى الله عليه وسلم"
           }
         },
         {
-          "slug": "06-rashidun-state",
+          "slug": "l6",
           "title": {
             "ar": "الدولة الإسلامية في عهد الخلفاء الراشدين"
           }
         },
         {
-          "slug": "07-rashidun-challenges",
+          "slug": "l7",
           "title": {
             "ar": "المشكلات التي واجهت الدولة في عهد الخلفاء الراشدين"
           }
         },
         {
-          "slug": "08-rashidun-admin",
+          "slug": "l8",
           "title": {
             "ar": "النمو الإداري للدولة في عهد الخلفاء الراشدين"
           }
         },
         {
-          "slug": "09-rashidun-conquests",
+          "slug": "l9",
           "title": {
             "ar": "الفتوحات في عهد الخلفاء الراشدين"
           }
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "slug": "03-african-history",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: من تاريخ إفريقيا"
       },
@@ -163,21 +163,21 @@
       "image": "clickview/elementary-ancient-egypt-cover.jpg",
       "lessons": [
         {
-          "slug": "01-africa-environment",
+          "slug": "l1",
           "title": {
             "ar": "إفريقيا البيئة الطبيعية"
           },
           "image": "clickview/elementary-africa-cover.jpg"
         },
         {
-          "slug": "02-african-population",
+          "slug": "l2",
           "title": {
             "ar": "سكان القارة الإفريقية"
           },
           "image": "clickview/middle-population-and-urbanization-cover.jpg"
         },
         {
-          "slug": "03-egyptian-civilization",
+          "slug": "l3",
           "title": {
             "ar": "الحضارة المصرية القديمة"
           }

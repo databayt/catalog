@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-environment-around-us",
+      "slug": "c1",
       "title": {
         "ar": "البيئة من حولنا",
         "en": "The Environment Around Us"
@@ -29,20 +29,20 @@
       "image": "clickview/elementary-map-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-what-is-geography",
+          "slug": "l1",
           "title": {
             "ar": "ما هي الجغرافيا"
           }
         },
         {
-          "slug": "02-directions",
+          "slug": "l2",
           "title": {
             "ar": "الاتجاهات"
           },
           "image": "clickview/elementary-orientation-cover.jpg"
         },
         {
-          "slug": "03-sub-directions",
+          "slug": "l3",
           "title": {
             "ar": "الاتجاهات الفرعية"
           },
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "slug": "02-my-school",
+      "slug": "c2",
       "title": {
         "ar": "مدرستي",
         "en": "My School"
@@ -60,49 +60,49 @@
       "image": "clickview/elementary-coordinates-cover.jpg",
       "lessons": [
         {
-          "slug": "01-my-classroom-1",
+          "slug": "l1",
           "title": {
             "ar": "فصلي (١)"
           }
         },
         {
-          "slug": "02-my-classroom-2",
+          "slug": "l2",
           "title": {
             "ar": "فصلي (٢)"
           }
         },
         {
-          "slug": "03-my-classroom-3",
+          "slug": "l3",
           "title": {
             "ar": "فصلي (٣)"
           }
         },
         {
-          "slug": "04-my-school-1",
+          "slug": "l4",
           "title": {
             "ar": "مدرستي (١)"
           }
         },
         {
-          "slug": "05-my-school-2",
+          "slug": "l5",
           "title": {
             "ar": "مدرستي (٢)"
           }
         },
         {
-          "slug": "06-my-school-3",
+          "slug": "l6",
           "title": {
             "ar": "مدرستي (٣)"
           }
         },
         {
-          "slug": "07-my-school-4",
+          "slug": "l7",
           "title": {
             "ar": "مدرستي (٤)"
           }
         },
         {
-          "slug": "08-review",
+          "slug": "l8",
           "title": {
             "ar": "تطبيقات ومراجعة"
           }
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "slug": "03-sudan",
+      "slug": "c3",
       "title": {
         "ar": "السودان",
         "en": "Sudan"
@@ -119,7 +119,7 @@
       "image": "clickview/elementary-africa-cover.jpg",
       "lessons": [
         {
-          "slug": "01-sudan-location",
+          "slug": "l1",
           "title": {
             "ar": "موقع السودان"
           }

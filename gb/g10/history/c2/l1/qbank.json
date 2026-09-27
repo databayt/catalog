@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq01",
+      "type": "mcq",
+      "question": "The Treaty of Versailles (1919) punished which country?",
+      "options": [
+        "Germany",
+        "Britain",
+        "USA",
+        "Japan"
+      ],
+      "answer": "Germany",
+      "explanation": "Post-WWI treaty."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq02",
+      "type": "true_false",
+      "question": "Versailles forced Germany to accept blame and pay reparations.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "War guilt clause."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq03",
+      "type": "fill_blank",
+      "question": "The international body set up after WWI was the League of ___.",
+      "answer": "Nations",
+      "explanation": "League of Nations."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-01-versailles-lq04",
+      "type": "short_answer",
+      "question": "Why did many Germans resent the Treaty of Versailles?",
+      "answer": "It imposed blame, territorial losses and heavy reparations.",
+      "explanation": "Resentment."
+    }
+  ]
+}

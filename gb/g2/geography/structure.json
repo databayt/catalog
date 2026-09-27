@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-continents-oceans",
+      "slug": "c1",
       "title": {
         "en": "Continents & Oceans"
       },
       "lessons": [
         {
-          "slug": "01-continents",
+          "slug": "l1",
           "title": {
             "en": "The Seven Continents"
           }
         },
         {
-          "slug": "02-oceans",
+          "slug": "l2",
           "title": {
             "en": "The Oceans"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-hot-cold",
+      "slug": "c2",
       "title": {
         "en": "Hot & Cold Places"
       },
       "lessons": [
         {
-          "slug": "01-equator-poles",
+          "slug": "l1",
           "title": {
             "en": "The Equator and the Poles"
           }
         },
         {
-          "slug": "02-comparing-places",
+          "slug": "l2",
           "title": {
             "en": "Comparing Places"
           }

@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-entrepreneurship-and-its-foundations",
+      "slug": "c1",
       "title": {
         "ar": "الريادة ومقوماتها",
         "en": "Entrepreneurship and Its Foundations"
@@ -39,7 +39,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-entrepreneurship",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الريادة",
             "en": "The Concept of Entrepreneurship"
@@ -47,7 +47,7 @@
           "page": 6
         },
         {
-          "slug": "02-the-entrepreneur-and-their-characteristics",
+          "slug": "l2",
           "title": {
             "ar": "رائد الأعمال وخصائصه",
             "en": "The Entrepreneur and Their Characteristics"
@@ -56,7 +56,7 @@
           "image": "clickview/high-entrepreneurial-skills-cover.jpg"
         },
         {
-          "slug": "03-creativity-and-innovation",
+          "slug": "l3",
           "title": {
             "ar": "الإبداع والابتكار",
             "en": "Creativity and Innovation"
@@ -65,7 +65,7 @@
           "image": "clickview/high-innovation-cover.jpg"
         },
         {
-          "slug": "04-ways-and-methods-of-developing-entrepreneurship",
+          "slug": "l4",
           "title": {
             "ar": "طرق وأساليب تنمية الريادة",
             "en": "Ways and Methods of Developing Entrepreneurship"
@@ -73,7 +73,7 @@
           "page": 20
         },
         {
-          "slug": "05-innovation-and-the-knowledge-economy",
+          "slug": "l5",
           "title": {
             "ar": "الابتكار واقتصاد المعرفة",
             "en": "Innovation and the Knowledge Economy"
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "slug": "02-fields-of-entrepreneurship",
+      "slug": "c2",
       "title": {
         "ar": "مجالات الريادة",
         "en": "Fields of Entrepreneurship"
@@ -95,7 +95,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-innovating-a-new-product",
+          "slug": "l1",
           "title": {
             "ar": "ابتكار منتج جديد",
             "en": "Innovating a New Product"
@@ -103,7 +103,7 @@
           "page": 30
         },
         {
-          "slug": "02-innovating-new-production-methods",
+          "slug": "l2",
           "title": {
             "ar": "ابتكار طرق إنتاج جديدة",
             "en": "Innovating New Production Methods"
@@ -111,7 +111,7 @@
           "page": 33
         },
         {
-          "slug": "03-marketing-innovation",
+          "slug": "l3",
           "title": {
             "ar": "الابتكار التسويقي",
             "en": "Marketing Innovation"
@@ -120,7 +120,7 @@
           "image": "clickview/high-marketing-cover.jpg"
         },
         {
-          "slug": "04-social-innovation",
+          "slug": "l4",
           "title": {
             "ar": "الابتكار الاجتماعي",
             "en": "Social Innovation"
@@ -129,7 +129,7 @@
           "image": "clickview/high-corporate-social-responsibility-cover.jpg"
         },
         {
-          "slug": "05-managerial-innovation",
+          "slug": "l5",
           "title": {
             "ar": "الابتكار الإداري",
             "en": "Managerial Innovation"
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "slug": "03-studying-the-product-market",
+      "slug": "c3",
       "title": {
         "ar": "دراسة سوق المنتج",
         "en": "Studying the Product Market"
@@ -151,7 +151,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-market-research",
+          "slug": "l1",
           "title": {
             "ar": "دراسة السوق",
             "en": "Market Research"
@@ -159,7 +159,7 @@
           "page": 49
         },
         {
-          "slug": "02-competition",
+          "slug": "l2",
           "title": {
             "ar": "المنافسة",
             "en": "Competition"
@@ -167,7 +167,7 @@
           "page": 54
         },
         {
-          "slug": "03-the-marketing-plan",
+          "slug": "l3",
           "title": {
             "ar": "خطة التسويق",
             "en": "The Marketing Plan"
@@ -175,7 +175,7 @@
           "page": 58
         },
         {
-          "slug": "04-the-marketing-mix",
+          "slug": "l4",
           "title": {
             "ar": "المزيج التسويقي",
             "en": "The Marketing Mix"
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "slug": "04-financing-the-entrepreneurial-project",
+      "slug": "c4",
       "title": {
         "ar": "تمويل المشروع الريادي",
         "en": "Financing the Entrepreneurial Project"
@@ -196,7 +196,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-capital-of-the-entrepreneurial-project",
+          "slug": "l1",
           "title": {
             "ar": "رأس مال المشروع الريادي",
             "en": "Capital of the Entrepreneurial Project"
@@ -204,7 +204,7 @@
           "page": 69
         },
         {
-          "slug": "02-financing-from-family-and-friends",
+          "slug": "l2",
           "title": {
             "ar": "التمويل من العائلة والأصدقاء",
             "en": "Financing from Family and Friends"
@@ -212,7 +212,7 @@
           "page": 73
         },
         {
-          "slug": "03-bank-financing",
+          "slug": "l3",
           "title": {
             "ar": "التمويل من البنوك",
             "en": "Bank Financing"
@@ -221,7 +221,7 @@
           "image": "clickview/high-accounting-and-finance-cover.jpg"
         },
         {
-          "slug": "04-islamic-financing-modes",
+          "slug": "l4",
           "title": {
             "ar": "صيغ التمويل الإسلامية",
             "en": "Islamic Financing Modes"
@@ -230,7 +230,7 @@
           "image": "clickview/high-accounting-and-finance-cover.jpg"
         },
         {
-          "slug": "05-comparing-the-different-types-of-financing",
+          "slug": "l5",
           "title": {
             "ar": "المفاضلة بين أنواع التمويل المختلفة",
             "en": "Comparing the Different Types of Financing"
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "slug": "05-technology-of-the-entrepreneurial-project",
+      "slug": "c5",
       "title": {
         "ar": "تكنولوجيا المشروع الريادي",
         "en": "Technology of the Entrepreneurial Project"
@@ -251,7 +251,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-technology-of-the-entrepreneurial-project",
+          "slug": "l1",
           "title": {
             "ar": "تكنولوجيا المشروع الريادي",
             "en": "Technology of the Entrepreneurial Project"
@@ -259,7 +259,7 @@
           "page": 86
         },
         {
-          "slug": "02-the-development-of-technology",
+          "slug": "l2",
           "title": {
             "ar": "تطور التكنولوجيا",
             "en": "The Development of Technology"
@@ -267,7 +267,7 @@
           "page": 88
         },
         {
-          "slug": "03-the-industrial-revolutions",
+          "slug": "l3",
           "title": {
             "ar": "الثورات الصناعية",
             "en": "The Industrial Revolutions"
@@ -276,7 +276,7 @@
           "image": "clickview/middle-the-industrial-revolution-cover.jpg"
         },
         {
-          "slug": "04-artificial-intelligence-technology",
+          "slug": "l4",
           "title": {
             "ar": "تكنولوجيا الذكاء الاصطناعي",
             "en": "Artificial Intelligence Technology"
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "slug": "06-human-resources-for-the-entrepreneurial-project",
+      "slug": "c6",
       "title": {
         "ar": "الموارد البشرية للمشروع الريادي",
         "en": "Human Resources for the Entrepreneurial Project"
@@ -298,7 +298,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-importance-of-human-resources",
+          "slug": "l1",
           "title": {
             "ar": "أهمية الموارد البشرية",
             "en": "The Importance of Human Resources"
@@ -306,7 +306,7 @@
           "page": 100
         },
         {
-          "slug": "02-choosing-the-work-team",
+          "slug": "l2",
           "title": {
             "ar": "اختيار فريق العمل",
             "en": "Choosing the Work Team"
@@ -314,7 +314,7 @@
           "page": 103
         },
         {
-          "slug": "03-methods-of-attracting-human-resources",
+          "slug": "l3",
           "title": {
             "ar": "أساليب استقطاب الموارد البشرية",
             "en": "Methods of Attracting Human Resources"
@@ -322,7 +322,7 @@
           "page": 106
         },
         {
-          "slug": "04-the-curriculum-vitae",
+          "slug": "l4",
           "title": {
             "ar": "السيرة الذاتية",
             "en": "The Curriculum Vitae"
@@ -331,7 +331,7 @@
           "image": "clickview/high-applications-and-job-interviews-cover.jpg"
         },
         {
-          "slug": "05-leadership-in-entrepreneurship",
+          "slug": "l5",
           "title": {
             "ar": "القيادة في ريادة الأعمال",
             "en": "Leadership in Entrepreneurship"

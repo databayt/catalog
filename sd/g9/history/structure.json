@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-mahdist-revolution-and-state-1881-1898",
+      "slug": "c1",
       "title": {
         "ar": "من تاريخ السودان: الثورة والدولة المهدية 1881 - 1898م",
         "en": "The Mahdist Revolution and State 1881-1898"
@@ -29,69 +29,69 @@
       "image": "clickview/high-being-a-historian-cover.jpg",
       "lessons": [
         {
-          "slug": "01-causes-of-mahdist-revolution",
+          "slug": "l1",
           "title": {
             "ar": "أسباب قيام ونجاح الثورة المهدية"
           }
         },
         {
-          "slug": "02-military-confrontations-1",
+          "slug": "l2",
           "title": {
             "ar": "المواجهات العسكرية بين الثوار والاستعمار التركي المصري (١)"
           },
           "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg"
         },
         {
-          "slug": "03-military-confrontations-2",
+          "slug": "l3",
           "title": {
             "ar": "المواجهات العسكرية (٢)"
           },
           "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg"
         },
         {
-          "slug": "04-military-confrontations-3",
+          "slug": "l4",
           "title": {
             "ar": "المواجهات العسكرية (٣)"
           },
           "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg"
         },
         {
-          "slug": "05-governance-mahdist-state",
+          "slug": "l5",
           "title": {
             "ar": "نظم الحكم والإدارة في الدولة المهدية"
           },
           "image": "clickview/high-systems-of-government-cover.jpg"
         },
         {
-          "slug": "06-governance-condominium",
+          "slug": "l6",
           "title": {
             "ar": "نظم الحكم والإدارة في فترة الحكم الثنائي"
           },
           "image": "clickview/high-systems-of-government-cover.jpg"
         },
         {
-          "slug": "07-economic-social-developments",
+          "slug": "l7",
           "title": {
             "ar": "التطورات الاقتصادية والاجتماعية في العهد الثنائي"
           },
           "image": "clickview/high-the-global-economy-cover.jpg"
         },
         {
-          "slug": "08-resistance-to-condominium",
+          "slug": "l8",
           "title": {
             "ar": "مقاومة السودانيين للحكم الثنائي: حركات المقاومة الدينية والقبلية"
           },
           "image": "clickview/high-the-history-of-activism-cover.jpg"
         },
         {
-          "slug": "09-modern-national-movement",
+          "slug": "l9",
           "title": {
             "ar": "الحركة الوطنية السودانية الحديثة 1918-1953م"
           },
           "image": "clickview/high-the-history-of-activism-cover.jpg"
         },
         {
-          "slug": "10-political-developments-1954-1985",
+          "slug": "l10",
           "title": {
             "ar": "التطورات السياسية والاجتماعية في السودان 1954-1985م"
           },
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "slug": "02-the-islamic-state-in-the-ottoman-era",
+      "slug": "c2",
       "title": {
         "ar": "تطور الدولة الإسلامية في العهد العثماني",
         "en": "The Islamic State in the Ottoman Era"
@@ -109,32 +109,32 @@
       "image": "clickview/high-conflict-in-the-middle-east-cover.jpg",
       "lessons": [
         {
-          "slug": "01-rise-of-ottoman-state",
+          "slug": "l1",
           "title": {
             "ar": "نشأة الدولة العثمانية"
           }
         },
         {
-          "slug": "02-ottoman-expansion",
+          "slug": "l2",
           "title": {
             "ar": "اتساع وفتوحات الإمارة العثمانية"
           }
         },
         {
-          "slug": "03-ottoman-expansion-arab-lands",
+          "slug": "l3",
           "title": {
             "ar": "امتداد الدولة العثمانية في البلاد العربية"
           }
         },
         {
-          "slug": "04-ottoman-governance-system",
+          "slug": "l4",
           "title": {
             "ar": "نظم الحكم العثماني للولايات العربية ونتائجها"
           },
           "image": "clickview/high-systems-of-government-cover.jpg"
         },
         {
-          "slug": "05-ottoman-decline",
+          "slug": "l5",
           "title": {
             "ar": "تدهور الدولة العثمانية"
           }
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "slug": "03-from-the-history-of-africa",
+      "slug": "c3",
       "title": {
         "ar": "من تاريخ أفريقيا",
         "en": "From the History of Africa"
@@ -151,38 +151,38 @@
       "image": "clickview/middle-exploration-and-colonization-cover.jpg",
       "lessons": [
         {
-          "slug": "01-motives-of-colonialism",
+          "slug": "l1",
           "title": {
             "ar": "دوافع الاستعمار الأوربي لأفريقيا"
           }
         },
         {
-          "slug": "02-types-of-colonialism",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الاستعمار الأوربي لأفريقيا"
           }
         },
         {
-          "slug": "03-effects-of-colonialism",
+          "slug": "l3",
           "title": {
             "ar": "آثار الاستعمار الأوربي على القارة الأفريقية"
           }
         },
         {
-          "slug": "04-partition-of-africa",
+          "slug": "l4",
           "title": {
             "ar": "تقسيم القارة الأفريقية بين الدول الأوربية"
           }
         },
         {
-          "slug": "05-liberation-movements",
+          "slug": "l5",
           "title": {
             "ar": "حركات التحرر الوطني في أفريقيا"
           },
           "image": "clickview/high-the-history-of-activism-cover.jpg"
         },
         {
-          "slug": "06-organization-of-african-unity",
+          "slug": "l6",
           "title": {
             "ar": "منظمة الوحدة الأفريقية"
           },
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "slug": "04-from-world-history",
+      "slug": "c4",
       "title": {
         "ar": "من تاريخ العالم",
         "en": "From World History"
@@ -200,27 +200,27 @@
       "image": "clickview/high-world-war-ii-cover.jpg",
       "lessons": [
         {
-          "slug": "01-world-war-one",
+          "slug": "l1",
           "title": {
             "ar": "الحرب العالمية الأولى 1914-1918م"
           },
           "image": "clickview/high-world-war-i-cover.jpg"
         },
         {
-          "slug": "02-world-war-two",
+          "slug": "l2",
           "title": {
             "ar": "الحرب العالمية الثانية 1939-1945م"
           }
         },
         {
-          "slug": "03-united-nations",
+          "slug": "l3",
           "title": {
             "ar": "هيأة الأمم المتحدة"
           },
           "image": "clickview/elementary-united-nations-day-cover.jpg"
         },
         {
-          "slug": "04-post-ww2-developments",
+          "slug": "l4",
           "title": {
             "ar": "التطورات العالمية بعد الحرب العالمية الثانية"
           },

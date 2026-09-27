@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-real-numbers-set",
+      "slug": "c1",
       "title": {
         "ar": "مجموعة الأعداد الحقيقية",
         "en": "The Set of Real Numbers"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-decimal-rational-numbers",
+          "slug": "l1",
           "title": {
             "ar": "مجموعة الأعداد النسبية العشرية",
             "en": "The Set of Decimal Rational Numbers"
@@ -40,7 +40,7 @@
           "page": 6
         },
         {
-          "slug": "02-periodic-rational-numbers",
+          "slug": "l2",
           "title": {
             "ar": "مجموعة الأعداد النسبية الدورية",
             "en": "The Set of Periodic Rational Numbers"
@@ -48,7 +48,7 @@
           "page": 10
         },
         {
-          "slug": "03-add-subtract-periodic-numbers",
+          "slug": "l3",
           "title": {
             "ar": "جمع وطرح الأعداد النسبية الدورية",
             "en": "Addition and Subtraction of Periodic Rational Numbers"
@@ -56,7 +56,7 @@
           "page": 13
         },
         {
-          "slug": "04-periodic-to-fraction-form",
+          "slug": "l4",
           "title": {
             "ar": "تحويل الأعداد الدورية إلى الصورة أ/ب",
             "en": "Converting Periodic Numbers to the Form a/b"
@@ -64,7 +64,7 @@
           "page": 15
         },
         {
-          "slug": "05-real-numbers-number-line",
+          "slug": "l5",
           "title": {
             "ar": "مجموعة الأعداد الحقيقية وتمثيلها على خط الأعداد",
             "en": "The Set of Real Numbers and Their Representation on the Number Line"
@@ -72,7 +72,7 @@
           "page": 16
         },
         {
-          "slug": "06-real-number-operation-properties",
+          "slug": "l6",
           "title": {
             "ar": "خواص العمليات على مجموعة الأعداد الحقيقية",
             "en": "Properties of Operations on the Set of Real Numbers"
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "slug": "02-ratio-and-proportion",
+      "slug": "c2",
       "title": {
         "ar": "النسبة والتناسب",
         "en": "Ratio and Proportion"
@@ -93,7 +93,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-ratio-applications",
+          "slug": "l1",
           "title": {
             "ar": "تطبيقات على النسبة",
             "en": "Applications of Ratio"
@@ -101,7 +101,7 @@
           "page": 31
         },
         {
-          "slug": "02-proportion",
+          "slug": "l2",
           "title": {
             "ar": "التناسب",
             "en": "Proportion"
@@ -109,7 +109,7 @@
           "page": 33
         },
         {
-          "slug": "03-proportion-properties",
+          "slug": "l3",
           "title": {
             "ar": "بعض خواص التناسب",
             "en": "Some Properties of Proportion"
@@ -117,7 +117,7 @@
           "page": 36
         },
         {
-          "slug": "04-continued-proportion",
+          "slug": "l4",
           "title": {
             "ar": "التناسب المتسلسل",
             "en": "Continued Proportion"
@@ -125,7 +125,7 @@
           "page": 41
         },
         {
-          "slug": "05-the-rate",
+          "slug": "l5",
           "title": {
             "ar": "المعدل",
             "en": "The Rate"
@@ -133,7 +133,7 @@
           "page": 45
         },
         {
-          "slug": "06-rate-of-change",
+          "slug": "l6",
           "title": {
             "ar": "معدل التغير",
             "en": "Rate of Change"
@@ -141,7 +141,7 @@
           "page": 46
         },
         {
-          "slug": "07-constant-factor-of-change",
+          "slug": "l7",
           "title": {
             "ar": "العامل الثابت للتغير",
             "en": "The Constant Factor of Change"
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "slug": "03-transversals-and-midsegments",
+      "slug": "c3",
       "title": {
         "ar": "القواطع والمتوسطات",
         "en": "Transversals and Midsegments"
@@ -162,7 +162,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-equal-segments",
+          "slug": "l1",
           "title": {
             "ar": "القطع المتساوية",
             "en": "Equal Segments"
@@ -170,7 +170,7 @@
           "page": 62
         },
         {
-          "slug": "02-divide-segment-equal-parts",
+          "slug": "l2",
           "title": {
             "ar": "تقسيم قطعة مستقيمة إلى عدة قطع متساوية",
             "en": "Dividing a Line Segment into Several Equal Parts"
@@ -178,7 +178,7 @@
           "page": 69
         },
         {
-          "slug": "03-medians",
+          "slug": "l3",
           "title": {
             "ar": "المتوسطات",
             "en": "The Medians"
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "slug": "04-motion",
+      "slug": "c4",
       "title": {
         "ar": "الحركة",
         "en": "Motion"
@@ -199,7 +199,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-speed",
+          "slug": "l1",
           "title": {
             "ar": "السرعة",
             "en": "Speed"
@@ -207,7 +207,7 @@
           "page": 86
         },
         {
-          "slug": "02-distance-speed-time-relationship",
+          "slug": "l2",
           "title": {
             "ar": "العلاقة بين المسافة والسرعة والزمن",
             "en": "The Relationship Between Distance, Speed, and Time"
@@ -215,7 +215,7 @@
           "page": 88
         },
         {
-          "slug": "03-speed-of-approach",
+          "slug": "l3",
           "title": {
             "ar": "سرعة الاقتراب",
             "en": "Speed of Approach"
@@ -223,7 +223,7 @@
           "page": 91
         },
         {
-          "slug": "04-speed-of-catching-up",
+          "slug": "l4",
           "title": {
             "ar": "سرعة اللحاق",
             "en": "Speed of Catching Up"
@@ -231,7 +231,7 @@
           "page": 96
         },
         {
-          "slug": "05-speed-of-separation",
+          "slug": "l5",
           "title": {
             "ar": "سرعة الابتعاد",
             "en": "Speed of Separation"
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "slug": "05-inequalities",
+      "slug": "c5",
       "title": {
         "ar": "المتباينات",
         "en": "Inequalities"
@@ -252,7 +252,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-inequality",
+          "slug": "l1",
           "title": {
             "ar": "المتباينة",
             "en": "The Inequality"
@@ -260,7 +260,7 @@
           "page": 108
         },
         {
-          "slug": "02-solving-the-inequality",
+          "slug": "l2",
           "title": {
             "ar": "حل المتباينة",
             "en": "Solving the Inequality"
@@ -268,7 +268,7 @@
           "page": 110
         },
         {
-          "slug": "03-properties-of-inequality",
+          "slug": "l3",
           "title": {
             "ar": "خواص التباين",
             "en": "Properties of Inequality"
@@ -276,7 +276,7 @@
           "page": 113
         },
         {
-          "slug": "04-solving-inequalities-using-properties",
+          "slug": "l4",
           "title": {
             "ar": "حل المتباينة باستخدام خواص التباين",
             "en": "Solving Inequalities Using the Properties of Inequality"
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "slug": "06-theorems-of-inequality",
+      "slug": "c6",
       "title": {
         "ar": "نظريات التباين",
         "en": "Theorems of Inequality"
@@ -297,7 +297,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-disparity-intro",
+          "slug": "l1",
           "title": {
             "ar": "التباين",
             "en": "Inequality (Disparity)"
@@ -305,7 +305,7 @@
           "page": 124
         },
         {
-          "slug": "02-theorem-2",
+          "slug": "l2",
           "title": {
             "ar": "نظرية (٢)",
             "en": "Theorem 2"
@@ -313,7 +313,7 @@
           "page": 130
         },
         {
-          "slug": "03-theorem-3",
+          "slug": "l3",
           "title": {
             "ar": "نظرية (٣)",
             "en": "Theorem 3"
@@ -321,7 +321,7 @@
           "page": 134
         },
         {
-          "slug": "04-theorem-4",
+          "slug": "l4",
           "title": {
             "ar": "نظرية (٤)",
             "en": "Theorem 4"
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "slug": "07-three-dimensional-shapes",
+      "slug": "c7",
       "title": {
         "ar": "الأشكال ثلاثية الأبعاد (المجسمات)",
         "en": "Three-Dimensional Shapes (Solids)"
@@ -342,7 +342,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-intro-to-solids",
+          "slug": "l1",
           "title": {
             "ar": "الأشكال ثلاثية الأبعاد (المجسمات)",
             "en": "Three-Dimensional Shapes (Solids)"
@@ -350,7 +350,7 @@
           "page": 144
         },
         {
-          "slug": "02-right-prism",
+          "slug": "l2",
           "title": {
             "ar": "المنشور القائم",
             "en": "The Right Prism"
@@ -358,7 +358,7 @@
           "page": 146
         },
         {
-          "slug": "03-rectangular-prism-surface-area",
+          "slug": "l3",
           "title": {
             "ar": "المساحة الجانبية والكلية لمتوازي المستطيلات",
             "en": "Lateral and Total Surface Area of the Rectangular Prism"
@@ -366,7 +366,7 @@
           "page": 148
         },
         {
-          "slug": "04-cube-surface-area",
+          "slug": "l4",
           "title": {
             "ar": "المساحة الجانبية والكلية للمكعب",
             "en": "Lateral and Total Surface Area of the Cube"
@@ -374,7 +374,7 @@
           "page": 152
         },
         {
-          "slug": "05-cylinder-surface-area",
+          "slug": "l5",
           "title": {
             "ar": "المساحة الجانبية والكلية للاسطوانة",
             "en": "Lateral and Total Surface Area of the Cylinder"
@@ -382,7 +382,7 @@
           "page": 156
         },
         {
-          "slug": "06-cone-surface-area",
+          "slug": "l6",
           "title": {
             "ar": "المساحة الجانبية والكلية للمخروط",
             "en": "Lateral and Total Surface Area of the Cone"
@@ -390,7 +390,7 @@
           "page": 159
         },
         {
-          "slug": "07-pyramid-surface-area",
+          "slug": "l7",
           "title": {
             "ar": "المساحة الجانبية والكلية للهرم",
             "en": "Lateral and Total Surface Area of the Pyramid"
@@ -398,7 +398,7 @@
           "page": 162
         },
         {
-          "slug": "08-sphere-surface-area",
+          "slug": "l8",
           "title": {
             "ar": "مساحة سطح الكرة",
             "en": "Surface Area of the Sphere"
@@ -408,7 +408,7 @@
       ]
     },
     {
-      "slug": "08-trigonometry",
+      "slug": "c8",
       "title": {
         "ar": "حساب المثلثات",
         "en": "Trigonometry"
@@ -419,7 +419,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-trigonometric-ratios",
+          "slug": "l1",
           "title": {
             "ar": "النسب المثلثية",
             "en": "Trigonometric Ratios"
@@ -427,7 +427,7 @@
           "page": 170
         },
         {
-          "slug": "02-cosine-of-angle",
+          "slug": "l2",
           "title": {
             "ar": "جيب تمام الزاوية",
             "en": "Cosine of the Angle"
@@ -435,7 +435,7 @@
           "page": 174
         },
         {
-          "slug": "03-tangent-of-angle",
+          "slug": "l3",
           "title": {
             "ar": "ظل الزاوية",
             "en": "Tangent of the Angle"
@@ -443,7 +443,7 @@
           "page": 176
         },
         {
-          "slug": "04-drawing-measurement-for-angle-ratio",
+          "slug": "l4",
           "title": {
             "ar": "استخدام الرسم والقياس لإيجاد الزاوية أو نسبتها المثلثية",
             "en": "Using Drawing and Measurement to Find the Angle or Its Trigonometric Ratio"
@@ -451,7 +451,7 @@
           "page": 178
         },
         {
-          "slug": "05-trig-ratio-by-calculator",
+          "slug": "l5",
           "title": {
             "ar": "إيجاد قيمة النسبة المثلثية للزاوية بواسطة الآلة الحاسبة",
             "en": "Finding the Trigonometric Ratio of an Angle Using a Calculator"
@@ -459,7 +459,7 @@
           "page": 180
         },
         {
-          "slug": "06-angle-from-trig-ratio-by-calculator",
+          "slug": "l6",
           "title": {
             "ar": "إيجاد قيمة الزاوية إذا عُلمت نسبتها المثلثية بواسطة الآلة الحاسبة",
             "en": "Finding the Angle Given Its Trigonometric Ratio Using a Calculator"
@@ -467,7 +467,7 @@
           "page": 181
         },
         {
-          "slug": "07-special-angles-trig-ratios",
+          "slug": "l7",
           "title": {
             "ar": "إيجاد النسب المثلثية لبعض الزوايا الخاصة بدون استعمال الآلة الحاسبة",
             "en": "Finding Trigonometric Ratios of Special Angles Without a Calculator"
@@ -475,7 +475,7 @@
           "page": 182
         },
         {
-          "slug": "08-trig-applications",
+          "slug": "l8",
           "title": {
             "ar": "تطبيقات على النسب المثلثية",
             "en": "Applications of Trigonometric Ratios"

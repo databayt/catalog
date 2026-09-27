@@ -1,0 +1,136 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-01-q01",
+      "type": "mcq",
+      "question": "What is the meaning of 'ambiguous'?",
+      "options": [
+        "having more than one meaning",
+        "perfectly clear",
+        "very long",
+        "very short"
+      ],
+      "answer": "having more than one meaning",
+      "explanation": "'Ambiguous' means open to more than one interpretation."
+    },
+    {
+      "id": "g10-eng-unit-01-q02",
+      "type": "true_false",
+      "question": "The word 'diligent' describes someone who is lazy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "'Diligent' means working hard and carefully, not lazy."
+    },
+    {
+      "id": "g10-eng-unit-01-q03",
+      "type": "fill_blank",
+      "question": "An antonym of 'generous' is ___.",
+      "answer": "miserly/stingy",
+      "explanation": "Miserly and stingy are antonyms of generous."
+    },
+    {
+      "id": "g10-eng-unit-01-q04",
+      "type": "short_answer",
+      "question": "Use 'consequently' in a sentence.",
+      "answer": "He didn't study; consequently, he failed the exam.",
+      "explanation": "'Consequently' is a connective showing cause and result."
+    },
+    {
+      "id": "06f5c849",
+      "type": "mcq",
+      "question": "What is a metaphor?",
+      "options": [
+        "A comparison using 'like'",
+        "Direct comparison without 'like'",
+        "A contradiction",
+        "A question"
+      ],
+      "answer": "Direct comparison without 'like'",
+      "explanation": "Metaphors compare two things directly"
+    },
+    {
+      "id": "93f1d31f",
+      "type": "fill_blank",
+      "question": "A ___ is a repeated sound at beginning of words",
+      "answer": "alliteration",
+      "explanation": "Alliteration creates rhythm and effect"
+    },
+    {
+      "id": "72c02e4f",
+      "type": "true_false",
+      "question": "A simile uses the word 'like' or 'as'",
+      "answer": true,
+      "explanation": "Similes compare using 'like' or 'as'"
+    },
+    {
+      "id": "1193dd4b",
+      "type": "short_answer",
+      "question": "What is symbolism in literature?",
+      "answer": "Using objects or images to represent ideas",
+      "explanation": "Symbols carry deeper meaning"
+    },
+    {
+      "id": "136bffdb",
+      "type": "mcq",
+      "question": "What is irony?",
+      "options": [
+        "Humor",
+        "Opposite of what is expected",
+        "A type of poem",
+        "Exaggeration"
+      ],
+      "answer": "Opposite of what is expected",
+      "explanation": "Irony creates unexpected meaning"
+    },
+    {
+      "id": "658ea43b",
+      "type": "true_false",
+      "question": "Imagery helps readers visualize scenes",
+      "answer": true,
+      "explanation": "Vivid language creates mental pictures"
+    },
+    {
+      "id": "13d276a6",
+      "type": "fill_blank",
+      "question": "A ___ is a person who tells the story",
+      "answer": "narrator",
+      "explanation": "The narrator's perspective shapes the story"
+    },
+    {
+      "id": "c7cf7046",
+      "type": "short_answer",
+      "question": "What is the theme of a story?",
+      "answer": "Central message or lesson",
+      "explanation": "Themes are universal ideas in literature"
+    },
+    {
+      "id": "3f585750",
+      "type": "mcq",
+      "question": "What is characterization?",
+      "options": [
+        "Setting the scene",
+        "Developing a character's personality",
+        "Writing dialogue",
+        "Describing events"
+      ],
+      "answer": "Developing a character's personality",
+      "explanation": "Characterization reveals who characters are"
+    },
+    {
+      "id": "944e9d2a",
+      "type": "true_false",
+      "question": "Conflict is essential to storytelling",
+      "answer": true,
+      "explanation": "Conflict drives the narrative forward"
+    }
+  ]
+}

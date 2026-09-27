@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-chemical-reactions-and-equations",
+      "slug": "c1",
       "title": {
         "en": "Chemical Reactions and Equations"
       },
       "lessons": [
         {
-          "slug": "01-chemical-reactions-and-equations",
+          "slug": "l1",
           "title": {
             "en": "Chemical Reactions and Equations"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-acids-bases-and-salts",
+      "slug": "c2",
       "title": {
         "en": "Acids, Bases and Salts"
       },
       "lessons": [
         {
-          "slug": "01-acids-bases-and-salts",
+          "slug": "l1",
           "title": {
             "en": "Acids, Bases and Salts"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-metals-and-non-metals",
+      "slug": "c3",
       "title": {
         "en": "Metals and Non-Metals"
       },
       "lessons": [
         {
-          "slug": "01-metals-and-non-metals",
+          "slug": "l1",
           "title": {
             "en": "Metals and Non-Metals"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-carbon-and-its-compounds",
+      "slug": "c4",
       "title": {
         "en": "Carbon and Its Compounds"
       },
       "lessons": [
         {
-          "slug": "01-carbon-and-its-compounds",
+          "slug": "l1",
           "title": {
             "en": "Carbon and Its Compounds"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-life-processes",
+      "slug": "c5",
       "title": {
         "en": "Life Processes"
       },
       "lessons": [
         {
-          "slug": "01-life-processes",
+          "slug": "l1",
           "title": {
             "en": "Life Processes"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-control-and-coordination",
+      "slug": "c6",
       "title": {
         "en": "Control and Coordination"
       },
       "lessons": [
         {
-          "slug": "01-control-and-coordination",
+          "slug": "l1",
           "title": {
             "en": "Control and Coordination"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-how-do-organisms-reproduce",
+      "slug": "c7",
       "title": {
         "en": "How do Organisms Reproduce?"
       },
       "lessons": [
         {
-          "slug": "01-how-do-organisms-reproduce",
+          "slug": "l1",
           "title": {
             "en": "How do Organisms Reproduce?"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-heredity-and-evolution",
+      "slug": "c8",
       "title": {
         "en": "Heredity and Evolution"
       },
       "lessons": [
         {
-          "slug": "01-heredity-and-evolution",
+          "slug": "l1",
           "title": {
             "en": "Heredity and Evolution"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-light-reflection-and-refraction",
+      "slug": "c9",
       "title": {
         "en": "Light: Reflection and Refraction"
       },
       "lessons": [
         {
-          "slug": "01-light-reflection-and-refraction",
+          "slug": "l1",
           "title": {
             "en": "Light: Reflection and Refraction"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-human-eye-and-colourful-world",
+      "slug": "c10",
       "title": {
         "en": "The Human Eye and the Colourful World"
       },
       "lessons": [
         {
-          "slug": "01-human-eye-and-colourful-world",
+          "slug": "l1",
           "title": {
             "en": "The Human Eye and the Colourful World"
           }
@@ -161,13 +161,13 @@
       ]
     },
     {
-      "slug": "11-electricity",
+      "slug": "c11",
       "title": {
         "en": "Electricity"
       },
       "lessons": [
         {
-          "slug": "01-electricity",
+          "slug": "l1",
           "title": {
             "en": "Electricity"
           }
@@ -175,13 +175,13 @@
       ]
     },
     {
-      "slug": "12-magnetic-effects-of-electric-current",
+      "slug": "c12",
       "title": {
         "en": "Magnetic Effects of Electric Current"
       },
       "lessons": [
         {
-          "slug": "01-magnetic-effects-of-electric-current",
+          "slug": "l1",
           "title": {
             "en": "Magnetic Effects of Electric Current"
           }
@@ -189,13 +189,13 @@
       ]
     },
     {
-      "slug": "13-our-environment",
+      "slug": "c13",
       "title": {
         "en": "Our Environment"
       },
       "lessons": [
         {
-          "slug": "01-our-environment",
+          "slug": "l1",
           "title": {
             "en": "Our Environment"
           }

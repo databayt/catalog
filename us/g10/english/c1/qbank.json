@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-01-world-lit-01-context-lq01",
+      "type": "mcq",
+      "question": "Understanding context helps a reader interpret a text's:",
+      "options": [
+        "font",
+        "meaning and values",
+        "length",
+        "price"
+      ],
+      "answer": "meaning and values",
+      "explanation": "Context aids meaning."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-01-context-lq02",
+      "type": "true_false",
+      "question": "A text can reflect the values of its time and place.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sociohistorical context."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-01-context-lq03",
+      "type": "fill_blank",
+      "question": "Information about an author's era is historical ___.",
+      "answer": "context",
+      "explanation": "Background."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-01-context-lq04",
+      "type": "short_answer",
+      "question": "Why read literature from other cultures?",
+      "answer": "To gain perspective and understand universal and diverse experiences.",
+      "explanation": "Global literature."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq01",
+      "type": "mcq",
+      "question": "Tone is the author's:",
+      "options": [
+        "attitude",
+        "plot",
+        "setting",
+        "title"
+      ],
+      "answer": "attitude",
+      "explanation": "Author's attitude."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq02",
+      "type": "true_false",
+      "question": "Mood is the feeling created in the reader.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Atmosphere."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq03",
+      "type": "fill_blank",
+      "question": "Word choice that creates feeling is called ___.",
+      "answer": "diction",
+      "explanation": "Diction."
+    },
+    {
+      "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq04",
+      "type": "short_answer",
+      "question": "How do tone and mood differ?",
+      "answer": "Tone is the writer's attitude; mood is the reader's feeling.",
+      "explanation": "Tone vs mood."
+    }
+  ]
+}

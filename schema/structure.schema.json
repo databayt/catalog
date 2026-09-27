@@ -228,8 +228,7 @@
         "properties": {
           "slug": {
             "type": "string",
-            "maxLength": 64,
-            "pattern": "^\\d{2}-[a-z0-9]+(-[a-z0-9]+)*$"
+            "pattern": "^c[1-9]\\d*$"
           },
           "title": {
             "type": "object",
@@ -305,8 +304,7 @@
               "properties": {
                 "slug": {
                   "type": "string",
-                  "maxLength": 64,
-                  "pattern": "^\\d{2}-[a-z0-9]+(-[a-z0-9]+)*$"
+                  "pattern": "^l[1-9]\\d*$"
                 },
                 "title": {
                   "type": "object",

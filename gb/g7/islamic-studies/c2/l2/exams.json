@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-isl-unit-02-quran-02-tadabbur-quiz",
+      "title": "Quiz: التدبر والفهم",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-isl-unit-02-quran-02-tadabbur-lq01",
+          "type": "mcq",
+          "question": "تدبر القرآن يعني:",
+          "options": [
+            "التفكر في معانيه",
+            "عدّ آياته",
+            "تسريع قراءته",
+            "تركه"
+          ],
+          "answer": "التفكر في معانيه",
+          "explanation": "التدبر."
+        },
+        {
+          "id": "g7-isl-unit-02-quran-02-tadabbur-lq02",
+          "type": "true_false",
+          "question": "أمرنا الله بتدبر القرآن.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "التدبر."
+        },
+        {
+          "id": "g7-isl-unit-02-quran-02-tadabbur-lq03",
+          "type": "fill_blank",
+          "question": "(أفلا يتدبرون ___).",
+          "answer": "القرآن",
+          "explanation": "الآية."
+        },
+        {
+          "id": "g7-isl-unit-02-quran-02-tadabbur-lq04",
+          "type": "short_answer",
+          "question": "ما فائدة تدبر القرآن؟",
+          "answer": "فهم معانيه والعمل بهديه.",
+          "explanation": "التدبر."
+        }
+      ]
+    }
+  ]
+}

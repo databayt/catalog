@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-quiz",
+      "title": "Quiz: Inherited Traits",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-lq01",
+          "type": "mcq",
+          "question": "An inherited trait is passed from:",
+          "options": [
+            "friends",
+            "parents to offspring",
+            "teachers",
+            "the weather"
+          ],
+          "answer": "parents to offspring",
+          "explanation": "Heredity."
+        },
+        {
+          "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-lq02",
+          "type": "true_false",
+          "question": "Eye color is an inherited trait.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "From parents."
+        },
+        {
+          "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-lq03",
+          "type": "fill_blank",
+          "question": "Traits passed from parents are ___ traits.",
+          "answer": "inherited",
+          "explanation": "Heredity."
+        },
+        {
+          "id": "g3-sci-unit-02-life-cycles-02-inherited-traits-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a learned (not inherited) behavior.",
+          "answer": "e.g., riding a bike.",
+          "explanation": "Learned vs inherited."
+        }
+      ]
+    }
+  ]
+}

@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-tajweed",
+      "slug": "c1",
       "title": {
         "ar": "التجويد",
         "en": "Tajweed"
@@ -29,49 +29,49 @@
       "image": "clickview/high-sound-cover.jpg",
       "lessons": [
         {
-          "slug": "01-review",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة"
           }
         },
         {
-          "slug": "02-madd-sukoon",
+          "slug": "l2",
           "title": {
             "ar": "المد بسبب السكون"
           }
         },
         {
-          "slug": "03-madd-lazim",
+          "slug": "l3",
           "title": {
             "ar": "المد اللازم"
           }
         },
         {
-          "slug": "04-madd-lazim-harfi",
+          "slug": "l4",
           "title": {
             "ar": "المد اللازم الحرفي"
           }
         },
         {
-          "slug": "05-madd-lazim-harfi-summary",
+          "slug": "l5",
           "title": {
             "ar": "خلاصة المد اللازم الحرفي"
           }
         },
         {
-          "slug": "06-tafkheem-tarqeeq",
+          "slug": "l6",
           "title": {
             "ar": "التفخيم والترقيق"
           }
         },
         {
-          "slug": "07-raa-rules",
+          "slug": "l7",
           "title": {
             "ar": "أحكام الراء"
           }
         },
         {
-          "slug": "08-raa-muraqaqah",
+          "slug": "l8",
           "title": {
             "ar": "الراء المرققة"
           }
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "slug": "02-the-holy-quran",
+      "slug": "c2",
       "title": {
         "ar": "القرآن الكريم",
         "en": "The Holy Quran"
@@ -88,43 +88,43 @@
       "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-surah-yasin",
+          "slug": "l1",
           "title": {
             "ar": "سورة يس"
           }
         },
         {
-          "slug": "02-story-of-village",
+          "slug": "l2",
           "title": {
             "ar": "قصة أصحاب القرية"
           }
         },
         {
-          "slug": "03-evidence-of-gods-power",
+          "slug": "l3",
           "title": {
             "ar": "الأدلة على قدرة الله"
           }
         },
         {
-          "slug": "04-disbelievers-attitudes",
+          "slug": "l4",
           "title": {
             "ar": "صور من مواقف الكفار وأحوالهم"
           }
         },
         {
-          "slug": "05-reward-and-punishment",
+          "slug": "l5",
           "title": {
             "ar": "جزاء المحسنين وجزاء المجرمين"
           }
         },
         {
-          "slug": "06-prophethood-and-resurrection",
+          "slug": "l6",
           "title": {
             "ar": "صفة الرسالة النبوية والرد على منكري البعث"
           }
         },
         {
-          "slug": "07-selected-verses",
+          "slug": "l7",
           "title": {
             "ar": "آيات مختارة للفهم والتلاوة"
           }
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "slug": "03-prophetic-hadiths",
+      "slug": "c3",
       "title": {
         "ar": "الأحاديث النبوية",
         "en": "Prophetic Hadiths"
@@ -141,63 +141,63 @@
       "image": "clickview/high-debating-and-public-speaking-cover.jpg",
       "lessons": [
         {
-          "slug": "01-importance-of-gentleness",
+          "slug": "l1",
           "title": {
             "ar": "أهمية الرفق في كل الأمور"
           }
         },
         {
-          "slug": "02-danger-of-gossip",
+          "slug": "l2",
           "title": {
             "ar": "خطورة النميمة"
           }
         },
         {
-          "slug": "03-righteousness-good-character",
+          "slug": "l3",
           "title": {
             "ar": "البر حسن الخلق"
           }
         },
         {
-          "slug": "04-seeking-help-from-allah",
+          "slug": "l4",
           "title": {
             "ar": "الاستعانة بالله والتوكل عليه"
           }
         },
         {
-          "slug": "05-time-is-life",
+          "slug": "l5",
           "title": {
             "ar": "الوقت هو الحياة"
           }
         },
         {
-          "slug": "06-concise-words-of-prophet",
+          "slug": "l6",
           "title": {
             "ar": "من جوامع الكلم لرسول الله (ص)"
           }
         },
         {
-          "slug": "07-virtue-of-scholars",
+          "slug": "l7",
           "title": {
             "ar": "فضل العلماء والحث على طلب العلم"
           },
           "image": "clickview/high-learning-cover.jpg"
         },
         {
-          "slug": "08-responsibility-in-islam",
+          "slug": "l8",
           "title": {
             "ar": "المسؤولية في الإسلام"
           },
           "image": "clickview/high-leadership-skills-cover.jpg"
         },
         {
-          "slug": "09-alcohol-key-to-evil",
+          "slug": "l9",
           "title": {
             "ar": "الخمر مفتاح الشر"
           }
         },
         {
-          "slug": "10-accepting-excuses",
+          "slug": "l10",
           "title": {
             "ar": "قبول العذر في الإسلام"
           }
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "slug": "04-creed",
+      "slug": "c4",
       "title": {
         "ar": "العقيدة",
         "en": "Creed"
@@ -214,37 +214,37 @@
       "image": "clickview/high-stars-cover.jpg",
       "lessons": [
         {
-          "slug": "01-greatness-of-allah",
+          "slug": "l1",
           "title": {
             "ar": "عظمة الله جلّ جلاله"
           }
         },
         {
-          "slug": "02-reflecting-on-horizons",
+          "slug": "l2",
           "title": {
             "ar": "التفكر والتأمل في الآفاق"
           }
         },
         {
-          "slug": "03-reflecting-on-self",
+          "slug": "l3",
           "title": {
             "ar": "التفكر والتأمل في الأنفس"
           }
         },
         {
-          "slug": "04-scientific-miracle-embryo",
+          "slug": "l4",
           "title": {
             "ar": "الإعجاز العلمي في الجنين"
           }
         },
         {
-          "slug": "05-meaning-of-hawqala",
+          "slug": "l5",
           "title": {
             "ar": "دلالة (لا حول ولا قوة إلا بالله) العقدية"
           }
         },
         {
-          "slug": "06-creation-confirms-creator",
+          "slug": "l6",
           "title": {
             "ar": "المخلوقات تؤكد وجود الخالق"
           },
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "slug": "05-jurisprudence",
+      "slug": "c5",
       "title": {
         "ar": "الفقه",
         "en": "Jurisprudence"
@@ -262,60 +262,60 @@
       "image": "clickview/high-corporate-social-responsibility-cover.jpg",
       "lessons": [
         {
-          "slug": "01-virtue-of-zakat",
+          "slug": "l1",
           "title": {
             "ar": "فضل الزكاة في الإسلام وحكمتها"
           }
         },
         {
-          "slug": "02-ruling-on-zakat",
+          "slug": "l2",
           "title": {
             "ar": "حكم زكاة الأموال وعقوبة مانعها"
           }
         },
         {
-          "slug": "03-conditions-of-zakat",
+          "slug": "l3",
           "title": {
             "ar": "شروط وجوب الزكاة"
           }
         },
         {
-          "slug": "04-zakat-on-gold-silver-currency",
+          "slug": "l4",
           "title": {
             "ar": "زكاة الذهب والفضة والعملة"
           },
           "image": "clickview/high-accounting-and-finance-cover.jpg"
         },
         {
-          "slug": "05-zakat-on-trade-goods",
+          "slug": "l5",
           "title": {
             "ar": "زكاة عروض التجارة"
           },
           "image": "clickview/high-international-trade-cover.jpg"
         },
         {
-          "slug": "06-zakat-on-livestock",
+          "slug": "l6",
           "title": {
             "ar": "زكاة بهيمة الأنعام"
           },
           "image": "clickview/high-food-origins-cover.jpg"
         },
         {
-          "slug": "07-zakat-on-cattle-sheep",
+          "slug": "l7",
           "title": {
             "ar": "زكاة البقر والغنم"
           },
           "image": "clickview/high-food-origins-cover.jpg"
         },
         {
-          "slug": "08-zakat-on-crops-fruits",
+          "slug": "l8",
           "title": {
             "ar": "زكاة الزروع والثمار"
           },
           "image": "clickview/high-food-product-development-cover.jpg"
         },
         {
-          "slug": "09-zakat-recipients",
+          "slug": "l9",
           "title": {
             "ar": "مصارف الزكاة"
           }
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "slug": "06-the-prophets-biography",
+      "slug": "c6",
       "title": {
         "ar": "السيرة",
         "en": "The Prophet's Biography"
@@ -332,45 +332,45 @@
       "image": "clickview/middle-topographic-maps-cover.jpg",
       "lessons": [
         {
-          "slug": "01-battle-of-ahzab",
+          "slug": "l1",
           "title": {
             "ar": "غزوة الأحزاب"
           }
         },
         {
-          "slug": "02-preparing-for-battle",
+          "slug": "l2",
           "title": {
             "ar": "الاستعداد لمقابلة الأعداء"
           }
         },
         {
-          "slug": "03-demoralizing-enemies",
+          "slug": "l3",
           "title": {
             "ar": "بث الخذلان في صفوف الأعداء"
           }
         },
         {
-          "slug": "04-treaty-of-hudaybiyyah",
+          "slug": "l4",
           "title": {
             "ar": "صلح الحديبية"
           },
           "image": "clickview/high-international-day-of-peace-cover.jpg"
         },
         {
-          "slug": "05-treaty-consequences",
+          "slug": "l5",
           "title": {
             "ar": "صلح الحديبية وما ترتب عليه من أحداث"
           },
           "image": "clickview/high-international-day-of-peace-cover.jpg"
         },
         {
-          "slug": "06-conquest-of-makkah",
+          "slug": "l6",
           "title": {
             "ar": "فتح مكة"
           }
         },
         {
-          "slug": "07-destroying-idols",
+          "slug": "l7",
           "title": {
             "ar": "تحطيم رموز الوثنية"
           }

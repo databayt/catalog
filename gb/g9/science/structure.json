@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-chemistry",
+      "slug": "c1",
       "title": {
         "en": "Chemistry: Reactions"
       },
       "lessons": [
         {
-          "slug": "01-reactions",
+          "slug": "l1",
           "title": {
             "en": "Chemical Reactions"
           }
         },
         {
-          "slug": "02-periodic-table",
+          "slug": "l2",
           "title": {
             "en": "The Periodic Table"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-physics",
+      "slug": "c2",
       "title": {
         "en": "Physics: Electricity & Waves"
       },
       "lessons": [
         {
-          "slug": "01-electricity",
+          "slug": "l1",
           "title": {
             "en": "Electricity"
           }
         },
         {
-          "slug": "02-waves",
+          "slug": "l2",
           "title": {
             "en": "Waves"
           }

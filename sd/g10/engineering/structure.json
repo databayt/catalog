@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-introduction-to-engineering-sciences",
+      "slug": "c1",
       "title": {
         "ar": "مقدمة في العلوم الهندسية",
         "en": "Introduction to Engineering Sciences"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-engineering-sciences",
+          "slug": "l1",
           "title": {
             "ar": "العلوم الهندسية",
             "en": "Engineering Sciences"
@@ -48,7 +48,7 @@
           "page": 6
         },
         {
-          "slug": "02-branches-of-engineering-sciences",
+          "slug": "l2",
           "title": {
             "ar": "فروع العلوم الهندسية",
             "en": "Branches of Engineering Sciences"
@@ -56,7 +56,7 @@
           "page": 6
         },
         {
-          "slug": "03-the-relationship-of-engineering-sciences-with",
+          "slug": "l3",
           "title": {
             "ar": "علاقة العلوم الهندسية بالعلوم الأخرى",
             "en": "The Relationship of Engineering Sciences with Other Sciences"
@@ -64,7 +64,7 @@
           "page": 7
         },
         {
-          "slug": "04-the-importance-of-engineering-sciences",
+          "slug": "l4",
           "title": {
             "ar": "أهمية العلوم الهندسية",
             "en": "The Importance of Engineering Sciences"
@@ -72,7 +72,7 @@
           "page": 11
         },
         {
-          "slug": "05-the-relationship-between-innovation-problem",
+          "slug": "l5",
           "title": {
             "ar": "العلاقة بين الابتكار وحل المشكلات والهندسة",
             "en": "The Relationship between Innovation, Problem Solving and Engineering"
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "slug": "02-fundamentals-of-engineering-drawing",
+      "slug": "c2",
       "title": {
         "ar": "أساسيات الرسم الهندسي",
         "en": "Fundamentals of Engineering Drawing"
@@ -94,7 +94,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-engineering-drawing",
+          "slug": "l1",
           "title": {
             "ar": "الرسم الهندسي",
             "en": "Engineering Drawing"
@@ -102,7 +102,7 @@
           "page": 18
         },
         {
-          "slug": "02-rules-of-engineering-drawing",
+          "slug": "l2",
           "title": {
             "ar": "قواعد الرسم الهندسي",
             "en": "Rules of Engineering Drawing"
@@ -110,7 +110,7 @@
           "page": 21
         },
         {
-          "slug": "03-simple-geometric-constructions",
+          "slug": "l3",
           "title": {
             "ar": "العمليات الهندسية البسيطة",
             "en": "Simple Geometric Constructions"
@@ -118,7 +118,7 @@
           "page": 29
         },
         {
-          "slug": "04-triangles",
+          "slug": "l4",
           "title": {
             "ar": "المثلثات",
             "en": "Triangles"
@@ -126,7 +126,7 @@
           "page": 35
         },
         {
-          "slug": "05-the-circle-and-tangency",
+          "slug": "l5",
           "title": {
             "ar": "الدائرة والتماس",
             "en": "The Circle and Tangency"
@@ -134,7 +134,7 @@
           "page": 39
         },
         {
-          "slug": "06-regular-polygons",
+          "slug": "l6",
           "title": {
             "ar": "المضلعات المنتظمة",
             "en": "Regular Polygons"
@@ -142,7 +142,7 @@
           "page": 50
         },
         {
-          "slug": "07-computer-aided-drawing-autocad",
+          "slug": "l7",
           "title": {
             "ar": "الرسم التلقائي (الأوتوكاد)",
             "en": "Computer-Aided Drawing (AutoCAD)"
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "slug": "03-fundamentals-of-mechanical-engineering",
+      "slug": "c3",
       "title": {
         "ar": "أساسيات الهندسة الميكانيكية",
         "en": "Fundamentals of Mechanical Engineering"
@@ -164,7 +164,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-mechanical-engineering",
+          "slug": "l1",
           "title": {
             "ar": "الهندسة الميكانيكية",
             "en": "Mechanical Engineering"
@@ -172,7 +172,7 @@
           "page": 60
         },
         {
-          "slug": "02-metal-cutting",
+          "slug": "l2",
           "title": {
             "ar": "قطع المعادن",
             "en": "Metal Cutting"
@@ -180,7 +180,7 @@
           "page": 62
         },
         {
-          "slug": "03-countersinking",
+          "slug": "l3",
           "title": {
             "ar": "التخويش أو الدشلكة",
             "en": "Countersinking"
@@ -188,7 +188,7 @@
           "page": 70
         },
         {
-          "slug": "04-threading-and-screws",
+          "slug": "l4",
           "title": {
             "ar": "البرغلة والبراغي",
             "en": "Threading and Screws"
@@ -196,7 +196,7 @@
           "page": 72
         },
         {
-          "slug": "05-methods-of-joining-metals",
+          "slug": "l5",
           "title": {
             "ar": "أساليب وصل المعادن",
             "en": "Methods of Joining Metals"
@@ -204,7 +204,7 @@
           "page": 74
         },
         {
-          "slug": "06-joining-metals-by-mechanical-methods",
+          "slug": "l6",
           "title": {
             "ar": "وصل المعادن بالطرق الميكانيكية",
             "en": "Joining Metals by Mechanical Methods"
@@ -212,7 +212,7 @@
           "page": 75
         },
         {
-          "slug": "07-gas-welding-oxy-acetylene",
+          "slug": "l7",
           "title": {
             "ar": "اللحام بالغاز (الأوكسجين والأسيتلين)",
             "en": "Gas Welding (Oxy-Acetylene)"
@@ -222,7 +222,7 @@
       ]
     },
     {
-      "slug": "04-fundamentals-of-electrical-engineering",
+      "slug": "c4",
       "title": {
         "ar": "أساسيات الهندسة الكهربائية",
         "en": "Fundamentals of Electrical Engineering"
@@ -233,7 +233,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-electricity",
+          "slug": "l1",
           "title": {
             "ar": "الكهربية",
             "en": "Electricity"
@@ -241,7 +241,7 @@
           "page": 82
         },
         {
-          "slug": "02-conductors-insulators-and-semiconductors",
+          "slug": "l2",
           "title": {
             "ar": "المواد الموصلة والعازلة وشبه الموصلة",
             "en": "Conductors, Insulators and Semiconductors"
@@ -250,7 +250,7 @@
           "image": "clickview/high-hardware-and-software-cover.jpg"
         },
         {
-          "slug": "03-static-electricity",
+          "slug": "l3",
           "title": {
             "ar": "الكهربية الاستاتيكية (الساكنة)",
             "en": "Static Electricity"
@@ -258,7 +258,7 @@
           "page": 87
         },
         {
-          "slug": "04-practical-applications-of-static-electricity",
+          "slug": "l4",
           "title": {
             "ar": "تطبيقات عملية للكهربية الاستاتيكية",
             "en": "Practical Applications of Static Electricity"
@@ -266,7 +266,7 @@
           "page": 94
         },
         {
-          "slug": "05-basic-electrical-quantities",
+          "slug": "l5",
           "title": {
             "ar": "الكميات الكهربية الأساسية",
             "en": "Basic Electrical Quantities"
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "slug": "05-fundamentals-of-civil-engineering-and",
+      "slug": "c5",
       "title": {
         "ar": "أساسيات الهندسة المدنية والعمارة",
         "en": "Fundamentals of Civil Engineering and Architecture"
@@ -287,7 +287,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-civil-engineering-and-architecture",
+          "slug": "l1",
           "title": {
             "ar": "الهندسة المدنية والعمارة",
             "en": "Civil Engineering and Architecture"
@@ -295,7 +295,7 @@
           "page": 130
         },
         {
-          "slug": "02-binding-building-materials",
+          "slug": "l2",
           "title": {
             "ar": "مواد البناء اللاصقة",
             "en": "Binding Building Materials"
@@ -304,7 +304,7 @@
           "image": "clickview/high-materials-cover.jpg"
         },
         {
-          "slug": "03-mortar",
+          "slug": "l3",
           "title": {
             "ar": "المونة",
             "en": "Mortar"
@@ -313,7 +313,7 @@
           "image": "clickview/high-materials-cover.jpg"
         },
         {
-          "slug": "04-foundations",
+          "slug": "l4",
           "title": {
             "ar": "الأساسات",
             "en": "Foundations"
@@ -321,7 +321,7 @@
           "page": 140
         },
         {
-          "slug": "05-types-of-bricks",
+          "slug": "l5",
           "title": {
             "ar": "أنواع الطوب",
             "en": "Types of Bricks"
@@ -330,7 +330,7 @@
           "image": "clickview/high-materials-cover.jpg"
         },
         {
-          "slug": "06-technical-terms",
+          "slug": "l6",
           "title": {
             "ar": "المصطلحات الفنية",
             "en": "Technical Terms"

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "moral-education",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g12-mor-unit-02-leadership-01-leadership-quiz",
+      "title": "Quiz: Ethical Leadership",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-mor-unit-02-leadership-01-leadership-lq01",
+          "type": "mcq",
+          "question": "A good leader acts with vision and:",
+          "options": [
+            "integrity",
+            "selfishness",
+            "dishonesty",
+            "fear"
+          ],
+          "answer": "integrity",
+          "explanation": "Leadership."
+        },
+        {
+          "id": "g12-mor-unit-02-leadership-01-leadership-lq02",
+          "type": "true_false",
+          "question": "Leaders should serve and inspire their community.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Servant leadership."
+        },
+        {
+          "id": "g12-mor-unit-02-leadership-01-leadership-lq03",
+          "type": "fill_blank",
+          "question": "Leading by good example and honesty is ethical ___.",
+          "answer": "leadership",
+          "explanation": "Leadership."
+        },
+        {
+          "id": "g12-mor-unit-02-leadership-01-leadership-lq04",
+          "type": "short_answer",
+          "question": "Name one quality of a good leader.",
+          "answer": "e.g., vision, integrity, fairness, or empathy.",
+          "explanation": "Leadership."
+        }
+      ]
+    }
+  ]
+}

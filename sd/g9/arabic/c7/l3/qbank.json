@@ -1,0 +1,87 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "c7",
+    "lesson": "l3"
+  },
+  "questions": [
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq01",
+      "type": "mcq",
+      "question": "أي من الآتي مثال على الفاعل في جملة 'كتب الطالبُ الدرسَ'؟",
+      "options": [
+        "الطالبُ",
+        "الدرسَ",
+        "كتب",
+        "لا يوجد"
+      ],
+      "answer": "الطالبُ",
+      "explanation": "الطالبُ هو الفاعل لأنه من قام بالفعل."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq02",
+      "type": "true_false",
+      "question": "المبتدأ في الجملة الاسمية يكون مرفوعاً دائماً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المبتدأ مرفوع دائماً في الجملة الاسمية."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq03",
+      "type": "fill_blank",
+      "question": "الفعل المضارع المسبوق بـ'لن' يكون ___.",
+      "answer": "منصوباً",
+      "explanation": "لن تنصب الفعل المضارع."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq04",
+      "type": "short_answer",
+      "question": "اذكر علامات إعراب الاسم المفرد.",
+      "answer": "الرفع بالضمة، النصب بالفتحة، الجر بالكسرة",
+      "explanation": "للاسم المفرد ثلاث حالات إعرابية."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq01-2",
+      "type": "mcq",
+      "question": "أي من الآتي مثال على الفاعل في جملة 'كتب الطالبُ الدرسَ'؟",
+      "options": [
+        "الطالبُ",
+        "الدرسَ",
+        "كتب",
+        "لا يوجد"
+      ],
+      "answer": "الطالبُ",
+      "explanation": "الطالبُ هو الفاعل لأنه من قام بالفعل."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq02-2",
+      "type": "true_false",
+      "question": "المبتدأ في الجملة الاسمية يكون مرفوعاً دائماً.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "المبتدأ مرفوع دائماً في الجملة الاسمية."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq03-2",
+      "type": "fill_blank",
+      "question": "الفعل المضارع المسبوق بـ'لن' يكون ___.",
+      "answer": "منصوباً",
+      "explanation": "لن تنصب الفعل المضارع."
+    },
+    {
+      "id": "g9-ara-unit-07-03-grammar-lq04-2",
+      "type": "short_answer",
+      "question": "اذكر علامات إعراب الاسم المفرد.",
+      "answer": "الرفع بالضمة، النصب بالفتحة، الجر بالكسرة",
+      "explanation": "للاسم المفرد ثلاث حالات إعرابية."
+    }
+  ]
+}

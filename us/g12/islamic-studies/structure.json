@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-thought-contemporary",
+      "slug": "c1",
       "title": {
         "ar": "الفكر الإسلامي وقضايا معاصرة"
       },
       "lessons": [
         {
-          "slug": "01-thought",
+          "slug": "l1",
           "title": {
             "ar": "الفكر الإسلامي"
           }
         },
         {
-          "slug": "02-contemporary",
+          "slug": "l2",
           "title": {
             "ar": "قضايا معاصرة"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-culture",
+      "slug": "c2",
       "title": {
         "ar": "الثقافة الإسلامية"
       },
       "lessons": [
         {
-          "slug": "01-civilization",
+          "slug": "l1",
           "title": {
             "ar": "الحضارة الإسلامية"
           }
         },
         {
-          "slug": "02-contemporary",
+          "slug": "l2",
           "title": {
             "ar": "قضايا معاصرة"
           }

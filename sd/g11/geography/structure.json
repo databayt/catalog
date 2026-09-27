@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1-human-foundations-of-geography",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: الأسس البشرية للجغرافيا",
         "en": "Unit 1: Human Foundations of Geography"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-human-foundations-of-geography",
+          "slug": "l1",
           "title": {
             "ar": "الأسس البشرية للجغرافيا",
             "en": "Human Foundations of Geography"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-population-dynamics",
+          "slug": "l2",
           "title": {
             "ar": "ديناميكية السكان",
             "en": "Population Dynamics"
@@ -56,7 +56,7 @@
           "page": 12
         },
         {
-          "slug": "03-population-structure",
+          "slug": "l3",
           "title": {
             "ar": "تركيب السكان",
             "en": "Population Structure"
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "slug": "02-unit-2-distribution-maps",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: خرائط التوزيعات",
         "en": "Unit 2: Distribution Maps"
@@ -77,7 +77,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review-exercise",
+          "slug": "l1",
           "title": {
             "ar": "تمرين مراجعة",
             "en": "Review Exercise"
@@ -85,7 +85,7 @@
           "page": 27
         },
         {
-          "slug": "02-graphs-and-charts",
+          "slug": "l2",
           "title": {
             "ar": "الأشكال البيانية",
             "en": "Graphs and Charts"
@@ -93,7 +93,7 @@
           "page": 33
         },
         {
-          "slug": "03-distribution-maps",
+          "slug": "l3",
           "title": {
             "ar": "خرائط التوزيعات",
             "en": "Distribution Maps"
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "slug": "03-unit-3-regional-geography",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: الجغرافيا الإقليمية",
         "en": "Unit 3: Regional Geography"
@@ -114,7 +114,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-regional-geography",
+          "slug": "l1",
           "title": {
             "ar": "الجغرافيا الإقليمية",
             "en": "Regional Geography"
@@ -122,7 +122,7 @@
           "page": 87
         },
         {
-          "slug": "02-selected-geographical-regions",
+          "slug": "l2",
           "title": {
             "ar": "أقاليم جغرافية مختارة",
             "en": "Selected Geographical Regions"
@@ -130,7 +130,7 @@
           "page": 93
         },
         {
-          "slug": "03-asia",
+          "slug": "l3",
           "title": {
             "ar": "قارة آسيا",
             "en": "Asia"
@@ -138,7 +138,7 @@
           "page": 97
         },
         {
-          "slug": "04-europe",
+          "slug": "l4",
           "title": {
             "ar": "قارة أوروبا",
             "en": "Europe"
@@ -146,7 +146,7 @@
           "page": 115
         },
         {
-          "slug": "05-north-america",
+          "slug": "l5",
           "title": {
             "ar": "قارة أمريكا الشمالية",
             "en": "North America"
@@ -154,7 +154,7 @@
           "page": 127
         },
         {
-          "slug": "06-africa",
+          "slug": "l6",
           "title": {
             "ar": "قارة إفريقيا",
             "en": "Africa"
@@ -162,7 +162,7 @@
           "page": 136
         },
         {
-          "slug": "07-south-america",
+          "slug": "l7",
           "title": {
             "ar": "قارة أمريكا الجنوبية",
             "en": "South America"
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "slug": "04-unit-4-geography-of-sudan",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: جغرافية السودان",
         "en": "Unit 4: Geography of Sudan"
@@ -183,7 +183,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sudan-the-physical-basis",
+          "slug": "l1",
           "title": {
             "ar": "جغرافية السودان: الأساس الطبيعي",
             "en": "Sudan: The Physical Basis"
@@ -191,7 +191,7 @@
           "page": 163
         },
         {
-          "slug": "02-the-population-of-sudan",
+          "slug": "l2",
           "title": {
             "ar": "سكان السودان",
             "en": "The Population of Sudan"
@@ -199,7 +199,7 @@
           "page": 180
         },
         {
-          "slug": "03-economic-activity",
+          "slug": "l3",
           "title": {
             "ar": "النشاط الاقتصادي",
             "en": "Economic Activity"
@@ -208,7 +208,7 @@
           "image": "clickview/high-regenerative-agriculture-cover.jpg"
         },
         {
-          "slug": "04-sudans-environmental-problems",
+          "slug": "l4",
           "title": {
             "ar": "مشكلات السودان البيئية",
             "en": "Sudan's Environmental Problems"

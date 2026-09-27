@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g6-eng-unit-01-reading-lit-01-theme-quiz",
+      "title": "Quiz: Determining Theme",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq01",
+          "type": "mcq",
+          "question": "A theme is best described as:",
+          "options": [
+            "the setting",
+            "a central message",
+            "the narrator",
+            "the title"
+          ],
+          "answer": "a central message",
+          "explanation": "Theme = underlying message."
+        },
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq02",
+          "type": "true_false",
+          "question": "Theme is usually stated directly in the first line.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Theme is inferred."
+        },
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq03",
+          "type": "fill_blank",
+          "question": "Evidence that supports an idea is called textual ___.",
+          "answer": "evidence",
+          "explanation": "Text support."
+        },
+        {
+          "id": "g6-eng-unit-01-reading-lit-01-theme-lq04",
+          "type": "short_answer",
+          "question": "How do you identify a theme?",
+          "answer": "Look at what the characters learn or how conflicts resolve.",
+          "explanation": "Inferring theme."
+        }
+      ]
+    }
+  ]
+}

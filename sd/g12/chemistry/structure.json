@@ -39,7 +39,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-organic-chemistry-hydrocarbon-derivatives",
+      "slug": "c1",
       "title": {
         "ar": "الكيمياء العضوية - المشتقات الهيدروكربونية وتطبيقاتها",
         "en": "Organic Chemistry: Hydrocarbon Derivatives and Their Applications"
@@ -51,7 +51,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-alkyl-halides",
+          "slug": "l1",
           "title": {
             "ar": "هاليدات الالكيل",
             "en": "Alkyl Halides"
@@ -67,7 +67,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-alcohols-ethers",
+          "slug": "l2",
           "title": {
             "ar": "الكحولات والإيثرات",
             "en": "Alcohols and Ethers"
@@ -83,7 +83,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-aldehydes-ketones-carboxylic-acids-esters",
+          "slug": "l3",
           "title": {
             "ar": "الالدهيدات والكيتونات والأحماض الكربوكسيلية والاسترات",
             "en": "Aldehydes, Ketones, Carboxylic Acids and Esters"
@@ -99,7 +99,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-alcohols-properties-preparation",
+          "slug": "l4",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية للكحولات وطرق تحضيرها",
             "en": "Physical and Chemical Properties of Alcohols and Methods of Preparation"
@@ -115,7 +115,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-ethers-properties-preparation",
+          "slug": "l5",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية للإيثرات وطرق تحضيرها",
             "en": "Physical and Chemical Properties of Ethers and Methods of Preparation"
@@ -131,7 +131,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-aldehydes-ketones-properties-preparation",
+          "slug": "l6",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية للألدهيدات والكيتونات وطرق تحضيرها",
             "en": "Physical and Chemical Properties of Aldehydes and Ketones and Methods of Preparation"
@@ -147,7 +147,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-carboxylic-acids-properties-preparation",
+          "slug": "l7",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية للاحماض الكربوكسيلية وطرق تحضيرها",
             "en": "Physical and Chemical Properties of Carboxylic Acids and Methods of Preparation"
@@ -163,7 +163,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-esters-properties-preparation",
+          "slug": "l8",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية للإسترات وطرق تحضيرها",
             "en": "Physical and Chemical Properties of Esters and Methods of Preparation"
@@ -179,7 +179,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "09-soap",
+          "slug": "l9",
           "title": {
             "ar": "الصابون",
             "en": "Soap"
@@ -195,7 +195,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "10-organic-polymerization-isomerism",
+          "slug": "l10",
           "title": {
             "ar": "البلمرة العضوية والتماكب",
             "en": "Organic Polymerization and Isomerism"
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "slug": "02-acids-bases",
+      "slug": "c2",
       "title": {
         "ar": "الأحماض والقواعد",
         "en": "Acids and Bases"
@@ -226,7 +226,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-arrhenius-theory",
+          "slug": "l1",
           "title": {
             "ar": "نظرية ارهينيوس",
             "en": "Arrhenius Theory"
@@ -242,7 +242,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-bronsted-lowry-theory",
+          "slug": "l2",
           "title": {
             "ar": "نظرية برونستد – لوري",
             "en": "Bronsted-Lowry Theory"
@@ -258,7 +258,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-lewis-theory",
+          "slug": "l3",
           "title": {
             "ar": "نظرية لويس",
             "en": "Lewis Theory"
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "slug": "03-qualitative-analysis",
+      "slug": "c3",
       "title": {
         "ar": "التحليل الكيميائي الكيفي",
         "en": "Qualitative Chemical Analysis"
@@ -288,7 +288,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-qualitative-chemical-analysis",
+          "slug": "l1",
           "title": {
             "ar": "التحليل الكيميائي الكيفي",
             "en": "Qualitative Chemical Analysis"
@@ -304,7 +304,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-identifying-acid-radicals-inorganic-salts",
+          "slug": "l2",
           "title": {
             "ar": "التعرف على الشقوق الحمضية للأملاح غير العضوية",
             "en": "Identifying Acid Radicals of Inorganic Salts"
@@ -320,7 +320,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-acid-radicals-group1-dilute-hcl",
+          "slug": "l3",
           "title": {
             "ar": "الكشف عن الشقوق الحمضية للمجموعة الأولى (مجموعة حمض الهيدروكلوريك المخفف)",
             "en": "Detection of Group 1 Acid Radicals (Dilute Hydrochloric Acid Group)"
@@ -336,7 +336,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-acid-radicals-group2-concentrated-h2so4",
+          "slug": "l4",
           "title": {
             "ar": "الكشف عن الشقوق الحمضية للمجموعة الثانية (مجموعة حمض الكبريتيك المركز)",
             "en": "Detection of Group 2 Acid Radicals (Concentrated Sulfuric Acid Group)"
@@ -352,7 +352,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-acid-radicals-group3-general",
+          "slug": "l5",
           "title": {
             "ar": "الكشف عن الشقوق الحمضية للمجموعة الثالثة (المجموعة العامة)",
             "en": "Detection of Group 3 Acid Radicals (General Group)"
@@ -368,7 +368,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-basic-radicals-inorganic-salts",
+          "slug": "l6",
           "title": {
             "ar": "الكشف عن بعض الشقوق القاعدية للأملاح غير العضوية",
             "en": "Detection of Some Basic Radicals of Inorganic Salts"
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "slug": "04-volumetric-analysis",
+      "slug": "c4",
       "title": {
         "ar": "التحليل الكيميائي الحجمي",
         "en": "Volumetric Chemical Analysis"
@@ -398,7 +398,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-volumetric-chemical-analysis",
+          "slug": "l1",
           "title": {
             "ar": "التحليل الكيميائي الحجمي",
             "en": "Volumetric Chemical Analysis"
@@ -414,7 +414,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-expressing-solution-concentration",
+          "slug": "l2",
           "title": {
             "ar": "طرق التعبير عن تركيز المحاليل",
             "en": "Methods of Expressing Solution Concentration"
@@ -430,7 +430,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-molar-concentration-applications",
+          "slug": "l3",
           "title": {
             "ar": "تطبيقات متنوعة لحساب التركيز المولاري",
             "en": "Various Applications for Calculating Molar Concentration"
@@ -446,7 +446,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "04-standard-solution",
+          "slug": "l4",
           "title": {
             "ar": "المحلول القياسي",
             "en": "Standard Solution"
@@ -462,7 +462,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-titration",
+          "slug": "l5",
           "title": {
             "ar": "المعايرة",
             "en": "Titration"
@@ -479,7 +479,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-volume-molarity-relationship-titration",
+          "slug": "l6",
           "title": {
             "ar": "العلاقة بين حجمي ومولاريتي المحلولين المتفاعلين في المعايرة",
             "en": "Relationship Between the Volumes and Molarities of Two Reacting Solutions in Titration"
@@ -495,7 +495,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-titration-experiments",
+          "slug": "l7",
           "title": {
             "ar": "تجارب على المعايرات",
             "en": "Titration Experiments"
@@ -512,7 +512,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-purity-degree-impure-samples",
+          "slug": "l8",
           "title": {
             "ar": "إيجاد درجة النقاء في عينات غير نقية",
             "en": "Determining the Purity Degree in Impure Samples"
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "slug": "05-energy-in-reactions",
+      "slug": "c5",
       "title": {
         "ar": "الطاقة في التفاعلات الكيميائية",
         "en": "Energy in Chemical Reactions"
@@ -542,7 +542,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-law-of-conservation-of-energy",
+          "slug": "l1",
           "title": {
             "ar": "قانون بقاء الطاقة",
             "en": "Law of Conservation of Energy"
@@ -558,7 +558,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-thermal-changes-chemical-reactions",
+          "slug": "l2",
           "title": {
             "ar": "التغيرات الحرارية المصاحبة للتفاعلات الكيميائية",
             "en": "Thermal Changes Accompanying Chemical Reactions"
@@ -574,7 +574,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-forms-of-enthalpy-change",
+          "slug": "l3",
           "title": {
             "ar": "صور التغير في المحتوى الحراري",
             "en": "Forms of Change in Heat Content (Enthalpy)"
@@ -592,7 +592,7 @@
       ]
     },
     {
-      "slug": "06-reaction-rate-mechanism",
+      "slug": "c6",
       "title": {
         "ar": "سرعة وآلية التفاعلات الكيميائية",
         "en": "Rate and Mechanism of Chemical Reactions"
@@ -604,7 +604,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reaction-rate-measurement",
+          "slug": "l1",
           "title": {
             "ar": "سرعة التفاعل الكيميائي وقياسها",
             "en": "Rate of Chemical Reaction and Its Measurement"
@@ -620,7 +620,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-factors-affecting-reaction-rate",
+          "slug": "l2",
           "title": {
             "ar": "العوامل التي تؤثر على سرعة التفاعل الكيميائي",
             "en": "Factors Affecting the Rate of Chemical Reaction"
@@ -636,7 +636,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-reaction-mechanism",
+          "slug": "l3",
           "title": {
             "ar": "آلية (ميكانيكية) التفاعل الكيميائي",
             "en": "Mechanism of Chemical Reaction"
@@ -654,7 +654,7 @@
       ]
     },
     {
-      "slug": "07-chemical-equilibrium",
+      "slug": "c7",
       "title": {
         "ar": "مبادئ الاتزان الكيميائي",
         "en": "Principles of Chemical Equilibrium"
@@ -666,7 +666,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-concept-of-equilibrium",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الاتزان",
             "en": "Concept of Equilibrium"
@@ -682,7 +682,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-law-of-chemical-equilibrium",
+          "slug": "l2",
           "title": {
             "ar": "قانون الاتزان الكيميائي",
             "en": "Law of Chemical Equilibrium"
@@ -698,7 +698,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-factors-affecting-equilibrium",
+          "slug": "l3",
           "title": {
             "ar": "العوامل التي تؤثر على الاتزان",
             "en": "Factors Affecting Equilibrium"
@@ -716,7 +716,7 @@
       ]
     },
     {
-      "slug": "08-electrochemistry",
+      "slug": "c8",
       "title": {
         "ar": "الكيمياء الكهربية",
         "en": "Electrochemistry"
@@ -728,7 +728,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-electrochemistry-intro",
+          "slug": "l1",
           "title": {
             "ar": "الكيمياء الكهربائية",
             "en": "Electrochemistry"
@@ -744,7 +744,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-electrical-energy-from-redox",
+          "slug": "l2",
           "title": {
             "ar": "إنتاج الطاقة الكهربائية من تفاعلات الأكسدة والاختزال",
             "en": "Producing Electrical Energy from Oxidation-Reduction Reactions"
@@ -760,7 +760,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-standard-electrode-potentials",
+          "slug": "l3",
           "title": {
             "ar": "جهود الأقطاب القياسية للعناصر",
             "en": "Standard Electrode Potentials of Elements"
@@ -776,7 +776,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-electrochemical-cells",
+          "slug": "l4",
           "title": {
             "ar": "الخلايا الكهربائية",
             "en": "Electrochemical Cells"
@@ -792,7 +792,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-electrolysis",
+          "slug": "l5",
           "title": {
             "ar": "التحليل الكهربي",
             "en": "Electrolysis"
@@ -808,7 +808,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-faradays-laws-electrolysis",
+          "slug": "l6",
           "title": {
             "ar": "الاعتبارات الكمية لعملية التحليل الكهربي (قانونا فراداي للتحليل الكهربي)",
             "en": "Quantitative Aspects of Electrolysis (Faraday's Laws of Electrolysis)"
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "slug": "09-nuclear-chemistry",
+      "slug": "c9",
       "title": {
         "ar": "الكيمياء النووية",
         "en": "Nuclear Chemistry"
@@ -838,7 +838,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-nuclear-chemistry-intro",
+          "slug": "l1",
           "title": {
             "ar": "الكيمياء النووية",
             "en": "Nuclear Chemistry"
@@ -854,7 +854,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-nature-of-radioactivity",
+          "slug": "l2",
           "title": {
             "ar": "طبيعة النشاط الإشعاعي",
             "en": "Nature of Radioactivity"
@@ -870,7 +870,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-radioactive-decay-series",
+          "slug": "l3",
           "title": {
             "ar": "سلاسل التحلل الإشعاعي",
             "en": "Radioactive Decay Series"
@@ -886,7 +886,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-artificial-nuclear-transformations",
+          "slug": "l4",
           "title": {
             "ar": "التحولات النووية الاصطناعية",
             "en": "Artificial Nuclear Transformations"

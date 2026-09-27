@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "arabic",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g6-ara-unit-02-naat-idafa-02-idafa-lq01",
+      "type": "mcq",
+      "question": "في (كتابُ الطالبِ) المضاف إليه هو:",
+      "options": [
+        "كتاب",
+        "الطالب",
+        "ال",
+        "لا شيء"
+      ],
+      "answer": "الطالب",
+      "explanation": "مجرور بالإضافة."
+    },
+    {
+      "id": "g6-ara-unit-02-naat-idafa-02-idafa-lq02",
+      "type": "true_false",
+      "question": "المضاف إليه مجرور.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "حكم المضاف إليه."
+    },
+    {
+      "id": "g6-ara-unit-02-naat-idafa-02-idafa-lq03",
+      "type": "fill_blank",
+      "question": "في (بابُ المدرسةِ) المضاف هو ___.",
+      "answer": "باب",
+      "explanation": "المضاف."
+    },
+    {
+      "id": "g6-ara-unit-02-naat-idafa-02-idafa-lq04",
+      "type": "short_answer",
+      "question": "كوّن مثالاً على الإضافة.",
+      "answer": "مثل: قلمُ المعلمِ.",
+      "explanation": "الإضافة."
+    }
+  ]
+}

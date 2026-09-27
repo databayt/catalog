@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "history",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-his-unit-01-industrial-revolution-02-social-change-quiz",
+      "title": "Quiz: Social Change & Reform",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-his-unit-01-industrial-revolution-02-social-change-lq01",
+          "type": "mcq",
+          "question": "Industrial towns grew quickly, causing problems with:",
+          "options": [
+            "overcrowding/disease",
+            "too few people",
+            "no jobs",
+            "empty cities"
+          ],
+          "answer": "overcrowding/disease",
+          "explanation": "Urbanisation issues."
+        },
+        {
+          "id": "g9-his-unit-01-industrial-revolution-02-social-change-lq02",
+          "type": "true_false",
+          "question": "Reforms eventually limited child labour in factories.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Factory Acts."
+        },
+        {
+          "id": "g9-his-unit-01-industrial-revolution-02-social-change-lq03",
+          "type": "fill_blank",
+          "question": "The movement of people to cities is called ___.",
+          "answer": "urbanisation",
+          "explanation": "Urban growth."
+        },
+        {
+          "id": "g9-his-unit-01-industrial-revolution-02-social-change-lq04",
+          "type": "short_answer",
+          "question": "Why were reforms needed during industrialisation?",
+          "answer": "Poor living and working conditions endangered health and safety.",
+          "explanation": "Reform reason."
+        }
+      ]
+    }
+  ]
+}

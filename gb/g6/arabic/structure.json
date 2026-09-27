@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-tenses",
+      "slug": "c1",
       "title": {
         "ar": "الأفعال والأزمنة"
       },
       "lessons": [
         {
-          "slug": "01-tenses",
+          "slug": "l1",
           "title": {
             "ar": "الماضي والمضارع والأمر"
           }
         },
         {
-          "slug": "02-spelling",
+          "slug": "l2",
           "title": {
             "ar": "الإملاء"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-naat-idafa",
+      "slug": "c2",
       "title": {
         "ar": "النعت والإضافة"
       },
       "lessons": [
         {
-          "slug": "01-naat",
+          "slug": "l1",
           "title": {
             "ar": "النعت"
           }
         },
         {
-          "slug": "02-idafa",
+          "slug": "l2",
           "title": {
             "ar": "الإضافة"
           }

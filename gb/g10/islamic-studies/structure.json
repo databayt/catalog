@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-quran-fiqh",
+      "slug": "c1",
       "title": {
         "ar": "علوم القرآن والفقه"
       },
       "lessons": [
         {
-          "slug": "01-uloom-quran",
+          "slug": "l1",
           "title": {
             "ar": "علوم القرآن"
           }
         },
         {
-          "slug": "02-fiqh",
+          "slug": "l2",
           "title": {
             "ar": "الفقه الإسلامي"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-hadith",
+      "slug": "c2",
       "title": {
         "ar": "الحديث الشريف"
       },
       "lessons": [
         {
-          "slug": "01-hadith",
+          "slug": "l1",
           "title": {
             "ar": "من الأحاديث النبوية"
           }
         },
         {
-          "slug": "02-sunnah",
+          "slug": "l2",
           "title": {
             "ar": "السنة النبوية"
           }

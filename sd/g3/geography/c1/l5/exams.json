@@ -1,0 +1,33 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l5"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-01-exam-7263",
+      "title": "Lesson Quiz - 05-human-environment - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q005",
+          "type": "mcq",
+          "question": "اختر: عاصمة السودان هي ___",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for البيئة من حولنا."
+        }
+      ]
+    }
+  ]
+}

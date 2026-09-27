@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-rivers-coasts",
+      "slug": "c1",
       "title": {
         "en": "Rivers & Coasts"
       },
       "lessons": [
         {
-          "slug": "01-rivers",
+          "slug": "l1",
           "title": {
             "en": "River Processes & Landforms"
           }
         },
         {
-          "slug": "02-coasts",
+          "slug": "l2",
           "title": {
             "en": "Coastal Processes & Landforms"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-resources",
+      "slug": "c2",
       "title": {
         "en": "Resource Management"
       },
       "lessons": [
         {
-          "slug": "01-resources",
+          "slug": "l1",
           "title": {
             "en": "Managing Resources"
           }
         },
         {
-          "slug": "02-sustainability",
+          "slug": "l2",
           "title": {
             "en": "Sustainability"
           }

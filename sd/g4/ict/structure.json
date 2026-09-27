@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-ict-introduction",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: مقدمة إلى تكنولوجيا المعلومات"
       },
@@ -28,26 +28,26 @@
       "image": "clickview/elementary-computing-systems-cover.jpg",
       "lessons": [
         {
-          "slug": "01-ict-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم تكنولوجيا المعلومات والاتصالات"
           }
         },
         {
-          "slug": "02-data-transmission",
+          "slug": "l2",
           "title": {
             "ar": "نقل المعلومات"
           },
           "image": "clickview/elementary-networks-and-the-internet-cover.jpg"
         },
         {
-          "slug": "03-ict-applications",
+          "slug": "l3",
           "title": {
             "ar": "أهمية استخدام تطبيقات تكنولوجيا المعلومات"
           }
         },
         {
-          "slug": "04-ict-in-life",
+          "slug": "l4",
           "title": {
             "ar": "تطبيقات تكنولوجيا المعلومات في حياتنا"
           }
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "slug": "02-computer-around",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: الحاسوب من حولنا"
       },
@@ -63,25 +63,25 @@
       "image": "clickview/elementary-impacts-of-computing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-computer-at-home",
+          "slug": "l1",
           "title": {
             "ar": "الحاسوب في المنزل"
           }
         },
         {
-          "slug": "02-computer-at-school",
+          "slug": "l2",
           "title": {
             "ar": "الحاسوب في المدرسة"
           }
         },
         {
-          "slug": "03-computer-hospital",
+          "slug": "l3",
           "title": {
             "ar": "الحاسوب في المستشفى"
           }
         },
         {
-          "slug": "04-computer-work",
+          "slug": "l4",
           "title": {
             "ar": "الحاسوب في الأعمال المختلفة"
           }
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "slug": "03-computer-basics",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: أساسيات الحاسوب"
       },
@@ -97,25 +97,25 @@
       "image": "clickview/elementary-computing-systems-cover.jpg",
       "lessons": [
         {
-          "slug": "01-computer-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الحاسوب"
           }
         },
         {
-          "slug": "02-computer-components",
+          "slug": "l2",
           "title": {
             "ar": "مكونات الحاسوب"
           }
         },
         {
-          "slug": "03-input-devices",
+          "slug": "l3",
           "title": {
             "ar": "وحدات الإدخال"
           }
         },
         {
-          "slug": "04-output-devices",
+          "slug": "l4",
           "title": {
             "ar": "وحدات الإخراج"
           }
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "slug": "04-computer-safety",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: الأمان في استخدام الحاسوب"
       },
@@ -131,13 +131,13 @@
       "image": "clickview/elementary-cybersafety-cover.jpg",
       "lessons": [
         {
-          "slug": "01-open-computer",
+          "slug": "l1",
           "title": {
             "ar": "كيف تفتح جهاز الحاسوب"
           }
         },
         {
-          "slug": "02-safety-procedures",
+          "slug": "l2",
           "title": {
             "ar": "إجراءات الأمان"
           }

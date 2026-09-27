@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq01",
+      "type": "mcq",
+      "question": "In y = 2x + 1, the gradient is:",
+      "options": [
+        "1",
+        "2",
+        "x",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "Coefficient of x."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq02",
+      "type": "true_false",
+      "question": "The y-intercept of y = 2x + 1 is 1.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Constant term."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq03",
+      "type": "fill_blank",
+      "question": "A line with gradient 0 is ___.",
+      "answer": "horizontal",
+      "explanation": "Flat line."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-lq04",
+      "type": "short_answer",
+      "question": "What does the gradient tell you?",
+      "answer": "How steep the line is (rate of change).",
+      "explanation": "Gradient meaning."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq01",
+      "type": "mcq",
+      "question": "Which is a quadratic expression?",
+      "options": [
+        "2x+1",
+        "x²+3x",
+        "5",
+        "x"
+      ],
+      "answer": "x²+3x",
+      "explanation": "Has x² term."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq02",
+      "type": "true_false",
+      "question": "Factorising x² + 5x gives x(x + 5).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Common factor x."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq03",
+      "type": "fill_blank",
+      "question": "Expand (x+2)(x+3) = x² + 5x + ___.",
+      "answer": "6",
+      "explanation": "2×3."
+    },
+    {
+      "id": "g9-mat-unit-01-algebra-02-quadratics-lq04",
+      "type": "short_answer",
+      "question": "What shape is the graph of a quadratic?",
+      "answer": "A parabola.",
+      "explanation": "Curve."
+    }
+  ]
+}

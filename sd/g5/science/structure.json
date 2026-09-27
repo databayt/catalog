@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-human-body-systems",
+      "slug": "c1",
       "title": {
         "ar": "أجهزة جسم الإنسان",
         "en": "Human Body Systems"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-respiratory-system",
+          "slug": "l1",
           "title": {
             "ar": "الجهاز التنفسي",
             "en": "The Respiratory System"
@@ -41,7 +41,7 @@
           "image": "clickview/elementary-the-human-respiratory-system-cover.jpg"
         },
         {
-          "slug": "02-digestive-system",
+          "slug": "l2",
           "title": {
             "ar": "الجهاز الهضمي",
             "en": "The Digestive System"
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "slug": "02-plant-classification",
+      "slug": "c2",
       "title": {
         "ar": "تصنيف النباتات",
         "en": "Classification of Plants"
@@ -63,7 +63,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-classifying-plants",
+          "slug": "l1",
           "title": {
             "ar": "تصنيف النباتات",
             "en": "Classifying Plants"
@@ -71,7 +71,7 @@
           "page": 14
         },
         {
-          "slug": "02-vascular-plants",
+          "slug": "l2",
           "title": {
             "ar": "النباتات الوعائية",
             "en": "Vascular Plants"
@@ -79,7 +79,7 @@
           "page": 16
         },
         {
-          "slug": "03-seed-plants",
+          "slug": "l3",
           "title": {
             "ar": "النباتات البذرية",
             "en": "Seed Plants"
@@ -87,7 +87,7 @@
           "page": 17
         },
         {
-          "slug": "04-flowering-plants",
+          "slug": "l4",
           "title": {
             "ar": "النباتات الزهرية",
             "en": "Flowering Plants"
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "slug": "03-animal-classification",
+      "slug": "c3",
       "title": {
         "ar": "تصنيف الحيوانات",
         "en": "Classification of Animals"
@@ -108,7 +108,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-animals",
+          "slug": "l1",
           "title": {
             "ar": "الحيوانات",
             "en": "Animals"
@@ -116,7 +116,7 @@
           "page": 22
         },
         {
-          "slug": "02-vertebrates",
+          "slug": "l2",
           "title": {
             "ar": "الحيوانات الفقارية",
             "en": "Vertebrates"
@@ -124,7 +124,7 @@
           "page": 23
         },
         {
-          "slug": "03-invertebrates",
+          "slug": "l3",
           "title": {
             "ar": "الحيوانات غير الفقارية",
             "en": "Invertebrates"
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "slug": "04-water",
+      "slug": "c4",
       "title": {
         "ar": "الماء",
         "en": "Water"
@@ -146,7 +146,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-presence-of-water",
+          "slug": "l1",
           "title": {
             "ar": "وجود الماء",
             "en": "The Presence of Water"
@@ -154,7 +154,7 @@
           "page": 30
         },
         {
-          "slug": "02-sources-of-water",
+          "slug": "l2",
           "title": {
             "ar": "مصادر الماء",
             "en": "Sources of Water"
@@ -162,7 +162,7 @@
           "page": 31
         },
         {
-          "slug": "03-uses-of-water",
+          "slug": "l3",
           "title": {
             "ar": "استخدام الماء",
             "en": "Uses of Water"
@@ -170,7 +170,7 @@
           "page": 32
         },
         {
-          "slug": "04-properties-of-water",
+          "slug": "l4",
           "title": {
             "ar": "خواص الماء",
             "en": "Properties of Water"
@@ -178,7 +178,7 @@
           "page": 33
         },
         {
-          "slug": "05-water-cycle",
+          "slug": "l5",
           "title": {
             "ar": "دورة الماء في الطبيعة",
             "en": "The Water Cycle in Nature"
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "slug": "05-motion-and-forces",
+      "slug": "c5",
       "title": {
         "ar": "الحركة والقوى",
         "en": "Motion and Forces"
@@ -200,7 +200,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-motion",
+          "slug": "l1",
           "title": {
             "ar": "الحركة",
             "en": "Motion"
@@ -208,7 +208,7 @@
           "page": 40
         },
         {
-          "slug": "02-forces",
+          "slug": "l2",
           "title": {
             "ar": "القوى",
             "en": "Forces"
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "slug": "06-electricity",
+      "slug": "c6",
       "title": {
         "ar": "الكهرباء",
         "en": "Electricity"
@@ -229,7 +229,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-static-electricity",
+          "slug": "l1",
           "title": {
             "ar": "الكهرباء الساكنة",
             "en": "Static Electricity"
@@ -237,7 +237,7 @@
           "page": 47
         },
         {
-          "slug": "02-lightning-and-thunder",
+          "slug": "l2",
           "title": {
             "ar": "البرق والصواعق",
             "en": "Lightning and Thunderbolts"
@@ -245,7 +245,7 @@
           "page": 51
         },
         {
-          "slug": "03-uses-of-static-electricity",
+          "slug": "l3",
           "title": {
             "ar": "استخدامات الكهرباء الساكنة",
             "en": "Uses of Static Electricity"
@@ -253,7 +253,7 @@
           "page": 52
         },
         {
-          "slug": "04-current-electricity",
+          "slug": "l4",
           "title": {
             "ar": "الكهرباء التيارية",
             "en": "Current Electricity"
@@ -261,7 +261,7 @@
           "page": 53
         },
         {
-          "slug": "05-open-and-closed-circuits",
+          "slug": "l5",
           "title": {
             "ar": "الدوائر الكهربائية المفتوحة والمغلقة",
             "en": "Open and Closed Electric Circuits"
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "slug": "07-magnets",
+      "slug": "c7",
       "title": {
         "ar": "المغناطيس",
         "en": "Magnets"
@@ -282,7 +282,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-natural-magnet",
+          "slug": "l1",
           "title": {
             "ar": "المغناطيس الطبيعي",
             "en": "The Natural Magnet"
@@ -290,7 +290,7 @@
           "page": 59
         },
         {
-          "slug": "02-magnets-and-magnetic-materials",
+          "slug": "l2",
           "title": {
             "ar": "المغناطيس والمواد المغناطيسية",
             "en": "Magnets and Magnetic Materials"
@@ -298,7 +298,7 @@
           "page": 60
         },
         {
-          "slug": "03-properties-of-magnets",
+          "slug": "l3",
           "title": {
             "ar": "خصائص المغناطيس",
             "en": "Properties of Magnets"

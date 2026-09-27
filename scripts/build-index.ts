@@ -36,7 +36,7 @@ function assessments(dir: string) {
     if (existsSync(join(d, "qbank.json")))
       questions += read<QBank>(join(d, "qbank.json")).questions.length
     if (existsSync(join(d, "exams.json"))) exams += read<Exams>(join(d, "exams.json")).exams.length
-    for (const n of dirs(d)) if (/^\d{2}-/.test(n)) walk(join(d, n))
+    for (const n of dirs(d)) if (/^[cl][1-9]\d*$/.test(n)) walk(join(d, n))
   }
   walk(dir)
   return { questions, exams }

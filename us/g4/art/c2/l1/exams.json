@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "art",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g4-art-unit-02-making-01-drawing-quiz",
+      "title": "Quiz: Observational Drawing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-art-unit-02-making-01-drawing-lq01",
+          "type": "mcq",
+          "question": "Drawing what you really see in front of you is:",
+          "options": [
+            "observational drawing",
+            "copying photos",
+            "tracing",
+            "colouring only"
+          ],
+          "answer": "observational drawing",
+          "explanation": "From observation."
+        },
+        {
+          "id": "g4-art-unit-02-making-01-drawing-lq02",
+          "type": "true_false",
+          "question": "Shading can make a drawing look 3D.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tone adds depth."
+        },
+        {
+          "id": "g4-art-unit-02-making-01-drawing-lq03",
+          "type": "fill_blank",
+          "question": "Light and dark areas in a drawing are called ___.",
+          "answer": "shading",
+          "explanation": "Tone/shading."
+        },
+        {
+          "id": "g4-art-unit-02-making-01-drawing-lq04",
+          "type": "short_answer",
+          "question": "Why look carefully before drawing an object?",
+          "answer": "To capture its real shape, detail and proportions.",
+          "explanation": "Observation."
+        }
+      ]
+    }
+  ]
+}

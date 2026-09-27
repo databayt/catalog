@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-quadratics",
+      "slug": "c1",
       "title": {
         "en": "Quadratic & Polynomial Functions"
       },
       "lessons": [
         {
-          "slug": "01-quadratics",
+          "slug": "l1",
           "title": {
             "en": "Quadratic Functions"
           }
         },
         {
-          "slug": "02-polynomials",
+          "slug": "l2",
           "title": {
             "en": "Polynomials"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-exp-log",
+      "slug": "c2",
       "title": {
         "en": "Exponential & Logarithmic Functions"
       },
       "lessons": [
         {
-          "slug": "01-exponential",
+          "slug": "l1",
           "title": {
             "en": "Exponential Functions"
           }
         },
         {
-          "slug": "02-logarithms",
+          "slug": "l2",
           "title": {
             "en": "Logarithms"
           }

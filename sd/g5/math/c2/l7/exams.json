@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l7"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-02-07-reciprocal-lquiz",
+      "title": "اختبار - مقلوب الكسر",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-mat-unit-02-07-reciprocal-lq01",
+          "type": "mcq",
+          "question": "ما الخطوة الأولى لحل مسألة رياضية في الوحدة 2؟",
+          "options": [
+            "قراءة المسألة وفهمها",
+            "البدء بالحساب مباشرة",
+            "كتابة الإجابة",
+            "نسخ المسألة"
+          ],
+          "answer": "قراءة المسألة وفهمها",
+          "explanation": "فهم المسألة أولى خطوات حلها الصحيح."
+        },
+        {
+          "id": "g5-mat-unit-02-07-reciprocal-lq02",
+          "type": "true_false",
+          "question": "مجموع الزوايا الداخلية للمثلث = 180°.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "مجموع زوايا أي مثلث يساوي 180 درجة."
+        },
+        {
+          "id": "g5-mat-unit-02-07-reciprocal-lq03",
+          "type": "fill_blank",
+          "question": "ناتج 7 + 8 + 5 = ___.",
+          "answer": "20",
+          "explanation": "7 + 8 + 5 = 20."
+        },
+        {
+          "id": "g5-mat-unit-02-07-reciprocal-lq04",
+          "type": "short_answer",
+          "question": "كيف تحل المسائل الحياتية في الوحدة 2؟",
+          "answer": "نقرأ المسألة ونحدد المعطيات والمطلوب ثم نختار العملية المناسبة.",
+          "explanation": "حل المسائل الحياتية له خطوات منهجية."
+        }
+      ]
+    }
+  ]
+}

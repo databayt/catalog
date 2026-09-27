@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-lq01",
+      "type": "mcq",
+      "question": "ما النسبة المئوية لـ 45 من 150؟",
+      "options": [
+        "30%",
+        "45%",
+        "25%",
+        "35%"
+      ],
+      "answer": "30%",
+      "explanation": "(45/150) × 100 = 30%."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-lq02",
+      "type": "true_false",
+      "question": "النسبة 3:4 تساوي 75%.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "3÷4 = 0.75 = 75%."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-lq03",
+      "type": "fill_blank",
+      "question": "إذا كانت نسبة الخصم 20% وسعر السلعة 500، فقيمة الخصم = ___ جنيه.",
+      "answer": "100",
+      "explanation": "الخصم = 20% × 500 = 100 جنيه."
+    },
+    {
+      "id": "g6-mat-unit-03-01-percentage-concept-lq04",
+      "type": "short_answer",
+      "question": "كيف تحسب النسبة المئوية؟",
+      "answer": "نقسم الجزء على الكل ونضرب في 100.",
+      "explanation": "النسبة المئوية = (الجزء ÷ الكل) × 100%."
+    }
+  ]
+}

@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-quran",
+      "slug": "c1",
       "title": {
         "ar": "القرآن الكريم وقصار السور"
       },
       "lessons": [
         {
-          "slug": "01-short-surahs",
+          "slug": "l1",
           "title": {
             "ar": "قصار السور"
           }
         },
         {
-          "slug": "02-hajj",
+          "slug": "l2",
           "title": {
             "ar": "الحج"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-akhlaq",
+      "slug": "c2",
       "title": {
         "ar": "الأخلاق الحميدة"
       },
       "lessons": [
         {
-          "slug": "01-mercy",
+          "slug": "l1",
           "title": {
             "ar": "الرحمة"
           }
         },
         {
-          "slug": "02-cooperation",
+          "slug": "l2",
           "title": {
             "ar": "التعاون"
           }

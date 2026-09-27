@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq01",
+      "type": "mcq",
+      "question": "Which is passive?",
+      "options": [
+        "The cat chased the mouse.",
+        "The mouse was chased.",
+        "Run now!",
+        "Cats sleep."
+      ],
+      "answer": "The mouse was chased.",
+      "explanation": "Subject receives action."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq02",
+      "type": "true_false",
+      "question": "Passive voice can hide who did the action.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Agent optional."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq03",
+      "type": "fill_blank",
+      "question": "Active: 'The chef cooked the meal.' Passive: 'The meal was ___ by the chef.'",
+      "answer": "cooked",
+      "explanation": "Passive form."
+    },
+    {
+      "id": "g6-eng-unit-02-grammar-01-active-passive-lq04",
+      "type": "short_answer",
+      "question": "When is passive voice useful?",
+      "answer": "When the doer is unknown or unimportant.",
+      "explanation": "Use of passive."
+    }
+  ]
+}

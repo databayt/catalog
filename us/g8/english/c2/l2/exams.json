@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-02-language-02-clauses-quiz",
+      "title": "Quiz: Phrases & Clauses",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-eng-unit-02-language-02-clauses-lq01",
+          "type": "mcq",
+          "question": "An independent clause:",
+          "options": [
+            "cannot stand alone",
+            "is a complete sentence",
+            "has no verb",
+            "is one word"
+          ],
+          "answer": "is a complete sentence",
+          "explanation": "Stands alone."
+        },
+        {
+          "id": "g8-eng-unit-02-language-02-clauses-lq02",
+          "type": "true_false",
+          "question": "A dependent clause can stand alone.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "It cannot."
+        },
+        {
+          "id": "g8-eng-unit-02-language-02-clauses-lq03",
+          "type": "fill_blank",
+          "question": "Joining two independent clauses with 'and' makes a ___ sentence.",
+          "answer": "compound",
+          "explanation": "Compound."
+        },
+        {
+          "id": "g8-eng-unit-02-language-02-clauses-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a complex sentence.",
+          "answer": "e.g., 'Because it rained, we stayed inside.'",
+          "explanation": "Dependent + independent."
+        }
+      ]
+    }
+  ]
+}

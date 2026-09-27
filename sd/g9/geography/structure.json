@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-physical-geography-of-sudan",
+      "slug": "c1",
       "title": {
         "ar": "جغرافية السودان الطبيعية",
         "en": "Physical Geography of Sudan"
@@ -29,48 +29,48 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "lessons": [
         {
-          "slug": "01-location-and-area",
+          "slug": "l1",
           "title": {
             "ar": "السودان: الموقع والمساحة"
           }
         },
         {
-          "slug": "02-terrain",
+          "slug": "l2",
           "title": {
             "ar": "السطح والتضاريس"
           },
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "03-climate",
+          "slug": "l3",
           "title": {
             "ar": "المناخ"
           },
           "image": "clickview/middle-climate-and-weather-cover.jpg"
         },
         {
-          "slug": "04-soil",
+          "slug": "l4",
           "title": {
             "ar": "التربة"
           },
           "image": "clickview/high-soil-cover.jpg"
         },
         {
-          "slug": "05-natural-vegetation",
+          "slug": "l5",
           "title": {
             "ar": "النباتات الطبيعية"
           },
           "image": "clickview/middle-jungles-forests-and-woods-cover.jpg"
         },
         {
-          "slug": "06-nile-basin",
+          "slug": "l6",
           "title": {
             "ar": "حوض نهر النيل"
           },
           "image": "clickview/middle-rivers-cover.jpg"
         },
         {
-          "slug": "07-water-resources",
+          "slug": "l7",
           "title": {
             "ar": "الموارد المائية في السودان"
           },
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "slug": "02-human-geography-of-sudan",
+      "slug": "c2",
       "title": {
         "ar": "جغرافية السودان البشرية",
         "en": "Human Geography of Sudan"
@@ -88,56 +88,56 @@
       "image": "clickview/high-the-global-economy-cover.jpg",
       "lessons": [
         {
-          "slug": "01-population",
+          "slug": "l1",
           "title": {
             "ar": "سكان السودان"
           },
           "image": "clickview/middle-population-and-urbanization-cover.jpg"
         },
         {
-          "slug": "02-agricultural-activity",
+          "slug": "l2",
           "title": {
             "ar": "النشاط الزراعي"
           },
           "image": "clickview/high-regenerative-agriculture-cover.jpg"
         },
         {
-          "slug": "03-animal-production-and-fisheries",
+          "slug": "l3",
           "title": {
             "ar": "الإنتاج الحيواني والثروة السمكية"
           },
           "image": "clickview/high-food-origins-cover.jpg"
         },
         {
-          "slug": "04-forestry",
+          "slug": "l4",
           "title": {
             "ar": "الإنتاج الغابي"
           },
           "image": "clickview/high-ecosystem-energy-and-health-cover.jpg"
         },
         {
-          "slug": "05-energy-petroleum-minerals",
+          "slug": "l5",
           "title": {
             "ar": "الطاقة والبترول والإنتاج المعدني"
           },
           "image": "clickview/high-forms-of-energy-cover.jpg"
         },
         {
-          "slug": "06-industrial-production",
+          "slug": "l6",
           "title": {
             "ar": "الإنتاج الصناعي"
           },
           "image": "clickview/high-multinational-corporations-cover.jpg"
         },
         {
-          "slug": "07-transport-communications-tourism",
+          "slug": "l7",
           "title": {
             "ar": "النقل والاتصالات والسياحة"
           },
           "image": "clickview/high-global-tourism-cover.jpg"
         },
         {
-          "slug": "08-foreign-trade-food-security",
+          "slug": "l8",
           "title": {
             "ar": "التجارة الخارجية والأمن الغذائي"
           },
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "slug": "03-environmental-problems-in-sudan",
+      "slug": "c3",
       "title": {
         "ar": "المشكلات البيئية في السودان",
         "en": "Environmental Problems in Sudan"
@@ -155,70 +155,70 @@
       "image": "clickview/high-climate-change-cover.jpg",
       "lessons": [
         {
-          "slug": "01-environment-and-ecosystems",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم البيئة والنظم البيئية"
           },
           "image": "clickview/high-ecosystem-energy-and-health-cover.jpg"
         },
         {
-          "slug": "02-air-pollution",
+          "slug": "l2",
           "title": {
             "ar": "تلوث الهواء"
           },
           "image": "clickview/high-atmosphere-cover.jpg"
         },
         {
-          "slug": "03-water-pollution",
+          "slug": "l3",
           "title": {
             "ar": "تلوث المياه"
           },
           "image": "clickview/high-water-cover.jpg"
         },
         {
-          "slug": "04-soil-pollution",
+          "slug": "l4",
           "title": {
             "ar": "تلوث التربة"
           },
           "image": "clickview/high-soil-cover.jpg"
         },
         {
-          "slug": "05-desertification",
+          "slug": "l5",
           "title": {
             "ar": "مشكلة التصحر في السودان"
           },
           "image": "clickview/high-deserts-cover.jpg"
         },
         {
-          "slug": "06-forestry-problems",
+          "slug": "l6",
           "title": {
             "ar": "مشكلات القطاع الغابي في السودان"
           },
           "image": "clickview/high-deforestation-cover.jpg"
         },
         {
-          "slug": "07-waste-problem",
+          "slug": "l7",
           "title": {
             "ar": "مشكلة النفايات"
           },
           "image": "clickview/high-waste-land-cover.jpg"
         },
         {
-          "slug": "08-artisanal-mining",
+          "slug": "l8",
           "title": {
             "ar": "التعدين الأهلي وأثره على البيئة"
           },
           "image": "clickview/high-natural-resources-cover.jpg"
         },
         {
-          "slug": "09-wars-poverty-migration",
+          "slug": "l9",
           "title": {
             "ar": "الأثر البيئي للحروب والفقر والهجرة"
           },
           "image": "clickview/high-migration-cover.jpg"
         },
         {
-          "slug": "10-environmental-awareness",
+          "slug": "l10",
           "title": {
             "ar": "دور الثقافة والتوعية البيئية والمجتمع المدني"
           },

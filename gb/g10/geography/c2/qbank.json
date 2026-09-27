@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "geography",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq01",
+      "type": "mcq",
+      "question": "Erosion that breaks rock by waves throwing pebbles is:",
+      "options": [
+        "abrasion",
+        "solution",
+        "attrition",
+        "hydraulic"
+      ],
+      "answer": "abrasion",
+      "explanation": "Coastal abrasion."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq02",
+      "type": "true_false",
+      "question": "Headlands and bays form along coasts of differing rock hardness.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Differential erosion."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq03",
+      "type": "fill_blank",
+      "question": "A ridge of deposited material across a bay is a ___.",
+      "answer": "bar",
+      "explanation": "Coastal bar."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-01-coasts-lq04",
+      "type": "short_answer",
+      "question": "Name a hard-engineering coastal defence.",
+      "answer": "e.g., a sea wall, groynes, or rock armour.",
+      "explanation": "Coastal defence."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-02-rivers-lq01",
+      "type": "mcq",
+      "question": "In a river's upper course it mainly:",
+      "options": [
+        "deposits",
+        "erodes vertically",
+        "floods deltas",
+        "stops"
+      ],
+      "answer": "erodes vertically",
+      "explanation": "Upper course erosion."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-02-rivers-lq02",
+      "type": "true_false",
+      "question": "Flooding can be managed with hard and soft engineering.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Flood management."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-02-rivers-lq03",
+      "type": "fill_blank",
+      "question": "A loop of a river cut off to form a lake is an ox-bow ___.",
+      "answer": "lake",
+      "explanation": "Ox-bow lake."
+    },
+    {
+      "id": "g10-geo-unit-02-physical-landscapes-02-rivers-lq04",
+      "type": "short_answer",
+      "question": "Why does deposition increase in a river's lower course?",
+      "answer": "The river slows and loses energy, dropping its load.",
+      "explanation": "Deposition."
+    }
+  ]
+}

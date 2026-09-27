@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g11-soc-unit-02-modern-america-02-contemporary-quiz",
+      "title": "Quiz: Contemporary Issues",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-soc-unit-02-modern-america-02-contemporary-lq01",
+          "type": "mcq",
+          "question": "Analyzing current events requires evaluating:",
+          "options": [
+            "sources",
+            "fonts only",
+            "prices only",
+            "colors"
+          ],
+          "answer": "sources",
+          "explanation": "Source evaluation."
+        },
+        {
+          "id": "g11-soc-unit-02-modern-america-02-contemporary-lq02",
+          "type": "true_false",
+          "question": "Citizens influence government through voting and activism.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Civic participation."
+        },
+        {
+          "id": "g11-soc-unit-02-modern-america-02-contemporary-lq03",
+          "type": "fill_blank",
+          "question": "Examining bias and reliability is evaluating a ___.",
+          "answer": "source",
+          "explanation": "Media literacy."
+        },
+        {
+          "id": "g11-soc-unit-02-modern-america-02-contemporary-lq04",
+          "type": "short_answer",
+          "question": "Why is media literacy important today?",
+          "answer": "To judge the reliability of information and avoid misinformation.",
+          "explanation": "Media literacy."
+        }
+      ]
+    }
+  ]
+}

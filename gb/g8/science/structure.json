@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-physics",
+      "slug": "c1",
       "title": {
         "en": "Physics: Forces & Energy"
       },
       "lessons": [
         {
-          "slug": "01-forces",
+          "slug": "l1",
           "title": {
             "en": "Forces"
           }
         },
         {
-          "slug": "02-energy",
+          "slug": "l2",
           "title": {
             "en": "Energy Transfers"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-biology",
+      "slug": "c2",
       "title": {
         "en": "Biology: Body Systems"
       },
       "lessons": [
         {
-          "slug": "01-digestion",
+          "slug": "l1",
           "title": {
             "en": "Digestion & Nutrition"
           }
         },
         {
-          "slug": "02-respiration",
+          "slug": "l2",
           "title": {
             "en": "Respiration"
           }

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-place-value-multidigit",
+      "slug": "c1",
       "title": {
         "en": "Place Value & Multi-Digit Arithmetic"
       },
       "lessons": [
         {
-          "slug": "01-place-value-millions",
+          "slug": "l1",
           "title": {
             "en": "Place Value to Millions"
           }
         },
         {
-          "slug": "02-multiply-multidigit",
+          "slug": "l2",
           "title": {
             "en": "Multi-Digit Multiplication"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-fractions-decimals",
+      "slug": "c2",
       "title": {
         "en": "Fractions & Decimals"
       },
       "lessons": [
         {
-          "slug": "01-add-sub-fractions",
+          "slug": "l1",
           "title": {
             "en": "Adding & Subtracting Fractions"
           }
         },
         {
-          "slug": "02-decimal-notation",
+          "slug": "l2",
           "title": {
             "en": "Decimal Notation"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-geometry-angles",
+      "slug": "c3",
       "title": {
         "en": "Geometry & Angles"
       },
       "lessons": [
         {
-          "slug": "01-angle-types",
+          "slug": "l1",
           "title": {
             "en": "Types of Angles"
           }
         },
         {
-          "slug": "02-lines-symmetry",
+          "slug": "l2",
           "title": {
             "en": "Lines & Symmetry"
           }

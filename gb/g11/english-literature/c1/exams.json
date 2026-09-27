@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english-literature",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-unit-01-modern-exam",
+      "title": "Exam: Modern Texts",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq01",
+          "type": "mcq",
+          "question": "A modern play exploring responsibility examines:",
+          "options": [
+            "only romance",
+            "social/moral responsibility",
+            "cooking",
+            "sport"
+          ],
+          "answer": "social/moral responsibility",
+          "explanation": "Modern themes."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq02",
+          "type": "true_false",
+          "question": "Stage directions can convey meaning in a play.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Dramatic method."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq03",
+          "type": "fill_blank",
+          "question": "A message a writer conveys about society is a ___.",
+          "answer": "theme",
+          "explanation": "Theme."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq04",
+          "type": "short_answer",
+          "question": "How do writers present their ideas?",
+          "answer": "Through characters, structure, language and dramatic methods.",
+          "explanation": "Methods."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-02-character-lq01",
+          "type": "mcq",
+          "question": "'Method' in literature means the writer's:",
+          "options": [
+            "techniques",
+            "handwriting",
+            "publisher",
+            "price"
+          ],
+          "answer": "techniques",
+          "explanation": "Authorial methods."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-02-character-lq02",
+          "type": "true_false",
+          "question": "Analysing method means examining how a writer creates effects.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "How, not just what."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-02-character-lq03",
+          "type": "fill_blank",
+          "question": "Quoting precisely and analysing words is close ___.",
+          "answer": "reading",
+          "explanation": "Close analysis."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-02-character-lq04",
+          "type": "short_answer",
+          "question": "Why analyse a writer's methods?",
+          "answer": "To show how meaning and effect are deliberately crafted.",
+          "explanation": "Methods."
+        }
+      ]
+    }
+  ]
+}

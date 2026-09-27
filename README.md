@@ -19,6 +19,7 @@ sd/g6/math/qbank.json          ←→  https://cdn.databayt.org/catalog/sd/g6/ma
 sd/g6/math/structure.json      ←→  https://cdn.databayt.org/catalog/sd/g6/math/structure.json
 sd/g6/math/textbook.pdf        ←→  https://cdn.databayt.org/catalog/sd/g6/math/textbook.pdf
 sd/g6/math/thumbnail.jpg       ←→  https://cdn.databayt.org/catalog/sd/g6/math/thumbnail.jpg
+sd/g6/math/c1/l3/qbank.json    ←→  https://cdn.databayt.org/catalog/sd/g6/math/c1/l3/qbank.json
 index.json                     ←→  https://cdn.databayt.org/catalog/index.json
 schema/structure.schema.json   ←→  https://cdn.databayt.org/catalog/schema/structure.schema.json
 
@@ -41,9 +42,9 @@ schema/                              zod source + generated *.schema.json
       pages-md/<N>.md                per-page twin + _CONTRACT.md
       qbank.json   exams.json        subject-level question pool and assessments
       textbook.pdf  cover.jpg  thumbnail.jpg  banner.jpg  pages/<N>.webp   ← binaries, on the CDN
-      <NN-chapter>/
+      c<N>/                          chapter N (book order): c1, c2 …
         qbank.json  exams.json
-        <NN-lesson>/
+        l<N>/                        lesson N within the chapter: l1, l2 …
           qbank.json  exams.json
 ```
 
@@ -52,7 +53,7 @@ The validator allows only these files and folders.
 ### Naming
 
 - Every path segment is **ASCII kebab-case**. Arabic, English and French live in `title: { ar, en, fr }`, never in a path.
-- Chapter and lesson folders are **`NN-topic`**, such as `01-asexual-reproduction`. The number gives the order, and the prefix keeps them apart from `pages/`.
+- Chapters and lessons are **positional**, like grades: `c1`, `c2` … and, inside a chapter, `l1`, `l2` … So `sd/g6/math/c1/l3` means grade 6 math, chapter 1, lesson 3, and any app can build it from numbers. The words live in `structure.json` titles, so fixing a title never moves a URL.
 - Subjects come from a **controlled vocabulary** ([`vocab/subjects.json`](vocab/subjects.json)). `islamic`, `islamic-education` and `islamic-studies` are one subject: `islamic-studies`. Old names are kept as aliases.
 - Curriculum ids are the lowercased DB `Curriculum.code`: `sd`, `gb`, `us`, `cbse`, `ib-dp`, `caie-igcse`.
 

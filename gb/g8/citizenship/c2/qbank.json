@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "citizenship",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g8-cit-unit-02-society-01-community-lq01",
+      "type": "mcq",
+      "question": "An active citizen contributes to their:",
+      "options": [
+        "community",
+        "fonts",
+        "weather",
+        "prices"
+      ],
+      "answer": "community",
+      "explanation": "Active citizenship."
+    },
+    {
+      "id": "g8-cit-unit-02-society-01-community-lq02",
+      "type": "true_false",
+      "question": "Diversity can strengthen a community.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Diversity."
+    },
+    {
+      "id": "g8-cit-unit-02-society-01-community-lq03",
+      "type": "fill_blank",
+      "question": "Volunteering to help others is a form of active ___.",
+      "answer": "citizenship",
+      "explanation": "Citizenship."
+    },
+    {
+      "id": "g8-cit-unit-02-society-01-community-lq04",
+      "type": "short_answer",
+      "question": "Name one way to contribute to your community.",
+      "answer": "e.g., volunteering, voting, or respecting others.",
+      "explanation": "Community."
+    },
+    {
+      "id": "g8-cit-unit-02-society-02-economy-lq01",
+      "type": "mcq",
+      "question": "Paying taxes helps fund public services like:",
+      "options": [
+        "schools and hospitals",
+        "video games",
+        "private jets",
+        "nothing"
+      ],
+      "answer": "schools and hospitals",
+      "explanation": "Public goods."
+    },
+    {
+      "id": "g8-cit-unit-02-society-02-economy-lq02",
+      "type": "true_false",
+      "question": "Consumers make choices that affect the economy.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Economic role."
+    },
+    {
+      "id": "g8-cit-unit-02-society-02-economy-lq03",
+      "type": "fill_blank",
+      "question": "Money collected by government to fund services is ___.",
+      "answer": "tax",
+      "explanation": "Taxation."
+    },
+    {
+      "id": "g8-cit-unit-02-society-02-economy-lq04",
+      "type": "short_answer",
+      "question": "Why do governments collect taxes?",
+      "answer": "To pay for public services that benefit everyone.",
+      "explanation": "Taxes."
+    }
+  ]
+}

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-world-geography",
+      "slug": "c1",
       "title": {
         "en": "World Geography"
       },
       "lessons": [
         {
-          "slug": "01-continents-climate",
+          "slug": "l1",
           "title": {
             "en": "Continents & Climate"
           }
         },
         {
-          "slug": "02-human-geography",
+          "slug": "l2",
           "title": {
             "en": "Human Geography"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-ancient-civilizations",
+      "slug": "c2",
       "title": {
         "en": "Ancient Civilizations"
       },
       "lessons": [
         {
-          "slug": "01-river-civilizations",
+          "slug": "l1",
           "title": {
             "en": "River Valley Civilizations"
           }
         },
         {
-          "slug": "02-contributions",
+          "slug": "l2",
           "title": {
             "en": "Contributions of Civilizations"
           }

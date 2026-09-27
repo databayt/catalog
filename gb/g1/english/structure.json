@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-phonics",
+      "slug": "c1",
       "title": {
         "en": "Phonics (Letters & Sounds)"
       },
       "lessons": [
         {
-          "slug": "01-graphemes",
+          "slug": "l1",
           "title": {
             "en": "Graphemes & Phonemes"
           }
         },
         {
-          "slug": "02-tricky-words",
+          "slug": "l2",
           "title": {
             "en": "Common (Tricky) Words"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-reading",
+      "slug": "c2",
       "title": {
         "en": "Reading & Comprehension"
       },
       "lessons": [
         {
-          "slug": "01-predict",
+          "slug": "l1",
           "title": {
             "en": "Predicting"
           }
         },
         {
-          "slug": "02-sequence",
+          "slug": "l2",
           "title": {
             "en": "Story Sequence"
           }

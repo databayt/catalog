@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-words",
+      "slug": "c1",
       "title": {
         "ar": "المقاطع والكلمات"
       },
       "lessons": [
         {
-          "slug": "01-syllables",
+          "slug": "l1",
           "title": {
             "ar": "تكوين الكلمات"
           }
         },
         {
-          "slug": "02-reading",
+          "slug": "l2",
           "title": {
             "ar": "القراءة البسيطة"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-sentence",
+      "slug": "c2",
       "title": {
         "ar": "الجملة المفيدة"
       },
       "lessons": [
         {
-          "slug": "01-make-sentence",
+          "slug": "l1",
           "title": {
             "ar": "تكوين الجملة"
           }
         },
         {
-          "slug": "02-word-order",
+          "slug": "l2",
           "title": {
             "ar": "ترتيب الكلمات"
           }

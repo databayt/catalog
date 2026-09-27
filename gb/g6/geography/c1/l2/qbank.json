@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g6-geo-unit-01-trade-resources-02-trade-lq01",
+      "type": "mcq",
+      "question": "Trade is the buying and ___ of goods.",
+      "options": [
+        "hiding",
+        "selling",
+        "losing",
+        "burning"
+      ],
+      "answer": "selling",
+      "explanation": "Exchange."
+    },
+    {
+      "id": "g6-geo-unit-01-trade-resources-02-trade-lq02",
+      "type": "true_false",
+      "question": "Countries trade goods they have for goods they need.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Imports/exports."
+    },
+    {
+      "id": "g6-geo-unit-01-trade-resources-02-trade-lq03",
+      "type": "fill_blank",
+      "question": "Goods bought from another country are ___.",
+      "answer": "imports",
+      "explanation": "Imports."
+    },
+    {
+      "id": "g6-geo-unit-01-trade-resources-02-trade-lq04",
+      "type": "short_answer",
+      "question": "Why do countries trade with each other?",
+      "answer": "To obtain goods they cannot produce as easily themselves.",
+      "explanation": "Trade reason."
+    }
+  ]
+}

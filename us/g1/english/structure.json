@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-phonics",
+      "slug": "c1",
       "title": {
         "en": "Phonics & Word Recognition"
       },
       "lessons": [
         {
-          "slug": "01-short-vowels",
+          "slug": "l1",
           "title": {
             "en": "Short Vowel Sounds"
           }
         },
         {
-          "slug": "02-blends-digraphs",
+          "slug": "l2",
           "title": {
             "en": "Blends & Digraphs"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-reading",
+      "slug": "c2",
       "title": {
         "en": "Reading Comprehension"
       },
       "lessons": [
         {
-          "slug": "01-main-idea",
+          "slug": "l1",
           "title": {
             "en": "Finding the Main Idea"
           }
         },
         {
-          "slug": "02-story-elements",
+          "slug": "l2",
           "title": {
             "en": "Characters, Setting & Events"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-writing",
+      "slug": "c3",
       "title": {
         "en": "Writing & Grammar"
       },
       "lessons": [
         {
-          "slug": "01-sentences",
+          "slug": "l1",
           "title": {
             "en": "Complete Sentences"
           }
         },
         {
-          "slug": "02-nouns-verbs",
+          "slug": "l2",
           "title": {
             "en": "Nouns & Verbs"
           }

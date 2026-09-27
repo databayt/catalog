@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g2-uae-unit-02-respect-02-honesty-lq01",
+      "type": "mcq",
+      "question": "Trust grows when people are:",
+      "options": [
+        "honest",
+        "dishonest",
+        "unkind",
+        "late"
+      ],
+      "answer": "honest",
+      "explanation": "Trust from honesty."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-02-honesty-lq02",
+      "type": "true_false",
+      "question": "Keeping a promise builds trust.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Reliability."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-02-honesty-lq03",
+      "type": "fill_blank",
+      "question": "Being truthful and reliable earns people's ___.",
+      "answer": "trust",
+      "explanation": "Trust."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-02-honesty-lq04",
+      "type": "short_answer",
+      "question": "Why do we value honesty?",
+      "answer": "It builds trust and strong relationships.",
+      "explanation": "Honesty."
+    }
+  ]
+}

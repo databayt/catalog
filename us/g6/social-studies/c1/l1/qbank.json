@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq01",
+      "type": "mcq",
+      "question": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "options": [
+        "equator",
+        "prime meridian",
+        "tropic",
+        "border"
+      ],
+      "answer": "equator",
+      "explanation": "0° latitude."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq02",
+      "type": "true_false",
+      "question": "Latitude affects a place's climate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Climate factor."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq03",
+      "type": "fill_blank",
+      "question": "Lines measuring distance north or south of the equator are ___.",
+      "answer": "latitude",
+      "explanation": "Latitude."
+    },
+    {
+      "id": "g6-soc-unit-01-world-geography-01-continents-climate-lq04",
+      "type": "short_answer",
+      "question": "How does location affect climate?",
+      "answer": "Latitude, altitude and nearness to water all influence climate.",
+      "explanation": "Climate factors."
+    }
+  ]
+}

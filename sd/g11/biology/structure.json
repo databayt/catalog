@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1-nutrition-in-living-organisms",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: التغذية في الكائنات الحية",
         "en": "Unit 1: Nutrition in Living Organisms"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-importance-of-food-and-the-food-groups",
+          "slug": "l1",
           "title": {
             "ar": "أهمية الغذاء والمجموعات الغذائية",
             "en": "The Importance of Food and the Food Groups"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "02-malnutrition-diseases",
+          "slug": "l2",
           "title": {
             "ar": "أمراض سوء التغذية",
             "en": "Malnutrition Diseases"
@@ -57,7 +57,7 @@
           "image": "clickview/high-pathology-cover.jpg"
         },
         {
-          "slug": "03-forms-of-nutrition-autotrophic-nutrition-and",
+          "slug": "l3",
           "title": {
             "ar": "أشكال التغذية في الكائنات الحية: التغذية الذاتية والبناء الضوئي",
             "en": "Forms of Nutrition: Autotrophic Nutrition and Photosynthesis"
@@ -65,7 +65,7 @@
           "page": 15
         },
         {
-          "slug": "04-heterotrophic-nutrition-animal-nutrition",
+          "slug": "l4",
           "title": {
             "ar": "التغذية غير الذاتية: التغذية في الحيوانات",
             "en": "Heterotrophic Nutrition: Animal Nutrition"
@@ -73,7 +73,7 @@
           "page": 23
         },
         {
-          "slug": "05-nutrition-and-digestion-in-heterotrophs",
+          "slug": "l5",
           "title": {
             "ar": "مدخل عام للتغذية والهضم في الكائنات غير ذاتية التغذية",
             "en": "Nutrition and Digestion in Heterotrophs"
@@ -81,7 +81,7 @@
           "page": 30
         },
         {
-          "slug": "06-the-human-digestive-system",
+          "slug": "l6",
           "title": {
             "ar": "الجهاز الهضمي في الإنسان",
             "en": "The Human Digestive System"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "slug": "02-unit-2-transport-in-living-organisms",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: النقل في الكائنات الحية",
         "en": "Unit 2: Transport in Living Organisms"
@@ -103,7 +103,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-transport-in-plants",
+          "slug": "l1",
           "title": {
             "ar": "النقل في النبات",
             "en": "Transport in Plants"
@@ -112,7 +112,7 @@
           "image": "clickview/high-plants-cover.jpg"
         },
         {
-          "slug": "02-transport-in-animals-circulatory-systems",
+          "slug": "l2",
           "title": {
             "ar": "النقل في الحيوان: الأجهزة الدورية",
             "en": "Transport in Animals: Circulatory Systems"
@@ -120,7 +120,7 @@
           "page": 61
         },
         {
-          "slug": "03-the-human-circulatory-system",
+          "slug": "l3",
           "title": {
             "ar": "الجهاز الدوري في الإنسان",
             "en": "The Human Circulatory System"
@@ -128,7 +128,7 @@
           "page": 64
         },
         {
-          "slug": "04-blood-functions-and-clotting",
+          "slug": "l4",
           "title": {
             "ar": "الدم ووظائفه وتجلطه",
             "en": "Blood: Functions and Clotting"
@@ -136,7 +136,7 @@
           "page": 70
         },
         {
-          "slug": "05-the-lymphatic-system",
+          "slug": "l5",
           "title": {
             "ar": "الجهاز اللمفاوي",
             "en": "The Lymphatic System"
@@ -144,7 +144,7 @@
           "page": 80
         },
         {
-          "slug": "06-blood-groups-and-the-rhesus-factor",
+          "slug": "l6",
           "title": {
             "ar": "فصائل الدم والعامل الريصي",
             "en": "Blood Groups and the Rhesus Factor"
@@ -152,7 +152,7 @@
           "page": 84
         },
         {
-          "slug": "07-health-of-the-circulatory-system",
+          "slug": "l7",
           "title": {
             "ar": "صحة الجهاز الدوري",
             "en": "Health of the Circulatory System"
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "slug": "03-unit-3-respiration-in-living-organisms",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: التنفس في الكائنات الحية",
         "en": "Unit 3: Respiration in Living Organisms"
@@ -173,7 +173,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-respiration-in-plants",
+          "slug": "l1",
           "title": {
             "ar": "التنفس في النبات",
             "en": "Respiration in Plants"
@@ -181,7 +181,7 @@
           "page": 97
         },
         {
-          "slug": "02-respiration-in-animals",
+          "slug": "l2",
           "title": {
             "ar": "التنفس في الحيوان",
             "en": "Respiration in Animals"
@@ -189,7 +189,7 @@
           "page": 102
         },
         {
-          "slug": "03-the-human-respiratory-system",
+          "slug": "l3",
           "title": {
             "ar": "جهاز التنفس في الإنسان",
             "en": "The Human Respiratory System"
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "slug": "04-unit-4-excretion-in-living-organisms",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: الإخراج في الكائنات الحية",
         "en": "Unit 4: Excretion in Living Organisms"
@@ -210,7 +210,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-excretion-in-plants",
+          "slug": "l1",
           "title": {
             "ar": "الإخراج في النبات",
             "en": "Excretion in Plants"
@@ -218,7 +218,7 @@
           "page": 114
         },
         {
-          "slug": "02-excretory-products-in-plants-and-transpiration",
+          "slug": "l2",
           "title": {
             "ar": "المواد الإخراجية في النبات والنتح",
             "en": "Excretory Products in Plants and Transpiration"
@@ -226,7 +226,7 @@
           "page": 115
         },
         {
-          "slug": "03-excretion-in-animals",
+          "slug": "l3",
           "title": {
             "ar": "الإخراج في الحيوان",
             "en": "Excretion in Animals"
@@ -234,7 +234,7 @@
           "page": 120
         },
         {
-          "slug": "04-excretion-in-humans-the-kidney-and-urine",
+          "slug": "l4",
           "title": {
             "ar": "الإخراج في الإنسان: الكلية والبول",
             "en": "Excretion in Humans: The Kidney and Urine"
@@ -242,7 +242,7 @@
           "page": 121
         },
         {
-          "slug": "05-the-skin-structure-and-functions",
+          "slug": "l5",
           "title": {
             "ar": "الجلد: تركيبه ووظائفه",
             "en": "The Skin: Structure and Functions"
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "slug": "05-unit-5-co-ordination-in-living-organisms",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة: التنسيق في الكائنات الحية",
         "en": "Unit 5: Co-ordination in Living Organisms"
@@ -263,7 +263,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-growth-and-differentiation",
+          "slug": "l1",
           "title": {
             "ar": "النمو والتمايز",
             "en": "Growth and Differentiation"
@@ -271,7 +271,7 @@
           "page": 136
         },
         {
-          "slug": "02-hormonal-co-ordination-in-plants",
+          "slug": "l2",
           "title": {
             "ar": "التنسيق الهرموني في النباتات",
             "en": "Hormonal Co-ordination in Plants"
@@ -280,7 +280,7 @@
           "image": "clickview/high-plants-cover.jpg"
         },
         {
-          "slug": "03-hormonal-co-ordination-in-animals-endocrine",
+          "slug": "l3",
           "title": {
             "ar": "التنسيق الهرموني في الحيوانات: الغدد الصماء",
             "en": "Hormonal Co-ordination in Animals: Endocrine Glands"
@@ -289,7 +289,7 @@
           "image": "clickview/high-the-endocrine-system-cover.jpg"
         },
         {
-          "slug": "04-the-nervous-system",
+          "slug": "l4",
           "title": {
             "ar": "الجهاز العصبي",
             "en": "The Nervous System"
@@ -297,7 +297,7 @@
           "page": 151
         },
         {
-          "slug": "05-structure-of-the-human-nervous-system",
+          "slug": "l5",
           "title": {
             "ar": "تركيب الجهاز العصبي في الإنسان",
             "en": "Structure of the Human Nervous System"
@@ -305,7 +305,7 @@
           "page": 154
         },
         {
-          "slug": "06-sense-organs-the-eye",
+          "slug": "l6",
           "title": {
             "ar": "أعضاء الاستقبال الحسية: العين",
             "en": "Sense Organs: The Eye"
@@ -313,7 +313,7 @@
           "page": 161
         },
         {
-          "slug": "07-organs-of-hearing-and-balance",
+          "slug": "l7",
           "title": {
             "ar": "أعضاء السمع والتوازن",
             "en": "Organs of Hearing and Balance"
@@ -321,7 +321,7 @@
           "page": 168
         },
         {
-          "slug": "08-organs-of-taste-and-smell",
+          "slug": "l8",
           "title": {
             "ar": "أعضاء التذوق والشم",
             "en": "Organs of Taste and Smell"

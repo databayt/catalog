@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-sustainability",
+      "slug": "c1",
       "title": {
         "en": "Sustainability & the Environment"
       },
       "lessons": [
         {
-          "slug": "01-environment",
+          "slug": "l1",
           "title": {
             "en": "Protecting the Environment"
           }
         },
         {
-          "slug": "02-vision",
+          "slug": "l2",
           "title": {
             "en": "National Vision"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-responsibility",
+      "slug": "c2",
       "title": {
         "en": "Social Responsibility"
       },
       "lessons": [
         {
-          "slug": "01-volunteering",
+          "slug": "l1",
           "title": {
             "en": "Volunteering & Giving"
           }
         },
         {
-          "slug": "02-digital-citizenship",
+          "slug": "l2",
           "title": {
             "en": "Digital Citizenship"
           }

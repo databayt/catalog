@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-economy",
+      "slug": "c1",
       "title": {
         "en": "Economy & Development"
       },
       "lessons": [
         {
-          "slug": "01-economy",
+          "slug": "l1",
           "title": {
             "en": "The UAE Economy"
           }
         },
         {
-          "slug": "02-sustainable-dev",
+          "slug": "l2",
           "title": {
             "en": "Sustainable Development"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-ethics",
+      "slug": "c2",
       "title": {
         "en": "Ethics & Responsibility"
       },
       "lessons": [
         {
-          "slug": "01-responsibility",
+          "slug": "l1",
           "title": {
             "en": "Social Responsibility"
           }
         },
         {
-          "slug": "02-work-ethic",
+          "slug": "l2",
           "title": {
             "en": "Work Ethic"
           }

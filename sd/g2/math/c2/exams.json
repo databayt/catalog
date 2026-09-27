@@ -1,0 +1,106 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g2-math-unit-2-addition-exam-9799",
+      "title": "Chapter Exam - unit-2-addition - Math",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g2-ma-u2ad-q001",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ١٠ - ٤ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q002",
+          "type": "true_false",
+          "question": "هل العبارة صحيحة؟ ٧ > ٩",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الجمع is True."
+        },
+        {
+          "id": "g2-ma-u2ad-q003",
+          "type": "fill_blank",
+          "question": "أكمل الفراغ: ___ ÷ ٢ = ٤",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q004",
+          "type": "short_answer",
+          "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q005",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: ٥ + ٣ = ?",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q006",
+          "type": "true_false",
+          "question": "هل العبارة صحيحة؟ ١٠ - ٢ = ٧",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الجمع is True."
+        },
+        {
+          "id": "g2-ma-u2ad-q007",
+          "type": "fill_blank",
+          "question": "أكمل الفراغ: ٢ × ___ = ٦",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q008",
+          "type": "short_answer",
+          "question": "حل المسألة التالية: لديك ٥ تفاحات وأضيف ٣ تفاحات، كم عدد التفاحات الآن؟",
+          "answer": "Expected response about the topic",
+          "explanation": "A good answer explains the concept from الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q009",
+          "type": "mcq",
+          "question": "ما هي الإجابة الصحيحة: العدد الأكبر من ١٥ هو: ١٢، ١٨، ١٤",
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "answer": "A",
+          "explanation": "This is the correct answer for الوحدة الثانية: الجمع."
+        },
+        {
+          "id": "g2-ma-u2ad-q010",
+          "type": "true_false",
+          "question": "هل العبارة صحيحة؟ ٥ + ٣ = ٨",
+          "answer": true,
+          "explanation": "The statement about الوحدة الثانية: الجمع is True."
+        }
+      ]
+    }
+  ]
+}

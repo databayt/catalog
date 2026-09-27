@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq01",
+      "type": "mcq",
+      "question": "Synthesis means:",
+      "options": [
+        "copying one source",
+        "combining ideas from multiple sources",
+        "ignoring sources",
+        "summarizing one text"
+      ],
+      "answer": "combining ideas from multiple sources",
+      "explanation": "Integrate sources."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq02",
+      "type": "true_false",
+      "question": "In-text citations credit sources within writing.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Avoid plagiarism."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq03",
+      "type": "fill_blank",
+      "question": "Combining sources to support a point is ___.",
+      "answer": "synthesis",
+      "explanation": "Synthesizing."
+    },
+    {
+      "id": "g10-eng-unit-02-research-02-synthesis-lq04",
+      "type": "short_answer",
+      "question": "Why synthesize rather than just summarize?",
+      "answer": "To build a new, supported argument from multiple sources.",
+      "explanation": "Synthesis purpose."
+    }
+  ]
+}

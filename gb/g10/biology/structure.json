@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-cell-biology",
+      "slug": "c1",
       "title": {
         "en": "Cell Biology"
       },
       "lessons": [
         {
-          "slug": "01-cell-structure",
+          "slug": "l1",
           "title": {
             "en": "Cell Structure"
           }
         },
         {
-          "slug": "02-cell-division",
+          "slug": "l2",
           "title": {
             "en": "Cell Division (Mitosis)"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-organisation",
+      "slug": "c2",
       "title": {
         "en": "Organisation"
       },
       "lessons": [
         {
-          "slug": "01-enzymes",
+          "slug": "l1",
           "title": {
             "en": "Enzymes & Digestion"
           }
         },
         {
-          "slug": "02-circulation",
+          "slug": "l2",
           "title": {
             "en": "The Circulatory System"
           }

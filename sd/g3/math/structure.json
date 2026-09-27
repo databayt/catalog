@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading-writing-adding-and-subtracting-numbers",
+      "slug": "c1",
       "title": {
         "ar": "قراءة الأعداد ضمن ٩٩٩٩ وكتابتها وعمليات الجمع والطرح",
         "en": "Reading, Writing, Adding and Subtracting Numbers to 9999"
@@ -29,26 +29,26 @@
       "image": "clickview/elementary-place-value-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading-four-digit-numbers",
+          "slug": "l1",
           "title": {
             "ar": "قراءة عدد مكون من أربعة أرقام وكتابته"
           }
         },
         {
-          "slug": "02-multiples",
+          "slug": "l2",
           "title": {
             "ar": "مضاعفات الأعداد"
           },
           "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
         },
         {
-          "slug": "03-addition-within-9999",
+          "slug": "l3",
           "title": {
             "ar": "الجمع ضمن العدد ٩٩٩٩"
           }
         },
         {
-          "slug": "04-subtraction-within-9999",
+          "slug": "l4",
           "title": {
             "ar": "الطرح ضمن العدد ٩٩٩٩"
           }
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "slug": "02-multiplication",
+      "slug": "c2",
       "title": {
         "ar": "الضرب",
         "en": "Multiplication"
@@ -65,67 +65,67 @@
       "image": "clickview/middle-whole-number-operations-cover.jpg",
       "lessons": [
         {
-          "slug": "01-multiplying-by-1-and-0",
+          "slug": "l1",
           "title": {
             "ar": "الضرب في ١ وصفر"
           }
         },
         {
-          "slug": "02-multiplication-table-7",
+          "slug": "l2",
           "title": {
             "ar": "جدول الضرب للعدد ٧"
           }
         },
         {
-          "slug": "03-multiplication-table-8",
+          "slug": "l3",
           "title": {
             "ar": "جدول الضرب للعدد ٨"
           }
         },
         {
-          "slug": "04-multiplication-table-9",
+          "slug": "l4",
           "title": {
             "ar": "جدول الضرب للعدد ٩"
           }
         },
         {
-          "slug": "05-multiplying-by-10",
+          "slug": "l5",
           "title": {
             "ar": "الضرب في عشرة"
           }
         },
         {
-          "slug": "06-multiplying-by-100",
+          "slug": "l6",
           "title": {
             "ar": "الضرب في مئة"
           }
         },
         {
-          "slug": "07-multiplying-with-zeros",
+          "slug": "l7",
           "title": {
             "ar": "ضرب الأعداد التي آحادها أو عشراتها أصفار"
           }
         },
         {
-          "slug": "08-distributive-property",
+          "slug": "l8",
           "title": {
             "ar": "توزيع الضرب على الجمع"
           }
         },
         {
-          "slug": "09-two-by-one-digit",
+          "slug": "l9",
           "title": {
             "ar": "ضرب عدد من رقمين في عدد من رقم واحد"
           }
         },
         {
-          "slug": "10-two-by-two-digit",
+          "slug": "l10",
           "title": {
             "ar": "ضرب عدد من رقمين في عدد من رقمين"
           }
         },
         {
-          "slug": "11-two-by-three-digit",
+          "slug": "l11",
           "title": {
             "ar": "ضرب عدد مكون من رقمين في عدد مكون من ٣ أرقام"
           }
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "slug": "03-division",
+      "slug": "c3",
       "title": {
         "ar": "القسمة",
         "en": "Division"
@@ -142,85 +142,85 @@
       "image": "clickview/middle-whole-number-operations-cover.jpg",
       "lessons": [
         {
-          "slug": "01-division-by-7-no-remainder",
+          "slug": "l1",
           "title": {
             "ar": "القسمة على ٧ بدون باقٍ"
           }
         },
         {
-          "slug": "02-division-by-7-with-remainder",
+          "slug": "l2",
           "title": {
             "ar": "القسمة على ٧ بباقٍ"
           }
         },
         {
-          "slug": "03-division-by-7-beyond-table",
+          "slug": "l3",
           "title": {
             "ar": "القسمة على ٧ خارج جدول الضرب"
           }
         },
         {
-          "slug": "04-word-problems-1",
+          "slug": "l4",
           "title": {
             "ar": "مسائل لفظية ١"
           }
         },
         {
-          "slug": "05-division-by-8-no-remainder",
+          "slug": "l5",
           "title": {
             "ar": "القسمة على ٨ بدون باقٍ"
           }
         },
         {
-          "slug": "06-division-by-8-with-remainder",
+          "slug": "l6",
           "title": {
             "ar": "القسمة على ٨ بباقٍ"
           }
         },
         {
-          "slug": "07-division-by-8-beyond-table",
+          "slug": "l7",
           "title": {
             "ar": "القسمة على ٨ خارج جدول الضرب"
           }
         },
         {
-          "slug": "08-word-problems-2",
+          "slug": "l8",
           "title": {
             "ar": "مسائل لفظية ٢"
           }
         },
         {
-          "slug": "09-division-by-9-no-remainder",
+          "slug": "l9",
           "title": {
             "ar": "القسمة على ٩ بدون باقٍ"
           }
         },
         {
-          "slug": "10-division-by-9-with-remainder",
+          "slug": "l10",
           "title": {
             "ar": "القسمة على ٩ بباقٍ"
           }
         },
         {
-          "slug": "11-division-by-9-beyond-table",
+          "slug": "l11",
           "title": {
             "ar": "القسمة على ٩ خارج جدول الضرب"
           }
         },
         {
-          "slug": "12-word-problems-3",
+          "slug": "l12",
           "title": {
             "ar": "مسائل لفظية ٣"
           }
         },
         {
-          "slug": "13-multiplication-addition-subtraction",
+          "slug": "l13",
           "title": {
             "ar": "علاقة الضرب والجمع والطرح"
           }
         },
         {
-          "slug": "14-division-addition-subtraction",
+          "slug": "l14",
           "title": {
             "ar": "علاقة القسمة بالجمع والطرح"
           }
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "slug": "04-fractions",
+      "slug": "c4",
       "title": {
         "ar": "الكسور",
         "en": "Fractions"
@@ -237,52 +237,52 @@
       "image": "clickview/elementary-introduction-to-fractions-cover.jpg",
       "lessons": [
         {
-          "slug": "01-unit-fractions",
+          "slug": "l1",
           "title": {
             "ar": "كسور الوحدة"
           }
         },
         {
-          "slug": "02-fractions-more-than-one-part",
+          "slug": "l2",
           "title": {
             "ar": "الكسور الدالة على أكثر من جزء"
           }
         },
         {
-          "slug": "03-fractions-of-a-set",
+          "slug": "l3",
           "title": {
             "ar": "الكسور كأجزاء من مجموعة"
           }
         },
         {
-          "slug": "04-equivalent-fractions",
+          "slug": "l4",
           "title": {
             "ar": "الكسور المتكافئة"
           },
           "image": "clickview/elementary-equivalent-fractions-cover.jpg"
         },
         {
-          "slug": "05-simplifying-fractions",
+          "slug": "l5",
           "title": {
             "ar": "اختصار الكسور"
           },
           "image": "clickview/elementary-simplifying-fractions-cover.jpg"
         },
         {
-          "slug": "06-comparing-fractions",
+          "slug": "l6",
           "title": {
             "ar": "مقارنة الكسور"
           }
         },
         {
-          "slug": "07-adding-like-fractions",
+          "slug": "l7",
           "title": {
             "ar": "جمع الكسور متساوية المقامات"
           },
           "image": "clickview/elementary-adding-and-subtracting-fractions-cover.jpg"
         },
         {
-          "slug": "08-subtracting-like-fractions",
+          "slug": "l8",
           "title": {
             "ar": "طرح الكسور متساوية المقامات"
           },
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "slug": "05-measurement",
+      "slug": "c5",
       "title": {
         "ar": "القياس",
         "en": "Measurement"
@@ -300,19 +300,19 @@
       "image": "clickview/elementary-volume-and-capacity-cover.jpg",
       "lessons": [
         {
-          "slug": "01-length",
+          "slug": "l1",
           "title": {
             "ar": "الطول"
           }
         },
         {
-          "slug": "02-measuring-time-clock",
+          "slug": "l2",
           "title": {
             "ar": "قياس الوقت - الساعة"
           }
         },
         {
-          "slug": "03-parts-of-the-hour",
+          "slug": "l3",
           "title": {
             "ar": "أجزاء الساعة"
           }
@@ -320,7 +320,7 @@
       ]
     },
     {
-      "slug": "06-geometry",
+      "slug": "c6",
       "title": {
         "ar": "الهندسة",
         "en": "Geometry"
@@ -329,27 +329,27 @@
       "image": "clickview/elementary-2d-shapes-cover.jpg",
       "lessons": [
         {
-          "slug": "01-point-and-line-segment",
+          "slug": "l1",
           "title": {
             "ar": "النقطة والقطعة المستقيمة"
           },
           "image": "clickview/elementary-angles-and-lines-cover.jpg"
         },
         {
-          "slug": "02-measuring-line-segment",
+          "slug": "l2",
           "title": {
             "ar": "قياس طول القطعة المستقيمة"
           },
           "image": "clickview/elementary-angles-and-lines-cover.jpg"
         },
         {
-          "slug": "03-triangle",
+          "slug": "l3",
           "title": {
             "ar": "المثلث"
           }
         },
         {
-          "slug": "04-rectangle-and-square",
+          "slug": "l4",
           "title": {
             "ar": "المستطيل والمربع"
           }

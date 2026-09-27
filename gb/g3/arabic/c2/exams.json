@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g3-ara-unit-02-words-exam",
+      "title": "Exam: المفرد والجمع",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq01",
+          "type": "mcq",
+          "question": "جمع كلمة (قلم) هو:",
+          "options": [
+            "أقلام",
+            "قلمان",
+            "قلم",
+            "قلوم"
+          ],
+          "answer": "أقلام",
+          "explanation": "جمع تكسير."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq02",
+          "type": "true_false",
+          "question": "(معلمون) جمع لكلمة (معلم).",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "جمع مذكر سالم."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq03",
+          "type": "fill_blank",
+          "question": "مفرد كلمة (كتب) هو ___.",
+          "answer": "كتاب",
+          "explanation": "المفرد."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq04",
+          "type": "short_answer",
+          "question": "هات جمعاً لكلمة (باب).",
+          "answer": "أبواب",
+          "explanation": "الجمع."
+        },
+        {
+          "id": "g3-ara-unit-02-words-02-synonyms-lq01",
+          "type": "mcq",
+          "question": "مرادف كلمة (سعيد) هو:",
+          "options": [
+            "حزين",
+            "فرِح",
+            "غاضب",
+            "نائم"
+          ],
+          "answer": "فرِح",
+          "explanation": "الترادف."
+        },
+        {
+          "id": "g3-ara-unit-02-words-02-synonyms-lq02",
+          "type": "true_false",
+          "question": "(كبير) و(صغير) كلمتان متضادتان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "التضاد."
+        },
+        {
+          "id": "g3-ara-unit-02-words-02-synonyms-lq03",
+          "type": "fill_blank",
+          "question": "ضد كلمة (ليل) هو ___.",
+          "answer": "نهار",
+          "explanation": "التضاد."
+        },
+        {
+          "id": "g3-ara-unit-02-words-02-synonyms-lq04",
+          "type": "short_answer",
+          "question": "هات مرادفاً لكلمة (جميل).",
+          "answer": "حسن/بديع",
+          "explanation": "الترادف."
+        }
+      ]
+    }
+  ]
+}

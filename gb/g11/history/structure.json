@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-cold-war",
+      "slug": "c1",
       "title": {
         "en": "The Cold War"
       },
       "lessons": [
         {
-          "slug": "01-origins",
+          "slug": "l1",
           "title": {
             "en": "Origins of the Cold War"
           }
         },
         {
-          "slug": "02-crises",
+          "slug": "l2",
           "title": {
             "en": "Cold War Crises"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-medicine",
+      "slug": "c2",
       "title": {
         "en": "Health & Medicine Through Time"
       },
       "lessons": [
         {
-          "slug": "01-medical-progress",
+          "slug": "l1",
           "title": {
             "en": "Medical Progress"
           }
         },
         {
-          "slug": "02-public-health",
+          "slug": "l2",
           "title": {
             "en": "Public Health"
           }

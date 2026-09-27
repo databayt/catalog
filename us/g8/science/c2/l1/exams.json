@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-quiz",
+      "title": "Quiz: Plate Tectonics",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq01",
+          "type": "mcq",
+          "question": "Earthquakes often occur at:",
+          "options": [
+            "plate boundaries",
+            "mountain tops only",
+            "the equator",
+            "the poles"
+          ],
+          "answer": "plate boundaries",
+          "explanation": "Plates interact."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq02",
+          "type": "true_false",
+          "question": "Earth's crust is broken into moving plates.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tectonic plates."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq03",
+          "type": "fill_blank",
+          "question": "Molten rock below the surface is ___.",
+          "answer": "magma",
+          "explanation": "Becomes lava above surface."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq04",
+          "type": "short_answer",
+          "question": "What causes tectonic plates to move?",
+          "answer": "Convection currents in the mantle.",
+          "explanation": "Mantle convection."
+        }
+      ]
+    }
+  ]
+}

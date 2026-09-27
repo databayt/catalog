@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "design-technology",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq01",
+      "type": "mcq",
+      "question": "A specification lists the ___ a product must meet.",
+      "options": [
+        "requirements",
+        "prices only",
+        "colours only",
+        "names"
+      ],
+      "answer": "requirements",
+      "explanation": "Specification."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq02",
+      "type": "true_false",
+      "question": "Researching existing products helps designers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Research."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq03",
+      "type": "fill_blank",
+      "question": "A list of requirements for a product is a ___.",
+      "answer": "specification",
+      "explanation": "Spec."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-01-research-lq04",
+      "type": "short_answer",
+      "question": "Why research existing products before designing?",
+      "answer": "To learn what works and find ways to improve.",
+      "explanation": "Research."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq01",
+      "type": "mcq",
+      "question": "An early model used to test a design is a:",
+      "options": [
+        "prototype",
+        "poster",
+        "receipt",
+        "logo"
+      ],
+      "answer": "prototype",
+      "explanation": "Prototype."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq02",
+      "type": "true_false",
+      "question": "Testing prototypes helps improve a design.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Iteration."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq03",
+      "type": "fill_blank",
+      "question": "Making and testing an early version is ___.",
+      "answer": "prototyping",
+      "explanation": "Prototyping."
+    },
+    {
+      "id": "g8-des-unit-01-design-process-02-prototype-lq04",
+      "type": "short_answer",
+      "question": "Why build a prototype?",
+      "answer": "To test and refine a design before final production.",
+      "explanation": "Prototyping."
+    }
+  ]
+}

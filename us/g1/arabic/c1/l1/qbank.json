@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq01",
+      "type": "mcq",
+      "question": "كم عدد حروف اللغة العربية؟",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "20"
+      ],
+      "answer": "28",
+      "explanation": "حروف العربية ثمانية وعشرون حرفاً."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq02",
+      "type": "true_false",
+      "question": "أول حروف الهجاء هو حرف الألف.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الترتيب: أ، ب، ت..."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq03",
+      "type": "fill_blank",
+      "question": "الحرف الذي يأتي بعد الباء هو ___.",
+      "answer": "التاء",
+      "explanation": "ترتيب الحروف."
+    },
+    {
+      "id": "g1-ara-unit-01-letters-01-letters-lq04",
+      "type": "short_answer",
+      "question": "اذكر ثلاثة من حروف الهجاء.",
+      "answer": "مثل: أ، ب، ت.",
+      "explanation": "حروف الهجاء."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-mat-unit-02-fractions-decimals-02-decimal-notation-lq01",
+      "type": "mcq",
+      "question": "0.7 is the same as:",
+      "options": [
+        "7/10",
+        "7/100",
+        "70",
+        "1/7"
+      ],
+      "answer": "7/10",
+      "explanation": "Tenths place."
+    },
+    {
+      "id": "g4-mat-unit-02-fractions-decimals-02-decimal-notation-lq02",
+      "type": "true_false",
+      "question": "0.50 = 0.5.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Trailing zero doesn't change value."
+    },
+    {
+      "id": "g4-mat-unit-02-fractions-decimals-02-decimal-notation-lq03",
+      "type": "fill_blank",
+      "question": "Three tenths as a decimal is ___.",
+      "answer": "0.3",
+      "explanation": "3/10 = 0.3."
+    },
+    {
+      "id": "g4-mat-unit-02-fractions-decimals-02-decimal-notation-lq04",
+      "type": "short_answer",
+      "question": "How do you read 0.25?",
+      "answer": "Twenty-five hundredths.",
+      "explanation": "Hundredths place."
+    }
+  ]
+}

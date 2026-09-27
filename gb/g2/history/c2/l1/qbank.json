@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g2-his-unit-02-significant-people-01-monarchs-lq01",
+      "type": "mcq",
+      "question": "A king or queen who rules a country is a:",
+      "options": [
+        "monarch",
+        "mayor",
+        "teacher",
+        "farmer"
+      ],
+      "answer": "monarch",
+      "explanation": "Monarchy."
+    },
+    {
+      "id": "g2-his-unit-02-significant-people-01-monarchs-lq02",
+      "type": "true_false",
+      "question": "A monarch can be a king or a queen.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Royal ruler."
+    },
+    {
+      "id": "g2-his-unit-02-significant-people-01-monarchs-lq03",
+      "type": "fill_blank",
+      "question": "The home of a king or queen is often a ___.",
+      "answer": "palace",
+      "explanation": "Palace/castle."
+    },
+    {
+      "id": "g2-his-unit-02-significant-people-01-monarchs-lq04",
+      "type": "short_answer",
+      "question": "Name something a monarch does.",
+      "answer": "e.g., represents the country and carries out ceremonies.",
+      "explanation": "Monarch role."
+    }
+  ]
+}

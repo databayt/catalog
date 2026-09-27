@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-02-nonfiction-exam",
+      "title": "Exam: Non-Fiction & Writing",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq01",
+          "type": "mcq",
+          "question": "A text written to give information is:",
+          "options": [
+            "fiction",
+            "informative",
+            "a poem",
+            "a play"
+          ],
+          "answer": "informative",
+          "explanation": "Purpose: inform."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq02",
+          "type": "true_false",
+          "question": "Headlines and subheadings are text features.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structural features."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq03",
+          "type": "fill_blank",
+          "question": "Fact can be proved; opinion is a ___.",
+          "answer": "belief",
+          "explanation": "Fact vs opinion."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-01-analysis-lq04",
+          "type": "short_answer",
+          "question": "How do you identify a writer's viewpoint?",
+          "answer": "Examine tone, word choice and the points emphasised.",
+          "explanation": "Viewpoint."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-02-writing-viewpoint-lq01",
+          "type": "mcq",
+          "question": "An article arguing a position should include:",
+          "options": [
+            "only jokes",
+            "reasons and evidence",
+            "no structure",
+            "random facts"
+          ],
+          "answer": "reasons and evidence",
+          "explanation": "Supported argument."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-02-writing-viewpoint-lq02",
+          "type": "true_false",
+          "question": "A counter-argument can strengthen persuasion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Addresses other side."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-02-writing-viewpoint-lq03",
+          "type": "fill_blank",
+          "question": "A strong opening to grab attention is a ___.",
+          "answer": "hook",
+          "explanation": "Engaging start."
+        },
+        {
+          "id": "g8-eng-unit-02-nonfiction-02-writing-viewpoint-lq04",
+          "type": "short_answer",
+          "question": "Why consider the audience when writing?",
+          "answer": "To choose appropriate tone, register and content.",
+          "explanation": "Audience awareness."
+        }
+      ]
+    }
+  ]
+}

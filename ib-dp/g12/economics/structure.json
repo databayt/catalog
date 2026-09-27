@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-introduction-to-economics",
+      "slug": "c1",
       "title": {
         "en": "Introduction to Economics"
       },
       "lessons": [
         {
-          "slug": "01-introduction-to-economics",
+          "slug": "l1",
           "title": {
             "en": "Introduction to Economics"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-microeconomics",
+      "slug": "c2",
       "title": {
         "en": "Microeconomics"
       },
       "lessons": [
         {
-          "slug": "01-microeconomics",
+          "slug": "l1",
           "title": {
             "en": "Microeconomics"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-macroeconomics",
+      "slug": "c3",
       "title": {
         "en": "Macroeconomics"
       },
       "lessons": [
         {
-          "slug": "01-macroeconomics",
+          "slug": "l1",
           "title": {
             "en": "Macroeconomics"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-the-global-economy",
+      "slug": "c4",
       "title": {
         "en": "The Global Economy"
       },
       "lessons": [
         {
-          "slug": "01-the-global-economy",
+          "slug": "l1",
           "title": {
             "en": "The Global Economy"
           }

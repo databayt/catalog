@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "geography",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq01",
+      "type": "mcq",
+      "question": "A biome with tall trees and heavy rain near the equator is the:",
+      "options": [
+        "tropical rainforest",
+        "desert",
+        "tundra",
+        "savanna"
+      ],
+      "answer": "tropical rainforest",
+      "explanation": "Equatorial biome."
+    },
+    {
+      "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq02",
+      "type": "true_false",
+      "question": "Climate describes the average weather over many years.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Long-term."
+    },
+    {
+      "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq03",
+      "type": "fill_blank",
+      "question": "A hot, dry biome with little rain is a ___.",
+      "answer": "desert",
+      "explanation": "Desert biome."
+    },
+    {
+      "id": "g4-geo-unit-02-climate-biomes-01-climate-zones-lq04",
+      "type": "short_answer",
+      "question": "What is the difference between weather and climate?",
+      "answer": "Weather is short-term; climate is the long-term average.",
+      "explanation": "Weather vs climate."
+    }
+  ]
+}

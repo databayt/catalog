@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-7-enjoy-your-meal",
+      "slug": "c1",
       "title": {
         "fr": "Unité 7 : Bon appétit !",
         "en": "Unit 7: Enjoy Your Meal!"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -48,7 +48,7 @@
           "page": 8
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -56,7 +56,7 @@
           "page": 9
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -64,7 +64,7 @@
           "page": 10
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -72,7 +72,7 @@
           "page": 12
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -80,7 +80,7 @@
           "page": 14
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "slug": "02-unit-8-i-have-an-appointment",
+      "slug": "c2",
       "title": {
         "fr": "Unité 8 : J'ai rendez-vous",
         "en": "Unit 8: I Have an Appointment"
@@ -101,7 +101,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -109,7 +109,7 @@
           "page": 20
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -117,7 +117,7 @@
           "page": 22
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -125,7 +125,7 @@
           "page": 24
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -133,7 +133,7 @@
           "page": 27
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -141,7 +141,7 @@
           "page": 28
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "slug": "03-unit-9-where-are-you-going",
+      "slug": "c3",
       "title": {
         "fr": "Unité 9 : Où tu vas ?",
         "en": "Unit 9: Where Are You Going?"
@@ -162,7 +162,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -170,7 +170,7 @@
           "page": 32
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -178,7 +178,7 @@
           "page": 33
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -186,7 +186,7 @@
           "page": 35
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -194,7 +194,7 @@
           "page": 37
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -202,7 +202,7 @@
           "page": 40
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -210,7 +210,7 @@
           "page": 41
         },
         {
-          "slug": "07-review-3",
+          "slug": "l7",
           "title": {
             "fr": "Bilan 3",
             "en": "Review 3"
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "slug": "04-unit-10-whats-the-weather-like",
+      "slug": "c4",
       "title": {
         "fr": "Unité 10 : Quel temps fait-il ?",
         "en": "Unit 10: What's the Weather Like?"
@@ -231,7 +231,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -239,7 +239,7 @@
           "page": 50
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -247,7 +247,7 @@
           "page": 52
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -255,7 +255,7 @@
           "page": 55
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -263,7 +263,7 @@
           "page": 58
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -271,7 +271,7 @@
           "page": 61
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "slug": "05-unit-11-lets-go",
+      "slug": "c5",
       "title": {
         "fr": "Unité 11 : Allons-y !",
         "en": "Unit 11: Let's Go!"
@@ -292,7 +292,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -300,7 +300,7 @@
           "page": 72
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -308,7 +308,7 @@
           "page": 74
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -316,7 +316,7 @@
           "page": 76
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -324,7 +324,7 @@
           "page": 80
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -332,7 +332,7 @@
           "page": 84
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "slug": "06-unit-12-great-were-moving",
+      "slug": "c6",
       "title": {
         "fr": "Unité 12 : Chouette, on déménage !",
         "en": "Unit 12: Great, We're Moving!"
@@ -353,7 +353,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-opening",
+          "slug": "l1",
           "title": {
             "fr": "Ouverture",
             "en": "Opening"
@@ -361,7 +361,7 @@
           "page": 94
         },
         {
-          "slug": "02-listening-and-comprehension",
+          "slug": "l2",
           "title": {
             "fr": "Écouter et comprendre",
             "en": "Listening and Comprehension"
@@ -369,7 +369,7 @@
           "page": 96
         },
         {
-          "slug": "03-reading",
+          "slug": "l3",
           "title": {
             "fr": "Lire",
             "en": "Reading"
@@ -377,7 +377,7 @@
           "page": 98
         },
         {
-          "slug": "04-speaking",
+          "slug": "l4",
           "title": {
             "fr": "Parler",
             "en": "Speaking"
@@ -385,7 +385,7 @@
           "page": 101
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "fr": "Écrire",
             "en": "Writing"
@@ -393,7 +393,7 @@
           "page": 105
         },
         {
-          "slug": "06-discovery",
+          "slug": "l6",
           "title": {
             "fr": "Découverte",
             "en": "Discovery"
@@ -401,7 +401,7 @@
           "page": 111
         },
         {
-          "slug": "07-review-4",
+          "slug": "l7",
           "title": {
             "fr": "Bilan 4",
             "en": "Review 4"

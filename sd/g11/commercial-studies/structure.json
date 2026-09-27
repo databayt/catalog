@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-part-1-financial-accounting",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: المحاسبة المالية",
         "en": "Part 1: Financial Accounting"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preparing-final-accounts-and-the-balance-sheet",
+          "slug": "l1",
           "title": {
             "ar": "إعداد الحسابات الختامية والميزانية",
             "en": "Preparing Final Accounts and the Balance Sheet"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-the-trading-account",
+          "slug": "l2",
           "title": {
             "ar": "حساب المتاجرة",
             "en": "The Trading Account"
@@ -56,7 +56,7 @@
           "page": 8
         },
         {
-          "slug": "03-the-profit-and-loss-account",
+          "slug": "l3",
           "title": {
             "ar": "حساب الأرباح والخسائر",
             "en": "The Profit and Loss Account"
@@ -64,7 +64,7 @@
           "page": 12
         },
         {
-          "slug": "04-the-statement-of-financial-position-balance",
+          "slug": "l4",
           "title": {
             "ar": "قائمة المركز المالي (الميزانية العمومية)",
             "en": "The Statement of Financial Position (Balance Sheet)"
@@ -72,7 +72,7 @@
           "page": 15
         },
         {
-          "slug": "05-the-adjustment-statement",
+          "slug": "l5",
           "title": {
             "ar": "قائمة التسوية",
             "en": "The Adjustment Statement"
@@ -80,7 +80,7 @@
           "page": 19
         },
         {
-          "slug": "06-stocktaking-and-adjusting-entries",
+          "slug": "l6",
           "title": {
             "ar": "الجرد والتسويات الجردية",
             "en": "Stocktaking and Adjusting Entries"
@@ -88,7 +88,7 @@
           "page": 22
         },
         {
-          "slug": "07-debtors-reconciliation",
+          "slug": "l7",
           "title": {
             "ar": "جرد الذمم (المدينين)",
             "en": "Debtors' Reconciliation"
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "slug": "02-part-2-public-economics",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: الاقتصاد العام",
         "en": "Part 2: Public Economics"
@@ -109,7 +109,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-public-economics",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الاقتصاد العام",
             "en": "The Concept of Public Economics"
@@ -117,7 +117,7 @@
           "page": 116
         },
         {
-          "slug": "02-public-economics-and-private-finance",
+          "slug": "l2",
           "title": {
             "ar": "الاقتصاد العام وعلاقته بالمالية الخاصة",
             "en": "Public Economics and Private Finance"
@@ -125,7 +125,7 @@
           "page": 120
         },
         {
-          "slug": "03-public-expenditure",
+          "slug": "l3",
           "title": {
             "ar": "النفقات العامة",
             "en": "Public Expenditure"
@@ -133,7 +133,7 @@
           "page": 123
         },
         {
-          "slug": "04-public-revenue",
+          "slug": "l4",
           "title": {
             "ar": "الإيرادات العامة للدولة",
             "en": "Public Revenue"
@@ -141,7 +141,7 @@
           "page": 130
         },
         {
-          "slug": "05-the-state-budget",
+          "slug": "l5",
           "title": {
             "ar": "الموازنة العامة للدولة",
             "en": "The State Budget"
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "slug": "03-part-3-financial-mathematics",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: الرياضة المالية",
         "en": "Part 3: Financial Mathematics"
@@ -162,7 +162,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-and-interest",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة والفائدة",
             "en": "Introduction and Interest"
@@ -170,7 +170,7 @@
           "page": 143
         },
         {
-          "slug": "02-simple-interest",
+          "slug": "l2",
           "title": {
             "ar": "الفائدة البسيطة",
             "en": "Simple Interest"
@@ -178,7 +178,7 @@
           "page": 151
         },
         {
-          "slug": "03-compound-interest",
+          "slug": "l3",
           "title": {
             "ar": "الفائدة المركبة",
             "en": "Compound Interest"
@@ -186,7 +186,7 @@
           "page": 168
         },
         {
-          "slug": "04-islams-view-of-interest",
+          "slug": "l4",
           "title": {
             "ar": "رأي الإسلام في الفائدة",
             "en": "Islam's View of Interest"
@@ -194,7 +194,7 @@
           "page": 176
         },
         {
-          "slug": "05-benevolent-loans-and-murabaha",
+          "slug": "l5",
           "title": {
             "ar": "القرض الحسن والمرابحة",
             "en": "Benevolent Loans and Murabaha"
@@ -202,7 +202,7 @@
           "page": 177
         },
         {
-          "slug": "06-musharaka",
+          "slug": "l6",
           "title": {
             "ar": "المشاركة",
             "en": "Musharaka"
@@ -210,7 +210,7 @@
           "page": 178
         },
         {
-          "slug": "07-mudaraba",
+          "slug": "l7",
           "title": {
             "ar": "المضاربة",
             "en": "Mudaraba"
@@ -218,7 +218,7 @@
           "page": 180
         },
         {
-          "slug": "08-islamic-finance-versus-the-interest-based-system",
+          "slug": "l8",
           "title": {
             "ar": "أوجه الشبه والاختلاف بين النظام المالي الإسلامي والنظام الربوي",
             "en": "Islamic Finance versus the Interest-Based System"

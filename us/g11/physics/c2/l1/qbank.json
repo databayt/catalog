@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-phy-unit-02-energy-waves-01-energy-lq01",
+      "type": "mcq",
+      "question": "Energy of motion is called:",
+      "options": [
+        "potential",
+        "kinetic",
+        "thermal only",
+        "nuclear"
+      ],
+      "answer": "kinetic",
+      "explanation": "KE."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-01-energy-lq02",
+      "type": "true_false",
+      "question": "Energy is conserved in a closed system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Conservation of energy."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-01-energy-lq03",
+      "type": "fill_blank",
+      "question": "Energy due to position is ___ energy.",
+      "answer": "potential",
+      "explanation": "PE."
+    },
+    {
+      "id": "g11-phy-unit-02-energy-waves-01-energy-lq04",
+      "type": "short_answer",
+      "question": "What is work in physics?",
+      "answer": "Force applied over a distance (W = Fd).",
+      "explanation": "Work definition."
+    }
+  ]
+}

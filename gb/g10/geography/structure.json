@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-living-world",
+      "slug": "c1",
       "title": {
         "en": "The Living World"
       },
       "lessons": [
         {
-          "slug": "01-ecosystems",
+          "slug": "l1",
           "title": {
             "en": "Ecosystems"
           }
         },
         {
-          "slug": "02-rainforests-deserts",
+          "slug": "l2",
           "title": {
             "en": "Rainforests & Hot Deserts"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-physical-landscapes",
+      "slug": "c2",
       "title": {
         "en": "Physical Landscapes in the UK"
       },
       "lessons": [
         {
-          "slug": "01-coasts",
+          "slug": "l1",
           "title": {
             "en": "Coastal Landscapes"
           }
         },
         {
-          "slug": "02-rivers",
+          "slug": "l2",
           "title": {
             "en": "River Landscapes"
           }

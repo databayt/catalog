@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "pshe",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g6-psh-unit-02-relationships-02-money-world-quiz",
+      "title": "Quiz: Money & Responsibility",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-psh-unit-02-relationships-02-money-world-lq01",
+          "type": "mcq",
+          "question": "Saving money means:",
+          "options": [
+            "keeping some for later",
+            "spending it all",
+            "losing it",
+            "hiding only"
+          ],
+          "answer": "keeping some for later",
+          "explanation": "Saving."
+        },
+        {
+          "id": "g6-psh-unit-02-relationships-02-money-world-lq02",
+          "type": "true_false",
+          "question": "Budgeting helps you manage money wisely.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Budgeting."
+        },
+        {
+          "id": "g6-psh-unit-02-relationships-02-money-world-lq03",
+          "type": "fill_blank",
+          "question": "A plan for spending and saving money is a ___.",
+          "answer": "budget",
+          "explanation": "Budget."
+        },
+        {
+          "id": "g6-psh-unit-02-relationships-02-money-world-lq04",
+          "type": "short_answer",
+          "question": "Why is saving money useful?",
+          "answer": "It prepares you for future needs or emergencies.",
+          "explanation": "Saving."
+        }
+      ]
+    }
+  ]
+}

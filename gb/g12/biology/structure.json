@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-molecules",
+      "slug": "c1",
       "title": {
         "en": "Biological Molecules"
       },
       "lessons": [
         {
-          "slug": "01-biomolecules",
+          "slug": "l1",
           "title": {
             "en": "Carbohydrates, Lipids & Proteins"
           }
         },
         {
-          "slug": "02-nucleic-acids",
+          "slug": "l2",
           "title": {
             "en": "Nucleic Acids"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-cells-transport",
+      "slug": "c2",
       "title": {
         "en": "Cells & Transport"
       },
       "lessons": [
         {
-          "slug": "01-membranes",
+          "slug": "l1",
           "title": {
             "en": "Cell Membranes & Transport"
           }
         },
         {
-          "slug": "02-cell-cycle",
+          "slug": "l2",
           "title": {
             "en": "The Cell Cycle & Mitosis"
           }

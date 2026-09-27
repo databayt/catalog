@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "physical-education",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g6-phy-unit-01-fitness-01-components-quiz",
+      "title": "Quiz: Components of Fitness",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-phy-unit-01-fitness-01-components-lq01",
+          "type": "mcq",
+          "question": "Which is a component of fitness?",
+          "options": [
+            "stamina",
+            "spelling",
+            "singing",
+            "sleeping in"
+          ],
+          "answer": "stamina",
+          "explanation": "Cardiovascular endurance."
+        },
+        {
+          "id": "g6-phy-unit-01-fitness-01-components-lq02",
+          "type": "true_false",
+          "question": "Flexibility is the range of movement at a joint.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Flexibility."
+        },
+        {
+          "id": "g6-phy-unit-01-fitness-01-components-lq03",
+          "type": "fill_blank",
+          "question": "The ability to keep going for a long time is ___.",
+          "answer": "stamina",
+          "explanation": "Endurance/stamina."
+        },
+        {
+          "id": "g6-phy-unit-01-fitness-01-components-lq04",
+          "type": "short_answer",
+          "question": "Name two components of fitness.",
+          "answer": "e.g., strength and stamina (also speed, flexibility).",
+          "explanation": "Fitness components."
+        }
+      ]
+    }
+  ]
+}

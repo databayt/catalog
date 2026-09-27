@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq01",
+      "type": "mcq",
+      "question": "sin = opposite ÷ ?",
+      "options": [
+        "adjacent",
+        "hypotenuse",
+        "angle",
+        "area"
+      ],
+      "answer": "hypotenuse",
+      "explanation": "SOH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq02",
+      "type": "true_false",
+      "question": "tan = opposite ÷ adjacent.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "TOA."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq03",
+      "type": "fill_blank",
+      "question": "cos = adjacent ÷ ___.",
+      "answer": "hypotenuse",
+      "explanation": "CAH."
+    },
+    {
+      "id": "g9-mat-unit-02-pythagoras-02-trig-lq04",
+      "type": "short_answer",
+      "question": "What does SOHCAHTOA help you remember?",
+      "answer": "The ratios for sine, cosine and tangent.",
+      "explanation": "Trig ratios."
+    }
+  ]
+}

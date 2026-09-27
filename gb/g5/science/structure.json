@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-earth-space",
+      "slug": "c1",
       "title": {
         "en": "Earth & Space"
       },
       "lessons": [
         {
-          "slug": "01-solar-system",
+          "slug": "l1",
           "title": {
             "en": "The Solar System"
           }
         },
         {
-          "slug": "02-forces",
+          "slug": "l2",
           "title": {
             "en": "Forces & Gravity"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-materials",
+      "slug": "c2",
       "title": {
         "en": "Properties & Changes of Materials"
       },
       "lessons": [
         {
-          "slug": "01-separating",
+          "slug": "l1",
           "title": {
             "en": "Separating Mixtures"
           }
         },
         {
-          "slug": "02-reversible",
+          "slug": "l2",
           "title": {
             "en": "Reversible & Irreversible Changes"
           }

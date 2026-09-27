@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-homeland-and-patriotism",
+      "slug": "c1",
       "title": {
         "ar": "الوطن والوطنية",
         "en": "Homeland and Patriotism"
@@ -39,7 +39,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-homeland",
+          "slug": "l1",
           "title": {
             "ar": "الوطن",
             "en": "The Homeland"
@@ -47,7 +47,7 @@
           "page": 6
         },
         {
-          "slug": "02-the-meaning-of-patriotism",
+          "slug": "l2",
           "title": {
             "ar": "معنى الوطنية",
             "en": "The Meaning of Patriotism"
@@ -55,7 +55,7 @@
           "page": 10
         },
         {
-          "slug": "03-citizenship",
+          "slug": "l3",
           "title": {
             "ar": "المواطنة",
             "en": "Citizenship"
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "slug": "02-sudan-geographical-and-historical-features",
+      "slug": "c2",
       "title": {
         "ar": "السودان: ملامح جغرافية وتاريخية",
         "en": "Sudan: Geographical and Historical Features"
@@ -76,7 +76,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-name-of-sudan-and-the-formation-of-its",
+          "slug": "l1",
           "title": {
             "ar": "اسم السودان وحدود السودان وتشكلها عبر التاريخ",
             "en": "The Name of Sudan and the Formation of Its Borders through History"
@@ -84,7 +84,7 @@
           "page": 18
         },
         {
-          "slug": "02-sudanese-civilisation-and-its-contribution-to",
+          "slug": "l2",
           "title": {
             "ar": "الحضارة السودانية وعطاؤها الإنساني",
             "en": "Sudanese Civilisation and Its Contribution to Humanity"
@@ -92,7 +92,7 @@
           "page": 20
         },
         {
-          "slug": "03-sudanese-nationhood",
+          "slug": "l3",
           "title": {
             "ar": "القومية السودانية",
             "en": "Sudanese Nationhood"
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "slug": "03-sudanese-society",
+      "slug": "c3",
       "title": {
         "ar": "المجتمع السوداني",
         "en": "Sudanese Society"
@@ -113,7 +113,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sudanese-society-customs-traditions-and-heritage",
+          "slug": "l1",
           "title": {
             "ar": "المجتمع السوداني: العادات والتقاليد والتراث",
             "en": "Sudanese Society: Customs, Traditions and Heritage"
@@ -121,7 +121,7 @@
           "page": 29
         },
         {
-          "slug": "02-characteristics-of-sudanese-society",
+          "slug": "l2",
           "title": {
             "ar": "خصائص المجتمع السوداني",
             "en": "Characteristics of Sudanese Society"
@@ -129,7 +129,7 @@
           "page": 35
         },
         {
-          "slug": "03-sudanese-identity",
+          "slug": "l3",
           "title": {
             "ar": "الهوية السودانية",
             "en": "Sudanese Identity"
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "slug": "04-the-sudanese-state",
+      "slug": "c4",
       "title": {
         "ar": "الدولة السودانية",
         "en": "The Sudanese State"
@@ -150,7 +150,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-features-of-the-sudanese-land",
+          "slug": "l1",
           "title": {
             "ar": "ميزات الأرض السودانية",
             "en": "Features of the Sudanese Land"
@@ -159,7 +159,7 @@
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "02-the-state-of-sudan",
+          "slug": "l2",
           "title": {
             "ar": "دولة السودان",
             "en": "The State of Sudan"
@@ -167,7 +167,7 @@
           "page": 43
         },
         {
-          "slug": "03-foundations-of-the-state-its-constituent",
+          "slug": "l3",
           "title": {
             "ar": "مقومات الدولة (عناصر تكوينها)",
             "en": "Foundations of the State (Its Constituent Elements)"
@@ -175,7 +175,7 @@
           "page": 44
         },
         {
-          "slug": "04-characteristics-and-functions-of-the-state",
+          "slug": "l4",
           "title": {
             "ar": "مميزات ومهام الدولة",
             "en": "Characteristics and Functions of the State"

@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-eng-unit-01-01-what-is-science-lquiz",
+      "title": "اختبار درس - What is Science?",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-eng-unit-01-01-what-is-science-lq01",
+          "type": "mcq",
+          "question": "What does the word 'beneficial' mean?",
+          "options": [
+            "helpful",
+            "harmful",
+            "boring",
+            "difficult"
+          ],
+          "answer": "helpful",
+          "explanation": "'Beneficial' means producing good results or advantages."
+        },
+        {
+          "id": "g9-eng-unit-01-01-what-is-science-lq02",
+          "type": "true_false",
+          "question": "The word 'enormous' means very large.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "'Enormous' means very large in size or amount."
+        },
+        {
+          "id": "g9-eng-unit-01-01-what-is-science-lq03",
+          "type": "fill_blank",
+          "question": "A synonym for 'happy' is ___.",
+          "answer": "joyful/glad/pleased",
+          "explanation": "Happy, joyful, glad are synonyms meaning feeling pleasure."
+        },
+        {
+          "id": "g9-eng-unit-01-01-what-is-science-lq04",
+          "type": "short_answer",
+          "question": "Use the word 'determine' in a sentence.",
+          "answer": "I will determine the best solution after careful study.",
+          "explanation": "'Determine' means to decide or establish with authority."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-english-c1-l1-1",
+      "title": "What is Science?",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "068d06d2",
+          "type": "mcq",
+          "question": "What is the main purpose of reading comprehension?",
+          "options": [
+            "To read fast",
+            "To understand and extract meaning",
+            "To memorize text",
+            "To count words"
+          ],
+          "answer": "To understand and extract meaning",
+          "explanation": "Reading comprehension is about understanding the text"
+        },
+        {
+          "id": "bbdab191",
+          "type": "fill_blank",
+          "question": "A paragraph is a group of ___ that discuss one main idea",
+          "answer": "sentences",
+          "explanation": "Paragraphs contain sentences organized around one topic"
+        },
+        {
+          "id": "31cf9852",
+          "type": "true_false",
+          "question": "The main idea is the most important point in a paragraph",
+          "answer": true,
+          "explanation": "The main idea is the central theme of a passage"
+        }
+      ]
+    }
+  ]
+}

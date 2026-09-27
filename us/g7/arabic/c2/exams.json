@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g7-ara-unit-02-verbs-exam",
+      "title": "Exam: الفعل الصحيح والمعتل",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq01",
+          "type": "mcq",
+          "question": "الفعل الصحيح هو ما خلت حروفه الأصلية من:",
+          "options": [
+            "حروف العلة",
+            "الهمزة فقط",
+            "التاء",
+            "الألف فقط"
+          ],
+          "answer": "حروف العلة",
+          "explanation": "خلوّه من العلة."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq02",
+          "type": "true_false",
+          "question": "(كتب) فعل صحيح.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "لا علة فيه."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq03",
+          "type": "fill_blank",
+          "question": "حروف العلة هي الألف والواو و___.",
+          "answer": "الياء",
+          "explanation": "حروف العلة."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-01-sahih-lq04",
+          "type": "short_answer",
+          "question": "اذكر مثالاً لفعل صحيح.",
+          "answer": "مثل: جلس، فتح.",
+          "explanation": "الفعل الصحيح."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-02-mutall-lq01",
+          "type": "mcq",
+          "question": "(وعد) فعل معتل لأن أوله:",
+          "options": [
+            "حرف علة (و)",
+            "همزة",
+            "تاء",
+            "نون"
+          ],
+          "answer": "حرف علة (و)",
+          "explanation": "مثال (معتل الأول)."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-02-mutall-lq02",
+          "type": "true_false",
+          "question": "(قال) و(باع) من الأفعال المعتلة.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "معتل الوسط (أجوف)."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-02-mutall-lq03",
+          "type": "fill_blank",
+          "question": "الفعل الذي في آخره حرف علة يسمى الناقص أو ___.",
+          "answer": "المعتل الآخر",
+          "explanation": "الناقص."
+        },
+        {
+          "id": "g7-ara-unit-02-verbs-02-mutall-lq04",
+          "type": "short_answer",
+          "question": "اذكر مثالاً لفعل معتل.",
+          "answer": "مثل: قال، دعا، وعد.",
+          "explanation": "الفعل المعتل."
+        }
+      ]
+    }
+  ]
+}

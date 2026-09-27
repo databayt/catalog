@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "computer-science",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g12-com-unit-02-systems-01-hardware-lq01",
+      "type": "mcq",
+      "question": "The 'brain' of the computer that processes instructions is the:",
+      "options": [
+        "CPU",
+        "mouse",
+        "screen",
+        "speaker"
+      ],
+      "answer": "CPU",
+      "explanation": "Processor."
+    },
+    {
+      "id": "g12-com-unit-02-systems-01-hardware-lq02",
+      "type": "true_false",
+      "question": "Software is the programs that run on hardware.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Software."
+    },
+    {
+      "id": "g12-com-unit-02-systems-01-hardware-lq03",
+      "type": "fill_blank",
+      "question": "Physical parts of a computer are called ___.",
+      "answer": "hardware",
+      "explanation": "Hardware."
+    },
+    {
+      "id": "g12-com-unit-02-systems-01-hardware-lq04",
+      "type": "short_answer",
+      "question": "Give an example of hardware and software.",
+      "answer": "Hardware: CPU/keyboard; Software: a web browser.",
+      "explanation": "HW vs SW."
+    }
+  ]
+}

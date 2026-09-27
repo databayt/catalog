@@ -1,0 +1,102 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "quran",
+    "chapter": "c3"
+  },
+  "exams": [
+    {
+      "id": "g10-qur-unit-3-memorization-quiz",
+      "title": "اختبار - الحفظ",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-qur-unit-3-memorization-q01",
+          "type": "mcq",
+          "question": "ما معنى كلمة 'القرآن' لغةً؟",
+          "options": [
+            "القراءة والتلاوة",
+            "الكتابة",
+            "الحفظ",
+            "الفهم"
+          ],
+          "answer": "القراءة والتلاوة",
+          "explanation": "القرآن مشتق من القراءة، ويعني الكلام المقروء."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q02",
+          "type": "true_false",
+          "question": "القرآن الكريم نزل منجّماً (مفرقاً) على مدى 23 عاماً.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "نزل القرآن على مدى 23 سنة حسب الأحداث والوقائع."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q03",
+          "type": "fill_blank",
+          "question": "آخر سورة نزلت في القرآن الكريم هي سورة ___.",
+          "answer": "المائدة (أو آية المائدة 3)",
+          "explanation": "كانت آخر الآيات نزولاً آية من سورة المائدة."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q04",
+          "type": "short_answer",
+          "question": "ما مراحل جمع القرآن الكريم وتدوينه؟",
+          "answer": "الحفظ في الصدور في حياة النبي، الجمع على صحف في عهد أبي بكر، توحيد المصحف في عهد عثمان.",
+          "explanation": "مرّ جمع القرآن بمراحل لضمان حفظه وتوحيده."
+        }
+      ]
+    },
+    {
+      "id": "g10-qur-unit-3-memorization-quiz-2",
+      "title": "اختبار - الحفظ",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-qur-unit-3-memorization-q01",
+          "type": "mcq",
+          "question": "ما معنى كلمة 'القرآن' لغةً؟",
+          "options": [
+            "القراءة والتلاوة",
+            "الكتابة",
+            "الحفظ",
+            "الفهم"
+          ],
+          "answer": "القراءة والتلاوة",
+          "explanation": "القرآن مشتق من القراءة، ويعني الكلام المقروء."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q02",
+          "type": "true_false",
+          "question": "القرآن الكريم نزل منجّماً (مفرقاً) على مدى 23 عاماً.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "نزل القرآن على مدى 23 سنة حسب الأحداث والوقائع."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q03",
+          "type": "fill_blank",
+          "question": "آخر سورة نزلت في القرآن الكريم هي سورة ___.",
+          "answer": "المائدة (أو آية المائدة 3)",
+          "explanation": "كانت آخر الآيات نزولاً آية من سورة المائدة."
+        },
+        {
+          "id": "g10-qur-unit-3-memorization-q04",
+          "type": "short_answer",
+          "question": "ما مراحل جمع القرآن الكريم وتدوينه؟",
+          "answer": "الحفظ في الصدور في حياة النبي، الجمع على صحف في عهد أبي بكر، توحيد المصحف في عهد عثمان.",
+          "explanation": "مرّ جمع القرآن بمراحل لضمان حفظه وتوحيده."
+        }
+      ]
+    }
+  ]
+}

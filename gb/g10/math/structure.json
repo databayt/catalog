@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-algebra",
+      "slug": "c1",
       "title": {
         "en": "Algebra"
       },
       "lessons": [
         {
-          "slug": "01-quadratics",
+          "slug": "l1",
           "title": {
             "en": "Quadratic Equations"
           }
         },
         {
-          "slug": "02-simultaneous",
+          "slug": "l2",
           "title": {
             "en": "Simultaneous Equations"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-geometry",
+      "slug": "c2",
       "title": {
         "en": "Geometry & Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-pythagoras",
+          "slug": "l1",
           "title": {
             "en": "Pythagoras & Trigonometry"
           }
         },
         {
-          "slug": "02-circles",
+          "slug": "l2",
           "title": {
             "en": "Circle Theorems"
           }

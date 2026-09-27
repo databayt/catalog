@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g10-mat-unit-02-geometry-exam",
+      "title": "Exam: Geometry & Trigonometry",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq01",
+          "type": "mcq",
+          "question": "In a right triangle, sin = opposite ÷ :",
+          "options": [
+            "adjacent",
+            "hypotenuse",
+            "angle",
+            "area"
+          ],
+          "answer": "hypotenuse",
+          "explanation": "SOH."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq02",
+          "type": "true_false",
+          "question": "Pythagoras: a² + b² = c² for right triangles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Hypotenuse rule."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq03",
+          "type": "fill_blank",
+          "question": "tan = opposite ÷ ___.",
+          "answer": "adjacent",
+          "explanation": "TOA."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-01-pythagoras-lq04",
+          "type": "short_answer",
+          "question": "When do you use trigonometry rather than Pythagoras?",
+          "answer": "When an angle is involved (not just three sides).",
+          "explanation": "Trig vs Pythagoras."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-02-circles-lq01",
+          "type": "mcq",
+          "question": "The angle in a semicircle is:",
+          "options": [
+            "45°",
+            "60°",
+            "90°",
+            "180°"
+          ],
+          "answer": "90°",
+          "explanation": "Thales' theorem."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-02-circles-lq02",
+          "type": "true_false",
+          "question": "Angles in the same segment are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Circle theorem."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-02-circles-lq03",
+          "type": "fill_blank",
+          "question": "The angle at the centre is ___ the angle at the circumference (same arc).",
+          "answer": "twice",
+          "explanation": "Centre = 2 × circumference."
+        },
+        {
+          "id": "g10-mat-unit-02-geometry-02-circles-lq04",
+          "type": "short_answer",
+          "question": "State one circle theorem.",
+          "answer": "e.g., the angle in a semicircle is 90°.",
+          "explanation": "Circle theorem."
+        }
+      ]
+    }
+  ]
+}

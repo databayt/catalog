@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-movement",
+      "slug": "c1",
       "title": {
         "en": "Fundamental Movement Skills"
       },
       "lessons": [
         {
-          "slug": "01-locomotor",
+          "slug": "l1",
           "title": {
             "en": "Running, Jumping & Throwing"
           }
         },
         {
-          "slug": "02-games",
+          "slug": "l2",
           "title": {
             "en": "Playing Games"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-health",
+      "slug": "c2",
       "title": {
         "en": "Healthy Bodies"
       },
       "lessons": [
         {
-          "slug": "01-fitness",
+          "slug": "l1",
           "title": {
             "en": "Staying Active"
           }
         },
         {
-          "slug": "02-gymnastics",
+          "slug": "l2",
           "title": {
             "en": "Balance & Coordination"
           }

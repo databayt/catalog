@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-ara-unit-01-sentence-02-sentence-types-lq01",
+      "type": "mcq",
+      "question": "الجملة التي تبدأ بفعل هي:",
+      "options": [
+        "اسمية",
+        "فعلية",
+        "حرفية",
+        "ناقصة"
+      ],
+      "answer": "فعلية",
+      "explanation": "تبدأ بفعل."
+    },
+    {
+      "id": "g4-ara-unit-01-sentence-02-sentence-types-lq02",
+      "type": "true_false",
+      "question": "(الشمسُ ساطعةٌ) جملة اسمية.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تبدأ باسم."
+    },
+    {
+      "id": "g4-ara-unit-01-sentence-02-sentence-types-lq03",
+      "type": "fill_blank",
+      "question": "الجملة التي تبدأ باسم تسمى الجملة ___.",
+      "answer": "الاسمية",
+      "explanation": "الجملة الاسمية."
+    },
+    {
+      "id": "g4-ara-unit-01-sentence-02-sentence-types-lq04",
+      "type": "short_answer",
+      "question": "حوّل (يلعب الولد) إلى جملة اسمية.",
+      "answer": "الولد يلعب.",
+      "explanation": "تحويل الجملة."
+    }
+  ]
+}

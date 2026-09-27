@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-qualities-of-the-soldier",
+      "slug": "c1",
       "title": {
         "ar": "صفات الجندي",
         "en": "Qualities of the Soldier"
@@ -41,7 +41,7 @@
       "lessons": []
     },
     {
-      "slug": "02-the-art-of-leadership",
+      "slug": "c2",
       "title": {
         "ar": "فن القيادة",
         "en": "The Art of Leadership"
@@ -53,7 +53,7 @@
       "lessons": []
     },
     {
-      "slug": "03-models-of-leadership",
+      "slug": "c3",
       "title": {
         "ar": "نماذج من فن القيادة",
         "en": "Models of Leadership"
@@ -64,7 +64,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sad-ibn-abi-waqqas",
+          "slug": "l1",
           "title": {
             "ar": "سعد بن أبي وقاص",
             "en": "Sa'd ibn Abi Waqqas"
@@ -72,7 +72,7 @@
           "page": 19
         },
         {
-          "slug": "02-napoleon-bonaparte",
+          "slug": "l2",
           "title": {
             "ar": "نابليون بونابرت",
             "en": "Napoleon Bonaparte"
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "slug": "04-rules-of-combat",
+      "slug": "c4",
       "title": {
         "ar": "أحكام القتال",
         "en": "Rules of Combat"
@@ -95,7 +95,7 @@
       "lessons": []
     },
     {
-      "slug": "05-morale",
+      "slug": "c5",
       "title": {
         "ar": "الروح المعنوية",
         "en": "Morale"
@@ -107,7 +107,7 @@
       "lessons": []
     },
     {
-      "slug": "06-national-security",
+      "slug": "c6",
       "title": {
         "ar": "الأمن القومي",
         "en": "National Security"
@@ -119,7 +119,7 @@
       "lessons": []
     },
     {
-      "slug": "07-psychological-warfare",
+      "slug": "c7",
       "title": {
         "ar": "الحرب النفسية",
         "en": "Psychological Warfare"

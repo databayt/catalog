@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-eng-unit-01-reading-02-author-purpose-quiz",
+      "title": "Quiz: Author's Purpose & Point of View",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-eng-unit-01-reading-02-author-purpose-lq01",
+          "type": "mcq",
+          "question": "Writing meant to convince is mainly to:",
+          "options": [
+            "entertain",
+            "persuade",
+            "describe",
+            "list"
+          ],
+          "answer": "persuade",
+          "explanation": "Persuasive purpose."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-02-author-purpose-lq02",
+          "type": "true_false",
+          "question": "Point of view affects how a story is told.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Perspective matters."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-02-author-purpose-lq03",
+          "type": "fill_blank",
+          "question": "PIE stands for persuade, inform, and ___.",
+          "answer": "entertain",
+          "explanation": "Author's purposes."
+        },
+        {
+          "id": "g7-eng-unit-01-reading-02-author-purpose-lq04",
+          "type": "short_answer",
+          "question": "How can you tell an author's purpose?",
+          "answer": "Look at word choice, tone, and the type of text.",
+          "explanation": "Purpose clues."
+        }
+      ]
+    }
+  ]
+}

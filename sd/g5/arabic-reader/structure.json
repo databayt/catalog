@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-reader-lessons",
+      "slug": "c1",
       "title": {
         "ar": "دروس المورد",
         "en": "Al-Mawrid Reader Lessons"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-najwa-wa-dua",
+          "slug": "l1",
           "title": {
             "ar": "نجوى ودعاء",
             "en": "Whispered Prayer and Supplication"
@@ -40,7 +40,7 @@
           "page": 1
         },
         {
-          "slug": "02-the-ascetic-and-the-worshipper",
+          "slug": "l2",
           "title": {
             "ar": "الناسك والعابد",
             "en": "The Ascetic and the Worshipper"
@@ -48,7 +48,7 @@
           "page": 4
         },
         {
-          "slug": "03-shurayh-the-judge",
+          "slug": "l3",
           "title": {
             "ar": "شريح القاضي",
             "en": "Shurayh the Judge"
@@ -57,7 +57,7 @@
           "image": "clickview/high-research-and-ethics-in-sociology-cover.jpg"
         },
         {
-          "slug": "04-expression-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "تعبير (الدرس الرابع)",
             "en": "Expression (Lesson 4)"
@@ -66,7 +66,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "05-land-of-my-ancestors",
+          "slug": "l5",
           "title": {
             "ar": "أرض أجدادي",
             "en": "The Land of My Ancestors"
@@ -75,7 +75,7 @@
           "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
         },
         {
-          "slug": "06-conflict-muslims-jews",
+          "slug": "l6",
           "title": {
             "ar": "الصراع بين المسلمين واليهود",
             "en": "The Conflict Between the Muslims and the Jews"
@@ -84,7 +84,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "07-water-and-air-pollution",
+          "slug": "l7",
           "title": {
             "ar": "تلوث الماء والهواء",
             "en": "Water and Air Pollution"
@@ -93,7 +93,7 @@
           "image": "clickview/elementary-pollution-cover.jpg"
         },
         {
-          "slug": "08-expression-lesson-8",
+          "slug": "l8",
           "title": {
             "ar": "تعبير (الدرس الثامن)",
             "en": "Expression (Lesson 8)"
@@ -102,7 +102,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "09-cry-of-a-refugee",
+          "slug": "l9",
           "title": {
             "ar": "صرخة لاجئ",
             "en": "A Refugee's Cry"
@@ -111,7 +111,7 @@
           "image": "clickview/middle-refugees-cover.jpg"
         },
         {
-          "slug": "10-ships-and-seafaring",
+          "slug": "l10",
           "title": {
             "ar": "السفن وركوب البحر",
             "en": "Ships and Seafaring"
@@ -119,7 +119,7 @@
           "page": 42
         },
         {
-          "slug": "11-lets-act-a-play",
+          "slug": "l11",
           "title": {
             "ar": "تعال نمثل مسرحية",
             "en": "Let's Act a Play"
@@ -128,7 +128,7 @@
           "image": "clickview/middle-acting-skills-cover.jpg"
         },
         {
-          "slug": "12-letters-and-their-types",
+          "slug": "l12",
           "title": {
             "ar": "الرسائل وأنواعها",
             "en": "Letters and Their Types"
@@ -137,7 +137,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "13-between-a-poet-and-a-bird",
+          "slug": "l13",
           "title": {
             "ar": "بين شاعر وطائر",
             "en": "Between a Poet and a Bird"
@@ -146,7 +146,7 @@
           "image": "clickview/elementary-poetry-cover.jpg"
         },
         {
-          "slug": "14-hypocrisy-spoils-deeds",
+          "slug": "l14",
           "title": {
             "ar": "الرياء يبطل العمل",
             "en": "Ostentation Nullifies Deeds"
@@ -155,7 +155,7 @@
           "image": "clickview/elementary-ethics-and-decision-making-cover.jpg"
         },
         {
-          "slug": "15-guided-expression-dialogue",
+          "slug": "l15",
           "title": {
             "ar": "تعبير موجه (حوار)",
             "en": "Guided Expression (Dialogue)"
@@ -164,7 +164,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "16-the-homeland",
+          "slug": "l16",
           "title": {
             "ar": "الوطن",
             "en": "The Homeland"
@@ -173,7 +173,7 @@
           "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
         },
         {
-          "slug": "17-sheikh-farah",
+          "slug": "l17",
           "title": {
             "ar": "الشيخ فرح",
             "en": "Sheikh Farah"
@@ -181,7 +181,7 @@
           "page": 91
         },
         {
-          "slug": "18-expression-lesson-18",
+          "slug": "l18",
           "title": {
             "ar": "تعبير (الدرس الثامن عشر)",
             "en": "Expression (Lesson 18)"
@@ -190,7 +190,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "19-battle-of-hudaybiyyah",
+          "slug": "l19",
           "title": {
             "ar": "وقعة الحديبية",
             "en": "The Event of Hudaybiyyah"
@@ -199,7 +199,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "20-the-generous-one",
+          "slug": "l20",
           "title": {
             "ar": "الكريم",
             "en": "The Generous One"
@@ -208,7 +208,7 @@
           "image": "clickview/elementary-random-acts-of-kindness-day-cover.jpg"
         },
         {
-          "slug": "21-last-lesson-from-granada-1",
+          "slug": "l21",
           "title": {
             "ar": "الدرس الأخير من حكاية غرناطة (1)",
             "en": "The Last Lesson from the Tale of Granada (1)"
@@ -217,7 +217,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "22-last-lesson-from-granada-2",
+          "slug": "l22",
           "title": {
             "ar": "الدرس الأخير من حكاية غرناطة (2)",
             "en": "The Last Lesson from the Tale of Granada (2)"
@@ -226,7 +226,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "23-expression-lesson-23",
+          "slug": "l23",
           "title": {
             "ar": "تعبير (الدرس الثالث والعشرون)",
             "en": "Expression (Lesson 23)"
@@ -235,7 +235,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "24-shepherds-songs",
+          "slug": "l24",
           "title": {
             "ar": "من أغاني الرعاة",
             "en": "From the Shepherds' Songs"
@@ -243,7 +243,7 @@
           "page": 133
         },
         {
-          "slug": "25-expression-lesson-25",
+          "slug": "l25",
           "title": {
             "ar": "تعبير (الدرس الخامس والعشرون)",
             "en": "Expression (Lesson 25)"
@@ -252,7 +252,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "26-folk-musical-instruments-sudan",
+          "slug": "l26",
           "title": {
             "ar": "الآلات الموسيقية الشعبية في السودان",
             "en": "Folk Musical Instruments in Sudan"
@@ -261,7 +261,7 @@
           "image": "clickview/elementary-world-art-cover.jpg"
         },
         {
-          "slug": "27-dove-eggs",
+          "slug": "l27",
           "title": {
             "ar": "بيض الحمائم",
             "en": "Dove Eggs"
@@ -270,7 +270,7 @@
           "image": "clickview/elementary-birds-cover.jpg"
         },
         {
-          "slug": "28-expression-lesson-28",
+          "slug": "l28",
           "title": {
             "ar": "تعبير (الدرس الثامن والعشرون)",
             "en": "Expression (Lesson 28)"
@@ -279,7 +279,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "29-the-great-conquest",
+          "slug": "l29",
           "title": {
             "ar": "الفتح الأعظم",
             "en": "The Great Conquest"
@@ -288,7 +288,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "30-my-country",
+          "slug": "l30",
           "title": {
             "ar": "بلادي",
             "en": "My Country"
@@ -297,7 +297,7 @@
           "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
         },
         {
-          "slug": "31-expression-lesson-31",
+          "slug": "l31",
           "title": {
             "ar": "تعبير (الدرس الحادي والثلاثون)",
             "en": "Expression (Lesson 31)"
@@ -306,7 +306,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "32-mosques-through-the-ages",
+          "slug": "l32",
           "title": {
             "ar": "مساجد الإسلام والمسلمين في مختلف العصور",
             "en": "Mosques of Islam and the Muslims Through the Ages"
@@ -315,7 +315,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "33-khalil-farah-the-revolutionary-singer",
+          "slug": "l33",
           "title": {
             "ar": "خليل فرح المغني الثائر",
             "en": "Khalil Farah, the Revolutionary Singer"
@@ -324,7 +324,7 @@
           "image": "clickview/elementary-world-art-cover.jpg"
         },
         {
-          "slug": "34-expression-lesson-34",
+          "slug": "l34",
           "title": {
             "ar": "تعبير (الدرس الرابع والثلاثون)",
             "en": "Expression (Lesson 34)"
@@ -333,7 +333,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "35-a-mothers-advice-to-her-daughter",
+          "slug": "l35",
           "title": {
             "ar": "نصيحة أم لابنتها",
             "en": "A Mother's Advice to Her Daughter"
@@ -342,7 +342,7 @@
           "image": "clickview/elementary-family-cover.jpg"
         },
         {
-          "slug": "36-immortal-women",
+          "slug": "l36",
           "title": {
             "ar": "نساء خالدات",
             "en": "Immortal Women"
@@ -350,7 +350,7 @@
           "page": 185
         },
         {
-          "slug": "37-expression-lesson-37",
+          "slug": "l37",
           "title": {
             "ar": "تعبير (الدرس السابع والثلاثون)",
             "en": "Expression (Lesson 37)"
@@ -359,7 +359,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "38-when-the-rain-was-absent",
+          "slug": "l38",
           "title": {
             "ar": "عندما غاب المطر",
             "en": "When the Rain Was Absent"
@@ -368,7 +368,7 @@
           "image": "clickview/elementary-extreme-weather-cover.jpg"
         },
         {
-          "slug": "39-umar-and-the-envoy-of-khosrow",
+          "slug": "l39",
           "title": {
             "ar": "عمر ورسول كسرى",
             "en": "Umar and the Envoy of Khosrow"
@@ -377,7 +377,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "40-expression-lesson-40",
+          "slug": "l40",
           "title": {
             "ar": "تعبير (الدرس الأربعون)",
             "en": "Expression (Lesson 40)"
@@ -386,7 +386,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "41-saad-ibn-abi-waqqas",
+          "slug": "l41",
           "title": {
             "ar": "سعد بن أبي وقاص بطل القادسية",
             "en": "Sa'd ibn Abi Waqqas, Hero of al-Qadisiyyah"
@@ -395,7 +395,7 @@
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "42-the-axe-and-the-tree",
+          "slug": "l42",
           "title": {
             "ar": "الفأس والشجرة",
             "en": "The Axe and the Tree"
@@ -404,7 +404,7 @@
           "image": "clickview/high-deforestation-cover.jpg"
         },
         {
-          "slug": "43-expression-lesson-43",
+          "slug": "l43",
           "title": {
             "ar": "تعبير (الدرس الثالث والأربعون)",
             "en": "Expression (Lesson 43)"
@@ -413,7 +413,7 @@
           "image": "clickview/elementary-writing-structure-and-organization-cover.jpg"
         },
         {
-          "slug": "44-kinship-ties",
+          "slug": "l44",
           "title": {
             "ar": "صلة الرحم",
             "en": "Kinship Ties"
@@ -422,7 +422,7 @@
           "image": "clickview/elementary-family-cover.jpg"
         },
         {
-          "slug": "45-the-weak-ones-argument",
+          "slug": "l45",
           "title": {
             "ar": "حجة الضعيف",
             "en": "The Weak One's Argument"

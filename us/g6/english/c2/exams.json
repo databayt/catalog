@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g6-eng-unit-02-writing-exam",
+      "title": "Exam: Writing",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq01",
+          "type": "mcq",
+          "question": "A claim in an argument is:",
+          "options": [
+            "a fun fact",
+            "the position you take",
+            "a question",
+            "the title"
+          ],
+          "answer": "the position you take",
+          "explanation": "Claim = stance."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq02",
+          "type": "true_false",
+          "question": "Evidence supports a claim.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Backs it up."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq03",
+          "type": "fill_blank",
+          "question": "Reasons and evidence support the ___.",
+          "answer": "claim",
+          "explanation": "Argument's stance."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-01-argument-lq04",
+          "type": "short_answer",
+          "question": "What makes an argument strong?",
+          "answer": "Clear claim, relevant evidence, and logical reasoning.",
+          "explanation": "Argument quality."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq01",
+          "type": "mcq",
+          "question": "Which is a pronoun?",
+          "options": [
+            "run",
+            "they",
+            "quickly",
+            "blue"
+          ],
+          "answer": "they",
+          "explanation": "Replaces a noun."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq02",
+          "type": "true_false",
+          "question": "A clause must contain a verb.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Clause has subject + verb."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq03",
+          "type": "fill_blank",
+          "question": "'The dog that barked' contains a relative ___.",
+          "answer": "clause",
+          "explanation": "Adds info."
+        },
+        {
+          "id": "g6-eng-unit-02-writing-02-grammar-lq04",
+          "type": "short_answer",
+          "question": "Use a comma correctly in a list.",
+          "answer": "e.g., 'apples, pears, and plums'.",
+          "explanation": "Serial list commas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq01",
+      "type": "mcq",
+      "question": "Comparing two poems means looking at:",
+      "options": [
+        "only length",
+        "similarities and differences",
+        "the poets' ages",
+        "the page numbers"
+      ],
+      "answer": "similarities and differences",
+      "explanation": "Compare/contrast."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq02",
+      "type": "true_false",
+      "question": "Two poems can share a theme but differ in tone.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Theme vs tone."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq03",
+      "type": "fill_blank",
+      "question": "Words like 'whereas' and 'similarly' are useful for ___.",
+      "answer": "comparison",
+      "explanation": "Comparative connectives."
+    },
+    {
+      "id": "g9-eng-unit-01-poetry-02-comparison-lq04",
+      "type": "short_answer",
+      "question": "Name one thing to compare between poems.",
+      "answer": "e.g., theme, imagery, structure, or tone.",
+      "explanation": "Comparison points."
+    }
+  ]
+}

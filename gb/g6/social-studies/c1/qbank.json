@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "social-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g6-uae-unit-01-heritage-01-heritage-lq01",
+      "type": "mcq",
+      "question": "Traditional Emirati activities include pearl diving and:",
+      "options": [
+        "falconry",
+        "skiing",
+        "surfing",
+        "ice fishing"
+      ],
+      "answer": "falconry",
+      "explanation": "Heritage."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-01-heritage-lq02",
+      "type": "true_false",
+      "question": "The dhow is a traditional Emirati boat.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Maritime heritage."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-01-heritage-lq03",
+      "type": "fill_blank",
+      "question": "Caring for cultural traditions preserves our ___.",
+      "answer": "heritage",
+      "explanation": "Heritage."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-01-heritage-lq04",
+      "type": "short_answer",
+      "question": "Name one element of Emirati heritage.",
+      "answer": "e.g., falconry, pearl diving, dhow building, or majlis.",
+      "explanation": "Heritage."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-02-identity-lq01",
+      "type": "mcq",
+      "question": "Cultural identity includes language, customs and:",
+      "options": [
+        "values",
+        "weather",
+        "prices",
+        "fonts"
+      ],
+      "answer": "values",
+      "explanation": "Identity elements."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-02-identity-lq02",
+      "type": "true_false",
+      "question": "The Arabic language is part of Emirati identity.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Language and identity."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-02-identity-lq03",
+      "type": "fill_blank",
+      "question": "The traditional gathering place for discussion is the ___.",
+      "answer": "majlis",
+      "explanation": "Majlis."
+    },
+    {
+      "id": "g6-uae-unit-01-heritage-02-identity-lq04",
+      "type": "short_answer",
+      "question": "Why is preserving cultural identity important?",
+      "answer": "It keeps a society's history, values and traditions alive.",
+      "explanation": "Identity."
+    }
+  ]
+}

@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-natural-environment",
+      "slug": "c1",
       "title": {
         "ar": "البيئة الطبيعية للوطن",
         "en": "The Natural Environment of the Homeland"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sudan-environments",
+          "slug": "l1",
           "title": {
             "ar": "بيئات السودان المختلفة",
             "en": "Sudan's Different Environments"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-latitude-longitude",
+          "slug": "l2",
           "title": {
             "ar": "خطوط الطول والعرض",
             "en": "Lines of Longitude and Latitude"
@@ -49,7 +49,7 @@
           "image": "clickview/middle-topographic-maps-cover.jpg"
         },
         {
-          "slug": "03-location-diversity",
+          "slug": "l3",
           "title": {
             "ar": "موقع السودان وتنوعه",
             "en": "Sudan's Location and Diversity"
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "slug": "02-productive-resources",
+      "slug": "c2",
       "title": {
         "ar": "الموارد الإنتاجية",
         "en": "Productive Resources"
@@ -70,7 +70,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-agriculture",
+          "slug": "l1",
           "title": {
             "ar": "الزراعة",
             "en": "Agriculture"
@@ -78,7 +78,7 @@
           "page": 15
         },
         {
-          "slug": "02-industry",
+          "slug": "l2",
           "title": {
             "ar": "الصناعة",
             "en": "Industry"
@@ -86,7 +86,7 @@
           "page": 27
         },
         {
-          "slug": "03-grazing",
+          "slug": "l3",
           "title": {
             "ar": "الرعي",
             "en": "Herding and Grazing"
@@ -94,7 +94,7 @@
           "page": 29
         },
         {
-          "slug": "04-mining",
+          "slug": "l4",
           "title": {
             "ar": "التعدين",
             "en": "Mining"
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "slug": "03-human-geography",
+      "slug": "c3",
       "title": {
         "ar": "الجغرافيا البشرية",
         "en": "Human Geography"
@@ -116,7 +116,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-population-sudan",
+          "slug": "l1",
           "title": {
             "ar": "السكان في السودان",
             "en": "Population in Sudan"
@@ -124,7 +124,7 @@
           "page": 41
         },
         {
-          "slug": "02-service-facilities",
+          "slug": "l2",
           "title": {
             "ar": "المرافق الخدمية في السودان",
             "en": "Service Facilities in Sudan"
@@ -132,7 +132,7 @@
           "page": 44
         },
         {
-          "slug": "03-sudan-cities",
+          "slug": "l3",
           "title": {
             "ar": "مدن السودان",
             "en": "Cities of Sudan"

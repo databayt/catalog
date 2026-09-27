@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g2-sci-unit-01-matter-02-changes-quiz",
+      "title": "Quiz: Changing Materials",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-sci-unit-01-matter-02-changes-lq01",
+          "type": "mcq",
+          "question": "Heating chocolate causes it to:",
+          "options": [
+            "freeze",
+            "melt",
+            "disappear",
+            "harden"
+          ],
+          "answer": "melt",
+          "explanation": "Heat melts it."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-02-changes-lq02",
+          "type": "true_false",
+          "question": "Some changes, like cutting paper, can be reversed by reshaping; others cannot.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Reversible vs not."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-02-changes-lq03",
+          "type": "fill_blank",
+          "question": "Cooling water enough makes it ___.",
+          "answer": "freeze",
+          "explanation": "Freezing."
+        },
+        {
+          "id": "g2-sci-unit-01-matter-02-changes-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a change caused by heat.",
+          "answer": "e.g., melting butter or baking dough.",
+          "explanation": "Heat changes."
+        }
+      ]
+    }
+  ]
+}

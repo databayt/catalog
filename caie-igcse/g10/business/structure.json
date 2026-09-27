@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-understanding-business-activity",
+      "slug": "c1",
       "title": {
         "en": "Understanding Business Activity"
       },
       "lessons": [
         {
-          "slug": "01-understanding-business-activity",
+          "slug": "l1",
           "title": {
             "en": "Understanding Business Activity"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-people-in-business",
+      "slug": "c2",
       "title": {
         "en": "People in Business"
       },
       "lessons": [
         {
-          "slug": "01-people-in-business",
+          "slug": "l1",
           "title": {
             "en": "People in Business"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-marketing",
+      "slug": "c3",
       "title": {
         "en": "Marketing"
       },
       "lessons": [
         {
-          "slug": "01-marketing",
+          "slug": "l1",
           "title": {
             "en": "Marketing"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-operations-management",
+      "slug": "c4",
       "title": {
         "en": "Operations Management"
       },
       "lessons": [
         {
-          "slug": "01-operations-management",
+          "slug": "l1",
           "title": {
             "en": "Operations Management"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-financial-information-and-decisions",
+      "slug": "c5",
       "title": {
         "en": "Financial Information and Decisions"
       },
       "lessons": [
         {
-          "slug": "01-financial-information-and-decisions",
+          "slug": "l1",
           "title": {
             "en": "Financial Information and Decisions"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-external-influences-on-business-activity",
+      "slug": "c6",
       "title": {
         "en": "External Influences on Business Activity"
       },
       "lessons": [
         {
-          "slug": "01-external-influences-on-business-activity",
+          "slug": "l1",
           "title": {
             "en": "External Influences on Business Activity"
           }

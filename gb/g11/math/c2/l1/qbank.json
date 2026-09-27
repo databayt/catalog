@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-mat-unit-02-statistics-01-averages-lq01",
+      "type": "mcq",
+      "question": "The middle value of ordered data is the:",
+      "options": [
+        "mean",
+        "median",
+        "mode",
+        "range"
+      ],
+      "answer": "median",
+      "explanation": "Middle value."
+    },
+    {
+      "id": "g11-mat-unit-02-statistics-01-averages-lq02",
+      "type": "true_false",
+      "question": "The range is the difference between highest and lowest values.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Spread."
+    },
+    {
+      "id": "g11-mat-unit-02-statistics-01-averages-lq03",
+      "type": "fill_blank",
+      "question": "The most frequent value is the ___.",
+      "answer": "mode",
+      "explanation": "Mode."
+    },
+    {
+      "id": "g11-mat-unit-02-statistics-01-averages-lq04",
+      "type": "short_answer",
+      "question": "How do you find the mean?",
+      "answer": "Add all values and divide by how many there are.",
+      "explanation": "Mean."
+    }
+  ]
+}

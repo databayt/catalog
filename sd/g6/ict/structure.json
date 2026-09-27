@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-networks",
+      "slug": "c1",
       "title": {
         "ar": "الشبكات",
         "en": "Networks"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-what-is-a-network",
+          "slug": "l1",
           "title": {
             "ar": "ما هي الشبكة",
             "en": "What is a Network?"
@@ -40,7 +40,7 @@
           "page": 1
         },
         {
-          "slug": "02-network-addresses",
+          "slug": "l2",
           "title": {
             "ar": "عناوين الشبكات",
             "en": "Network Addresses"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "03-types-of-networks",
+          "slug": "l3",
           "title": {
             "ar": "أنواع الشبكات",
             "en": "Types of Networks"
@@ -56,7 +56,7 @@
           "page": 5
         },
         {
-          "slug": "04-network-server",
+          "slug": "l4",
           "title": {
             "ar": "خادم الشبكة",
             "en": "The Network Server"
@@ -64,7 +64,7 @@
           "page": 7
         },
         {
-          "slug": "05-cloud-computing",
+          "slug": "l5",
           "title": {
             "ar": "الحوسبة السحابية",
             "en": "Cloud Computing"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-cybercrime-information-security",
+      "slug": "c2",
       "title": {
         "ar": "الجرائم الإلكترونية و أمن المعلومات",
         "en": "Electronic Crimes and Information Security"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-electronic-crimes",
+          "slug": "l1",
           "title": {
             "ar": "الجرائم الإلكترونية",
             "en": "Electronic Crimes"
@@ -93,7 +93,7 @@
           "page": 12
         },
         {
-          "slug": "02-information-security",
+          "slug": "l2",
           "title": {
             "ar": "أمن المعلومات",
             "en": "Information Security"
@@ -101,7 +101,7 @@
           "page": 14
         },
         {
-          "slug": "03-protecting-information",
+          "slug": "l3",
           "title": {
             "ar": "كيف نحمي المعلومات",
             "en": "How Do We Protect Information"
@@ -109,7 +109,7 @@
           "page": 15
         },
         {
-          "slug": "04-safe-internet-use",
+          "slug": "l4",
           "title": {
             "ar": "الاستخدام الآمن للإنترنت",
             "en": "Safe Use of the Internet"
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "slug": "03-presentations",
+      "slug": "c3",
       "title": {
         "ar": "العروض التقديمية",
         "en": "Presentations"
@@ -130,7 +130,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-what-is-powerpoint",
+          "slug": "l1",
           "title": {
             "ar": "ما هو برنامج Power Point",
             "en": "What is PowerPoint?"
@@ -138,7 +138,7 @@
           "page": 22
         },
         {
-          "slug": "02-designing-a-presentation",
+          "slug": "l2",
           "title": {
             "ar": "طريقة تصميم عرض تقديمي",
             "en": "How to Design a Presentation"
@@ -146,7 +146,7 @@
           "page": 25
         },
         {
-          "slug": "03-animations-and-effects",
+          "slug": "l3",
           "title": {
             "ar": "إضافة الحركات و التأثيرات",
             "en": "Adding Animations and Effects"
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "slug": "04-software-databases",
+      "slug": "c4",
       "title": {
         "ar": "البرمجيات و قواعد البيانات",
         "en": "Software and Databases"
@@ -167,7 +167,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-types-of-software",
+          "slug": "l1",
           "title": {
             "ar": "أنواع البرمجيات",
             "en": "Types of Software"
@@ -175,7 +175,7 @@
           "page": 32
         },
         {
-          "slug": "02-systems-software",
+          "slug": "l2",
           "title": {
             "ar": "برمجيات النظم",
             "en": "Systems Software"
@@ -183,7 +183,7 @@
           "page": 33
         },
         {
-          "slug": "03-programming-languages",
+          "slug": "l3",
           "title": {
             "ar": "لغات البرمجة",
             "en": "Programming Languages"
@@ -191,7 +191,7 @@
           "page": 34
         },
         {
-          "slug": "04-database-concept",
+          "slug": "l4",
           "title": {
             "ar": "مفهوم قواعد البيانات",
             "en": "The Concept of Databases"
@@ -200,7 +200,7 @@
           "image": "clickview/middle-data-and-information-cover.jpg"
         },
         {
-          "slug": "05-network-system-model",
+          "slug": "l5",
           "title": {
             "ar": "نموذج لنظام شبكي",
             "en": "A Model of a Networked System"
@@ -208,7 +208,7 @@
           "page": 38
         },
         {
-          "slug": "06-smartphone-applications",
+          "slug": "l6",
           "title": {
             "ar": "تطبيقات الهواتف الذكية",
             "en": "Smartphone Applications"
@@ -216,7 +216,7 @@
           "page": 40
         },
         {
-          "slug": "07-ipschools-smart-school-app",
+          "slug": "l7",
           "title": {
             "ar": "تطبيق المدرسة الذكي ipSchools",
             "en": "The Smart School App: ipSchools"
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "slug": "05-computers-around-us",
+      "slug": "c5",
       "title": {
         "ar": "الكمبيوتر من حولنا",
         "en": "Computers Around Us"
@@ -237,7 +237,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-computers-in-banks",
+          "slug": "l1",
           "title": {
             "ar": "الكمبيوتر في البنوك",
             "en": "Computers in Banks"
@@ -245,7 +245,7 @@
           "page": 43
         },
         {
-          "slug": "02-computers-in-police-institutions",
+          "slug": "l2",
           "title": {
             "ar": "الكمبيوتر في المؤسسات الشرطية",
             "en": "Computers in Police Institutions"

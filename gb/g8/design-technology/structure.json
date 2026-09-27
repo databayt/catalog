@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-design-process",
+      "slug": "c1",
       "title": {
         "en": "The Design Process"
       },
       "lessons": [
         {
-          "slug": "01-research",
+          "slug": "l1",
           "title": {
             "en": "Research & Specification"
           }
         },
         {
-          "slug": "02-prototype",
+          "slug": "l2",
           "title": {
             "en": "Prototyping & Testing"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-materials",
+      "slug": "c2",
       "title": {
         "en": "Materials & Manufacture"
       },
       "lessons": [
         {
-          "slug": "01-materials",
+          "slug": "l1",
           "title": {
             "en": "Choosing Materials"
           }
         },
         {
-          "slug": "02-sustainability",
+          "slug": "l2",
           "title": {
             "en": "Sustainable Design"
           }

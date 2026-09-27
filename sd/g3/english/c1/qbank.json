@@ -1,0 +1,98 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g3-en-u01-q001",
+      "type": "mcq",
+      "question": "Choose the correct answer: Plural of child is ___",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q002",
+      "type": "true_false",
+      "question": "True or False: I am going to school every day uses present continuous",
+      "answer": true,
+      "explanation": "The statement about Welcome to English is True."
+    },
+    {
+      "id": "g3-en-u01-q003",
+      "type": "fill_blank",
+      "question": "Fill in: I ___ (have/has) two brothers",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q004",
+      "type": "short_answer",
+      "question": "Answer: Write about your daily routine",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q005",
+      "type": "mcq",
+      "question": "Choose the correct answer: The verb 'to be' in past tense is ___",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q006",
+      "type": "true_false",
+      "question": "True or False: Yesterday is in the past",
+      "answer": true,
+      "explanation": "The statement about Welcome to English is True."
+    },
+    {
+      "id": "g3-en-u01-q007",
+      "type": "fill_blank",
+      "question": "Fill in: The cat ___ (is/are) sleeping",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q008",
+      "type": "short_answer",
+      "question": "Answer: Write about your daily routine",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q009",
+      "type": "mcq",
+      "question": "Choose the correct answer: How do you spell the number 8?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for Welcome to English."
+    },
+    {
+      "id": "g3-en-u01-q010",
+      "type": "true_false",
+      "question": "True or False: Dogs is a plural noun",
+      "answer": true,
+      "explanation": "The statement about Welcome to English is True."
+    }
+  ]
+}

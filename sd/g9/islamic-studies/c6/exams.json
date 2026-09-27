@@ -1,0 +1,266 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "c6"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-unit-06-quiz",
+      "title": "اختبار - السيرة",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-isl-unit-06-01-battle-of-ahzab-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-01-battle-of-ahzab-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-02-preparing-for-battle-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-02-preparing-for-battle-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-03-demoralizing-enemies-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-03-demoralizing-enemies-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-04-treaty-of-hudaybiyyah-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-04-treaty-of-hudaybiyyah-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-05-treaty-consequences-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-05-treaty-consequences-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        }
+      ]
+    },
+    {
+      "id": "g9-isl-unit-06-quiz-2",
+      "title": "اختبار - السيرة",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-isl-unit-06-01-battle-of-ahzab-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-01-battle-of-ahzab-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-02-preparing-for-battle-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-02-preparing-for-battle-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-03-demoralizing-enemies-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-03-demoralizing-enemies-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-04-treaty-of-hudaybiyyah-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-04-treaty-of-hudaybiyyah-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        },
+        {
+          "id": "g9-isl-unit-06-05-treaty-consequences-q01",
+          "type": "mcq",
+          "question": "في أي عام كانت هجرة النبي ﷺ من مكة إلى المدينة؟",
+          "options": [
+            "1 هجري",
+            "2 هجري",
+            "3 هجري",
+            "5 هجري"
+          ],
+          "answer": "1 هجري",
+          "explanation": "الهجرة النبوية كانت عام 622م وهو بداية التقويم الهجري."
+        },
+        {
+          "id": "g9-isl-unit-06-05-treaty-consequences-q02",
+          "type": "true_false",
+          "question": "غزوة بدر كانت أول غزوة في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "غزوة بدر الكبرى كانت في السنة الثانية للهجرة."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "art",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-art-unit-02-making-02-artists-lq01",
+      "type": "mcq",
+      "question": "Studying a famous artist helps us learn about:",
+      "options": [
+        "styles and techniques",
+        "cooking",
+        "sports",
+        "maths only"
+      ],
+      "answer": "styles and techniques",
+      "explanation": "Art appreciation."
+    },
+    {
+      "id": "g4-art-unit-02-making-02-artists-lq02",
+      "type": "true_false",
+      "question": "Different artists use different styles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Personal style."
+    },
+    {
+      "id": "g4-art-unit-02-making-02-artists-lq03",
+      "type": "fill_blank",
+      "question": "A painting of a person is called a ___.",
+      "answer": "portrait",
+      "explanation": "Portrait."
+    },
+    {
+      "id": "g4-art-unit-02-making-02-artists-lq04",
+      "type": "short_answer",
+      "question": "Name one thing you can learn from a famous artwork.",
+      "answer": "e.g., technique, colour use, or how it expresses feeling.",
+      "explanation": "Art study."
+    }
+  ]
+}

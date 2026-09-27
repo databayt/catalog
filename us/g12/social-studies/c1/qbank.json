@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "social-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g12-soc-unit-01-government-01-constitution-lq01",
+      "type": "mcq",
+      "question": "Which branch makes laws?",
+      "options": [
+        "legislative",
+        "executive",
+        "judicial",
+        "none"
+      ],
+      "answer": "legislative",
+      "explanation": "Congress makes laws."
+    },
+    {
+      "id": "g12-soc-unit-01-government-01-constitution-lq02",
+      "type": "true_false",
+      "question": "The judicial branch interprets laws.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Courts."
+    },
+    {
+      "id": "g12-soc-unit-01-government-01-constitution-lq03",
+      "type": "fill_blank",
+      "question": "The executive branch is led by the ___.",
+      "answer": "President",
+      "explanation": "Executive."
+    },
+    {
+      "id": "g12-soc-unit-01-government-01-constitution-lq04",
+      "type": "short_answer",
+      "question": "What is the purpose of separation of powers?",
+      "answer": "To prevent any one branch from becoming too powerful.",
+      "explanation": "Separation of powers."
+    },
+    {
+      "id": "g12-soc-unit-01-government-02-rights-participation-lq01",
+      "type": "mcq",
+      "question": "The right to vote is exercised in:",
+      "options": [
+        "elections",
+        "sports",
+        "shopping",
+        "weather"
+      ],
+      "answer": "elections",
+      "explanation": "Suffrage."
+    },
+    {
+      "id": "g12-soc-unit-01-government-02-rights-participation-lq02",
+      "type": "true_false",
+      "question": "The Bill of Rights protects individual freedoms.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "First 10 amendments."
+    },
+    {
+      "id": "g12-soc-unit-01-government-02-rights-participation-lq03",
+      "type": "fill_blank",
+      "question": "Freedom of speech is protected by the First ___.",
+      "answer": "Amendment",
+      "explanation": "1st Amendment."
+    },
+    {
+      "id": "g12-soc-unit-01-government-02-rights-participation-lq04",
+      "type": "short_answer",
+      "question": "Name one way citizens participate in democracy.",
+      "answer": "e.g., voting, jury service, activism, or contacting officials.",
+      "explanation": "Civic participation."
+    }
+  ]
+}

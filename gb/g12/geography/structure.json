@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-water-carbon",
+      "slug": "c1",
       "title": {
         "en": "Water & Carbon Cycles"
       },
       "lessons": [
         {
-          "slug": "01-water-cycle",
+          "slug": "l1",
           "title": {
             "en": "The Water Cycle as a System"
           }
         },
         {
-          "slug": "02-carbon-cycle",
+          "slug": "l2",
           "title": {
             "en": "The Carbon Cycle"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-global-places",
+      "slug": "c2",
       "title": {
         "en": "Global Systems & Changing Places"
       },
       "lessons": [
         {
-          "slug": "01-global-systems",
+          "slug": "l1",
           "title": {
             "en": "Global Systems & Governance"
           }
         },
         {
-          "slug": "02-changing-places",
+          "slug": "l2",
           "title": {
             "en": "Changing Places"
           }

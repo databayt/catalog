@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "moral-education",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-mor-unit-02-justice-01-justice-lq01",
+      "type": "mcq",
+      "question": "Justice means upholding people's:",
+      "options": [
+        "rights fairly",
+        "privileges only",
+        "fonts",
+        "prices"
+      ],
+      "answer": "rights fairly",
+      "explanation": "Justice."
+    },
+    {
+      "id": "g11-mor-unit-02-justice-01-justice-lq02",
+      "type": "true_false",
+      "question": "Rule of law treats everyone equally.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Equality before law."
+    },
+    {
+      "id": "g11-mor-unit-02-justice-01-justice-lq03",
+      "type": "fill_blank",
+      "question": "A system that gives people their due rights is ___.",
+      "answer": "justice",
+      "explanation": "Justice."
+    },
+    {
+      "id": "g11-mor-unit-02-justice-01-justice-lq04",
+      "type": "short_answer",
+      "question": "Why is justice important in society?",
+      "answer": "It protects rights and maintains fairness and order.",
+      "explanation": "Justice."
+    }
+  ]
+}

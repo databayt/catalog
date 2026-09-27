@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-prayer",
+      "slug": "c1",
       "title": {
         "ar": "الصلاة"
       },
       "lessons": [
         {
-          "slug": "01-salah",
+          "slug": "l1",
           "title": {
             "ar": "الصلوات الخمس"
           }
         },
         {
-          "slug": "02-names-allah",
+          "slug": "l2",
           "title": {
             "ar": "أسماء الله الحسنى"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-akhlaq",
+      "slug": "c2",
       "title": {
         "ar": "الأخلاق والآداب"
       },
       "lessons": [
         {
-          "slug": "01-truth",
+          "slug": "l1",
           "title": {
             "ar": "الصدق"
           }
         },
         {
-          "slug": "02-respect",
+          "slug": "l2",
           "title": {
             "ar": "احترام الكبير"
           }

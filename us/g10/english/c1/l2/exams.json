@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-01-world-lit-02-tone-mood-quiz",
+      "title": "Quiz: Tone & Mood",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq01",
+          "type": "mcq",
+          "question": "Tone is the author's:",
+          "options": [
+            "attitude",
+            "plot",
+            "setting",
+            "title"
+          ],
+          "answer": "attitude",
+          "explanation": "Author's attitude."
+        },
+        {
+          "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq02",
+          "type": "true_false",
+          "question": "Mood is the feeling created in the reader.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Atmosphere."
+        },
+        {
+          "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq03",
+          "type": "fill_blank",
+          "question": "Word choice that creates feeling is called ___.",
+          "answer": "diction",
+          "explanation": "Diction."
+        },
+        {
+          "id": "g10-eng-unit-01-world-lit-02-tone-mood-lq04",
+          "type": "short_answer",
+          "question": "How do tone and mood differ?",
+          "answer": "Tone is the writer's attitude; mood is the reader's feeling.",
+          "explanation": "Tone vs mood."
+        }
+      ]
+    }
+  ]
+}

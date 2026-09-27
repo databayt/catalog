@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-geography",
+      "slug": "c1",
       "title": {
         "en": "UAE Geography & Landmarks"
       },
       "lessons": [
         {
-          "slug": "01-geography",
+          "slug": "l1",
           "title": {
             "en": "Geography of the UAE"
           }
         },
         {
-          "slug": "02-landmarks",
+          "slug": "l2",
           "title": {
             "en": "Famous Landmarks"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-empathy",
+      "slug": "c2",
       "title": {
         "en": "Empathy & Caring"
       },
       "lessons": [
         {
-          "slug": "01-empathy",
+          "slug": "l1",
           "title": {
             "en": "Empathy"
           }
         },
         {
-          "slug": "02-caring-community",
+          "slug": "l2",
           "title": {
             "en": "Caring for Others"
           }

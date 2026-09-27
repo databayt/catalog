@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l3"
+  },
+  "exams": [
+    {
+      "id": "g3-geography-unit-01-exam-5756",
+      "title": "Lesson Quiz - 03-environment-elements - Geography",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ge-u01-q003",
+          "type": "fill_blank",
+          "question": "أكمل: أكبر دولة في الشرق الأوسط ___",
+          "answer": "sample answer",
+          "explanation": "Complete the sentence about البيئة من حولنا."
+        }
+      ]
+    }
+  ]
+}

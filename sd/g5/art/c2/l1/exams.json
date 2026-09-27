@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "art",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g5-art-unit-02-01-artistic-design-lquiz",
+      "title": "اختبار - التصميم الفني",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-art-unit-02-01-artistic-design-lq01",
+          "type": "mcq",
+          "question": "ما الألوان الثلاثة الأساسية في الفن؟",
+          "options": [
+            "الأحمر والأزرق والأصفر",
+            "الأحمر والأخضر والأزرق",
+            "الأبيض والأسود والرمادي",
+            "البرتقالي والبنفسجي والأخضر"
+          ],
+          "answer": "الأحمر والأزرق والأصفر",
+          "explanation": "الألوان الأساسية هي الأحمر والأزرق والأصفر، لا يمكن تكوينها بمزج."
+        },
+        {
+          "id": "g5-art-unit-02-01-artistic-design-lq02",
+          "type": "true_false",
+          "question": "مزج اللون الأحمر مع الأصفر ينتج اللون البرتقالي.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأحمر + الأصفر = البرتقالي."
+        },
+        {
+          "id": "g5-art-unit-02-01-artistic-design-lq03",
+          "type": "fill_blank",
+          "question": "الرسم بالخطوط والمنحنيات لتكوين صور يسمى ___.",
+          "answer": "الرسم بالخطوط / رسم الخط",
+          "explanation": "الرسم الخطي أحد أساسيات الفن التشكيلي."
+        },
+        {
+          "id": "g5-art-unit-02-01-artistic-design-lq04",
+          "type": "short_answer",
+          "question": "ما أنواع الفنون التي درستها هذا العام؟",
+          "answer": "الرسم والتلوين والنحت والخزف والفن التشكيلي وغيرها.",
+          "explanation": "الفنون البصرية أشكال متنوعة للتعبير الإبداعي."
+        }
+      ]
+    }
+  ]
+}

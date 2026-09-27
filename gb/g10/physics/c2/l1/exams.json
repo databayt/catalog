@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "physics",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-phy-unit-02-electricity-01-circuits-quiz",
+      "title": "Quiz: Current, Voltage & Resistance",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq01",
+          "type": "mcq",
+          "question": "Ohm's law states V = I ×:",
+          "options": [
+            "P",
+            "R",
+            "Q",
+            "t"
+          ],
+          "answer": "R",
+          "explanation": "V = IR."
+        },
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq02",
+          "type": "true_false",
+          "question": "In a series circuit current is the same everywhere.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Single path."
+        },
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq03",
+          "type": "fill_blank",
+          "question": "Resistance is measured in ___.",
+          "answer": "ohms",
+          "explanation": "Unit Ω."
+        },
+        {
+          "id": "g10-phy-unit-02-electricity-01-circuits-lq04",
+          "type": "short_answer",
+          "question": "What happens to current if resistance increases (constant V)?",
+          "answer": "It decreases.",
+          "explanation": "Ohm's law."
+        }
+      ]
+    }
+  ]
+}

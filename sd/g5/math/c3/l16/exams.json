@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l16"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-03-16-finding-missing-number-lquiz",
+      "title": "اختبار - إيجاد العدد المفقود",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-mat-unit-03-16-finding-missing-number-lq01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-16-finding-missing-number-lq02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-03-16-finding-missing-number-lq03",
+          "type": "fill_blank",
+          "question": "الكسر المكافئ لـ 2/3 هو 4/___.",
+          "answer": "6",
+          "explanation": "ضرب البسط والمقام في 2: 2×2=4، 3×2=6."
+        },
+        {
+          "id": "g5-mat-unit-03-16-finding-missing-number-lq04",
+          "type": "short_answer",
+          "question": "كيف تقارن بين كسرين مختلفي المقام؟",
+          "answer": "نجد مضاعفاً مشتركاً للمقامين ثم نقارن البسطين.",
+          "explanation": "المقارنة بين الكسور تتطلب توحيد المقامات."
+        }
+      ]
+    }
+  ]
+}

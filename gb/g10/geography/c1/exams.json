@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "geography",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g10-geo-unit-01-living-world-exam",
+      "title": "Exam: The Living World",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq01",
+          "type": "mcq",
+          "question": "A community of living things and their environment is an:",
+          "options": [
+            "ecosystem",
+            "atom",
+            "equation",
+            "industry"
+          ],
+          "answer": "ecosystem",
+          "explanation": "Eco unit."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq02",
+          "type": "true_false",
+          "question": "Energy flows through an ecosystem via food chains.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Energy flow."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq03",
+          "type": "fill_blank",
+          "question": "Plants that produce their own food are ___.",
+          "answer": "producers",
+          "explanation": "Producers."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-01-ecosystems-lq04",
+          "type": "short_answer",
+          "question": "What happens if one part of an ecosystem changes?",
+          "answer": "Other parts are affected due to interdependence.",
+          "explanation": "Interdependence."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq01",
+          "type": "mcq",
+          "question": "Tropical rainforests are found mainly near the:",
+          "options": [
+            "poles",
+            "equator",
+            "deserts",
+            "mountains"
+          ],
+          "answer": "equator",
+          "explanation": "Equatorial belt."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq02",
+          "type": "true_false",
+          "question": "Plants in hot deserts are adapted to conserve water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Xerophytes."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq03",
+          "type": "fill_blank",
+          "question": "Cutting down rainforest is called ___.",
+          "answer": "deforestation",
+          "explanation": "Rainforest loss."
+        },
+        {
+          "id": "g10-geo-unit-01-living-world-02-rainforests-deserts-lq04",
+          "type": "short_answer",
+          "question": "Name one way rainforest plants are adapted.",
+          "answer": "e.g., drip-tips, buttress roots, or tall trees for light.",
+          "explanation": "Rainforest adaptation."
+        }
+      ]
+    }
+  ]
+}

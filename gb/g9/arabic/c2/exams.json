@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-02-styles-exam",
+      "title": "Exam: الأساليب اللغوية",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq01",
+          "type": "mcq",
+          "question": "أداة استفهام مما يلي:",
+          "options": [
+            "هل",
+            "لم",
+            "لن",
+            "قد"
+          ],
+          "answer": "هل",
+          "explanation": "أداة استفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq02",
+          "type": "true_false",
+          "question": "(متى، أين، كيف) أدوات استفهام.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الاستفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq03",
+          "type": "fill_blank",
+          "question": "أسلوب يُطلب به العلم بشيء هو أسلوب ___.",
+          "answer": "الاستفهام",
+          "explanation": "الاستفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-01-istfham-lq04",
+          "type": "short_answer",
+          "question": "هات جملة فيها أسلوب استفهام.",
+          "answer": "مثل: متى تعود؟",
+          "explanation": "الاستفهام."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-02-nida-lq01",
+          "type": "mcq",
+          "question": "أداة النداء في (يا طالبُ) هي:",
+          "options": [
+            "يا",
+            "هل",
+            "لم",
+            "قد"
+          ],
+          "answer": "يا",
+          "explanation": "أداة نداء."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-02-nida-lq02",
+          "type": "true_false",
+          "question": "النداء أسلوب لطلب الإقبال.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "النداء."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-02-nida-lq03",
+          "type": "fill_blank",
+          "question": "أشهر أدوات النداء هي ___.",
+          "answer": "يا",
+          "explanation": "النداء."
+        },
+        {
+          "id": "g9-ara-unit-02-styles-02-nida-lq04",
+          "type": "short_answer",
+          "question": "كوّن جملة فيها نداء.",
+          "answer": "مثل: يا أحمدُ، اجتهدْ.",
+          "explanation": "النداء."
+        }
+      ]
+    }
+  ]
+}

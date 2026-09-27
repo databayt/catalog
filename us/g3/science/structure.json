@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-forces",
+      "slug": "c1",
       "title": {
         "en": "Forces & Motion"
       },
       "lessons": [
         {
-          "slug": "01-push-pull",
+          "slug": "l1",
           "title": {
             "en": "Pushes, Pulls and Forces"
           }
         },
         {
-          "slug": "02-magnets",
+          "slug": "l2",
           "title": {
             "en": "Magnets"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-life-cycles",
+      "slug": "c2",
       "title": {
         "en": "Life Cycles & Traits"
       },
       "lessons": [
         {
-          "slug": "01-life-cycles",
+          "slug": "l1",
           "title": {
             "en": "Life Cycles"
           }
         },
         {
-          "slug": "02-inherited-traits",
+          "slug": "l2",
           "title": {
             "en": "Inherited Traits"
           }

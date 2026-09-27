@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-world-of-living-things",
+      "slug": "c1",
       "title": {
         "ar": "عالم الأحياء",
         "en": "The World of Living Things"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-organisms",
+          "slug": "l1",
           "title": {
             "ar": "الكائنات",
             "en": "Organisms"
@@ -48,7 +48,7 @@
           "page": 8
         },
         {
-          "slug": "02-characteristics-of-living-things",
+          "slug": "l2",
           "title": {
             "ar": "خصائص الكائنات الحية",
             "en": "Characteristics of Living Things"
@@ -56,7 +56,7 @@
           "page": 11
         },
         {
-          "slug": "03-needs-of-living-things",
+          "slug": "l3",
           "title": {
             "ar": "حاجات الكائنات الحية",
             "en": "Needs of Living Things"
@@ -64,7 +64,7 @@
           "page": 14
         },
         {
-          "slug": "04-habitats-of-living-things",
+          "slug": "l4",
           "title": {
             "ar": "مواطن الكائنات الحية",
             "en": "Habitats of Living Things"
@@ -73,7 +73,7 @@
           "image": "clickview/elementary-habitats-cover.jpg"
         },
         {
-          "slug": "05-the-human-body",
+          "slug": "l5",
           "title": {
             "ar": "جسم الإنسان",
             "en": "The Human Body"
@@ -82,7 +82,7 @@
           "image": "clickview/elementary-body-systems-cover.jpg"
         },
         {
-          "slug": "06-the-sense-organs",
+          "slug": "l6",
           "title": {
             "ar": "أعضاء الحس",
             "en": "The Sense Organs"
@@ -91,7 +91,7 @@
           "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
         },
         {
-          "slug": "07-the-sense-of-sight",
+          "slug": "l7",
           "title": {
             "ar": "حاسة البصر",
             "en": "The Sense of Sight"
@@ -100,7 +100,7 @@
           "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
         },
         {
-          "slug": "08-the-sense-of-smell",
+          "slug": "l8",
           "title": {
             "ar": "حاسة الشم",
             "en": "The Sense of Smell"
@@ -109,7 +109,7 @@
           "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
         },
         {
-          "slug": "09-the-sense-of-taste",
+          "slug": "l9",
           "title": {
             "ar": "حاسة الذوق",
             "en": "The Sense of Taste"
@@ -118,7 +118,7 @@
           "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
         },
         {
-          "slug": "10-the-sense-of-touch",
+          "slug": "l10",
           "title": {
             "ar": "حاسة اللمس",
             "en": "The Sense of Touch"
@@ -127,7 +127,7 @@
           "image": "clickview/elementary-parts-of-the-body-and-five-senses-cover.jpg"
         },
         {
-          "slug": "11-plants",
+          "slug": "l11",
           "title": {
             "ar": "النباتات",
             "en": "Plants"
@@ -136,7 +136,7 @@
           "image": "clickview/elementary-plants-cover.jpg"
         },
         {
-          "slug": "12-animals",
+          "slug": "l12",
           "title": {
             "ar": "الحيوانات",
             "en": "Animals"
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "slug": "02-materials",
+      "slug": "c2",
       "title": {
         "ar": "المواد",
         "en": "Materials"
@@ -158,7 +158,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-matter",
+          "slug": "l1",
           "title": {
             "ar": "المادة",
             "en": "Matter"
@@ -166,7 +166,7 @@
           "page": 35
         },
         {
-          "slug": "02-properties-of-materials",
+          "slug": "l2",
           "title": {
             "ar": "خواص المواد",
             "en": "Properties of Materials"
@@ -174,7 +174,7 @@
           "page": 37
         },
         {
-          "slug": "03-classifying-materials",
+          "slug": "l3",
           "title": {
             "ar": "تصنيف المواد",
             "en": "Classifying Materials"
@@ -183,7 +183,7 @@
           "image": "clickview/elementary-classification-cover.jpg"
         },
         {
-          "slug": "04-using-materials",
+          "slug": "l4",
           "title": {
             "ar": "استخدام المواد",
             "en": "Using Materials"
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "slug": "03-energy",
+      "slug": "c3",
       "title": {
         "ar": "الطاقة",
         "en": "Energy"
@@ -205,7 +205,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-light-energy",
+          "slug": "l1",
           "title": {
             "ar": "الطاقة الضوئية",
             "en": "Light Energy"
@@ -214,7 +214,7 @@
           "image": "clickview/elementary-light-cover.jpg"
         },
         {
-          "slug": "02-shadows",
+          "slug": "l2",
           "title": {
             "ar": "الظل",
             "en": "Shadows"
@@ -223,7 +223,7 @@
           "image": "clickview/elementary-light-cover.jpg"
         },
         {
-          "slug": "03-electrical-energy",
+          "slug": "l3",
           "title": {
             "ar": "الطاقة الكهربية",
             "en": "Electrical Energy"
@@ -232,7 +232,7 @@
           "image": "clickview/elementary-electricity-cover.jpg"
         },
         {
-          "slug": "04-sources-of-electricity",
+          "slug": "l4",
           "title": {
             "ar": "مصادر الكهرباء",
             "en": "Sources of Electricity"
@@ -241,7 +241,7 @@
           "image": "clickview/elementary-electricity-cover.jpg"
         },
         {
-          "slug": "05-the-electric-circuit",
+          "slug": "l5",
           "title": {
             "ar": "الدائرة الكهربية",
             "en": "The Electric Circuit"

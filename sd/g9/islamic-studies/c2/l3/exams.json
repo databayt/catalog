@@ -1,0 +1,105 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l3"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-unit-02-03-evidence-of-gods-power-lquiz",
+      "title": "اختبار درس - الأدلة على قدرة الله",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq03",
+          "type": "fill_blank",
+          "question": "أول ما نزل من القرآن الكريم سورة ___.",
+          "answer": "العلق (اقرأ)",
+          "explanation": "أول ما نزل قوله تعالى 'اقرأ باسم ربك الذي خلق'."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq04",
+          "type": "short_answer",
+          "question": "ما أهمية تلاوة القرآن الكريم؟",
+          "answer": "تزكية النفس وهداية القلب والحصول على الأجر والثواب.",
+          "explanation": "للقرآن فضائل عظيمة في الدنيا والآخرة."
+        }
+      ]
+    },
+    {
+      "id": "g9-isl-unit-02-03-evidence-of-gods-power-lquiz-2",
+      "title": "اختبار درس - الأدلة على قدرة الله",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq03",
+          "type": "fill_blank",
+          "question": "أول ما نزل من القرآن الكريم سورة ___.",
+          "answer": "العلق (اقرأ)",
+          "explanation": "أول ما نزل قوله تعالى 'اقرأ باسم ربك الذي خلق'."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-lq04",
+          "type": "short_answer",
+          "question": "ما أهمية تلاوة القرآن الكريم؟",
+          "answer": "تزكية النفس وهداية القلب والحصول على الأجر والثواب.",
+          "explanation": "للقرآن فضائل عظيمة في الدنيا والآخرة."
+        }
+      ]
+    }
+  ]
+}

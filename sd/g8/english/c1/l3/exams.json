@@ -1,0 +1,40 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l3"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-01-03-a-clean-environment-lquiz",
+      "title": "اختبار - A Clean Environment",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 2,
+      "questions": [
+        {
+          "id": "g8-en-unit01-q005",
+          "type": "mcq",
+          "question": "Transform: 'Active: The teacher explained the lesson.' to Passive",
+          "options": [
+            "The lesson explained the teacher",
+            "The lesson was explained by the teacher",
+            "The teacher was explained the lesson",
+            "Explaining the lesson by teacher"
+          ],
+          "answer": "The lesson was explained by the teacher",
+          "explanation": "Passive voice: object becomes subject"
+        },
+        {
+          "id": "g8-en-unit01-q006",
+          "type": "short_answer",
+          "question": "Write a sentence using relative clause with 'who'",
+          "answer": "The student who studies hard will succeed",
+          "explanation": "Any sentence with relative clause"
+        }
+      ]
+    }
+  ]
+}

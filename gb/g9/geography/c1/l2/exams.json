@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-geo-unit-01-rivers-coasts-02-coasts-quiz",
+      "title": "Quiz: Coastal Processes & Landforms",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq01",
+          "type": "mcq",
+          "question": "Waves wearing away the coast is coastal:",
+          "options": [
+            "erosion",
+            "deposition",
+            "evaporation",
+            "melting"
+          ],
+          "answer": "erosion",
+          "explanation": "Coastal erosion."
+        },
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq02",
+          "type": "true_false",
+          "question": "A spit is a coastal landform made by deposition.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Deposition feature."
+        },
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq03",
+          "type": "fill_blank",
+          "question": "An arch that collapses can leave a sea ___.",
+          "answer": "stack",
+          "explanation": "Coastal stack."
+        },
+        {
+          "id": "g9-geo-unit-01-rivers-coasts-02-coasts-lq04",
+          "type": "short_answer",
+          "question": "How do humans try to protect coasts?",
+          "answer": "e.g., sea walls, groynes, or beach nourishment.",
+          "explanation": "Coastal management."
+        }
+      ]
+    }
+  ]
+}

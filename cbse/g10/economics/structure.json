@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-development",
+      "slug": "c1",
       "title": {
         "en": "Development"
       },
       "lessons": [
         {
-          "slug": "01-development",
+          "slug": "l1",
           "title": {
             "en": "Development"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-sectors-of-the-indian-economy",
+      "slug": "c2",
       "title": {
         "en": "Sectors of the Indian Economy"
       },
       "lessons": [
         {
-          "slug": "01-sectors-of-the-indian-economy",
+          "slug": "l1",
           "title": {
             "en": "Sectors of the Indian Economy"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-money-and-credit",
+      "slug": "c3",
       "title": {
         "en": "Money and Credit"
       },
       "lessons": [
         {
-          "slug": "01-money-and-credit",
+          "slug": "l1",
           "title": {
             "en": "Money and Credit"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-globalisation-and-the-indian-economy",
+      "slug": "c4",
       "title": {
         "en": "Globalisation and the Indian Economy"
       },
       "lessons": [
         {
-          "slug": "01-globalisation-and-the-indian-economy",
+          "slug": "l1",
           "title": {
             "en": "Globalisation and the Indian Economy"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-consumer-rights",
+      "slug": "c5",
       "title": {
         "en": "Consumer Rights"
       },
       "lessons": [
         {
-          "slug": "01-consumer-rights",
+          "slug": "l1",
           "title": {
             "en": "Consumer Rights"
           }

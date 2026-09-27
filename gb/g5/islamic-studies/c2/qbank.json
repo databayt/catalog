@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g5-isl-unit-02-akhlaq-01-mercy-lq01",
+      "type": "mcq",
+      "question": "الرحمة تعني:",
+      "options": [
+        "اللين والشفقة",
+        "القسوة",
+        "الغضب",
+        "البخل"
+      ],
+      "answer": "اللين والشفقة",
+      "explanation": "الرحمة."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-01-mercy-lq02",
+      "type": "true_false",
+      "question": "الإسلام يدعو إلى الرحمة بالناس والحيوان.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الرحمة."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-01-mercy-lq03",
+      "type": "fill_blank",
+      "question": "(الراحمون يرحمهم ___).",
+      "answer": "الرحمن",
+      "explanation": "الحديث."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-01-mercy-lq04",
+      "type": "short_answer",
+      "question": "اذكر صورة من صور الرحمة.",
+      "answer": "مثل: الرفق بالحيوان ومساعدة المحتاج.",
+      "explanation": "الرحمة."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-02-cooperation-lq01",
+      "type": "mcq",
+      "question": "التعاون على الخير:",
+      "options": [
+        "مطلوب",
+        "منهي عنه",
+        "غير مهم",
+        "للكبار فقط"
+      ],
+      "answer": "مطلوب",
+      "explanation": "الحث على التعاون."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-02-cooperation-lq02",
+      "type": "true_false",
+      "question": "أمر الله بالتعاون على البر والتقوى.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "التعاون."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-02-cooperation-lq03",
+      "type": "fill_blank",
+      "question": "(وتعاونوا على البر و___).",
+      "answer": "التقوى",
+      "explanation": "الآية."
+    },
+    {
+      "id": "g5-isl-unit-02-akhlaq-02-cooperation-lq04",
+      "type": "short_answer",
+      "question": "اذكر مثالاً على التعاون.",
+      "answer": "مثل: مساعدة الزملاء في تنظيف الصف.",
+      "explanation": "التعاون."
+    }
+  ]
+}

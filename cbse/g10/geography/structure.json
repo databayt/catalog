@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-resources-and-development",
+      "slug": "c1",
       "title": {
         "en": "Resources and Development"
       },
       "lessons": [
         {
-          "slug": "01-resources-and-development",
+          "slug": "l1",
           "title": {
             "en": "Resources and Development"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-forest-and-wildlife-resources",
+      "slug": "c2",
       "title": {
         "en": "Forest and Wildlife Resources"
       },
       "lessons": [
         {
-          "slug": "01-forest-and-wildlife-resources",
+          "slug": "l1",
           "title": {
             "en": "Forest and Wildlife Resources"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-water-resources",
+      "slug": "c3",
       "title": {
         "en": "Water Resources"
       },
       "lessons": [
         {
-          "slug": "01-water-resources",
+          "slug": "l1",
           "title": {
             "en": "Water Resources"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-agriculture",
+      "slug": "c4",
       "title": {
         "en": "Agriculture"
       },
       "lessons": [
         {
-          "slug": "01-agriculture",
+          "slug": "l1",
           "title": {
             "en": "Agriculture"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-minerals-and-energy-resources",
+      "slug": "c5",
       "title": {
         "en": "Minerals and Energy Resources"
       },
       "lessons": [
         {
-          "slug": "01-minerals-and-energy-resources",
+          "slug": "l1",
           "title": {
             "en": "Minerals and Energy Resources"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-manufacturing-industries",
+      "slug": "c6",
       "title": {
         "en": "Manufacturing Industries"
       },
       "lessons": [
         {
-          "slug": "01-manufacturing-industries",
+          "slug": "l1",
           "title": {
             "en": "Manufacturing Industries"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-lifelines-of-national-economy",
+      "slug": "c7",
       "title": {
         "en": "Lifelines of National Economy"
       },
       "lessons": [
         {
-          "slug": "01-lifelines-of-national-economy",
+          "slug": "l1",
           "title": {
             "en": "Lifelines of National Economy"
           }

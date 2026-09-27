@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-industrial-revolution",
+      "slug": "c1",
       "title": {
         "en": "The Industrial Revolution"
       },
       "lessons": [
         {
-          "slug": "01-industry",
+          "slug": "l1",
           "title": {
             "en": "Industry & Change"
           }
         },
         {
-          "slug": "02-social-change",
+          "slug": "l2",
           "title": {
             "en": "Social Change & Reform"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-wwi",
+      "slug": "c2",
       "title": {
         "en": "World War One"
       },
       "lessons": [
         {
-          "slug": "01-causes",
+          "slug": "l1",
           "title": {
             "en": "Causes of WWI"
           }
         },
         {
-          "slug": "02-trench-warfare",
+          "slug": "l2",
           "title": {
             "en": "Life in the Trenches"
           }

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "history",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g9-his-unit-02-wwi-01-causes-lq01",
+      "type": "mcq",
+      "question": "WWI began in which year?",
+      "options": [
+        "1914",
+        "1939",
+        "1845",
+        "1066"
+      ],
+      "answer": "1914",
+      "explanation": "1914-1918."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-01-causes-lq02",
+      "type": "true_false",
+      "question": "The assassination in Sarajevo helped trigger WWI.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Franz Ferdinand."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-01-causes-lq03",
+      "type": "fill_blank",
+      "question": "WWI soldiers often fought from ___ along the Western Front.",
+      "answer": "trenches",
+      "explanation": "Trench warfare."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-01-causes-lq04",
+      "type": "short_answer",
+      "question": "Name one long-term cause of WWI.",
+      "answer": "e.g., alliances, militarism, imperialism, or nationalism.",
+      "explanation": "Causes."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-02-trench-warfare-lq01",
+      "type": "mcq",
+      "question": "Trench warfare on the Western Front led to:",
+      "options": [
+        "quick victory",
+        "stalemate",
+        "no fighting",
+        "sea battles only"
+      ],
+      "answer": "stalemate",
+      "explanation": "Deadlock."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-02-trench-warfare-lq02",
+      "type": "true_false",
+      "question": "New weapons like machine guns made attacks very costly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "High casualties."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-02-trench-warfare-lq03",
+      "type": "fill_blank",
+      "question": "Soldiers faced disease, mud and ___ in the trenches.",
+      "answer": "rats",
+      "explanation": "Harsh conditions."
+    },
+    {
+      "id": "g9-his-unit-02-wwi-02-trench-warfare-lq04",
+      "type": "short_answer",
+      "question": "Why was trench warfare so deadly?",
+      "answer": "Modern weapons combined with attacks across open ground caused huge losses.",
+      "explanation": "Trench warfare."
+    }
+  ]
+}

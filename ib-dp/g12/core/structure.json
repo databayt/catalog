@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-theory-of-knowledge",
+      "slug": "c1",
       "title": {
         "en": "Theory of Knowledge"
       },
       "lessons": [
         {
-          "slug": "01-theory-of-knowledge",
+          "slug": "l1",
           "title": {
             "en": "Theory of Knowledge"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-extended-essay",
+      "slug": "c2",
       "title": {
         "en": "Extended Essay"
       },
       "lessons": [
         {
-          "slug": "01-extended-essay",
+          "slug": "l1",
           "title": {
             "en": "Extended Essay"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-creativity-activity-service",
+      "slug": "c3",
       "title": {
         "en": "Creativity, Activity, Service"
       },
       "lessons": [
         {
-          "slug": "01-creativity-activity-service",
+          "slug": "l1",
           "title": {
             "en": "Creativity, Activity, Service"
           }

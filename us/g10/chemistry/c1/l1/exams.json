@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "chemistry",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-che-unit-01-atomic-01-atom-quiz",
+      "title": "Quiz: Structure of the Atom",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq01",
+          "type": "mcq",
+          "question": "Which particle has a negative charge?",
+          "options": [
+            "proton",
+            "neutron",
+            "electron",
+            "nucleus"
+          ],
+          "answer": "electron",
+          "explanation": "Negative charge."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq02",
+          "type": "true_false",
+          "question": "Protons and neutrons are found in the nucleus.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Nucleus contents."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq03",
+          "type": "fill_blank",
+          "question": "The atomic number equals the number of ___.",
+          "answer": "protons",
+          "explanation": "Defines element."
+        },
+        {
+          "id": "g10-che-unit-01-atomic-01-atom-lq04",
+          "type": "short_answer",
+          "question": "What determines an element's identity?",
+          "answer": "Its number of protons (atomic number).",
+          "explanation": "Atomic number."
+        }
+      ]
+    }
+  ]
+}

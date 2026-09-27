@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-biological-approach-to-behaviour",
+      "slug": "c1",
       "title": {
         "en": "Biological Approach to Behaviour"
       },
       "lessons": [
         {
-          "slug": "01-biological-approach-to-behaviour",
+          "slug": "l1",
           "title": {
             "en": "Biological Approach to Behaviour"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-cognitive-approach-to-behaviour",
+      "slug": "c2",
       "title": {
         "en": "Cognitive Approach to Behaviour"
       },
       "lessons": [
         {
-          "slug": "01-cognitive-approach-to-behaviour",
+          "slug": "l1",
           "title": {
             "en": "Cognitive Approach to Behaviour"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-sociocultural-approach-to-behaviour",
+      "slug": "c3",
       "title": {
         "en": "Sociocultural Approach to Behaviour"
       },
       "lessons": [
         {
-          "slug": "01-sociocultural-approach-to-behaviour",
+          "slug": "l1",
           "title": {
             "en": "Sociocultural Approach to Behaviour"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-abnormal-psychology",
+      "slug": "c4",
       "title": {
         "en": "Abnormal Psychology"
       },
       "lessons": [
         {
-          "slug": "01-abnormal-psychology",
+          "slug": "l1",
           "title": {
             "en": "Abnormal Psychology"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-research-methodology",
+      "slug": "c5",
       "title": {
         "en": "Research Methodology"
       },
       "lessons": [
         {
-          "slug": "01-research-methodology",
+          "slug": "l1",
           "title": {
             "en": "Research Methodology"
           }

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-germany",
+      "slug": "c1",
       "title": {
         "en": "Germany 1890-1945"
       },
       "lessons": [
         {
-          "slug": "01-weimar",
+          "slug": "l1",
           "title": {
             "en": "The Weimar Republic"
           }
         },
         {
-          "slug": "02-nazi-rise",
+          "slug": "l2",
           "title": {
             "en": "The Rise of the Nazis"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-conflict-tension",
+      "slug": "c2",
       "title": {
         "en": "Conflict & Tension, 1918-1939"
       },
       "lessons": [
         {
-          "slug": "01-versailles",
+          "slug": "l1",
           "title": {
             "en": "The Treaty of Versailles"
           }
         },
         {
-          "slug": "02-road-to-war",
+          "slug": "l2",
           "title": {
             "en": "The Road to WWII"
           }

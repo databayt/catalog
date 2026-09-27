@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-quiz",
+      "title": "Quiz: Subtracting Two-Digit Numbers",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq01",
+          "type": "mcq",
+          "question": "72 - 47 = ?",
+          "options": [
+            "25",
+            "35",
+            "26",
+            "24"
+          ],
+          "answer": "25",
+          "explanation": "Regroup: 72 - 47 = 25."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq02",
+          "type": "true_false",
+          "question": "63 - 0 = 63.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Subtracting zero changes nothing."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq03",
+          "type": "fill_blank",
+          "question": "80 - ___ = 35.",
+          "answer": "45",
+          "explanation": "80 - 35 = 45."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq04",
+          "type": "short_answer",
+          "question": "Explain regrouping in 50 - 24.",
+          "answer": "Borrow a ten from 5 tens, making 4 tens 10 ones, then subtract.",
+          "explanation": "Regroup to subtract ones."
+        }
+      ]
+    }
+  ]
+}

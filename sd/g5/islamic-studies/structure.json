@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-surahs-of-the-holy-quran",
+      "slug": "c1",
       "title": {
         "ar": "سور من القرآن الكريم",
         "en": "Surahs of the Holy Quran"
@@ -29,43 +29,43 @@
       "image": "clickview/elementary-narrative-writing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-surah-al-infitar",
+          "slug": "l1",
           "title": {
             "ar": "سورة الانفطار"
           }
         },
         {
-          "slug": "02-surah-al-insan",
+          "slug": "l2",
           "title": {
             "ar": "سورة الإنسان"
           }
         },
         {
-          "slug": "03-surah-al-qiyamah",
+          "slug": "l3",
           "title": {
             "ar": "سورة القيامة"
           }
         },
         {
-          "slug": "04-surah-al-muddaththir",
+          "slug": "l4",
           "title": {
             "ar": "سورة المدثر"
           }
         },
         {
-          "slug": "05-surah-al-muzzammil",
+          "slug": "l5",
           "title": {
             "ar": "سورة المزمل"
           }
         },
         {
-          "slug": "06-surah-al-mulk",
+          "slug": "l6",
           "title": {
             "ar": "سورة الملك"
           }
         },
         {
-          "slug": "07-surah-al-qalam",
+          "slug": "l7",
           "title": {
             "ar": "سورة القلم"
           }
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "slug": "02-from-the-prophetic-hadith",
+      "slug": "c2",
       "title": {
         "ar": "من الحديث النبوي الشريف",
         "en": "From the Prophetic Hadith"
@@ -82,45 +82,45 @@
       "image": "clickview/elementary-purpose-and-audience-in-writing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-preserving-prayer",
+          "slug": "l1",
           "title": {
             "ar": "المسلم يحافظ على الصلاة"
           }
         },
         {
-          "slug": "02-love-of-trust",
+          "slug": "l2",
           "title": {
             "ar": "حب الأمانة"
           }
         },
         {
-          "slug": "03-beloved-places",
+          "slug": "l3",
           "title": {
             "ar": "أحب الأماكن"
           }
         },
         {
-          "slug": "04-trade-etiquette",
+          "slug": "l4",
           "title": {
             "ar": "من آداب البيع والشراء"
           },
           "image": "clickview/high-consumer-and-workplace-math-cover.jpg"
         },
         {
-          "slug": "05-keeping-secrets",
+          "slug": "l5",
           "title": {
             "ar": "حفظ السر"
           }
         },
         {
-          "slug": "06-travel-supplication",
+          "slug": "l6",
           "title": {
             "ar": "دعاء السفر"
           },
           "image": "clickview/elementary-map-skills-cover.jpg"
         },
         {
-          "slug": "07-maintaining-kinship",
+          "slug": "l7",
           "title": {
             "ar": "صلة الرحم"
           },
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "slug": "03-pillars-of-faith",
+      "slug": "c3",
       "title": {
         "ar": "من أركان الإيمان",
         "en": "Pillars of Faith"
@@ -138,38 +138,38 @@
       "image": "clickview/elementary-the-moon-cover.jpg",
       "lessons": [
         {
-          "slug": "01-belief-in-last-day",
+          "slug": "l1",
           "title": {
             "ar": "الإيمان باليوم الآخر"
           }
         },
         {
-          "slug": "02-signs-of-the-hour",
+          "slug": "l2",
           "title": {
             "ar": "علامات الساعة"
           }
         },
         {
-          "slug": "03-doing-good-deeds",
+          "slug": "l3",
           "title": {
             "ar": "فعل الخيرات"
           },
           "image": "clickview/elementary-random-acts-of-kindness-day-cover.jpg"
         },
         {
-          "slug": "04-names-of-allah-1",
+          "slug": "l4",
           "title": {
             "ar": "أسماء الله الحسنى (١)"
           }
         },
         {
-          "slug": "05-names-of-allah-2",
+          "slug": "l5",
           "title": {
             "ar": "أسماء الله الحسنى (٢)"
           }
         },
         {
-          "slug": "06-names-of-allah-3",
+          "slug": "l6",
           "title": {
             "ar": "المجموعة الثالثة"
           }
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "slug": "04-jurisprudence",
+      "slug": "c4",
       "title": {
         "ar": "الفقه",
         "en": "Jurisprudence"
@@ -186,31 +186,31 @@
       "image": "clickview/elementary-islam-cover.jpg",
       "lessons": [
         {
-          "slug": "01-congregational-prayer",
+          "slug": "l1",
           "title": {
             "ar": "صلاة الجماعة"
           }
         },
         {
-          "slug": "02-benefits-of-prayer",
+          "slug": "l2",
           "title": {
             "ar": "فوائد الصلاة"
           }
         },
         {
-          "slug": "03-sunnah-prayers",
+          "slug": "l3",
           "title": {
             "ar": "نوافل الصلاة القبلية والبعدية"
           }
         },
         {
-          "slug": "04-making-up-prayers",
+          "slug": "l4",
           "title": {
             "ar": "قضاء الفوائت"
           }
         },
         {
-          "slug": "05-prostration-of-forgetfulness",
+          "slug": "l5",
           "title": {
             "ar": "سجود السهو"
           }
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "slug": "05-noble-character",
+      "slug": "c5",
       "title": {
         "ar": "من مكارم الأخلاق",
         "en": "Noble Character"
@@ -227,25 +227,25 @@
       "image": "clickview/elementary-respectful-relationships-cover.jpg",
       "lessons": [
         {
-          "slug": "01-responsibility-of-guardian",
+          "slug": "l1",
           "title": {
             "ar": "مسؤولية الراعي"
           }
         },
         {
-          "slug": "02-forgiveness-when-able",
+          "slug": "l2",
           "title": {
             "ar": "العفو عند المقدرة"
           }
         },
         {
-          "slug": "03-consequence-of-chivalry",
+          "slug": "l3",
           "title": {
             "ar": "عاقبة المروءة"
           }
         },
         {
-          "slug": "04-reward-of-trustworthiness",
+          "slug": "l4",
           "title": {
             "ar": "جزاء الأمانة"
           }
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "slug": "06-the-prophets-biography",
+      "slug": "c6",
       "title": {
         "ar": "من السيرة النبوية الشريفة",
         "en": "The Prophet's Biography"
@@ -262,25 +262,25 @@
       "image": "clickview/elementary-settlements-and-migration-cover.jpg",
       "lessons": [
         {
-          "slug": "01-presenting-islam-to-all",
+          "slug": "l1",
           "title": {
             "ar": "عرض الإسلام على الجميع"
           }
         },
         {
-          "slug": "02-islam-to-yathrib-delegation",
+          "slug": "l2",
           "title": {
             "ar": "عرض الإسلام على وفد يثرب من الأنصار"
           }
         },
         {
-          "slug": "03-vanguards-of-migration",
+          "slug": "l3",
           "title": {
             "ar": "طلائع الهجرة"
           }
         },
         {
-          "slug": "04-bilal-ibn-rabah",
+          "slug": "l4",
           "title": {
             "ar": "سيدنا بلال بن رباح رضي الله عنه"
           }

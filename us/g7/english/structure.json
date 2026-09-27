@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading & Analysis"
       },
       "lessons": [
         {
-          "slug": "01-inference",
+          "slug": "l1",
           "title": {
             "en": "Making Inferences"
           }
         },
         {
-          "slug": "02-author-purpose",
+          "slug": "l2",
           "title": {
             "en": "Author's Purpose & Point of View"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-informative",
+          "slug": "l1",
           "title": {
             "en": "Informative/Explanatory Writing"
           }
         },
         {
-          "slug": "02-citing",
+          "slug": "l2",
           "title": {
             "en": "Citing Evidence"
           }

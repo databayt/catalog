@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-biology",
+      "slug": "c1",
       "title": {
         "en": "Biology: Cells & Organisms"
       },
       "lessons": [
         {
-          "slug": "01-cells",
+          "slug": "l1",
           "title": {
             "en": "Cells"
           }
         },
         {
-          "slug": "02-organ-systems",
+          "slug": "l2",
           "title": {
             "en": "Organ Systems"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-chemistry",
+      "slug": "c2",
       "title": {
         "en": "Chemistry: Particles"
       },
       "lessons": [
         {
-          "slug": "01-states",
+          "slug": "l1",
           "title": {
             "en": "States of Matter"
           }
         },
         {
-          "slug": "02-elements-compounds",
+          "slug": "l2",
           "title": {
             "en": "Elements, Compounds & Mixtures"
           }

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g5-uae-unit-01-history-02-zayed-lq01",
+      "type": "mcq",
+      "question": "Sheikh Zayed is remembered for tolerance and:",
+      "options": [
+        "generosity",
+        "selfishness",
+        "anger",
+        "neglect"
+      ],
+      "answer": "generosity",
+      "explanation": "His values."
+    },
+    {
+      "id": "g5-uae-unit-01-history-02-zayed-lq02",
+      "type": "true_false",
+      "question": "Sheikh Zayed cared about education and the environment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "His legacy."
+    },
+    {
+      "id": "g5-uae-unit-01-history-02-zayed-lq03",
+      "type": "fill_blank",
+      "question": "Sheikh Zayed is known as the Father of the ___.",
+      "answer": "Nation",
+      "explanation": "Father of the Nation."
+    },
+    {
+      "id": "g5-uae-unit-01-history-02-zayed-lq04",
+      "type": "short_answer",
+      "question": "Name one value Sheikh Zayed promoted.",
+      "answer": "e.g., tolerance, generosity, unity, or care for the land.",
+      "explanation": "Zayed's values."
+    }
+  ]
+}

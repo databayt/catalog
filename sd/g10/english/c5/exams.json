@@ -1,0 +1,102 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c5"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-05-quiz",
+      "title": "اختبار - Unit 5",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-05-q01",
+          "type": "mcq",
+          "question": "What is the meaning of 'ambiguous'?",
+          "options": [
+            "having more than one meaning",
+            "perfectly clear",
+            "very long",
+            "very short"
+          ],
+          "answer": "having more than one meaning",
+          "explanation": "'Ambiguous' means open to more than one interpretation."
+        },
+        {
+          "id": "g10-eng-unit-05-q02",
+          "type": "true_false",
+          "question": "The word 'diligent' describes someone who is lazy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "'Diligent' means working hard and carefully, not lazy."
+        },
+        {
+          "id": "g10-eng-unit-05-q03",
+          "type": "fill_blank",
+          "question": "An antonym of 'generous' is ___.",
+          "answer": "miserly/stingy",
+          "explanation": "Miserly and stingy are antonyms of generous."
+        },
+        {
+          "id": "g10-eng-unit-05-q04",
+          "type": "short_answer",
+          "question": "Use 'consequently' in a sentence.",
+          "answer": "He didn't study; consequently, he failed the exam.",
+          "explanation": "'Consequently' is a connective showing cause and result."
+        }
+      ]
+    },
+    {
+      "id": "g10-eng-unit-05-quiz-2",
+      "title": "اختبار - Unit 5",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-05-q01",
+          "type": "mcq",
+          "question": "What is the meaning of 'ambiguous'?",
+          "options": [
+            "having more than one meaning",
+            "perfectly clear",
+            "very long",
+            "very short"
+          ],
+          "answer": "having more than one meaning",
+          "explanation": "'Ambiguous' means open to more than one interpretation."
+        },
+        {
+          "id": "g10-eng-unit-05-q02",
+          "type": "true_false",
+          "question": "The word 'diligent' describes someone who is lazy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "'Diligent' means working hard and carefully, not lazy."
+        },
+        {
+          "id": "g10-eng-unit-05-q03",
+          "type": "fill_blank",
+          "question": "An antonym of 'generous' is ___.",
+          "answer": "miserly/stingy",
+          "explanation": "Miserly and stingy are antonyms of generous."
+        },
+        {
+          "id": "g10-eng-unit-05-q04",
+          "type": "short_answer",
+          "question": "Use 'consequently' in a sentence.",
+          "answer": "He didn't study; consequently, he failed the exam.",
+          "explanation": "'Consequently' is a connective showing cause and result."
+        }
+      ]
+    }
+  ]
+}

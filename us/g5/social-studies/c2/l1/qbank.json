@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-soc-unit-02-us-geography-01-physical-geography-lq01",
+      "type": "mcq",
+      "question": "The mountain range in the western US is the:",
+      "options": [
+        "Rockies",
+        "Alps",
+        "Andes",
+        "Himalayas"
+      ],
+      "answer": "Rockies",
+      "explanation": "Rocky Mountains."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-01-physical-geography-lq02",
+      "type": "true_false",
+      "question": "The US has varied landforms, from plains to mountains.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Diverse geography."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-01-physical-geography-lq03",
+      "type": "fill_blank",
+      "question": "The five large lakes on the US-Canada border are the Great ___.",
+      "answer": "Lakes",
+      "explanation": "Great Lakes."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-01-physical-geography-lq04",
+      "type": "short_answer",
+      "question": "Name one major US physical feature.",
+      "answer": "e.g., the Rocky Mountains, Mississippi River, or Great Plains.",
+      "explanation": "US geography."
+    }
+  ]
+}

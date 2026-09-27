@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "islamic-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g7-isl-unit-01-worship-akhlaq-01-worship-quiz",
+      "title": "Quiz: العبادات",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-isl-unit-01-worship-akhlaq-01-worship-lq01",
+          "type": "mcq",
+          "question": "صلاة الجماعة تكون في:",
+          "options": [
+            "البيت فقط",
+            "المسجد",
+            "السوق",
+            "المدرسة فقط"
+          ],
+          "answer": "المسجد",
+          "explanation": "الجماعة في المسجد."
+        },
+        {
+          "id": "g7-isl-unit-01-worship-akhlaq-01-worship-lq02",
+          "type": "true_false",
+          "question": "الزكاة تطهر المال وتساعد الفقراء.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "حكمة الزكاة."
+        },
+        {
+          "id": "g7-isl-unit-01-worship-akhlaq-01-worship-lq03",
+          "type": "fill_blank",
+          "question": "العبادة التي تتكرر خمس مرات يومياً هي ___.",
+          "answer": "الصلاة",
+          "explanation": "الصلوات الخمس."
+        },
+        {
+          "id": "g7-isl-unit-01-worship-akhlaq-01-worship-lq04",
+          "type": "short_answer",
+          "question": "اذكر أثراً من آثار الصلاة على المسلم.",
+          "answer": "تنهى عن الفحشاء والمنكر وتقوي صلة العبد بربه.",
+          "explanation": "العبادات."
+        }
+      ]
+    }
+  ]
+}

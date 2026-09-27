@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-logic-circuits-and-binary-counting",
+      "slug": "c1",
       "title": {
         "ar": "الدوائر المنطقية والعد الثنائي",
         "en": "Logic Circuits and Binary Counting"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مدخل",
             "en": "Introduction"
@@ -73,7 +73,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-important-laws-of-logic-circuits",
+          "slug": "l2",
           "title": {
             "ar": "قوانين هامة في الدوائر المنطقية",
             "en": "Important Laws of Logic Circuits"
@@ -89,7 +89,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-simplifying-logic-circuits",
+          "slug": "l3",
           "title": {
             "ar": "اختصار الدوائر المنطقية",
             "en": "Simplifying Logic Circuits"
@@ -105,7 +105,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-geometric-symbols-in-logic-circuits",
+          "slug": "l4",
           "title": {
             "ar": "مصطلح الأشكال الهندسية في الدوائر المنطقية",
             "en": "Geometric Symbols in Logic Circuits"
@@ -121,7 +121,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "05-the-binary-number-system",
+          "slug": "l5",
           "title": {
             "ar": "النظام العددي الثنائي",
             "en": "The Binary Number System"
@@ -136,7 +136,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-converting-between-decimal-and-binary",
+          "slug": "l6",
           "title": {
             "ar": "التحويل من النظام العشري إلى الثنائي وبالعكس",
             "en": "Converting between Decimal and Binary"
@@ -151,7 +151,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-binary-fractions",
+          "slug": "l7",
           "title": {
             "ar": "الكسور الثنائية",
             "en": "Binary Fractions"
@@ -166,7 +166,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "08-binary-addition",
+          "slug": "l8",
           "title": {
             "ar": "الجمع الثنائي",
             "en": "Binary Addition"
@@ -181,7 +181,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-binary-subtraction",
+          "slug": "l9",
           "title": {
             "ar": "الطرح الثنائي",
             "en": "Binary Subtraction"
@@ -196,7 +196,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-binary-multiplication-and-division",
+          "slug": "l10",
           "title": {
             "ar": "الضرب الثنائي والقسمة الثنائية",
             "en": "Binary Multiplication and Division"
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "slug": "02-data-structures",
+      "slug": "c2",
       "title": {
         "ar": "بنيات البيانات",
         "en": "Data Structures"
@@ -225,7 +225,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مدخل",
             "en": "Introduction"
@@ -240,7 +240,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-computer-memory",
+          "slug": "l2",
           "title": {
             "ar": "ذاكرة الحاسوب",
             "en": "Computer Memory"
@@ -256,7 +256,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-data-types",
+          "slug": "l3",
           "title": {
             "ar": "أنواع البيانات",
             "en": "Data Types"
@@ -271,7 +271,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-representing-data-types",
+          "slug": "l4",
           "title": {
             "ar": "تمثيل أنواع البيانات",
             "en": "Representing Data Types"
@@ -286,7 +286,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-data-type-conversion",
+          "slug": "l5",
           "title": {
             "ar": "التحول في نوع البيانات",
             "en": "Data Type Conversion"
@@ -301,7 +301,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-arrays-and-records",
+          "slug": "l6",
           "title": {
             "ar": "المصفوفات والسجلات",
             "en": "Arrays and Records"
@@ -316,7 +316,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-the-general-form-of-a-pascal-program",
+          "slug": "l7",
           "title": {
             "ar": "الشكل العام للبرنامج في لغة باسكال",
             "en": "The General Form of a Pascal Program"
@@ -331,7 +331,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-output-and-input-statements-in-pascal",
+          "slug": "l8",
           "title": {
             "ar": "عبارتا الإخراج والإدخال في لغة باسكال",
             "en": "Output and Input Statements in Pascal"
@@ -346,7 +346,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-handling-data-types-in-pascal",
+          "slug": "l9",
           "title": {
             "ar": "معالجات الحاسوب لأنواع البيانات في لغة باسكال",
             "en": "Handling Data Types in Pascal"
@@ -361,7 +361,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-control-statements-in-pascal",
+          "slug": "l10",
           "title": {
             "ar": "عبارات التحكم في لغة باسكال",
             "en": "Control Statements in Pascal"
@@ -376,7 +376,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "11-dynamic-structures",
+          "slug": "l11",
           "title": {
             "ar": "البنيات المتجددة",
             "en": "Dynamic Structures"
@@ -391,7 +391,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-insertion-and-deletion-algorithms",
+          "slug": "l12",
           "title": {
             "ar": "خوارزميات الإضافة والحذف",
             "en": "Insertion and Deletion Algorithms"
@@ -406,7 +406,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "13-comparing-linked-lists-and-arrays",
+          "slug": "l13",
           "title": {
             "ar": "مقارنة القوائم المتصلة والمصفوفات",
             "en": "Comparing Linked Lists and Arrays"
@@ -421,7 +421,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-databases",
+          "slug": "l14",
           "title": {
             "ar": "قواعد البيانات",
             "en": "Databases"
@@ -439,7 +439,7 @@
       ]
     },
     {
-      "slug": "03-data-algorithms",
+      "slug": "c3",
       "title": {
         "ar": "الخوارزميات البيانية",
         "en": "Data Algorithms"
@@ -451,7 +451,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-search-algorithms",
+          "slug": "l1",
           "title": {
             "ar": "خوارزميات البحث عن المعلومة",
             "en": "Search Algorithms"
@@ -466,7 +466,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-sequential-search-algorithm",
+          "slug": "l2",
           "title": {
             "ar": "خوارزمية البحث المتتالي",
             "en": "The Sequential Search Algorithm"
@@ -481,7 +481,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-the-binary-search-algorithm",
+          "slug": "l3",
           "title": {
             "ar": "خوارزمية البحث الثنائي",
             "en": "The Binary Search Algorithm"
@@ -496,7 +496,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "04-sorting-information",
+          "slug": "l4",
           "title": {
             "ar": "تصنيف المعلومات",
             "en": "Sorting Information"
@@ -511,7 +511,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-information-encryption-algorithms",
+          "slug": "l5",
           "title": {
             "ar": "خوارزميات تشفير المعلومات",
             "en": "Information Encryption Algorithms"
@@ -527,7 +527,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-huffman-coding",
+          "slug": "l6",
           "title": {
             "ar": "ترميز هوفمان",
             "en": "Huffman Coding"
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "slug": "04-operating-systems",
+      "slug": "c4",
       "title": {
         "ar": "نظم التشغيل",
         "en": "Operating Systems"
@@ -556,7 +556,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مدخل",
             "en": "Introduction"
@@ -571,7 +571,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-before-operating-systems",
+          "slug": "l2",
           "title": {
             "ar": "ما قبل نظم التشغيل",
             "en": "Before Operating Systems"
@@ -586,7 +586,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-the-resident-monitor",
+          "slug": "l3",
           "title": {
             "ar": "المراقب المقيم",
             "en": "The Resident Monitor"
@@ -601,7 +601,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-monitor-and-the-user",
+          "slug": "l4",
           "title": {
             "ar": "المراقب والمستخدم",
             "en": "The Monitor and the User"
@@ -616,7 +616,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-system-calls",
+          "slug": "l5",
           "title": {
             "ar": "نداءات النظام",
             "en": "System Calls"
@@ -631,7 +631,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-the-computer-timer",
+          "slug": "l6",
           "title": {
             "ar": "ساعة الحاسوب (Timer)",
             "en": "The Computer Timer"
@@ -646,7 +646,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-buffering",
+          "slug": "l7",
           "title": {
             "ar": "الترجمة (Buffering)",
             "en": "Buffering"
@@ -661,7 +661,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "08-multiprogramming",
+          "slug": "l8",
           "title": {
             "ar": "البرمجة المشتركة (Multi programming)",
             "en": "Multiprogramming"
@@ -676,7 +676,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-time-sharing",
+          "slug": "l9",
           "title": {
             "ar": "اشتراك وقت الحاسوب (الاستخدام المشترك)",
             "en": "Time-sharing"
@@ -691,7 +691,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-real-time-systems",
+          "slug": "l10",
           "title": {
             "ar": "الأنظمة اللحظية (Real-time systems)",
             "en": "Real-time Systems"
@@ -706,7 +706,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-the-evolution-of-operating-systems",
+          "slug": "l11",
           "title": {
             "ar": "تطور أنظمة التشغيل",
             "en": "The Evolution of Operating Systems"
@@ -721,7 +721,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-multiprocessing-systems",
+          "slug": "l12",
           "title": {
             "ar": "أنظمة المعالجات المشتركة (Multiprocessing systems)",
             "en": "Multiprocessing Systems"
@@ -736,7 +736,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "13-the-unix-operating-system",
+          "slug": "l13",
           "title": {
             "ar": "نظام التشغيل يونيكس",
             "en": "The UNIX Operating System"
@@ -751,7 +751,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "14-the-linux-operating-system",
+          "slug": "l14",
           "title": {
             "ar": "نظام التشغيل لينوكس",
             "en": "The Linux Operating System"
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "slug": "05-analysis-and-design-of-automated-information",
+      "slug": "c5",
       "title": {
         "ar": "تحليل وتصميم النظم الآلية للمعلومات",
         "en": "Analysis and Design of Automated Information Systems"
@@ -780,7 +780,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-defining-systems",
+          "slug": "l1",
           "title": {
             "ar": "تعريف النظم",
             "en": "Defining Systems"
@@ -795,7 +795,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-analysing-automated-information-systems",
+          "slug": "l2",
           "title": {
             "ar": "تحليل النظم الآلية للمعلومات",
             "en": "Analysing Automated Information Systems"
@@ -810,7 +810,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-system-design",
+          "slug": "l3",
           "title": {
             "ar": "تصميم النظام",
             "en": "System Design"
@@ -825,7 +825,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-environment-of-an-automated-information",
+          "slug": "l4",
           "title": {
             "ar": "بيئة النظام الآلي للمعلومات",
             "en": "The Environment of an Automated Information System"
@@ -840,7 +840,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-analysing-a-school-information-system",
+          "slug": "l5",
           "title": {
             "ar": "تحليل النظام المعلوماتي للمدارس",
             "en": "Analysing a School Information System"
@@ -855,7 +855,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-entity-descriptors",
+          "slug": "l6",
           "title": {
             "ar": "واصفات الكينونات",
             "en": "Entity Descriptors"
@@ -870,7 +870,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-queries",
+          "slug": "l7",
           "title": {
             "ar": "الاستفسار",
             "en": "Queries"
@@ -886,7 +886,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-reports",
+          "slug": "l8",
           "title": {
             "ar": "التقارير",
             "en": "Reports"

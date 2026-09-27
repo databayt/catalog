@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-measurements-and-uncertainties",
+      "slug": "c1",
       "title": {
         "en": "Measurements and Uncertainties"
       },
       "lessons": [
         {
-          "slug": "01-measurements-and-uncertainties",
+          "slug": "l1",
           "title": {
             "en": "Measurements and Uncertainties"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-mechanics",
+      "slug": "c2",
       "title": {
         "en": "Mechanics"
       },
       "lessons": [
         {
-          "slug": "01-mechanics",
+          "slug": "l1",
           "title": {
             "en": "Mechanics"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-thermal-physics",
+      "slug": "c3",
       "title": {
         "en": "Thermal Physics"
       },
       "lessons": [
         {
-          "slug": "01-thermal-physics",
+          "slug": "l1",
           "title": {
             "en": "Thermal Physics"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-waves",
+      "slug": "c4",
       "title": {
         "en": "Waves"
       },
       "lessons": [
         {
-          "slug": "01-waves",
+          "slug": "l1",
           "title": {
             "en": "Waves"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-electricity-and-magnetism",
+      "slug": "c5",
       "title": {
         "en": "Electricity and Magnetism"
       },
       "lessons": [
         {
-          "slug": "01-electricity-and-magnetism",
+          "slug": "l1",
           "title": {
             "en": "Electricity and Magnetism"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-circular-motion-and-gravitation",
+      "slug": "c6",
       "title": {
         "en": "Circular Motion and Gravitation"
       },
       "lessons": [
         {
-          "slug": "01-circular-motion-and-gravitation",
+          "slug": "l1",
           "title": {
             "en": "Circular Motion and Gravitation"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-atomic-nuclear-and-particle-physics",
+      "slug": "c7",
       "title": {
         "en": "Atomic, Nuclear and Particle Physics"
       },
       "lessons": [
         {
-          "slug": "01-atomic-nuclear-and-particle-physics",
+          "slug": "l1",
           "title": {
             "en": "Atomic, Nuclear and Particle Physics"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-energy-production",
+      "slug": "c8",
       "title": {
         "en": "Energy Production"
       },
       "lessons": [
         {
-          "slug": "01-energy-production",
+          "slug": "l1",
           "title": {
             "en": "Energy Production"
           }

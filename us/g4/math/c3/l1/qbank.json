@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq01",
+      "type": "mcq",
+      "question": "A 90° angle is called:",
+      "options": [
+        "acute",
+        "right",
+        "obtuse",
+        "straight"
+      ],
+      "answer": "right",
+      "explanation": "90° is a right angle."
+    },
+    {
+      "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq02",
+      "type": "true_false",
+      "question": "An obtuse angle is greater than 90°.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Between 90° and 180°."
+    },
+    {
+      "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq03",
+      "type": "fill_blank",
+      "question": "An angle smaller than 90° is ___.",
+      "answer": "acute",
+      "explanation": "Acute < 90°."
+    },
+    {
+      "id": "g4-mat-unit-03-geometry-angles-01-angle-types-lq04",
+      "type": "short_answer",
+      "question": "Describe a straight angle.",
+      "answer": "An angle of 180° forming a straight line.",
+      "explanation": "Half turn."
+    }
+  ]
+}

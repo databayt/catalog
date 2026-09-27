@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-criticism",
+      "slug": "c1",
       "title": {
         "ar": "النقد والتعبير"
       },
       "lessons": [
         {
-          "slug": "01-criticism",
+          "slug": "l1",
           "title": {
             "ar": "النقد الأدبي"
           }
         },
         {
-          "slug": "02-composition",
+          "slug": "l2",
           "title": {
             "ar": "التعبير الكتابي"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-schools",
+      "slug": "c2",
       "title": {
         "ar": "المدارس الأدبية"
       },
       "lessons": [
         {
-          "slug": "01-classical",
+          "slug": "l1",
           "title": {
             "ar": "المدرسة الكلاسيكية (الإحياء)"
           }
         },
         {
-          "slug": "02-modern",
+          "slug": "l2",
           "title": {
             "ar": "المدارس الحديثة"
           }

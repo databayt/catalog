@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-government",
+      "slug": "c1",
       "title": {
         "en": "Government & the Constitution"
       },
       "lessons": [
         {
-          "slug": "01-government",
+          "slug": "l1",
           "title": {
             "en": "How the UAE is Governed"
           }
         },
         {
-          "slug": "02-citizenship",
+          "slug": "l2",
           "title": {
             "en": "Active Citizenship"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-values",
+      "slug": "c2",
       "title": {
         "en": "Ethics & Cooperation"
       },
       "lessons": [
         {
-          "slug": "01-cooperation",
+          "slug": "l1",
           "title": {
             "en": "Cooperation"
           }
         },
         {
-          "slug": "02-fairness",
+          "slug": "l2",
           "title": {
             "en": "Fairness & Justice"
           }

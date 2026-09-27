@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-kana",
+      "slug": "c1",
       "title": {
         "ar": "كان وأخواتها"
       },
       "lessons": [
         {
-          "slug": "01-kana",
+          "slug": "l1",
           "title": {
             "ar": "كان وأخواتها"
           }
         },
         {
-          "slug": "02-derivatives",
+          "slug": "l2",
           "title": {
             "ar": "المشتقات"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-definite",
+      "slug": "c2",
       "title": {
         "ar": "المعرفة والنكرة"
       },
       "lessons": [
         {
-          "slug": "01-marifa",
+          "slug": "l1",
           "title": {
             "ar": "المعرفة"
           }
         },
         {
-          "slug": "02-nakira",
+          "slug": "l2",
           "title": {
             "ar": "النكرة"
           }

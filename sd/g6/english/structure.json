@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-anna-and-the-fighter",
+      "slug": "c1",
       "title": {
         "en": "Unit 1: Anna and the Fighter"
       },
@@ -28,37 +28,37 @@
       "image": "clickview/middle-literary-texts-cover.jpg",
       "lessons": [
         {
-          "slug": "01-chapter-1",
+          "slug": "l1",
           "title": {
             "en": "Chapter 1: Anna"
           }
         },
         {
-          "slug": "02-chapter-2",
+          "slug": "l2",
           "title": {
             "en": "Chapter 2: The Fighter"
           }
         },
         {
-          "slug": "03-chapter-3",
+          "slug": "l3",
           "title": {
             "en": "Chapter 3: The Journey Begins"
           }
         },
         {
-          "slug": "04-chapter-4",
+          "slug": "l4",
           "title": {
             "en": "Chapter 4: Challenges and Discoveries"
           }
         },
         {
-          "slug": "05-chapter-5",
+          "slug": "l5",
           "title": {
             "en": "Chapter 5: The Quest Continues"
           }
         },
         {
-          "slug": "06-chapter-6",
+          "slug": "l6",
           "title": {
             "en": "Chapter 6: Lessons Learned"
           }

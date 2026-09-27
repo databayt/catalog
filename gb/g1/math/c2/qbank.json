@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq01",
+      "type": "mcq",
+      "question": "7 + 6 = ?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "11"
+      ],
+      "answer": "13",
+      "explanation": "7 + 6 = 13."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq02",
+      "type": "true_false",
+      "question": "Adding 0 to a number leaves it unchanged.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "n + 0 = n."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq03",
+      "type": "fill_blank",
+      "question": "9 + ___ = 14.",
+      "answer": "5",
+      "explanation": "14 - 9 = 5."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-01-add-lq04",
+      "type": "short_answer",
+      "question": "Find 8 + 8.",
+      "answer": "16",
+      "explanation": "Doubles fact."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq01",
+      "type": "mcq",
+      "question": "15 - 6 = ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "answer": "9",
+      "explanation": "15 - 6 = 9."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq02",
+      "type": "true_false",
+      "question": "Subtraction can be shown as 'taking away'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Remove objects."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq03",
+      "type": "fill_blank",
+      "question": "12 - ___ = 4.",
+      "answer": "8",
+      "explanation": "12 - 4 = 8."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-02-subtract-lq04",
+      "type": "short_answer",
+      "question": "There are 10 sweets; 3 are eaten. How many left?",
+      "answer": "7",
+      "explanation": "10 - 3 = 7."
+    }
+  ]
+}

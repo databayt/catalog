@@ -47,31 +47,31 @@
   ],
   "chapters": [
     {
-      "slug": "01-physical-chemistry",
+      "slug": "c1",
       "title": {
         "en": "Physical Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-atomic-structure-amount-of-substance",
+          "slug": "l1",
           "title": {
             "en": "Atomic Structure & Amount of Substance"
           }
         },
         {
-          "slug": "02-energetics",
+          "slug": "l2",
           "title": {
             "en": "Energetics"
           }
         },
         {
-          "slug": "03-equilibria",
+          "slug": "l3",
           "title": {
             "en": "Equilibria"
           }
         },
         {
-          "slug": "04-kinetics",
+          "slug": "l4",
           "title": {
             "en": "Kinetics"
           }
@@ -79,25 +79,25 @@
       ]
     },
     {
-      "slug": "02-inorganic-chemistry",
+      "slug": "c2",
       "title": {
         "en": "Inorganic Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-periodicity",
+          "slug": "l1",
           "title": {
             "en": "Periodicity"
           }
         },
         {
-          "slug": "02-group-2-group-7",
+          "slug": "l2",
           "title": {
             "en": "Group 2 & Group 7"
           }
         },
         {
-          "slug": "03-transition-metals",
+          "slug": "l3",
           "title": {
             "en": "Transition Metals"
           }
@@ -105,25 +105,25 @@
       ]
     },
     {
-      "slug": "03-organic-chemistry",
+      "slug": "c3",
       "title": {
         "en": "Organic Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-alkanes-alkenes",
+          "slug": "l1",
           "title": {
             "en": "Alkanes & Alkenes"
           }
         },
         {
-          "slug": "02-alcohols-halogenoalkanes",
+          "slug": "l2",
           "title": {
             "en": "Alcohols & Halogenoalkanes"
           }
         },
         {
-          "slug": "03-organic-analysis",
+          "slug": "l3",
           "title": {
             "en": "Organic Analysis"
           }

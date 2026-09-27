@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "chemistry",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g10-che-unit-02-bonding-reactions-01-bonding-lq01",
+      "type": "mcq",
+      "question": "A bond formed by transferring electrons is:",
+      "options": [
+        "covalent",
+        "ionic",
+        "metallic",
+        "hydrogen"
+      ],
+      "answer": "ionic",
+      "explanation": "Electron transfer."
+    },
+    {
+      "id": "g10-che-unit-02-bonding-reactions-01-bonding-lq02",
+      "type": "true_false",
+      "question": "Covalent bonds share electrons.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sharing."
+    },
+    {
+      "id": "g10-che-unit-02-bonding-reactions-01-bonding-lq03",
+      "type": "fill_blank",
+      "question": "Table salt (NaCl) is held by an ___ bond.",
+      "answer": "ionic",
+      "explanation": "Na+ and Cl-."
+    },
+    {
+      "id": "g10-che-unit-02-bonding-reactions-01-bonding-lq04",
+      "type": "short_answer",
+      "question": "How do ionic and covalent bonds differ?",
+      "answer": "Ionic transfers electrons; covalent shares them.",
+      "explanation": "Bond types."
+    }
+  ]
+}

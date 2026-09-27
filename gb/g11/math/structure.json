@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-number-ratio",
+      "slug": "c1",
       "title": {
         "en": "Number & Ratio"
       },
       "lessons": [
         {
-          "slug": "01-surds-indices",
+          "slug": "l1",
           "title": {
             "en": "Surds & Indices"
           }
         },
         {
-          "slug": "02-percentages",
+          "slug": "l2",
           "title": {
             "en": "Percentages & Growth"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-statistics",
+      "slug": "c2",
       "title": {
         "en": "Statistics & Probability"
       },
       "lessons": [
         {
-          "slug": "01-averages",
+          "slug": "l1",
           "title": {
             "en": "Averages & Spread"
           }
         },
         {
-          "slug": "02-probability",
+          "slug": "l2",
           "title": {
             "en": "Probability"
           }

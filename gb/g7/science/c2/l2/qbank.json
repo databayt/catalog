@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq01",
+      "type": "mcq",
+      "question": "Water is an example of a:",
+      "options": [
+        "element",
+        "compound",
+        "mixture",
+        "metal"
+      ],
+      "answer": "compound",
+      "explanation": "H and O bonded."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq02",
+      "type": "true_false",
+      "question": "Air is a mixture of gases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Not chemically bonded."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq03",
+      "type": "fill_blank",
+      "question": "A substance made of only one type of atom is an ___.",
+      "answer": "element",
+      "explanation": "Pure element."
+    },
+    {
+      "id": "g7-sci-unit-02-chemistry-02-elements-compounds-lq04",
+      "type": "short_answer",
+      "question": "How is a compound different from a mixture?",
+      "answer": "A compound is chemically bonded; a mixture is not and can be separated physically.",
+      "explanation": "Compound vs mixture."
+    }
+  ]
+}

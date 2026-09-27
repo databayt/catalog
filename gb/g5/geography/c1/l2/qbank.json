@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g5-geo-unit-01-settlements-02-land-use-lq01",
+      "type": "mcq",
+      "question": "Farmland is an example of ___ land use.",
+      "options": [
+        "agricultural",
+        "industrial",
+        "residential",
+        "recreational"
+      ],
+      "answer": "agricultural",
+      "explanation": "Farming use."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-02-land-use-lq02",
+      "type": "true_false",
+      "question": "Land in a city is used for housing, shops and industry.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Urban land use."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-02-land-use-lq03",
+      "type": "fill_blank",
+      "question": "Land used for homes is ___ land use.",
+      "answer": "residential",
+      "explanation": "Housing."
+    },
+    {
+      "id": "g5-geo-unit-01-settlements-02-land-use-lq04",
+      "type": "short_answer",
+      "question": "Name two different land uses.",
+      "answer": "e.g., residential and industrial.",
+      "explanation": "Land use types."
+    }
+  ]
+}

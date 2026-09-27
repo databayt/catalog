@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g6-geo-unit-02-map-fieldwork-exam",
+      "title": "Exam: Map Skills & Fieldwork",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq01",
+          "type": "mcq",
+          "question": "A four-figure grid reference locates a:",
+          "options": [
+            "country",
+            "grid square",
+            "planet",
+            "ocean"
+          ],
+          "answer": "grid square",
+          "explanation": "OS grid."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq02",
+          "type": "true_false",
+          "question": "Eastings are read before northings ('along then up').",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Grid reading rule."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq03",
+          "type": "fill_blank",
+          "question": "Lines running up a map used in grid references are ___.",
+          "answer": "eastings",
+          "explanation": "Vertical grid lines."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-01-grid-references-lq04",
+          "type": "short_answer",
+          "question": "Why are grid references useful?",
+          "answer": "They give a precise location on a map.",
+          "explanation": "Grid references."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq01",
+          "type": "mcq",
+          "question": "Collecting data outdoors about a place is called:",
+          "options": [
+            "fieldwork",
+            "homework",
+            "artwork",
+            "guesswork"
+          ],
+          "answer": "fieldwork",
+          "explanation": "Field enquiry."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq02",
+          "type": "true_false",
+          "question": "A survey or tally can be used to collect fieldwork data.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Data collection."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq03",
+          "type": "fill_blank",
+          "question": "Information collected first-hand outdoors is ___ data.",
+          "answer": "primary",
+          "explanation": "Primary data."
+        },
+        {
+          "id": "g6-geo-unit-02-map-fieldwork-02-fieldwork-lq04",
+          "type": "short_answer",
+          "question": "Name one method of geographical fieldwork.",
+          "answer": "e.g., a traffic count, survey, or measuring a river.",
+          "explanation": "Fieldwork methods."
+        }
+      ]
+    }
+  ]
+}

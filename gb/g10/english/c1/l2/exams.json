@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-01-reading-02-structure-quiz",
+      "title": "Quiz: Structural Features",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-01-reading-02-structure-lq01",
+          "type": "mcq",
+          "question": "A shift in focus from wide to narrow is a structural:",
+          "options": [
+            "zoom",
+            "rhyme",
+            "footnote",
+            "margin"
+          ],
+          "answer": "zoom",
+          "explanation": "Narrowing focus."
+        },
+        {
+          "id": "g10-eng-unit-01-reading-02-structure-lq02",
+          "type": "true_false",
+          "question": "Where a writer begins a text is a structural choice.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Opening/structure."
+        },
+        {
+          "id": "g10-eng-unit-01-reading-02-structure-lq03",
+          "type": "fill_blank",
+          "question": "The way ideas are ordered across a text is its ___.",
+          "answer": "structure",
+          "explanation": "Organisation."
+        },
+        {
+          "id": "g10-eng-unit-01-reading-02-structure-lq04",
+          "type": "short_answer",
+          "question": "Give one structural technique a writer might use.",
+          "answer": "e.g., flashback, cyclical structure, or a focus shift.",
+          "explanation": "Structure."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq01",
+      "type": "mcq",
+      "question": "Government makes and enforces:",
+      "options": [
+        "toys",
+        "laws",
+        "weather",
+        "clouds"
+      ],
+      "answer": "laws",
+      "explanation": "Rule of law."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq02",
+      "type": "true_false",
+      "question": "People in a democracy vote to choose leaders.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Democracy."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq03",
+      "type": "fill_blank",
+      "question": "The leader of a city is often called the ___.",
+      "answer": "mayor",
+      "explanation": "Local leader."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-01-government-lq04",
+      "type": "short_answer",
+      "question": "Name one job of local government.",
+      "answer": "e.g., running schools, roads, or public safety.",
+      "explanation": "Local government."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-02-citizenship-lq01",
+      "type": "mcq",
+      "question": "A responsibility of a citizen is to:",
+      "options": [
+        "break laws",
+        "follow laws and help others",
+        "ignore voting",
+        "litter"
+      ],
+      "answer": "follow laws and help others",
+      "explanation": "Responsibilities."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-02-citizenship-lq02",
+      "type": "true_false",
+      "question": "Citizens have both rights and responsibilities.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Civic life."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-02-citizenship-lq03",
+      "type": "fill_blank",
+      "question": "The freedom to speak your opinion is a ___.",
+      "answer": "right",
+      "explanation": "Rights."
+    },
+    {
+      "id": "g3-soc-unit-01-local-government-02-citizenship-lq04",
+      "type": "short_answer",
+      "question": "Give one responsibility of a good citizen.",
+      "answer": "e.g., obey laws, vote, respect others, or volunteer.",
+      "explanation": "Responsibilities."
+    }
+  ]
+}

@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-part-1-art-culture",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: الثقافة الفنية",
         "en": "Part 1: Art Culture"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-art-and-humanity",
+          "slug": "l1",
           "title": {
             "ar": "الفن والإنسان",
             "en": "Art and Humanity"
@@ -48,7 +48,7 @@
           "page": 2
         },
         {
-          "slug": "02-art-in-sudans-christian-era",
+          "slug": "l2",
           "title": {
             "ar": "الفن في العصر المسيحي في السودان",
             "en": "Art in Sudan's Christian Era"
@@ -56,7 +56,7 @@
           "page": 11
         },
         {
-          "slug": "03-the-rise-of-islamic-art",
+          "slug": "l3",
           "title": {
             "ar": "نشأة الفن الإسلامي",
             "en": "The Rise of Islamic Art"
@@ -64,7 +64,7 @@
           "page": 13
         },
         {
-          "slug": "04-industrial-arts",
+          "slug": "l4",
           "title": {
             "ar": "الفنون الصناعية",
             "en": "Industrial Arts"
@@ -72,7 +72,7 @@
           "page": 16
         },
         {
-          "slug": "05-arabic-calligraphy-ornament-and-bookmaking",
+          "slug": "l5",
           "title": {
             "ar": "تطور الخط العربي والزخرفة وصناعة الكتاب",
             "en": "Arabic Calligraphy, Ornament and Bookmaking"
@@ -81,7 +81,7 @@
           "image": "clickview/high-art-and-culture-cover.jpg"
         },
         {
-          "slug": "06-schools-of-islamic-art",
+          "slug": "l6",
           "title": {
             "ar": "مدارس الفن الإسلامي",
             "en": "Schools of Islamic Art"
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "slug": "02-part-2-drawing",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: الرسم",
         "en": "Part 2: Drawing"
@@ -102,7 +102,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-scientific-concept-of-drawing",
+          "slug": "l1",
           "title": {
             "ar": "المفهوم العلمي للرسم",
             "en": "The Scientific Concept of Drawing"
@@ -110,7 +110,7 @@
           "page": 37
         },
         {
-          "slug": "02-concepts-of-drawing",
+          "slug": "l2",
           "title": {
             "ar": "مفاهيم حول الرسم",
             "en": "Concepts of Drawing"
@@ -120,7 +120,7 @@
       ]
     },
     {
-      "slug": "03-part-3-design",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: التصميم",
         "en": "Part 3: Design"
@@ -131,7 +131,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-design",
+          "slug": "l1",
           "title": {
             "ar": "التصميم",
             "en": "Design"
@@ -139,7 +139,7 @@
           "page": 54
         },
         {
-          "slug": "02-industrial-design",
+          "slug": "l2",
           "title": {
             "ar": "التصميم الصناعي",
             "en": "Industrial Design"
@@ -147,7 +147,7 @@
           "page": 56
         },
         {
-          "slug": "03-illustrative-design",
+          "slug": "l3",
           "title": {
             "ar": "التصميم الإيضاحي",
             "en": "Illustrative Design"
@@ -155,7 +155,7 @@
           "page": 57
         },
         {
-          "slug": "04-textile-design-and-printing",
+          "slug": "l4",
           "title": {
             "ar": "تصميم وطباعة المنسوجات",
             "en": "Textile Design and Printing"
@@ -163,7 +163,7 @@
           "page": 60
         },
         {
-          "slug": "05-sources-of-design",
+          "slug": "l5",
           "title": {
             "ar": "مصادر التصميم",
             "en": "Sources of Design"
@@ -171,7 +171,7 @@
           "page": 61
         },
         {
-          "slug": "06-principles-of-design",
+          "slug": "l6",
           "title": {
             "ar": "أسس التصميم",
             "en": "Principles of Design"
@@ -179,7 +179,7 @@
           "page": 62
         },
         {
-          "slug": "07-design-tools-and-materials",
+          "slug": "l7",
           "title": {
             "ar": "أدوات التصميم ومواده",
             "en": "Design Tools and Materials"
@@ -187,7 +187,7 @@
           "page": 63
         },
         {
-          "slug": "08-guidance-for-the-student",
+          "slug": "l8",
           "title": {
             "ar": "إرشادات للطالب",
             "en": "Guidance for the Student"
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "slug": "04-part-4-colouring",
+      "slug": "c4",
       "title": {
         "ar": "الباب الرابع: التلوين",
         "en": "Part 4: Colouring"
@@ -208,7 +208,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-colours",
+          "slug": "l1",
           "title": {
             "ar": "الألوان",
             "en": "Colours"
@@ -216,7 +216,7 @@
           "page": 67
         },
         {
-          "slug": "02-the-nature-of-colour",
+          "slug": "l2",
           "title": {
             "ar": "ماهية الألوان",
             "en": "The Nature of Colour"
@@ -224,7 +224,7 @@
           "page": 68
         },
         {
-          "slug": "03-pigments",
+          "slug": "l3",
           "title": {
             "ar": "الأصباغ",
             "en": "Pigments"
@@ -232,7 +232,7 @@
           "page": 75
         },
         {
-          "slug": "04-the-psychology-of-colour",
+          "slug": "l4",
           "title": {
             "ar": "سيكلوجية الألوان",
             "en": "The Psychology of Colour"
@@ -240,7 +240,7 @@
           "page": 76
         },
         {
-          "slug": "05-colouring",
+          "slug": "l5",
           "title": {
             "ar": "التلوين",
             "en": "Colouring"
@@ -248,7 +248,7 @@
           "page": 78
         },
         {
-          "slug": "06-colour-perspective",
+          "slug": "l6",
           "title": {
             "ar": "المنظور اللوني",
             "en": "Colour Perspective"
@@ -256,7 +256,7 @@
           "page": 82
         },
         {
-          "slug": "07-paintings-by-world-artists",
+          "slug": "l7",
           "title": {
             "ar": "نماذج للوحات فنية لبعض الرسامين العالميين",
             "en": "Paintings by World Artists"

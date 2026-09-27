@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "moral-education",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-mor-unit-01-sustainability-01-environment-quiz",
+      "title": "Quiz: Protecting the Environment",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq01",
+          "type": "mcq",
+          "question": "Conserving water and energy helps protect the:",
+          "options": [
+            "environment",
+            "fonts",
+            "prices",
+            "weather reports"
+          ],
+          "answer": "environment",
+          "explanation": "Conservation."
+        },
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq02",
+          "type": "true_false",
+          "question": "The UAE invests in clean energy projects like solar power.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Clean energy."
+        },
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq03",
+          "type": "fill_blank",
+          "question": "The careful use of resources for the future is ___.",
+          "answer": "sustainability",
+          "explanation": "Sustainability."
+        },
+        {
+          "id": "g10-mor-unit-01-sustainability-01-environment-lq04",
+          "type": "short_answer",
+          "question": "Name one way to protect the environment.",
+          "answer": "e.g., recycling, saving water/energy, or planting trees.",
+          "explanation": "Environment."
+        }
+      ]
+    }
+  ]
+}

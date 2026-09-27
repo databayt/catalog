@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-rocks",
+      "slug": "c1",
       "title": {
         "en": "Rocks & Soils"
       },
       "lessons": [
         {
-          "slug": "01-rock-types",
+          "slug": "l1",
           "title": {
             "en": "Types of Rock"
           }
         },
         {
-          "slug": "02-soil",
+          "slug": "l2",
           "title": {
             "en": "Soil"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-light",
+      "slug": "c2",
       "title": {
         "en": "Light"
       },
       "lessons": [
         {
-          "slug": "01-light-shadows",
+          "slug": "l1",
           "title": {
             "en": "Light & Shadows"
           }
         },
         {
-          "slug": "02-reflection",
+          "slug": "l2",
           "title": {
             "en": "Reflection"
           }

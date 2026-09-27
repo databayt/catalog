@@ -1,0 +1,105 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "history",
+    "chapter": "c3",
+    "lesson": "l6"
+  },
+  "exams": [
+    {
+      "id": "g9-his-unit-03-06-organization-of-african-unity-lquiz",
+      "title": "اختبار درس - منظمة الوحدة الأفريقية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq01",
+          "type": "mcq",
+          "question": "ما اسم الحضارة القديمة التي قامت في وادي النيل بالسودان؟",
+          "options": [
+            "حضارة مروي",
+            "الحضارة الفرعونية",
+            "الحضارة البابلية",
+            "الحضارة الرومانية"
+          ],
+          "answer": "حضارة مروي",
+          "explanation": "قامت حضارة مروي في السودان القديم على ضفاف النيل."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq02",
+          "type": "true_false",
+          "question": "السودان لديه تاريخ حضاري عريق يمتد لآلاف السنين.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان من أقدم بلاد العالم في التاريخ والحضارة."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq03",
+          "type": "fill_blank",
+          "question": "الممالك المسيحية في السودان القديم كانت تسمى مملكة ___ ومكوريا والبجة.",
+          "answer": "علوة",
+          "explanation": "الممالك المسيحية السودانية الثلاث: النوبة والمقرة وعلوة."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq04",
+          "type": "short_answer",
+          "question": "ما أبرز أحداث الفصل 3 في تاريخ السودان؟",
+          "answer": "تتعلق بالتطورات السياسية والاجتماعية التي مرت بها السودان في الفترة المدروسة.",
+          "explanation": "دراسة التاريخ تساعد على فهم الحاضر من خلال الماضي."
+        }
+      ]
+    },
+    {
+      "id": "g9-his-unit-03-06-organization-of-african-unity-lquiz-2",
+      "title": "اختبار درس - منظمة الوحدة الأفريقية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq01",
+          "type": "mcq",
+          "question": "ما اسم الحضارة القديمة التي قامت في وادي النيل بالسودان؟",
+          "options": [
+            "حضارة مروي",
+            "الحضارة الفرعونية",
+            "الحضارة البابلية",
+            "الحضارة الرومانية"
+          ],
+          "answer": "حضارة مروي",
+          "explanation": "قامت حضارة مروي في السودان القديم على ضفاف النيل."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq02",
+          "type": "true_false",
+          "question": "السودان لديه تاريخ حضاري عريق يمتد لآلاف السنين.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان من أقدم بلاد العالم في التاريخ والحضارة."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq03",
+          "type": "fill_blank",
+          "question": "الممالك المسيحية في السودان القديم كانت تسمى مملكة ___ ومكوريا والبجة.",
+          "answer": "علوة",
+          "explanation": "الممالك المسيحية السودانية الثلاث: النوبة والمقرة وعلوة."
+        },
+        {
+          "id": "g9-his-unit-03-06-organization-of-african-unity-lq04",
+          "type": "short_answer",
+          "question": "ما أبرز أحداث الفصل 3 في تاريخ السودان؟",
+          "answer": "تتعلق بالتطورات السياسية والاجتماعية التي مرت بها السودان في الفترة المدروسة.",
+          "explanation": "دراسة التاريخ تساعد على فهم الحاضر من خلال الماضي."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l10"
+  },
+  "exams": [
+    {
+      "id": "g3-math-unit-03-exam-9705",
+      "title": "Lesson Quiz - 10-division-by-9-with-remainder - Math",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 5,
+      "questions": [
+        {
+          "id": "g3-ma-u03-q010",
+          "type": "true_false",
+          "question": "صحيح أم خطأ: ٣ × ٦ = ١٨",
+          "answer": true,
+          "explanation": "The statement about القسمة is True."
+        }
+      ]
+    }
+  ]
+}

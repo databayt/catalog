@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g7-mat-unit-01-rational-numbers-01-integers-lq01",
+      "type": "mcq",
+      "question": "-5 + 8 = ?",
+      "options": [
+        "3",
+        "-3",
+        "13",
+        "-13"
+      ],
+      "answer": "3",
+      "explanation": "8 - 5 = 3."
+    },
+    {
+      "id": "g7-mat-unit-01-rational-numbers-01-integers-lq02",
+      "type": "true_false",
+      "question": "Subtracting a negative is the same as adding.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "-(-3) = +3."
+    },
+    {
+      "id": "g7-mat-unit-01-rational-numbers-01-integers-lq03",
+      "type": "fill_blank",
+      "question": "-4 - 6 = ___.",
+      "answer": "-10",
+      "explanation": "Both negative directions."
+    },
+    {
+      "id": "g7-mat-unit-01-rational-numbers-01-integers-lq04",
+      "type": "short_answer",
+      "question": "What is the result of -7 + 7?",
+      "answer": "0",
+      "explanation": "Additive inverses."
+    }
+  ]
+}

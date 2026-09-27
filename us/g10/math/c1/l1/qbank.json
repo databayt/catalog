@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq01",
+      "type": "mcq",
+      "question": "Which proves two triangles congruent?",
+      "options": [
+        "SSA",
+        "SAS",
+        "AAA",
+        "none"
+      ],
+      "answer": "SAS",
+      "explanation": "Side-Angle-Side."
+    },
+    {
+      "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq02",
+      "type": "true_false",
+      "question": "The angles of a triangle sum to 180°.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Triangle sum."
+    },
+    {
+      "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq03",
+      "type": "fill_blank",
+      "question": "Two figures with the same size and shape are ___.",
+      "answer": "congruent",
+      "explanation": "Congruence."
+    },
+    {
+      "id": "g10-mat-unit-01-congruence-01-triangle-rules-lq04",
+      "type": "short_answer",
+      "question": "Name two triangle congruence criteria.",
+      "answer": "SSS, SAS, ASA, AAS (any two).",
+      "explanation": "Congruence rules."
+    }
+  ]
+}

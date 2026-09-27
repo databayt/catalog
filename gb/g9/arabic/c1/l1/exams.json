@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-01-inna-01-inna-quiz",
+      "title": "Quiz: إنّ وأخواتها",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq01",
+          "type": "mcq",
+          "question": "(إنّ) تنصب الاسم وترفع:",
+          "options": [
+            "الفاعل",
+            "الخبر",
+            "المفعول",
+            "الحرف"
+          ],
+          "answer": "الخبر",
+          "explanation": "عكس كان."
+        },
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq02",
+          "type": "true_false",
+          "question": "(إنّ، أنّ، لكنّ، ليت) من أخوات إنّ.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الحروف الناسخة."
+        },
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq03",
+          "type": "fill_blank",
+          "question": "في (إنّ العلمَ نافعٌ) اسم إنّ هو ___.",
+          "answer": "العلم",
+          "explanation": "منصوب."
+        },
+        {
+          "id": "g9-ara-unit-01-inna-01-inna-lq04",
+          "type": "short_answer",
+          "question": "ما عمل (إنّ) في الجملة الاسمية؟",
+          "answer": "تنصب المبتدأ (اسمها) وترفع الخبر (خبرها).",
+          "explanation": "إنّ وأخواتها."
+        }
+      ]
+    }
+  ]
+}

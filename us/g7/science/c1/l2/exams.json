@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-sci-unit-01-ecosystems-02-cycles-quiz",
+      "title": "Quiz: Cycles of Matter",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq01",
+          "type": "mcq",
+          "question": "The process by which plants release water vapor is:",
+          "options": [
+            "respiration",
+            "transpiration",
+            "condensation",
+            "erosion"
+          ],
+          "answer": "transpiration",
+          "explanation": "Water from leaves."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq02",
+          "type": "true_false",
+          "question": "Carbon cycles between organisms and the atmosphere.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carbon cycle."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq03",
+          "type": "fill_blank",
+          "question": "Bacteria convert nitrogen gas into usable forms in the ___ cycle.",
+          "answer": "nitrogen",
+          "explanation": "Nitrogen fixation."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq04",
+          "type": "short_answer",
+          "question": "Why are matter cycles important?",
+          "answer": "They recycle essential elements so life can continue.",
+          "explanation": "Recycling matter."
+        }
+      ]
+    }
+  ]
+}

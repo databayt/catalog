@@ -26,7 +26,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-welcome-to-english",
+      "slug": "c1",
       "title": {
         "en": "Welcome to English"
       },
@@ -34,49 +34,49 @@
       "image": "clickview/elementary-communication-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "slug": "02-numbers",
+      "slug": "c2",
       "title": {
         "en": "Numbers"
       },
@@ -92,49 +92,49 @@
       "image": "clickview/elementary-counting-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "slug": "03-colours",
+      "slug": "c3",
       "title": {
         "en": "Colours"
       },
@@ -150,49 +150,49 @@
       "image": "clickview/elementary-color-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "slug": "04-about-me",
+      "slug": "c4",
       "title": {
         "en": "About Me"
       },
@@ -208,49 +208,49 @@
       "image": "clickview/elementary-self-awareness-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "slug": "05-my-school",
+      "slug": "c5",
       "title": {
         "en": "My School"
       },
@@ -266,49 +266,49 @@
       "image": "clickview/elementary-the-school-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "slug": "06-home",
+      "slug": "c6",
       "title": {
         "en": "Home"
       },
@@ -324,49 +324,49 @@
       "image": "clickview/elementary-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -374,7 +374,7 @@
       ]
     },
     {
-      "slug": "07-my-family",
+      "slug": "c7",
       "title": {
         "en": "My Family"
       },
@@ -382,49 +382,49 @@
       "image": "clickview/elementary-family-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "slug": "08-toys-and-games",
+      "slug": "c8",
       "title": {
         "en": "Toys and Games"
       },
@@ -440,49 +440,49 @@
       "image": "clickview/elementary-physical-activity-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "slug": "09-animals",
+      "slug": "c9",
       "title": {
         "en": "Animals"
       },
@@ -498,49 +498,49 @@
       "image": "clickview/elementary-animals-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "slug": "10-food-and-drink",
+      "slug": "c10",
       "title": {
         "en": "Food and Drink"
       },
@@ -556,49 +556,49 @@
       "image": "clickview/elementary-diet-and-nutrition-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "slug": "11-our-environment",
+      "slug": "c11",
       "title": {
         "en": "Our Environment"
       },
@@ -614,49 +614,49 @@
       "image": "clickview/elementary-nature-conservation-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }
@@ -664,7 +664,7 @@
       ]
     },
     {
-      "slug": "12-eid-el-fitr",
+      "slug": "c12",
       "title": {
         "en": "Eid El Fitr"
       },
@@ -672,49 +672,49 @@
       "image": "clickview/elementary-family-cover.jpg",
       "lessons": [
         {
-          "slug": "01-lesson",
+          "slug": "l1",
           "title": {
             "en": "Lesson 1"
           }
         },
         {
-          "slug": "02-lesson",
+          "slug": "l2",
           "title": {
             "en": "Lesson 2"
           }
         },
         {
-          "slug": "03-lesson",
+          "slug": "l3",
           "title": {
             "en": "Lesson 3"
           }
         },
         {
-          "slug": "04-lesson",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-revision",
+          "slug": "l8",
           "title": {
             "en": "Revision"
           }

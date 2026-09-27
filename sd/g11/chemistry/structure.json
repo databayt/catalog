@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-periodic-arrangement",
+      "slug": "c1",
       "title": {
         "ar": "الترتيب الدوري للعناصر",
         "en": "Periodic Arrangement of Elements"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-periodic-arrangement-of-elements",
+          "slug": "l1",
           "title": {
             "ar": "الترتيب الدوري للعناصر",
             "en": "Periodic Arrangement of Elements"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-modern-periodic-table",
+          "slug": "l2",
           "title": {
             "ar": "الجدول الدوري الحديث",
             "en": "The Modern Periodic Table"
@@ -48,7 +48,7 @@
           "page": 5
         },
         {
-          "slug": "03-periodic-properties",
+          "slug": "l3",
           "title": {
             "ar": "الخواص الدورية للعناصر",
             "en": "Periodic Properties of Elements"
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "slug": "02-group-one-metals",
+      "slug": "c2",
       "title": {
         "ar": "فلزات المجموعة الأولى",
         "en": "Group One Metals"
@@ -69,7 +69,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-physical-chemical-properties-group-one",
+          "slug": "l1",
           "title": {
             "ar": "الخواص الفيزيائية والكيميائية لعناصر المجموعة الأولى",
             "en": "Physical and Chemical Properties of Group One Elements"
@@ -77,7 +77,7 @@
           "page": 24
         },
         {
-          "slug": "02-sodium",
+          "slug": "l2",
           "title": {
             "ar": "الصوديوم",
             "en": "Sodium"
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "slug": "03-organic-chemistry",
+      "slug": "c3",
       "title": {
         "ar": "الكيمياء العضوية",
         "en": "Organic Chemistry"
@@ -98,7 +98,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-organic-chemistry",
+          "slug": "l1",
           "title": {
             "ar": "مدخل لدراسة الكيمياء العضوية",
             "en": "Introduction to the Study of Organic Chemistry"
@@ -106,7 +106,7 @@
           "page": 38
         },
         {
-          "slug": "02-naming-hydrocarbons",
+          "slug": "l2",
           "title": {
             "ar": "تسمية الهيدروكربونات",
             "en": "Naming Hydrocarbons"
@@ -114,7 +114,7 @@
           "page": 41
         },
         {
-          "slug": "03-classification-of-organic-compounds",
+          "slug": "l3",
           "title": {
             "ar": "تصنيف المركبات العضوية",
             "en": "Classification of Organic Compounds"
@@ -122,7 +122,7 @@
           "page": 44
         },
         {
-          "slug": "04-homologous-series",
+          "slug": "l4",
           "title": {
             "ar": "السلسلة المتجانسة (المتشاكلة)",
             "en": "Homologous Series"
@@ -130,7 +130,7 @@
           "page": 48
         },
         {
-          "slug": "05-alkenes",
+          "slug": "l5",
           "title": {
             "ar": "سلسلة الألكينات (الأوليفينات)",
             "en": "The Alkene Series (Olefins)"
@@ -138,7 +138,7 @@
           "page": 51
         },
         {
-          "slug": "06-alkynes",
+          "slug": "l6",
           "title": {
             "ar": "سلسلة الألكاينات (الأستيلينات)",
             "en": "The Alkyne Series (Acetylenes)"
@@ -146,7 +146,7 @@
           "page": 55
         },
         {
-          "slug": "07-cyclic-hydrocarbons",
+          "slug": "l7",
           "title": {
             "ar": "الهيدروكربونات الحلقية",
             "en": "Cyclic Hydrocarbons"
@@ -154,7 +154,7 @@
           "page": 58
         },
         {
-          "slug": "08-isomerism",
+          "slug": "l8",
           "title": {
             "ar": "التماكب (الأيزومرية)",
             "en": "Isomerism"
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "slug": "04-nitrogen",
+      "slug": "c4",
       "title": {
         "ar": "النيتروجين",
         "en": "Nitrogen"
@@ -176,7 +176,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-general-properties-group-five",
+          "slug": "l1",
           "title": {
             "ar": "الخواص العامة لعناصر المجموعة الخامسة",
             "en": "General Properties of Group Five Elements"
@@ -184,7 +184,7 @@
           "page": 65
         },
         {
-          "slug": "02-nitrogen",
+          "slug": "l2",
           "title": {
             "ar": "النيتروجين",
             "en": "Nitrogen"
@@ -192,7 +192,7 @@
           "page": 70
         },
         {
-          "slug": "03-important-nitrogen-compounds",
+          "slug": "l3",
           "title": {
             "ar": "أهم مركبات النيتروجين",
             "en": "The Most Important Nitrogen Compounds"
@@ -200,7 +200,7 @@
           "page": 74
         },
         {
-          "slug": "04-fertilizers",
+          "slug": "l4",
           "title": {
             "ar": "مخصبات التربة (الأسمدة)",
             "en": "Soil Fertilizers"
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "slug": "05-halogens",
+      "slug": "c5",
       "title": {
         "ar": "الهالوجينات",
         "en": "The Halogens"
@@ -222,7 +222,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-general-properties-of-halogens",
+          "slug": "l1",
           "title": {
             "ar": "الخواص العامة للهالوجينات",
             "en": "General Properties of the Halogens"
@@ -230,7 +230,7 @@
           "page": 84
         },
         {
-          "slug": "02-preparation-of-chlorine",
+          "slug": "l2",
           "title": {
             "ar": "تحضير غاز الكلور",
             "en": "Preparation of Chlorine Gas"
@@ -238,7 +238,7 @@
           "page": 90
         },
         {
-          "slug": "03-properties-of-chlorine",
+          "slug": "l3",
           "title": {
             "ar": "خواص غاز الكلور الفيزيائية والكيميائية",
             "en": "Physical and Chemical Properties of Chlorine Gas"
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "slug": "06-transition-elements",
+      "slug": "c6",
       "title": {
         "ar": "العناصر الانتقالية",
         "en": "The Transition Elements"
@@ -259,7 +259,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-definition-of-transition-element",
+          "slug": "l1",
           "title": {
             "ar": "تعريف العنصر الانتقالي",
             "en": "Definition of the Transition Element"
@@ -267,7 +267,7 @@
           "page": 104
         },
         {
-          "slug": "02-general-properties-of-transition-metals",
+          "slug": "l2",
           "title": {
             "ar": "الخواص العامة لفلزات العناصر الانتقالية",
             "en": "General Properties of the Transition Metals"

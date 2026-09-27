@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-uae-world",
+      "slug": "c1",
       "title": {
         "en": "The UAE & the World"
       },
       "lessons": [
         {
-          "slug": "01-diplomacy",
+          "slug": "l1",
           "title": {
             "en": "The UAE in the World"
           }
         },
         {
-          "slug": "02-coexistence",
+          "slug": "l2",
           "title": {
             "en": "Tolerance & Coexistence"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-decision",
+      "slug": "c2",
       "title": {
         "en": "Ethics & Decision-Making"
       },
       "lessons": [
         {
-          "slug": "01-decisions",
+          "slug": "l1",
           "title": {
             "en": "Making Good Decisions"
           }
         },
         {
-          "slug": "02-integrity",
+          "slug": "l2",
           "title": {
             "en": "Integrity"
           }

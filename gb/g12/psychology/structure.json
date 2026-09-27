@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-approaches",
+      "slug": "c1",
       "title": {
         "en": "Approaches & Studies"
       },
       "lessons": [
         {
-          "slug": "01-approaches",
+          "slug": "l1",
           "title": {
             "en": "Psychological Approaches"
           }
         },
         {
-          "slug": "02-memory",
+          "slug": "l2",
           "title": {
             "en": "Memory"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-research",
+      "slug": "c2",
       "title": {
         "en": "Research Methods"
       },
       "lessons": [
         {
-          "slug": "01-experiments",
+          "slug": "l1",
           "title": {
             "en": "Experiments & Sampling"
           }
         },
         {
-          "slug": "02-ethics",
+          "slug": "l2",
           "title": {
             "en": "Ethics & Data"
           }

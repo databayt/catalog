@@ -39,7 +39,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-bayan-review",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: مراجعة علم البيان",
         "en": "Chapter One: Review of the Science of Bayan (Imagery)"
@@ -51,7 +51,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-simile-types",
+          "slug": "l1",
           "title": {
             "ar": "التشبيه وأنواعه",
             "en": "Simile and Its Types"
@@ -66,7 +66,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-artistic-value-of-simile",
+          "slug": "l2",
           "title": {
             "ar": "قيمة التشبيه الفنية",
             "en": "The Artistic Value of Simile"
@@ -81,7 +81,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-metaphor-eloquence",
+          "slug": "l3",
           "title": {
             "ar": "الاستعارة، وبلاغتها",
             "en": "Metaphor and Its Eloquence"
@@ -96,7 +96,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "04-free-trope",
+          "slug": "l4",
           "title": {
             "ar": "المجاز المرسل",
             "en": "Free Trope (Majaz Mursal)"
@@ -111,7 +111,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-kinaya-eloquence",
+          "slug": "l5",
           "title": {
             "ar": "الكناية وبلاغتها",
             "en": "Metonymy (Kinaya) and Its Eloquence"
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "slug": "02-maani",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: علم المعاني",
         "en": "Chapter Two: The Science of Meanings (Ma'ani)"
@@ -140,7 +140,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sentence-review",
+          "slug": "l1",
           "title": {
             "ar": "الجملة (مراجعة)",
             "en": "The Sentence (Review)"
@@ -155,7 +155,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-ellipsis",
+          "slug": "l2",
           "title": {
             "ar": "الحذف",
             "en": "Ellipsis (Omission)"
@@ -170,7 +170,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-explicit-mention",
+          "slug": "l3",
           "title": {
             "ar": "الذِّكر",
             "en": "Explicit Mention (Dhikr)"
@@ -185,7 +185,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-fronting-deferral",
+          "slug": "l4",
           "title": {
             "ar": "التقديم والتأخير",
             "en": "Fronting and Deferral"
@@ -200,7 +200,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-restriction",
+          "slug": "l5",
           "title": {
             "ar": "القصر",
             "en": "Restriction (Qasr)"
@@ -215,7 +215,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-qasr-division",
+          "slug": "l6",
           "title": {
             "ar": "تقسيم القصر إلى حقيقي وإضافي",
             "en": "Division of Restriction into Real and Relative"
@@ -230,7 +230,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-effect-of-maani-on-eloquence",
+          "slug": "l7",
           "title": {
             "ar": "أثر علم المعاني في بلاغة الكلام",
             "en": "The Effect of the Science of Ma'ani on the Eloquence of Speech"
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "slug": "03-badi",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: علم البديع",
         "en": "Chapter Three: The Science of Badi' (Embellishment)"
@@ -259,7 +259,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-tawriya",
+          "slug": "l1",
           "title": {
             "ar": "التورية",
             "en": "Tawriya (Paronomasia)"
@@ -274,7 +274,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-husn-al-taalil",
+          "slug": "l2",
           "title": {
             "ar": "حسن التعليل",
             "en": "Husn al-Ta'lil (Beautification of Cause)"
@@ -289,7 +289,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-praise-blame-inversion",
+          "slug": "l3",
           "title": {
             "ar": "تأكيد المدح بما يشبه الذم وتأكيد الذم بما يشبه المدح",
             "en": "Affirming Praise Through What Resembles Blame, and Vice Versa"
@@ -304,7 +304,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-hyperbole",
+          "slug": "l4",
           "title": {
             "ar": "المبالغة",
             "en": "Hyperbole (Mubalagha)"
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "slug": "04-selections",
+      "slug": "c4",
       "title": {
         "ar": "الباب الرابع: مختارات",
         "en": "Chapter Four: Selections"
@@ -333,7 +333,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-from-the-quran",
+          "slug": "l1",
           "title": {
             "ar": "من كتاب الله",
             "en": "From the Book of God"
@@ -348,7 +348,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-from-hadith",
+          "slug": "l2",
           "title": {
             "ar": "من أحاديث الرسول ﷺ",
             "en": "From the Sayings of the Prophet"
@@ -363,7 +363,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-on-noble-virtues",
+          "slug": "l3",
           "title": {
             "ar": "في المكارم",
             "en": "On Noble Virtues"
@@ -378,7 +378,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-jihad-glory-applauds",
+          "slug": "l4",
           "title": {
             "ar": "يا جهاداً صفّق المجد له",
             "en": "O Struggle, Glory Applauds unto It"
@@ -393,7 +393,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-eternal-glimpse",
+          "slug": "l5",
           "title": {
             "ar": "اللمحة الخالدة",
             "en": "The Eternal Glimpse"
@@ -408,7 +408,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-defense-of-the-tree",
+          "slug": "l6",
           "title": {
             "ar": "دفاع عن الشجرة",
             "en": "In Defense of the Tree"
@@ -423,7 +423,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-do-not-blame-him",
+          "slug": "l7",
           "title": {
             "ar": "لا تعذليه",
             "en": "Do Not Blame Him"
@@ -438,7 +438,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-my-countrys-water",
+          "slug": "l8",
           "title": {
             "ar": "ماء بلادي كان أنجع مشرباً",
             "en": "My Country's Water Was the Most Beneficial Drink"

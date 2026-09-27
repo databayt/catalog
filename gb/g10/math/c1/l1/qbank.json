@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g10-mat-unit-01-algebra-01-quadratics-lq01",
+      "type": "mcq",
+      "question": "Solve x² = 49:",
+      "options": [
+        "7",
+        "±7",
+        "24.5",
+        "14"
+      ],
+      "answer": "±7",
+      "explanation": "Two roots."
+    },
+    {
+      "id": "g10-mat-unit-01-algebra-01-quadratics-lq02",
+      "type": "true_false",
+      "question": "Factorising x²+5x+6 gives (x+2)(x+3).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Factors of 6 summing 5."
+    },
+    {
+      "id": "g10-mat-unit-01-algebra-01-quadratics-lq03",
+      "type": "fill_blank",
+      "question": "The quadratic formula is x = (-b ± √(b²-4ac)) / ___.",
+      "answer": "2a",
+      "explanation": "Denominator."
+    },
+    {
+      "id": "g10-mat-unit-01-algebra-01-quadratics-lq04",
+      "type": "short_answer",
+      "question": "Name two methods to solve a quadratic.",
+      "answer": "Factorising, the quadratic formula, or completing the square.",
+      "explanation": "Methods."
+    }
+  ]
+}

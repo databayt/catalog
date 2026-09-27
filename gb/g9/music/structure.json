@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-theory",
+      "slug": "c1",
       "title": {
         "en": "Music Theory & Notation"
       },
       "lessons": [
         {
-          "slug": "01-notation",
+          "slug": "l1",
           "title": {
             "en": "Reading Notation"
           }
         },
         {
-          "slug": "02-harmony",
+          "slug": "l2",
           "title": {
             "en": "Harmony & Texture"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-composing",
+      "slug": "c2",
       "title": {
         "en": "Composing & Performing"
       },
       "lessons": [
         {
-          "slug": "01-composing",
+          "slug": "l1",
           "title": {
             "en": "Composing"
           }
         },
         {
-          "slug": "02-genres",
+          "slug": "l2",
           "title": {
             "en": "Genres & Context"
           }

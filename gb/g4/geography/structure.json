@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-mountains-volcanoes",
+      "slug": "c1",
       "title": {
         "en": "Mountains & Volcanoes"
       },
       "lessons": [
         {
-          "slug": "01-mountains",
+          "slug": "l1",
           "title": {
             "en": "Mountains"
           }
         },
         {
-          "slug": "02-volcanoes",
+          "slug": "l2",
           "title": {
             "en": "Volcanoes"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-climate-biomes",
+      "slug": "c2",
       "title": {
         "en": "Climate Zones & Biomes"
       },
       "lessons": [
         {
-          "slug": "01-climate-zones",
+          "slug": "l1",
           "title": {
             "en": "Climate Zones"
           }
         },
         {
-          "slug": "02-biomes",
+          "slug": "l2",
           "title": {
             "en": "World Biomes"
           }

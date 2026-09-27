@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-modern",
+      "slug": "c1",
       "title": {
         "en": "Modern Texts"
       },
       "lessons": [
         {
-          "slug": "01-themes",
+          "slug": "l1",
           "title": {
             "en": "Themes in Modern Drama/Prose"
           }
         },
         {
-          "slug": "02-character",
+          "slug": "l2",
           "title": {
             "en": "Character & Method"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-poetry",
+      "slug": "c2",
       "title": {
         "en": "Poetry Anthology & Unseen"
       },
       "lessons": [
         {
-          "slug": "01-comparison",
+          "slug": "l1",
           "title": {
             "en": "Comparing Poems"
           }
         },
         {
-          "slug": "02-unseen",
+          "slug": "l2",
           "title": {
             "en": "Analysing Unseen Poetry"
           }

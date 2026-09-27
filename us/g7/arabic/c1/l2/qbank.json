@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-ara-unit-01-syntax-02-adjective-lq01",
+      "type": "mcq",
+      "question": "في (جاء الطالبُ المجتهدُ) النعت هو:",
+      "options": [
+        "جاء",
+        "الطالب",
+        "المجتهد",
+        "ال"
+      ],
+      "answer": "المجتهد",
+      "explanation": "صفة للطالب."
+    },
+    {
+      "id": "g7-ara-unit-01-syntax-02-adjective-lq02",
+      "type": "true_false",
+      "question": "النعت يتبع المنعوت في إعرابه.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "التبعية."
+    },
+    {
+      "id": "g7-ara-unit-01-syntax-02-adjective-lq03",
+      "type": "fill_blank",
+      "question": "الصفة التي تصف الاسم تسمى ___.",
+      "answer": "النعت",
+      "explanation": "النعت."
+    },
+    {
+      "id": "g7-ara-unit-01-syntax-02-adjective-lq04",
+      "type": "short_answer",
+      "question": "صف كلمة (بيت) بصفة مناسبة.",
+      "answer": "مثل: بيتٌ كبيرٌ.",
+      "explanation": "النعت."
+    }
+  ]
+}

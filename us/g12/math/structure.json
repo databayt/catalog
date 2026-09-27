@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-trig",
+      "slug": "c1",
       "title": {
         "en": "Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-trig-ratios",
+          "slug": "l1",
           "title": {
             "en": "Trigonometric Ratios"
           }
         },
         {
-          "slug": "02-identities",
+          "slug": "l2",
           "title": {
             "en": "Trig Identities"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-functions-limits",
+      "slug": "c2",
       "title": {
         "en": "Functions & Introduction to Limits"
       },
       "lessons": [
         {
-          "slug": "01-function-analysis",
+          "slug": "l1",
           "title": {
             "en": "Analyzing Functions"
           }
         },
         {
-          "slug": "02-limits",
+          "slug": "l2",
           "title": {
             "en": "Introduction to Limits"
           }

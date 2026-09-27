@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "biology",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g12-bio-unit-01-molecules-exam",
+      "title": "Exam: Biological Molecules",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq01",
+          "type": "mcq",
+          "question": "The monomer of proteins is the:",
+          "options": [
+            "glucose",
+            "amino acid",
+            "nucleotide",
+            "fatty acid"
+          ],
+          "answer": "amino acid",
+          "explanation": "Protein monomer."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq02",
+          "type": "true_false",
+          "question": "Enzymes are proteins that lower activation energy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Catalysts."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq03",
+          "type": "fill_blank",
+          "question": "The monomer of starch and glycogen is ___.",
+          "answer": "glucose",
+          "explanation": "Carbohydrate monomer."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq04",
+          "type": "short_answer",
+          "question": "How does enzyme structure relate to function?",
+          "answer": "The specific active-site shape determines which substrate fits.",
+          "explanation": "Specificity."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-02-nucleic-acids-lq01",
+          "type": "mcq",
+          "question": "DNA nucleotides contain a sugar, phosphate and a:",
+          "options": [
+            "base",
+            "lipid",
+            "protein",
+            "metal"
+          ],
+          "answer": "base",
+          "explanation": "Nucleotide parts."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-02-nucleic-acids-lq02",
+          "type": "true_false",
+          "question": "mRNA carries the genetic code from DNA to ribosomes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Transcription."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-02-nucleic-acids-lq03",
+          "type": "fill_blank",
+          "question": "In DNA, adenine pairs with ___.",
+          "answer": "thymine",
+          "explanation": "Base pairing."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-02-nucleic-acids-lq04",
+          "type": "short_answer",
+          "question": "What is the role of DNA?",
+          "answer": "To store the genetic code for synthesising proteins.",
+          "explanation": "DNA role."
+        }
+      ]
+    }
+  ]
+}

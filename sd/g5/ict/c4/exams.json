@@ -1,0 +1,138 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "ict",
+    "chapter": "c4"
+  },
+  "exams": [
+    {
+      "id": "g5-ict-unit-4-quiz",
+      "title": "اختبار - الربامج التطبيقية ()MS Word",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g5-ict-unit-4-01-الواجهةالرئيسةللربنامج-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        },
+        {
+          "id": "g5-ict-unit-4-02-العملياتاألساسية-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g5-ict-unit-4-02-العملياتاألساسية-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        },
+        {
+          "id": "g5-ict-unit-4-03-األشكالوالصور-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g5-ict-unit-4-03-األشكالوالصور-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        },
+        {
+          "id": "g5-ict-unit-4-04-اجلداول-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g5-ict-unit-4-04-اجلداول-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        },
+        {
+          "id": "g5-ict-unit-4-05-رأسوتذييلالصفحة-q01",
+          "type": "mcq",
+          "question": "ما برنامج Microsoft Word مستخدم لـ؟",
+          "options": [
+            "معالجة النصوص والكتابة",
+            "تحرير الصور",
+            "تشغيل الألعاب",
+            "إرسال الرسائل"
+          ],
+          "answer": "معالجة النصوص والكتابة",
+          "explanation": "Word برنامج معالجة نصوص يُستخدم لكتابة المستندات."
+        },
+        {
+          "id": "g5-ict-unit-4-05-رأسوتذييلالصفحة-q02",
+          "type": "true_false",
+          "question": "يمكن حفظ مستندات Word بامتداد .docx.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": ".docx هو امتداد ملفات Word."
+        }
+      ]
+    }
+  ]
+}

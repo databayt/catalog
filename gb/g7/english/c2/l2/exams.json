@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-eng-unit-02-writing-02-persuasive-quiz",
+      "title": "Quiz: Persuasive Writing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-eng-unit-02-writing-02-persuasive-lq01",
+          "type": "mcq",
+          "question": "'Rhetorical question' is a device used to:",
+          "options": [
+            "confuse",
+            "make the reader think",
+            "fill space",
+            "end a text"
+          ],
+          "answer": "make the reader think",
+          "explanation": "Persuasive device."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-02-persuasive-lq02",
+          "type": "true_false",
+          "question": "AFOREST lists persuasive techniques.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Alliteration, facts, opinions, etc."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-02-persuasive-lq03",
+          "type": "fill_blank",
+          "question": "Repeating a phrase for effect is ___.",
+          "answer": "repetition",
+          "explanation": "Persuasive device."
+        },
+        {
+          "id": "g7-eng-unit-02-writing-02-persuasive-lq04",
+          "type": "short_answer",
+          "question": "Give two persuasive techniques.",
+          "answer": "e.g., rhetorical questions and emotive language.",
+          "explanation": "Persuasion."
+        }
+      ]
+    }
+  ]
+}

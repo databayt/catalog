@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-set-of-whole-numbers",
+      "slug": "c1",
       "title": {
         "ar": "مجموعة الأعداد الكلية",
         "en": "The Set of Whole Numbers"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-numbers-up-to-tens-of-thousands",
+          "slug": "l1",
           "title": {
             "ar": "الأعداد ضمن عشرات الألوف",
             "en": "Numbers up to Tens of Thousands"
@@ -48,7 +48,7 @@
           "page": 8
         },
         {
-          "slug": "02-numbers-up-to-hundreds-of-thousands",
+          "slug": "l2",
           "title": {
             "ar": "الأعداد ضمن مئات الألوف",
             "en": "Numbers up to Hundreds of Thousands"
@@ -56,7 +56,7 @@
           "page": 12
         },
         {
-          "slug": "03-numbers-up-to-millions",
+          "slug": "l3",
           "title": {
             "ar": "الأعداد ضمن الملايين",
             "en": "Numbers up to Millions"
@@ -64,7 +64,7 @@
           "page": 14
         },
         {
-          "slug": "04-comparing-numbers",
+          "slug": "l4",
           "title": {
             "ar": "مقارنة الأعداد",
             "en": "Comparing Numbers"
@@ -73,7 +73,7 @@
           "image": "clickview/elementary-comparing-numbers-cover.jpg"
         },
         {
-          "slug": "05-prime-numbers",
+          "slug": "l5",
           "title": {
             "ar": "الأعداد الأولية",
             "en": "Prime Numbers"
@@ -82,7 +82,7 @@
           "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
         },
         {
-          "slug": "06-even-and-odd-numbers",
+          "slug": "l6",
           "title": {
             "ar": "الأعداد الزوجية والفردية",
             "en": "Even and Odd Numbers"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "slug": "02-operations-on-whole-numbers",
+      "slug": "c2",
       "title": {
         "ar": "العمليات على الأعداد الكلية",
         "en": "Operations on Whole Numbers"
@@ -103,7 +103,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-divisibility",
+          "slug": "l1",
           "title": {
             "ar": "قابلية القسمة",
             "en": "Divisibility"
@@ -111,7 +111,7 @@
           "page": 30
         },
         {
-          "slug": "02-divisibility-by-2",
+          "slug": "l2",
           "title": {
             "ar": "قابلية القسمة على 2",
             "en": "Divisibility by 2"
@@ -119,7 +119,7 @@
           "page": 33
         },
         {
-          "slug": "03-divisibility-by-3",
+          "slug": "l3",
           "title": {
             "ar": "قابلية القسمة على 3",
             "en": "Divisibility by 3"
@@ -127,7 +127,7 @@
           "page": 35
         },
         {
-          "slug": "04-divisibility-by-5",
+          "slug": "l4",
           "title": {
             "ar": "قابلية القسمة على 5",
             "en": "Divisibility by 5"
@@ -135,7 +135,7 @@
           "page": 37
         },
         {
-          "slug": "05-divisibility-by-10",
+          "slug": "l5",
           "title": {
             "ar": "قابلية القسمة على 10",
             "en": "Divisibility by 10"
@@ -143,7 +143,7 @@
           "page": 38
         },
         {
-          "slug": "06-prime-factorisation",
+          "slug": "l6",
           "title": {
             "ar": "تحليل العدد إلى عوامله الأولية",
             "en": "Prime Factorisation"
@@ -152,7 +152,7 @@
           "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
         },
         {
-          "slug": "07-the-greatest-common-divisor",
+          "slug": "l7",
           "title": {
             "ar": "القاسم المشترك الأكبر",
             "en": "The Greatest Common Divisor"
@@ -161,7 +161,7 @@
           "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
         },
         {
-          "slug": "08-the-least-common-multiple",
+          "slug": "l8",
           "title": {
             "ar": "المضاعف المشترك الأصغر",
             "en": "The Least Common Multiple"
@@ -170,7 +170,7 @@
           "image": "clickview/middle-factors-multiples-and-primes-cover.jpg"
         },
         {
-          "slug": "09-dividing-by-a-two-digit-number",
+          "slug": "l9",
           "title": {
             "ar": "قسمة عدد على عدد مكون من رقمين",
             "en": "Dividing by a Two-Digit Number"
@@ -178,7 +178,7 @@
           "page": 47
         },
         {
-          "slug": "10-dividing-by-a-three-digit-number",
+          "slug": "l10",
           "title": {
             "ar": "قسمة عدد على عدد مكون من ثلاثة أرقام",
             "en": "Dividing by a Three-Digit Number"
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "slug": "03-measurement",
+      "slug": "c3",
       "title": {
         "ar": "القياس",
         "en": "Measurement"
@@ -199,7 +199,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-capacity",
+          "slug": "l1",
           "title": {
             "ar": "السعة",
             "en": "Capacity"
@@ -207,7 +207,7 @@
           "page": 54
         },
         {
-          "slug": "02-units-of-capacity",
+          "slug": "l2",
           "title": {
             "ar": "المكاييل",
             "en": "Units of Capacity"
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "slug": "04-common-fractions",
+      "slug": "c4",
       "title": {
         "ar": "الكسور العادية",
         "en": "Common Fractions"
@@ -228,7 +228,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة",
             "en": "Review"
@@ -236,7 +236,7 @@
           "page": 61
         },
         {
-          "slug": "02-representing-fractions-on-the-number-line",
+          "slug": "l2",
           "title": {
             "ar": "تمثيل الكسور على الخط العددي",
             "en": "Representing Fractions on the Number Line"
@@ -244,7 +244,7 @@
           "page": 63
         },
         {
-          "slug": "03-adding-fractions",
+          "slug": "l3",
           "title": {
             "ar": "جمع الكسور",
             "en": "Adding Fractions"
@@ -253,7 +253,7 @@
           "image": "clickview/elementary-adding-and-subtracting-fractions-cover.jpg"
         },
         {
-          "slug": "04-subtracting-fractions",
+          "slug": "l4",
           "title": {
             "ar": "طرح الكسور",
             "en": "Subtracting Fractions"
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "slug": "05-ratio",
+      "slug": "c5",
       "title": {
         "ar": "النسبة",
         "en": "Ratio"
@@ -275,7 +275,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-ratio",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم النسبة",
             "en": "The Concept of Ratio"
@@ -283,7 +283,7 @@
           "page": 72
         },
         {
-          "slug": "02-how-to-write-a-ratio",
+          "slug": "l2",
           "title": {
             "ar": "طريقة كتابة النسبة",
             "en": "How to Write a Ratio"
@@ -291,7 +291,7 @@
           "page": 77
         },
         {
-          "slug": "03-antecedent-and-consequent-of-a-ratio",
+          "slug": "l3",
           "title": {
             "ar": "مقدم النسبة وتالي النسبة",
             "en": "Antecedent and Consequent of a Ratio"
@@ -299,7 +299,7 @@
           "page": 80
         },
         {
-          "slug": "04-problems-on-ratio",
+          "slug": "l4",
           "title": {
             "ar": "مسائل في النسبة",
             "en": "Problems on Ratio"
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "slug": "06-geometry",
+      "slug": "c6",
       "title": {
         "ar": "الهندسة",
         "en": "Geometry"
@@ -320,7 +320,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-ray-and-the-straight-line",
+          "slug": "l1",
           "title": {
             "ar": "الشعاع والمستقيم",
             "en": "The Ray and the Straight Line"
@@ -328,7 +328,7 @@
           "page": 88
         },
         {
-          "slug": "02-the-angle",
+          "slug": "l2",
           "title": {
             "ar": "الزاوية",
             "en": "The Angle"
@@ -336,7 +336,7 @@
           "page": 91
         },
         {
-          "slug": "03-measuring-and-drawing-angles",
+          "slug": "l3",
           "title": {
             "ar": "قياس الزاوية ورسمها",
             "en": "Measuring and Drawing Angles"
@@ -344,7 +344,7 @@
           "page": 93
         },
         {
-          "slug": "04-types-of-angles",
+          "slug": "l4",
           "title": {
             "ar": "أنواع الزوايا",
             "en": "Types of Angles"
@@ -352,7 +352,7 @@
           "page": 97
         },
         {
-          "slug": "05-perpendicular-lines",
+          "slug": "l5",
           "title": {
             "ar": "المستقيمات المتعامدة",
             "en": "Perpendicular Lines"
@@ -360,7 +360,7 @@
           "page": 101
         },
         {
-          "slug": "06-parallel-lines",
+          "slug": "l6",
           "title": {
             "ar": "المستقيمات المتوازية",
             "en": "Parallel Lines"
@@ -368,7 +368,7 @@
           "page": 103
         },
         {
-          "slug": "07-drawing-a-triangle",
+          "slug": "l7",
           "title": {
             "ar": "رسم المثلث",
             "en": "Drawing a Triangle"
@@ -377,7 +377,7 @@
           "image": "clickview/elementary-2d-shapes-cover.jpg"
         },
         {
-          "slug": "08-drawing-a-parallelogram",
+          "slug": "l8",
           "title": {
             "ar": "رسم متوازي الأضلاع",
             "en": "Drawing a Parallelogram"
@@ -386,7 +386,7 @@
           "image": "clickview/elementary-2d-shapes-cover.jpg"
         },
         {
-          "slug": "09-drawing-a-rectangle",
+          "slug": "l9",
           "title": {
             "ar": "رسم المستطيل",
             "en": "Drawing a Rectangle"
@@ -395,7 +395,7 @@
           "image": "clickview/elementary-2d-shapes-cover.jpg"
         },
         {
-          "slug": "10-drawing-a-square",
+          "slug": "l10",
           "title": {
             "ar": "رسم المربع",
             "en": "Drawing a Square"
@@ -404,7 +404,7 @@
           "image": "clickview/elementary-2d-shapes-cover.jpg"
         },
         {
-          "slug": "11-the-circle",
+          "slug": "l11",
           "title": {
             "ar": "الدائرة",
             "en": "The Circle"
@@ -413,7 +413,7 @@
           "image": "clickview/elementary-2d-shapes-cover.jpg"
         },
         {
-          "slug": "12-drawing-a-circle",
+          "slug": "l12",
           "title": {
             "ar": "رسم الدائرة",
             "en": "Drawing a Circle"

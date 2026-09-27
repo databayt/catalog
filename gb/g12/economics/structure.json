@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-micro",
+      "slug": "c1",
       "title": {
         "en": "Microeconomics"
       },
       "lessons": [
         {
-          "slug": "01-supply-demand",
+          "slug": "l1",
           "title": {
             "en": "Supply & Demand"
           }
         },
         {
-          "slug": "02-markets",
+          "slug": "l2",
           "title": {
             "en": "Markets & Failure"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-macro",
+      "slug": "c2",
       "title": {
         "en": "Macroeconomics"
       },
       "lessons": [
         {
-          "slug": "01-indicators",
+          "slug": "l1",
           "title": {
             "en": "Economic Indicators"
           }
         },
         {
-          "slug": "02-policy",
+          "slug": "l2",
           "title": {
             "en": "Economic Policy"
           }

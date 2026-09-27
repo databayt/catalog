@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-matter",
+      "slug": "c1",
       "title": {
         "en": "Properties of Matter"
       },
       "lessons": [
         {
-          "slug": "01-solids-liquids",
+          "slug": "l1",
           "title": {
             "en": "Solids, Liquids and Gases"
           }
         },
         {
-          "slug": "02-changes",
+          "slug": "l2",
           "title": {
             "en": "Changing Materials"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-earth",
+      "slug": "c2",
       "title": {
         "en": "Earth's Land & Water"
       },
       "lessons": [
         {
-          "slug": "01-landforms",
+          "slug": "l1",
           "title": {
             "en": "Landforms"
           }
         },
         {
-          "slug": "02-water-on-earth",
+          "slug": "l2",
           "title": {
             "en": "Where Water Is Found"
           }

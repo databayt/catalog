@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading"
       },
       "lessons": [
         {
-          "slug": "01-themes",
+          "slug": "l1",
           "title": {
             "en": "Themes & Conventions"
           }
         },
         {
-          "slug": "02-author-choice",
+          "slug": "l2",
           "title": {
             "en": "Author's Word Choice"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-cohesion",
+          "slug": "l1",
           "title": {
             "en": "Cohesion & Linking"
           }
         },
         {
-          "slug": "02-clause-types",
+          "slug": "l2",
           "title": {
             "en": "Clauses"
           }

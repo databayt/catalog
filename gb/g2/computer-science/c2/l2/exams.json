@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "computer-science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g2-com-unit-02-online-safety-02-devices-quiz",
+      "title": "Quiz: Using Technology",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-com-unit-02-online-safety-02-devices-lq01",
+          "type": "mcq",
+          "question": "Which is an input device?",
+          "options": [
+            "keyboard",
+            "printer",
+            "speaker",
+            "monitor"
+          ],
+          "answer": "keyboard",
+          "explanation": "Input device."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-02-devices-lq02",
+          "type": "true_false",
+          "question": "The internet connects computers around the world.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Networks."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-02-devices-lq03",
+          "type": "fill_blank",
+          "question": "A device you type on is a ___.",
+          "answer": "keyboard",
+          "explanation": "Input."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-02-devices-lq04",
+          "type": "short_answer",
+          "question": "Name an input and an output device.",
+          "answer": "Input: keyboard; Output: monitor/printer.",
+          "explanation": "Devices."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "biology",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g11-bio-unit-02-ecology-01-ecosystems-quiz",
+      "title": "Quiz: Ecosystems & Interdependence",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq01",
+          "type": "mcq",
+          "question": "A community plus its abiotic environment is an:",
+          "options": [
+            "organism",
+            "ecosystem",
+            "organ",
+            "atom"
+          ],
+          "answer": "ecosystem",
+          "explanation": "Eco unit."
+        },
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq02",
+          "type": "true_false",
+          "question": "Organisms compete for resources like food and space.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Competition."
+        },
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq03",
+          "type": "fill_blank",
+          "question": "A food chain begins with a ___.",
+          "answer": "producer",
+          "explanation": "Energy source."
+        },
+        {
+          "id": "g11-bio-unit-02-ecology-01-ecosystems-lq04",
+          "type": "short_answer",
+          "question": "What does interdependence mean in an ecosystem?",
+          "answer": "Species rely on each other for food, pollination, shelter, etc.",
+          "explanation": "Interdependence."
+        }
+      ]
+    }
+  ]
+}

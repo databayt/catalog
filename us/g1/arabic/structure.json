@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-letters",
+      "slug": "c1",
       "title": {
         "ar": "الحروف الهجائية"
       },
       "lessons": [
         {
-          "slug": "01-letters",
+          "slug": "l1",
           "title": {
             "ar": "التعرف على الحروف"
           }
         },
         {
-          "slug": "02-letter-sounds",
+          "slug": "l2",
           "title": {
             "ar": "أصوات الحروف"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-harakat",
+      "slug": "c2",
       "title": {
         "ar": "الحركات"
       },
       "lessons": [
         {
-          "slug": "01-harakat",
+          "slug": "l1",
           "title": {
             "ar": "الفتحة والضمة والكسرة"
           }
         },
         {
-          "slug": "02-madd",
+          "slug": "l2",
           "title": {
             "ar": "حروف المد"
           }

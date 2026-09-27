@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "physics",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-phy-unit-01-energy-01-energy-stores-quiz",
+      "title": "Quiz: Energy Stores & Transfers",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq01",
+          "type": "mcq",
+          "question": "Energy stored in a stretched spring is:",
+          "options": [
+            "kinetic",
+            "elastic potential",
+            "thermal",
+            "nuclear"
+          ],
+          "answer": "elastic potential",
+          "explanation": "Elastic store."
+        },
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq02",
+          "type": "true_false",
+          "question": "Energy can be transferred but not created or destroyed.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Conservation."
+        },
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq03",
+          "type": "fill_blank",
+          "question": "Energy is measured in ___.",
+          "answer": "joules",
+          "explanation": "Unit J."
+        },
+        {
+          "id": "g10-phy-unit-01-energy-01-energy-stores-lq04",
+          "type": "short_answer",
+          "question": "Describe energy transfer in a falling ball.",
+          "answer": "Gravitational potential → kinetic energy.",
+          "explanation": "Energy transfer."
+        }
+      ]
+    }
+  ]
+}

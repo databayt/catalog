@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-history",
+      "slug": "c1",
       "title": {
         "en": "UAE History & Founding"
       },
       "lessons": [
         {
-          "slug": "01-founding",
+          "slug": "l1",
           "title": {
             "en": "The Founding of the UAE"
           }
         },
         {
-          "slug": "02-zayed",
+          "slug": "l2",
           "title": {
             "en": "Sheikh Zayed's Values"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-civic",
+      "slug": "c2",
       "title": {
         "en": "Civic Responsibility"
       },
       "lessons": [
         {
-          "slug": "01-citizenship",
+          "slug": "l1",
           "title": {
             "en": "Being a Good Citizen"
           }
         },
         {
-          "slug": "02-rights-duties",
+          "slug": "l2",
           "title": {
             "en": "Rights & Duties"
           }

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-energy",
+      "slug": "c1",
       "title": {
         "en": "Energy"
       },
       "lessons": [
         {
-          "slug": "01-energy-stores",
+          "slug": "l1",
           "title": {
             "en": "Energy Stores & Transfers"
           }
         },
         {
-          "slug": "02-efficiency",
+          "slug": "l2",
           "title": {
             "en": "Efficiency"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-electricity",
+      "slug": "c2",
       "title": {
         "en": "Electricity"
       },
       "lessons": [
         {
-          "slug": "01-circuits",
+          "slug": "l1",
           "title": {
             "en": "Current, Voltage & Resistance"
           }
         },
         {
-          "slug": "02-mains",
+          "slug": "l2",
           "title": {
             "en": "Mains Electricity"
           }

@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى",
         "en": "Unit One"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-book",
+          "slug": "l1",
           "title": {
             "ar": "الكتاب",
             "en": "The Book (reading text)"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-the-mother",
+          "slug": "l2",
           "title": {
             "ar": "الأم",
             "en": "The Mother — poem by al-Hadi Adam"
@@ -49,7 +49,7 @@
           "image": "clickview/high-poetic-devices-cover.jpg"
         },
         {
-          "slug": "03-irab-and-binaa",
+          "slug": "l3",
           "title": {
             "ar": "الإعراب والبناء",
             "en": "I'raab and Binaa (Grammatical Case and Structure) — review"
@@ -57,7 +57,7 @@
           "page": 7
         },
         {
-          "slug": "04-dictation",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء",
             "en": "Dictation"
@@ -65,7 +65,7 @@
           "page": 8
         },
         {
-          "slug": "05-composition",
+          "slug": "l5",
           "title": {
             "ar": "التعبير",
             "en": "Composition — the mother's/family's role in raising children"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "slug": "02-unit-2",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية",
         "en": "Unit Two"
@@ -86,7 +86,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-malikat-al-dar",
+          "slug": "l1",
           "title": {
             "ar": "السيدة ملكة الدار",
             "en": "The Lady Malikat al-Dar — on pioneering Sudanese writer Malikat al-Dar Mohamed Abdalla"
@@ -94,7 +94,7 @@
           "page": 14
         },
         {
-          "slug": "02-continent-to-continent",
+          "slug": "l2",
           "title": {
             "ar": "من قارة إلى قارة",
             "en": "From Continent to Continent — poem on Tariq ibn Ziyad's crossing to Andalusia, by Ali Mahmoud Taha"
@@ -103,21 +103,21 @@
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-punctuation-marks",
+          "slug": "l3",
           "title": {
             "ar": "تطبيقات على علامات الترقيم",
             "en": "Punctuation Mark Exercises (dictation)"
           }
         },
         {
-          "slug": "04-composition",
+          "slug": "l4",
           "title": {
             "ar": "التعبير",
             "en": "Composition — oral and written"
           }
         },
         {
-          "slug": "05-grammar",
+          "slug": "l5",
           "title": {
             "ar": "النحو",
             "en": "Grammar"
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "slug": "03-unit-3",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة",
         "en": "Unit Three"
@@ -137,7 +137,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-robot",
+          "slug": "l1",
           "title": {
             "ar": "الإنسان الآلي",
             "en": "The Robot (reading text)"
@@ -145,7 +145,7 @@
           "page": 29
         },
         {
-          "slug": "02-o-my-brother-man",
+          "slug": "l2",
           "title": {
             "ar": "يا أخي الإنسان",
             "en": "O My Brother, Man — poem by Ali Hashem Rashid"
@@ -154,7 +154,7 @@
           "image": "clickview/high-poetic-devices-cover.jpg"
         },
         {
-          "slug": "03-tanween-maqsur",
+          "slug": "l3",
           "title": {
             "ar": "تنوين المقصور",
             "en": "Nunation (Tanween) of the Defective Noun al-Maqsur"
@@ -162,7 +162,7 @@
           "page": 35
         },
         {
-          "slug": "04-the-five-nouns",
+          "slug": "l4",
           "title": {
             "ar": "الأسماء الخمسة",
             "en": "The Five Nouns"
@@ -170,7 +170,7 @@
           "page": 36
         },
         {
-          "slug": "05-composition",
+          "slug": "l5",
           "title": {
             "ar": "التعبير",
             "en": "Composition"
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "slug": "04-unit-4",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة",
         "en": "Unit Four"
@@ -191,7 +191,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-aisha-mother-of-believers",
+          "slug": "l1",
           "title": {
             "ar": "عائشة أم المؤمنين",
             "en": "Aisha, Mother of the Believers (reading text)"
@@ -199,7 +199,7 @@
           "page": 41
         },
         {
-          "slug": "02-be-great",
+          "slug": "l2",
           "title": {
             "ar": "كوني عظيمة",
             "en": "Be Great — essay by May Ziade"
@@ -207,7 +207,7 @@
           "page": 43
         },
         {
-          "slug": "03-feminization-of-verb",
+          "slug": "l3",
           "title": {
             "ar": "تأنيث الفعل",
             "en": "Feminization of the Verb"
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "slug": "05-unit-5",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة",
         "en": "Unit Five"
@@ -228,7 +228,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-artist-othman",
+          "slug": "l1",
           "title": {
             "ar": "الفنان التشكيلي عثمان وقيع الله",
             "en": "The Visual Artist Othman Waqi Allah (reading text)"
@@ -236,7 +236,7 @@
           "page": 51
         },
         {
-          "slug": "02-freedom-poem",
+          "slug": "l2",
           "title": {
             "ar": "قصيدة الحرية",
             "en": "The Freedom Poem — by Abu al-Qasim al-Shabi"
@@ -245,7 +245,7 @@
           "image": "clickview/high-poetic-devices-cover.jpg"
         },
         {
-          "slug": "03-the-five-verbs",
+          "slug": "l3",
           "title": {
             "ar": "الأفعال الخمسة",
             "en": "The Five Verbs"
@@ -253,7 +253,7 @@
           "page": 57
         },
         {
-          "slug": "04-hamza-mid-word",
+          "slug": "l4",
           "title": {
             "ar": "الهمزة في وسط الكلمة",
             "en": "The Hamza in the Middle of a Word"
@@ -263,7 +263,7 @@
       ]
     },
     {
-      "slug": "06-unit-6",
+      "slug": "c6",
       "title": {
         "ar": "الوحدة السادسة",
         "en": "Unit Six"
@@ -274,7 +274,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-noise-pollution",
+          "slug": "l1",
           "title": {
             "ar": "التلوث الضوضائي",
             "en": "Noise Pollution (reading text)"
@@ -282,7 +282,7 @@
           "page": 60
         },
         {
-          "slug": "02-i-will-resist",
+          "slug": "l2",
           "title": {
             "ar": "سأقاوم",
             "en": "I Will Resist — poem by Samih al-Qasim"
@@ -291,7 +291,7 @@
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-dictation",
+          "slug": "l3",
           "title": {
             "ar": "الإملاء",
             "en": "Dictation (teacher's choice)"
@@ -299,7 +299,7 @@
           "page": 69
         },
         {
-          "slug": "04-composition",
+          "slug": "l4",
           "title": {
             "ar": "التعبير",
             "en": "Composition — on war and peace"
@@ -307,7 +307,7 @@
           "page": 69
         },
         {
-          "slug": "05-types-of-khabar",
+          "slug": "l5",
           "title": {
             "ar": "أنواع الخبر",
             "en": "Types of the Predicate (Khabar)"
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "slug": "07-unit-7",
+      "slug": "c7",
       "title": {
         "ar": "الوحدة السابعة",
         "en": "Unit Seven"
@@ -328,7 +328,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-merchant-of-venice",
+          "slug": "l1",
           "title": {
             "ar": "مناظر من مسرحية (تاجر البندقية)",
             "en": "Scenes from the Play (The Merchant of Venice) — by William Shakespeare"
@@ -336,7 +336,7 @@
           "page": 75
         },
         {
-          "slug": "02-the-noble-honor",
+          "slug": "l2",
           "title": {
             "ar": "الشرف الرفيع",
             "en": "The Noble Honor — anthem/memorized poem by al-Mu'tamid ibn Abbad"
@@ -345,7 +345,7 @@
           "image": "clickview/high-poetic-devices-cover.jpg"
         },
         {
-          "slug": "03-hamza-on-ya-word-end",
+          "slug": "l3",
           "title": {
             "ar": "الهمزة التي على الياء في آخر الكلمة",
             "en": "The Hamza Written on Ya' at the End of a Word"
@@ -353,7 +353,7 @@
           "page": 83
         },
         {
-          "slug": "04-composition",
+          "slug": "l4",
           "title": {
             "ar": "التعبير",
             "en": "Composition — on the importance of theatre"
@@ -361,7 +361,7 @@
           "page": 84
         },
         {
-          "slug": "05-inna-and-sisters",
+          "slug": "l5",
           "title": {
             "ar": "إنّ وأخواتها",
             "en": "Inna and Her Sisters"
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "slug": "08-unit-8",
+      "slug": "c8",
       "title": {
         "ar": "الوحدة الثامنة",
         "en": "Unit Eight"
@@ -382,7 +382,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-national-music-effect",
+          "slug": "l1",
           "title": {
             "ar": "أثر الموسيقا الوطنية في حياة الشعوب",
             "en": "The Effect of National Music on the Life of Peoples (reading text)"
@@ -390,7 +390,7 @@
           "page": 88
         },
         {
-          "slug": "02-proverbs-and-wisdom",
+          "slug": "l2",
           "title": {
             "ar": "طائفة من الأمثال والحكم",
             "en": "A Selection of Proverbs and Wisdom Sayings"
@@ -398,7 +398,7 @@
           "page": 93
         },
         {
-          "slug": "03-dictation",
+          "slug": "l3",
           "title": {
             "ar": "الإملاء",
             "en": "Dictation (teacher's choice)"
@@ -406,7 +406,7 @@
           "page": 96
         },
         {
-          "slug": "04-composition",
+          "slug": "l4",
           "title": {
             "ar": "التعبير",
             "en": "Composition — on selected proverbs"
@@ -414,7 +414,7 @@
           "page": 96
         },
         {
-          "slug": "05-kana-sisters",
+          "slug": "l5",
           "title": {
             "ar": "بعض أخوات كان",
             "en": "Some of Kana's Sisters"
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "slug": "09-unit-9",
+      "slug": "c9",
       "title": {
         "ar": "الوحدة التاسعة",
         "en": "Unit Nine"
@@ -435,7 +435,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-last-tears",
+          "slug": "l1",
           "title": {
             "ar": "آخر الدموع",
             "en": "The Last Tears (story)"
@@ -443,7 +443,7 @@
           "page": 103
         },
         {
-          "slug": "02-al-qadarif",
+          "slug": "l2",
           "title": {
             "ar": "القضارف",
             "en": "Al-Qadarif — poem by Idris Muhammad Jamma'a"
@@ -452,7 +452,7 @@
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-dictation",
+          "slug": "l3",
           "title": {
             "ar": "الإملاء",
             "en": "Dictation"
@@ -460,7 +460,7 @@
           "page": 113
         },
         {
-          "slug": "04-composition",
+          "slug": "l4",
           "title": {
             "ar": "التعبير",
             "en": "Composition — 'Sudan, breadbasket of the world'"
@@ -468,7 +468,7 @@
           "page": 113
         },
         {
-          "slug": "05-transitive-intransitive-verbs",
+          "slug": "l5",
           "title": {
             "ar": "تعدي الفعل ولزومه",
             "en": "Transitive and Intransitive Verbs"
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "slug": "10-unit-10",
+      "slug": "c10",
       "title": {
         "ar": "الوحدة العاشرة",
         "en": "Unit Ten"
@@ -489,7 +489,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-bull-in-ceramics-warehouse",
+          "slug": "l1",
           "title": {
             "ar": "الثور في مستودع الخزف",
             "en": "The Bull in the Ceramics Warehouse (fable/reading text)"
@@ -497,7 +497,7 @@
           "page": 120
         },
         {
-          "slug": "02-tuti-in-the-morning",
+          "slug": "l2",
           "title": {
             "ar": "توتي في الصباح",
             "en": "Tuti in the Morning — poem by al-Tijani Yousif Bashir"
@@ -506,7 +506,7 @@
           "image": "clickview/high-poetic-devices-cover.jpg"
         },
         {
-          "slug": "03-taa-marbuta-maftouha",
+          "slug": "l3",
           "title": {
             "ar": "التاء المربوطة والتاء المفتوحة",
             "en": "Taa Marbuta and Taa Maftouha"
@@ -516,7 +516,7 @@
       ]
     },
     {
-      "slug": "11-unit-11",
+      "slug": "c11",
       "title": {
         "ar": "الوحدة الحادية عشرة",
         "en": "Unit Eleven"
@@ -527,7 +527,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson One"
@@ -535,7 +535,7 @@
           "page": 135
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson Two"
@@ -543,7 +543,7 @@
           "page": 137
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson Three"
@@ -551,7 +551,7 @@
           "page": 139
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson Four"
@@ -559,7 +559,7 @@
           "page": 142
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson Five"
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "slug": "12-unit-12",
+      "slug": "c12",
       "title": {
         "ar": "الوحدة الثانية عشرة",
         "en": "Unit Twelve"
@@ -580,7 +580,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson One"
@@ -588,7 +588,7 @@
           "page": 147
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson Two"
@@ -596,7 +596,7 @@
           "page": 150
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson Three"
@@ -604,7 +604,7 @@
           "page": 153
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson Four"
@@ -612,7 +612,7 @@
           "page": 156
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson Five"
@@ -622,7 +622,7 @@
       ]
     },
     {
-      "slug": "13-unit-13",
+      "slug": "c13",
       "title": {
         "ar": "الوحدة الثالثة عشرة",
         "en": "Unit Thirteen"
@@ -633,7 +633,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson One"
@@ -641,7 +641,7 @@
           "page": 163
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson Two"
@@ -649,7 +649,7 @@
           "page": 166
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson Three"
@@ -657,7 +657,7 @@
           "page": 169
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson Four"
@@ -665,7 +665,7 @@
           "page": 172
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson Five"
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "slug": "14-unit-14",
+      "slug": "c14",
       "title": {
         "ar": "الوحدة الرابعة عشرة",
         "en": "Unit Fourteen"
@@ -686,7 +686,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson One"
@@ -694,7 +694,7 @@
           "page": 178
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson Two"
@@ -702,7 +702,7 @@
           "page": 181
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson Three"
@@ -710,7 +710,7 @@
           "page": 183
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson Four"
@@ -718,7 +718,7 @@
           "page": 185
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson Five"
@@ -728,7 +728,7 @@
       ]
     },
     {
-      "slug": "15-unit-15",
+      "slug": "c15",
       "title": {
         "ar": "الوحدة الخامسة عشرة",
         "en": "Unit Fifteen"
@@ -739,7 +739,7 @@
       "lessonsGeneric": true,
       "lessons": [
         {
-          "slug": "01-lesson-1",
+          "slug": "l1",
           "title": {
             "ar": "الدرس الأول",
             "en": "Lesson One"
@@ -747,7 +747,7 @@
           "page": 191
         },
         {
-          "slug": "02-lesson-2",
+          "slug": "l2",
           "title": {
             "ar": "الدرس الثاني",
             "en": "Lesson Two"
@@ -755,7 +755,7 @@
           "page": 194
         },
         {
-          "slug": "03-lesson-3",
+          "slug": "l3",
           "title": {
             "ar": "الدرس الثالث",
             "en": "Lesson Three"
@@ -763,7 +763,7 @@
           "page": 196
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "ar": "الدرس الرابع",
             "en": "Lesson Four"
@@ -771,7 +771,7 @@
           "page": 199
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "ar": "الدرس الخامس",
             "en": "Lesson Five"

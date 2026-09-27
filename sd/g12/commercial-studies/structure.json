@@ -46,7 +46,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-commercial-exchange",
+      "slug": "c1",
       "title": {
         "ar": "التبادل التجاري",
         "en": "Commercial Exchange"
@@ -58,7 +58,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-importance-of-commercial-exchange",
+          "slug": "l1",
           "title": {
             "ar": "أهمية التبادل التجاري",
             "en": "The Importance of Commercial Exchange"
@@ -73,7 +73,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-concept-of-commercial-exchange",
+          "slug": "l2",
           "title": {
             "ar": "مفهوم التبادل التجاري",
             "en": "The Concept of Commercial Exchange"
@@ -88,7 +88,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-the-origin-and-development-of-exchange",
+          "slug": "l3",
           "title": {
             "ar": "نشأة التبادل وتطوره",
             "en": "The Origin and Development of Exchange"
@@ -103,7 +103,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-domestic-and-foreign-trade",
+          "slug": "l4",
           "title": {
             "ar": "التجارة الداخلية والتجارة الخارجية",
             "en": "Domestic and Foreign Trade"
@@ -118,7 +118,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-the-concept-of-trade-systems",
+          "slug": "l5",
           "title": {
             "ar": "مفهوم النظم التجارية",
             "en": "The Concept of Trade Systems"
@@ -133,7 +133,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-types-of-trade-systems",
+          "slug": "l6",
           "title": {
             "ar": "أنواع النظم التجارية",
             "en": "Types of Trade Systems"
@@ -148,7 +148,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-the-free-trade-system",
+          "slug": "l7",
           "title": {
             "ar": "نظام الحرية التجارية",
             "en": "The Free-Trade System"
@@ -164,7 +164,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "08-the-protectionist-system",
+          "slug": "l8",
           "title": {
             "ar": "نظام الحماية التجارية",
             "en": "The Protectionist System"
@@ -179,7 +179,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-some-systems-applied-in-practice",
+          "slug": "l9",
           "title": {
             "ar": "بعض الأنظمة التي وجدت حظها في التطبيق العملي",
             "en": "Some Systems Applied in Practice"
@@ -194,7 +194,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "10-the-concept-of-trade-policy",
+          "slug": "l10",
           "title": {
             "ar": "مفهوم السياسة التجارية",
             "en": "The Concept of Trade Policy"
@@ -209,7 +209,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-customs-policy",
+          "slug": "l11",
           "title": {
             "ar": "السياسة الجمركية",
             "en": "Customs Policy"
@@ -225,7 +225,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "12-quota-policy",
+          "slug": "l12",
           "title": {
             "ar": "سياسة قيود الكمية",
             "en": "Quota Policy"
@@ -240,7 +240,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "13-subsidy-policy",
+          "slug": "l13",
           "title": {
             "ar": "سياسة الدعم",
             "en": "Subsidy Policy"
@@ -255,7 +255,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "14-supply-policy",
+          "slug": "l14",
           "title": {
             "ar": "السياسة التموينية",
             "en": "Supply Policy"
@@ -270,7 +270,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "15-capital",
+          "slug": "l15",
           "title": {
             "ar": "رأس المال",
             "en": "Capital"
@@ -286,7 +286,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "16-trade-finance-in-the-islamic-system",
+          "slug": "l16",
           "title": {
             "ar": "تمويل التجارة في النظام الإسلامي",
             "en": "Trade Finance in the Islamic System"
@@ -302,7 +302,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "17-international-trade-finance",
+          "slug": "l17",
           "title": {
             "ar": "تمويل التجارة الدولية",
             "en": "International Trade Finance"
@@ -317,7 +317,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "18-the-exchange-rate",
+          "slug": "l18",
           "title": {
             "ar": "سعر الصرف",
             "en": "The Exchange Rate"
@@ -333,7 +333,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "19-means-of-payment-in-international-trade",
+          "slug": "l19",
           "title": {
             "ar": "وسائل الدفع في التجارة الدولية",
             "en": "Means of Payment in International Trade"
@@ -348,7 +348,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "20-settlement-of-international-obligations",
+          "slug": "l20",
           "title": {
             "ar": "تسوية الالتزامات الدولية",
             "en": "Settlement of International Obligations"
@@ -363,7 +363,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "21-the-balance-of-payments",
+          "slug": "l21",
           "title": {
             "ar": "ميزان المدفوعات",
             "en": "The Balance of Payments"
@@ -379,7 +379,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "22-trade-globalisation",
+          "slug": "l22",
           "title": {
             "ar": "العولمة التجارية",
             "en": "Trade Globalisation"
@@ -395,7 +395,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "23-e-commerce",
+          "slug": "l23",
           "title": {
             "ar": "التجارة الإلكترونية",
             "en": "E-commerce"
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "slug": "02-financial-accounting",
+      "slug": "c2",
       "title": {
         "ar": "المحاسبة المالية",
         "en": "Financial Accounting"
@@ -425,7 +425,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-accounting-system-in-non-profit",
+          "slug": "l1",
           "title": {
             "ar": "النظام المحاسبي في المنشآت غير الربحية",
             "en": "The Accounting System in Non-profit Organisations"
@@ -440,7 +440,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-differences-between-accounting-in-profit-and",
+          "slug": "l2",
           "title": {
             "ar": "الفروقات بين النظام المحاسبي في المنشآت الربحية وغير الربحية",
             "en": "Differences between Accounting in Profit and Non-profit Organisations"
@@ -455,7 +455,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-final-accounts-in-non-profit-organisations",
+          "slug": "l3",
           "title": {
             "ar": "الحسابات الختامية في المنشآت غير الربحية",
             "en": "Final Accounts in Non-profit Organisations"
@@ -470,7 +470,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-the-concept-of-a-company",
+          "slug": "l4",
           "title": {
             "ar": "مفهوم الشركة",
             "en": "The Concept of a Company"
@@ -486,7 +486,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-types-of-companies",
+          "slug": "l5",
           "title": {
             "ar": "أنواع الشركات",
             "en": "Types of Companies"
@@ -502,7 +502,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "06-shares-and-their-types",
+          "slug": "l6",
           "title": {
             "ar": "الأسهم وأنواعها",
             "en": "Shares and Their Types"
@@ -518,7 +518,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "07-accounting-treatment-of-capital-in-joint-stock",
+          "slug": "l7",
           "title": {
             "ar": "المعالجة المحاسبية لرأس المال في شركات المساهمة",
             "en": "Accounting Treatment of Capital in Joint-stock Companies"
@@ -534,7 +534,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "08-types-of-banks",
+          "slug": "l8",
           "title": {
             "ar": "أنواع المصارف",
             "en": "Types of Banks"
@@ -550,7 +550,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "09-technical-departments-in-banks",
+          "slug": "l9",
           "title": {
             "ar": "الأقسام الفنية في المصارف",
             "en": "Technical Departments in Banks"
@@ -566,7 +566,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "10-the-treasury-department",
+          "slug": "l10",
           "title": {
             "ar": "قسم الخزينة",
             "en": "The Treasury Department"
@@ -582,7 +582,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "11-the-current-accounts-department",
+          "slug": "l11",
           "title": {
             "ar": "قسم الحسابات الجارية",
             "en": "The Current Accounts Department"
@@ -598,7 +598,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "12-zakat-accounting",
+          "slug": "l12",
           "title": {
             "ar": "محاسبة الزكاة",
             "en": "Zakat Accounting"
@@ -613,7 +613,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "13-zakat-accounting-applications",
+          "slug": "l13",
           "title": {
             "ar": "تطبيقات محاسبة الزكاة",
             "en": "Zakat Accounting Applications"
@@ -630,7 +630,7 @@
       ]
     },
     {
-      "slug": "03-financial-markets",
+      "slug": "c3",
       "title": {
         "ar": "الأسواق المالية",
         "en": "Financial Markets"
@@ -642,7 +642,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-financial-markets",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم الأسواق المالية",
             "en": "The Concept of Financial Markets"
@@ -657,7 +657,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-types-of-financial-markets",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الأسواق المالية",
             "en": "Types of Financial Markets"
@@ -672,7 +672,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-securities-markets-stock-exchanges",
+          "slug": "l3",
           "title": {
             "ar": "أسواق الأوراق المالية (البورصات)",
             "en": "Securities Markets (Stock Exchanges)"
@@ -687,7 +687,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-international-financial-institutions",
+          "slug": "l4",
           "title": {
             "ar": "المؤسسات المالية الدولية",
             "en": "International Financial Institutions"

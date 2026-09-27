@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g12-eng-unit-01-tragedy-02-critical-quiz",
+      "title": "Quiz: Critical Interpretations",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq01",
+          "type": "mcq",
+          "question": "Considering different critical readings shows a text can be:",
+          "options": [
+            "fixed",
+            "open to interpretation",
+            "unimportant",
+            "unread"
+          ],
+          "answer": "open to interpretation",
+          "explanation": "Multiple readings."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq02",
+          "type": "true_false",
+          "question": "A-Level analysis values informed personal interpretation.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "AO5."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq03",
+          "type": "fill_blank",
+          "question": "Reading a text through theory uses a critical ___.",
+          "answer": "lens",
+          "explanation": "Critical perspective."
+        },
+        {
+          "id": "g12-eng-unit-01-tragedy-02-critical-lq04",
+          "type": "short_answer",
+          "question": "Why engage with critical interpretations?",
+          "answer": "To develop and support a sophisticated personal reading.",
+          "explanation": "Criticism."
+        }
+      ]
+    }
+  ]
+}

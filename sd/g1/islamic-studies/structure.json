@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-quran-surahs",
+      "slug": "c1",
       "title": {
         "ar": "سور من القرآن الكريم",
         "en": "Surahs from the Holy Quran"
@@ -29,98 +29,98 @@
       "image": "clickview/elementary-narrative-writing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-al-fatiha",
+          "slug": "l1",
           "title": {
             "ar": "سورة الفاتحة",
             "en": "Surah Al-Fatiha"
           }
         },
         {
-          "slug": "02-an-nas",
+          "slug": "l2",
           "title": {
             "ar": "سورة الناس",
             "en": "Surah An-Nas"
           }
         },
         {
-          "slug": "03-al-ikhlas",
+          "slug": "l3",
           "title": {
             "ar": "سورة الإخلاص",
             "en": "Surah Al-Ikhlas"
           }
         },
         {
-          "slug": "04-al-falaq",
+          "slug": "l4",
           "title": {
             "ar": "سورة الفلق",
             "en": "Surah Al-Falaq"
           }
         },
         {
-          "slug": "05-al-asr",
+          "slug": "l5",
           "title": {
             "ar": "سورة العصر",
             "en": "Surah Al-Asr"
           }
         },
         {
-          "slug": "06-an-nasr",
+          "slug": "l6",
           "title": {
             "ar": "سورة النصر",
             "en": "Surah An-Nasr"
           }
         },
         {
-          "slug": "07-al-kawthar",
+          "slug": "l7",
           "title": {
             "ar": "سورة الكوثر",
             "en": "Surah Al-Kawthar"
           }
         },
         {
-          "slug": "08-al-fil",
+          "slug": "l8",
           "title": {
             "ar": "سورة الفيل",
             "en": "Surah Al-Fil"
           }
         },
         {
-          "slug": "09-al-humazah",
+          "slug": "l9",
           "title": {
             "ar": "سورة الهمزة",
             "en": "Surah Al-Humazah"
           }
         },
         {
-          "slug": "10-at-takathur",
+          "slug": "l10",
           "title": {
             "ar": "سورة التكاثر",
             "en": "Surah At-Takathur"
           }
         },
         {
-          "slug": "11-al-qariah",
+          "slug": "l11",
           "title": {
             "ar": "سورة القارعة",
             "en": "Surah Al-Qari'ah"
           }
         },
         {
-          "slug": "12-al-adiyat",
+          "slug": "l12",
           "title": {
             "ar": "سورة العاديات",
             "en": "Surah Al-'Adiyat"
           }
         },
         {
-          "slug": "13-al-balad",
+          "slug": "l13",
           "title": {
             "ar": "سورة البلد",
             "en": "Surah Al-Balad"
           }
         },
         {
-          "slug": "14-al-ala",
+          "slug": "l14",
           "title": {
             "ar": "سورة الأعلى",
             "en": "Surah Al-A'la"
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "slug": "02-prophetic-hadith",
+      "slug": "c2",
       "title": {
         "ar": "أحاديث من الحديث النبوي الشريف",
         "en": "Prophetic Hadith"
@@ -138,49 +138,49 @@
       "image": "clickview/elementary-purpose-and-audience-in-writing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-hadith-1",
+          "slug": "l1",
           "title": {
             "ar": "الحديث الأول",
             "en": "Hadith 1"
           }
         },
         {
-          "slug": "02-hadith-2",
+          "slug": "l2",
           "title": {
             "ar": "الحديث الثاني",
             "en": "Hadith 2"
           }
         },
         {
-          "slug": "03-hadith-3",
+          "slug": "l3",
           "title": {
             "ar": "الحديث الثالث",
             "en": "Hadith 3"
           }
         },
         {
-          "slug": "04-hadith-4",
+          "slug": "l4",
           "title": {
             "ar": "الحديث الرابع",
             "en": "Hadith 4"
           }
         },
         {
-          "slug": "05-hadith-5",
+          "slug": "l5",
           "title": {
             "ar": "الحديث الخامس",
             "en": "Hadith 5"
           }
         },
         {
-          "slug": "06-hadith-6",
+          "slug": "l6",
           "title": {
             "ar": "الحديث السادس",
             "en": "Hadith 6"
           }
         },
         {
-          "slug": "07-hadith-7",
+          "slug": "l7",
           "title": {
             "ar": "الحديث السابع",
             "en": "Hadith 7"
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "slug": "03-islam-and-faith",
+      "slug": "c3",
       "title": {
         "ar": "الإسلام والإيمان",
         "en": "Islam and Faith"
@@ -198,14 +198,14 @@
       "image": "clickview/elementary-islam-cover.jpg",
       "lessons": [
         {
-          "slug": "01-pillars-of-islam",
+          "slug": "l1",
           "title": {
             "ar": "أركان الإسلام",
             "en": "Pillars of Islam"
           }
         },
         {
-          "slug": "02-pillars-of-faith",
+          "slug": "l2",
           "title": {
             "ar": "أركان الإيمان",
             "en": "Pillars of Faith"
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "slug": "04-purification-and-ablution",
+      "slug": "c4",
       "title": {
         "ar": "الطهارة والوضوء",
         "en": "Purification and Ablution"
@@ -223,21 +223,21 @@
       "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg",
       "lessons": [
         {
-          "slug": "01-cleanliness",
+          "slug": "l1",
           "title": {
             "ar": "النظافة والطهارة",
             "en": "Cleanliness and Purity"
           }
         },
         {
-          "slug": "02-ablution",
+          "slug": "l2",
           "title": {
             "ar": "الوضوء",
             "en": "Ablution (Wudu)"
           }
         },
         {
-          "slug": "03-tayammum",
+          "slug": "l3",
           "title": {
             "ar": "التيمم",
             "en": "Dry Ablution (Tayammum)"
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "slug": "05-manners-and-etiquette",
+      "slug": "c5",
       "title": {
         "ar": "التهذيب والآداب",
         "en": "Manners and Etiquette"
@@ -255,14 +255,14 @@
       "image": "clickview/elementary-civic-values-and-virtues-cover.jpg",
       "lessons": [
         {
-          "slug": "01-cleanliness-from-faith",
+          "slug": "l1",
           "title": {
             "ar": "النظافة من الإيمان",
             "en": "Cleanliness is from Faith"
           }
         },
         {
-          "slug": "02-respecting-elders",
+          "slug": "l2",
           "title": {
             "ar": "احترام الكبير",
             "en": "Respecting Elders"
@@ -270,14 +270,14 @@
           "image": "clickview/elementary-family-cover.jpg"
         },
         {
-          "slug": "03-helping-others",
+          "slug": "l3",
           "title": {
             "ar": "التعاون ومساعدة الآخرين",
             "en": "Cooperation and Helping Others"
           }
         },
         {
-          "slug": "04-table-manners",
+          "slug": "l4",
           "title": {
             "ar": "آداب الأكل",
             "en": "Table Manners"
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "slug": "06-prophets-biography",
+      "slug": "c6",
       "title": {
         "ar": "السيرة النبوية الشريفة",
         "en": "The Prophet's Biography"
@@ -296,7 +296,7 @@
       "image": "clickview/elementary-this-month-in-history-cover.jpg",
       "lessons": [
         {
-          "slug": "01-birth-of-the-prophet",
+          "slug": "l1",
           "title": {
             "ar": "مولد النبي محمد ﷺ",
             "en": "Birth of Prophet Muhammad ﷺ"

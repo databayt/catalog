@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-congruence",
+      "slug": "c1",
       "title": {
         "en": "Congruence & Triangles"
       },
       "lessons": [
         {
-          "slug": "01-triangle-rules",
+          "slug": "l1",
           "title": {
             "en": "Triangle Congruence"
           }
         },
         {
-          "slug": "02-pythagoras",
+          "slug": "l2",
           "title": {
             "en": "The Pythagorean Theorem"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-circles-area",
+      "slug": "c2",
       "title": {
         "en": "Circles, Area & Volume"
       },
       "lessons": [
         {
-          "slug": "01-circles",
+          "slug": "l1",
           "title": {
             "en": "Circles"
           }
         },
         {
-          "slug": "02-volume",
+          "slug": "l2",
           "title": {
             "en": "Surface Area & Volume"
           }

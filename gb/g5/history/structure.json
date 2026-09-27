@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-anglo-saxons-vikings",
+      "slug": "c1",
       "title": {
         "en": "Anglo-Saxons & Vikings"
       },
       "lessons": [
         {
-          "slug": "01-anglo-saxons",
+          "slug": "l1",
           "title": {
             "en": "Anglo-Saxon Britain"
           }
         },
         {
-          "slug": "02-vikings",
+          "slug": "l2",
           "title": {
             "en": "The Vikings"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-early-islamic",
+      "slug": "c2",
       "title": {
         "en": "Early Islamic Civilisation"
       },
       "lessons": [
         {
-          "slug": "01-baghdad",
+          "slug": "l1",
           "title": {
             "en": "Baghdad, c. AD 900"
           }
         },
         {
-          "slug": "02-trade-learning",
+          "slug": "l2",
           "title": {
             "en": "Trade & Learning"
           }

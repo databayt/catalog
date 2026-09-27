@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "physics",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq01",
+      "type": "mcq",
+      "question": "Gravitational field strength near Earth is about:",
+      "options": [
+        "1 N/kg",
+        "9.8 N/kg",
+        "100 N/kg",
+        "0 N/kg"
+      ],
+      "answer": "9.8 N/kg",
+      "explanation": "g ≈ 9.8."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq02",
+      "type": "true_false",
+      "question": "Gravitational force follows an inverse-square law.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "1/r²."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq03",
+      "type": "fill_blank",
+      "question": "Weight = mass × gravitational field ___.",
+      "answer": "strength",
+      "explanation": "W = mg."
+    },
+    {
+      "id": "g12-phy-unit-02-fields-01-gravitational-lq04",
+      "type": "short_answer",
+      "question": "What is meant by an inverse-square law?",
+      "answer": "The quantity is proportional to 1 divided by the distance squared.",
+      "explanation": "Inverse square."
+    }
+  ]
+}

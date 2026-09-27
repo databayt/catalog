@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "social-studies",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g3-soc-unit-02-geography-skills-exam",
+      "title": "Exam: Geography Skills",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq01",
+          "type": "mcq",
+          "question": "A map's key/legend explains its:",
+          "options": [
+            "price",
+            "symbols",
+            "author",
+            "title only"
+          ],
+          "answer": "symbols",
+          "explanation": "Map legend."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq02",
+          "type": "true_false",
+          "question": "A compass rose shows direction on a map.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Direction tool."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq03",
+          "type": "fill_blank",
+          "question": "A map's ___ shows how distance relates to real distance.",
+          "answer": "scale",
+          "explanation": "Map scale."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-01-map-elements-lq04",
+          "type": "short_answer",
+          "question": "Name two elements found on a map.",
+          "answer": "e.g., title, key, scale, or compass rose.",
+          "explanation": "Map elements."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-02-landforms-lq01",
+          "type": "mcq",
+          "question": "A large area of flat land is a:",
+          "options": [
+            "plain",
+            "mountain",
+            "ocean",
+            "river"
+          ],
+          "answer": "plain",
+          "explanation": "Landform."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-02-landforms-lq02",
+          "type": "true_false",
+          "question": "A lake is a body of water surrounded by land.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Water body."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-02-landforms-lq03",
+          "type": "fill_blank",
+          "question": "A high landform with steep sides is a ___.",
+          "answer": "mountain",
+          "explanation": "Landform."
+        },
+        {
+          "id": "g3-soc-unit-02-geography-skills-02-landforms-lq04",
+          "type": "short_answer",
+          "question": "Name one landform and one body of water.",
+          "answer": "e.g., a hill (land) and a river (water).",
+          "explanation": "Geography features."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "islamic-studies",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq01",
+      "type": "mcq",
+      "question": "الحديث الصحيح هو ما اتصل سنده بنقل:",
+      "options": [
+        "العدل الضابط",
+        "أي شخص",
+        "الشعراء",
+        "التجار"
+      ],
+      "answer": "العدل الضابط",
+      "explanation": "شروط الصحيح."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq02",
+      "type": "true_false",
+      "question": "علم مصطلح الحديث يبحث في صحة الأحاديث.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "مصطلح الحديث."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq03",
+      "type": "fill_blank",
+      "question": "سلسلة رواة الحديث تسمى ___.",
+      "answer": "السند",
+      "explanation": "السند والمتن."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-01-hadith-sciences-lq04",
+      "type": "short_answer",
+      "question": "ما الفرق بين السند والمتن؟",
+      "answer": "السند سلسلة الرواة، والمتن نص الحديث.",
+      "explanation": "علوم الحديث."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq01",
+      "type": "mcq",
+      "question": "التسامح في الإسلام يعني:",
+      "options": [
+        "قبول الآخر والرفق",
+        "العنف",
+        "التعصب",
+        "القطيعة"
+      ],
+      "answer": "قبول الآخر والرفق",
+      "explanation": "التسامح."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq02",
+      "type": "true_false",
+      "question": "العدل قيمة دعا إليها الإسلام.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "العدل."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq03",
+      "type": "fill_blank",
+      "question": "معاملة الناس بإنصاف هو ___.",
+      "answer": "العدل",
+      "explanation": "العدل والإنصاف."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq04",
+      "type": "short_answer",
+      "question": "اذكر قيمة إسلامية وأثرها في المجتمع.",
+      "answer": "مثل: التعاون يقوي روابط المجتمع.",
+      "explanation": "القيم."
+    }
+  ]
+}

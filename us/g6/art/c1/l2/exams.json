@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "art",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g6-art-unit-01-formal-elements-02-media-quiz",
+      "title": "Quiz: Media & Techniques",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-art-unit-01-formal-elements-02-media-lq01",
+          "type": "mcq",
+          "question": "Which is a wet medium?",
+          "options": [
+            "pencil",
+            "charcoal",
+            "watercolour",
+            "eraser"
+          ],
+          "answer": "watercolour",
+          "explanation": "Paint medium."
+        },
+        {
+          "id": "g6-art-unit-01-formal-elements-02-media-lq02",
+          "type": "true_false",
+          "question": "Mixed media combines different materials.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Mixed media."
+        },
+        {
+          "id": "g6-art-unit-01-formal-elements-02-media-lq03",
+          "type": "fill_blank",
+          "question": "Building up layers of tone creates the illusion of ___.",
+          "answer": "form",
+          "explanation": "Form/3D."
+        },
+        {
+          "id": "g6-art-unit-01-formal-elements-02-media-lq04",
+          "type": "short_answer",
+          "question": "Name two different art media.",
+          "answer": "e.g., charcoal and acrylic paint.",
+          "explanation": "Media."
+        }
+      ]
+    }
+  ]
+}

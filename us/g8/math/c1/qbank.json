@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g8-mat-unit-01-exponents-01-exponents-lq01",
+      "type": "mcq",
+      "question": "2^3 × 2^2 = ?",
+      "options": [
+        "2^5",
+        "2^6",
+        "4^5",
+        "2^1"
+      ],
+      "answer": "2^5",
+      "explanation": "Add exponents: 3+2."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-01-exponents-lq02",
+      "type": "true_false",
+      "question": "Any nonzero number to the power 0 equals 1.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "x^0 = 1."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-01-exponents-lq03",
+      "type": "fill_blank",
+      "question": "5^2 = ___.",
+      "answer": "25",
+      "explanation": "5×5."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-01-exponents-lq04",
+      "type": "short_answer",
+      "question": "Simplify x^5 ÷ x^2.",
+      "answer": "x^3",
+      "explanation": "Subtract exponents."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-02-scientific-notation-lq01",
+      "type": "mcq",
+      "question": "3,200 in scientific notation is:",
+      "options": [
+        "3.2×10^3",
+        "32×10^2",
+        "3.2×10^2",
+        "0.32×10^4"
+      ],
+      "answer": "3.2×10^3",
+      "explanation": "Move point 3 places."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-02-scientific-notation-lq02",
+      "type": "true_false",
+      "question": "10^-2 = 0.01.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Negative exponent → small number."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-02-scientific-notation-lq03",
+      "type": "fill_blank",
+      "question": "4.5×10^2 = ___.",
+      "answer": "450",
+      "explanation": "Move point 2 right."
+    },
+    {
+      "id": "g8-mat-unit-01-exponents-02-scientific-notation-lq04",
+      "type": "short_answer",
+      "question": "Why use scientific notation?",
+      "answer": "To write very large or very small numbers compactly.",
+      "explanation": "Compact form."
+    }
+  ]
+}

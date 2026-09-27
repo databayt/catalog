@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "arabic",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g3-ara-unit-02-words-01-singular-plural-quiz",
+      "title": "Quiz: المفرد والجمع",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq01",
+          "type": "mcq",
+          "question": "جمع كلمة (قلم) هو:",
+          "options": [
+            "أقلام",
+            "قلمان",
+            "قلم",
+            "قلوم"
+          ],
+          "answer": "أقلام",
+          "explanation": "جمع تكسير."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq02",
+          "type": "true_false",
+          "question": "(معلمون) جمع لكلمة (معلم).",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "جمع مذكر سالم."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq03",
+          "type": "fill_blank",
+          "question": "مفرد كلمة (كتب) هو ___.",
+          "answer": "كتاب",
+          "explanation": "المفرد."
+        },
+        {
+          "id": "g3-ara-unit-02-words-01-singular-plural-lq04",
+          "type": "short_answer",
+          "question": "هات جمعاً لكلمة (باب).",
+          "answer": "أبواب",
+          "explanation": "الجمع."
+        }
+      ]
+    }
+  ]
+}

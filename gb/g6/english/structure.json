@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading & Analysis"
       },
       "lessons": [
         {
-          "slug": "01-evidence",
+          "slug": "l1",
           "title": {
             "en": "Retrieval & Evidence"
           }
         },
         {
-          "slug": "02-figurative",
+          "slug": "l2",
           "title": {
             "en": "Figurative Language"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-grammar",
+      "slug": "c2",
       "title": {
         "en": "Advanced Grammar"
       },
       "lessons": [
         {
-          "slug": "01-active-passive",
+          "slug": "l1",
           "title": {
             "en": "Active & Passive Voice"
           }
         },
         {
-          "slug": "02-punctuation",
+          "slug": "l2",
           "title": {
             "en": "Advanced Punctuation"
           }

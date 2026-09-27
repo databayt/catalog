@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq01",
+      "type": "mcq",
+      "question": "16 - 7 = ?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7"
+      ],
+      "answer": "9",
+      "explanation": "16 - 7 = 9."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq02",
+      "type": "true_false",
+      "question": "Subtraction is the opposite of addition.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "They are inverse operations."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq03",
+      "type": "fill_blank",
+      "question": "14 - ___ = 6.",
+      "answer": "8",
+      "explanation": "14 - 6 = 8."
+    },
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq04",
+      "type": "short_answer",
+      "question": "There are 12 apples; 5 are eaten. How many remain?",
+      "answer": "7",
+      "explanation": "12 - 5 = 7."
+    }
+  ]
+}

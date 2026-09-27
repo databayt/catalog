@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "music",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-mus-unit-01-theory-01-notation-quiz",
+      "title": "Quiz: Reading Notation",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-mus-unit-01-theory-01-notation-lq01",
+          "type": "mcq",
+          "question": "Musical notes are written on a:",
+          "options": [
+            "stave (staff)",
+            "map",
+            "grid of pixels",
+            "number line"
+          ],
+          "answer": "stave (staff)",
+          "explanation": "Notation."
+        },
+        {
+          "id": "g8-mus-unit-01-theory-01-notation-lq02",
+          "type": "true_false",
+          "question": "The treble clef shows higher-pitched notes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Treble clef."
+        },
+        {
+          "id": "g8-mus-unit-01-theory-01-notation-lq03",
+          "type": "fill_blank",
+          "question": "Five lines used to write music are called the ___.",
+          "answer": "stave",
+          "explanation": "Stave/staff."
+        },
+        {
+          "id": "g8-mus-unit-01-theory-01-notation-lq04",
+          "type": "short_answer",
+          "question": "What does a time signature tell you?",
+          "answer": "How many beats are in each bar and the beat value.",
+          "explanation": "Time signature."
+        }
+      ]
+    }
+  ]
+}

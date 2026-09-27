@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g6-sci-unit-02-matter-energy-01-atoms-molecules-lq01",
+      "type": "mcq",
+      "question": "A substance made of one type of atom is a(n):",
+      "options": [
+        "mixture",
+        "element",
+        "solution",
+        "compound"
+      ],
+      "answer": "element",
+      "explanation": "Pure element."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-01-atoms-molecules-lq02",
+      "type": "true_false",
+      "question": "A molecule can be made of two or more atoms.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Bonded atoms."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-01-atoms-molecules-lq03",
+      "type": "fill_blank",
+      "question": "Water (H2O) is a ___ because it has two elements bonded.",
+      "answer": "compound",
+      "explanation": "Compound."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-01-atoms-molecules-lq04",
+      "type": "short_answer",
+      "question": "What is the difference between an element and a compound?",
+      "answer": "An element is one type of atom; a compound is two or more bonded chemically.",
+      "explanation": "Element vs compound."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq01",
+      "type": "mcq",
+      "question": "Heat transfer through direct contact is:",
+      "options": [
+        "radiation",
+        "conduction",
+        "convection",
+        "reflection"
+      ],
+      "answer": "conduction",
+      "explanation": "Touching transfer."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq02",
+      "type": "true_false",
+      "question": "Convection occurs in liquids and gases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fluid movement."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq03",
+      "type": "fill_blank",
+      "question": "Energy from the Sun reaches Earth by ___.",
+      "answer": "radiation",
+      "explanation": "No medium needed."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq04",
+      "type": "short_answer",
+      "question": "Give an example of conduction.",
+      "answer": "e.g., a metal spoon heating up in hot soup.",
+      "explanation": "Conduction example."
+    }
+  ]
+}

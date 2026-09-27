@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c4",
+    "lesson": "l3"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-04-03-equations-lq01",
+      "type": "mcq",
+      "question": "ما حل المعادلة 5x = 35؟",
+      "options": [
+        "x = 7",
+        "x = 5",
+        "x = 30",
+        "x = 40"
+      ],
+      "answer": "x = 7",
+      "explanation": "x = 35 ÷ 5 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-lq02",
+      "type": "true_false",
+      "question": "في المعادلة x + 3 = 10، حل المعادلة هو x = 7.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "x = 10 - 3 = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-lq03",
+      "type": "fill_blank",
+      "question": "حل المعادلة 2x - 4 = 10 هو x = ___.",
+      "answer": "7",
+      "explanation": "2x = 14، x = 7."
+    },
+    {
+      "id": "g6-mat-unit-04-03-equations-lq04",
+      "type": "short_answer",
+      "question": "كيف تحل معادلة من الدرجة الأولى؟",
+      "answer": "عزل المتغير بإجراء نفس العملية على طرفي المعادلة.",
+      "explanation": "المبدأ: الطرفان يجب أن يبقيا متساويين."
+    }
+  ]
+}

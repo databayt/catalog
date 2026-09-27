@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-colonies",
+      "slug": "c1",
       "title": {
         "en": "Colonial America & Founding"
       },
       "lessons": [
         {
-          "slug": "01-colonies",
+          "slug": "l1",
           "title": {
             "en": "The Thirteen Colonies"
           }
         },
         {
-          "slug": "02-independence",
+          "slug": "l2",
           "title": {
             "en": "The American Revolution"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-us-geography",
+      "slug": "c2",
       "title": {
         "en": "US Geography"
       },
       "lessons": [
         {
-          "slug": "01-physical-geography",
+          "slug": "l1",
           "title": {
             "en": "Physical Geography of the US"
           }
         },
         {
-          "slug": "02-movement-people",
+          "slug": "l2",
           "title": {
             "en": "Movement & Settlement"
           }

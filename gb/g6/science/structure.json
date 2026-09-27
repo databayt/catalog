@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-living",
+      "slug": "c1",
       "title": {
         "en": "Living Things & Evolution"
       },
       "lessons": [
         {
-          "slug": "01-classification",
+          "slug": "l1",
           "title": {
             "en": "Classification"
           }
         },
         {
-          "slug": "02-evolution",
+          "slug": "l2",
           "title": {
             "en": "Evolution & Adaptation"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-electricity-light",
+      "slug": "c2",
       "title": {
         "en": "Electricity & Light"
       },
       "lessons": [
         {
-          "slug": "01-circuit-symbols",
+          "slug": "l1",
           "title": {
             "en": "Circuit Symbols"
           }
         },
         {
-          "slug": "02-light-rays",
+          "slug": "l2",
           "title": {
             "en": "How We See"
           }

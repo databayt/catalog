@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "islamic-studies",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq01",
+      "type": "mcq",
+      "question": "الصدق هو قول:",
+      "options": [
+        "الحق",
+        "الكذب",
+        "الباطل",
+        "لا شيء"
+      ],
+      "answer": "الحق",
+      "explanation": "الصدق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq02",
+      "type": "true_false",
+      "question": "الصدق خلق حميد يحبه الله.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأخلاق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq03",
+      "type": "fill_blank",
+      "question": "ضد الصدق هو ___.",
+      "answer": "الكذب",
+      "explanation": "التضاد الأخلاقي."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-01-truth-lq04",
+      "type": "short_answer",
+      "question": "لماذا نلتزم الصدق؟",
+      "answer": "لأنه يبني الثقة ويرضي الله.",
+      "explanation": "الصدق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq01",
+      "type": "mcq",
+      "question": "نعامل الكبير بـ:",
+      "options": [
+        "الاحترام",
+        "القسوة",
+        "الإهمال",
+        "رفع الصوت"
+      ],
+      "answer": "الاحترام",
+      "explanation": "الأدب."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq02",
+      "type": "true_false",
+      "question": "من آداب الإسلام احترام الكبير ورحمة الصغير.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الأخلاق."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq03",
+      "type": "fill_blank",
+      "question": "نقدّم العون لمن هو ___ منا.",
+      "answer": "أكبر",
+      "explanation": "الاحترام."
+    },
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-lq04",
+      "type": "short_answer",
+      "question": "اذكر صورة من احترام الكبار.",
+      "answer": "مثل: الإصغاء إليهم ومساعدتهم.",
+      "explanation": "الأخلاق."
+    }
+  ]
+}

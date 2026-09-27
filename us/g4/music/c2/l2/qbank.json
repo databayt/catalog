@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "music",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g4-mus-unit-02-performing-02-listening-lq01",
+      "type": "mcq",
+      "question": "Music from different countries can sound:",
+      "options": [
+        "different",
+        "identical",
+        "silent",
+        "invisible"
+      ],
+      "answer": "different",
+      "explanation": "Cultural variety."
+    },
+    {
+      "id": "g4-mus-unit-02-performing-02-listening-lq02",
+      "type": "true_false",
+      "question": "Different instruments make different sounds (timbre).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Timbre."
+    },
+    {
+      "id": "g4-mus-unit-02-performing-02-listening-lq03",
+      "type": "fill_blank",
+      "question": "How loud or soft music is played is its ___.",
+      "answer": "dynamics",
+      "explanation": "Dynamics."
+    },
+    {
+      "id": "g4-mus-unit-02-performing-02-listening-lq04",
+      "type": "short_answer",
+      "question": "Name one thing to listen for in a piece of music.",
+      "answer": "e.g., rhythm, melody, dynamics, or instruments.",
+      "explanation": "Listening."
+    }
+  ]
+}

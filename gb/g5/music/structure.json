@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-elements",
+      "slug": "c1",
       "title": {
         "en": "Elements of Music"
       },
       "lessons": [
         {
-          "slug": "01-pulse-rhythm",
+          "slug": "l1",
           "title": {
             "en": "Pulse & Rhythm"
           }
         },
         {
-          "slug": "02-pitch",
+          "slug": "l2",
           "title": {
             "en": "Pitch & Melody"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-performing",
+      "slug": "c2",
       "title": {
         "en": "Performing & Listening"
       },
       "lessons": [
         {
-          "slug": "01-singing-playing",
+          "slug": "l1",
           "title": {
             "en": "Singing & Playing"
           }
         },
         {
-          "slug": "02-listening",
+          "slug": "l2",
           "title": {
             "en": "Listening to Music"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g2-isl-unit-02-akhlaq-02-respect-quiz",
+      "title": "Quiz: احترام الكبير",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-isl-unit-02-akhlaq-02-respect-lq01",
+          "type": "mcq",
+          "question": "نعامل الكبير بـ:",
+          "options": [
+            "الاحترام",
+            "القسوة",
+            "الإهمال",
+            "رفع الصوت"
+          ],
+          "answer": "الاحترام",
+          "explanation": "الأدب."
+        },
+        {
+          "id": "g2-isl-unit-02-akhlaq-02-respect-lq02",
+          "type": "true_false",
+          "question": "من آداب الإسلام احترام الكبير ورحمة الصغير.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الأخلاق."
+        },
+        {
+          "id": "g2-isl-unit-02-akhlaq-02-respect-lq03",
+          "type": "fill_blank",
+          "question": "نقدّم العون لمن هو ___ منا.",
+          "answer": "أكبر",
+          "explanation": "الاحترام."
+        },
+        {
+          "id": "g2-isl-unit-02-akhlaq-02-respect-lq04",
+          "type": "short_answer",
+          "question": "اذكر صورة من احترام الكبار.",
+          "answer": "مثل: الإصغاء إليهم ومساعدتهم.",
+          "explanation": "الأخلاق."
+        }
+      ]
+    }
+  ]
+}

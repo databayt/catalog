@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-mechanics",
+      "slug": "c1",
       "title": {
         "en": "Mechanics"
       },
       "lessons": [
         {
-          "slug": "01-kinematics",
+          "slug": "l1",
           "title": {
             "en": "Kinematics & Dynamics"
           }
         },
         {
-          "slug": "02-energy-momentum",
+          "slug": "l2",
           "title": {
             "en": "Work, Energy & Momentum"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-fields",
+      "slug": "c2",
       "title": {
         "en": "Fields"
       },
       "lessons": [
         {
-          "slug": "01-gravitational",
+          "slug": "l1",
           "title": {
             "en": "Gravitational Fields"
           }
         },
         {
-          "slug": "02-electric",
+          "slug": "l2",
           "title": {
             "en": "Electric Fields"
           }

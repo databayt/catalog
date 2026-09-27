@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading-lit",
+      "slug": "c1",
       "title": {
         "en": "Reading Literature"
       },
       "lessons": [
         {
-          "slug": "01-theme",
+          "slug": "l1",
           "title": {
             "en": "Determining Theme"
           }
         },
         {
-          "slug": "02-plot",
+          "slug": "l2",
           "title": {
             "en": "Plot & Conflict"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-argument",
+          "slug": "l1",
           "title": {
             "en": "Argument Writing"
           }
         },
         {
-          "slug": "02-grammar",
+          "slug": "l2",
           "title": {
             "en": "Grammar & Usage"
           }

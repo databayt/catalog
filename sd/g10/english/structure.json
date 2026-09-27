@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1",
+      "slug": "c1",
       "title": {
         "en": "Unit 1"
       },
@@ -29,7 +29,7 @@
       "lessons": []
     },
     {
-      "slug": "02-unit-2",
+      "slug": "c2",
       "title": {
         "en": "Unit 2"
       },
@@ -38,7 +38,7 @@
       "lessons": []
     },
     {
-      "slug": "03-unit-3",
+      "slug": "c3",
       "title": {
         "en": "Unit 3"
       },
@@ -47,7 +47,7 @@
       "lessons": []
     },
     {
-      "slug": "04-unit-4",
+      "slug": "c4",
       "title": {
         "en": "Unit 4"
       },
@@ -56,7 +56,7 @@
       "lessons": []
     },
     {
-      "slug": "05-unit-5",
+      "slug": "c5",
       "title": {
         "en": "Unit 5"
       },
@@ -65,7 +65,7 @@
       "lessons": []
     },
     {
-      "slug": "06-unit-6",
+      "slug": "c6",
       "title": {
         "en": "Unit 6"
       },
@@ -74,7 +74,7 @@
       "lessons": []
     },
     {
-      "slug": "07-unit-7",
+      "slug": "c7",
       "title": {
         "en": "Unit 7"
       },
@@ -83,7 +83,7 @@
       "lessons": []
     },
     {
-      "slug": "08-unit-8",
+      "slug": "c8",
       "title": {
         "en": "Unit 8"
       },

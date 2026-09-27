@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-values-and-manners",
+      "slug": "c1",
       "title": {
         "ar": "قيم وآداب",
         "en": "Values and Manners"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-love-of-parents",
+          "slug": "l1",
           "title": {
             "ar": "حب الوالدين",
             "en": "Love of Parents"
@@ -40,7 +40,7 @@
           "page": 6
         },
         {
-          "slug": "02-my-father-and-mother-anthem",
+          "slug": "l2",
           "title": {
             "ar": "نشيد أبي وأمي",
             "en": "Anthem: My Father and Mother"
@@ -48,7 +48,7 @@
           "page": 10
         },
         {
-          "slug": "03-honouring-neighbour-and-guest",
+          "slug": "l3",
           "title": {
             "ar": "إكرام الجار والضيف",
             "en": "Honouring the Neighbour and the Guest"
@@ -56,7 +56,7 @@
           "page": 12
         },
         {
-          "slug": "04-honest-living",
+          "slug": "l4",
           "title": {
             "ar": "العيش الشريف",
             "en": "Honest Living"
@@ -64,7 +64,7 @@
           "page": 16
         },
         {
-          "slug": "05-noble-morals",
+          "slug": "l5",
           "title": {
             "ar": "من مكارم الأخلاق",
             "en": "From the Noble Morals"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-my-school",
+      "slug": "c2",
       "title": {
         "ar": "مدرستي",
         "en": "My School"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-back-to-school",
+          "slug": "l1",
           "title": {
             "ar": "العودة إلى المدرسة",
             "en": "Back to School"
@@ -93,7 +93,7 @@
           "page": 23
         },
         {
-          "slug": "02-school-cleanliness",
+          "slug": "l2",
           "title": {
             "ar": "نظافة المدرسة",
             "en": "School Cleanliness"
@@ -101,7 +101,7 @@
           "page": 26
         },
         {
-          "slug": "03-saluting-the-flag",
+          "slug": "l3",
           "title": {
             "ar": "تحية العلم",
             "en": "Saluting the Flag"
@@ -109,7 +109,7 @@
           "page": 30
         },
         {
-          "slug": "04-on-the-road",
+          "slug": "l4",
           "title": {
             "ar": "في الطريق",
             "en": "On the Road"
@@ -118,7 +118,7 @@
           "image": "clickview/elementary-safety-cover.jpg"
         },
         {
-          "slug": "05-how-i-walk-on-the-road",
+          "slug": "l5",
           "title": {
             "ar": "كيف أمشي في الطريق؟",
             "en": "How Do I Walk on the Road?"
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "slug": "03-my-homeland",
+      "slug": "c3",
       "title": {
         "ar": "وطني",
         "en": "My Homeland"
@@ -140,7 +140,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-i-love-my-country",
+          "slug": "l1",
           "title": {
             "ar": "أحب بلادي",
             "en": "I Love My Country"
@@ -148,7 +148,7 @@
           "page": 46
         },
         {
-          "slug": "02-o-my-country-anthem",
+          "slug": "l2",
           "title": {
             "ar": "نشيد يا بلادي",
             "en": "Anthem: O My Country"
@@ -156,7 +156,7 @@
           "page": 51
         },
         {
-          "slug": "03-mihera-bint-abboud",
+          "slug": "l3",
           "title": {
             "ar": "بطلة من بلادي: مهيرة بت عبود",
             "en": "A Heroine from My Country: Mihera bint Abboud"
@@ -165,7 +165,7 @@
           "image": "clickview/elementary-using-sources-cover.jpg"
         },
         {
-          "slug": "04-abdel-fadil-al-maz",
+          "slug": "l4",
           "title": {
             "ar": "عبد الفضيل الماظ",
             "en": "Abdel Fadil Al-Maz"
@@ -174,7 +174,7 @@
           "image": "clickview/elementary-using-sources-cover.jpg"
         },
         {
-          "slug": "05-independence-day",
+          "slug": "l5",
           "title": {
             "ar": "عيد الاستقلال",
             "en": "Independence Day"
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "slug": "04-wisdom-of-animals",
+      "slug": "c4",
       "title": {
         "ar": "من حكم الحيوان",
         "en": "From the Wisdom of Animals"
@@ -195,7 +195,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-rooster-and-the-fox",
+          "slug": "l1",
           "title": {
             "ar": "الديك والثعلب",
             "en": "The Rooster and the Fox"
@@ -203,7 +203,7 @@
           "page": 68
         },
         {
-          "slug": "02-the-beehive",
+          "slug": "l2",
           "title": {
             "ar": "خلية النحل",
             "en": "The Beehive"
@@ -212,7 +212,7 @@
           "image": "clickview/elementary-bees-cover.jpg"
         },
         {
-          "slug": "03-the-mouse-and-the-cat",
+          "slug": "l3",
           "title": {
             "ar": "الفأر والقط",
             "en": "The Mouse and the Cat"
@@ -220,7 +220,7 @@
           "page": 75
         },
         {
-          "slug": "04-birds-of-the-gardens",
+          "slug": "l4",
           "title": {
             "ar": "طيور الرياض",
             "en": "Birds of the Gardens"
@@ -229,7 +229,7 @@
           "image": "clickview/elementary-birds-cover.jpg"
         },
         {
-          "slug": "05-ants",
+          "slug": "l5",
           "title": {
             "ar": "النمل",
             "en": "Ants"
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "slug": "05-my-health",
+      "slug": "c5",
       "title": {
         "ar": "صحتي",
         "en": "My Health"
@@ -251,7 +251,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-i-am-your-body",
+          "slug": "l1",
           "title": {
             "ar": "أنا جسمك",
             "en": "I Am Your Body"
@@ -259,7 +259,7 @@
           "page": 86
         },
         {
-          "slug": "02-the-five-senses",
+          "slug": "l2",
           "title": {
             "ar": "الحواس الخمس",
             "en": "The Five Senses"
@@ -267,7 +267,7 @@
           "page": 89
         },
         {
-          "slug": "03-medicine-in-food",
+          "slug": "l3",
           "title": {
             "ar": "الدواء في الغذاء",
             "en": "Medicine in Food"
@@ -276,7 +276,7 @@
           "image": "clickview/elementary-diet-and-nutrition-cover.jpg"
         },
         {
-          "slug": "04-caring-for-teeth",
+          "slug": "l4",
           "title": {
             "ar": "المحافظة على الأسنان",
             "en": "Caring for the Teeth"
@@ -285,7 +285,7 @@
           "image": "clickview/elementary-dental-health-cover.jpg"
         },
         {
-          "slug": "05-uncovered-food",
+          "slug": "l5",
           "title": {
             "ar": "الأطعمة المكشوفة",
             "en": "Uncovered Food"
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "slug": "06-varied-reflections",
+      "slug": "c6",
       "title": {
         "ar": "تأملات متباينة",
         "en": "Varied Reflections"
@@ -307,7 +307,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-wise-farmer",
+          "slug": "l1",
           "title": {
             "ar": "المزارع الحكيم",
             "en": "The Wise Farmer"
@@ -315,7 +315,7 @@
           "page": 108
         },
         {
-          "slug": "02-ashab-the-glutton",
+          "slug": "l2",
           "title": {
             "ar": "أشعب الأكول",
             "en": "Ash'ab the Glutton"
@@ -323,7 +323,7 @@
           "page": 113
         },
         {
-          "slug": "03-table-salt",
+          "slug": "l3",
           "title": {
             "ar": "ملح الطعام",
             "en": "Table Salt"
@@ -331,7 +331,7 @@
           "page": 117
         },
         {
-          "slug": "04-the-merchant-ali-and-the-thieves",
+          "slug": "l4",
           "title": {
             "ar": "التاجر علي واللصوص",
             "en": "The Merchant Ali and the Thieves"
@@ -339,7 +339,7 @@
           "page": 120
         },
         {
-          "slug": "05-the-lost-boy-game",
+          "slug": "l5",
           "title": {
             "ar": "لعبة الولد التائه",
             "en": "The Lost Boy Game"

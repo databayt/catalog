@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-states",
+      "slug": "c1",
       "title": {
         "en": "States of Matter"
       },
       "lessons": [
         {
-          "slug": "01-states",
+          "slug": "l1",
           "title": {
             "en": "Solids, Liquids & Gases"
           }
         },
         {
-          "slug": "02-water-cycle",
+          "slug": "l2",
           "title": {
             "en": "The Water Cycle"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-sound-electricity",
+      "slug": "c2",
       "title": {
         "en": "Sound & Electricity"
       },
       "lessons": [
         {
-          "slug": "01-sound",
+          "slug": "l1",
           "title": {
             "en": "Sound"
           }
         },
         {
-          "slug": "02-circuits",
+          "slug": "l2",
           "title": {
             "en": "Electric Circuits"
           }

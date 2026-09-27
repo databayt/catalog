@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-mat-unit-01-algebra-02-simultaneous-quiz",
+      "title": "Quiz: Simultaneous Equations",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-mat-unit-01-algebra-02-simultaneous-lq01",
+          "type": "mcq",
+          "question": "Solve x+y=5, x-y=1:",
+          "options": [
+            "x=3,y=2",
+            "x=2,y=3",
+            "x=4,y=1",
+            "x=1,y=4"
+          ],
+          "answer": "x=3,y=2",
+          "explanation": "Add equations."
+        },
+        {
+          "id": "g10-mat-unit-01-algebra-02-simultaneous-lq02",
+          "type": "true_false",
+          "question": "Elimination and substitution both solve simultaneous equations.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Two methods."
+        },
+        {
+          "id": "g10-mat-unit-01-algebra-02-simultaneous-lq03",
+          "type": "fill_blank",
+          "question": "Two equations true at the same time are ___ equations.",
+          "answer": "simultaneous",
+          "explanation": "Simultaneous."
+        },
+        {
+          "id": "g10-mat-unit-01-algebra-02-simultaneous-lq04",
+          "type": "short_answer",
+          "question": "What does the solution represent graphically?",
+          "answer": "The intersection point of the two lines.",
+          "explanation": "Intersection."
+        }
+      ]
+    }
+  ]
+}

@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-basic-economic-problem",
+      "slug": "c1",
       "title": {
         "en": "The Basic Economic Problem"
       },
       "lessons": [
         {
-          "slug": "01-the-basic-economic-problem",
+          "slug": "l1",
           "title": {
             "en": "The Basic Economic Problem"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-the-allocation-of-resources",
+      "slug": "c2",
       "title": {
         "en": "The Allocation of Resources"
       },
       "lessons": [
         {
-          "slug": "01-the-allocation-of-resources",
+          "slug": "l1",
           "title": {
             "en": "The Allocation of Resources"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-microeconomic-decision-makers",
+      "slug": "c3",
       "title": {
         "en": "Microeconomic Decision Makers"
       },
       "lessons": [
         {
-          "slug": "01-microeconomic-decision-makers",
+          "slug": "l1",
           "title": {
             "en": "Microeconomic Decision Makers"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-government-and-the-macroeconomy",
+      "slug": "c4",
       "title": {
         "en": "Government and the Macroeconomy"
       },
       "lessons": [
         {
-          "slug": "01-government-and-the-macroeconomy",
+          "slug": "l1",
           "title": {
             "en": "Government and the Macroeconomy"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-economic-development",
+      "slug": "c5",
       "title": {
         "en": "Economic Development"
       },
       "lessons": [
         {
-          "slug": "01-economic-development",
+          "slug": "l1",
           "title": {
             "en": "Economic Development"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-international-trade-and-globalisation",
+      "slug": "c6",
       "title": {
         "en": "International Trade and Globalisation"
       },
       "lessons": [
         {
-          "slug": "01-international-trade-and-globalisation",
+          "slug": "l1",
           "title": {
             "en": "International Trade and Globalisation"
           }

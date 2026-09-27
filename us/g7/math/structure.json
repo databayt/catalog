@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-rational-numbers",
+      "slug": "c1",
       "title": {
         "en": "Operations with Rational Numbers"
       },
       "lessons": [
         {
-          "slug": "01-integers",
+          "slug": "l1",
           "title": {
             "en": "Adding & Subtracting Integers"
           }
         },
         {
-          "slug": "02-multiply-divide-integers",
+          "slug": "l2",
           "title": {
             "en": "Multiplying & Dividing Integers"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-proportional",
+      "slug": "c2",
       "title": {
         "en": "Proportional Relationships"
       },
       "lessons": [
         {
-          "slug": "01-proportions",
+          "slug": "l1",
           "title": {
             "en": "Solving Proportions"
           }
         },
         {
-          "slug": "02-percent",
+          "slug": "l2",
           "title": {
             "en": "Percent Problems"
           }

@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-02-proportional-exam",
+      "title": "Exam: Proportional Relationships",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq01",
+          "type": "mcq",
+          "question": "Solve 3/4 = x/12:",
+          "options": [
+            "6",
+            "9",
+            "8",
+            "16"
+          ],
+          "answer": "9",
+          "explanation": "Cross-multiply: 3×12÷4=9."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq02",
+          "type": "true_false",
+          "question": "In a proportion, cross-products are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "a/b = c/d → ad = bc."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq03",
+          "type": "fill_blank",
+          "question": "If 2 pens cost $3, 6 pens cost $___.",
+          "answer": "9",
+          "explanation": "Scale by 3."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-01-proportions-lq04",
+          "type": "short_answer",
+          "question": "What makes a relationship proportional?",
+          "answer": "A constant ratio (constant of proportionality) between quantities.",
+          "explanation": "Constant ratio."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-02-percent-lq01",
+          "type": "mcq",
+          "question": "What is 20% of 50?",
+          "options": [
+            "5",
+            "10",
+            "20",
+            "25"
+          ],
+          "answer": "10",
+          "explanation": "0.20 × 50."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-02-percent-lq02",
+          "type": "true_false",
+          "question": "A 10% increase on $100 gives $110.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "100 + 10."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-02-percent-lq03",
+          "type": "fill_blank",
+          "question": "15 is ___% of 60.",
+          "answer": "25",
+          "explanation": "15/60 = 0.25."
+        },
+        {
+          "id": "g7-mat-unit-02-proportional-02-percent-lq04",
+          "type": "short_answer",
+          "question": "How do you find a percent of a number?",
+          "answer": "Convert the percent to a decimal and multiply.",
+          "explanation": "Percent calc."
+        }
+      ]
+    }
+  ]
+}

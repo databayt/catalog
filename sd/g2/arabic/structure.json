@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-review",
+      "slug": "c1",
       "title": {
         "ar": "مراجعة",
         "en": "Review"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-read-and-analyse",
+          "slug": "l1",
           "title": {
             "ar": "أقرأ وأحلل",
             "en": "I Read and Analyse"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-pronounce-the-word",
+          "slug": "l2",
           "title": {
             "ar": "أنطق الكلمة",
             "en": "I Pronounce the Word"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "03-letter-after-al",
+          "slug": "l3",
           "title": {
             "ar": "أقرأ وألاحظ الحرف بعد (ال)",
             "en": "I Read and Notice the Letter after 'Al'"
@@ -56,7 +56,7 @@
           "page": 4
         },
         {
-          "slug": "04-look-and-say",
+          "slug": "l4",
           "title": {
             "ar": "أنظر وأقول",
             "en": "I Look and Say"
@@ -64,7 +64,7 @@
           "page": 6
         },
         {
-          "slug": "05-read-and-analyse-words",
+          "slug": "l5",
           "title": {
             "ar": "قراءة الكلمات وتحليلها",
             "en": "Reading and Analysing Words"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-my-family",
+      "slug": "c2",
       "title": {
         "ar": "أسرتي",
         "en": "My Family"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-nafisa-family",
+          "slug": "l1",
           "title": {
             "ar": "أسرة نفيسة",
             "en": "Nafisa's Family"
@@ -93,7 +93,7 @@
           "page": 10
         },
         {
-          "slug": "02-husam-house",
+          "slug": "l2",
           "title": {
             "ar": "بيت حسام",
             "en": "Husam's House"
@@ -101,7 +101,7 @@
           "page": 12
         },
         {
-          "slug": "03-mother-anthem",
+          "slug": "l3",
           "title": {
             "ar": "نشيد أمي",
             "en": "Anthem: My Mother"
@@ -109,7 +109,7 @@
           "page": 14
         },
         {
-          "slug": "04-windows-of-my-room",
+          "slug": "l4",
           "title": {
             "ar": "نوافذ غرفتي",
             "en": "The Windows of My Room"
@@ -117,7 +117,7 @@
           "page": 16
         },
         {
-          "slug": "05-on-my-fathers-farm",
+          "slug": "l5",
           "title": {
             "ar": "في مزرعة أبي",
             "en": "On My Father's Farm"
@@ -126,7 +126,7 @@
           "image": "clickview/elementary-farming-and-food-production-cover.jpg"
         },
         {
-          "slug": "06-the-clever-crow",
+          "slug": "l6",
           "title": {
             "ar": "الغراب النبيه",
             "en": "The Clever Crow"
@@ -135,7 +135,7 @@
           "image": "clickview/elementary-birds-cover.jpg"
         },
         {
-          "slug": "07-my-father",
+          "slug": "l7",
           "title": {
             "ar": "أبي",
             "en": "My Father"
@@ -143,7 +143,7 @@
           "page": 23
         },
         {
-          "slug": "08-our-kitchen",
+          "slug": "l8",
           "title": {
             "ar": "مطبخ بيتنا",
             "en": "Our House's Kitchen"
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "slug": "03-my-school",
+      "slug": "c3",
       "title": {
         "ar": "مدرستي",
         "en": "My School"
@@ -164,7 +164,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-my-school",
+          "slug": "l1",
           "title": {
             "ar": "مدرستي",
             "en": "My School"
@@ -172,7 +172,7 @@
           "page": 27
         },
         {
-          "slug": "02-my-classroom",
+          "slug": "l2",
           "title": {
             "ar": "فصلي",
             "en": "My Classroom"
@@ -180,7 +180,7 @@
           "page": 30
         },
         {
-          "slug": "03-a-new-school-year",
+          "slug": "l3",
           "title": {
             "ar": "عام دراسي جديد",
             "en": "A New School Year"
@@ -188,7 +188,7 @@
           "page": 32
         },
         {
-          "slug": "04-morning-assembly",
+          "slug": "l4",
           "title": {
             "ar": "طابور الصباح",
             "en": "The Morning Assembly"
@@ -196,7 +196,7 @@
           "page": 35
         },
         {
-          "slug": "05-welcome-my-school",
+          "slug": "l5",
           "title": {
             "ar": "أهلاً بها مدرستي",
             "en": "Welcome, My School"
@@ -204,7 +204,7 @@
           "page": 37
         },
         {
-          "slug": "06-the-success-gift",
+          "slug": "l6",
           "title": {
             "ar": "هدية النجاح",
             "en": "The Success Gift"
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "slug": "04-i-play-and-learn",
+      "slug": "c4",
       "title": {
         "ar": "ألعب وأتعلم",
         "en": "I Play and Learn"
@@ -225,7 +225,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-physical-exercise",
+          "slug": "l1",
           "title": {
             "ar": "الرياضة البدنية",
             "en": "Physical Exercise"
@@ -233,7 +233,7 @@
           "page": 42
         },
         {
-          "slug": "02-my-book",
+          "slug": "l2",
           "title": {
             "ar": "كتابي",
             "en": "My Book"
@@ -241,7 +241,7 @@
           "page": 44
         },
         {
-          "slug": "03-paper-toys",
+          "slug": "l3",
           "title": {
             "ar": "لعب من الورق",
             "en": "Paper Toys"
@@ -250,7 +250,7 @@
           "image": "clickview/elementary-artistic-techniques-cover.jpg"
         },
         {
-          "slug": "04-expression-sport",
+          "slug": "l4",
           "title": {
             "ar": "تعبير: الرياضة",
             "en": "Expression: Sport"
@@ -258,7 +258,7 @@
           "page": 49
         },
         {
-          "slug": "05-childrens-hobbies",
+          "slug": "l5",
           "title": {
             "ar": "هوايات الأطفال",
             "en": "Children's Hobbies"
@@ -266,7 +266,7 @@
           "page": 51
         },
         {
-          "slug": "06-the-active-boy",
+          "slug": "l6",
           "title": {
             "ar": "الفتى النشيط",
             "en": "The Active Boy"
@@ -274,7 +274,7 @@
           "page": 54
         },
         {
-          "slug": "07-me-and-the-computer",
+          "slug": "l7",
           "title": {
             "ar": "أنا والحاسوب",
             "en": "Me and the Computer"
@@ -283,7 +283,7 @@
           "image": "clickview/elementary-computing-systems-cover.jpg"
         },
         {
-          "slug": "08-i-love-reading",
+          "slug": "l8",
           "title": {
             "ar": "أحب القراءة",
             "en": "I Love Reading"
@@ -292,7 +292,7 @@
           "image": "clickview/elementary-book-reports-cover.jpg"
         },
         {
-          "slug": "09-the-little-painter",
+          "slug": "l9",
           "title": {
             "ar": "الرسام الصغير",
             "en": "The Little Painter"
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "slug": "05-my-health",
+      "slug": "c5",
       "title": {
         "ar": "صحتي",
         "en": "My Health"
@@ -314,7 +314,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-neighbourhood-cleanliness",
+          "slug": "l1",
           "title": {
             "ar": "نظافة الحي",
             "en": "Cleanliness of the Neighbourhood"
@@ -322,7 +322,7 @@
           "page": 63
         },
         {
-          "slug": "02-prevention-better-than-cure",
+          "slug": "l2",
           "title": {
             "ar": "الوقاية خير من العلاج",
             "en": "Prevention Is Better Than Cure"
@@ -330,7 +330,7 @@
           "page": 65
         },
         {
-          "slug": "03-pupils-prayer-anthem",
+          "slug": "l3",
           "title": {
             "ar": "نشيد دعاء التلميذ",
             "en": "Anthem: The Pupil's Prayer"
@@ -338,7 +338,7 @@
           "page": 67
         },
         {
-          "slug": "04-sound-mind-sound-body",
+          "slug": "l4",
           "title": {
             "ar": "العقل السليم في الجسم السليم",
             "en": "A Sound Mind in a Sound Body"
@@ -346,7 +346,7 @@
           "page": 69
         },
         {
-          "slug": "05-precious-advice-anthem",
+          "slug": "l5",
           "title": {
             "ar": "نشيد نصائح غالية",
             "en": "Anthem: Precious Advice"
@@ -354,7 +354,7 @@
           "page": 71
         },
         {
-          "slug": "06-child-protection",
+          "slug": "l6",
           "title": {
             "ar": "حماية الطفل",
             "en": "Child Protection"
@@ -363,7 +363,7 @@
           "image": "clickview/elementary-safety-cover.jpg"
         },
         {
-          "slug": "07-the-trip",
+          "slug": "l7",
           "title": {
             "ar": "الرحلة",
             "en": "The Trip"
@@ -371,7 +371,7 @@
           "page": 75
         },
         {
-          "slug": "08-cleanliness",
+          "slug": "l8",
           "title": {
             "ar": "النظافة",
             "en": "Cleanliness"
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "slug": "06-my-country",
+      "slug": "c6",
       "title": {
         "ar": "بلادي",
         "en": "My Country"
@@ -392,7 +392,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-our-sudan",
+          "slug": "l1",
           "title": {
             "ar": "سودانُنا",
             "en": "Our Sudan"
@@ -400,7 +400,7 @@
           "page": 79
         },
         {
-          "slug": "02-the-national-flag",
+          "slug": "l2",
           "title": {
             "ar": "علم البلاد",
             "en": "The National Flag"
@@ -408,7 +408,7 @@
           "page": 80
         },
         {
-          "slug": "03-my-country-is-rich",
+          "slug": "l3",
           "title": {
             "ar": "بلادي غنية",
             "en": "My Country Is Rich"
@@ -416,7 +416,7 @@
           "page": 83
         },
         {
-          "slug": "04-expression-agriculture",
+          "slug": "l4",
           "title": {
             "ar": "تعبير",
             "en": "Expression"
@@ -425,7 +425,7 @@
           "image": "clickview/elementary-farming-and-food-production-cover.jpg"
         },
         {
-          "slug": "05-the-rain",
+          "slug": "l5",
           "title": {
             "ar": "المطر المطر",
             "en": "The Rain… The Rain"
@@ -434,7 +434,7 @@
           "image": "clickview/elementary-the-water-cycle-cover.jpg"
         },
         {
-          "slug": "06-a-city-of-my-country",
+          "slug": "l6",
           "title": {
             "ar": "مدينة من بلادي",
             "en": "A City of My Country"
@@ -442,7 +442,7 @@
           "page": 90
         },
         {
-          "slug": "07-our-handicrafts",
+          "slug": "l7",
           "title": {
             "ar": "صناعاتنا اليدوية",
             "en": "Our Handicrafts"
@@ -450,7 +450,7 @@
           "page": 91
         },
         {
-          "slug": "08-at-the-market",
+          "slug": "l8",
           "title": {
             "ar": "في السوق (تعبير)",
             "en": "At the Market (Expression)"
@@ -459,7 +459,7 @@
           "image": "clickview/elementary-the-economy-cover.jpg"
         },
         {
-          "slug": "09-yes-to-peace-no-to-war",
+          "slug": "l9",
           "title": {
             "ar": "نعم للسلام لا للحرب",
             "en": "Yes to Peace, No to War"

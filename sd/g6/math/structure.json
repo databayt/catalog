@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-sets",
+      "slug": "c1",
       "title": {
         "ar": "المجموعات",
         "en": "Sets"
@@ -29,31 +29,31 @@
       "image": "clickview/high-discrete-math-cover.jpg",
       "lessons": [
         {
-          "slug": "01-concept-of-sets",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم المجموعة والعنصر"
           }
         },
         {
-          "slug": "02-describing-sets",
+          "slug": "l2",
           "title": {
             "ar": "وصف المجموعات"
           }
         },
         {
-          "slug": "03-types-of-sets",
+          "slug": "l3",
           "title": {
             "ar": "أنواع المجموعات"
           }
         },
         {
-          "slug": "04-subsets",
+          "slug": "l4",
           "title": {
             "ar": "المجموعة الجزئية"
           }
         },
         {
-          "slug": "05-venn-diagrams",
+          "slug": "l5",
           "title": {
             "ar": "مخططات فن"
           }
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "slug": "02-the-set-of-integers",
+      "slug": "c2",
       "title": {
         "ar": "مجموعة الأعداد الصحيحة",
         "en": "The Set of Integers"
@@ -70,37 +70,37 @@
       "image": "clickview/middle-whole-number-operations-cover.jpg",
       "lessons": [
         {
-          "slug": "01-integers",
+          "slug": "l1",
           "title": {
             "ar": "الأعداد الصحيحة"
           }
         },
         {
-          "slug": "02-comparing-integers",
+          "slug": "l2",
           "title": {
             "ar": "مقارنة الأعداد الصحيحة"
           }
         },
         {
-          "slug": "03-adding-integers",
+          "slug": "l3",
           "title": {
             "ar": "جمع الأعداد الصحيحة"
           }
         },
         {
-          "slug": "04-subtracting-integers",
+          "slug": "l4",
           "title": {
             "ar": "طرح الأعداد الصحيحة"
           }
         },
         {
-          "slug": "05-multiplying-integers",
+          "slug": "l5",
           "title": {
             "ar": "ضرب الأعداد الصحيحة"
           }
         },
         {
-          "slug": "06-dividing-integers",
+          "slug": "l6",
           "title": {
             "ar": "قسمة الأعداد الصحيحة"
           }
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "slug": "03-percentages",
+      "slug": "c3",
       "title": {
         "ar": "النسبة المئوية",
         "en": "Percentages"
@@ -117,19 +117,19 @@
       "image": "clickview/middle-decimals-and-percentages-cover.jpg",
       "lessons": [
         {
-          "slug": "01-percentage-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم النسبة المئوية"
           }
         },
         {
-          "slug": "02-converting-percentages",
+          "slug": "l2",
           "title": {
             "ar": "تحويل النسبة المئوية"
           }
         },
         {
-          "slug": "03-percentage-applications",
+          "slug": "l3",
           "title": {
             "ar": "تطبيقات على النسبة المئوية"
           }
@@ -137,7 +137,7 @@
       ]
     },
     {
-      "slug": "04-algebraic-expressions",
+      "slug": "c4",
       "title": {
         "ar": "التعابير الجبرية",
         "en": "Algebraic Expressions"
@@ -146,19 +146,19 @@
       "image": "clickview/middle-equations-and-expressions-cover.jpg",
       "lessons": [
         {
-          "slug": "01-algebraic-expressions",
+          "slug": "l1",
           "title": {
             "ar": "التعابير الجبرية"
           }
         },
         {
-          "slug": "02-simplifying-expressions",
+          "slug": "l2",
           "title": {
             "ar": "تبسيط التعابير الجبرية"
           }
         },
         {
-          "slug": "03-equations",
+          "slug": "l3",
           "title": {
             "ar": "المعادلات"
           }
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "slug": "05-operations-on-sets",
+      "slug": "c5",
       "title": {
         "ar": "العمليات على المجموعات",
         "en": "Operations on Sets"
@@ -175,19 +175,19 @@
       "image": "clickview/high-discrete-math-cover.jpg",
       "lessons": [
         {
-          "slug": "01-union",
+          "slug": "l1",
           "title": {
             "ar": "الاتحاد"
           }
         },
         {
-          "slug": "02-intersection",
+          "slug": "l2",
           "title": {
             "ar": "التقاطع"
           }
         },
         {
-          "slug": "03-complement",
+          "slug": "l3",
           "title": {
             "ar": "المتممة"
           }
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "slug": "06-area-of-geometric-shapes",
+      "slug": "c6",
       "title": {
         "ar": "مساحة الأشكال الهندسية",
         "en": "Area of Geometric Shapes"
@@ -204,25 +204,25 @@
       "image": "clickview/middle-area-perimeter-surface-area-and-volume-cover.jpg",
       "lessons": [
         {
-          "slug": "01-area-of-triangle",
+          "slug": "l1",
           "title": {
             "ar": "مساحة المثلث"
           }
         },
         {
-          "slug": "02-area-of-parallelogram",
+          "slug": "l2",
           "title": {
             "ar": "مساحة متوازي الأضلاع"
           }
         },
         {
-          "slug": "03-area-of-trapezoid",
+          "slug": "l3",
           "title": {
             "ar": "مساحة شبه المنحرف"
           }
         },
         {
-          "slug": "04-area-of-circle",
+          "slug": "l4",
           "title": {
             "ar": "مساحة الدائرة"
           }
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "slug": "07-the-pythagorean-theorem",
+      "slug": "c7",
       "title": {
         "ar": "نظرية فيثاغورث",
         "en": "The Pythagorean Theorem"
@@ -239,13 +239,13 @@
       "image": "clickview/middle-pythagorean-theorem-cover.jpg",
       "lessons": [
         {
-          "slug": "01-pythagorean-theorem",
+          "slug": "l1",
           "title": {
             "ar": "نظرية فيثاغورث"
           }
         },
         {
-          "slug": "02-applications",
+          "slug": "l2",
           "title": {
             "ar": "تطبيقات نظرية فيثاغورث"
           }

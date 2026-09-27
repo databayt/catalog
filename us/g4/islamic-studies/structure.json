@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-zakat-sawm",
+      "slug": "c1",
       "title": {
         "ar": "الصيام والزكاة"
       },
       "lessons": [
         {
-          "slug": "01-sawm",
+          "slug": "l1",
           "title": {
             "ar": "الصيام"
           }
         },
         {
-          "slug": "02-honesty",
+          "slug": "l2",
           "title": {
             "ar": "الصدق والأمانة"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-seerah",
+      "slug": "c2",
       "title": {
         "ar": "السيرة النبوية"
       },
       "lessons": [
         {
-          "slug": "01-birth",
+          "slug": "l1",
           "title": {
             "ar": "مولد النبي ﷺ ونشأته"
           }
         },
         {
-          "slug": "02-akhlaq",
+          "slug": "l2",
           "title": {
             "ar": "أخلاق النبي ﷺ"
           }

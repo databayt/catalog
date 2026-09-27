@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "islamic-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g8-isl-unit-01-fiqh-sahaba-02-sahaba-lq01",
+      "type": "mcq",
+      "question": "أول الخلفاء الراشدين هو:",
+      "options": [
+        "عمر",
+        "أبو بكر الصديق",
+        "عثمان",
+        "علي"
+      ],
+      "answer": "أبو بكر الصديق",
+      "explanation": "أول الخلفاء."
+    },
+    {
+      "id": "g8-isl-unit-01-fiqh-sahaba-02-sahaba-lq02",
+      "type": "true_false",
+      "question": "الصحابة هم من رأوا النبي ﷺ وآمنوا به.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "تعريف الصحابي."
+    },
+    {
+      "id": "g8-isl-unit-01-fiqh-sahaba-02-sahaba-lq03",
+      "type": "fill_blank",
+      "question": "الخليفة الذي لُقّب بالفاروق هو ___.",
+      "answer": "عمر بن الخطاب",
+      "explanation": "الفاروق."
+    },
+    {
+      "id": "g8-isl-unit-01-fiqh-sahaba-02-sahaba-lq04",
+      "type": "short_answer",
+      "question": "من هم الخلفاء الراشدون؟",
+      "answer": "أبو بكر، وعمر، وعثمان، وعلي رضي الله عنهم.",
+      "explanation": "الصحابة."
+    }
+  ]
+}

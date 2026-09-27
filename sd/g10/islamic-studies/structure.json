@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-tajweed",
+      "slug": "c1",
       "title": {
         "ar": "التجويد",
         "en": "Tajweed"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-stopping-waqf",
+          "slug": "l1",
           "title": {
             "ar": "الوقف",
             "en": "Stopping (Waqf)"
@@ -48,7 +48,7 @@
           "page": 8
         },
         {
-          "slug": "02-general-types-of-waqf",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الوقف العامة",
             "en": "General Types of Waqf"
@@ -56,7 +56,7 @@
           "page": 12
         },
         {
-          "slug": "03-categories-of-optional-waqf",
+          "slug": "l3",
           "title": {
             "ar": "أقسام الوقف الاختياري",
             "en": "Categories of Optional Waqf"
@@ -64,7 +64,7 @@
           "page": 15
         },
         {
-          "slug": "04-good-and-bad-waqf",
+          "slug": "l4",
           "title": {
             "ar": "الوقف الحسن والقبيح",
             "en": "Good and Bad Waqf"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-the-holy-quran-surat-al-kahf",
+      "slug": "c2",
       "title": {
         "ar": "القرآن الكريم: سورة الكهف",
         "en": "The Holy Quran: Surat Al-Kahf"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-surat-al-kahf",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة عن سورة الكهف",
             "en": "Introduction to Surat Al-Kahf"
@@ -93,7 +93,7 @@
           "page": 24
         },
         {
-          "slug": "02-guidance-to-the-sound-creed",
+          "slug": "l2",
           "title": {
             "ar": "الهداية إلى العقيدة الصحيحة",
             "en": "Guidance to the Sound Creed"
@@ -101,7 +101,7 @@
           "page": 27
         },
         {
-          "slug": "03-the-story-of-the-people-of-the-cave",
+          "slug": "l3",
           "title": {
             "ar": "قصة أصحاب الكهف",
             "en": "The Story of the People of the Cave"
@@ -109,7 +109,7 @@
           "page": 31
         },
         {
-          "slug": "04-encouraging-patience",
+          "slug": "l4",
           "title": {
             "ar": "الحث على الصبر",
             "en": "Encouraging Patience"
@@ -117,7 +117,7 @@
           "page": 39
         },
         {
-          "slug": "05-the-story-of-the-owner-of-the-two-gardens",
+          "slug": "l5",
           "title": {
             "ar": "قصة صاحب الجنتين",
             "en": "The Story of the Owner of the Two Gardens"
@@ -125,7 +125,7 @@
           "page": 43
         },
         {
-          "slug": "06-scenes-from-the-day-of-judgement",
+          "slug": "l6",
           "title": {
             "ar": "من مشاهد يوم القيامة",
             "en": "Scenes from the Day of Judgement"
@@ -133,7 +133,7 @@
           "page": 48
         },
         {
-          "slug": "07-the-story-of-al-khidr",
+          "slug": "l7",
           "title": {
             "ar": "قصة الخضر عليه السلام",
             "en": "The Story of Al-Khidr"
@@ -141,7 +141,7 @@
           "page": 56
         },
         {
-          "slug": "08-the-story-of-dhul-qarnayn",
+          "slug": "l8",
           "title": {
             "ar": "قصة ذي القرنين",
             "en": "The Story of Dhul-Qarnayn"
@@ -149,7 +149,7 @@
           "page": 65
         },
         {
-          "slug": "09-glad-tidings-warning-and-affirming-revelation",
+          "slug": "l9",
           "title": {
             "ar": "التبشير والإنذار وإثبات الوحي",
             "en": "Glad Tidings, Warning and Affirming Revelation"
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "slug": "03-hadith-sciences",
+      "slug": "c3",
       "title": {
         "ar": "علوم الحديث",
         "en": "Hadith Sciences"
@@ -170,7 +170,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-recording-of-the-prophetic-hadith",
+          "slug": "l1",
           "title": {
             "ar": "تدوين الحديث النبوي",
             "en": "The Recording of the Prophetic Hadith"
@@ -179,7 +179,7 @@
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "02-imam-al-bukhari-and-his-method-in-his-sahih",
+          "slug": "l2",
           "title": {
             "ar": "الإمام البخاري ومنهجه في صحيحه",
             "en": "Imam Al-Bukhari and His Method in His Sahih"
@@ -187,7 +187,7 @@
           "page": 81
         },
         {
-          "slug": "03-imam-muslim-and-his-method-in-his-sahih",
+          "slug": "l3",
           "title": {
             "ar": "الإمام مسلم ومنهجه في صحيحه",
             "en": "Imam Muslim and His Method in His Sahih"
@@ -195,7 +195,7 @@
           "page": 84
         },
         {
-          "slug": "04-the-status-of-the-prophetic-sunnah",
+          "slug": "l4",
           "title": {
             "ar": "مكانة السنة النبوية",
             "en": "The Status of the Prophetic Sunnah"
@@ -203,7 +203,7 @@
           "page": 89
         },
         {
-          "slug": "05-accepted-and-rejected-hadith",
+          "slug": "l5",
           "title": {
             "ar": "الحديث المقبول والمردود",
             "en": "Accepted and Rejected Hadith"
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "slug": "04-prophetic-hadith",
+      "slug": "c4",
       "title": {
         "ar": "الحديث النبوي",
         "en": "Prophetic Hadith"
@@ -224,7 +224,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-signs-of-faith",
+          "slug": "l1",
           "title": {
             "ar": "علامات الإيمان",
             "en": "Signs of Faith"
@@ -232,7 +232,7 @@
           "page": 96
         },
         {
-          "slug": "02-encouraging-the-pursuit-of-knowledge",
+          "slug": "l2",
           "title": {
             "ar": "الحث على طلب العلم",
             "en": "Encouraging the Pursuit of Knowledge"
@@ -241,7 +241,7 @@
           "image": "clickview/high-learning-cover.jpg"
         },
         {
-          "slug": "03-fulfilling-trusts",
+          "slug": "l3",
           "title": {
             "ar": "أداء الأمانة",
             "en": "Fulfilling Trusts"
@@ -249,7 +249,7 @@
           "page": 102
         },
         {
-          "slug": "04-prohibition-of-all-that-leads-to-hatred",
+          "slug": "l4",
           "title": {
             "ar": "النهي عن كل ما يؤدي إلى البغضاء",
             "en": "Prohibition of All That Leads to Hatred"
@@ -257,7 +257,7 @@
           "page": 104
         },
         {
-          "slug": "05-acts-of-natural-disposition-fitrah",
+          "slug": "l5",
           "title": {
             "ar": "سنن الفطرة",
             "en": "Acts of Natural Disposition (Fitrah)"
@@ -265,7 +265,7 @@
           "page": 107
         },
         {
-          "slug": "06-one-who-guides-to-good-is-like-its-doer",
+          "slug": "l6",
           "title": {
             "ar": "الدال على الخير كفاعله",
             "en": "One Who Guides to Good Is Like Its Doer"
@@ -273,7 +273,7 @@
           "page": 109
         },
         {
-          "slug": "07-how-to-perform-the-prayer",
+          "slug": "l7",
           "title": {
             "ar": "كيفية أداء الصلاة",
             "en": "How to Perform the Prayer"
@@ -281,7 +281,7 @@
           "page": 111
         },
         {
-          "slug": "08-the-importance-of-the-isha-and-fajr-prayers",
+          "slug": "l8",
           "title": {
             "ar": "أهمية صلاة العشاء والصبح",
             "en": "The Importance of the Isha and Fajr Prayers"
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "slug": "05-islamic-creed",
+      "slug": "c5",
       "title": {
         "ar": "العقيدة الإسلامية",
         "en": "Islamic Creed"
@@ -302,7 +302,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-islamic-creed",
+          "slug": "l1",
           "title": {
             "ar": "العقيدة الإسلامية",
             "en": "Islamic Creed"
@@ -310,7 +310,7 @@
           "page": 117
         },
         {
-          "slug": "02-moderation-of-the-creed",
+          "slug": "l2",
           "title": {
             "ar": "وسطية العقيدة",
             "en": "Moderation of the Creed"
@@ -318,7 +318,7 @@
           "page": 121
         },
         {
-          "slug": "03-nullifiers-of-faith",
+          "slug": "l3",
           "title": {
             "ar": "نواقض الإيمان",
             "en": "Nullifiers of Faith"
@@ -326,7 +326,7 @@
           "page": 124
         },
         {
-          "slug": "04-shirk-polytheism",
+          "slug": "l4",
           "title": {
             "ar": "الشرك",
             "en": "Shirk (Polytheism)"
@@ -334,7 +334,7 @@
           "page": 126
         },
         {
-          "slug": "05-examples-of-shirk",
+          "slug": "l5",
           "title": {
             "ar": "نماذج من الشرك",
             "en": "Examples of Shirk"
@@ -342,7 +342,7 @@
           "page": 128
         },
         {
-          "slug": "06-ruqyah-and-amulets",
+          "slug": "l6",
           "title": {
             "ar": "الرقى والتمائم",
             "en": "Ruqyah and Amulets"
@@ -352,7 +352,7 @@
       ]
     },
     {
-      "slug": "06-the-family-in-islamic-law",
+      "slug": "c6",
       "title": {
         "ar": "الأسرة في التشريع الإسلامي",
         "en": "The Family in Islamic Law"
@@ -363,7 +363,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-status-of-the-family-in-islam",
+          "slug": "l1",
           "title": {
             "ar": "مكانة الأسرة في الإسلام",
             "en": "The Status of the Family in Islam"
@@ -371,7 +371,7 @@
           "page": 134
         },
         {
-          "slug": "02-islams-objectives-in-forming-the-family",
+          "slug": "l2",
           "title": {
             "ar": "مقاصد الإسلام من تكوين الأسرة",
             "en": "Islam's Objectives in Forming the Family"
@@ -379,7 +379,7 @@
           "page": 136
         },
         {
-          "slug": "03-aspects-of-islams-care-for-the-family",
+          "slug": "l3",
           "title": {
             "ar": "من مظاهر عناية الإسلام بالأسرة",
             "en": "Aspects of Islam's Care for the Family"
@@ -387,7 +387,7 @@
           "page": 140
         },
         {
-          "slug": "04-marriage",
+          "slug": "l4",
           "title": {
             "ar": "الزواج",
             "en": "Marriage"
@@ -395,7 +395,7 @@
           "page": 145
         },
         {
-          "slug": "05-choosing-a-wife",
+          "slug": "l5",
           "title": {
             "ar": "اختيار الزوجة",
             "en": "Choosing a Wife"
@@ -403,7 +403,7 @@
           "page": 148
         },
         {
-          "slug": "06-the-engagement",
+          "slug": "l6",
           "title": {
             "ar": "الخطبة",
             "en": "The Engagement"
@@ -411,7 +411,7 @@
           "page": 150
         },
         {
-          "slug": "07-pillars-of-marriage",
+          "slug": "l7",
           "title": {
             "ar": "أركان الزواج",
             "en": "Pillars of Marriage"
@@ -419,7 +419,7 @@
           "page": 153
         },
         {
-          "slug": "08-marital-rights",
+          "slug": "l8",
           "title": {
             "ar": "الحقوق الزوجية",
             "en": "Marital Rights"
@@ -427,7 +427,7 @@
           "page": 159
         },
         {
-          "slug": "09-threats-to-the-family",
+          "slug": "l9",
           "title": {
             "ar": "مهددات الأسرة",
             "en": "Threats to the Family"
@@ -435,7 +435,7 @@
           "page": 163
         },
         {
-          "slug": "10-jurisprudence-of-puberty",
+          "slug": "l10",
           "title": {
             "ar": "فقه البلوغ",
             "en": "Jurisprudence of Puberty"
@@ -443,7 +443,7 @@
           "page": 165
         },
         {
-          "slug": "11-rulings-on-womens-bleeding",
+          "slug": "l11",
           "title": {
             "ar": "أحكام الدماء للنساء",
             "en": "Rulings on Women's Bleeding"
@@ -451,7 +451,7 @@
           "page": 169
         },
         {
-          "slug": "12-istihadah-and-postnatal-bleeding",
+          "slug": "l12",
           "title": {
             "ar": "الاستحاضة والنفاس",
             "en": "Istihadah and Postnatal Bleeding"
@@ -461,7 +461,7 @@
       ]
     },
     {
-      "slug": "07-the-prophets-biography-and-islamic-ethics",
+      "slug": "c7",
       "title": {
         "ar": "السيرة والأخلاق الإسلامية",
         "en": "The Prophet's Biography and Islamic Ethics"
@@ -472,7 +472,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-the-battle-of-mutah",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة عن غزوة مؤتة",
             "en": "Introduction to the Battle of Mu'tah"
@@ -480,7 +480,7 @@
           "page": 176
         },
         {
-          "slug": "02-the-course-of-the-battle-and-its-outcome",
+          "slug": "l2",
           "title": {
             "ar": "سير المعركة ونتيجتها",
             "en": "The Course of the Battle and Its Outcome"
@@ -488,7 +488,7 @@
           "page": 180
         },
         {
-          "slug": "03-the-battle-of-hunayn",
+          "slug": "l3",
           "title": {
             "ar": "غزوة حنين",
             "en": "The Battle of Hunayn"
@@ -496,7 +496,7 @@
           "page": 186
         },
         {
-          "slug": "04-the-events-of-the-battle",
+          "slug": "l4",
           "title": {
             "ar": "مجريات أحداث الغزوة",
             "en": "The Events of the Battle"
@@ -504,7 +504,7 @@
           "page": 190
         },
         {
-          "slug": "05-imam-abu-hanifa-al-numan",
+          "slug": "l5",
           "title": {
             "ar": "الإمام أبو حنيفة النعمان",
             "en": "Imam Abu Hanifa Al-Nu'man"
@@ -512,7 +512,7 @@
           "page": 195
         },
         {
-          "slug": "06-imam-malik-ibn-anas",
+          "slug": "l6",
           "title": {
             "ar": "الإمام مالك بن أنس",
             "en": "Imam Malik ibn Anas"
@@ -520,7 +520,7 @@
           "page": 200
         },
         {
-          "slug": "07-tolerance",
+          "slug": "l7",
           "title": {
             "ar": "التسامح",
             "en": "Tolerance"
@@ -529,7 +529,7 @@
           "image": "clickview/high-international-day-of-peace-cover.jpg"
         },
         {
-          "slug": "08-reconciling-between-people",
+          "slug": "l8",
           "title": {
             "ar": "إصلاح ذات البين",
             "en": "Reconciling between People"

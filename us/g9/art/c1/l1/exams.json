@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "art",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-art-unit-01-formal-elements-01-composition-quiz",
+      "title": "Quiz: Composition",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq01",
+          "type": "mcq",
+          "question": "Composition is how parts of an artwork are:",
+          "options": [
+            "arranged",
+            "priced",
+            "framed only",
+            "signed"
+          ],
+          "answer": "arranged",
+          "explanation": "Arrangement."
+        },
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq02",
+          "type": "true_false",
+          "question": "A focal point draws the viewer's eye.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Emphasis."
+        },
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq03",
+          "type": "fill_blank",
+          "question": "Arranging elements to balance an artwork is good ___.",
+          "answer": "composition",
+          "explanation": "Composition."
+        },
+        {
+          "id": "g9-art-unit-01-formal-elements-01-composition-lq04",
+          "type": "short_answer",
+          "question": "Name one principle of composition.",
+          "answer": "e.g., balance, contrast, focal point, or rule of thirds.",
+          "explanation": "Composition."
+        }
+      ]
+    }
+  ]
+}

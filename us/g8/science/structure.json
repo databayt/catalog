@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-forces-motion",
+      "slug": "c1",
       "title": {
         "en": "Forces & Motion"
       },
       "lessons": [
         {
-          "slug": "01-newtons-laws",
+          "slug": "l1",
           "title": {
             "en": "Newton's Laws of Motion"
           }
         },
         {
-          "slug": "02-gravity",
+          "slug": "l2",
           "title": {
             "en": "Gravity & Motion"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-earth-space",
+      "slug": "c2",
       "title": {
         "en": "Earth & Space Systems"
       },
       "lessons": [
         {
-          "slug": "01-plate-tectonics",
+          "slug": "l1",
           "title": {
             "en": "Plate Tectonics"
           }
         },
         {
-          "slug": "02-solar-system",
+          "slug": "l2",
           "title": {
             "en": "The Solar System & Universe"
           }

@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-tajweed",
+      "slug": "c1",
       "title": {
         "ar": "التجويد",
         "en": "Tajweed (Quranic Recitation Rules)"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-natural-elongation",
+          "slug": "l1",
           "title": {
             "ar": "المد الطبيعي",
             "en": "Natural Elongation"
@@ -40,7 +40,7 @@
           "page": 6
         },
         {
-          "slug": "02-branch-elongation",
+          "slug": "l2",
           "title": {
             "ar": "المد الفرعي",
             "en": "Branch (Secondary) Elongation"
@@ -48,7 +48,7 @@
           "page": 10
         },
         {
-          "slug": "03-general-articulation-points",
+          "slug": "l3",
           "title": {
             "ar": "مخارج الحروف العامة",
             "en": "General Articulation Points of Letters"
@@ -56,7 +56,7 @@
           "page": 13
         },
         {
-          "slug": "04-third-articulation-point-tongue",
+          "slug": "l4",
           "title": {
             "ar": "المخرج الثالث (اللسان)",
             "en": "The Third Articulation Point (The Tongue)"
@@ -64,7 +64,7 @@
           "page": 16
         },
         {
-          "slug": "05-fourth-fifth-articulation-points",
+          "slug": "l5",
           "title": {
             "ar": "المخرج الرابع والخامس: الشفتان والخيشوم",
             "en": "The Fourth and Fifth Articulation Points: The Lips and the Nasal Cavity"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-quran",
+      "slug": "c2",
       "title": {
         "ar": "القرآن الكريم",
         "en": "The Noble Quran"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-surah-ad-dukhan",
+          "slug": "l1",
           "title": {
             "ar": "سورة الدخان",
             "en": "Surah Ad-Dukhan"
@@ -93,7 +93,7 @@
           "page": 22
         },
         {
-          "slug": "02-denial-of-resurrection",
+          "slug": "l2",
           "title": {
             "ar": "إنكار المشركين للبعث",
             "en": "The Polytheists' Denial of the Resurrection"
@@ -101,7 +101,7 @@
           "page": 35
         },
         {
-          "slug": "03-recompense-of-polytheists",
+          "slug": "l3",
           "title": {
             "ar": "جزاء المشركين يوم القيامة",
             "en": "The Recompense of the Polytheists on the Day of Resurrection"
@@ -109,7 +109,7 @@
           "page": 38
         },
         {
-          "slug": "04-recompense-of-the-righteous",
+          "slug": "l4",
           "title": {
             "ar": "جزاء المتقين يوم القيامة",
             "en": "The Recompense of the Righteous on the Day of Resurrection"
@@ -117,7 +117,7 @@
           "page": 41
         },
         {
-          "slug": "05-surah-al-jathiyah",
+          "slug": "l5",
           "title": {
             "ar": "سورة الجاثية",
             "en": "Surah Al-Jathiyah"
@@ -125,7 +125,7 @@
           "page": 45
         },
         {
-          "slug": "06-evidence-of-allahs-oneness",
+          "slug": "l6",
           "title": {
             "ar": "الأدلة على وحدانية الله وقدرته",
             "en": "Evidence of Allah's Oneness and Power"
@@ -133,7 +133,7 @@
           "page": 46
         },
         {
-          "slug": "07-threat-to-deniers",
+          "slug": "l7",
           "title": {
             "ar": "تهديد المكذبين بآيات الله",
             "en": "The Threat to Those Who Deny Allah's Signs"
@@ -141,7 +141,7 @@
           "page": 49
         },
         {
-          "slug": "08-blessings-upon-servants",
+          "slug": "l8",
           "title": {
             "ar": "من نعم الله على عباده",
             "en": "Among Allah's Blessings upon His Servants"
@@ -149,7 +149,7 @@
           "page": 52
         },
         {
-          "slug": "09-blessings-upon-children-of-israel",
+          "slug": "l9",
           "title": {
             "ar": "من نعم الله على بني إسرائيل",
             "en": "Among Allah's Blessings upon the Children of Israel"
@@ -157,7 +157,7 @@
           "page": 55
         },
         {
-          "slug": "10-virtue-and-greatness-of-allah",
+          "slug": "l10",
           "title": {
             "ar": "فضل وكبرياء الله",
             "en": "The Virtue and Greatness of Allah"
@@ -165,7 +165,7 @@
           "page": 59
         },
         {
-          "slug": "11-recompense-believers-disbelievers",
+          "slug": "l11",
           "title": {
             "ar": "جزاء المؤمنين والكافرين بالبعث",
             "en": "The Recompense of Believers and Disbelievers Regarding the Resurrection"
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "slug": "03-prophetic-hadiths",
+      "slug": "c3",
       "title": {
         "ar": "الأحاديث النبوية",
         "en": "The Prophetic Hadiths"
@@ -186,7 +186,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-leaving-what-doesnt-concern-you",
+          "slug": "l1",
           "title": {
             "ar": "ترك الاشتغال بما لا يعني",
             "en": "Refraining from What Does Not Concern One"
@@ -194,7 +194,7 @@
           "page": 68
         },
         {
-          "slug": "02-love-of-believers",
+          "slug": "l2",
           "title": {
             "ar": "حب المؤمنين من الإيمان",
             "en": "Love of Fellow Believers Is Part of Faith"
@@ -202,7 +202,7 @@
           "page": 71
         },
         {
-          "slug": "03-who-is-the-muslim",
+          "slug": "l3",
           "title": {
             "ar": "مَنْ المسلم",
             "en": "Who Is the [True] Muslim"
@@ -210,7 +210,7 @@
           "page": 74
         },
         {
-          "slug": "04-religion-is-sincere-advice",
+          "slug": "l4",
           "title": {
             "ar": "الدين النصيحة",
             "en": "Religion Is Sincere Advice"
@@ -218,7 +218,7 @@
           "page": 77
         },
         {
-          "slug": "05-warning-against-hatred",
+          "slug": "l5",
           "title": {
             "ar": "التحذير من كل ما يؤدي إلى البغضاء",
             "en": "Warning Against All That Leads to Hatred"
@@ -226,7 +226,7 @@
           "page": 80
         },
         {
-          "slug": "06-honoring-the-elderly",
+          "slug": "l6",
           "title": {
             "ar": "إكرام المسنين",
             "en": "Honoring the Elderly"
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "slug": "04-aqeedah",
+      "slug": "c4",
       "title": {
         "ar": "العقيدة",
         "en": "Islamic Creed"
@@ -247,7 +247,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-shubah-la-ilaha-illallah",
+          "slug": "l1",
           "title": {
             "ar": "شعبة لا إله إلا الله",
             "en": "The Branch of \"There Is No God but Allah\""
@@ -255,7 +255,7 @@
           "page": 88
         },
         {
-          "slug": "02-love-of-allah-and-messenger",
+          "slug": "l2",
           "title": {
             "ar": "محبة الله ورسوله صلى الله عليه وسلم",
             "en": "Love of Allah and His Messenger"
@@ -263,7 +263,7 @@
           "page": 92
         },
         {
-          "slug": "03-fear-of-allah",
+          "slug": "l3",
           "title": {
             "ar": "الخوف من الله تعالى",
             "en": "Fear of Allah the Exalted"
@@ -271,7 +271,7 @@
           "page": 96
         },
         {
-          "slug": "04-hope-in-allah",
+          "slug": "l4",
           "title": {
             "ar": "الرجاء من الله جل جلاله",
             "en": "Hope in Allah"
@@ -279,7 +279,7 @@
           "page": 99
         },
         {
-          "slug": "05-worship",
+          "slug": "l5",
           "title": {
             "ar": "العبادة",
             "en": "Worship ('Ibadah)"
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "slug": "05-fiqh",
+      "slug": "c5",
       "title": {
         "ar": "الفقه",
         "en": "Islamic Jurisprudence"
@@ -300,7 +300,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-hajj",
+          "slug": "l1",
           "title": {
             "ar": "الحج",
             "en": "Hajj (The Pilgrimage)"
@@ -308,7 +308,7 @@
           "page": 108
         },
         {
-          "slug": "02-hajj-times-and-conditions",
+          "slug": "l2",
           "title": {
             "ar": "مواقيت الحج وشروطه",
             "en": "The Times of Hajj and Its Conditions"
@@ -316,7 +316,7 @@
           "page": 112
         },
         {
-          "slug": "03-pillars-of-hajj-1",
+          "slug": "l3",
           "title": {
             "ar": "أركان الحج (١)",
             "en": "The Pillars of Hajj (1)"
@@ -324,7 +324,7 @@
           "page": 116
         },
         {
-          "slug": "04-pillars-of-hajj-2",
+          "slug": "l4",
           "title": {
             "ar": "أركان الحج (٢)",
             "en": "The Pillars of Hajj (2)"
@@ -332,7 +332,7 @@
           "page": 120
         },
         {
-          "slug": "05-obligations-of-hajj",
+          "slug": "l5",
           "title": {
             "ar": "واجبات الحج",
             "en": "The Obligations of Hajj"
@@ -340,7 +340,7 @@
           "page": 123
         },
         {
-          "slug": "06-method-of-performing-hajj",
+          "slug": "l6",
           "title": {
             "ar": "كيفية أداء الحج",
             "en": "The Method of Performing Hajj"
@@ -348,7 +348,7 @@
           "page": 126
         },
         {
-          "slug": "07-umrah",
+          "slug": "l7",
           "title": {
             "ar": "العمرة",
             "en": "Umrah"
@@ -356,7 +356,7 @@
           "page": 131
         },
         {
-          "slug": "08-visiting-the-prophets-city",
+          "slug": "l8",
           "title": {
             "ar": "زيارة مدينة رسول الله صلى الله عليه وسلم",
             "en": "Visiting the City of the Messenger of Allah"
@@ -366,7 +366,7 @@
       ]
     },
     {
-      "slug": "06-prophetic-biography",
+      "slug": "c6",
       "title": {
         "ar": "السيرة النبوية",
         "en": "The Prophetic Biography"
@@ -377,7 +377,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-expeditions-before-badr",
+          "slug": "l1",
           "title": {
             "ar": "السرايا قبل موقعة بدر الكبرى",
             "en": "The Expeditions Before the Battle of Badr al-Kubra"
@@ -385,7 +385,7 @@
           "page": 141
         },
         {
-          "slug": "02-battle-of-badr",
+          "slug": "l2",
           "title": {
             "ar": "غزوة بدر",
             "en": "The Battle of Badr"
@@ -393,7 +393,7 @@
           "page": 145
         },
         {
-          "slug": "03-soldiers-of-the-merciful",
+          "slug": "l3",
           "title": {
             "ar": "دور جنود الرحمن في النصر يوم الفرقان",
             "en": "The Role of the Soldiers of the Merciful in the Victory on the Day of Al-Furqan"
@@ -401,7 +401,7 @@
           "page": 147
         },
         {
-          "slug": "04-battle-of-uhud",
+          "slug": "l4",
           "title": {
             "ar": "معركة أحد",
             "en": "The Battle of Uhud"
@@ -409,7 +409,7 @@
           "page": 153
         },
         {
-          "slug": "05-muslim-army-departure",
+          "slug": "l5",
           "title": {
             "ar": "خروج جيش المسلمين لملاقاة العدو",
             "en": "The Muslim Army's Departure to Confront the Enemy"
@@ -417,7 +417,7 @@
           "page": 157
         },
         {
-          "slug": "06-events-of-the-battle",
+          "slug": "l6",
           "title": {
             "ar": "أحداث المعركة",
             "en": "Events of the Battle"
@@ -425,7 +425,7 @@
           "page": 160
         },
         {
-          "slug": "07-courage-and-steadfastness",
+          "slug": "l7",
           "title": {
             "ar": "شجاعة رسول الله صلى الله عليه وسلم وثباته",
             "en": "The Courage and Steadfastness of the Messenger of Allah"
@@ -433,7 +433,7 @@
           "page": 164
         },
         {
-          "slug": "08-divine-signs-at-uhud",
+          "slug": "l8",
           "title": {
             "ar": "الآيات الربانية الخارقة في «أحد»",
             "en": "The Extraordinary Divine Signs at Uhud"
@@ -441,7 +441,7 @@
           "page": 169
         },
         {
-          "slug": "09-umm-salamah",
+          "slug": "l9",
           "title": {
             "ar": "أم سلمة رضي الله عنها",
             "en": "Umm Salamah, May Allah Be Pleased with Her"

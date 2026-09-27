@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g8-uae-unit-01-uae-world-02-coexistence-quiz",
+      "title": "Quiz: Tolerance & Coexistence",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-uae-unit-01-uae-world-02-coexistence-lq01",
+          "type": "mcq",
+          "question": "Coexistence means different groups living:",
+          "options": [
+            "peacefully together",
+            "apart in conflict",
+            "in fear",
+            "separately only"
+          ],
+          "answer": "peacefully together",
+          "explanation": "Coexistence."
+        },
+        {
+          "id": "g8-uae-unit-01-uae-world-02-coexistence-lq02",
+          "type": "true_false",
+          "question": "The UAE promotes religious and cultural tolerance.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tolerance."
+        },
+        {
+          "id": "g8-uae-unit-01-uae-world-02-coexistence-lq03",
+          "type": "fill_blank",
+          "question": "The peaceful living together of diverse people is ___.",
+          "answer": "coexistence",
+          "explanation": "Coexistence."
+        },
+        {
+          "id": "g8-uae-unit-01-uae-world-02-coexistence-lq04",
+          "type": "short_answer",
+          "question": "Why does the UAE value coexistence?",
+          "answer": "Because its population is diverse and unity brings strength.",
+          "explanation": "Coexistence."
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-sudan-history-1821-1885",
+      "slug": "c1",
       "title": {
         "ar": "من تاريخ السودان (1821 - 1885م)",
         "en": "From Sudan's History (1821-1885)"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-turco-egyptian-conquest",
+          "slug": "l1",
           "title": {
             "ar": "الغزو التركي المصري للسودان",
             "en": "The Turco-Egyptian Conquest of Sudan"
@@ -40,7 +40,7 @@
           "page": 8
         },
         {
-          "slug": "02-turco-egyptian-administration",
+          "slug": "l2",
           "title": {
             "ar": "الحكم والإدارة في العهد التركي - المصري",
             "en": "Governance and Administration in the Turco-Egyptian Era"
@@ -48,7 +48,7 @@
           "page": 21
         },
         {
-          "slug": "03-successors-muhammad-ali",
+          "slug": "l3",
           "title": {
             "ar": "السودان في عهد خلفاء محمد علي (عباس وسعيد) 1848-1863م",
             "en": "Sudan under the Successors of Muhammad Ali (Abbas and Said), 1848-1863"
@@ -56,7 +56,7 @@
           "page": 15
         },
         {
-          "slug": "04-khedive-ismail-era",
+          "slug": "l4",
           "title": {
             "ar": "عهد الخديوي إسماعيل في السودان (1863-1879م)",
             "en": "The Era of Khedive Ismail in Sudan (1863-1879)"
@@ -64,7 +64,7 @@
           "page": 18
         },
         {
-          "slug": "05-gordon-governorship",
+          "slug": "l5",
           "title": {
             "ar": "حكمدارية غردون في السودان (1877-1879م)",
             "en": "Gordon's Governorship in Sudan (1877-1879)"
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "slug": "02-abbasid-islamic-state",
+      "slug": "c2",
       "title": {
         "ar": "من التاريخ الإسلامي: الدولة الإسلامية في العصر العباسي",
         "en": "From Islamic History: The Islamic State in the Abbasid Era"
@@ -85,7 +85,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-rise-of-abbasid-state",
+          "slug": "l1",
           "title": {
             "ar": "قيام الدولة العباسية (132-656هـ / 750-1258م)",
             "en": "The Rise of the Abbasid State (132-656 AH / 750-1258 CE)"
@@ -93,7 +93,7 @@
           "page": 28
         },
         {
-          "slug": "02-abbasid-caliphs",
+          "slug": "l2",
           "title": {
             "ar": "خلفاء الدولة العباسية",
             "en": "The Caliphs of the Abbasid State"
@@ -101,7 +101,7 @@
           "page": 30
         },
         {
-          "slug": "03-abbasid-conquests",
+          "slug": "l3",
           "title": {
             "ar": "فتوحات الدولة العباسية",
             "en": "The Conquests of the Abbasid State"
@@ -109,7 +109,7 @@
           "page": 34
         },
         {
-          "slug": "04-abbasid-decline-fall",
+          "slug": "l4",
           "title": {
             "ar": "ضعف الدولة العباسية وسقوطها",
             "en": "The Weakness and Fall of the Abbasid State"
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "slug": "03-african-history",
+      "slug": "c3",
       "title": {
         "ar": "من تاريخ إفريقيا",
         "en": "From African History"
@@ -130,7 +130,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-independent-states-north-africa",
+          "slug": "l1",
           "title": {
             "ar": "ظهور الدويلات المستقلة في شمال إفريقيا",
             "en": "The Emergence of Independent States in North Africa"
@@ -138,7 +138,7 @@
           "page": 42
         },
         {
-          "slug": "02-fatimid-state",
+          "slug": "l2",
           "title": {
             "ar": "الدولة الفاطمية",
             "en": "The Fatimid State"
@@ -146,7 +146,7 @@
           "page": 45
         },
         {
-          "slug": "03-islamic-kingdoms-east-africa",
+          "slug": "l3",
           "title": {
             "ar": "نماذج للممالك الإسلامية في شرق إفريقيا",
             "en": "Examples of Islamic Kingdoms in East Africa"
@@ -154,7 +154,7 @@
           "page": 47
         },
         {
-          "slug": "04-islamic-kingdoms-central-west-sudan",
+          "slug": "l4",
           "title": {
             "ar": "نماذج للممالك الإسلامية في السودان الأوسط والغربي",
             "en": "Examples of Islamic Kingdoms in Central and Western Sudan (Bilad al-Sudan)"
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "slug": "04-european-renaissance",
+      "slug": "c4",
       "title": {
         "ar": "النهضة الأوربية",
         "en": "The European Renaissance"
@@ -175,7 +175,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-literary-artistic-renaissance-europe",
+          "slug": "l1",
           "title": {
             "ar": "النهضة الأدبية والفنية في أوربا",
             "en": "The Literary and Artistic Renaissance in Europe"
@@ -183,7 +183,7 @@
           "page": 58
         },
         {
-          "slug": "02-european-geographical-discoveries",
+          "slug": "l2",
           "title": {
             "ar": "حركة الكشوف الجغرافية الأوربية",
             "en": "The European Movement of Geographical Discoveries"
@@ -191,7 +191,7 @@
           "page": 61
         },
         {
-          "slug": "03-industrial-revolution",
+          "slug": "l3",
           "title": {
             "ar": "الثورة الصناعية",
             "en": "The Industrial Revolution"
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "slug": "05-national-education",
+      "slug": "c5",
       "title": {
         "ar": "التربية الوطنية",
         "en": "National Education"
@@ -213,7 +213,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-state-of-sudan",
+          "slug": "l1",
           "title": {
             "ar": "دولة السودان",
             "en": "The State of Sudan"
@@ -221,7 +221,7 @@
           "page": 71
         },
         {
-          "slug": "02-elements-of-the-state",
+          "slug": "l2",
           "title": {
             "ar": "مقومات الدولة",
             "en": "Elements of the State"
@@ -229,7 +229,7 @@
           "page": 72
         },
         {
-          "slug": "03-state-features-functions",
+          "slug": "l3",
           "title": {
             "ar": "مميزات ومهام الدولة",
             "en": "Features and Functions of the State"
@@ -237,7 +237,7 @@
           "page": 74
         },
         {
-          "slug": "04-rights-duties-citizenship",
+          "slug": "l4",
           "title": {
             "ar": "حقوق وواجبات المواطنة",
             "en": "Rights and Duties of Citizenship"

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "computer-science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g6-com-unit-01-algorithms-02-programming-quiz",
+      "title": "Quiz: Simple Programs",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-com-unit-01-algorithms-02-programming-lq01",
+          "type": "mcq",
+          "question": "A bug in a program is a(n):",
+          "options": [
+            "error",
+            "insect pet",
+            "colour",
+            "sound"
+          ],
+          "answer": "error",
+          "explanation": "Bug = error."
+        },
+        {
+          "id": "g6-com-unit-01-algorithms-02-programming-lq02",
+          "type": "true_false",
+          "question": "Debugging means finding and fixing errors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Debugging."
+        },
+        {
+          "id": "g6-com-unit-01-algorithms-02-programming-lq03",
+          "type": "fill_blank",
+          "question": "Repeating a set of instructions is called a ___.",
+          "answer": "loop",
+          "explanation": "Loops."
+        },
+        {
+          "id": "g6-com-unit-01-algorithms-02-programming-lq04",
+          "type": "short_answer",
+          "question": "What is debugging?",
+          "answer": "Finding and fixing mistakes in a program.",
+          "explanation": "Debugging."
+        }
+      ]
+    }
+  ]
+}

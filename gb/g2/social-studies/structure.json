@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-community",
+      "slug": "c1",
       "title": {
         "en": "My Community & Helpers"
       },
       "lessons": [
         {
-          "slug": "01-community",
+          "slug": "l1",
           "title": {
             "en": "My Community"
           }
         },
         {
-          "slug": "02-responsibility",
+          "slug": "l2",
           "title": {
             "en": "Responsibility"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-respect",
+      "slug": "c2",
       "title": {
         "en": "Respect & Honesty"
       },
       "lessons": [
         {
-          "slug": "01-respect",
+          "slug": "l1",
           "title": {
             "en": "Respecting Others"
           }
         },
         {
-          "slug": "02-honesty",
+          "slug": "l2",
           "title": {
             "en": "Honesty & Trust"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "history",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-his-unit-01-germany-02-nazi-rise-quiz",
+      "title": "Quiz: The Rise of the Nazis",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq01",
+          "type": "mcq",
+          "question": "Hitler became Chancellor of Germany in:",
+          "options": [
+            "1933",
+            "1914",
+            "1945",
+            "1989"
+          ],
+          "answer": "1933",
+          "explanation": "Nazi takeover."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq02",
+          "type": "true_false",
+          "question": "The Nazis established a one-party dictatorship.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Totalitarian state."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq03",
+          "type": "fill_blank",
+          "question": "Nazi propaganda was led by Joseph ___.",
+          "answer": "Goebbels",
+          "explanation": "Propaganda."
+        },
+        {
+          "id": "g10-his-unit-01-germany-02-nazi-rise-lq04",
+          "type": "short_answer",
+          "question": "How did the Nazis consolidate power after 1933?",
+          "answer": "Through laws (Enabling Act), terror, propaganda and removing opposition.",
+          "explanation": "Consolidation."
+        }
+      ]
+    }
+  ]
+}

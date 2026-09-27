@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "music",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g6-mus-unit-01-elements-01-pulse-rhythm-lq01",
+      "type": "mcq",
+      "question": "The steady beat in music is the:",
+      "options": [
+        "pulse",
+        "colour",
+        "title",
+        "volume"
+      ],
+      "answer": "pulse",
+      "explanation": "Beat/pulse."
+    },
+    {
+      "id": "g6-mus-unit-01-elements-01-pulse-rhythm-lq02",
+      "type": "true_false",
+      "question": "Rhythm is a pattern of long and short sounds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Rhythm."
+    },
+    {
+      "id": "g6-mus-unit-01-elements-01-pulse-rhythm-lq03",
+      "type": "fill_blank",
+      "question": "The steady beat you can clap along to is the ___.",
+      "answer": "pulse",
+      "explanation": "Pulse."
+    },
+    {
+      "id": "g6-mus-unit-01-elements-01-pulse-rhythm-lq04",
+      "type": "short_answer",
+      "question": "What is the difference between pulse and rhythm?",
+      "answer": "Pulse is the steady beat; rhythm is the pattern of sounds over it.",
+      "explanation": "Pulse vs rhythm."
+    }
+  ]
+}

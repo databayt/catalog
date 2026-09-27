@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-seerah",
+      "slug": "c1",
       "title": {
         "ar": "السيرة النبوية والأحاديث"
       },
       "lessons": [
         {
-          "slug": "01-bithah",
+          "slug": "l1",
           "title": {
             "ar": "البعثة والدعوة"
           }
         },
         {
-          "slug": "02-hadith",
+          "slug": "l2",
           "title": {
             "ar": "الأحاديث النبوية"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-worship",
+      "slug": "c2",
       "title": {
         "ar": "العبادات"
       },
       "lessons": [
         {
-          "slug": "01-prayer",
+          "slug": "l1",
           "title": {
             "ar": "الصلاة"
           }
         },
         {
-          "slug": "02-zakah",
+          "slug": "l2",
           "title": {
             "ar": "الزكاة والصدقة"
           }

@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-drawing",
+      "slug": "c1",
       "title": {
         "ar": "المجال الأول: الرسم"
       },
@@ -28,32 +28,32 @@
       "image": "clickview/elementary-elements-of-art-cover.jpg",
       "lessons": [
         {
-          "slug": "01-drawing-components",
+          "slug": "l1",
           "title": {
             "ar": "مكونات المجال"
           }
         },
         {
-          "slug": "02-simple-shapes",
+          "slug": "l2",
           "title": {
             "ar": "دراسة الأشكال البسيطة"
           }
         },
         {
-          "slug": "03-light-shadows",
+          "slug": "l3",
           "title": {
             "ar": "الظل والضوء"
           },
           "image": "clickview/elementary-light-cover.jpg"
         },
         {
-          "slug": "04-plant-drawing",
+          "slug": "l4",
           "title": {
             "ar": "رسم النبات"
           }
         },
         {
-          "slug": "05-artistic-composition",
+          "slug": "l5",
           "title": {
             "ar": "التكوين الفني"
           }
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "slug": "02-design-decoration",
+      "slug": "c2",
       "title": {
         "ar": "المجال الثاني: التصميم والفرخزة"
       },
@@ -69,32 +69,32 @@
       "image": "clickview/elementary-artistic-techniques-cover.jpg",
       "lessons": [
         {
-          "slug": "01-design-components",
+          "slug": "l1",
           "title": {
             "ar": "مكونات المجال"
           }
         },
         {
-          "slug": "02-design-elements",
+          "slug": "l2",
           "title": {
             "ar": "عناصر التصميم الفني"
           }
         },
         {
-          "slug": "03-design-basics",
+          "slug": "l3",
           "title": {
             "ar": "أسس التصميم الفني"
           }
         },
         {
-          "slug": "04-sudanese-artistic-heritage",
+          "slug": "l4",
           "title": {
             "ar": "التراث الفني السوداني"
           },
           "image": "clickview/elementary-world-art-cover.jpg"
         },
         {
-          "slug": "05-decorative-patterns",
+          "slug": "l5",
           "title": {
             "ar": "الفرخزة"
           },

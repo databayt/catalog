@@ -1,0 +1,102 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c7"
+  },
+  "exams": [
+    {
+      "id": "g10-eng-unit-07-quiz",
+      "title": "اختبار - Unit 7",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-07-q01",
+          "type": "mcq",
+          "question": "What does 'inference' mean in reading comprehension?",
+          "options": [
+            "Drawing conclusions from clues in the text",
+            "Finding exact quotes",
+            "Reading quickly",
+            "Summarizing"
+          ],
+          "answer": "Drawing conclusions from clues in the text",
+          "explanation": "Inference means deducing meaning not directly stated in text."
+        },
+        {
+          "id": "g10-eng-unit-07-q02",
+          "type": "true_false",
+          "question": "Critical reading involves evaluating the author's purpose and bias.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Critical reading means analyzing and evaluating, not just understanding."
+        },
+        {
+          "id": "g10-eng-unit-07-q03",
+          "type": "fill_blank",
+          "question": "The ___ of a text is the author's attitude toward the subject.",
+          "answer": "tone",
+          "explanation": "Tone reflects the author's attitude through word choice and style."
+        },
+        {
+          "id": "g10-eng-unit-07-q04",
+          "type": "short_answer",
+          "question": "What is the difference between implicit and explicit information?",
+          "answer": "Explicit: directly stated in text. Implicit: suggested or implied, must be inferred.",
+          "explanation": "Both types of information are important in reading comprehension."
+        }
+      ]
+    },
+    {
+      "id": "g10-eng-unit-07-quiz-2",
+      "title": "اختبار - Unit 7",
+      "durationMinutes": 20,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-eng-unit-07-q01",
+          "type": "mcq",
+          "question": "What does 'inference' mean in reading comprehension?",
+          "options": [
+            "Drawing conclusions from clues in the text",
+            "Finding exact quotes",
+            "Reading quickly",
+            "Summarizing"
+          ],
+          "answer": "Drawing conclusions from clues in the text",
+          "explanation": "Inference means deducing meaning not directly stated in text."
+        },
+        {
+          "id": "g10-eng-unit-07-q02",
+          "type": "true_false",
+          "question": "Critical reading involves evaluating the author's purpose and bias.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Critical reading means analyzing and evaluating, not just understanding."
+        },
+        {
+          "id": "g10-eng-unit-07-q03",
+          "type": "fill_blank",
+          "question": "The ___ of a text is the author's attitude toward the subject.",
+          "answer": "tone",
+          "explanation": "Tone reflects the author's attitude through word choice and style."
+        },
+        {
+          "id": "g10-eng-unit-07-q04",
+          "type": "short_answer",
+          "question": "What is the difference between implicit and explicit information?",
+          "answer": "Explicit: directly stated in text. Implicit: suggested or implied, must be inferred.",
+          "explanation": "Both types of information are important in reading comprehension."
+        }
+      ]
+    }
+  ]
+}

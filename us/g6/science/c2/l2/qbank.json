@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq01",
+      "type": "mcq",
+      "question": "Heat transfer through direct contact is:",
+      "options": [
+        "radiation",
+        "conduction",
+        "convection",
+        "reflection"
+      ],
+      "answer": "conduction",
+      "explanation": "Touching transfer."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq02",
+      "type": "true_false",
+      "question": "Convection occurs in liquids and gases.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Fluid movement."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq03",
+      "type": "fill_blank",
+      "question": "Energy from the Sun reaches Earth by ___.",
+      "answer": "radiation",
+      "explanation": "No medium needed."
+    },
+    {
+      "id": "g6-sci-unit-02-matter-energy-02-energy-lq04",
+      "type": "short_answer",
+      "question": "Give an example of conduction.",
+      "answer": "e.g., a metal spoon heating up in hot soup.",
+      "explanation": "Conduction example."
+    }
+  ]
+}

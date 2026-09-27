@@ -1,0 +1,234 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-02-quiz",
+      "title": "اختبار - الأسس واللوغاريتمات",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-mat-unit-02-01-base-and-power-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-01-base-and-power-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-02-multiplying-powers-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-02-multiplying-powers-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-03-power-of-power-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-03-power-of-power-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-04-multiplying-different-bases-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-04-multiplying-different-bases-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        },
+        {
+          "id": "g9-mat-unit-02-05-dividing-powers-q01",
+          "type": "mcq",
+          "question": "ما قيمة 2³?",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "4"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8."
+        },
+        {
+          "id": "g9-mat-unit-02-05-dividing-powers-q02",
+          "type": "true_false",
+          "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-c2-1",
+      "title": "الأسس واللوغاريتمات",
+      "kind": "test",
+      "durationMinutes": 25,
+      "questions": [
+        {
+          "id": "ee36f53f",
+          "type": "mcq",
+          "question": "ما قيمة 2³؟",
+          "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+          ],
+          "answer": "8",
+          "explanation": "2³ = 2 × 2 × 2 = 8"
+        },
+        {
+          "id": "6cbef3c9",
+          "type": "fill_blank",
+          "question": "أي عدد للقوة الصفر يساوي ___",
+          "answer": "1",
+          "explanation": "أي عدد غير الصفر مرفوع للقوة صفر يساوي 1"
+        },
+        {
+          "id": "ada269c1",
+          "type": "true_false",
+          "question": "a⁻ⁿ = 1/aⁿ",
+          "answer": true,
+          "explanation": "الأس السالب ينقل الحد إلى المقام"
+        },
+        {
+          "id": "0d5dda04",
+          "type": "mcq",
+          "question": "ما هو اللوغاريتم؟",
+          "options": [
+            "عملية عكسية للرفع للقوة",
+            "نوع من الجذور",
+            "معادلة خطية",
+            "دالة تربيعية"
+          ],
+          "answer": "عملية عكسية للرفع للقوة",
+          "explanation": "لوغاريتم العدد x للأساس a هو الأس الذي نرفع a له للحصول على x"
+        },
+        {
+          "id": "26349431",
+          "type": "short_answer",
+          "question": "إذا كان 2ˣ = 8، فما قيمة x؟",
+          "answer": "3",
+          "explanation": "x = log₂(8) = 3 لأن 2³ = 8"
+        },
+        {
+          "id": "6817776b",
+          "type": "true_false",
+          "question": "log(1) = 0 لأي أساس",
+          "answer": true,
+          "explanation": "log_a(1) = 0 لأن a⁰ = 1"
+        },
+        {
+          "id": "c8d7f9ed",
+          "type": "fill_blank",
+          "question": "اللوغاريتم العشري هو لوغاريتم للأساس ___",
+          "answer": "10",
+          "explanation": "اللوغاريتم العشري يرمز له بـ log ويعني الأساس 10"
+        },
+        {
+          "id": "d8c14190",
+          "type": "mcq",
+          "question": "ما قيمة aᵐ × aⁿ؟",
+          "options": [
+            "a^(m+n)",
+            "a^(m-n)",
+            "a^(mn)",
+            "a^(m/n)"
+          ],
+          "answer": "a^(m+n)",
+          "explanation": "عند ضرب قوى بنفس الأساس، نجمع الأسس"
+        },
+        {
+          "id": "fa0ed59a",
+          "type": "short_answer",
+          "question": "احسب: (2³)²",
+          "answer": "64",
+          "explanation": "(2³)² = 2⁶ = 64"
+        },
+        {
+          "id": "569a9d4a",
+          "type": "true_false",
+          "question": "log(a × b) = log(a) + log(b)",
+          "answer": true,
+          "explanation": "لوغاريتم الضرب = مجموع اللوغاريتمات"
+        }
+      ]
+    }
+  ]
+}

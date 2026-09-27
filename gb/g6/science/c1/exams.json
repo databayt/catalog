@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "science",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g6-sci-unit-01-living-exam",
+      "title": "Exam: Living Things & Evolution",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq01",
+          "type": "mcq",
+          "question": "Scientists group living things to:",
+          "options": [
+            "confuse us",
+            "organise and study them",
+            "make art",
+            "cook"
+          ],
+          "answer": "organise and study them",
+          "explanation": "Classification."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq02",
+          "type": "true_false",
+          "question": "Mammals feed their young with milk.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Mammal trait."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq03",
+          "type": "fill_blank",
+          "question": "Animals with a backbone are ___.",
+          "answer": "vertebrates",
+          "explanation": "Have spines."
+        },
+        {
+          "id": "g6-sci-unit-01-living-01-classification-lq04",
+          "type": "short_answer",
+          "question": "Name two animal groups.",
+          "answer": "e.g., mammals and birds (also fish, reptiles, amphibians).",
+          "explanation": "Classification."
+        },
+        {
+          "id": "g6-sci-unit-01-living-02-evolution-lq01",
+          "type": "mcq",
+          "question": "Adaptation helps a living thing:",
+          "options": [
+            "survive in its habitat",
+            "fly always",
+            "grow taller only",
+            "change colour daily"
+          ],
+          "answer": "survive in its habitat",
+          "explanation": "Suited features."
+        },
+        {
+          "id": "g6-sci-unit-01-living-02-evolution-lq02",
+          "type": "true_false",
+          "question": "Fossils provide evidence for evolution.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Record of change."
+        },
+        {
+          "id": "g6-sci-unit-01-living-02-evolution-lq03",
+          "type": "fill_blank",
+          "question": "Inherited features suited to the environment show ___.",
+          "answer": "adaptation",
+          "explanation": "Adaptation."
+        },
+        {
+          "id": "g6-sci-unit-01-living-02-evolution-lq04",
+          "type": "short_answer",
+          "question": "How does a camel's body suit the desert?",
+          "answer": "e.g., stores fat in its hump, has long lashes against sand.",
+          "explanation": "Adaptation example."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-02-functions-02-systems-quiz",
+      "title": "Quiz: Systems of Equations",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-02-functions-02-systems-lq01",
+          "type": "mcq",
+          "question": "A system with no solution has lines that are:",
+          "options": [
+            "intersecting",
+            "parallel",
+            "the same",
+            "perpendicular"
+          ],
+          "answer": "parallel",
+          "explanation": "No intersection."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-02-systems-lq02",
+          "type": "true_false",
+          "question": "Substitution and elimination both solve systems.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Two methods."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-02-systems-lq03",
+          "type": "fill_blank",
+          "question": "If y=x and y=2x, they intersect at x = ___.",
+          "answer": "0",
+          "explanation": "x=2x → x=0."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-02-systems-lq04",
+          "type": "short_answer",
+          "question": "What does the solution to a system represent graphically?",
+          "answer": "The point(s) where the lines intersect.",
+          "explanation": "Intersection."
+        }
+      ]
+    }
+  ]
+}

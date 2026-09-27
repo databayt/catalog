@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-families-communities",
+      "slug": "c1",
       "title": {
         "en": "Families & Communities"
       },
       "lessons": [
         {
-          "slug": "01-families",
+          "slug": "l1",
           "title": {
             "en": "Families"
           }
         },
         {
-          "slug": "02-community-helpers",
+          "slug": "l2",
           "title": {
             "en": "Community Helpers"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-maps",
+      "slug": "c2",
       "title": {
         "en": "Maps & My World"
       },
       "lessons": [
         {
-          "slug": "01-maps",
+          "slug": "l1",
           "title": {
             "en": "Maps and Globes"
           }
         },
         {
-          "slug": "02-directions",
+          "slug": "l2",
           "title": {
             "en": "Directions"
           }

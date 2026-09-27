@@ -1,0 +1,250 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "c4"
+  },
+  "questions": [
+    {
+      "id": "g9-isl-unit-04-01-greatness-of-allah-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-01-greatness-of-allah-q02",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-02-reflecting-on-horizons-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-02-reflecting-on-horizons-q02",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-q02",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-04-scientific-miracle-embryo-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-04-scientific-miracle-embryo-q02",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-05-meaning-of-hawqala-q01",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-05-meaning-of-hawqala-q02",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-01-greatness-of-allah-q01-2",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-01-greatness-of-allah-q02-2",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-02-reflecting-on-horizons-q01-2",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-02-reflecting-on-horizons-q02-2",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-q01-2",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-03-reflecting-on-self-q02-2",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-04-scientific-miracle-embryo-q01-2",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-04-scientific-miracle-embryo-q02-2",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    },
+    {
+      "id": "g9-isl-unit-04-05-meaning-of-hawqala-q01-2",
+      "type": "mcq",
+      "question": "كم عدد أركان الإيمان؟",
+      "options": [
+        "ستة",
+        "خمسة",
+        "سبعة",
+        "أربعة"
+      ],
+      "answer": "ستة",
+      "explanation": "أركان الإيمان ستة: الله، الملائكة، الكتب، الرسل، اليوم الآخر، القدر."
+    },
+    {
+      "id": "g9-isl-unit-04-05-meaning-of-hawqala-q02-2",
+      "type": "true_false",
+      "question": "الإيمان بالقضاء والقدر ركن من أركان الإيمان.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "الإيمان بالقدر خيره وشره ركن سادس من أركان الإيمان."
+    }
+  ]
+}

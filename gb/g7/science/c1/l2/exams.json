@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-sci-unit-01-biology-02-organ-systems-quiz",
+      "title": "Quiz: Organ Systems",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-sci-unit-01-biology-02-organ-systems-lq01",
+          "type": "mcq",
+          "question": "The organ that pumps blood is the:",
+          "options": [
+            "lung",
+            "heart",
+            "kidney",
+            "brain"
+          ],
+          "answer": "heart",
+          "explanation": "Circulatory organ."
+        },
+        {
+          "id": "g7-sci-unit-01-biology-02-organ-systems-lq02",
+          "type": "true_false",
+          "question": "Organs are made of tissues.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tissue → organ."
+        },
+        {
+          "id": "g7-sci-unit-01-biology-02-organ-systems-lq03",
+          "type": "fill_blank",
+          "question": "The breathing organs are the ___.",
+          "answer": "lungs",
+          "explanation": "Respiratory."
+        },
+        {
+          "id": "g7-sci-unit-01-biology-02-organ-systems-lq04",
+          "type": "short_answer",
+          "question": "Put these in order: cell, organ, tissue, system.",
+          "answer": "Cell, tissue, organ, system.",
+          "explanation": "Levels of organisation."
+        }
+      ]
+    }
+  ]
+}

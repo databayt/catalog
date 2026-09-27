@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-characteristics-and-classification-of-living",
+      "slug": "c1",
       "title": {
         "en": "Characteristics and Classification of Living Organisms"
       },
       "lessons": [
         {
-          "slug": "01-characteristics-and-classification-of-living-organisms",
+          "slug": "l1",
           "title": {
             "en": "Characteristics and Classification of Living Organisms"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-organisation-of-the-organism",
+      "slug": "c2",
       "title": {
         "en": "Organisation of the Organism"
       },
       "lessons": [
         {
-          "slug": "01-organisation-of-the-organism",
+          "slug": "l1",
           "title": {
             "en": "Organisation of the Organism"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-movement-into-and-out-of-cells",
+      "slug": "c3",
       "title": {
         "en": "Movement into and out of Cells"
       },
       "lessons": [
         {
-          "slug": "01-movement-into-and-out-of-cells",
+          "slug": "l1",
           "title": {
             "en": "Movement into and out of Cells"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-biological-molecules",
+      "slug": "c4",
       "title": {
         "en": "Biological Molecules"
       },
       "lessons": [
         {
-          "slug": "01-biological-molecules",
+          "slug": "l1",
           "title": {
             "en": "Biological Molecules"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-enzymes",
+      "slug": "c5",
       "title": {
         "en": "Enzymes"
       },
       "lessons": [
         {
-          "slug": "01-enzymes",
+          "slug": "l1",
           "title": {
             "en": "Enzymes"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-plant-nutrition",
+      "slug": "c6",
       "title": {
         "en": "Plant Nutrition"
       },
       "lessons": [
         {
-          "slug": "01-plant-nutrition",
+          "slug": "l1",
           "title": {
             "en": "Plant Nutrition"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-human-nutrition",
+      "slug": "c7",
       "title": {
         "en": "Human Nutrition"
       },
       "lessons": [
         {
-          "slug": "01-human-nutrition",
+          "slug": "l1",
           "title": {
             "en": "Human Nutrition"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-transport-in-plants",
+      "slug": "c8",
       "title": {
         "en": "Transport in Plants"
       },
       "lessons": [
         {
-          "slug": "01-transport-in-plants",
+          "slug": "l1",
           "title": {
             "en": "Transport in Plants"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-transport-in-animals",
+      "slug": "c9",
       "title": {
         "en": "Transport in Animals"
       },
       "lessons": [
         {
-          "slug": "01-transport-in-animals",
+          "slug": "l1",
           "title": {
             "en": "Transport in Animals"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-diseases-and-immunity",
+      "slug": "c10",
       "title": {
         "en": "Diseases and Immunity"
       },
       "lessons": [
         {
-          "slug": "01-diseases-and-immunity",
+          "slug": "l1",
           "title": {
             "en": "Diseases and Immunity"
           }
@@ -161,13 +161,13 @@
       ]
     },
     {
-      "slug": "11-gas-exchange-in-humans",
+      "slug": "c11",
       "title": {
         "en": "Gas Exchange in Humans"
       },
       "lessons": [
         {
-          "slug": "01-gas-exchange-in-humans",
+          "slug": "l1",
           "title": {
             "en": "Gas Exchange in Humans"
           }
@@ -175,13 +175,13 @@
       ]
     },
     {
-      "slug": "12-respiration",
+      "slug": "c12",
       "title": {
         "en": "Respiration"
       },
       "lessons": [
         {
-          "slug": "01-respiration",
+          "slug": "l1",
           "title": {
             "en": "Respiration"
           }
@@ -189,13 +189,13 @@
       ]
     },
     {
-      "slug": "13-excretion-in-humans",
+      "slug": "c13",
       "title": {
         "en": "Excretion in Humans"
       },
       "lessons": [
         {
-          "slug": "01-excretion-in-humans",
+          "slug": "l1",
           "title": {
             "en": "Excretion in Humans"
           }
@@ -203,13 +203,13 @@
       ]
     },
     {
-      "slug": "14-coordination-and-response",
+      "slug": "c14",
       "title": {
         "en": "Coordination and Response"
       },
       "lessons": [
         {
-          "slug": "01-coordination-and-response",
+          "slug": "l1",
           "title": {
             "en": "Coordination and Response"
           }
@@ -217,13 +217,13 @@
       ]
     },
     {
-      "slug": "15-drugs",
+      "slug": "c15",
       "title": {
         "en": "Drugs"
       },
       "lessons": [
         {
-          "slug": "01-drugs",
+          "slug": "l1",
           "title": {
             "en": "Drugs"
           }
@@ -231,13 +231,13 @@
       ]
     },
     {
-      "slug": "16-reproduction",
+      "slug": "c16",
       "title": {
         "en": "Reproduction"
       },
       "lessons": [
         {
-          "slug": "01-reproduction",
+          "slug": "l1",
           "title": {
             "en": "Reproduction"
           }
@@ -245,13 +245,13 @@
       ]
     },
     {
-      "slug": "17-inheritance",
+      "slug": "c17",
       "title": {
         "en": "Inheritance"
       },
       "lessons": [
         {
-          "slug": "01-inheritance",
+          "slug": "l1",
           "title": {
             "en": "Inheritance"
           }
@@ -259,13 +259,13 @@
       ]
     },
     {
-      "slug": "18-variation-and-selection",
+      "slug": "c18",
       "title": {
         "en": "Variation and Selection"
       },
       "lessons": [
         {
-          "slug": "01-variation-and-selection",
+          "slug": "l1",
           "title": {
             "en": "Variation and Selection"
           }
@@ -273,13 +273,13 @@
       ]
     },
     {
-      "slug": "19-organisms-and-their-environment",
+      "slug": "c19",
       "title": {
         "en": "Organisms and their Environment"
       },
       "lessons": [
         {
-          "slug": "01-organisms-and-their-environment",
+          "slug": "l1",
           "title": {
             "en": "Organisms and their Environment"
           }
@@ -287,13 +287,13 @@
       ]
     },
     {
-      "slug": "20-human-influences-on-ecosystems",
+      "slug": "c20",
       "title": {
         "en": "Human Influences on Ecosystems"
       },
       "lessons": [
         {
-          "slug": "01-human-influences-on-ecosystems",
+          "slug": "l1",
           "title": {
             "en": "Human Influences on Ecosystems"
           }
@@ -301,13 +301,13 @@
       ]
     },
     {
-      "slug": "21-biotechnology-and-genetic-modification",
+      "slug": "c21",
       "title": {
         "en": "Biotechnology and Genetic Modification"
       },
       "lessons": [
         {
-          "slug": "01-biotechnology-and-genetic-modification",
+          "slug": "l1",
           "title": {
             "en": "Biotechnology and Genetic Modification"
           }

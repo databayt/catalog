@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "computer-science",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g2-com-unit-02-online-safety-01-safety-quiz",
+      "title": "Quiz: Staying Safe Online",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-com-unit-02-online-safety-01-safety-lq01",
+          "type": "mcq",
+          "question": "If something online makes you uncomfortable, you should:",
+          "options": [
+            "tell a trusted adult",
+            "keep it secret",
+            "reply angrily",
+            "share more"
+          ],
+          "answer": "tell a trusted adult",
+          "explanation": "Online safety."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-01-safety-lq02",
+          "type": "true_false",
+          "question": "You should keep personal information private online.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Privacy."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-01-safety-lq03",
+          "type": "fill_blank",
+          "question": "A secret word that protects your account is a ___.",
+          "answer": "password",
+          "explanation": "Passwords."
+        },
+        {
+          "id": "g2-com-unit-02-online-safety-01-safety-lq04",
+          "type": "short_answer",
+          "question": "Name one rule for staying safe online.",
+          "answer": "e.g., keep personal info private and tell an adult if worried.",
+          "explanation": "Online safety."
+        }
+      ]
+    }
+  ]
+}

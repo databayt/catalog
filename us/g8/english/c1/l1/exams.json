@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-01-reading-01-central-idea-quiz",
+      "title": "Quiz: Central Idea & Summary",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq01",
+          "type": "mcq",
+          "question": "The central idea is the:",
+          "options": [
+            "smallest detail",
+            "main point of a text",
+            "author's name",
+            "first word"
+          ],
+          "answer": "main point of a text",
+          "explanation": "Central/main idea."
+        },
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq02",
+          "type": "true_false",
+          "question": "A good summary includes your personal opinion.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": false,
+          "explanation": "Summaries are objective."
+        },
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq03",
+          "type": "fill_blank",
+          "question": "Restating the main points briefly is a ___.",
+          "answer": "summary",
+          "explanation": "Summarizing."
+        },
+        {
+          "id": "g8-eng-unit-01-reading-01-central-idea-lq04",
+          "type": "short_answer",
+          "question": "How is central idea different from a topic?",
+          "answer": "Topic is the subject; central idea is the main point made about it.",
+          "explanation": "Topic vs idea."
+        }
+      ]
+    }
+  ]
+}

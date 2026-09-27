@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-02-add-sub-100-exam",
+      "title": "Exam: Addition & Subtraction within 100",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq01",
+          "type": "mcq",
+          "question": "47 + 38 = ?",
+          "options": [
+            "75",
+            "85",
+            "86",
+            "84"
+          ],
+          "answer": "85",
+          "explanation": "47 + 38 = 85 (regroup the ones)."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq02",
+          "type": "true_false",
+          "question": "When ones add to more than 9, you regroup a ten.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carry to the tens place."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq03",
+          "type": "fill_blank",
+          "question": "56 + ___ = 90.",
+          "answer": "34",
+          "explanation": "90 - 56 = 34."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-01-add-2digit-lq04",
+          "type": "short_answer",
+          "question": "Add 29 + 29 using doubles.",
+          "answer": "58",
+          "explanation": "Double 29 = 58."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq01",
+          "type": "mcq",
+          "question": "72 - 47 = ?",
+          "options": [
+            "25",
+            "35",
+            "26",
+            "24"
+          ],
+          "answer": "25",
+          "explanation": "Regroup: 72 - 47 = 25."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq02",
+          "type": "true_false",
+          "question": "63 - 0 = 63.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Subtracting zero changes nothing."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq03",
+          "type": "fill_blank",
+          "question": "80 - ___ = 35.",
+          "answer": "45",
+          "explanation": "80 - 35 = 45."
+        },
+        {
+          "id": "g2-mat-unit-02-add-sub-100-02-subtract-2digit-lq04",
+          "type": "short_answer",
+          "question": "Explain regrouping in 50 - 24.",
+          "answer": "Borrow a ten from 5 tens, making 4 tens 10 ones, then subtract.",
+          "explanation": "Regroup to subtract ones."
+        }
+      ]
+    }
+  ]
+}

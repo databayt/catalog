@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading-literature",
+      "slug": "c1",
       "title": {
         "en": "Reading: Literature"
       },
       "lessons": [
         {
-          "slug": "01-character-traits",
+          "slug": "l1",
           "title": {
             "en": "Character Traits"
           }
         },
         {
-          "slug": "02-theme",
+          "slug": "l2",
           "title": {
             "en": "Identifying Theme"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-informational",
+      "slug": "c2",
       "title": {
         "en": "Reading: Informational Text"
       },
       "lessons": [
         {
-          "slug": "01-text-features",
+          "slug": "l1",
           "title": {
             "en": "Text Features"
           }
         },
         {
-          "slug": "02-main-idea-details",
+          "slug": "l2",
           "title": {
             "en": "Main Idea & Details"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-writing",
+      "slug": "c3",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-opinion",
+          "slug": "l1",
           "title": {
             "en": "Opinion Writing"
           }
         },
         {
-          "slug": "02-parts-of-speech",
+          "slug": "l2",
           "title": {
             "en": "Adjectives & Adverbs"
           }

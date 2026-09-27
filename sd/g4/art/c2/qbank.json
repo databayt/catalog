@@ -1,0 +1,98 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g4",
+    "subject": "art",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g4-at-u2de-q001",
+      "type": "mcq",
+      "question": "اختر: ما هي الألوان الثانوية؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q002",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الرسم من أشهر أنواع الفن",
+      "answer": true,
+      "explanation": "The statement about المجال الثاني: التصميم والفرخزة is True."
+    },
+    {
+      "id": "g4-at-u2de-q003",
+      "type": "fill_blank",
+      "question": "أكمل: الخط العربي يُقسم إلى عدة أنواع مثل ___",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q004",
+      "type": "short_answer",
+      "question": "أجب: اشرح ما هو الفن بمفهومك الخاص",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q005",
+      "type": "mcq",
+      "question": "اختر: ما هي الألوان الأساسية؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q006",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الفن يعبر عن الأحاسيس والمشاعر",
+      "answer": true,
+      "explanation": "The statement about المجال الثاني: التصميم والفرخزة is True."
+    },
+    {
+      "id": "g4-at-u2de-q007",
+      "type": "fill_blank",
+      "question": "أكمل: الفن ___ يعتمد على التعبير الحر",
+      "answer": "sample answer",
+      "explanation": "Complete the sentence about المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q008",
+      "type": "short_answer",
+      "question": "أجب: اشرح ما هو الفن بمفهومك الخاص",
+      "answer": "Expected response about the topic",
+      "explanation": "A good answer explains the concept from المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q009",
+      "type": "mcq",
+      "question": "اختر: كيف يختلط اللون الأحمر والأزرق؟",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": "A",
+      "explanation": "This is the correct answer for المجال الثاني: التصميم والفرخزة."
+    },
+    {
+      "id": "g4-at-u2de-q010",
+      "type": "true_false",
+      "question": "صحيح أم خطأ: الألوان الأساسية ثلاثة فقط",
+      "answer": true,
+      "explanation": "The statement about المجال الثاني: التصميم والفرخزة is True."
+    }
+  ]
+}

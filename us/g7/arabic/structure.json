@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-syntax",
+      "slug": "c1",
       "title": {
         "ar": "الجملة الاسمية والفعلية"
       },
       "lessons": [
         {
-          "slug": "01-mubtada-khabar",
+          "slug": "l1",
           "title": {
             "ar": "المبتدأ والخبر"
           }
         },
         {
-          "slug": "02-adjective",
+          "slug": "l2",
           "title": {
             "ar": "النعت (الصفة)"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-verbs",
+      "slug": "c2",
       "title": {
         "ar": "الفعل الصحيح والمعتل"
       },
       "lessons": [
         {
-          "slug": "01-sahih",
+          "slug": "l1",
           "title": {
             "ar": "الفعل الصحيح"
           }
         },
         {
-          "slug": "02-mutall",
+          "slug": "l2",
           "title": {
             "ar": "الفعل المعتل"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "social-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g5-uae-unit-01-history-01-founding-quiz",
+      "title": "Quiz: The Founding of the UAE",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq01",
+          "type": "mcq",
+          "question": "The UAE was founded as a union in:",
+          "options": [
+            "1971",
+            "1999",
+            "2001",
+            "1950"
+          ],
+          "answer": "1971",
+          "explanation": "2 December 1971."
+        },
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq02",
+          "type": "true_false",
+          "question": "Sheikh Zayed bin Sultan Al Nahyan was a founding father of the UAE.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Founding father."
+        },
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq03",
+          "type": "fill_blank",
+          "question": "The UAE was formed by uniting seven ___.",
+          "answer": "emirates",
+          "explanation": "Union."
+        },
+        {
+          "id": "g5-uae-unit-01-history-01-founding-lq04",
+          "type": "short_answer",
+          "question": "Who was the founding father and first President of the UAE?",
+          "answer": "Sheikh Zayed bin Sultan Al Nahyan.",
+          "explanation": "UAE founding."
+        }
+      ]
+    }
+  ]
+}

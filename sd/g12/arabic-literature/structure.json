@@ -38,7 +38,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-pre-islamic-era",
+      "slug": "c1",
       "title": {
         "ar": "العصر الجاهلي",
         "en": "The Pre-Islamic (Jahili) Era"
@@ -50,7 +50,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-jahili-social-religious-life",
+          "slug": "l1",
           "title": {
             "ar": "من تاريخ الأدب في العصر الجاهلي - الحياة الاجتماعية والدينية في العصر الجاهلي",
             "en": "From the History of Literature in the Jahili Era: Social and Religious Life in the Jahili Era"
@@ -66,7 +66,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-courage-and-generosity",
+          "slug": "l2",
           "title": {
             "ar": "شجاعة وكرم",
             "en": "Courage and Generosity"
@@ -81,7 +81,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "03-hashim-speech-to-his-people",
+          "slug": "l3",
           "title": {
             "ar": "خطبة هاشم بن عبد مناف في قومه",
             "en": "The Speech of Hashim ibn Abd Manaf to His People"
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "slug": "02-literary-selections-two",
+      "slug": "c2",
       "title": {
         "ar": "مختارات أدبية للقراءة",
         "en": "Literary Selections for Reading"
@@ -110,7 +110,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sayings-of-the-bedouins",
+          "slug": "l1",
           "title": {
             "ar": "من أحاديث الأعراب",
             "en": "From the Sayings of the Bedouins"
@@ -125,7 +125,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-stinginess-greed-regret-1",
+          "slug": "l2",
           "title": {
             "ar": "بخل وطمع وندم (١)",
             "en": "Stinginess, Greed, and Regret (Part 1)"
@@ -140,7 +140,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-stinginess-greed-regret-2",
+          "slug": "l3",
           "title": {
             "ar": "بخل وطمع وندم (٢)",
             "en": "Stinginess, Greed, and Regret (Part 2)"
@@ -155,7 +155,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-language-image-of-nation",
+          "slug": "l4",
           "title": {
             "ar": "اللغة صورة وجود الأمة",
             "en": "Language Is the Image of a Nation's Existence"
@@ -170,7 +170,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-a-skeleton",
+          "slug": "l5",
           "title": {
             "ar": "هيكل عظمي",
             "en": "A Skeleton"
@@ -185,7 +185,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "06-the-green-tree",
+          "slug": "l6",
           "title": {
             "ar": "الشجرة الخضراء",
             "en": "The Green Tree"
@@ -200,7 +200,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-poetry",
+          "slug": "l7",
           "title": {
             "ar": "الشعر",
             "en": "Poetry"
@@ -215,7 +215,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-either-we-read-or",
+          "slug": "l8",
           "title": {
             "ar": "إما أن نقرأ وإما أن نقرأ",
             "en": "Either We Read Or We Read"
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "slug": "03-islamic-era-prophet-caliphs",
+      "slug": "c3",
       "title": {
         "ar": "العصر الإسلامي - عهد الرسول صلى الله عليه وسلم وخلفائه",
         "en": "The Islamic Era: The Age of the Prophet (PBUH) and His Caliphs"
@@ -244,7 +244,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-islam-impact-on-arab-life",
+          "slug": "l1",
           "title": {
             "ar": "من تاريخ الأدب في العصر الإسلامي - أثر الإسلام في الحياة العربية",
             "en": "From the History of Literature in the Islamic Era: The Impact of Islam on Arab Life"
@@ -259,7 +259,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-day-of-al-furqan",
+          "slug": "l2",
           "title": {
             "ar": "يوم الفرقان",
             "en": "The Day of Al-Furqan"
@@ -274,7 +274,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-muawiya-ibn-abi-sufyan",
+          "slug": "l3",
           "title": {
             "ar": "معاوية بن أبي سفيان",
             "en": "Muawiya ibn Abi Sufyan"
@@ -289,7 +289,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-umar-letter-to-abu-musa",
+          "slug": "l4",
           "title": {
             "ar": "كتاب عمر بن الخطاب إلى أبي موسى الأشعري في القضاء",
             "en": "The Letter of Umar ibn al-Khattab to Abu Musa al-Ash'ari on Judgment"
@@ -306,7 +306,7 @@
       ]
     },
     {
-      "slug": "04-literary-selections-four",
+      "slug": "c4",
       "title": {
         "ar": "مختارات أدبية للقراءة",
         "en": "Literary Selections for Reading"
@@ -318,7 +318,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-characteristics-of-islamic-civilization",
+          "slug": "l1",
           "title": {
             "ar": "من خصائص الحضارة الإسلامية",
             "en": "On the Characteristics of Islamic Civilization"
@@ -333,7 +333,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-advice",
+          "slug": "l2",
           "title": {
             "ar": "النصيحة",
             "en": "Advice"
@@ -349,7 +349,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-abu-dulama-and-war",
+          "slug": "l3",
           "title": {
             "ar": "أبو دلامة والحرب",
             "en": "Abu Dulama and War"
@@ -364,7 +364,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-pioneer-of-sociology",
+          "slug": "l4",
           "title": {
             "ar": "رائد علم الاجتماع",
             "en": "The Pioneer of Sociology"
@@ -379,7 +379,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-between-two-sheep",
+          "slug": "l5",
           "title": {
             "ar": "بين خروفين",
             "en": "Between Two Sheep"
@@ -396,7 +396,7 @@
       ]
     },
     {
-      "slug": "05-umayyad-era",
+      "slug": "c5",
       "title": {
         "ar": "العصر الأموي",
         "en": "The Umayyad Era"
@@ -408,7 +408,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-umayyad-literary-history",
+          "slug": "l1",
           "title": {
             "ar": "من تاريخ الأدب في العصر الأموي",
             "en": "From the History of Literature in the Umayyad Era"
@@ -424,7 +424,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-my-soul-knew-its-place",
+          "slug": "l2",
           "title": {
             "ar": "علمت نفسي مكان دوانيا",
             "en": "My Soul Knew Its Own Place"
@@ -439,7 +439,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-and-in-the-soul-there-are-needs",
+          "slug": "l3",
           "title": {
             "ar": "وفي النفس حاجات",
             "en": "And in the Soul There Are Needs"
@@ -454,7 +454,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-letter-of-excuse",
+          "slug": "l4",
           "title": {
             "ar": "رسالة تعذير",
             "en": "A Letter of Excuse"
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "slug": "06-literary-selections-six",
+      "slug": "c6",
       "title": {
         "ar": "مختارات أدبية للقراءة",
         "en": "Literary Selections for Reading"
@@ -483,7 +483,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-on-beauty",
+          "slug": "l1",
           "title": {
             "ar": "في الجمال",
             "en": "On Beauty"
@@ -498,7 +498,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-wasil-ibn-ata-speech-without-ra",
+          "slug": "l2",
           "title": {
             "ar": "خطبة واصل بن عطاء الخالية من حرف الراء",
             "en": "The Speech of Wasil ibn Ata Devoid of the Letter Ra"

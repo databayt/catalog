@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-lesson-1-review-of-grade-11",
+      "slug": "c1",
       "title": {
         "ar": "الدرس الأول: مراجعة (دروس الصف الثاني)",
         "en": "Lesson 1: Review of Grade 11"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review-of-grade-11-lessons",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة دروس الصف الثاني",
             "en": "Review of Grade 11 Lessons"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "slug": "02-lesson-2-a-letter-to-my-son",
+      "slug": "c2",
       "title": {
         "ar": "الدرس الثاني: رسالة إلى ولدي",
         "en": "Lesson 2: A Letter to My Son"
@@ -87,7 +87,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-a-letter-to-my-son-reading",
+          "slug": "l1",
           "title": {
             "ar": "رسالة إلى ولدي (قراءة)",
             "en": "A Letter to My Son (Reading)"
@@ -102,7 +102,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-kana-and-its-sisters-grammar",
+          "slug": "l2",
           "title": {
             "ar": "كان وأخواتها (قواعد)",
             "en": "Kana and Its Sisters (Grammar)"
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "slug": "03-lesson-3-medicine-in-food",
+      "slug": "c3",
       "title": {
         "ar": "الدرس الثالث: الدواء في الغذاء",
         "en": "Lesson 3: Medicine in Food"
@@ -131,7 +131,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-medicine-in-food",
+          "slug": "l1",
           "title": {
             "ar": "الدواء في الغذاء",
             "en": "Medicine in Food"
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "slug": "04-lesson-4-my-beloved-country",
+      "slug": "c4",
       "title": {
         "ar": "الدرس الرابع: بلدي الحبيب",
         "en": "Lesson 4: My Beloved Country"
@@ -161,7 +161,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-my-beloved-country-poem",
+          "slug": "l1",
           "title": {
             "ar": "بلدي الحبيب (قصيدة)",
             "en": "My Beloved Country (Poem)"
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "slug": "05-lesson-5-water-is-life",
+      "slug": "c5",
       "title": {
         "ar": "الدرس الخامس: الماء حياة",
         "en": "Lesson 5: Water Is Life"
@@ -191,7 +191,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-water-is-life-reading",
+          "slug": "l1",
           "title": {
             "ar": "الماء حياة (قراءة)",
             "en": "Water Is Life (Reading)"
@@ -206,7 +206,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-inna-and-its-sisters-grammar",
+          "slug": "l2",
           "title": {
             "ar": "إن وأخواتها (قواعد)",
             "en": "Inna and Its Sisters (Grammar)"
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "slug": "06-lesson-6-wisdom-poetry",
+      "slug": "c6",
       "title": {
         "ar": "الدرس السادس: من شعر الحكمة",
         "en": "Lesson 6: Wisdom Poetry"
@@ -235,7 +235,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-wisdom-poetry-verses",
+          "slug": "l1",
           "title": {
             "ar": "من شعر الحكمة (أبيات شعر)",
             "en": "Wisdom Poetry (Verses)"
@@ -250,7 +250,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-the-absolute-object-grammar",
+          "slug": "l2",
           "title": {
             "ar": "المفعول المطلق (قواعد)",
             "en": "The Absolute Object (Grammar)"
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "slug": "07-lesson-7-printing",
+      "slug": "c7",
       "title": {
         "ar": "الدرس السابع: الطباعة",
         "en": "Lesson 7: Printing"
@@ -279,7 +279,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-printing-reading",
+          "slug": "l1",
           "title": {
             "ar": "الطباعة (قراءة)",
             "en": "Printing (Reading)"
@@ -295,7 +295,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-the-adjective-grammar",
+          "slug": "l2",
           "title": {
             "ar": "النعت (قواعد)",
             "en": "The Adjective (Grammar)"
@@ -312,7 +312,7 @@
       ]
     },
     {
-      "slug": "08-lesson-8-friends",
+      "slug": "c8",
       "title": {
         "ar": "الدرس الثامن: الأصدقاء",
         "en": "Lesson 8: Friends"
@@ -324,7 +324,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-friends-poem",
+          "slug": "l1",
           "title": {
             "ar": "الأصدقاء (قصيدة)",
             "en": "Friends (Poem)"
@@ -339,7 +339,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-the-object-of-purpose-grammar",
+          "slug": "l2",
           "title": {
             "ar": "المفعول لأجله (قواعد)",
             "en": "The Object of Purpose (Grammar)"
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "slug": "09-lesson-9-the-most-generous-of-people",
+      "slug": "c9",
       "title": {
         "ar": "الدرس التاسع: أكرم الناس",
         "en": "Lesson 9: The Most Generous of People"
@@ -368,7 +368,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-most-generous-of-people-reading",
+          "slug": "l1",
           "title": {
             "ar": "أكرم الناس (قراءة)",
             "en": "The Most Generous of People (Reading)"
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "slug": "10-lesson-10-oil",
+      "slug": "c10",
       "title": {
         "ar": "الدرس العاشر: النفط",
         "en": "Lesson 10: Oil"
@@ -398,7 +398,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-oil-reading",
+          "slug": "l1",
           "title": {
             "ar": "النفط (قراءة)",
             "en": "Oil (Reading)"
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "slug": "11-lesson-11-mercy",
+      "slug": "c11",
       "title": {
         "ar": "الدرس الحادي عشر: الرحمة",
         "en": "Lesson 11: Mercy"
@@ -428,7 +428,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-mercy-prose-literature",
+          "slug": "l1",
           "title": {
             "ar": "الرحمة (أدب – نثر)",
             "en": "Mercy (Prose Literature)"
@@ -443,7 +443,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-the-adverbial-object-grammar",
+          "slug": "l2",
           "title": {
             "ar": "المفعول فيه (قواعد)",
             "en": "The Adverbial Object (Grammar)"
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "slug": "12-lesson-12-review",
+      "slug": "c12",
       "title": {
         "ar": "الدرس الثاني عشر: مراجعة لما سبق",
         "en": "Lesson 12: Review"
@@ -472,7 +472,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review-of-previous-lessons",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة لما سبق",
             "en": "Review of Previous Lessons"
@@ -490,7 +490,7 @@
       ]
     },
     {
-      "slug": "13-lesson-13-the-king-and-the-guard",
+      "slug": "c13",
       "title": {
         "ar": "الدرس الثالث عشر: الملك والحارس",
         "en": "Lesson 13: The King and the Guard"
@@ -502,7 +502,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-king-and-the-guard-reading",
+          "slug": "l1",
           "title": {
             "ar": "الملك والحارس (قراءة)",
             "en": "The King and the Guard (Reading)"
@@ -517,7 +517,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-the-circumstantial-accusative-grammar",
+          "slug": "l2",
           "title": {
             "ar": "الحال (قواعد)",
             "en": "The Circumstantial Accusative (Grammar)"
@@ -534,7 +534,7 @@
       ]
     },
     {
-      "slug": "14-lesson-14-womens-education-in-sudan",
+      "slug": "c14",
       "title": {
         "ar": "الدرس الرابع عشر: تعليم المرأة في السودان",
         "en": "Lesson 14: Women's Education in Sudan"
@@ -546,7 +546,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-womens-education-in-sudan-reading",
+          "slug": "l1",
           "title": {
             "ar": "تعليم المرأة في السودان (قراءة)",
             "en": "Women's Education in Sudan (Reading)"
@@ -563,7 +563,7 @@
       ]
     },
     {
-      "slug": "15-lesson-15-daughter-of-today-mother-of-tomorrow",
+      "slug": "c15",
       "title": {
         "ar": "الدرس الخامس عشر: ابنة اليوم وأم الغد",
         "en": "Lesson 15: Daughter of Today, Mother of Tomorrow"
@@ -575,7 +575,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-daughter-of-today-mother-of-tomorrow-poem",
+          "slug": "l1",
           "title": {
             "ar": "ابنة اليوم وأم الغد (قصيدة)",
             "en": "Daughter of Today, Mother of Tomorrow (Poem)"
@@ -590,7 +590,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-the-attached-pronoun-grammar",
+          "slug": "l2",
           "title": {
             "ar": "الضمير المتصل (قواعد)",
             "en": "The Attached Pronoun (Grammar)"
@@ -607,7 +607,7 @@
       ]
     },
     {
-      "slug": "16-lesson-16-people-in-the-age-of-speed",
+      "slug": "c16",
       "title": {
         "ar": "الدرس السادس عشر: الإنسان في عصر السرعة",
         "en": "Lesson 16: People in the Age of Speed"
@@ -619,7 +619,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-people-in-the-age-of-speed",
+          "slug": "l1",
           "title": {
             "ar": "الإنسان في عصر السرعة",
             "en": "People in the Age of Speed"
@@ -637,7 +637,7 @@
       ]
     },
     {
-      "slug": "17-lesson-17-coffee",
+      "slug": "c17",
       "title": {
         "ar": "الدرس السابع عشر: البن",
         "en": "Lesson 17: Coffee"
@@ -649,7 +649,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-coffee-reading",
+          "slug": "l1",
           "title": {
             "ar": "البن (قراءة)",
             "en": "Coffee (Reading)"
@@ -665,7 +665,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-the-genitive-construction-grammar",
+          "slug": "l2",
           "title": {
             "ar": "الإضافة (قواعد)",
             "en": "The Genitive Construction (Grammar)"
@@ -682,7 +682,7 @@
       ]
     },
     {
-      "slug": "18-lesson-18-homeland-of-the-stars",
+      "slug": "c18",
       "title": {
         "ar": "الدرس الثامن عشر: وطن النجوم",
         "en": "Lesson 18: Homeland of the Stars"
@@ -694,7 +694,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-homeland-of-the-stars-poem",
+          "slug": "l1",
           "title": {
             "ar": "وطن النجوم (قصيدة)",
             "en": "Homeland of the Stars (Poem)"
@@ -712,7 +712,7 @@
       ]
     },
     {
-      "slug": "19-lesson-19-if-you-want-to-live-safely",
+      "slug": "c19",
       "title": {
         "ar": "الدرس التاسع عشر: إذا أردت أن تعيش سالماً",
         "en": "Lesson 19: If You Want to Live Safely"
@@ -724,7 +724,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-if-you-want-to-live-safely-reading",
+          "slug": "l1",
           "title": {
             "ar": "إذا أردت أن تعيش سالماً (قراءة)",
             "en": "If You Want to Live Safely (Reading)"
@@ -739,7 +739,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-the-exception-construction-grammar",
+          "slug": "l2",
           "title": {
             "ar": "أسلوب الاستثناء (قواعد)",
             "en": "The Exception Construction (Grammar)"
@@ -756,7 +756,7 @@
       ]
     },
     {
-      "slug": "20-lesson-20-o-my-fellow-human",
+      "slug": "c20",
       "title": {
         "ar": "الدرس العشرون: يا أخي الإنسان",
         "en": "Lesson 20: O My Fellow Human"
@@ -768,7 +768,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-o-my-fellow-human-poem",
+          "slug": "l1",
           "title": {
             "ar": "يا أخي الإنسان (قصيدة)",
             "en": "O My Fellow Human (Poem)"
@@ -783,7 +783,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-conditional-particles-grammar",
+          "slug": "l2",
           "title": {
             "ar": "أدوات الشرط (قواعد)",
             "en": "Conditional Particles (Grammar)"
@@ -801,7 +801,7 @@
       ]
     },
     {
-      "slug": "21-lesson-21-physical-exercise",
+      "slug": "c21",
       "title": {
         "ar": "الدرس الحادي والعشرون: رياضة الجسم",
         "en": "Lesson 21: Physical Exercise"
@@ -813,7 +813,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-physical-exercise-reading",
+          "slug": "l1",
           "title": {
             "ar": "رياضة الجسم (قراءة)",
             "en": "Physical Exercise (Reading)"
@@ -831,7 +831,7 @@
       ]
     },
     {
-      "slug": "22-lesson-22-the-vocal-apparatus",
+      "slug": "c22",
       "title": {
         "ar": "الدرس الثاني والعشرون: الجهاز الصوتي",
         "en": "Lesson 22: The Vocal Apparatus"
@@ -843,7 +843,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-vocal-apparatus-reading",
+          "slug": "l1",
           "title": {
             "ar": "الجهاز الصوتي (قراءة)",
             "en": "The Vocal Apparatus (Reading)"
@@ -859,7 +859,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-the-vocative-grammar",
+          "slug": "l2",
           "title": {
             "ar": "المنادى (قواعد)",
             "en": "The Vocative (Grammar)"
@@ -876,7 +876,7 @@
       ]
     },
     {
-      "slug": "23-lesson-23-using-dictionaries",
+      "slug": "c23",
       "title": {
         "ar": "الدرس الثالث والعشرون: الكشف في المعاجم",
         "en": "Lesson 23: Using Dictionaries"
@@ -888,7 +888,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-using-dictionaries",
+          "slug": "l1",
           "title": {
             "ar": "الكشف في المعاجم",
             "en": "Using Dictionaries"
@@ -906,7 +906,7 @@
       ]
     },
     {
-      "slug": "24-lesson-24-final-review",
+      "slug": "c24",
       "title": {
         "ar": "الدرس الرابع والعشرون: مراجعة لما سبق",
         "en": "Lesson 24: Final Review"
@@ -918,7 +918,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review-of-previous-lessons",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة لما سبق",
             "en": "Review of Previous Lessons"
@@ -934,7 +934,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-model-examination",
+          "slug": "l2",
           "title": {
             "ar": "امتحان نموذجي",
             "en": "Model Examination"

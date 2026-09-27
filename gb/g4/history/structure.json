@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-roman-britain",
+      "slug": "c1",
       "title": {
         "en": "Roman Britain"
       },
       "lessons": [
         {
-          "slug": "01-roman-invasion",
+          "slug": "l1",
           "title": {
             "en": "The Roman Invasion"
           }
         },
         {
-          "slug": "02-roman-life",
+          "slug": "l2",
           "title": {
             "en": "Roman Life & Legacy"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-ancient-greece",
+      "slug": "c2",
       "title": {
         "en": "Ancient Greece"
       },
       "lessons": [
         {
-          "slug": "01-greek-life",
+          "slug": "l1",
           "title": {
             "en": "Life in Ancient Greece"
           }
         },
         {
-          "slug": "02-greek-legacy",
+          "slug": "l2",
           "title": {
             "en": "Greek Ideas & Legacy"
           }

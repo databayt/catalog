@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-rise-of-nationalism-in-europe",
+      "slug": "c1",
       "title": {
         "en": "The Rise of Nationalism in Europe"
       },
       "lessons": [
         {
-          "slug": "01-rise-of-nationalism-in-europe",
+          "slug": "l1",
           "title": {
             "en": "The Rise of Nationalism in Europe"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-nationalism-in-india",
+      "slug": "c2",
       "title": {
         "en": "Nationalism in India"
       },
       "lessons": [
         {
-          "slug": "01-nationalism-in-india",
+          "slug": "l1",
           "title": {
             "en": "Nationalism in India"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-making-of-a-global-world",
+      "slug": "c3",
       "title": {
         "en": "The Making of a Global World"
       },
       "lessons": [
         {
-          "slug": "01-making-of-a-global-world",
+          "slug": "l1",
           "title": {
             "en": "The Making of a Global World"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-age-of-industrialisation",
+      "slug": "c4",
       "title": {
         "en": "The Age of Industrialisation"
       },
       "lessons": [
         {
-          "slug": "01-age-of-industrialisation",
+          "slug": "l1",
           "title": {
             "en": "The Age of Industrialisation"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-print-culture-and-the-modern-world",
+      "slug": "c5",
       "title": {
         "en": "Print Culture and the Modern World"
       },
       "lessons": [
         {
-          "slug": "01-print-culture-and-the-modern-world",
+          "slug": "l1",
           "title": {
             "en": "Print Culture and the Modern World"
           }

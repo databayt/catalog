@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g6-geo-unit-01-trade-resources-01-resources-quiz",
+      "title": "Quiz: Natural Resources",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq01",
+          "type": "mcq",
+          "question": "Which is a natural resource?",
+          "options": [
+            "plastic toy",
+            "oil",
+            "smartphone",
+            "car"
+          ],
+          "answer": "oil",
+          "explanation": "Raw natural material."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq02",
+          "type": "true_false",
+          "question": "Natural resources include water, minerals and fuels.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Earth's resources."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq03",
+          "type": "fill_blank",
+          "question": "Oil and gas are examples of ___ fuels.",
+          "answer": "fossil",
+          "explanation": "Fossil fuels."
+        },
+        {
+          "id": "g6-geo-unit-01-trade-resources-01-resources-lq04",
+          "type": "short_answer",
+          "question": "Why are some resources called non-renewable?",
+          "answer": "They take millions of years to form and can run out.",
+          "explanation": "Non-renewable."
+        }
+      ]
+    }
+  ]
+}

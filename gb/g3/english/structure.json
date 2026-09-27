@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading Comprehension"
       },
       "lessons": [
         {
-          "slug": "01-inference",
+          "slug": "l1",
           "title": {
             "en": "Inference"
           }
         },
         {
-          "slug": "02-vocabulary",
+          "slug": "l2",
           "title": {
             "en": "Vocabulary in Context"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing & Grammar"
       },
       "lessons": [
         {
-          "slug": "01-paragraphs",
+          "slug": "l1",
           "title": {
             "en": "Paragraphs"
           }
         },
         {
-          "slug": "02-word-classes",
+          "slug": "l2",
           "title": {
             "en": "Nouns, Verbs, Adjectives, Adverbs"
           }

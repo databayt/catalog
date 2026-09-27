@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-grammar",
+      "slug": "c1",
       "title": {
         "ar": "الفاعل والمفعول"
       },
       "lessons": [
         {
-          "slug": "01-subject-object",
+          "slug": "l1",
           "title": {
             "ar": "الفاعل والمفعول به"
           }
         },
         {
-          "slug": "02-punctuation",
+          "slug": "l2",
           "title": {
             "ar": "علامات الترقيم"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-tenses",
+      "slug": "c2",
       "title": {
         "ar": "الأفعال والأزمنة"
       },
       "lessons": [
         {
-          "slug": "01-tenses",
+          "slug": "l1",
           "title": {
             "ar": "الماضي والمضارع والأمر"
           }
         },
         {
-          "slug": "02-conjugation",
+          "slug": "l2",
           "title": {
             "ar": "تصريف الأفعال"
           }

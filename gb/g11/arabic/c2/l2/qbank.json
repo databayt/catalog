@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "arabic",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq01",
+      "type": "mcq",
+      "question": "القافية تتكرر في:",
+      "options": [
+        "نهاية الأبيات",
+        "بدايتها فقط",
+        "وسطها",
+        "العنوان"
+      ],
+      "answer": "نهاية الأبيات",
+      "explanation": "القافية."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq02",
+      "type": "true_false",
+      "question": "الحرف الذي تُبنى عليه القصيدة يسمى الرويّ.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "الرويّ."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq03",
+      "type": "fill_blank",
+      "question": "تكرار حرف معين في أواخر الأبيات يكوّن ___.",
+      "answer": "القافية",
+      "explanation": "القافية."
+    },
+    {
+      "id": "g11-ara-unit-02-arud-02-qafiya-lq04",
+      "type": "short_answer",
+      "question": "ما القافية؟",
+      "answer": "الأصوات المتكررة في أواخر أبيات القصيدة.",
+      "explanation": "القافية."
+    }
+  ]
+}

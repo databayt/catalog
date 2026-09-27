@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-enterprise",
+      "slug": "c1",
       "title": {
         "en": "Enterprise & Marketing"
       },
       "lessons": [
         {
-          "slug": "01-enterprise",
+          "slug": "l1",
           "title": {
             "en": "Enterprise"
           }
         },
         {
-          "slug": "02-marketing",
+          "slug": "l2",
           "title": {
             "en": "The Marketing Mix"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-finance",
+      "slug": "c2",
       "title": {
         "en": "Finance & Operations"
       },
       "lessons": [
         {
-          "slug": "01-finance",
+          "slug": "l1",
           "title": {
             "en": "Business Finance"
           }
         },
         {
-          "slug": "02-operations",
+          "slug": "l2",
           "title": {
             "en": "Operations & People"
           }

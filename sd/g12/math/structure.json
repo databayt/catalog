@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-real-functions-and-limits",
+      "slug": "c1",
       "title": {
         "ar": "الدوال الحقيقية والنهايات",
         "en": "Real Functions and Limits"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-historical-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة تاريخية",
             "en": "Historical Introduction"
@@ -72,7 +72,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-mappings-functions",
+          "slug": "l2",
           "title": {
             "ar": "التطبيق (الدالة)",
             "en": "Mappings (Functions)"
@@ -87,7 +87,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-operations-on-functions",
+          "slug": "l3",
           "title": {
             "ar": "العمليات على الدوال",
             "en": "Operations on Functions"
@@ -102,7 +102,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-limits",
+          "slug": "l4",
           "title": {
             "ar": "النهايات",
             "en": "Limits"
@@ -117,7 +117,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-limits-of-rational-functions",
+          "slug": "l5",
           "title": {
             "ar": "النهايات للدوال الكسرية",
             "en": "Limits of Rational Functions"
@@ -132,7 +132,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-some-important-limits",
+          "slug": "l6",
           "title": {
             "ar": "بعض النهايات المهمة",
             "en": "Some Important Limits"
@@ -147,7 +147,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-limits-of-trigonometric-functions",
+          "slug": "l7",
           "title": {
             "ar": "نهايات الدوال المثلثية",
             "en": "Limits of Trigonometric Functions"
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "slug": "02-differentiation",
+      "slug": "c2",
       "title": {
         "ar": "التفاضل",
         "en": "Differentiation"
@@ -176,7 +176,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-change-and-the-average-rate-of-change",
+          "slug": "l1",
           "title": {
             "ar": "التغير ومتوسط معدل التغير",
             "en": "Change and the Average Rate of Change"
@@ -191,7 +191,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-derivative-of-a-function",
+          "slug": "l2",
           "title": {
             "ar": "مشتقة الدالة",
             "en": "The Derivative of a Function"
@@ -206,7 +206,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "03-finding-the-first-derivative-of-some-functions",
+          "slug": "l3",
           "title": {
             "ar": "إيجاد المشتقة الأولى لبعض الدوال",
             "en": "Finding the First Derivative of Some Functions"
@@ -221,7 +221,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-basic-rules-of-differentiation",
+          "slug": "l4",
           "title": {
             "ar": "القواعد الأساسية للتفاضل",
             "en": "Basic Rules of Differentiation"
@@ -236,7 +236,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-the-function-of-a-function",
+          "slug": "l5",
           "title": {
             "ar": "دالة الدالة",
             "en": "The Function of a Function"
@@ -251,7 +251,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-differentiating-implicit-functions",
+          "slug": "l6",
           "title": {
             "ar": "تفاضل (اشتقاق) الدوال المعرفة ضمنياً",
             "en": "Differentiating Implicit Functions"
@@ -266,7 +266,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-higher-derivatives",
+          "slug": "l7",
           "title": {
             "ar": "المشتقات العليا",
             "en": "Higher Derivatives"
@@ -281,7 +281,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-applications-of-differentiation-to-analytic",
+          "slug": "l8",
           "title": {
             "ar": "تطبيقات التفاضل على الهندسة التحليلية",
             "en": "Applications of Differentiation to Analytic Geometry"
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "slug": "03-integration",
+      "slug": "c3",
       "title": {
         "ar": "التكامل",
         "en": "Integration"
@@ -310,7 +310,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-integration-as-the-inverse-of-differentiation",
+          "slug": "l1",
           "title": {
             "ar": "التكامل كعملية عكسية للتفاضل",
             "en": "Integration as the Inverse of Differentiation"
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "slug": "04-statistics",
+      "slug": "c4",
       "title": {
         "ar": "الإحصاء",
         "en": "Statistics"
@@ -339,7 +339,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-and-historical-note",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة ونبذة تاريخية",
             "en": "Introduction and Historical Note"
@@ -354,7 +354,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-measures-of-central-tendency",
+          "slug": "l2",
           "title": {
             "ar": "مقاييس النزعة المركزية",
             "en": "Measures of Central Tendency"
@@ -369,7 +369,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-calculating-the-mean-from-a-grouped-frequency",
+          "slug": "l3",
           "title": {
             "ar": "حساب الوسط الحسابي من جدول تكراري ذي فئات",
             "en": "Calculating the Mean from a Grouped Frequency Table"
@@ -384,7 +384,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-the-median",
+          "slug": "l4",
           "title": {
             "ar": "الوسيط",
             "en": "The Median"
@@ -399,7 +399,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-the-mode",
+          "slug": "l5",
           "title": {
             "ar": "المنوال",
             "en": "The Mode"
@@ -414,7 +414,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-dispersion",
+          "slug": "l6",
           "title": {
             "ar": "التشتت",
             "en": "Dispersion"
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "slug": "05-probability",
+      "slug": "c5",
       "title": {
         "ar": "الاحتمالات",
         "en": "Probability"
@@ -443,7 +443,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة",
             "en": "Introduction"
@@ -458,7 +458,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-random-experiment",
+          "slug": "l2",
           "title": {
             "ar": "التجربة العشوائية",
             "en": "The Random Experiment"
@@ -473,7 +473,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-the-sample-space",
+          "slug": "l3",
           "title": {
             "ar": "فضاء العينة",
             "en": "The Sample Space"
@@ -488,7 +488,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-event",
+          "slug": "l4",
           "title": {
             "ar": "الحادثة",
             "en": "The Event"
@@ -503,7 +503,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-operations-on-events",
+          "slug": "l5",
           "title": {
             "ar": "العمليات على الحوادث",
             "en": "Operations on Events"
@@ -518,7 +518,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "06-the-difference-of-two-events",
+          "slug": "l6",
           "title": {
             "ar": "الفرق بين الحادثتين",
             "en": "The Difference of Two Events"
@@ -533,7 +533,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-axioms-of-probability-theory",
+          "slug": "l7",
           "title": {
             "ar": "مسلمات نظرية الاحتمالات",
             "en": "Axioms of Probability Theory"
@@ -548,7 +548,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-equally-likely-outcomes",
+          "slug": "l8",
           "title": {
             "ar": "الاحتمالات المتساوية",
             "en": "Equally Likely Outcomes"
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "slug": "06-matrices",
+      "slug": "c6",
       "title": {
         "ar": "المصفوفات",
         "en": "Matrices"
@@ -577,7 +577,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-preliminaries",
+          "slug": "l1",
           "title": {
             "ar": "تمهيد",
             "en": "Preliminaries"
@@ -592,7 +592,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-some-special-matrices",
+          "slug": "l2",
           "title": {
             "ar": "بعض المصفوفات الخاصة",
             "en": "Some Special Matrices"
@@ -607,7 +607,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-equality-of-matrices",
+          "slug": "l3",
           "title": {
             "ar": "تساوي المصفوفات",
             "en": "Equality of Matrices"
@@ -622,7 +622,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-transpose-of-a-matrix",
+          "slug": "l4",
           "title": {
             "ar": "منقول المصفوفة (مدور المصفوفة)",
             "en": "The Transpose of a Matrix"
@@ -637,7 +637,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-adding-matrices",
+          "slug": "l5",
           "title": {
             "ar": "جمع المصفوفات",
             "en": "Adding Matrices"
@@ -652,7 +652,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-properties-of-matrix-addition",
+          "slug": "l6",
           "title": {
             "ar": "خواص جمع المصفوفات",
             "en": "Properties of Matrix Addition"
@@ -667,7 +667,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-subtracting-matrices",
+          "slug": "l7",
           "title": {
             "ar": "طرح المصفوفات",
             "en": "Subtracting Matrices"
@@ -682,7 +682,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-multiplying-a-matrix-by-a-scalar",
+          "slug": "l8",
           "title": {
             "ar": "ضرب المصفوفة بعدد ثابت",
             "en": "Multiplying a Matrix by a Scalar"
@@ -697,7 +697,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-properties-of-scalar-multiplication",
+          "slug": "l9",
           "title": {
             "ar": "خواص ضرب مصفوفة بعدد",
             "en": "Properties of Scalar Multiplication"

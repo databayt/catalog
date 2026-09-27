@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "further-math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g12-fur-unit-02-further-01-induction-quiz",
+      "title": "Quiz: Proof by Induction",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq01",
+          "type": "mcq",
+          "question": "Proof by induction proves a statement for all:",
+          "options": [
+            "positive integers",
+            "colours",
+            "letters",
+            "shapes"
+          ],
+          "answer": "positive integers",
+          "explanation": "Induction."
+        },
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq02",
+          "type": "true_false",
+          "question": "Induction has a base case and an inductive step.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Structure."
+        },
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq03",
+          "type": "fill_blank",
+          "question": "The first step of induction is the ___ case.",
+          "answer": "base",
+          "explanation": "Base case."
+        },
+        {
+          "id": "g12-fur-unit-02-further-01-induction-lq04",
+          "type": "short_answer",
+          "question": "What are the two parts of proof by induction?",
+          "answer": "The base case and the inductive step.",
+          "explanation": "Induction."
+        }
+      ]
+    }
+  ]
+}

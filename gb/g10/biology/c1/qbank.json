@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "biology",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq01",
+      "type": "mcq",
+      "question": "Which is found in plant cells but not animal cells?",
+      "options": [
+        "nucleus",
+        "cell wall",
+        "membrane",
+        "mitochondria"
+      ],
+      "answer": "cell wall",
+      "explanation": "Cellulose wall."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq02",
+      "type": "true_false",
+      "question": "Mitochondria are the site of aerobic respiration.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Energy release."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq03",
+      "type": "fill_blank",
+      "question": "Structures that control cell activities is the ___.",
+      "answer": "nucleus",
+      "explanation": "Control."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-01-cell-structure-lq04",
+      "type": "short_answer",
+      "question": "State one function of the cell membrane.",
+      "answer": "To control what enters and leaves the cell.",
+      "explanation": "Membrane."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq01",
+      "type": "mcq",
+      "question": "Mitosis produces cells that are genetically:",
+      "options": [
+        "different",
+        "identical",
+        "haploid",
+        "random"
+      ],
+      "answer": "identical",
+      "explanation": "Clones."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq02",
+      "type": "true_false",
+      "question": "Stem cells can differentiate into specialised cells.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Stem cells."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq03",
+      "type": "fill_blank",
+      "question": "Division producing two identical cells is ___.",
+      "answer": "mitosis",
+      "explanation": "Mitosis."
+    },
+    {
+      "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq04",
+      "type": "short_answer",
+      "question": "Why is mitosis important?",
+      "answer": "For growth, repair and asexual reproduction.",
+      "explanation": "Mitosis role."
+    }
+  ]
+}

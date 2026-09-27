@@ -1,0 +1,40 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-eng-unit-01-01-drought-lquiz",
+      "title": "اختبار - Drought",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 2,
+      "questions": [
+        {
+          "id": "g8-en-unit01-q001",
+          "type": "mcq",
+          "question": "Complete: 'If I ___ you were coming, I would have waited.'",
+          "options": [
+            "know",
+            "knew",
+            "had known",
+            "known"
+          ],
+          "answer": "had known",
+          "explanation": "Third conditional uses past perfect"
+        },
+        {
+          "id": "g8-en-unit01-q002",
+          "type": "true_false",
+          "question": "'She would help if she could' uses conditional tense",
+          "answer": true,
+          "explanation": "Yes, this is second conditional"
+        }
+      ]
+    }
+  ]
+}

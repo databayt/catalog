@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-formal-elements",
+      "slug": "c1",
       "title": {
         "en": "Formal Elements & Techniques"
       },
       "lessons": [
         {
-          "slug": "01-composition",
+          "slug": "l1",
           "title": {
             "en": "Composition"
           }
         },
         {
-          "slug": "02-media",
+          "slug": "l2",
           "title": {
             "en": "Media & Techniques"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-context",
+      "slug": "c2",
       "title": {
         "en": "Artists & Context"
       },
       "lessons": [
         {
-          "slug": "01-movements",
+          "slug": "l1",
           "title": {
             "en": "Art Movements"
           }
         },
         {
-          "slug": "02-evaluation",
+          "slug": "l2",
           "title": {
             "en": "Evaluating Artwork"
           }

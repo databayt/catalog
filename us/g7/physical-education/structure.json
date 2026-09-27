@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-fitness",
+      "slug": "c1",
       "title": {
         "en": "Fitness & Training"
       },
       "lessons": [
         {
-          "slug": "01-components",
+          "slug": "l1",
           "title": {
             "en": "Components of Fitness"
           }
         },
         {
-          "slug": "02-training",
+          "slug": "l2",
           "title": {
             "en": "Training & Health"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-games-tactics",
+      "slug": "c2",
       "title": {
         "en": "Games & Tactics"
       },
       "lessons": [
         {
-          "slug": "01-skills",
+          "slug": "l1",
           "title": {
             "en": "Skills & Techniques"
           }
         },
         {
-          "slug": "02-tactics",
+          "slug": "l2",
           "title": {
             "en": "Tactics & Teamwork"
           }

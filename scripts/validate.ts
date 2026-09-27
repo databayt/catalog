@@ -127,6 +127,23 @@ function checkSubject(dir: string, cur: string, grade: string, subject: string) 
       fail("vocab.publisher", rel(structFile), s.source.publisher)
     for (const c of s.contributors)
       if (!PUBLISHERS.has(c)) fail("vocab.publisher", rel(structFile), c)
+    // Positional ids: the i-th chapter is c<i>, the i-th lesson in it is l<i>.
+    s.chapters.forEach((ch, ci) => {
+      if (ch.slug !== `c${ci + 1}`)
+        fail(
+          "structure.position",
+          rel(structFile),
+          `chapter ${ci + 1} is "${ch.slug}", expected c${ci + 1}`
+        )
+      ch.lessons.forEach((l, li) => {
+        if (l.slug !== `l${li + 1}`)
+          fail(
+            "structure.position",
+            rel(structFile),
+            `${ch.slug} lesson ${li + 1} is "${l.slug}", expected l${li + 1}`
+          )
+      })
+    })
     const chSlugs = new Set<string>()
     for (const ch of s.chapters) {
       if (chSlugs.has(ch.slug)) fail("structure.duplicate-slug", rel(structFile), ch.slug)

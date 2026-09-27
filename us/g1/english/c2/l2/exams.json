@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g1-eng-unit-02-reading-02-story-elements-quiz",
+      "title": "Quiz: Characters, Setting & Events",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g1-eng-unit-02-reading-02-story-elements-lq01",
+          "type": "mcq",
+          "question": "The 'setting' of a story is:",
+          "options": [
+            "who is in it",
+            "where/when it happens",
+            "the problem",
+            "the ending"
+          ],
+          "answer": "where/when it happens",
+          "explanation": "Setting = time and place."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-02-story-elements-lq02",
+          "type": "true_false",
+          "question": "Characters are the people or animals in a story.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "They take part in events."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-02-story-elements-lq03",
+          "type": "fill_blank",
+          "question": "The order of what happens is the sequence of ___.",
+          "answer": "events",
+          "explanation": "Plot events."
+        },
+        {
+          "id": "g1-eng-unit-02-reading-02-story-elements-lq04",
+          "type": "short_answer",
+          "question": "Name the three story elements covered.",
+          "answer": "Characters, setting, and events.",
+          "explanation": "Basic story parts."
+        }
+      ]
+    }
+  ]
+}

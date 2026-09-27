@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "biology",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-bio-unit-02-organisation-02-circulation-lq01",
+      "type": "mcq",
+      "question": "Which vessel carries blood away from the heart?",
+      "options": [
+        "vein",
+        "artery",
+        "capillary",
+        "alveolus"
+      ],
+      "answer": "artery",
+      "explanation": "Arteries away."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-02-circulation-lq02",
+      "type": "true_false",
+      "question": "Red blood cells carry oxygen.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Haemoglobin."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-02-circulation-lq03",
+      "type": "fill_blank",
+      "question": "The heart has four chambers: two atria and two ___.",
+      "answer": "ventricles",
+      "explanation": "Chambers."
+    },
+    {
+      "id": "g10-bio-unit-02-organisation-02-circulation-lq04",
+      "type": "short_answer",
+      "question": "Why does the body need a transport system?",
+      "answer": "To carry oxygen, nutrients and waste between cells.",
+      "explanation": "Transport."
+    }
+  ]
+}

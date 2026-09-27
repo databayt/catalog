@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "geography",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g11-geo-unit-02-economic-world-01-development-gap-lq01",
+      "type": "mcq",
+      "question": "The difference in wealth between richer and poorer countries is the development:",
+      "options": [
+        "gap",
+        "bridge",
+        "road",
+        "wall"
+      ],
+      "answer": "gap",
+      "explanation": "Global inequality."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-01-development-gap-lq02",
+      "type": "true_false",
+      "question": "Aid and trade can help reduce the development gap.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Development strategies."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-01-development-gap-lq03",
+      "type": "fill_blank",
+      "question": "Money sent home by migrants working abroad is called ___.",
+      "answer": "remittances",
+      "explanation": "Remittances."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-01-development-gap-lq04",
+      "type": "short_answer",
+      "question": "Name one way to reduce the development gap.",
+      "answer": "e.g., fair trade, aid, investment, or debt relief.",
+      "explanation": "Closing the gap."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-02-resource-management-lq01",
+      "type": "mcq",
+      "question": "A country's food, water and energy security depend on:",
+      "options": [
+        "resource management",
+        "fonts",
+        "map keys",
+        "tides only"
+      ],
+      "answer": "resource management",
+      "explanation": "Managing resources."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-02-resource-management-lq02",
+      "type": "true_false",
+      "question": "Demand for water and energy is rising globally.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Growing demand."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-02-resource-management-lq03",
+      "type": "fill_blank",
+      "question": "Producing food close to where it is eaten reduces ___ miles.",
+      "answer": "food",
+      "explanation": "Local food."
+    },
+    {
+      "id": "g11-geo-unit-02-economic-world-02-resource-management-lq04",
+      "type": "short_answer",
+      "question": "Why is resource management increasingly important?",
+      "answer": "Rising population and consumption strain finite resources.",
+      "explanation": "Resource pressure."
+    }
+  ]
+}

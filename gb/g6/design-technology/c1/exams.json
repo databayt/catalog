@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g6",
+    "subject": "design-technology",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g6-des-unit-01-design-exam",
+      "title": "Exam: Design & Make",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g6-des-unit-01-design-01-design-lq01",
+          "type": "mcq",
+          "question": "Before making a product, designers first:",
+          "options": [
+            "plan and design it",
+            "throw it away",
+            "sell it",
+            "hide it"
+          ],
+          "answer": "plan and design it",
+          "explanation": "Design process."
+        },
+        {
+          "id": "g6-des-unit-01-design-01-design-lq02",
+          "type": "true_false",
+          "question": "A design brief describes what a product should do.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Brief."
+        },
+        {
+          "id": "g6-des-unit-01-design-01-design-lq03",
+          "type": "fill_blank",
+          "question": "A drawing showing a design idea is a ___.",
+          "answer": "sketch",
+          "explanation": "Design sketch."
+        },
+        {
+          "id": "g6-des-unit-01-design-01-design-lq04",
+          "type": "short_answer",
+          "question": "Why do designers plan before making?",
+          "answer": "To work out how the product will look and function.",
+          "explanation": "Design."
+        },
+        {
+          "id": "g6-des-unit-01-design-02-make-lq01",
+          "type": "mcq",
+          "question": "After making a product you should:",
+          "options": [
+            "evaluate it",
+            "ignore it",
+            "lose it",
+            "copy it"
+          ],
+          "answer": "evaluate it",
+          "explanation": "Evaluation."
+        },
+        {
+          "id": "g6-des-unit-01-design-02-make-lq02",
+          "type": "true_false",
+          "question": "Choosing the right materials and tools matters when making.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Materials/tools."
+        },
+        {
+          "id": "g6-des-unit-01-design-02-make-lq03",
+          "type": "fill_blank",
+          "question": "Testing a product to judge it is called ___.",
+          "answer": "evaluating",
+          "explanation": "Evaluation."
+        },
+        {
+          "id": "g6-des-unit-01-design-02-make-lq04",
+          "type": "short_answer",
+          "question": "Why evaluate a finished product?",
+          "answer": "To see if it meets the brief and how to improve it.",
+          "explanation": "Evaluation."
+        }
+      ]
+    }
+  ]
+}

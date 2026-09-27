@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-1-vectors",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: المتجهات",
         "en": "Unit 1: Vectors"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-vectors",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة في المتجهات",
             "en": "Introduction to Vectors"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "02-the-resultant-of-several-vectors",
+          "slug": "l2",
           "title": {
             "ar": "محصلة عدة متجهات",
             "en": "The Resultant of Several Vectors"
@@ -56,7 +56,7 @@
           "page": 8
         },
         {
-          "slug": "03-the-graphical-method-for-finding-a-resultant",
+          "slug": "l3",
           "title": {
             "ar": "طريقة رسم المتجهات لإيجاد المحصلة",
             "en": "The Graphical Method for Finding a Resultant"
@@ -64,7 +64,7 @@
           "page": 9
         },
         {
-          "slug": "04-the-parallelogram-rule",
+          "slug": "l4",
           "title": {
             "ar": "قاعدة متوازي الأضلاع",
             "en": "The Parallelogram Rule"
@@ -72,7 +72,7 @@
           "page": 12
         },
         {
-          "slug": "05-the-triangle-rule-for-two-vectors",
+          "slug": "l5",
           "title": {
             "ar": "قاعدة المثلث لإيجاد محصلة متجهين",
             "en": "The Triangle Rule for Two Vectors"
@@ -80,7 +80,7 @@
           "page": 22
         },
         {
-          "slug": "06-resolving-a-vector-into-perpendicular-components",
+          "slug": "l6",
           "title": {
             "ar": "تحليل المتجه إلى مركبتين متعامدتين",
             "en": "Resolving a Vector into Perpendicular Components"
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "slug": "02-unit-2-projectiles",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية: المقذوفات",
         "en": "Unit 2: Projectiles"
@@ -101,7 +101,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-motion-of-a-projectile",
+          "slug": "l1",
           "title": {
             "ar": "حركة الجسم المقذوف",
             "en": "Motion of a Projectile"
@@ -109,7 +109,7 @@
           "page": 45
         },
         {
-          "slug": "02-horizontal-and-vertical-velocities",
+          "slug": "l2",
           "title": {
             "ar": "حساب السرعات الأفقية والرأسية",
             "en": "Horizontal and Vertical Velocities"
@@ -117,7 +117,7 @@
           "page": 49
         },
         {
-          "slug": "03-horizontal-and-vertical-displacement",
+          "slug": "l3",
           "title": {
             "ar": "الإزاحة الأفقية والإزاحة الرأسية",
             "en": "Horizontal and Vertical Displacement"
@@ -125,7 +125,7 @@
           "page": 50
         },
         {
-          "slug": "04-total-velocity-and-the-sign-convention",
+          "slug": "l4",
           "title": {
             "ar": "السرعة الكلية وقاعدة الإشارات",
             "en": "Total Velocity and the Sign Convention"
@@ -133,7 +133,7 @@
           "page": 54
         },
         {
-          "slug": "05-worked-examples-and-exercises",
+          "slug": "l5",
           "title": {
             "ar": "أمثلة وتمارين على المقذوفات",
             "en": "Worked Examples and Exercises"
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "slug": "03-unit-3-moments-and-equilibrium",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: العزم والاتزان",
         "en": "Unit 3: Moments and Equilibrium"
@@ -154,7 +154,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-moment-of-a-force",
+          "slug": "l1",
           "title": {
             "ar": "عزم القوة",
             "en": "The Moment of a Force"
@@ -162,7 +162,7 @@
           "page": 71
         },
         {
-          "slug": "02-the-principle-of-moments-and-equilibrium",
+          "slug": "l2",
           "title": {
             "ar": "قانون العزوم والاتزان",
             "en": "The Principle of Moments and Equilibrium"
@@ -170,7 +170,7 @@
           "page": 76
         },
         {
-          "slug": "03-couples",
+          "slug": "l3",
           "title": {
             "ar": "الازدواج",
             "en": "Couples"
@@ -178,7 +178,7 @@
           "page": 82
         },
         {
-          "slug": "04-equilibrium-of-concurrent-forces-triangle-of",
+          "slug": "l4",
           "title": {
             "ar": "اتزان القوى المتلاقية: مثلث القوى وقاعدة لامي والقانون العام",
             "en": "Equilibrium of Concurrent Forces: Triangle of Forces, Lami's Theorem and the General Law"
@@ -186,7 +186,7 @@
           "page": 88
         },
         {
-          "slug": "05-centre-of-gravity-and-equilibrium",
+          "slug": "l5",
           "title": {
             "ar": "مركز الثقل والاتزان",
             "en": "Centre of Gravity and Equilibrium"
@@ -194,7 +194,7 @@
           "page": 99
         },
         {
-          "slug": "06-states-of-equilibrium",
+          "slug": "l6",
           "title": {
             "ar": "حالات اتزان الأجسام",
             "en": "States of Equilibrium"
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "slug": "04-unit-4-work-energy-and-power",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: الشغل والطاقة والقدرة",
         "en": "Unit 4: Work, Energy and Power"
@@ -215,7 +215,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-work-and-its-units",
+          "slug": "l1",
           "title": {
             "ar": "الشغل ووحداته",
             "en": "Work and Its Units"
@@ -223,7 +223,7 @@
           "page": 112
         },
         {
-          "slug": "02-power-and-its-units",
+          "slug": "l2",
           "title": {
             "ar": "القدرة ووحداتها",
             "en": "Power and Its Units"
@@ -231,7 +231,7 @@
           "page": 118
         },
         {
-          "slug": "03-energy-and-its-sources",
+          "slug": "l3",
           "title": {
             "ar": "الطاقة ومصادرها",
             "en": "Energy and Its Sources"
@@ -239,7 +239,7 @@
           "page": 125
         },
         {
-          "slug": "04-mechanical-energy-kinetic-and-potential",
+          "slug": "l4",
           "title": {
             "ar": "الطاقة الميكانيكية: الحركية وطاقة الوضع",
             "en": "Mechanical Energy: Kinetic and Potential"
@@ -247,7 +247,7 @@
           "page": 127
         },
         {
-          "slug": "05-transformations-and-conservation-of-mechanical",
+          "slug": "l5",
           "title": {
             "ar": "تحولات الطاقة الميكانيكية وحفظها",
             "en": "Transformations and Conservation of Mechanical Energy"
@@ -255,7 +255,7 @@
           "page": 136
         },
         {
-          "slug": "06-bernoullis-principle",
+          "slug": "l6",
           "title": {
             "ar": "قاعدة برنولي",
             "en": "Bernoulli's Principle"
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "slug": "05-unit-5-heat-and-the-two-laws-of-thermodynamics",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة: الحرارة وقانونا الديناميكا الحرارية",
         "en": "Unit 5: Heat and the Two Laws of Thermodynamics"
@@ -277,7 +277,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-and-quantity-of-heat",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة وكمية الحرارة",
             "en": "Introduction and Quantity of Heat"
@@ -285,7 +285,7 @@
           "page": 159
         },
         {
-          "slug": "02-heat-capacity",
+          "slug": "l2",
           "title": {
             "ar": "السعة الحرارية",
             "en": "Heat Capacity"
@@ -293,7 +293,7 @@
           "page": 163
         },
         {
-          "slug": "03-specific-heat-capacity",
+          "slug": "l3",
           "title": {
             "ar": "الحرارة النوعية للمادة",
             "en": "Specific Heat Capacity"
@@ -301,7 +301,7 @@
           "page": 165
         },
         {
-          "slug": "04-conservation-of-heat-energy",
+          "slug": "l4",
           "title": {
             "ar": "حفظ الطاقة الحرارية",
             "en": "Conservation of Heat Energy"
@@ -309,7 +309,7 @@
           "page": 171
         },
         {
-          "slug": "05-determining-specific-heat-by-the-method-of",
+          "slug": "l5",
           "title": {
             "ar": "تعيين الحرارة النوعية بطريقة الخلط",
             "en": "Determining Specific Heat by the Method of Mixtures"
@@ -317,7 +317,7 @@
           "page": 174
         },
         {
-          "slug": "06-states-of-matter",
+          "slug": "l6",
           "title": {
             "ar": "حالات المادة",
             "en": "States of Matter"
@@ -326,7 +326,7 @@
           "image": "clickview/high-changes-in-matter-cover.jpg"
         },
         {
-          "slug": "07-melting-point-and-latent-heat-of-fusion",
+          "slug": "l7",
           "title": {
             "ar": "نقطة الانصهار والحرارة الكامنة للانصهار",
             "en": "Melting Point and Latent Heat of Fusion"
@@ -334,7 +334,7 @@
           "page": 180
         },
         {
-          "slug": "08-vaporisation-evaporation-boiling-point-and",
+          "slug": "l8",
           "title": {
             "ar": "التصعيد والتبخر ونقطة الغليان والحرارة الكامنة للتصعيد",
             "en": "Vaporisation, Evaporation, Boiling Point and Latent Heat of Vaporisation"
@@ -342,7 +342,7 @@
           "page": 189
         },
         {
-          "slug": "09-the-first-law-of-thermodynamics",
+          "slug": "l9",
           "title": {
             "ar": "القانون الأول للديناميكا الحرارية",
             "en": "The First Law of Thermodynamics"
@@ -350,7 +350,7 @@
           "page": 199
         },
         {
-          "slug": "10-the-second-law-of-thermodynamics-and-thermal",
+          "slug": "l10",
           "title": {
             "ar": "القانون الثاني للديناميكا الحرارية والقصور الحراري",
             "en": "The Second Law of Thermodynamics and Thermal Inertia"

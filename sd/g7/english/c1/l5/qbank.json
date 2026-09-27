@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l5"
+  },
+  "questions": [
+    {
+      "id": "g7-en-unit01-q009",
+      "type": "fill_blank",
+      "question": "The book on the table is ___",
+      "answer": "mine/his/hers/theirs (depending on context)",
+      "explanation": "Possessive pronoun needed"
+    },
+    {
+      "id": "g7-en-unit01-q010",
+      "type": "mcq",
+      "question": "Which is a question?",
+      "options": [
+        "I like ice cream",
+        "Do you like ice cream?",
+        "You like ice cream",
+        "Like ice cream"
+      ],
+      "answer": "Do you like ice cream?",
+      "explanation": "Questions have interrogative word order"
+    }
+  ]
+}

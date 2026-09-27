@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-motion-forces-and-energy",
+      "slug": "c1",
       "title": {
         "en": "Motion, Forces and Energy"
       },
       "lessons": [
         {
-          "slug": "01-motion-forces-and-energy",
+          "slug": "l1",
           "title": {
             "en": "Motion, Forces and Energy"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-thermal-physics",
+      "slug": "c2",
       "title": {
         "en": "Thermal Physics"
       },
       "lessons": [
         {
-          "slug": "01-thermal-physics",
+          "slug": "l1",
           "title": {
             "en": "Thermal Physics"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-waves",
+      "slug": "c3",
       "title": {
         "en": "Waves"
       },
       "lessons": [
         {
-          "slug": "01-waves",
+          "slug": "l1",
           "title": {
             "en": "Waves"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-electricity-and-magnetism",
+      "slug": "c4",
       "title": {
         "en": "Electricity and Magnetism"
       },
       "lessons": [
         {
-          "slug": "01-electricity-and-magnetism",
+          "slug": "l1",
           "title": {
             "en": "Electricity and Magnetism"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-nuclear-physics",
+      "slug": "c5",
       "title": {
         "en": "Nuclear Physics"
       },
       "lessons": [
         {
-          "slug": "01-nuclear-physics",
+          "slug": "l1",
           "title": {
             "en": "Nuclear Physics"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-space-physics",
+      "slug": "c6",
       "title": {
         "en": "Space Physics"
       },
       "lessons": [
         {
-          "slug": "01-space-physics",
+          "slug": "l1",
           "title": {
             "en": "Space Physics"
           }

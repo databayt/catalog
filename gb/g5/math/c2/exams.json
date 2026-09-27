@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-02-fractions-decimals-percent-exam",
+      "title": "Exam: Fractions, Decimals & Percentages",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-01-convert-lq01",
+          "type": "mcq",
+          "question": "1/2 as a percentage is:",
+          "options": [
+            "5%",
+            "25%",
+            "50%",
+            "100%"
+          ],
+          "answer": "50%",
+          "explanation": "Half = 50%."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-01-convert-lq02",
+          "type": "true_false",
+          "question": "0.25 = 25%.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiply by 100."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-01-convert-lq03",
+          "type": "fill_blank",
+          "question": "3/4 as a decimal is ___.",
+          "answer": "0.75",
+          "explanation": "Three quarters."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-01-convert-lq04",
+          "type": "short_answer",
+          "question": "Convert 0.1 to a percentage.",
+          "answer": "10%",
+          "explanation": "×100."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-02-add-fractions-lq01",
+          "type": "mcq",
+          "question": "1/4 + 1/4 = ?",
+          "options": [
+            "1/8",
+            "2/4",
+            "1/2",
+            "2/8"
+          ],
+          "answer": "2/4",
+          "explanation": "Equals 1/2."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-02-add-fractions-lq02",
+          "type": "true_false",
+          "question": "To add like fractions, add the numerators.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Same denominator."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-02-add-fractions-lq03",
+          "type": "fill_blank",
+          "question": "2/5 + 1/5 = ___.",
+          "answer": "3/5",
+          "explanation": "Add numerators."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-decimals-percent-02-add-fractions-lq04",
+          "type": "short_answer",
+          "question": "Why keep denominators equal when adding?",
+          "answer": "Parts must be the same size.",
+          "explanation": "Equal parts."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq01",
+      "type": "mcq",
+      "question": "A writer's attitude towards a subject is their:",
+      "options": [
+        "viewpoint",
+        "font",
+        "title",
+        "index"
+      ],
+      "answer": "viewpoint",
+      "explanation": "Perspective."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq02",
+      "type": "true_false",
+      "question": "Two texts on the same topic can present different viewpoints.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Comparison."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq03",
+      "type": "fill_blank",
+      "question": "Showing similarities and differences between texts is to ___.",
+      "answer": "compare",
+      "explanation": "Compare/contrast."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-01-viewpoint-lq04",
+      "type": "short_answer",
+      "question": "How do you compare two writers' viewpoints?",
+      "answer": "Identify each viewpoint and analyse how language conveys it.",
+      "explanation": "Comparison."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-02-evaluation-lq01",
+      "type": "mcq",
+      "question": "To 'evaluate' a text means to:",
+      "options": [
+        "summarise",
+        "judge how successful it is",
+        "ignore it",
+        "copy it"
+      ],
+      "answer": "judge how successful it is",
+      "explanation": "Critical judgement."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-02-evaluation-lq02",
+      "type": "true_false",
+      "question": "Evaluation should be supported with evidence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Evidence-based."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-02-evaluation-lq03",
+      "type": "fill_blank",
+      "question": "A personal judgement supported by evidence is an ___.",
+      "answer": "evaluation",
+      "explanation": "Evaluate."
+    },
+    {
+      "id": "g11-eng-unit-01-nonfiction-02-evaluation-lq04",
+      "type": "short_answer",
+      "question": "What does an evaluative response require?",
+      "answer": "A judgement plus textual evidence and explanation.",
+      "explanation": "Evaluation."
+    }
+  ]
+}

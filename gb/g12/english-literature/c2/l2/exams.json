@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "english-literature",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g12-eng-unit-02-poetry-criticism-02-context-quiz",
+      "title": "Quiz: Context & Connections",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-02-context-lq01",
+          "type": "mcq",
+          "question": "AO3 in A-Level Literature concerns:",
+          "options": [
+            "spelling",
+            "contexts",
+            "page count",
+            "fonts"
+          ],
+          "answer": "contexts",
+          "explanation": "Assessment objective."
+        },
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-02-context-lq02",
+          "type": "true_false",
+          "question": "Texts can be connected through shared themes or movements.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Connections."
+        },
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-02-context-lq03",
+          "type": "fill_blank",
+          "question": "Literary, social and historical background is ___.",
+          "answer": "context",
+          "explanation": "Context (AO3)."
+        },
+        {
+          "id": "g12-eng-unit-02-poetry-criticism-02-context-lq04",
+          "type": "short_answer",
+          "question": "How does context deepen interpretation?",
+          "answer": "It situates a text within the ideas and conditions that shaped it.",
+          "explanation": "Context."
+        }
+      ]
+    }
+  ]
+}

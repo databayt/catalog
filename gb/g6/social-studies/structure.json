@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-heritage",
+      "slug": "c1",
       "title": {
         "en": "Emirati Heritage & Traditions"
       },
       "lessons": [
         {
-          "slug": "01-heritage",
+          "slug": "l1",
           "title": {
             "en": "Emirati Heritage"
           }
         },
         {
-          "slug": "02-identity",
+          "slug": "l2",
           "title": {
             "en": "Cultural Identity"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-respect-diversity",
+      "slug": "c2",
       "title": {
         "en": "Respect & Diversity"
       },
       "lessons": [
         {
-          "slug": "01-diversity",
+          "slug": "l1",
           "title": {
             "en": "Living Together"
           }
         },
         {
-          "slug": "02-self-discipline",
+          "slug": "l2",
           "title": {
             "en": "Self-Discipline"
           }

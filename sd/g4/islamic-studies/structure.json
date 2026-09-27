@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-surahs-from-the-quran",
+      "slug": "c1",
       "title": {
         "ar": "سور من القرآن الكريم",
         "en": "Surahs from the Holy Quran"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-surat-ash-shams",
+          "slug": "l1",
           "title": {
             "ar": "سورة الشمس",
             "en": "Surat Ash-Shams"
@@ -40,7 +40,7 @@
           "page": 2
         },
         {
-          "slug": "02-surat-al-inshiqaq",
+          "slug": "l2",
           "title": {
             "ar": "سورة الانشقاق",
             "en": "Surat Al-Inshiqaq"
@@ -48,7 +48,7 @@
           "page": 4
         },
         {
-          "slug": "03-surat-at-takwir",
+          "slug": "l3",
           "title": {
             "ar": "سورة التكوير",
             "en": "Surat At-Takwir"
@@ -56,7 +56,7 @@
           "page": 6
         },
         {
-          "slug": "04-surat-al-mutaffifin",
+          "slug": "l4",
           "title": {
             "ar": "سورة المطففين",
             "en": "Surat Al-Mutaffifin"
@@ -64,7 +64,7 @@
           "page": 7
         },
         {
-          "slug": "05-surat-abasa",
+          "slug": "l5",
           "title": {
             "ar": "سورة عبس",
             "en": "Surat Abasa"
@@ -72,7 +72,7 @@
           "page": 9
         },
         {
-          "slug": "06-surat-an-naba",
+          "slug": "l6",
           "title": {
             "ar": "سورة النبأ (تلاوة)",
             "en": "Surat An-Naba (recitation)"
@@ -80,7 +80,7 @@
           "page": 10
         },
         {
-          "slug": "07-surat-an-naziat",
+          "slug": "l7",
           "title": {
             "ar": "سورة النازعات (تلاوة)",
             "en": "Surat An-Nazi'at (recitation)"
@@ -88,7 +88,7 @@
           "page": 11
         },
         {
-          "slug": "08-surat-al-mursalat",
+          "slug": "l8",
           "title": {
             "ar": "سورة المرسلات (تلاوة)",
             "en": "Surat Al-Mursalat (recitation)"
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "slug": "02-prophetic-hadiths",
+      "slug": "c2",
       "title": {
         "ar": "أحاديث من الحديث النبوي الشريف",
         "en": "Hadiths from the Noble Prophetic Tradition"
@@ -109,7 +109,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-envy-is-a-bad-trait",
+          "slug": "l1",
           "title": {
             "ar": "الحسد خلق سيئ",
             "en": "Envy Is a Bad Trait"
@@ -117,7 +117,7 @@
           "page": 14
         },
         {
-          "slug": "02-kindness-to-animals",
+          "slug": "l2",
           "title": {
             "ar": "الرفق بالحيوان",
             "en": "Kindness to Animals"
@@ -125,7 +125,7 @@
           "page": 16
         },
         {
-          "slug": "03-whoever-cheats-us",
+          "slug": "l3",
           "title": {
             "ar": "من غشنا فليس منا",
             "en": "Whoever Cheats Us Is Not One of Us"
@@ -133,7 +133,7 @@
           "page": 18
         },
         {
-          "slug": "04-qualities-of-the-believer",
+          "slug": "l4",
           "title": {
             "ar": "من صفات المؤمن",
             "en": "Qualities of the Believer"
@@ -141,7 +141,7 @@
           "page": 20
         },
         {
-          "slug": "05-qualities-of-the-hypocrite",
+          "slug": "l5",
           "title": {
             "ar": "من صفات المنافق",
             "en": "Qualities of the Hypocrite"
@@ -149,7 +149,7 @@
           "page": 22
         },
         {
-          "slug": "06-kinship-ties",
+          "slug": "l6",
           "title": {
             "ar": "بر الرحم",
             "en": "Kinship Ties"
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "slug": "03-pillars-of-faith",
+      "slug": "c3",
       "title": {
         "ar": "من أركان الإيمان",
         "en": "From the Pillars of Faith"
@@ -171,7 +171,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-names-and-attributes-of-allah-in-ayat-al-kursi",
+          "slug": "l1",
           "title": {
             "ar": "أسماء الله وصفاته في آية الكرسي",
             "en": "Allah's Names and Attributes in Ayat Al-Kursi"
@@ -179,7 +179,7 @@
           "page": 27
         },
         {
-          "slug": "02-belief-in-the-heavenly-books",
+          "slug": "l2",
           "title": {
             "ar": "الإيمان بالكتب السماوية",
             "en": "Belief in the Heavenly Books"
@@ -187,7 +187,7 @@
           "page": 30
         },
         {
-          "slug": "03-names-of-allah-1",
+          "slug": "l3",
           "title": {
             "ar": "من أسماء الله الحسنى (1)",
             "en": "From the Beautiful Names of Allah (1)"
@@ -195,7 +195,7 @@
           "page": 34
         },
         {
-          "slug": "04-names-of-allah-2",
+          "slug": "l4",
           "title": {
             "ar": "من أسماء الله الحسنى (2)",
             "en": "From the Beautiful Names of Allah (2)"
@@ -203,7 +203,7 @@
           "page": 36
         },
         {
-          "slug": "05-names-of-allah-3",
+          "slug": "l5",
           "title": {
             "ar": "من أسماء الله الحسنى (3)",
             "en": "From the Beautiful Names of Allah (3)"
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "slug": "04-fiqh",
+      "slug": "c4",
       "title": {
         "ar": "الفقه",
         "en": "Jurisprudence (Fiqh)"
@@ -224,7 +224,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-tashahhud",
+          "slug": "l1",
           "title": {
             "ar": "التشهد",
             "en": "The Tashahhud"
@@ -232,7 +232,7 @@
           "page": 41
         },
         {
-          "slug": "02-the-adhan",
+          "slug": "l2",
           "title": {
             "ar": "الأذان",
             "en": "The Adhan (Call to Prayer)"
@@ -240,7 +240,7 @@
           "page": 43
         },
         {
-          "slug": "03-the-iqamah",
+          "slug": "l3",
           "title": {
             "ar": "الإقامة",
             "en": "The Iqamah"
@@ -248,7 +248,7 @@
           "page": 45
         },
         {
-          "slug": "04-adhkar-after-prayer",
+          "slug": "l4",
           "title": {
             "ar": "من أذكار الصلاة بعد السلام",
             "en": "Remembrances after the Prayer"
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "slug": "05-noble-morals",
+      "slug": "c5",
       "title": {
         "ar": "من مكارم الأخلاق",
         "en": "From the Noble Morals"
@@ -269,7 +269,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-trustworthiness",
+          "slug": "l1",
           "title": {
             "ar": "الأمانة",
             "en": "Trustworthiness"
@@ -277,7 +277,7 @@
           "page": 50
         },
         {
-          "slug": "02-honesty-is-salvation",
+          "slug": "l2",
           "title": {
             "ar": "الصدق منجاة",
             "en": "Honesty Is Salvation"
@@ -285,7 +285,7 @@
           "page": 54
         },
         {
-          "slug": "03-freedom-and-justice",
+          "slug": "l3",
           "title": {
             "ar": "حرية.. عدالة",
             "en": "Freedom… Justice"
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "slug": "06-prophetic-biography",
+      "slug": "c6",
       "title": {
         "ar": "من السيرة النبوية الشريفة",
         "en": "From the Noble Prophetic Biography"
@@ -306,7 +306,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-migration-to-abyssinia",
+          "slug": "l1",
           "title": {
             "ar": "هجرة الصحابة رضي الله عنهم إلى الحبشة الأولى والثانية",
             "en": "The Companions' First and Second Migration to Abyssinia"
@@ -314,7 +314,7 @@
           "page": 59
         },
         {
-          "slug": "02-persecution-and-attempted-assassination",
+          "slug": "l2",
           "title": {
             "ar": "الشدة في التعذيب ومحاولة القضاء على رسول الله صلى الله عليه وسلم",
             "en": "Severe Torture and the Attempt to Kill the Messenger ﷺ"
@@ -322,7 +322,7 @@
           "page": 62
         },
         {
-          "slug": "03-islam-of-umar",
+          "slug": "l3",
           "title": {
             "ar": "إسلام عمر بن الخطاب رضي الله عنه",
             "en": "The Conversion of Umar ibn Al-Khattab"
@@ -330,7 +330,7 @@
           "page": 65
         },
         {
-          "slug": "04-quraysh-bargaining-with-the-prophet",
+          "slug": "l4",
           "title": {
             "ar": "مفاوضات ومساومات قريش لرسول الله صلى الله عليه وسلم",
             "en": "Quraysh's Negotiations and Bargaining with the Messenger ﷺ"
@@ -338,7 +338,7 @@
           "page": 68
         },
         {
-          "slug": "05-general-boycott-of-banu-hashim",
+          "slug": "l5",
           "title": {
             "ar": "المقاطعة العامة الجائرة لجميع بني هاشم وبني المطلب",
             "en": "The Unjust General Boycott of Banu Hashim and Banu Al-Muttalib"
@@ -346,7 +346,7 @@
           "page": 71
         },
         {
-          "slug": "06-year-of-sorrow",
+          "slug": "l6",
           "title": {
             "ar": "عام الحزن",
             "en": "The Year of Sorrow"

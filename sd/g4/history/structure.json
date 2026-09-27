@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-sudan-homeland",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى: وطننا السودان"
       },
@@ -28,35 +28,35 @@
       "image": "clickview/elementary-this-month-in-history-cover.jpg",
       "lessons": [
         {
-          "slug": "01-assessment",
+          "slug": "l1",
           "title": {
             "ar": "التقويم"
           },
           "image": "clickview/elementary-review-techniques-cover.jpg"
         },
         {
-          "slug": "02-stone-age",
+          "slug": "l2",
           "title": {
             "ar": "حضارة العصور الحجرية في السودان"
           },
           "image": "clickview/elementary-early-humanity-cover.jpg"
         },
         {
-          "slug": "03-meroitic-civilization",
+          "slug": "l3",
           "title": {
             "ar": "حضارة مروي"
           },
           "image": "clickview/elementary-ancient-egypt-cover.jpg"
         },
         {
-          "slug": "04-kushite-civilization",
+          "slug": "l4",
           "title": {
             "ar": "حضارة كوش"
           },
           "image": "clickview/elementary-ancient-egypt-cover.jpg"
         },
         {
-          "slug": "05-nubian-kingdom",
+          "slug": "l5",
           "title": {
             "ar": "المملكة النوبية المسيحية"
           },

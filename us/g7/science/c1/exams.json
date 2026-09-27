@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g7-sci-unit-01-ecosystems-exam",
+      "title": "Exam: Ecosystems & Energy Flow",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq01",
+          "type": "mcq",
+          "question": "Energy in an ecosystem originates from the:",
+          "options": [
+            "soil",
+            "Sun",
+            "predators",
+            "decomposers"
+          ],
+          "answer": "Sun",
+          "explanation": "Producers capture sunlight."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq02",
+          "type": "true_false",
+          "question": "Decomposers recycle nutrients back into the ecosystem.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Break down dead matter."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq03",
+          "type": "fill_blank",
+          "question": "Organisms that make their own food are ___.",
+          "answer": "producers",
+          "explanation": "Autotrophs."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-01-food-webs-lq04",
+          "type": "short_answer",
+          "question": "What happens to energy as it moves up a food chain?",
+          "answer": "Most is lost (as heat); only ~10% passes on.",
+          "explanation": "Energy loss."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq01",
+          "type": "mcq",
+          "question": "The process by which plants release water vapor is:",
+          "options": [
+            "respiration",
+            "transpiration",
+            "condensation",
+            "erosion"
+          ],
+          "answer": "transpiration",
+          "explanation": "Water from leaves."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq02",
+          "type": "true_false",
+          "question": "Carbon cycles between organisms and the atmosphere.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Carbon cycle."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq03",
+          "type": "fill_blank",
+          "question": "Bacteria convert nitrogen gas into usable forms in the ___ cycle.",
+          "answer": "nitrogen",
+          "explanation": "Nitrogen fixation."
+        },
+        {
+          "id": "g7-sci-unit-01-ecosystems-02-cycles-lq04",
+          "type": "short_answer",
+          "question": "Why are matter cycles important?",
+          "answer": "They recycle essential elements so life can continue.",
+          "explanation": "Recycling matter."
+        }
+      ]
+    }
+  ]
+}

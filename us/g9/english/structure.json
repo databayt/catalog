@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-literature",
+      "slug": "c1",
       "title": {
         "en": "Literary Analysis"
       },
       "lessons": [
         {
-          "slug": "01-theme-fiction",
+          "slug": "l1",
           "title": {
             "en": "Theme in Fiction"
           }
         },
         {
-          "slug": "02-characterization",
+          "slug": "l2",
           "title": {
             "en": "Characterization"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-composition",
+      "slug": "c2",
       "title": {
         "en": "Composition"
       },
       "lessons": [
         {
-          "slug": "01-argument",
+          "slug": "l1",
           "title": {
             "en": "Argumentative Writing"
           }
         },
         {
-          "slug": "02-rhetoric",
+          "slug": "l2",
           "title": {
             "en": "Rhetorical Appeals"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "biology",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g10-bio-unit-01-cell-biology-02-cell-division-quiz",
+      "title": "Quiz: Cell Division (Mitosis)",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq01",
+          "type": "mcq",
+          "question": "Mitosis produces cells that are genetically:",
+          "options": [
+            "different",
+            "identical",
+            "haploid",
+            "random"
+          ],
+          "answer": "identical",
+          "explanation": "Clones."
+        },
+        {
+          "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq02",
+          "type": "true_false",
+          "question": "Stem cells can differentiate into specialised cells.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Stem cells."
+        },
+        {
+          "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq03",
+          "type": "fill_blank",
+          "question": "Division producing two identical cells is ___.",
+          "answer": "mitosis",
+          "explanation": "Mitosis."
+        },
+        {
+          "id": "g10-bio-unit-01-cell-biology-02-cell-division-lq04",
+          "type": "short_answer",
+          "question": "Why is mitosis important?",
+          "answer": "For growth, repair and asexual reproduction.",
+          "explanation": "Mitosis role."
+        }
+      ]
+    }
+  ]
+}

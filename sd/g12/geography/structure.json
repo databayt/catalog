@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-introduction-to-reading-and-interpreting-aerial",
+      "slug": "c1",
       "title": {
         "ar": "مقدمة في قراءة وتفسير الصور الجوية والفضائية",
         "en": "Introduction to Reading and Interpreting Aerial and Satellite Images"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-remote-sensing",
+          "slug": "l1",
           "title": {
             "ar": "الاستشعار عن بعد",
             "en": "Remote Sensing"
@@ -73,7 +73,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-aerial-photographs",
+          "slug": "l2",
           "title": {
             "ar": "الصور الجوية",
             "en": "Aerial Photographs"
@@ -89,7 +89,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-satellite-images",
+          "slug": "l3",
           "title": {
             "ar": "الصور الفضائية",
             "en": "Satellite Images"
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "slug": "02-economic-geography",
+      "slug": "c2",
       "title": {
         "ar": "الجغرافيا الاقتصادية",
         "en": "Economic Geography"
@@ -119,7 +119,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-economic-geography",
+          "slug": "l1",
           "title": {
             "ar": "الجغرافيا الاقتصادية",
             "en": "Economic Geography"
@@ -134,7 +134,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-types-of-economic-activity",
+          "slug": "l2",
           "title": {
             "ar": "أنواع النشاط الاقتصادي",
             "en": "Types of Economic Activity"
@@ -149,7 +149,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-agricultural-production",
+          "slug": "l3",
           "title": {
             "ar": "الإنتاج الزراعي",
             "en": "Agricultural Production"
@@ -166,7 +166,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-agricultural-patterns",
+          "slug": "l4",
           "title": {
             "ar": "الأنماط الزراعية",
             "en": "Agricultural Patterns"
@@ -183,7 +183,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "05-classification-of-the-worlds-crops",
+          "slug": "l5",
           "title": {
             "ar": "تصنيف المحاصيل في العالم",
             "en": "Classification of the World's Crops"
@@ -199,7 +199,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-food-grain-crops",
+          "slug": "l6",
           "title": {
             "ar": "محاصيل الحبوب الغذائية",
             "en": "Food Grain Crops"
@@ -216,7 +216,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-raw-material-crops",
+          "slug": "l7",
           "title": {
             "ar": "محاصيل المواد الخام",
             "en": "Raw-material Crops"
@@ -233,7 +233,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-forest-production",
+          "slug": "l8",
           "title": {
             "ar": "إنتاج الغابات",
             "en": "Forest Production"
@@ -250,7 +250,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "09-livestock-production",
+          "slug": "l9",
           "title": {
             "ar": "الإنتاج الحيواني",
             "en": "Livestock Production"
@@ -267,7 +267,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "10-mineral-production",
+          "slug": "l10",
           "title": {
             "ar": "الإنتاج المعدني",
             "en": "Mineral Production"
@@ -284,7 +284,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "11-energy-sources",
+          "slug": "l11",
           "title": {
             "ar": "مصادر الطاقة",
             "en": "Energy Sources"
@@ -301,7 +301,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "12-petroleum",
+          "slug": "l12",
           "title": {
             "ar": "البترول",
             "en": "Petroleum"
@@ -318,7 +318,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "13-natural-gas",
+          "slug": "l13",
           "title": {
             "ar": "الغاز الطبيعي",
             "en": "Natural Gas"
@@ -335,7 +335,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-electrical-energy",
+          "slug": "l14",
           "title": {
             "ar": "الطاقة الكهربائية",
             "en": "Electrical Energy"
@@ -352,7 +352,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "15-nuclear-energy",
+          "slug": "l15",
           "title": {
             "ar": "الطاقة النووية",
             "en": "Nuclear Energy"
@@ -370,7 +370,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "16-industrial-production",
+          "slug": "l16",
           "title": {
             "ar": "الإنتاج الصناعي",
             "en": "Industrial Production"
@@ -387,7 +387,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "17-spatial-distribution-of-industry-in-the-world",
+          "slug": "l17",
           "title": {
             "ar": "التوزيع المكاني للصناعة في العالم",
             "en": "Spatial Distribution of Industry in the World"
@@ -403,7 +403,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "18-industrial-regions-of-north-america",
+          "slug": "l18",
           "title": {
             "ar": "الأقاليم الصناعية في أمريكا الشمالية",
             "en": "Industrial Regions of North America"
@@ -420,7 +420,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "19-industrial-regions-of-europe",
+          "slug": "l19",
           "title": {
             "ar": "الأقاليم الصناعية في أوربا",
             "en": "Industrial Regions of Europe"
@@ -436,7 +436,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "20-industrial-regions-of-the-russian-federation",
+          "slug": "l20",
           "title": {
             "ar": "الأقاليم الصناعية في روسيا الاتحادية",
             "en": "Industrial Regions of the Russian Federation"
@@ -452,7 +452,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "21-industry-in-japan",
+          "slug": "l21",
           "title": {
             "ar": "الصناعة في اليابان",
             "en": "Industry in Japan"
@@ -469,7 +469,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "22-the-tourism-industry",
+          "slug": "l22",
           "title": {
             "ar": "صناعة السياحة",
             "en": "The Tourism Industry"
@@ -486,7 +486,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "23-transport",
+          "slug": "l23",
           "title": {
             "ar": "النقل",
             "en": "Transport"
@@ -502,7 +502,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "24-modes-of-transport",
+          "slug": "l24",
           "title": {
             "ar": "طرق النقل",
             "en": "Modes of Transport"
@@ -518,7 +518,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "25-the-relationship-between-transport-and-trade",
+          "slug": "l25",
           "title": {
             "ar": "علاقة النقل بالتجارة",
             "en": "The Relationship between Transport and Trade"
@@ -533,7 +533,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "26-world-trade",
+          "slug": "l26",
           "title": {
             "ar": "التجارة العالمية",
             "en": "World Trade"
@@ -550,7 +550,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "27-regional-and-global-economic-blocs",
+          "slug": "l27",
           "title": {
             "ar": "التكتلات الاقتصادية الإقليمية والعالمية",
             "en": "Regional and Global Economic Blocs"
@@ -567,7 +567,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "28-globalisation-and-its-economic-manifestations",
+          "slug": "l28",
           "title": {
             "ar": "العولمة ومظاهرها الاقتصادية",
             "en": "Globalisation and Its Economic Manifestations"
@@ -586,7 +586,7 @@
       ]
     },
     {
-      "slug": "03-people-and-the-environment-global-problems",
+      "slug": "c3",
       "title": {
         "ar": "الإنسان والبيئة (مشكلات عالمية)",
         "en": "People and the Environment (Global Problems)"
@@ -598,7 +598,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-people-and-the-environment",
+          "slug": "l1",
           "title": {
             "ar": "الإنسان والبيئة",
             "en": "People and the Environment"
@@ -613,7 +613,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-ecological-balance",
+          "slug": "l2",
           "title": {
             "ar": "التوازن البيئي",
             "en": "Ecological Balance"
@@ -629,7 +629,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-environmental-pollution",
+          "slug": "l3",
           "title": {
             "ar": "تلوث البيئة",
             "en": "Environmental Pollution"
@@ -645,7 +645,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "04-air-pollution",
+          "slug": "l4",
           "title": {
             "ar": "تلوث الهواء",
             "en": "Air Pollution"
@@ -662,7 +662,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "05-freshwater-pollution",
+          "slug": "l5",
           "title": {
             "ar": "تلوث المياه العذبة",
             "en": "Freshwater Pollution"
@@ -679,7 +679,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-soil-pollution",
+          "slug": "l6",
           "title": {
             "ar": "تلوث التربة",
             "en": "Soil Pollution"
@@ -696,7 +696,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-non-material-pollution",
+          "slug": "l7",
           "title": {
             "ar": "التلوث غير المادي",
             "en": "Non-material Pollution"
@@ -712,7 +712,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-international-environmental-agreements",
+          "slug": "l8",
           "title": {
             "ar": "الاتفاقيات الدولية لحماية البيئة",
             "en": "International Environmental Agreements"
@@ -727,7 +727,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-depletion-of-natural-resources",
+          "slug": "l9",
           "title": {
             "ar": "استنزاف الموارد الطبيعية",
             "en": "Depletion of Natural Resources"
@@ -744,7 +744,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "10-food-security",
+          "slug": "l10",
           "title": {
             "ar": "الأمن الغذائي",
             "en": "Food Security"
@@ -761,7 +761,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-forests",
+          "slug": "l11",
           "title": {
             "ar": "الغابات",
             "en": "Forests"
@@ -777,7 +777,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "12-wildlife",
+          "slug": "l12",
           "title": {
             "ar": "الحياة البرية",
             "en": "Wildlife"
@@ -793,7 +793,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "13-fresh-water",
+          "slug": "l13",
           "title": {
             "ar": "المياه العذبة",
             "en": "Fresh Water"
@@ -809,7 +809,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "14-water-security",
+          "slug": "l14",
           "title": {
             "ar": "الأمن المائي",
             "en": "Water Security"
@@ -826,7 +826,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "15-the-seas",
+          "slug": "l15",
           "title": {
             "ar": "البحار",
             "en": "The Seas"
@@ -842,7 +842,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "16-minerals-and-mineral-fuels",
+          "slug": "l16",
           "title": {
             "ar": "المعادن والوقود المعدني",
             "en": "Minerals and Mineral Fuels"
@@ -858,7 +858,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "17-disasters",
+          "slug": "l17",
           "title": {
             "ar": "الكوارث",
             "en": "Disasters"
@@ -875,7 +875,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "18-development-problems-in-developing-countries",
+          "slug": "l18",
           "title": {
             "ar": "مشكلات التنمية في الدول النامية",
             "en": "Development Problems in Developing Countries"
@@ -892,7 +892,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "19-sustainable-development",
+          "slug": "l19",
           "title": {
             "ar": "التنمية المستدامة",
             "en": "Sustainable Development"
@@ -908,7 +908,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "20-causes-of-underdevelopment",
+          "slug": "l20",
           "title": {
             "ar": "عوامل تخلف الدول النامية",
             "en": "Causes of Underdevelopment"
@@ -925,7 +925,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "21-population-problems",
+          "slug": "l21",
           "title": {
             "ar": "المشكلات السكانية",
             "en": "Population Problems"
@@ -942,7 +942,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "22-some-urban-problems",
+          "slug": "l22",
           "title": {
             "ar": "بعض مشكلات المدن",
             "en": "Some Urban Problems"

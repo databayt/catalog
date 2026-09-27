@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-cells",
+      "slug": "c1",
       "title": {
         "en": "Cells & Living Systems"
       },
       "lessons": [
         {
-          "slug": "01-cell-theory",
+          "slug": "l1",
           "title": {
             "en": "Cells & Cell Theory"
           }
         },
         {
-          "slug": "02-body-systems",
+          "slug": "l2",
           "title": {
             "en": "Human Body Systems"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-matter-energy",
+      "slug": "c2",
       "title": {
         "en": "Matter & Energy"
       },
       "lessons": [
         {
-          "slug": "01-atoms-molecules",
+          "slug": "l1",
           "title": {
             "en": "Atoms & Molecules"
           }
         },
         {
-          "slug": "02-energy",
+          "slug": "l2",
           "title": {
             "en": "Energy & Heat Transfer"
           }

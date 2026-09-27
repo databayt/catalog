@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-mathematical-logic",
+      "slug": "c1",
       "title": {
         "ar": "المنطق الرياضي",
         "en": "Mathematical Logic"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-logical-proposition-statement",
+          "slug": "l1",
           "title": {
             "ar": "القضية المنطقية (العبارة)",
             "en": "The Logical Proposition (Statement)"
@@ -48,7 +48,7 @@
           "page": 3
         },
         {
-          "slug": "02-negation-of-a-proposition",
+          "slug": "l2",
           "title": {
             "ar": "نفي القضية",
             "en": "Negation of a Proposition"
@@ -56,7 +56,7 @@
           "page": 7
         },
         {
-          "slug": "03-truth-tables-for-two-and-three-propositions",
+          "slug": "l3",
           "title": {
             "ar": "جدول الصواب لقضيتين وثلاث قضايا",
             "en": "Truth Tables for Two and Three Propositions"
@@ -64,7 +64,7 @@
           "page": 9
         },
         {
-          "slug": "04-logical-connectives",
+          "slug": "l4",
           "title": {
             "ar": "الروابط المنطقية",
             "en": "Logical Connectives"
@@ -72,7 +72,7 @@
           "page": 14
         },
         {
-          "slug": "05-the-connective-or",
+          "slug": "l5",
           "title": {
             "ar": "الرابط «أو»",
             "en": "The Connective 'Or'"
@@ -80,7 +80,7 @@
           "page": 19
         },
         {
-          "slug": "06-the-connective-if-then-the-conditional",
+          "slug": "l6",
           "title": {
             "ar": "الرابط «إذا كان فإن»: القضية الشرطية",
             "en": "The Connective 'If Then': The Conditional Proposition"
@@ -88,7 +88,7 @@
           "page": 24
         },
         {
-          "slug": "07-the-connective-if-and-only-if-the-biconditional",
+          "slug": "l7",
           "title": {
             "ar": "الرابط «إذا وفقط إذا»: القضية الشرطية الثنائية",
             "en": "The Connective 'If and Only If': The Biconditional Proposition"
@@ -96,7 +96,7 @@
           "page": 28
         },
         {
-          "slug": "08-implication-and-equivalence",
+          "slug": "l8",
           "title": {
             "ar": "الاقتضاء والتكافؤ",
             "en": "Implication and Equivalence"
@@ -104,7 +104,7 @@
           "page": 32
         },
         {
-          "slug": "09-properties-of-logical-connectives",
+          "slug": "l9",
           "title": {
             "ar": "خواص الروابط المنطقية",
             "en": "Properties of Logical Connectives"
@@ -112,7 +112,7 @@
           "page": 39
         },
         {
-          "slug": "10-logically-true-and-logically-false-propositions",
+          "slug": "l10",
           "title": {
             "ar": "القضايا الصائبة والخاطئة منطقياً",
             "en": "Logically True and Logically False Propositions"
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "slug": "02-sets",
+      "slug": "c2",
       "title": {
         "ar": "المجموعات (الفئات)",
         "en": "Sets"
@@ -133,7 +133,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة",
             "en": "Review"
@@ -141,7 +141,7 @@
           "page": 44
         },
         {
-          "slug": "02-operations-on-sets",
+          "slug": "l2",
           "title": {
             "ar": "العمليات على المجموعات",
             "en": "Operations on Sets"
@@ -149,7 +149,7 @@
           "page": 49
         },
         {
-          "slug": "03-intersection-of-two-sets",
+          "slug": "l3",
           "title": {
             "ar": "تقاطع مجموعتين",
             "en": "Intersection of Two Sets"
@@ -157,7 +157,7 @@
           "page": 51
         },
         {
-          "slug": "04-union-of-two-sets",
+          "slug": "l4",
           "title": {
             "ar": "اتحاد مجموعتين",
             "en": "Union of Two Sets"
@@ -165,7 +165,7 @@
           "page": 55
         },
         {
-          "slug": "05-difference-of-two-sets",
+          "slug": "l5",
           "title": {
             "ar": "الفرق بين مجموعتين",
             "en": "Difference of Two Sets"
@@ -173,7 +173,7 @@
           "page": 59
         },
         {
-          "slug": "06-the-complement-of-a-set",
+          "slug": "l6",
           "title": {
             "ar": "المجموعة المتممة",
             "en": "The Complement of a Set"
@@ -181,7 +181,7 @@
           "page": 62
         },
         {
-          "slug": "07-some-important-properties-of-intersection-and",
+          "slug": "l7",
           "title": {
             "ar": "بعض الخواص الهامة لعمليتي التقاطع والاتحاد",
             "en": "Some Important Properties of Intersection and Union"
@@ -189,7 +189,7 @@
           "page": 66
         },
         {
-          "slug": "08-intervals",
+          "slug": "l8",
           "title": {
             "ar": "الفترات",
             "en": "Intervals"
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "slug": "03-relations",
+      "slug": "c3",
       "title": {
         "ar": "العلاقات",
         "en": "Relations"
@@ -210,7 +210,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-ordered-pair",
+          "slug": "l1",
           "title": {
             "ar": "الزوج المرتب",
             "en": "The Ordered Pair"
@@ -218,7 +218,7 @@
           "page": 76
         },
         {
-          "slug": "02-the-cartesian-product",
+          "slug": "l2",
           "title": {
             "ar": "حاصل الضرب الديكارتي",
             "en": "The Cartesian Product"
@@ -226,7 +226,7 @@
           "page": 78
         },
         {
-          "slug": "03-the-relation",
+          "slug": "l3",
           "title": {
             "ar": "العلاقة",
             "en": "The Relation"
@@ -234,7 +234,7 @@
           "page": 80
         },
         {
-          "slug": "04-some-important-relations",
+          "slug": "l4",
           "title": {
             "ar": "بعض العلاقات الهامة",
             "en": "Some Important Relations"
@@ -242,7 +242,7 @@
           "page": 85
         },
         {
-          "slug": "05-properties-of-a-relation-on-a-set",
+          "slug": "l5",
           "title": {
             "ar": "خواص العلاقة على المجموعة",
             "en": "Properties of a Relation on a Set"
@@ -250,7 +250,7 @@
           "page": 89
         },
         {
-          "slug": "06-the-symmetric-relation",
+          "slug": "l6",
           "title": {
             "ar": "العلاقة المتماثلة (المتناظرة)",
             "en": "The Symmetric Relation"
@@ -258,7 +258,7 @@
           "page": 93
         },
         {
-          "slug": "07-the-transitive-relation",
+          "slug": "l7",
           "title": {
             "ar": "العلاقة المتعدية (الناقلة)",
             "en": "The Transitive Relation"
@@ -266,7 +266,7 @@
           "page": 97
         },
         {
-          "slug": "08-the-equivalence-relation",
+          "slug": "l8",
           "title": {
             "ar": "علاقة التكافؤ",
             "en": "The Equivalence Relation"
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "slug": "04-polynomials",
+      "slug": "c4",
       "title": {
         "ar": "كثيرات الحدود (الحدوديات)",
         "en": "Polynomials"
@@ -287,7 +287,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-open-sentence-and-the-solution-set",
+          "slug": "l1",
           "title": {
             "ar": "الجملة المفتوحة ومجموعة الحل",
             "en": "The Open Sentence and the Solution Set"
@@ -295,7 +295,7 @@
           "page": 109
         },
         {
-          "slug": "02-polynomials",
+          "slug": "l2",
           "title": {
             "ar": "كثيرات الحدود (الحدوديات)",
             "en": "Polynomials"
@@ -303,7 +303,7 @@
           "page": 113
         },
         {
-          "slug": "03-operations-on-polynomial-functions",
+          "slug": "l3",
           "title": {
             "ar": "العمليات على الدوال كثيرات الحدود",
             "en": "Operations on Polynomial Functions"
@@ -311,7 +311,7 @@
           "page": 117
         },
         {
-          "slug": "04-solving-quadratic-equations-graphically",
+          "slug": "l4",
           "title": {
             "ar": "حل معادلات الدرجة الثانية بيانياً",
             "en": "Solving Quadratic Equations Graphically"
@@ -320,7 +320,7 @@
           "image": "clickview/high-graphs-cover.jpg"
         },
         {
-          "slug": "05-factorising-the-quadratic-polynomial",
+          "slug": "l5",
           "title": {
             "ar": "تحليل الحدودية من الدرجة الثانية",
             "en": "Factorising the Quadratic Polynomial"
@@ -328,7 +328,7 @@
           "page": 130
         },
         {
-          "slug": "06-solving-the-quadratic-equation",
+          "slug": "l6",
           "title": {
             "ar": "حل معادلة الدرجة الثانية",
             "en": "Solving the Quadratic Equation"
@@ -336,7 +336,7 @@
           "page": 136
         },
         {
-          "slug": "07-solving-the-equation-by-completing-the-square",
+          "slug": "l7",
           "title": {
             "ar": "حل المعادلة بطريقة إكمال المربع",
             "en": "Solving the Equation by Completing the Square"
@@ -344,7 +344,7 @@
           "page": 140
         },
         {
-          "slug": "08-the-general-formula-for-solving-the-quadratic",
+          "slug": "l8",
           "title": {
             "ar": "القانون العام لحل المعادلة التربيعية",
             "en": "The General Formula for Solving the Quadratic Equation"
@@ -352,7 +352,7 @@
           "page": 143
         },
         {
-          "slug": "09-the-discriminant-and-properties-of-the-roots",
+          "slug": "l9",
           "title": {
             "ar": "المميز وخواص الجذور",
             "en": "The Discriminant and Properties of the Roots"
@@ -360,7 +360,7 @@
           "page": 148
         },
         {
-          "slug": "10-simplifying-rational-expressions",
+          "slug": "l10",
           "title": {
             "ar": "تبسيط المقادير الكسرية",
             "en": "Simplifying Rational Expressions"
@@ -368,7 +368,7 @@
           "page": 150
         },
         {
-          "slug": "11-the-remainder-theorem",
+          "slug": "l11",
           "title": {
             "ar": "نظرية الباقي",
             "en": "The Remainder Theorem"
@@ -376,7 +376,7 @@
           "page": 157
         },
         {
-          "slug": "12-the-factor-theorem",
+          "slug": "l12",
           "title": {
             "ar": "نظرية العامل",
             "en": "The Factor Theorem"
@@ -384,7 +384,7 @@
           "page": 161
         },
         {
-          "slug": "13-roots-of-equations-of-degree-greater-than-2",
+          "slug": "l13",
           "title": {
             "ar": "جذور المعادلة من درجة أكبر من 2",
             "en": "Roots of Equations of Degree Greater than 2"
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "slug": "05-variation",
+      "slug": "c5",
       "title": {
         "ar": "التغير",
         "en": "Variation"
@@ -405,7 +405,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-direct-variation",
+          "slug": "l1",
           "title": {
             "ar": "التغير الطردي",
             "en": "Direct Variation"
@@ -413,7 +413,7 @@
           "page": 172
         },
         {
-          "slug": "02-inverse-variation",
+          "slug": "l2",
           "title": {
             "ar": "التغير العكسي",
             "en": "Inverse Variation"
@@ -421,7 +421,7 @@
           "page": 179
         },
         {
-          "slug": "03-joint-variation",
+          "slug": "l3",
           "title": {
             "ar": "التغير المشترك",
             "en": "Joint Variation"
@@ -429,7 +429,7 @@
           "page": 185
         },
         {
-          "slug": "04-partial-variation",
+          "slug": "l4",
           "title": {
             "ar": "التغير الجزئي",
             "en": "Partial Variation"
@@ -439,7 +439,7 @@
       ]
     },
     {
-      "slug": "06-circular-trigonometric-functions",
+      "slug": "c6",
       "title": {
         "ar": "الدوال الدائرية (المثلثية)",
         "en": "Circular (Trigonometric) Functions"
@@ -450,7 +450,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-directed-angle",
+          "slug": "l1",
           "title": {
             "ar": "الزاوية الموجهة",
             "en": "The Directed Angle"
@@ -458,7 +458,7 @@
           "page": 194
         },
         {
-          "slug": "02-standard-position-of-the-directed-angle",
+          "slug": "l2",
           "title": {
             "ar": "الوضع القياسي للزاوية الموجهة",
             "en": "Standard Position of the Directed Angle"
@@ -466,7 +466,7 @@
           "page": 198
         },
         {
-          "slug": "03-measuring-angles",
+          "slug": "l3",
           "title": {
             "ar": "قياس الزوايا",
             "en": "Measuring Angles"
@@ -474,7 +474,7 @@
           "page": 201
         },
         {
-          "slug": "04-radian-measure",
+          "slug": "l4",
           "title": {
             "ar": "التقدير الدائري",
             "en": "Radian Measure"
@@ -482,7 +482,7 @@
           "page": 206
         },
         {
-          "slug": "05-the-trigonometric-point-and-trigonometric",
+          "slug": "l5",
           "title": {
             "ar": "النقطة المثلثية والدوال المثلثية",
             "en": "The Trigonometric Point and Trigonometric Functions"
@@ -491,7 +491,7 @@
           "image": "clickview/high-functions-cover.jpg"
         },
         {
-          "slug": "06-the-tangent-function",
+          "slug": "l6",
           "title": {
             "ar": "دالة الظل",
             "en": "The Tangent Function"
@@ -500,7 +500,7 @@
           "image": "clickview/high-functions-cover.jpg"
         },
         {
-          "slug": "07-trigonometric-functions-of-some-special-angles",
+          "slug": "l7",
           "title": {
             "ar": "الدوال المثلثية لبعض الزوايا الخاصة",
             "en": "Trigonometric Functions of Some Special Angles"
@@ -508,7 +508,7 @@
           "page": 219
         },
         {
-          "slug": "08-the-reference-angle",
+          "slug": "l8",
           "title": {
             "ar": "زاوية الإسناد",
             "en": "The Reference Angle"
@@ -516,7 +516,7 @@
           "page": 225
         },
         {
-          "slug": "09-the-secant-cosecant-and-cotangent-functions",
+          "slug": "l9",
           "title": {
             "ar": "دوال القاطع وقاطع التمام وظل التمام",
             "en": "The Secant, Cosecant and Cotangent Functions"
@@ -525,7 +525,7 @@
           "image": "clickview/high-functions-cover.jpg"
         },
         {
-          "slug": "10-the-fundamental-identity-sin2-cos2-1",
+          "slug": "l10",
           "title": {
             "ar": "العلاقة الأساسية: جا²هـ + جتا²هـ = 1",
             "en": "The Fundamental Identity: sin²θ + cos²θ = 1"
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "slug": "07-analytic-coordinate-geometry",
+      "slug": "c7",
       "title": {
         "ar": "الهندسة التحليلية (الإحداثية)",
         "en": "Analytic (Coordinate) Geometry"
@@ -547,7 +547,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة",
             "en": "Introduction"
@@ -555,7 +555,7 @@
           "page": 240
         },
         {
-          "slug": "02-the-rectangular-coordinate-system-in-the-plane",
+          "slug": "l2",
           "title": {
             "ar": "نظام الإحداثيات المتعامدة في المستوى",
             "en": "The Rectangular Coordinate System in the Plane"
@@ -563,7 +563,7 @@
           "page": 240
         },
         {
-          "slug": "03-the-distance-between-two-points-in-the",
+          "slug": "l3",
           "title": {
             "ar": "المسافة بين نقطتين في المستوى الإحداثي",
             "en": "The Distance between Two Points in the Coordinate Plane"
@@ -571,7 +571,7 @@
           "page": 247
         },
         {
-          "slug": "04-coordinates-of-a-point-dividing-a-line-segment",
+          "slug": "l4",
           "title": {
             "ar": "إحداثيات نقطة تقسيم قطعة مستقيمة في المستوى الإحداثي",
             "en": "Coordinates of a Point Dividing a Line Segment in the Coordinate Plane"
@@ -579,7 +579,7 @@
           "page": 252
         },
         {
-          "slug": "05-the-slope-of-a-straight-line",
+          "slug": "l5",
           "title": {
             "ar": "ميل الخط المستقيم",
             "en": "The Slope of a Straight Line"
@@ -587,7 +587,7 @@
           "page": 261
         },
         {
-          "slug": "06-the-angle-between-two-lines",
+          "slug": "l6",
           "title": {
             "ar": "الزاوية بين مستقيمين",
             "en": "The Angle between Two Lines"
@@ -595,7 +595,7 @@
           "page": 266
         },
         {
-          "slug": "07-parallel-and-perpendicular-lines",
+          "slug": "l7",
           "title": {
             "ar": "المستقيمات المتوازية والمستقيمات المتعامدة",
             "en": "Parallel and Perpendicular Lines"

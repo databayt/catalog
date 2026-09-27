@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g2-uae-unit-02-respect-01-respect-lq01",
+      "type": "mcq",
+      "question": "Respect means treating people with:",
+      "options": [
+        "kindness and care",
+        "rudeness",
+        "unfairness",
+        "fear"
+      ],
+      "answer": "kindness and care",
+      "explanation": "Respect."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-01-respect-lq02",
+      "type": "true_false",
+      "question": "We should respect people who are different from us.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Tolerance."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-01-respect-lq03",
+      "type": "fill_blank",
+      "question": "Listening when others speak shows ___.",
+      "answer": "respect",
+      "explanation": "Respect."
+    },
+    {
+      "id": "g2-uae-unit-02-respect-01-respect-lq04",
+      "type": "short_answer",
+      "question": "Give one way to show respect to elders.",
+      "answer": "e.g., listen, speak politely, and help them.",
+      "explanation": "Respect."
+    }
+  ]
+}

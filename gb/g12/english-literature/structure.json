@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-tragedy",
+      "slug": "c1",
       "title": {
         "en": "Aspects of Tragedy"
       },
       "lessons": [
         {
-          "slug": "01-tragic-conventions",
+          "slug": "l1",
           "title": {
             "en": "Tragic Conventions"
           }
         },
         {
-          "slug": "02-critical",
+          "slug": "l2",
           "title": {
             "en": "Critical Interpretations"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-poetry-criticism",
+      "slug": "c2",
       "title": {
         "en": "Poetry & Literary Criticism"
       },
       "lessons": [
         {
-          "slug": "01-poetic-method",
+          "slug": "l1",
           "title": {
             "en": "Poetic Methods"
           }
         },
         {
-          "slug": "02-context",
+          "slug": "l2",
           "title": {
             "en": "Context & Connections"
           }

@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-democracy",
+      "slug": "c1",
       "title": {
         "en": "Government & Democracy"
       },
       "lessons": [
         {
-          "slug": "01-democracy",
+          "slug": "l1",
           "title": {
             "en": "How Democracy Works"
           }
         },
         {
-          "slug": "02-law",
+          "slug": "l2",
           "title": {
             "en": "Law & Rights"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-society",
+      "slug": "c2",
       "title": {
         "en": "The Citizen & Society"
       },
       "lessons": [
         {
-          "slug": "01-community",
+          "slug": "l1",
           "title": {
             "en": "Community & Identity"
           }
         },
         {
-          "slug": "02-economy",
+          "slug": "l2",
           "title": {
             "en": "Citizens & the Economy"
           }

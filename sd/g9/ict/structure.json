@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-programming-basics",
+      "slug": "c1",
       "title": {
         "ar": "أساسيات البرمجة",
         "en": "Fundamentals of Programming"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-programming-concepts",
+          "slug": "l1",
           "title": {
             "ar": "مفاهيم في البرمجة",
             "en": "Concepts in Programming"
@@ -40,7 +40,7 @@
           "page": 7
         },
         {
-          "slug": "02-importance-of-programming",
+          "slug": "l2",
           "title": {
             "ar": "أهمية البرمجة",
             "en": "The Importance of Programming"
@@ -48,7 +48,7 @@
           "page": 11
         },
         {
-          "slug": "03-programming-stages",
+          "slug": "l3",
           "title": {
             "ar": "مراحل البرمجة",
             "en": "Stages of Programming"
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "slug": "02-intro-to-programming-languages",
+      "slug": "c2",
       "title": {
         "ar": "مدخل للغات البرمجة",
         "en": "Introduction to Programming Languages"
@@ -69,7 +69,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-programming-language-generations",
+          "slug": "l1",
           "title": {
             "ar": "أجيال لغات البرمجة",
             "en": "Generations of Programming Languages"
@@ -77,7 +77,7 @@
           "page": 20
         },
         {
-          "slug": "02-program-translation",
+          "slug": "l2",
           "title": {
             "ar": "ترجمة البرنامج",
             "en": "Program Translation"
@@ -85,7 +85,7 @@
           "page": 25
         },
         {
-          "slug": "03-common-programming-concepts",
+          "slug": "l3",
           "title": {
             "ar": "مفاهيم مشتركة في لغات البرمجة",
             "en": "Common Concepts in Programming Languages"
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "slug": "03-algorithms-and-flowcharts",
+      "slug": "c3",
       "title": {
         "ar": "الخوارزميات والمخططات الانسيابية",
         "en": "Algorithms and Flowcharts"
@@ -106,7 +106,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-programming-problems",
+          "slug": "l1",
           "title": {
             "ar": "المشكلات البرمجية",
             "en": "Programming Problems"
@@ -114,7 +114,7 @@
           "page": 33
         },
         {
-          "slug": "02-algorithms",
+          "slug": "l2",
           "title": {
             "ar": "الخوارزميات",
             "en": "Algorithms"
@@ -122,7 +122,7 @@
           "page": 37
         },
         {
-          "slug": "03-flowcharts",
+          "slug": "l3",
           "title": {
             "ar": "المخططات الانسيابية",
             "en": "Flowcharts"
@@ -130,7 +130,7 @@
           "page": 42
         },
         {
-          "slug": "04-algorithm-applications",
+          "slug": "l4",
           "title": {
             "ar": "تطبيقات على الخوارزميات",
             "en": "Applications of Algorithms"
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "slug": "04-scratch-programming-principles",
+      "slug": "c4",
       "title": {
         "ar": "مبادئ البرمجة بلغة سكراتش",
         "en": "Principles of Programming with Scratch"
@@ -151,7 +151,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-intro-to-scratch",
+          "slug": "l1",
           "title": {
             "ar": "مدخل إلى لغة البرمجة سكراتش",
             "en": "Introduction to the Scratch Programming Language"
@@ -159,7 +159,7 @@
           "page": 56
         },
         {
-          "slug": "02-scratch-interface",
+          "slug": "l2",
           "title": {
             "ar": "واجهة برنامج سكراتش",
             "en": "The Scratch Program Interface"
@@ -167,7 +167,7 @@
           "page": 60
         },
         {
-          "slug": "03-working-with-scratch",
+          "slug": "l3",
           "title": {
             "ar": "التعامل مع لغة البرمجة سكراتش",
             "en": "Working with the Scratch Programming Language"
@@ -175,7 +175,7 @@
           "page": 64
         },
         {
-          "slug": "04-working-with-blocks",
+          "slug": "l4",
           "title": {
             "ar": "التعامل مع اللبنات",
             "en": "Working with Blocks"
@@ -183,7 +183,7 @@
           "page": 72
         },
         {
-          "slug": "05-block-applications",
+          "slug": "l5",
           "title": {
             "ar": "تطبيقات على اللبنات",
             "en": "Applications of Blocks"
@@ -191,7 +191,7 @@
           "page": 78
         },
         {
-          "slug": "06-scratch-project-design",
+          "slug": "l6",
           "title": {
             "ar": "تصميم مشروع بلغة البرمجة سكراتش",
             "en": "Designing a Project with the Scratch Programming Language"

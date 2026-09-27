@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-02-fractions-advanced-exam",
+      "title": "Exam: Fractions: Add, Subtract, Multiply",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq01",
+          "type": "mcq",
+          "question": "1/2 + 1/3 = ?",
+          "options": [
+            "2/5",
+            "5/6",
+            "2/6",
+            "3/5"
+          ],
+          "answer": "5/6",
+          "explanation": "Common denominator 6: 3/6+2/6=5/6."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq02",
+          "type": "true_false",
+          "question": "You need a common denominator to add unlike fractions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Parts must be equal-sized."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq03",
+          "type": "fill_blank",
+          "question": "3/4 - 1/2 = ___.",
+          "answer": "1/4",
+          "explanation": "3/4 - 2/4 = 1/4."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-01-unlike-denominators-lq04",
+          "type": "short_answer",
+          "question": "How do you find a common denominator?",
+          "answer": "Use a common multiple of the denominators.",
+          "explanation": "LCM works well."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq01",
+          "type": "mcq",
+          "question": "2/3 × 3/4 = ?",
+          "options": [
+            "6/12",
+            "5/7",
+            "1/2",
+            "6/7"
+          ],
+          "answer": "6/12",
+          "explanation": "Multiply across: 6/12 = 1/2."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq02",
+          "type": "true_false",
+          "question": "Multiplying a number by 1/2 makes it smaller.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Multiplying by a proper fraction reduces it."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq03",
+          "type": "fill_blank",
+          "question": "1/2 × 1/2 = ___.",
+          "answer": "1/4",
+          "explanation": "Half of a half."
+        },
+        {
+          "id": "g5-mat-unit-02-fractions-advanced-02-multiply-fractions-lq04",
+          "type": "short_answer",
+          "question": "How do you multiply two fractions?",
+          "answer": "Multiply numerators together and denominators together.",
+          "explanation": "Then simplify."
+        }
+      ]
+    }
+  ]
+}

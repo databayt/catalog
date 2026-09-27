@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-drawing-coloring",
+      "slug": "c1",
       "title": {
         "ar": "الرسم والتلوين"
       },
@@ -29,7 +29,7 @@
       "lessons": []
     },
     {
-      "slug": "02-design-decoration",
+      "slug": "c2",
       "title": {
         "ar": "التصميم والزخرفة"
       },
@@ -38,7 +38,7 @@
       "lessons": []
     },
     {
-      "slug": "03-mixed-materials",
+      "slug": "c3",
       "title": {
         "ar": "التشكيل بالخامات المختلفة"
       },
@@ -47,7 +47,7 @@
       "lessons": []
     },
     {
-      "slug": "04-art-appreciation",
+      "slug": "c4",
       "title": {
         "ar": "التذوق الفني"
       },
@@ -56,7 +56,7 @@
       "lessons": []
     },
     {
-      "slug": "05-arabic-calligraphy",
+      "slug": "c5",
       "title": {
         "ar": "الخط العربي"
       },

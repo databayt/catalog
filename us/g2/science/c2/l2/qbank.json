@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g2-sci-unit-02-earth-02-water-on-earth-lq01",
+      "type": "mcq",
+      "question": "Most of Earth's surface is covered by:",
+      "options": [
+        "land",
+        "water",
+        "ice cream",
+        "sand"
+      ],
+      "answer": "water",
+      "explanation": "Oceans dominate."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-02-water-on-earth-lq02",
+      "type": "true_false",
+      "question": "Water can be found as ice at the poles.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Solid water."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-02-water-on-earth-lq03",
+      "type": "fill_blank",
+      "question": "Rain, rivers, and lakes are ___ water.",
+      "answer": "fresh",
+      "explanation": "Freshwater."
+    },
+    {
+      "id": "g2-sci-unit-02-earth-02-water-on-earth-lq04",
+      "type": "short_answer",
+      "question": "List two places water is found on Earth.",
+      "answer": "Oceans and rivers (also lakes, glaciers).",
+      "explanation": "Water locations."
+    }
+  ]
+}

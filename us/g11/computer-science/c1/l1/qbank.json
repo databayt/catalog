@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "computer-science",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq01",
+      "type": "mcq",
+      "question": "A named store for a value in a program is a:",
+      "options": [
+        "variable",
+        "virus",
+        "cable",
+        "pixel"
+      ],
+      "answer": "variable",
+      "explanation": "Variables."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq02",
+      "type": "true_false",
+      "question": "Selection uses conditions like if-statements.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Selection."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq03",
+      "type": "fill_blank",
+      "question": "Repeating code is called iteration or a ___.",
+      "answer": "loop",
+      "explanation": "Iteration."
+    },
+    {
+      "id": "g11-com-unit-01-programming-01-fundamentals-lq04",
+      "type": "short_answer",
+      "question": "What is a variable used for?",
+      "answer": "To store and reuse a value in a program.",
+      "explanation": "Variables."
+    }
+  ]
+}

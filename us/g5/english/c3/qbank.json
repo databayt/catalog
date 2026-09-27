@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "c3"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-03-writing-01-narrative-lq01",
+      "type": "mcq",
+      "question": "A narrative tells a:",
+      "options": [
+        "list of facts",
+        "story",
+        "menu",
+        "map"
+      ],
+      "answer": "story",
+      "explanation": "Narrative = story."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-01-narrative-lq02",
+      "type": "true_false",
+      "question": "Narratives often include dialogue.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Characters speak."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-01-narrative-lq03",
+      "type": "fill_blank",
+      "question": "The high point of a story is the ___.",
+      "answer": "climax",
+      "explanation": "Turning point."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-01-narrative-lq04",
+      "type": "short_answer",
+      "question": "Name the parts of a plot.",
+      "answer": "Beginning, rising action, climax, falling action, resolution.",
+      "explanation": "Plot structure."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-02-research-lq01",
+      "type": "mcq",
+      "question": "Citing a source means:",
+      "options": [
+        "copying secretly",
+        "giving credit",
+        "ignoring it",
+        "deleting it"
+      ],
+      "answer": "giving credit",
+      "explanation": "Credit the original author."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-02-research-lq02",
+      "type": "true_false",
+      "question": "Using someone's words without credit is plagiarism.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Always cite."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-02-research-lq03",
+      "type": "fill_blank",
+      "question": "A list of sources used is a ___.",
+      "answer": "bibliography",
+      "explanation": "Works cited."
+    },
+    {
+      "id": "g5-eng-unit-03-writing-02-research-lq04",
+      "type": "short_answer",
+      "question": "Why cite sources?",
+      "answer": "To give credit and let readers verify information.",
+      "explanation": "Honesty + verification."
+    }
+  ]
+}

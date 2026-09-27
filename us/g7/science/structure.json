@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-ecosystems",
+      "slug": "c1",
       "title": {
         "en": "Ecosystems & Energy Flow"
       },
       "lessons": [
         {
-          "slug": "01-food-webs",
+          "slug": "l1",
           "title": {
             "en": "Food Webs & Energy"
           }
         },
         {
-          "slug": "02-cycles",
+          "slug": "l2",
           "title": {
             "en": "Cycles of Matter"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-forces-chem",
+      "slug": "c2",
       "title": {
         "en": "Chemical Reactions"
       },
       "lessons": [
         {
-          "slug": "01-reactions",
+          "slug": "l1",
           "title": {
             "en": "Chemical Reactions"
           }
         },
         {
-          "slug": "02-conservation",
+          "slug": "l2",
           "title": {
             "en": "Conservation of Mass"
           }

@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-part-1-the-verbal-sentence-and-accusative-nouns",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: الجملة الفعلية ومنصوبات الأسماء",
         "en": "Part 1: The Verbal Sentence and Accusative Nouns"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-verbal-sentence",
+          "slug": "l1",
           "title": {
             "ar": "الجملة الفعلية",
             "en": "The Verbal Sentence"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-accusative-nouns",
+          "slug": "l2",
           "title": {
             "ar": "منصوبات الأسماء",
             "en": "Accusative Nouns"
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "slug": "02-part-2-some-grammatical-styles",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: بعض الأساليب النحوية",
         "en": "Part 2: Some Grammatical Styles"
@@ -69,7 +69,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-style-of-specification",
+          "slug": "l1",
           "title": {
             "ar": "أسلوب الاختصاص",
             "en": "The Style of Specification"
@@ -77,7 +77,7 @@
           "page": 9
         },
         {
-          "slug": "02-the-styles-of-incitement-and-warning",
+          "slug": "l2",
           "title": {
             "ar": "أسلوب الإغراء والتحذير",
             "en": "The Styles of Incitement and Warning"
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "slug": "03-part-3-vowel-mutation-and-substitution",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: الإعلال والإبدال",
         "en": "Part 3: Vowel Mutation and Substitution"
@@ -98,7 +98,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-vowel-mutation-and-substitution",
+          "slug": "l1",
           "title": {
             "ar": "الإعلال والإبدال",
             "en": "Vowel Mutation and Substitution"
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "slug": "04-part-4-verbs",
+      "slug": "c4",
       "title": {
         "ar": "الباب الرابع: الأفعال",
         "en": "Part 4: Verbs"
@@ -119,7 +119,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sound-and-weak-verbs",
+          "slug": "l1",
           "title": {
             "ar": "تقسيم الفعل إلى صحيح ومعتل",
             "en": "Sound and Weak Verbs"
@@ -127,7 +127,7 @@
           "page": 46
         },
         {
-          "slug": "02-patterns-of-the-bare-triliteral-verb",
+          "slug": "l2",
           "title": {
             "ar": "أبواب الفعل الثلاثي المجرد",
             "en": "Patterns of the Bare Triliteral Verb"
@@ -135,7 +135,7 @@
           "page": 55
         },
         {
-          "slug": "03-rules-of-the-weak-verb",
+          "slug": "l3",
           "title": {
             "ar": "أحكام الفعل المعتل",
             "en": "Rules of the Weak Verb"
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "slug": "05-part-5-verbal-nouns",
+      "slug": "c5",
       "title": {
         "ar": "الباب الخامس: المصادر",
         "en": "Part 5: Verbal Nouns"
@@ -156,7 +156,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-verbal-nouns-of-triliteral-verbs",
+          "slug": "l1",
           "title": {
             "ar": "مصادر الأفعال الثلاثية",
             "en": "Verbal Nouns of Triliteral Verbs"
@@ -164,7 +164,7 @@
           "page": 80
         },
         {
-          "slug": "02-verbal-nouns-of-quadriliteral-verbs",
+          "slug": "l2",
           "title": {
             "ar": "مصادر الأفعال الرباعية",
             "en": "Verbal Nouns of Quadriliteral Verbs"
@@ -172,7 +172,7 @@
           "page": 87
         },
         {
-          "slug": "03-verbal-nouns-of-five-letter-verbs",
+          "slug": "l3",
           "title": {
             "ar": "مصادر الأفعال الخماسية",
             "en": "Verbal Nouns of Five-Letter Verbs"
@@ -180,7 +180,7 @@
           "page": 91
         },
         {
-          "slug": "04-verbal-nouns-of-six-letter-verbs",
+          "slug": "l4",
           "title": {
             "ar": "مصادر السداسي",
             "en": "Verbal Nouns of Six-Letter Verbs"
@@ -188,7 +188,7 @@
           "page": 92
         },
         {
-          "slug": "05-the-mim-prefixed-verbal-noun",
+          "slug": "l5",
           "title": {
             "ar": "المصدر الميمي",
             "en": "The Mim-Prefixed Verbal Noun"
@@ -196,7 +196,7 @@
           "page": 95
         },
         {
-          "slug": "06-the-artificial-verbal-noun",
+          "slug": "l6",
           "title": {
             "ar": "المصدر الصناعي",
             "en": "The Artificial Verbal Noun"
@@ -204,7 +204,7 @@
           "page": 98
         },
         {
-          "slug": "07-nouns-of-instance-and-manner",
+          "slug": "l7",
           "title": {
             "ar": "اسم المرة واسم الهيئة",
             "en": "Nouns of Instance and Manner"
@@ -212,7 +212,7 @@
           "page": 99
         },
         {
-          "slug": "08-the-interpreted-verbal-noun",
+          "slug": "l8",
           "title": {
             "ar": "المصدر المؤول",
             "en": "The Interpreted Verbal Noun"
@@ -220,7 +220,7 @@
           "page": 103
         },
         {
-          "slug": "09-the-verbal-noun-acting-as-a-verb",
+          "slug": "l9",
           "title": {
             "ar": "إعمال المصدر",
             "en": "The Verbal Noun Acting as a Verb"
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "slug": "06-part-6-the-diminutive",
+      "slug": "c6",
       "title": {
         "ar": "الباب السادس: التصغير",
         "en": "Part 6: The Diminutive"
@@ -241,7 +241,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-diminutive-definition-purposes-and-forms",
+          "slug": "l1",
           "title": {
             "ar": "التصغير: تعريفه وأغراضه وصيغه",
             "en": "The Diminutive: Definition, Purposes and Forms"
@@ -249,7 +249,7 @@
           "page": 115
         },
         {
-          "slug": "02-how-to-form-the-diminutive",
+          "slug": "l2",
           "title": {
             "ar": "كيفية التصغير",
             "en": "How to Form the Diminutive"
@@ -257,7 +257,7 @@
           "page": 118
         },
         {
-          "slug": "03-diminutives-of-words-with-a-weak-second-or",
+          "slug": "l3",
           "title": {
             "ar": "تصغير ما ثانيه حرف علة وما ثالثه حرف علة",
             "en": "Diminutives of Words with a Weak Second or Third Letter"

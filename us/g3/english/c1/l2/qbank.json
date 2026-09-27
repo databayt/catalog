@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g3-eng-unit-01-reading-literature-02-theme-lq01",
+      "type": "mcq",
+      "question": "A theme is the story's:",
+      "options": [
+        "page count",
+        "lesson or message",
+        "cover",
+        "author"
+      ],
+      "answer": "lesson or message",
+      "explanation": "Theme = central message."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-02-theme-lq02",
+      "type": "true_false",
+      "question": "'Honesty is important' could be a theme.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "A life lesson."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-02-theme-lq03",
+      "type": "fill_blank",
+      "question": "The message a story teaches is its ___.",
+      "answer": "theme",
+      "explanation": "Central idea."
+    },
+    {
+      "id": "g3-eng-unit-01-reading-literature-02-theme-lq04",
+      "type": "short_answer",
+      "question": "How is theme different from topic?",
+      "answer": "Topic is what it's about; theme is the message about it.",
+      "explanation": "Topic vs message."
+    }
+  ]
+}

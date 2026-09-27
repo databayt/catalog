@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-the-human-musculoskeletal-system",
+      "slug": "c1",
       "title": {
         "ar": "الجهاز الحركي في الإنسان",
         "en": "The Human Musculoskeletal System"
@@ -39,7 +39,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-skeleton",
+          "slug": "l1",
           "title": {
             "ar": "الهيكل العظمي",
             "en": "The Skeleton"
@@ -47,7 +47,7 @@
           "page": 2
         },
         {
-          "slug": "02-functions-of-the-skeleton",
+          "slug": "l2",
           "title": {
             "ar": "وظائف الهيكل العظمي",
             "en": "Functions of the Skeleton"
@@ -55,7 +55,7 @@
           "page": 6
         },
         {
-          "slug": "03-muscles",
+          "slug": "l3",
           "title": {
             "ar": "العضلات",
             "en": "Muscles"
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "slug": "02-plants",
+      "slug": "c2",
       "title": {
         "ar": "النباتات",
         "en": "Plants"
@@ -76,7 +76,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-parts-of-the-plant",
+          "slug": "l1",
           "title": {
             "ar": "أجزاء النبات",
             "en": "Parts of the Plant"
@@ -84,7 +84,7 @@
           "page": 15
         },
         {
-          "slug": "02-functions-of-the-plants-parts",
+          "slug": "l2",
           "title": {
             "ar": "وظائف أجزاء النبات",
             "en": "Functions of the Plant's Parts"
@@ -92,7 +92,7 @@
           "page": 16
         },
         {
-          "slug": "03-the-plant-makes-its-own-food",
+          "slug": "l3",
           "title": {
             "ar": "النبات يصنع غذاءه",
             "en": "The Plant Makes Its Own Food"
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "slug": "03-animals",
+      "slug": "c3",
       "title": {
         "ar": "الحيوانات",
         "en": "Animals"
@@ -113,7 +113,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-movement-in-animals",
+          "slug": "l1",
           "title": {
             "ar": "الحركة في الحيوانات",
             "en": "Movement in Animals"
@@ -121,7 +121,7 @@
           "page": 26
         },
         {
-          "slug": "02-nutrition-in-animals",
+          "slug": "l2",
           "title": {
             "ar": "التغذية في الحيوانات",
             "en": "Nutrition in Animals"
@@ -129,7 +129,7 @@
           "page": 30
         },
         {
-          "slug": "03-animal-body-coverings",
+          "slug": "l3",
           "title": {
             "ar": "غطاء الحيوانات",
             "en": "Animal Body Coverings"
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "slug": "04-habitats-of-living-things",
+      "slug": "c4",
       "title": {
         "ar": "بيئات الكائنات الحية",
         "en": "Habitats of Living Things"
@@ -150,7 +150,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-adaptation-of-living-things-to-life-on-land",
+          "slug": "l1",
           "title": {
             "ar": "تكيف الكائنات الحية للعيش في البيئة اليابسة",
             "en": "Adaptation of Living Things to Life on Land"
@@ -159,7 +159,7 @@
           "image": "clickview/elementary-adaptations-cover.jpg"
         },
         {
-          "slug": "02-adaptation-of-living-things-to-life-in-water",
+          "slug": "l2",
           "title": {
             "ar": "تكيف الكائنات الحية للعيش في البيئة المائية",
             "en": "Adaptation of Living Things to Life in Water"
@@ -168,7 +168,7 @@
           "image": "clickview/elementary-adaptations-cover.jpg"
         },
         {
-          "slug": "03-protecting-the-habitats-of-living-things",
+          "slug": "l3",
           "title": {
             "ar": "حماية بيئة الكائنات الحية",
             "en": "Protecting the Habitats of Living Things"

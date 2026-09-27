@@ -55,19 +55,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-mechanics",
+      "slug": "c1",
       "title": {
         "en": "Kinematics & Forces"
       },
       "lessons": [
         {
-          "slug": "01-motion",
+          "slug": "l1",
           "title": {
             "en": "Describing Motion"
           }
         },
         {
-          "slug": "02-newton",
+          "slug": "l2",
           "title": {
             "en": "Newton's Laws"
           }
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "slug": "02-energy-waves",
+      "slug": "c2",
       "title": {
         "en": "Energy & Waves"
       },
       "lessons": [
         {
-          "slug": "01-energy",
+          "slug": "l1",
           "title": {
             "en": "Work & Energy"
           }
         },
         {
-          "slug": "02-waves",
+          "slug": "l2",
           "title": {
             "en": "Waves"
           }

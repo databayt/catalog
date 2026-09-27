@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading Literature & Informational"
       },
       "lessons": [
         {
-          "slug": "01-central-idea",
+          "slug": "l1",
           "title": {
             "en": "Central Idea & Summary"
           }
         },
         {
-          "slug": "02-compare-mediums",
+          "slug": "l2",
           "title": {
             "en": "Analyzing Across Texts"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-language",
+      "slug": "c2",
       "title": {
         "en": "Language & Writing"
       },
       "lessons": [
         {
-          "slug": "01-figurative",
+          "slug": "l1",
           "title": {
             "en": "Figurative Language & Tone"
           }
         },
         {
-          "slug": "02-clauses",
+          "slug": "l2",
           "title": {
             "en": "Phrases & Clauses"
           }

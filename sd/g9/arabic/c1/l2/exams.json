@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "arabic",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g9-ara-unit-01-02-literature-lquiz",
+      "title": "اختبار درس - الأدب: كن جميلاً (إيليا أبو ماضي)",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-ara-unit-01-02-literature-lq01",
+          "type": "mcq",
+          "question": "ما الفرق بين الشعر العمودي والشعر الحر؟",
+          "options": [
+            "الشعر العمودي له وزن وقافية ثابتة",
+            "الشعر الحر له وزن ثابت",
+            "الشعر العمودي لا وزن له",
+            "لا فرق بينهما"
+          ],
+          "answer": "الشعر العمودي له وزن وقافية ثابتة",
+          "explanation": "الشعر العمودي يلتزم بالوزن والقافية الثابتة."
+        },
+        {
+          "id": "g9-ara-unit-01-02-literature-lq02",
+          "type": "true_false",
+          "question": "الأدب العربي يشمل الشعر والنثر معاً.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأدب العربي يشمل الشعر والنثر."
+        },
+        {
+          "id": "g9-ara-unit-01-02-literature-lq03",
+          "type": "fill_blank",
+          "question": "الكلام الموزون المقفى يسمى ___.",
+          "answer": "شعراً",
+          "explanation": "الشعر هو الكلام الموزون المقفى."
+        },
+        {
+          "id": "g9-ara-unit-01-02-literature-lq04",
+          "type": "short_answer",
+          "question": "ما خصائص الأسلوب الأدبي الجيد؟",
+          "answer": "الوضوح والجمال والإيجاز وقوة التعبير",
+          "explanation": "الأسلوب الأدبي الجيد يتميز بصفات عدة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-arabic-c1-l2-1",
+      "title": "الأدب: كن جميلاً (إيليا أبو ماضي)",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "bf76e398",
+          "type": "mcq",
+          "question": "ما هو الفرق بين اللغة الفصحى والعامية؟",
+          "options": [
+            "لا فرق",
+            "الفصحى معيارية والعامية محلية",
+            "العامية أصح",
+            "الفصحى للكتابة فقط"
+          ],
+          "answer": "الفصحى معيارية والعامية محلية",
+          "explanation": "الفصحى لغة موحدة معيارية، العامية تختلف حسب الجهة"
+        },
+        {
+          "id": "2b30a657",
+          "type": "fill_blank",
+          "question": "النحو هو العلم الذي يدرس ___",
+          "answer": "قواعد اللغة",
+          "explanation": "النحو يضبط قواعد الكلام العربي"
+        },
+        {
+          "id": "3a394222",
+          "type": "true_false",
+          "question": "الاسم يدل على معنى بدون ارتباط بزمن",
+          "answer": true,
+          "explanation": "الأسماء لا تتقيد بأزمنة محددة"
+        }
+      ]
+    }
+  ]
+}

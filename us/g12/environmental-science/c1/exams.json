@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "environmental-science",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g12-env-unit-01-ecosystems-exam",
+      "title": "Exam: Ecosystems & Biodiversity",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq01",
+          "type": "mcq",
+          "question": "Organisms that produce their own food are:",
+          "options": [
+            "consumers",
+            "producers",
+            "decomposers",
+            "predators"
+          ],
+          "answer": "producers",
+          "explanation": "Autotrophs."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq02",
+          "type": "true_false",
+          "question": "Only about 10% of energy passes to the next trophic level.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "10% rule."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq03",
+          "type": "fill_blank",
+          "question": "Organisms that break down dead matter are ___.",
+          "answer": "decomposers",
+          "explanation": "Recyclers."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-01-energy-flow-lq04",
+          "type": "short_answer",
+          "question": "Why are decomposers vital to ecosystems?",
+          "answer": "They recycle nutrients back into the environment.",
+          "explanation": "Nutrient cycling."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-02-biodiversity-lq01",
+          "type": "mcq",
+          "question": "Biodiversity refers to:",
+          "options": [
+            "one species",
+            "variety of life",
+            "only plants",
+            "rocks"
+          ],
+          "answer": "variety of life",
+          "explanation": "Diversity of life."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-02-biodiversity-lq02",
+          "type": "true_false",
+          "question": "Higher biodiversity generally increases ecosystem stability.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Resilience."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-02-biodiversity-lq03",
+          "type": "fill_blank",
+          "question": "A species at risk of extinction is ___.",
+          "answer": "endangered",
+          "explanation": "Conservation status."
+        },
+        {
+          "id": "g12-env-unit-01-ecosystems-02-biodiversity-lq04",
+          "type": "short_answer",
+          "question": "Name one threat to biodiversity.",
+          "answer": "e.g., habitat loss, pollution, or climate change.",
+          "explanation": "Threats."
+        }
+      ]
+    }
+  ]
+}

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-personal-health",
+      "slug": "c1",
       "title": {
         "en": "Personal Health"
       },
       "lessons": [
         {
-          "slug": "01-nutrition",
+          "slug": "l1",
           "title": {
             "en": "Nutrition & Fitness"
           }
         },
         {
-          "slug": "02-hygiene",
+          "slug": "l2",
           "title": {
             "en": "Hygiene & Sleep"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-wellbeing",
+      "slug": "c2",
       "title": {
         "en": "Mental & Social Health"
       },
       "lessons": [
         {
-          "slug": "01-mental-health",
+          "slug": "l1",
           "title": {
             "en": "Managing Emotions"
           }
         },
         {
-          "slug": "02-safety",
+          "slug": "l2",
           "title": {
             "en": "Safety & Decisions"
           }

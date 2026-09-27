@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-artistic-culture",
+      "slug": "c1",
       "title": {
         "ar": "الثقافة الفنية",
         "en": "Artistic Culture"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-art",
+          "slug": "l1",
           "title": {
             "ar": "الفن",
             "en": "Art"
@@ -48,7 +48,7 @@
           "page": 11
         },
         {
-          "slug": "02-drawing-and-sculpture-in-ancient-sudanese",
+          "slug": "l2",
           "title": {
             "ar": "الرسم والتشكيل في الحضارة السودانية القديمة",
             "en": "Drawing and Sculpture in Ancient Sudanese Civilisation"
@@ -57,7 +57,7 @@
           "image": "clickview/high-art-and-culture-cover.jpg"
         },
         {
-          "slug": "03-art-in-the-christian-era-in-sudan",
+          "slug": "l3",
           "title": {
             "ar": "الفن في العصر المسيحي في السودان",
             "en": "Art in the Christian Era in Sudan"
@@ -66,7 +66,7 @@
           "image": "clickview/high-art-and-culture-cover.jpg"
         },
         {
-          "slug": "04-drawing",
+          "slug": "l4",
           "title": {
             "ar": "الرسم",
             "en": "Drawing"
@@ -75,7 +75,7 @@
           "image": "clickview/high-evaluating-art-cover.jpg"
         },
         {
-          "slug": "05-perspective",
+          "slug": "l5",
           "title": {
             "ar": "علم المنظور",
             "en": "Perspective"
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "slug": "02-colouring",
+      "slug": "c2",
       "title": {
         "ar": "التلوين",
         "en": "Colouring"
@@ -97,7 +97,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-colours",
+          "slug": "l1",
           "title": {
             "ar": "الألوان",
             "en": "Colours"
@@ -105,7 +105,7 @@
           "page": 48
         },
         {
-          "slug": "02-colouring",
+          "slug": "l2",
           "title": {
             "ar": "التلوين",
             "en": "Colouring"
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "slug": "03-design-and-decoration",
+      "slug": "c3",
       "title": {
         "ar": "التصميم والزخرفة",
         "en": "Design and Decoration"
@@ -126,7 +126,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-design",
+          "slug": "l1",
           "title": {
             "ar": "التصميم",
             "en": "Design"
@@ -134,7 +134,7 @@
           "page": 59
         },
         {
-          "slug": "02-the-art-of-collage-and-decoupage",
+          "slug": "l2",
           "title": {
             "ar": "فن الكولاج والديكوباج",
             "en": "The Art of Collage and Decoupage"
@@ -143,7 +143,7 @@
           "image": "clickview/middle-artistic-skills-and-techniques-cover.jpg"
         },
         {
-          "slug": "03-digital-art",
+          "slug": "l3",
           "title": {
             "ar": "الفن الرقمي",
             "en": "Digital Art"
@@ -152,7 +152,7 @@
           "image": "clickview/high-digital-media-cover.jpg"
         },
         {
-          "slug": "04-logos",
+          "slug": "l4",
           "title": {
             "ar": "الشعارات",
             "en": "Logos"
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "slug": "04-art-appreciation",
+      "slug": "c4",
       "title": {
         "ar": "التذوق الفني",
         "en": "Art Appreciation"
@@ -174,7 +174,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-sudanese-fine-arts",
+          "slug": "l1",
           "title": {
             "ar": "الفنون التشكيلية السودانية",
             "en": "Sudanese Fine Arts"

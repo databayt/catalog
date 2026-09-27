@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "science",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g3-sci-unit-01-forces-exam",
+      "title": "Exam: Forces & Motion",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g3-sci-unit-01-forces-01-push-pull-lq01",
+          "type": "mcq",
+          "question": "A force is a:",
+          "options": [
+            "color",
+            "push or pull",
+            "sound",
+            "smell"
+          ],
+          "answer": "push or pull",
+          "explanation": "Forces push or pull objects."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-01-push-pull-lq02",
+          "type": "true_false",
+          "question": "A bigger push can make an object move faster.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Greater force, greater change."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-01-push-pull-lq03",
+          "type": "fill_blank",
+          "question": "Friction is a force that ___ motion.",
+          "answer": "slows",
+          "explanation": "Opposes motion."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-01-push-pull-lq04",
+          "type": "short_answer",
+          "question": "Give an example of a pull.",
+          "answer": "e.g., pulling a wagon or opening a drawer.",
+          "explanation": "Pulling force."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-02-magnets-lq01",
+          "type": "mcq",
+          "question": "Magnets attract objects made of:",
+          "options": [
+            "wood",
+            "iron",
+            "plastic",
+            "glass"
+          ],
+          "answer": "iron",
+          "explanation": "Magnets attract some metals."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-02-magnets-lq02",
+          "type": "true_false",
+          "question": "Two like poles of magnets repel each other.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "N-N or S-S repel."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-02-magnets-lq03",
+          "type": "fill_blank",
+          "question": "A magnet has a north and a ___ pole.",
+          "answer": "south",
+          "explanation": "Two poles."
+        },
+        {
+          "id": "g3-sci-unit-01-forces-02-magnets-lq04",
+          "type": "short_answer",
+          "question": "How can a magnet move an object without touching it?",
+          "answer": "Its magnetic force acts at a distance.",
+          "explanation": "Non-contact force."
+        }
+      ]
+    }
+  ]
+}

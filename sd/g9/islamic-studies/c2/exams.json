@@ -1,0 +1,266 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g9-isl-unit-02-quiz",
+      "title": "اختبار - القرآن الكريم",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        }
+      ]
+    },
+    {
+      "id": "g9-isl-unit-02-quiz-2",
+      "title": "اختبار - القرآن الكريم",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-01-surah-yasin-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-02-story-of-village-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-03-evidence-of-gods-power-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-04-disbelievers-attitudes-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q01",
+          "type": "mcq",
+          "question": "ما عدد سور القرآن الكريم؟",
+          "options": [
+            "114 سورة",
+            "100 سورة",
+            "120 سورة",
+            "110 سورة"
+          ],
+          "answer": "114 سورة",
+          "explanation": "القرآن الكريم يتكون من 114 سورة."
+        },
+        {
+          "id": "g9-isl-unit-02-05-reward-and-punishment-q02",
+          "type": "true_false",
+          "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+        }
+      ]
+    }
+  ]
+}

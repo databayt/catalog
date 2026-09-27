@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-design",
+      "slug": "c1",
       "title": {
         "en": "Design & Make"
       },
       "lessons": [
         {
-          "slug": "01-design",
+          "slug": "l1",
           "title": {
             "en": "Designing"
           }
         },
         {
-          "slug": "02-make",
+          "slug": "l2",
           "title": {
             "en": "Making & Evaluating"
           }

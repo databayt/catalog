@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english-literature",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g11-eng-unit-01-modern-01-themes-quiz",
+      "title": "Quiz: Themes in Modern Drama/Prose",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq01",
+          "type": "mcq",
+          "question": "A modern play exploring responsibility examines:",
+          "options": [
+            "only romance",
+            "social/moral responsibility",
+            "cooking",
+            "sport"
+          ],
+          "answer": "social/moral responsibility",
+          "explanation": "Modern themes."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq02",
+          "type": "true_false",
+          "question": "Stage directions can convey meaning in a play.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Dramatic method."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq03",
+          "type": "fill_blank",
+          "question": "A message a writer conveys about society is a ___.",
+          "answer": "theme",
+          "explanation": "Theme."
+        },
+        {
+          "id": "g11-eng-unit-01-modern-01-themes-lq04",
+          "type": "short_answer",
+          "question": "How do writers present their ideas?",
+          "answer": "Through characters, structure, language and dramatic methods.",
+          "explanation": "Methods."
+        }
+      ]
+    }
+  ]
+}

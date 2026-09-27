@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-core-pure",
+      "slug": "c1",
       "title": {
         "en": "Core Pure"
       },
       "lessons": [
         {
-          "slug": "01-complex",
+          "slug": "l1",
           "title": {
             "en": "Complex Numbers"
           }
         },
         {
-          "slug": "02-matrices",
+          "slug": "l2",
           "title": {
             "en": "Matrices"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-further",
+      "slug": "c2",
       "title": {
         "en": "Further Topics"
       },
       "lessons": [
         {
-          "slug": "01-induction",
+          "slug": "l1",
           "title": {
             "en": "Proof by Induction"
           }
         },
         {
-          "slug": "02-algorithms",
+          "slug": "l2",
           "title": {
             "en": "Decision Maths"
           }

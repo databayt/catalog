@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-number-and-algebra",
+      "slug": "c1",
       "title": {
         "en": "Number and Algebra"
       },
       "lessons": [
         {
-          "slug": "01-number-and-algebra",
+          "slug": "l1",
           "title": {
             "en": "Number and Algebra"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-functions",
+      "slug": "c2",
       "title": {
         "en": "Functions"
       },
       "lessons": [
         {
-          "slug": "01-functions",
+          "slug": "l1",
           "title": {
             "en": "Functions"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-geometry-and-trigonometry",
+      "slug": "c3",
       "title": {
         "en": "Geometry and Trigonometry"
       },
       "lessons": [
         {
-          "slug": "01-geometry-and-trigonometry",
+          "slug": "l1",
           "title": {
             "en": "Geometry and Trigonometry"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-statistics-and-probability",
+      "slug": "c4",
       "title": {
         "en": "Statistics and Probability"
       },
       "lessons": [
         {
-          "slug": "01-statistics-and-probability",
+          "slug": "l1",
           "title": {
             "en": "Statistics and Probability"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-calculus",
+      "slug": "c5",
       "title": {
         "en": "Calculus"
       },
       "lessons": [
         {
-          "slug": "01-calculus",
+          "slug": "l1",
           "title": {
             "en": "Calculus"
           }

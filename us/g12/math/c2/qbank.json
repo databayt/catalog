@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq01",
+      "type": "mcq",
+      "question": "The set of all inputs of a function is its:",
+      "options": [
+        "range",
+        "domain",
+        "slope",
+        "limit"
+      ],
+      "answer": "domain",
+      "explanation": "Inputs = domain."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq02",
+      "type": "true_false",
+      "question": "A function can be even, odd, or neither.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Symmetry."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq03",
+      "type": "fill_blank",
+      "question": "The output values of a function form its ___.",
+      "answer": "range",
+      "explanation": "Range."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-01-function-analysis-lq04",
+      "type": "short_answer",
+      "question": "How do you find a function's domain?",
+      "answer": "Identify all input values for which it is defined.",
+      "explanation": "Domain."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq01",
+      "type": "mcq",
+      "question": "A limit describes a function's value as x:",
+      "options": [
+        "equals a point",
+        "approaches a value",
+        "is deleted",
+        "is squared"
+      ],
+      "answer": "approaches a value",
+      "explanation": "Limit concept."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq02",
+      "type": "true_false",
+      "question": "Limits are foundational to calculus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Basis of derivatives/integrals."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq03",
+      "type": "fill_blank",
+      "question": "The limit of f(x)=x as x→3 is ___.",
+      "answer": "3",
+      "explanation": "Direct substitution."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq04",
+      "type": "short_answer",
+      "question": "Why study limits before calculus?",
+      "answer": "They define continuity, derivatives, and integrals.",
+      "explanation": "Limit importance."
+    }
+  ]
+}

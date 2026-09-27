@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-chemical-changes",
+      "slug": "c1",
       "title": {
         "en": "Chemical Changes"
       },
       "lessons": [
         {
-          "slug": "01-acids-bases",
+          "slug": "l1",
           "title": {
             "en": "Acids & Bases"
           }
         },
         {
-          "slug": "02-electrolysis",
+          "slug": "l2",
           "title": {
             "en": "Electrolysis"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-rates-energy",
+      "slug": "c2",
       "title": {
         "en": "Rates & Energy Changes"
       },
       "lessons": [
         {
-          "slug": "01-rates",
+          "slug": "l1",
           "title": {
             "en": "Rates of Reaction"
           }
         },
         {
-          "slug": "02-energy",
+          "slug": "l2",
           "title": {
             "en": "Energy Changes"
           }

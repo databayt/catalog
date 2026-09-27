@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-states-of-matter",
+      "slug": "c1",
       "title": {
         "en": "States of Matter"
       },
       "lessons": [
         {
-          "slug": "01-states-of-matter",
+          "slug": "l1",
           "title": {
             "en": "States of Matter"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-atoms-elements-and-compounds",
+      "slug": "c2",
       "title": {
         "en": "Atoms, Elements and Compounds"
       },
       "lessons": [
         {
-          "slug": "01-atoms-elements-and-compounds",
+          "slug": "l1",
           "title": {
             "en": "Atoms, Elements and Compounds"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-stoichiometry",
+      "slug": "c3",
       "title": {
         "en": "Stoichiometry"
       },
       "lessons": [
         {
-          "slug": "01-stoichiometry",
+          "slug": "l1",
           "title": {
             "en": "Stoichiometry"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-electrochemistry",
+      "slug": "c4",
       "title": {
         "en": "Electrochemistry"
       },
       "lessons": [
         {
-          "slug": "01-electrochemistry",
+          "slug": "l1",
           "title": {
             "en": "Electrochemistry"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-chemical-energetics",
+      "slug": "c5",
       "title": {
         "en": "Chemical Energetics"
       },
       "lessons": [
         {
-          "slug": "01-chemical-energetics",
+          "slug": "l1",
           "title": {
             "en": "Chemical Energetics"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-chemical-reactions",
+      "slug": "c6",
       "title": {
         "en": "Chemical Reactions"
       },
       "lessons": [
         {
-          "slug": "01-chemical-reactions",
+          "slug": "l1",
           "title": {
             "en": "Chemical Reactions"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-acids-bases-and-salts",
+      "slug": "c7",
       "title": {
         "en": "Acids, Bases and Salts"
       },
       "lessons": [
         {
-          "slug": "01-acids-bases-and-salts",
+          "slug": "l1",
           "title": {
             "en": "Acids, Bases and Salts"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-the-periodic-table",
+      "slug": "c8",
       "title": {
         "en": "The Periodic Table"
       },
       "lessons": [
         {
-          "slug": "01-the-periodic-table",
+          "slug": "l1",
           "title": {
             "en": "The Periodic Table"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-metals",
+      "slug": "c9",
       "title": {
         "en": "Metals"
       },
       "lessons": [
         {
-          "slug": "01-metals",
+          "slug": "l1",
           "title": {
             "en": "Metals"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-chemistry-of-the-environment",
+      "slug": "c10",
       "title": {
         "en": "Chemistry of the Environment"
       },
       "lessons": [
         {
-          "slug": "01-chemistry-of-the-environment",
+          "slug": "l1",
           "title": {
             "en": "Chemistry of the Environment"
           }
@@ -161,13 +161,13 @@
       ]
     },
     {
-      "slug": "11-organic-chemistry",
+      "slug": "c11",
       "title": {
         "en": "Organic Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-organic-chemistry",
+          "slug": "l1",
           "title": {
             "en": "Organic Chemistry"
           }
@@ -175,13 +175,13 @@
       ]
     },
     {
-      "slug": "12-experimental-techniques-and-chemical-analysis",
+      "slug": "c12",
       "title": {
         "en": "Experimental Techniques and Chemical Analysis"
       },
       "lessons": [
         {
-          "slug": "01-experimental-techniques-and-chemical-analysis",
+          "slug": "l1",
           "title": {
             "en": "Experimental Techniques and Chemical Analysis"
           }

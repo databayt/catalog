@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-light-sound",
+      "slug": "c1",
       "title": {
         "en": "Light & Sound (Waves)"
       },
       "lessons": [
         {
-          "slug": "01-sound-vibrations",
+          "slug": "l1",
           "title": {
             "en": "Sound and Vibration"
           }
         },
         {
-          "slug": "02-light-objects",
+          "slug": "l2",
           "title": {
             "en": "Light and Seeing"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-living-things",
+      "slug": "c2",
       "title": {
         "en": "Living Things & Their Needs"
       },
       "lessons": [
         {
-          "slug": "01-plant-animal-needs",
+          "slug": "l1",
           "title": {
             "en": "What Living Things Need"
           }
         },
         {
-          "slug": "02-parents-offspring",
+          "slug": "l2",
           "title": {
             "en": "Parents and Offspring"
           }

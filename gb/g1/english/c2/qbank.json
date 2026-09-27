@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g1-eng-unit-02-reading-01-predict-lq01",
+      "type": "mcq",
+      "question": "A prediction is a:",
+      "options": [
+        "fact",
+        "good guess about what happens next",
+        "title",
+        "picture"
+      ],
+      "answer": "good guess about what happens next",
+      "explanation": "Using clues."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-predict-lq02",
+      "type": "true_false",
+      "question": "Pictures can help you predict a story.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Visual clues."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-predict-lq03",
+      "type": "fill_blank",
+      "question": "Before reading, we can ___ what happens.",
+      "answer": "predict",
+      "explanation": "Predicting."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-01-predict-lq04",
+      "type": "short_answer",
+      "question": "How do you make a prediction?",
+      "answer": "Use the title, pictures and what you know.",
+      "explanation": "Clue-based."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-sequence-lq01",
+      "type": "mcq",
+      "question": "Stories are usually told in:",
+      "options": [
+        "random order",
+        "time order",
+        "reverse only",
+        "no order"
+      ],
+      "answer": "time order",
+      "explanation": "Beginning to end."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-sequence-lq02",
+      "type": "true_false",
+      "question": "'First, next, then, finally' show sequence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sequencing words."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-sequence-lq03",
+      "type": "fill_blank",
+      "question": "The part of a story that comes first is the ___.",
+      "answer": "beginning",
+      "explanation": "Start."
+    },
+    {
+      "id": "g1-eng-unit-02-reading-02-sequence-lq04",
+      "type": "short_answer",
+      "question": "Name an order word.",
+      "answer": "e.g., 'first' or 'then'.",
+      "explanation": "Sequencing."
+    }
+  ]
+}

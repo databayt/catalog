@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-pure",
+      "slug": "c1",
       "title": {
         "en": "Pure Mathematics: Calculus"
       },
       "lessons": [
         {
-          "slug": "01-differentiation",
+          "slug": "l1",
           "title": {
             "en": "Differentiation"
           }
         },
         {
-          "slug": "02-integration",
+          "slug": "l2",
           "title": {
             "en": "Integration"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-mechanics-stats",
+      "slug": "c2",
       "title": {
         "en": "Mechanics & Statistics"
       },
       "lessons": [
         {
-          "slug": "01-kinematics",
+          "slug": "l1",
           "title": {
             "en": "Kinematics"
           }
         },
         {
-          "slug": "02-distributions",
+          "slug": "l2",
           "title": {
             "en": "Probability Distributions"
           }

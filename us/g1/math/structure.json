@@ -47,25 +47,25 @@
   ],
   "chapters": [
     {
-      "slug": "01-counting-place-value",
+      "slug": "c1",
       "title": {
         "en": "Counting & Place Value to 120"
       },
       "lessons": [
         {
-          "slug": "01-counting-to-120",
+          "slug": "l1",
           "title": {
             "en": "Counting to 120"
           }
         },
         {
-          "slug": "02-tens-and-ones",
+          "slug": "l2",
           "title": {
             "en": "Tens and Ones"
           }
         },
         {
-          "slug": "03-comparing-numbers",
+          "slug": "l3",
           "title": {
             "en": "Comparing Numbers (>, <, =)"
           }
@@ -73,25 +73,25 @@
       ]
     },
     {
-      "slug": "02-addition-subtraction",
+      "slug": "c2",
       "title": {
         "en": "Addition & Subtraction within 20"
       },
       "lessons": [
         {
-          "slug": "01-addition-within-20",
+          "slug": "l1",
           "title": {
             "en": "Adding within 20"
           }
         },
         {
-          "slug": "02-subtraction-within-20",
+          "slug": "l2",
           "title": {
             "en": "Subtracting within 20"
           }
         },
         {
-          "slug": "03-word-problems",
+          "slug": "l3",
           "title": {
             "en": "Addition & Subtraction Word Problems"
           }
@@ -99,19 +99,19 @@
       ]
     },
     {
-      "slug": "03-geometry-shapes",
+      "slug": "c3",
       "title": {
         "en": "Shapes & Fractions of Shapes"
       },
       "lessons": [
         {
-          "slug": "01-2d-3d-shapes",
+          "slug": "l1",
           "title": {
             "en": "2D and 3D Shapes"
           }
         },
         {
-          "slug": "02-halves-quarters",
+          "slug": "l2",
           "title": {
             "en": "Halves and Quarters"
           }

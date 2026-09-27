@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-atomic-structure",
+      "slug": "c1",
       "title": {
         "en": "Atomic Structure"
       },
       "lessons": [
         {
-          "slug": "01-atoms",
+          "slug": "l1",
           "title": {
             "en": "Atoms & Elements"
           }
         },
         {
-          "slug": "02-periodic-table",
+          "slug": "l2",
           "title": {
             "en": "The Periodic Table"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-bonding",
+      "slug": "c2",
       "title": {
         "en": "Bonding & Quantitative Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-bonding",
+          "slug": "l1",
           "title": {
             "en": "Ionic & Covalent Bonding"
           }
         },
         {
-          "slug": "02-moles",
+          "slug": "l2",
           "title": {
             "en": "Moles & Reacting Masses"
           }

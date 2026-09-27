@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "physics",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g11-phy-unit-01-mechanics-02-newton-lq01",
+      "type": "mcq",
+      "question": "Force equals mass times:",
+      "options": [
+        "velocity",
+        "acceleration",
+        "distance",
+        "time"
+      ],
+      "answer": "acceleration",
+      "explanation": "F = ma."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-02-newton-lq02",
+      "type": "true_false",
+      "question": "Every action has an equal and opposite reaction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Third law."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-02-newton-lq03",
+      "type": "fill_blank",
+      "question": "An object's resistance to change in motion is its ___.",
+      "answer": "inertia",
+      "explanation": "First law."
+    },
+    {
+      "id": "g11-phy-unit-01-mechanics-02-newton-lq04",
+      "type": "short_answer",
+      "question": "State Newton's second law.",
+      "answer": "The acceleration of an object equals the net force divided by its mass.",
+      "explanation": "Second law."
+    }
+  ]
+}

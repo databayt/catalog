@@ -44,7 +44,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-artistic-culture",
+      "slug": "c1",
       "title": {
         "ar": "الثقافة الفنية",
         "en": "Artistic Culture"
@@ -56,7 +56,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-aesthetics",
+          "slug": "l1",
           "title": {
             "ar": "علم الجمال",
             "en": "Aesthetics"
@@ -72,7 +72,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-modern-fine-art",
+          "slug": "l2",
           "title": {
             "ar": "الفن التشكيلي الحديث",
             "en": "Modern Fine Art"
@@ -86,7 +86,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-art-movements",
+          "slug": "l3",
           "title": {
             "ar": "المدارس الفنية",
             "en": "Art Movements"
@@ -100,7 +100,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-impressionism",
+          "slug": "l4",
           "title": {
             "ar": "المدرسة الانطباعية",
             "en": "Impressionism"
@@ -115,7 +115,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "05-fauvism",
+          "slug": "l5",
           "title": {
             "ar": "المدرسة الوحشية",
             "en": "Fauvism"
@@ -130,7 +130,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "06-cubism",
+          "slug": "l6",
           "title": {
             "ar": "المدرسة التكعيبية",
             "en": "Cubism"
@@ -145,7 +145,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "07-futurism",
+          "slug": "l7",
           "title": {
             "ar": "المدرسة المستقبلية",
             "en": "Futurism"
@@ -160,7 +160,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "08-expressionism",
+          "slug": "l8",
           "title": {
             "ar": "المدرسة التعبيرية",
             "en": "Expressionism"
@@ -175,7 +175,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "09-dadaism",
+          "slug": "l9",
           "title": {
             "ar": "المدرسة الدادية",
             "en": "Dadaism"
@@ -190,7 +190,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "10-surrealism",
+          "slug": "l10",
           "title": {
             "ar": "المدرسة السريالية",
             "en": "Surrealism"
@@ -205,7 +205,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "11-abstract-art",
+          "slug": "l11",
           "title": {
             "ar": "المدرسة التجريدية",
             "en": "Abstract Art"
@@ -220,7 +220,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "12-modern-fine-art-in-sudan",
+          "slug": "l12",
           "title": {
             "ar": "الفن التشكيلي الحديث في السودان",
             "en": "Modern Fine Art in Sudan"
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "slug": "02-drawing",
+      "slug": "c2",
       "title": {
         "ar": "الرسم",
         "en": "Drawing"
@@ -250,7 +250,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة",
             "en": "Introduction"
@@ -265,7 +265,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "02-drawing-the-human-figure",
+          "slug": "l2",
           "title": {
             "ar": "رسم الإنسان",
             "en": "Drawing the Human Figure"
@@ -280,7 +280,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-perspective-in-the-human-body",
+          "slug": "l3",
           "title": {
             "ar": "المنظور في جسم الإنسان",
             "en": "Perspective in the Human Body"
@@ -295,7 +295,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-details-of-the-human-body",
+          "slug": "l4",
           "title": {
             "ar": "التفاصيل في جسم الإنسان",
             "en": "Details of the Human Body"
@@ -310,7 +310,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-expression-in-the-human-body",
+          "slug": "l5",
           "title": {
             "ar": "التعبير في جسم الإنسان",
             "en": "Expression in the Human Body"
@@ -325,7 +325,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "06-drawing-faces",
+          "slug": "l6",
           "title": {
             "ar": "رسم الوجوه",
             "en": "Drawing Faces"
@@ -340,7 +340,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-still-life-drawing",
+          "slug": "l7",
           "title": {
             "ar": "رسم الطبيعة الصامتة",
             "en": "Still-life Drawing"
@@ -355,7 +355,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "08-drawing-plants",
+          "slug": "l8",
           "title": {
             "ar": "رسم النبات",
             "en": "Drawing Plants"
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "slug": "03-design",
+      "slug": "c3",
       "title": {
         "ar": "التصميم",
         "en": "Design"
@@ -384,7 +384,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-applied-arts-through-history",
+          "slug": "l1",
           "title": {
             "ar": "الفنون التطبيقية عبر التاريخ",
             "en": "Applied Arts through History"
@@ -399,7 +399,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-art-between-beauty-and-utility",
+          "slug": "l2",
           "title": {
             "ar": "الفن بين الجمال والمنفعة",
             "en": "Art between Beauty and Utility"
@@ -414,7 +414,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "03-the-age-of-globalisation-and-the-designers-role",
+          "slug": "l3",
           "title": {
             "ar": "عصر العولمة ودور المصمم في المجتمع",
             "en": "The Age of Globalisation and the Designer's Role in Society"
@@ -429,7 +429,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "04-elements-of-design",
+          "slug": "l4",
           "title": {
             "ar": "عناصر التصميم",
             "en": "Elements of Design"
@@ -444,7 +444,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "05-principles-of-design",
+          "slug": "l5",
           "title": {
             "ar": "أسس التصميم",
             "en": "Principles of Design"
@@ -461,7 +461,7 @@
       ]
     },
     {
-      "slug": "04-colouring",
+      "slug": "c4",
       "title": {
         "ar": "التلوين",
         "en": "Colouring"
@@ -473,7 +473,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-use-of-colour-through-history",
+          "slug": "l1",
           "title": {
             "ar": "استخدام الألوان عبر التاريخ",
             "en": "The Use of Colour through History"
@@ -488,7 +488,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "02-composition-of-the-painting",
+          "slug": "l2",
           "title": {
             "ar": "تكوين اللوحة",
             "en": "Composition of the Painting"
@@ -503,7 +503,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-principles-of-pictorial-composition",
+          "slug": "l3",
           "title": {
             "ar": "أسس تكوين اللوحة",
             "en": "Principles of Pictorial Composition"
@@ -518,7 +518,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-reading-a-painting",
+          "slug": "l4",
           "title": {
             "ar": "قراءة اللوحة",
             "en": "Reading a Painting"
@@ -533,7 +533,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-appreciating-a-painting",
+          "slug": "l5",
           "title": {
             "ar": "تذوق اللوحة",
             "en": "Appreciating a Painting"
@@ -548,7 +548,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-appreciation-versus-criticism-of-a-painting",
+          "slug": "l6",
           "title": {
             "ar": "الفرق بين التذوق والنقد للوحة الفنية",
             "en": "Appreciation versus Criticism of a Painting"
@@ -563,7 +563,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "07-colour-and-architecture",
+          "slug": "l7",
           "title": {
             "ar": "التلوين والعمارة",
             "en": "Colour and Architecture"
@@ -578,7 +578,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-modern-technology-and-colouring",
+          "slug": "l8",
           "title": {
             "ar": "التكنولوجيا الحديثة والتلوين",
             "en": "Modern Technology and Colouring"
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "slug": "05-appendix-examples-of-world-famous-paintings",
+      "slug": "c5",
       "title": {
         "ar": "ملحق: نماذج لبعض اللوحات العالمية",
         "en": "Appendix: Examples of World-famous Paintings"
@@ -607,7 +607,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-examples-of-world-famous-paintings",
+          "slug": "l1",
           "title": {
             "ar": "نماذج لبعض اللوحات العالمية",
             "en": "Examples of World-famous Paintings"

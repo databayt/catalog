@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-part-1-fundamentals-of-engineering-drawing",
+      "slug": "c1",
       "title": {
         "ar": "الباب الأول: أساسيات الرسم الهندسي",
         "en": "Part 1: Fundamentals of Engineering Drawing"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-projection",
+          "slug": "l1",
           "title": {
             "ar": "الإسقاط",
             "en": "Projection"
@@ -48,7 +48,7 @@
           "page": 1
         },
         {
-          "slug": "02-perspectives",
+          "slug": "l2",
           "title": {
             "ar": "المنظورات",
             "en": "Perspectives"
@@ -56,7 +56,7 @@
           "page": 14
         },
         {
-          "slug": "03-dimensioning",
+          "slug": "l3",
           "title": {
             "ar": "وضع الأبعاد",
             "en": "Dimensioning"
@@ -64,7 +64,7 @@
           "page": 21
         },
         {
-          "slug": "04-laying-out-projections-on-the-drawing-sheet",
+          "slug": "l4",
           "title": {
             "ar": "توزيع المساقط على ورقة الرسم",
             "en": "Laying Out Projections on the Drawing Sheet"
@@ -72,7 +72,7 @@
           "page": 24
         },
         {
-          "slug": "05-sketching",
+          "slug": "l5",
           "title": {
             "ar": "الرسم الكروكي (التكريك)",
             "en": "Sketching"
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "slug": "02-part-2-fundamentals-of-mechanical-engineering",
+      "slug": "c2",
       "title": {
         "ar": "الباب الثاني: أساسيات الهندسة الميكانيكية",
         "en": "Part 2: Fundamentals of Mechanical Engineering"
@@ -93,7 +93,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-metals-properties-and-production",
+          "slug": "l1",
           "title": {
             "ar": "الفلزات: خواصها وإنتاجها",
             "en": "Metals: Properties and Production"
@@ -101,7 +101,7 @@
           "page": 36
         },
         {
-          "slug": "02-engines",
+          "slug": "l2",
           "title": {
             "ar": "المحركات",
             "en": "Engines"
@@ -109,7 +109,7 @@
           "page": 60
         },
         {
-          "slug": "03-the-car-engine",
+          "slug": "l3",
           "title": {
             "ar": "محرك السيارة",
             "en": "The Car Engine"
@@ -119,7 +119,7 @@
       ]
     },
     {
-      "slug": "03-part-3-fundamentals-of-electrical-engineering",
+      "slug": "c3",
       "title": {
         "ar": "الباب الثالث: أساسيات الهندسة الكهربائية",
         "en": "Part 3: Fundamentals of Electrical Engineering"
@@ -130,7 +130,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-electrical-quantities",
+          "slug": "l1",
           "title": {
             "ar": "الكميات الكهربائية",
             "en": "Electrical Quantities"
@@ -138,7 +138,7 @@
           "page": 90
         },
         {
-          "slug": "02-base-and-derived-units",
+          "slug": "l2",
           "title": {
             "ar": "تعريف الوحدات الأساسية والمشتقة",
             "en": "Base and Derived Units"
@@ -146,7 +146,7 @@
           "page": 92
         },
         {
-          "slug": "03-other-sources-of-electromotive-force",
+          "slug": "l3",
           "title": {
             "ar": "مصادر أخرى للقوة الدافعة الكهربائية",
             "en": "Other Sources of Electromotive Force"
@@ -154,7 +154,7 @@
           "page": 98
         },
         {
-          "slug": "04-electric-flux-and-field",
+          "slug": "l4",
           "title": {
             "ar": "الفيض والمجال الكهربائي",
             "en": "Electric Flux and Field"
@@ -162,7 +162,7 @@
           "page": 100
         },
         {
-          "slug": "05-potential-energy-and-voltage",
+          "slug": "l5",
           "title": {
             "ar": "الطاقة الكامنة والجهد",
             "en": "Potential Energy and Voltage"
@@ -170,7 +170,7 @@
           "page": 103
         },
         {
-          "slug": "06-the-capacitor",
+          "slug": "l6",
           "title": {
             "ar": "المكثف",
             "en": "The Capacitor"
@@ -178,7 +178,7 @@
           "page": 105
         },
         {
-          "slug": "07-electromagnetism",
+          "slug": "l7",
           "title": {
             "ar": "الكهرومغنطيسية",
             "en": "Electromagnetism"
@@ -187,7 +187,7 @@
           "image": "clickview/high-magnetic-and-electromagnetic-forces-cover.jpg"
         },
         {
-          "slug": "08-introduction-to-electronics",
+          "slug": "l8",
           "title": {
             "ar": "مقدمة الهندسة الإلكترونية",
             "en": "Introduction to Electronics"
@@ -196,7 +196,7 @@
           "image": "clickview/high-hardware-and-software-cover.jpg"
         },
         {
-          "slug": "09-the-semiconductor-crystal",
+          "slug": "l9",
           "title": {
             "ar": "شكل بلورة شبه الموصل",
             "en": "The Semiconductor Crystal"
@@ -205,7 +205,7 @@
           "image": "clickview/high-hardware-and-software-cover.jpg"
         },
         {
-          "slug": "10-doping-semiconductors",
+          "slug": "l10",
           "title": {
             "ar": "تشويب أشباه الموصلات",
             "en": "Doping Semiconductors"
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "slug": "04-part-4-fundamentals-of-civil-engineering",
+      "slug": "c4",
       "title": {
         "ar": "الباب الرابع: أساسيات الهندسة المدنية",
         "en": "Part 4: Fundamentals of Civil Engineering"
@@ -227,7 +227,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-and-structural-engineering",
+          "slug": "l1",
           "title": {
             "ar": "مقدمة وهندسة الإنشاءات",
             "en": "Introduction and Structural Engineering"
@@ -235,7 +235,7 @@
           "page": 131
         },
         {
-          "slug": "02-soil-engineering",
+          "slug": "l2",
           "title": {
             "ar": "هندسة التربة",
             "en": "Soil Engineering"
@@ -244,7 +244,7 @@
           "image": "clickview/high-soil-cover.jpg"
         },
         {
-          "slug": "03-mechanics-of-materials",
+          "slug": "l3",
           "title": {
             "ar": "هندسة ميكانيكا المواد",
             "en": "Mechanics of Materials"
@@ -252,7 +252,7 @@
           "page": 143
         },
         {
-          "slug": "04-fluid-engineering",
+          "slug": "l4",
           "title": {
             "ar": "هندسة الموائع",
             "en": "Fluid Engineering"
@@ -261,7 +261,7 @@
           "image": "clickview/high-properties-of-fluids-cover.jpg"
         },
         {
-          "slug": "05-environmental-engineering",
+          "slug": "l5",
           "title": {
             "ar": "الهندسة البيئية",
             "en": "Environmental Engineering"

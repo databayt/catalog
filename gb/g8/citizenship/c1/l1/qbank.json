@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "citizenship",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g8-cit-unit-01-democracy-01-democracy-lq01",
+      "type": "mcq",
+      "question": "In a democracy, leaders are chosen by:",
+      "options": [
+        "voting",
+        "force",
+        "luck",
+        "age only"
+      ],
+      "answer": "voting",
+      "explanation": "Democracy."
+    },
+    {
+      "id": "g8-cit-unit-01-democracy-01-democracy-lq02",
+      "type": "true_false",
+      "question": "Citizens can influence decisions by voting.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Participation."
+    },
+    {
+      "id": "g8-cit-unit-01-democracy-01-democracy-lq03",
+      "type": "fill_blank",
+      "question": "Choosing representatives by vote happens in an ___.",
+      "answer": "election",
+      "explanation": "Elections."
+    },
+    {
+      "id": "g8-cit-unit-01-democracy-01-democracy-lq04",
+      "type": "short_answer",
+      "question": "What is democracy?",
+      "answer": "A system where citizens vote to choose their government.",
+      "explanation": "Democracy."
+    }
+  ]
+}

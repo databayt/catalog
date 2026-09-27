@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g6-mat-unit-02-expressions-equations-01-expressions-quiz",
+      "title": "Quiz: Algebraic Expressions",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq01",
+          "type": "mcq",
+          "question": "Evaluate 3x + 2 when x = 4:",
+          "options": [
+            "14",
+            "12",
+            "9",
+            "20"
+          ],
+          "answer": "14",
+          "explanation": "3(4)+2=14."
+        },
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq02",
+          "type": "true_false",
+          "question": "In 5y, 5 is the coefficient.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Coefficient of y."
+        },
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq03",
+          "type": "fill_blank",
+          "question": "Simplify 2x + 3x = ___.",
+          "answer": "5x",
+          "explanation": "Combine like terms."
+        },
+        {
+          "id": "g6-mat-unit-02-expressions-equations-01-expressions-lq04",
+          "type": "short_answer",
+          "question": "What is a variable?",
+          "answer": "A symbol (letter) that stands for an unknown number.",
+          "explanation": "Variable."
+        }
+      ]
+    }
+  ]
+}

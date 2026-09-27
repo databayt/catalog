@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-lesson-1-review",
+      "slug": "c1",
       "title": {
         "ar": "الدرس الأول: مراجعة",
         "en": "Lesson 1: Review"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-review-review",
+          "slug": "l1",
           "title": {
             "ar": "مراجعة (مراجعة)",
             "en": "Review (Review)"
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "slug": "02-lesson-2-love-of-books",
+      "slug": "c2",
       "title": {
         "ar": "الدرس الثاني: حب الكتاب",
         "en": "Lesson 2: Love of Books"
@@ -61,7 +61,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-love-of-books-reading",
+          "slug": "l1",
           "title": {
             "ar": "حب الكتاب (قراءة)",
             "en": "Love of Books (Reading)"
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "slug": "03-lesson-3-the-eternal-nile",
+      "slug": "c3",
       "title": {
         "ar": "الدرس الثالث: النيل الخالد",
         "en": "Lesson 3: The Eternal Nile"
@@ -82,7 +82,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-eternal-nile-reading",
+          "slug": "l1",
           "title": {
             "ar": "النيل الخالد (قراءة)",
             "en": "The Eternal Nile (Reading)"
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "slug": "04-lesson-4-the-nile-poem",
+      "slug": "c4",
       "title": {
         "ar": "الدرس الرابع: قصيدة النيل",
         "en": "Lesson 4: The Nile Poem"
@@ -103,7 +103,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-nile-poem-poem",
+          "slug": "l1",
           "title": {
             "ar": "قصيدة النيل (نص شعري)",
             "en": "The Nile Poem (Poem)"
@@ -113,7 +113,7 @@
       ]
     },
     {
-      "slug": "05-lesson-5-listening-text",
+      "slug": "c5",
       "title": {
         "ar": "الدرس الخامس: قراءة استماع",
         "en": "Lesson 5: Listening Text"
@@ -124,7 +124,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-listening-text-listening",
+          "slug": "l1",
           "title": {
             "ar": "قراءة استماع (استماع)",
             "en": "Listening Text (Listening)"
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "slug": "06-lesson-6-abbas-mahmoud-al-aqqad",
+      "slug": "c6",
       "title": {
         "ar": "الدرس السادس: عباس محمود العقاد",
         "en": "Lesson 6: Abbas Mahmoud al-Aqqad"
@@ -145,7 +145,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-abbas-mahmoud-al-aqqad-reading",
+          "slug": "l1",
           "title": {
             "ar": "عباس محمود العقاد (قراءة)",
             "en": "Abbas Mahmoud al-Aqqad (Reading)"
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "slug": "07-lesson-7-the-arabic-language-poem",
+      "slug": "c7",
       "title": {
         "ar": "الدرس السابع: قصيدة اللغة العربية",
         "en": "Lesson 7: The Arabic Language Poem"
@@ -166,7 +166,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-arabic-language-poem-poem",
+          "slug": "l1",
           "title": {
             "ar": "قصيدة اللغة العربية (نص شعري)",
             "en": "The Arabic Language Poem (Poem)"
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "slug": "08-lesson-8-arabic-calligraphy",
+      "slug": "c8",
       "title": {
         "ar": "الدرس الثامن: الخط العربي",
         "en": "Lesson 8: Arabic Calligraphy"
@@ -187,7 +187,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-arabic-calligraphy-reading",
+          "slug": "l1",
           "title": {
             "ar": "الخط العربي (قراءة)",
             "en": "Arabic Calligraphy (Reading)"
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "slug": "09-lesson-9-folk-music",
+      "slug": "c9",
       "title": {
         "ar": "الدرس التاسع: الموسيقا الشعبية",
         "en": "Lesson 9: Folk Music"
@@ -208,7 +208,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-folk-music-reading",
+          "slug": "l1",
           "title": {
             "ar": "الموسيقا الشعبية (قراءة)",
             "en": "Folk Music (Reading)"
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "slug": "10-lesson-10-listening-text",
+      "slug": "c10",
       "title": {
         "ar": "الدرس العاشر: قراءة استماع",
         "en": "Lesson 10: Listening Text"
@@ -229,7 +229,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-listening-text-listening",
+          "slug": "l1",
           "title": {
             "ar": "قراءة استماع (استماع)",
             "en": "Listening Text (Listening)"
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "slug": "11-lesson-11-general-review",
+      "slug": "c11",
       "title": {
         "ar": "الدرس الحادي عشر: درس مراجعة عامة",
         "en": "Lesson 11: General Review"
@@ -250,7 +250,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-general-review-review",
+          "slug": "l1",
           "title": {
             "ar": "درس مراجعة عامة (مراجعة)",
             "en": "General Review (Review)"
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "slug": "12-lesson-12-the-nobel-prize",
+      "slug": "c12",
       "title": {
         "ar": "الدرس الثاني عشر: جائزة نوبل",
         "en": "Lesson 12: The Nobel Prize"
@@ -271,7 +271,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-nobel-prize-reading",
+          "slug": "l1",
           "title": {
             "ar": "جائزة نوبل (قراءة)",
             "en": "The Nobel Prize (Reading)"
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "slug": "13-lesson-13-the-peace-poem",
+      "slug": "c13",
       "title": {
         "ar": "الدرس الثالث عشر: قصيدة السلام",
         "en": "Lesson 13: The Peace Poem"
@@ -292,7 +292,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-peace-poem-poem",
+          "slug": "l1",
           "title": {
             "ar": "قصيدة السلام (نص شعري)",
             "en": "The Peace Poem (Poem)"
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "slug": "14-lesson-14-how-we-protect-the-earth",
+      "slug": "c14",
       "title": {
         "ar": "الدرس الرابع عشر: كيف نحافظ على الأرض",
         "en": "Lesson 14: How We Protect the Earth"
@@ -313,7 +313,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-how-we-protect-the-earth-reading",
+          "slug": "l1",
           "title": {
             "ar": "كيف نحافظ على الأرض (قراءة)",
             "en": "How We Protect the Earth (Reading)"
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "slug": "15-lesson-15-coral-gardens-of-the-sea",
+      "slug": "c15",
       "title": {
         "ar": "الدرس الخامس عشر: حدائق البحر المرجانية",
         "en": "Lesson 15: Coral Gardens of the Sea"
@@ -334,7 +334,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-coral-gardens-of-the-sea-reading",
+          "slug": "l1",
           "title": {
             "ar": "حدائق البحر المرجانية (قراءة)",
             "en": "Coral Gardens of the Sea (Reading)"
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "slug": "16-lesson-16-poem",
+      "slug": "c16",
       "title": {
         "ar": "الدرس السادس عشر: قصيدة",
         "en": "Lesson 16: Poem"
@@ -355,7 +355,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-poem-poem",
+          "slug": "l1",
           "title": {
             "ar": "قصيدة (نص شعري)",
             "en": "Poem (Poem)"
@@ -365,7 +365,7 @@
       ]
     },
     {
-      "slug": "17-lesson-17-babiker-badri",
+      "slug": "c17",
       "title": {
         "ar": "الدرس السابع عشر: بابكر بدري",
         "en": "Lesson 17: Babiker Badri"
@@ -376,7 +376,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-babiker-badri-reading",
+          "slug": "l1",
           "title": {
             "ar": "بابكر بدري (قراءة)",
             "en": "Babiker Badri (Reading)"
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "slug": "18-lesson-18-friendship",
+      "slug": "c18",
       "title": {
         "ar": "الدرس الثامن عشر: الصداقة",
         "en": "Lesson 18: Friendship"
@@ -397,7 +397,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-friendship-reading",
+          "slug": "l1",
           "title": {
             "ar": "الصداقة (قراءة)",
             "en": "Friendship (Reading)"
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "slug": "19-lesson-19-abu-bakr-al-razi",
+      "slug": "c19",
       "title": {
         "ar": "الدرس التاسع عشر: أبو بكر الرازي",
         "en": "Lesson 19: Abu Bakr al-Razi"
@@ -418,7 +418,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-abu-bakr-al-razi-reading",
+          "slug": "l1",
           "title": {
             "ar": "أبو بكر الرازي (قراءة)",
             "en": "Abu Bakr al-Razi (Reading)"
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "slug": "20-lesson-20-listening-text",
+      "slug": "c20",
       "title": {
         "ar": "الدرس العشرون: قراءة استماع",
         "en": "Lesson 20: Listening Text"
@@ -439,7 +439,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-listening-text-listening",
+          "slug": "l1",
           "title": {
             "ar": "قراءة استماع (استماع)",
             "en": "Listening Text (Listening)"
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "slug": "21-lesson-21-harmful-practices",
+      "slug": "c21",
       "title": {
         "ar": "الدرس الحادي والعشرون: من الممارسات الضارة",
         "en": "Lesson 21: Harmful Practices"
@@ -460,7 +460,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-harmful-practices-reading",
+          "slug": "l1",
           "title": {
             "ar": "من الممارسات الضارة (قراءة)",
             "en": "Harmful Practices (Reading)"
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "slug": "22-lesson-22-freedom",
+      "slug": "c22",
       "title": {
         "ar": "الدرس الثاني والعشرون: الحرية",
         "en": "Lesson 22: Freedom"
@@ -481,7 +481,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-freedom-reading",
+          "slug": "l1",
           "title": {
             "ar": "الحرية (قراءة)",
             "en": "Freedom (Reading)"
@@ -491,7 +491,7 @@
       ]
     },
     {
-      "slug": "23-lesson-23-malikat-al-dar-muhammad-abdallah",
+      "slug": "c23",
       "title": {
         "ar": "الدرس الثالث والعشرون: ملكة الدار محمد عبد الله",
         "en": "Lesson 23: Malikat al-Dar Muhammad Abdallah"
@@ -502,7 +502,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-malikat-al-dar-muhammad-abdallah-reading",
+          "slug": "l1",
           "title": {
             "ar": "ملكة الدار محمد عبد الله (قراءة)",
             "en": "Malikat al-Dar Muhammad Abdallah (Reading)"
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "slug": "24-lesson-24-listening-text",
+      "slug": "c24",
       "title": {
         "ar": "الدرس الرابع والعشرون: قراءة استماع",
         "en": "Lesson 24: Listening Text"
@@ -523,7 +523,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-listening-text-listening",
+          "slug": "l1",
           "title": {
             "ar": "قراءة استماع (استماع)",
             "en": "Listening Text (Listening)"
@@ -533,7 +533,7 @@
       ]
     },
     {
-      "slug": "25-lesson-25-khalil-farah",
+      "slug": "c25",
       "title": {
         "ar": "الدرس الخامس والعشرون: خليل فرح",
         "en": "Lesson 25: Khalil Farah"
@@ -544,7 +544,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-khalil-farah-reading",
+          "slug": "l1",
           "title": {
             "ar": "خليل فرح (قراءة)",
             "en": "Khalil Farah (Reading)"

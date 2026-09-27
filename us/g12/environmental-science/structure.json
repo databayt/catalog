@@ -55,19 +55,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-ecosystems",
+      "slug": "c1",
       "title": {
         "en": "Ecosystems & Biodiversity"
       },
       "lessons": [
         {
-          "slug": "01-energy-flow",
+          "slug": "l1",
           "title": {
             "en": "Energy Flow & Food Webs"
           }
         },
         {
-          "slug": "02-biodiversity",
+          "slug": "l2",
           "title": {
             "en": "Biodiversity"
           }
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "slug": "02-human-impact",
+      "slug": "c2",
       "title": {
         "en": "Human Impact & Sustainability"
       },
       "lessons": [
         {
-          "slug": "01-pollution-climate",
+          "slug": "l1",
           "title": {
             "en": "Pollution & Climate Change"
           }
         },
         {
-          "slug": "02-sustainability",
+          "slug": "l2",
           "title": {
             "en": "Sustainability & Resources"
           }

@@ -47,25 +47,25 @@
   ],
   "chapters": [
     {
-      "slug": "01-multiplication",
+      "slug": "c1",
       "title": {
         "en": "Multiplication & Division"
       },
       "lessons": [
         {
-          "slug": "01-meaning-multiplication",
+          "slug": "l1",
           "title": {
             "en": "Understanding Multiplication"
           }
         },
         {
-          "slug": "02-division-basics",
+          "slug": "l2",
           "title": {
             "en": "Understanding Division"
           }
         },
         {
-          "slug": "03-fact-families",
+          "slug": "l3",
           "title": {
             "en": "Fact Families"
           }
@@ -73,19 +73,19 @@
       ]
     },
     {
-      "slug": "02-fractions",
+      "slug": "c2",
       "title": {
         "en": "Fractions"
       },
       "lessons": [
         {
-          "slug": "01-understanding-fractions",
+          "slug": "l1",
           "title": {
             "en": "Understanding Fractions"
           }
         },
         {
-          "slug": "02-equivalent-fractions",
+          "slug": "l2",
           "title": {
             "en": "Equivalent Fractions"
           }
@@ -93,19 +93,19 @@
       ]
     },
     {
-      "slug": "03-area-perimeter",
+      "slug": "c3",
       "title": {
         "en": "Area & Perimeter"
       },
       "lessons": [
         {
-          "slug": "01-area",
+          "slug": "l1",
           "title": {
             "en": "Area"
           }
         },
         {
-          "slug": "02-perimeter",
+          "slug": "l2",
           "title": {
             "en": "Perimeter"
           }

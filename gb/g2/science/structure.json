@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-living",
+      "slug": "c1",
       "title": {
         "en": "Living Things & Habitats"
       },
       "lessons": [
         {
-          "slug": "01-habitats",
+          "slug": "l1",
           "title": {
             "en": "Habitats"
           }
         },
         {
-          "slug": "02-living-nonliving",
+          "slug": "l2",
           "title": {
             "en": "Living, Dead & Never Alive"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-materials",
+      "slug": "c2",
       "title": {
         "en": "Uses of Materials"
       },
       "lessons": [
         {
-          "slug": "01-properties",
+          "slug": "l1",
           "title": {
             "en": "Material Properties"
           }
         },
         {
-          "slug": "02-shaping",
+          "slug": "l2",
           "title": {
             "en": "Changing Shapes"
           }

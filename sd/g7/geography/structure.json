@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-africa",
+      "slug": "c1",
       "title": {
         "ar": "قارة إفريقيا",
         "en": "The Continent of Africa"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-world-continents",
+          "slug": "l1",
           "title": {
             "ar": "قارات العالم",
             "en": "Continents of the World"
@@ -40,7 +40,7 @@
           "page": 4
         },
         {
-          "slug": "02-africa-overview",
+          "slug": "l2",
           "title": {
             "ar": "قارة إفريقيا",
             "en": "The Continent of Africa"
@@ -48,7 +48,7 @@
           "page": 12
         },
         {
-          "slug": "03-surface-terrain",
+          "slug": "l3",
           "title": {
             "ar": "السطح والتضاريس",
             "en": "Surface and Terrain"
@@ -56,7 +56,7 @@
           "page": 14
         },
         {
-          "slug": "04-drainage-water-resources",
+          "slug": "l4",
           "title": {
             "ar": "التصريف وموارد المياه",
             "en": "Drainage and Water Resources"
@@ -64,7 +64,7 @@
           "page": 19
         },
         {
-          "slug": "05-climate",
+          "slug": "l5",
           "title": {
             "ar": "المناخ",
             "en": "Climate"
@@ -72,7 +72,7 @@
           "page": 22
         },
         {
-          "slug": "06-climate-vegetation-regions",
+          "slug": "l6",
           "title": {
             "ar": "الأقاليم المناخية والنباتية",
             "en": "Climatic and Vegetation Regions"
@@ -80,7 +80,7 @@
           "page": 26
         },
         {
-          "slug": "07-population-economic-activity",
+          "slug": "l7",
           "title": {
             "ar": "السكان والنشاط الاقتصادي",
             "en": "Population and Economic Activity"
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "slug": "02-asia",
+      "slug": "c2",
       "title": {
         "ar": "قارة آسيا",
         "en": "The Continent of Asia"
@@ -102,7 +102,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-asia-physical-geography",
+          "slug": "l1",
           "title": {
             "ar": "جغرافية آسيا الطبيعية",
             "en": "The Physical Geography of Asia"
@@ -110,7 +110,7 @@
           "page": 38
         },
         {
-          "slug": "02-terrain",
+          "slug": "l2",
           "title": {
             "ar": "التضاريس",
             "en": "Terrain"
@@ -118,7 +118,7 @@
           "page": 39
         },
         {
-          "slug": "03-climate-natural-vegetation",
+          "slug": "l3",
           "title": {
             "ar": "المناخ والنباتات الطبيعية",
             "en": "Climate and Natural Vegetation"
@@ -126,7 +126,7 @@
           "page": 45
         },
         {
-          "slug": "04-population-economic-activity",
+          "slug": "l4",
           "title": {
             "ar": "السكان والنشاط الاقتصادي",
             "en": "Population and Economic Activity"
@@ -134,7 +134,7 @@
           "page": 51
         },
         {
-          "slug": "05-environmental-problems",
+          "slug": "l5",
           "title": {
             "ar": "أهم المشكلات البيئية",
             "en": "Most Important Environmental Problems"
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "slug": "03-europe",
+      "slug": "c3",
       "title": {
         "ar": "قارة أوروبا",
         "en": "The Continent of Europe"
@@ -156,7 +156,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-europe-overview",
+          "slug": "l1",
           "title": {
             "ar": "قارة أوروبا",
             "en": "The Continent of Europe"
@@ -164,7 +164,7 @@
           "page": 61
         },
         {
-          "slug": "02-terrain",
+          "slug": "l2",
           "title": {
             "ar": "التضاريس",
             "en": "Terrain"
@@ -172,7 +172,7 @@
           "page": 65
         },
         {
-          "slug": "03-water-drainage",
+          "slug": "l3",
           "title": {
             "ar": "التصريف المائي",
             "en": "Water Drainage"
@@ -180,7 +180,7 @@
           "page": 68
         },
         {
-          "slug": "04-climate-vegetation-regions",
+          "slug": "l4",
           "title": {
             "ar": "المناخ والأقاليم النباتية",
             "en": "Climate and Vegetation Regions"
@@ -188,7 +188,7 @@
           "page": 70
         },
         {
-          "slug": "05-human-economic-geography",
+          "slug": "l5",
           "title": {
             "ar": "الجغرافيا البشرية والاقتصادية",
             "en": "Human and Economic Geography"
@@ -196,7 +196,7 @@
           "page": 80
         },
         {
-          "slug": "06-population",
+          "slug": "l6",
           "title": {
             "ar": "السكان",
             "en": "Population"
@@ -204,7 +204,7 @@
           "page": 81
         },
         {
-          "slug": "07-economic-activity",
+          "slug": "l7",
           "title": {
             "ar": "النشاط الاقتصادي",
             "en": "Economic Activity"
@@ -212,7 +212,7 @@
           "page": 84
         },
         {
-          "slug": "08-environmental-problems",
+          "slug": "l8",
           "title": {
             "ar": "أهم المشكلات البيئية",
             "en": "Most Important Environmental Problems"
@@ -221,7 +221,7 @@
           "image": "clickview/middle-human-impacts-cover.jpg"
         },
         {
-          "slug": "09-british-isles",
+          "slug": "l9",
           "title": {
             "ar": "الجزر البريطانية",
             "en": "The British Isles"

@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l3"
+  },
+  "questions": [
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-lq01",
+      "type": "mcq",
+      "question": "ما قيمة 2³?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8."
+    },
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-lq02",
+      "type": "true_false",
+      "question": "a⁰ = 1 لأي عدد a ≠ 0.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "أي عدد غير صفري مرفوع للقوة صفر = 1."
+    },
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-lq03",
+      "type": "fill_blank",
+      "question": "3² × 3³ = 3___.",
+      "answer": "⁵",
+      "explanation": "عند ضرب قوى بنفس الأساس تُجمع الأسس: 2+3=5."
+    },
+    {
+      "id": "g9-mat-unit-02-03-power-of-power-lq04",
+      "type": "short_answer",
+      "question": "ما قانون ضرب الأسس ذات القاعدة المتشابهة؟",
+      "answer": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+      "explanation": "عند ضرب أسس بنفس القاعدة تجمع الأسس."
+    },
+    {
+      "id": "c0e4fb05",
+      "type": "mcq",
+      "question": "ما قيمة 2³؟",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": "8",
+      "explanation": "2³ = 2 × 2 × 2 = 8"
+    },
+    {
+      "id": "6c3d1c1d",
+      "type": "fill_blank",
+      "question": "أي عدد للقوة الصفر يساوي ___",
+      "answer": "1",
+      "explanation": "أي عدد غير الصفر مرفوع للقوة صفر يساوي 1"
+    },
+    {
+      "id": "f25aa524",
+      "type": "true_false",
+      "question": "a⁻ⁿ = 1/aⁿ",
+      "answer": true,
+      "explanation": "الأس السالب ينقل الحد إلى المقام"
+    }
+  ]
+}

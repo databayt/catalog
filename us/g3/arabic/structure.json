@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-comprehension",
+      "slug": "c1",
       "title": {
         "ar": "القراءة والفهم"
       },
       "lessons": [
         {
-          "slug": "01-comprehension",
+          "slug": "l1",
           "title": {
             "ar": "الفهم القرائي"
           }
         },
         {
-          "slug": "02-gender",
+          "slug": "l2",
           "title": {
             "ar": "المذكر والمؤنث"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-words",
+      "slug": "c2",
       "title": {
         "ar": "المفرد والجمع"
       },
       "lessons": [
         {
-          "slug": "01-singular-plural",
+          "slug": "l1",
           "title": {
             "ar": "المفرد والجمع"
           }
         },
         {
-          "slug": "02-synonyms",
+          "slug": "l2",
           "title": {
             "ar": "الترادف والتضاد"
           }

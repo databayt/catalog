@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-a-letter-to-god",
+      "slug": "c1",
       "title": {
         "en": "A Letter to God"
       },
       "lessons": [
         {
-          "slug": "01-a-letter-to-god",
+          "slug": "l1",
           "title": {
             "en": "A Letter to God"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-nelson-mandela",
+      "slug": "c2",
       "title": {
         "en": "Nelson Mandela: Long Walk to Freedom"
       },
       "lessons": [
         {
-          "slug": "01-nelson-mandela",
+          "slug": "l1",
           "title": {
             "en": "Nelson Mandela: Long Walk to Freedom"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-two-stories-about-flying",
+      "slug": "c3",
       "title": {
         "en": "Two Stories about Flying"
       },
       "lessons": [
         {
-          "slug": "01-two-stories-about-flying",
+          "slug": "l1",
           "title": {
             "en": "Two Stories about Flying"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-diary-of-anne-frank",
+      "slug": "c4",
       "title": {
         "en": "From the Diary of Anne Frank"
       },
       "lessons": [
         {
-          "slug": "01-diary-of-anne-frank",
+          "slug": "l1",
           "title": {
             "en": "From the Diary of Anne Frank"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-glimpses-of-india",
+      "slug": "c5",
       "title": {
         "en": "Glimpses of India"
       },
       "lessons": [
         {
-          "slug": "01-glimpses-of-india",
+          "slug": "l1",
           "title": {
             "en": "Glimpses of India"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-mijbil-the-otter",
+      "slug": "c6",
       "title": {
         "en": "Mijbil the Otter"
       },
       "lessons": [
         {
-          "slug": "01-mijbil-the-otter",
+          "slug": "l1",
           "title": {
             "en": "Mijbil the Otter"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-madam-rides-the-bus",
+      "slug": "c7",
       "title": {
         "en": "Madam Rides the Bus"
       },
       "lessons": [
         {
-          "slug": "01-madam-rides-the-bus",
+          "slug": "l1",
           "title": {
             "en": "Madam Rides the Bus"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-the-sermon-at-benares",
+      "slug": "c8",
       "title": {
         "en": "The Sermon at Benares"
       },
       "lessons": [
         {
-          "slug": "01-the-sermon-at-benares",
+          "slug": "l1",
           "title": {
             "en": "The Sermon at Benares"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-the-proposal",
+      "slug": "c9",
       "title": {
         "en": "The Proposal"
       },
       "lessons": [
         {
-          "slug": "01-the-proposal",
+          "slug": "l1",
           "title": {
             "en": "The Proposal"
           }

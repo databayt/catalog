@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g11-isl-unit-02-values-01-justice-quiz",
+      "title": "Quiz: العدل",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq01",
+          "type": "mcq",
+          "question": "العدل يعني:",
+          "options": [
+            "إعطاء كل ذي حق حقه",
+            "الظلم",
+            "المحاباة",
+            "الإهمال"
+          ],
+          "answer": "إعطاء كل ذي حق حقه",
+          "explanation": "العدل."
+        },
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq02",
+          "type": "true_false",
+          "question": "أمر الله بالعدل والإحسان.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الآية."
+        },
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq03",
+          "type": "fill_blank",
+          "question": "(إن الله يأمر بالعدل و___).",
+          "answer": "الإحسان",
+          "explanation": "الآية."
+        },
+        {
+          "id": "g11-isl-unit-02-values-01-justice-lq04",
+          "type": "short_answer",
+          "question": "لماذا يُعدّ العدل قيمة مهمة؟",
+          "answer": "لأنه يحفظ الحقوق ويقيم المجتمع على الإنصاف.",
+          "explanation": "العدل."
+        }
+      ]
+    }
+  ]
+}

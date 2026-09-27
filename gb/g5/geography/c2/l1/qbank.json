@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "geography",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq01",
+      "type": "mcq",
+      "question": "The capital of the UAE is:",
+      "options": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Doha"
+      ],
+      "answer": "Abu Dhabi",
+      "explanation": "UAE capital."
+    },
+    {
+      "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq02",
+      "type": "true_false",
+      "question": "Much of the UAE's landscape is desert.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Arid climate."
+    },
+    {
+      "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq03",
+      "type": "fill_blank",
+      "question": "The UAE lies on the Arabian ___.",
+      "answer": "Peninsula",
+      "explanation": "Location."
+    },
+    {
+      "id": "g5-geo-unit-02-region-uae-01-uae-geography-lq04",
+      "type": "short_answer",
+      "question": "Name one physical feature of the UAE.",
+      "answer": "e.g., desert, coastline on the Arabian Gulf, or mountains.",
+      "explanation": "UAE physical geography."
+    }
+  ]
+}

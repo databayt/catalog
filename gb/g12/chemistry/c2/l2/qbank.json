@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "chemistry",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g12-che-unit-02-inorganic-chemistry-02-group-2-group-7-lq01",
+      "type": "mcq",
+      "question": "Which statement best describes the focus of \"Group 2 & Group 7\"?",
+      "options": [
+        "It is the core idea of this lesson",
+        "It is unrelated to Inorganic Chemistry",
+        "It belongs to a different grade",
+        "None of the above"
+      ],
+      "answer": "It is the core idea of this lesson",
+      "explanation": "\"Group 2 & Group 7\" is a lesson within the unit \"Inorganic Chemistry\"."
+    },
+    {
+      "id": "g12-che-unit-02-inorganic-chemistry-02-group-2-group-7-lq02",
+      "type": "true_false",
+      "question": "\"Group 2 & Group 7\" is part of the unit \"Inorganic Chemistry\".",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "This lesson sits inside the named unit."
+    },
+    {
+      "id": "g12-che-unit-02-inorganic-chemistry-02-group-2-group-7-lq03",
+      "type": "fill_blank",
+      "question": "The lesson titled ___ teaches this topic.",
+      "answer": "Group 2 & Group 7",
+      "explanation": "The topic is \"Group 2 & Group 7\"."
+    },
+    {
+      "id": "g12-che-unit-02-inorganic-chemistry-02-group-2-group-7-lq04",
+      "type": "short_answer",
+      "question": "In your own words, summarise \"Group 2 & Group 7\".",
+      "answer": "A short summary of Group 2 & Group 7.",
+      "explanation": "Open response; assess understanding of the lesson objective."
+    }
+  ]
+}

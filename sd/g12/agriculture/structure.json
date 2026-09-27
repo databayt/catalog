@@ -45,7 +45,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-crop-production",
+      "slug": "c1",
       "title": {
         "ar": "الإنتاج الزراعي",
         "en": "Crop Production"
@@ -57,7 +57,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-factors-controlling-plant-growth",
+          "slug": "l1",
           "title": {
             "ar": "العوامل التي تتحكم في نمو النبات",
             "en": "Factors Controlling Plant Growth"
@@ -74,7 +74,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "02-the-impact-of-agricultural-expansion-and",
+          "slug": "l2",
           "title": {
             "ar": "أثر التوسع الزراعي والرعوي الجائر في الموارد الطبيعية",
             "en": "The Impact of Agricultural Expansion and Overgrazing on Natural Resources"
@@ -91,7 +91,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-ornamental-plants",
+          "slug": "l3",
           "title": {
             "ar": "نباتات الزينة",
             "en": "Ornamental Plants"
@@ -107,7 +107,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-aromatic-plants",
+          "slug": "l4",
           "title": {
             "ar": "النباتات العطرية",
             "en": "Aromatic Plants"
@@ -123,7 +123,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "05-marketing-vegetables-and-fruit",
+          "slug": "l5",
           "title": {
             "ar": "تسويق الخضر والفاكهة",
             "en": "Marketing Vegetables and Fruit"
@@ -140,7 +140,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-horticultural-crops",
+          "slug": "l6",
           "title": {
             "ar": "المحاصيل البستانية",
             "en": "Horticultural Crops"
@@ -156,7 +156,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "07-food-preservation-methods",
+          "slug": "l7",
           "title": {
             "ar": "طرق حفظ الأغذية",
             "en": "Food Preservation Methods"
@@ -173,7 +173,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-food-processing",
+          "slug": "l8",
           "title": {
             "ar": "التصنيع الغذائي",
             "en": "Food Processing"
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "slug": "02-animal-production",
+      "slug": "c2",
       "title": {
         "ar": "الإنتاج الحيواني",
         "en": "Animal Production"
@@ -204,7 +204,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-dairy-production",
+          "slug": "l1",
           "title": {
             "ar": "إنتاج الألبان",
             "en": "Dairy Production"
@@ -219,7 +219,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "02-milking-methods",
+          "slug": "l2",
           "title": {
             "ar": "طرق الحلب",
             "en": "Milking Methods"
@@ -234,7 +234,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "03-dairy-production-systems-in-sudan",
+          "slug": "l3",
           "title": {
             "ar": "نظم إنتاج الألبان في السودان",
             "en": "Dairy Production Systems in Sudan"
@@ -249,7 +249,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "04-dairy-quality-control",
+          "slug": "l4",
           "title": {
             "ar": "ضبط جودة الألبان",
             "en": "Dairy Quality Control"
@@ -264,7 +264,7 @@
           "durationMinutes": 75
         },
         {
-          "slug": "05-milk-preservation-methods",
+          "slug": "l5",
           "title": {
             "ar": "طرق حفظ اللبن",
             "en": "Milk Preservation Methods"
@@ -281,7 +281,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "06-safety-of-milk-and-dairy-products",
+          "slug": "l6",
           "title": {
             "ar": "سلامة (صحة) الألبان ومنتجاتها",
             "en": "Safety of Milk and Dairy Products"
@@ -298,7 +298,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "07-meat-production",
+          "slug": "l7",
           "title": {
             "ar": "إنتاج اللحوم",
             "en": "Meat Production"
@@ -314,7 +314,7 @@
           "durationMinutes": 90
         },
         {
-          "slug": "08-meat-quality",
+          "slug": "l8",
           "title": {
             "ar": "جودة اللحم",
             "en": "Meat Quality"
@@ -329,7 +329,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "09-meat-production-methods",
+          "slug": "l9",
           "title": {
             "ar": "طرق إنتاج اللحوم",
             "en": "Meat Production Methods"
@@ -344,7 +344,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "10-meat-preservation",
+          "slug": "l10",
           "title": {
             "ar": "حفظ اللحوم",
             "en": "Meat Preservation"
@@ -361,7 +361,7 @@
           "durationMinutes": 60
         },
         {
-          "slug": "11-meat-processing",
+          "slug": "l11",
           "title": {
             "ar": "تصنيع اللحوم",
             "en": "Meat Processing"
@@ -378,7 +378,7 @@
           "durationMinutes": 45
         },
         {
-          "slug": "12-slaughter-by-products",
+          "slug": "l12",
           "title": {
             "ar": "مخلفات الذبيح",
             "en": "Slaughter By-products"
@@ -393,7 +393,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "13-meat-hygiene-and-safety",
+          "slug": "l13",
           "title": {
             "ar": "صحة وسلامة اللحوم",
             "en": "Meat Hygiene and Safety"
@@ -412,7 +412,7 @@
       ]
     },
     {
-      "slug": "03-the-agricultural-and-livestock-sector-and",
+      "slug": "c3",
       "title": {
         "ar": "القطاع الزراعي والحيواني وآفاق المستقبل",
         "en": "The Agricultural and Livestock Sector and Future Prospects"
@@ -424,7 +424,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-two-sectors-role-in-national-output",
+          "slug": "l1",
           "title": {
             "ar": "دور القطاعين في الناتج القومي",
             "en": "The Two Sectors' Role in National Output"
@@ -439,7 +439,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "02-the-sectors-contribution-to-food-security",
+          "slug": "l2",
           "title": {
             "ar": "إسهام القطاع في الأمن الغذائي",
             "en": "The Sector's Contribution to Food Security"
@@ -455,7 +455,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "03-the-sectors-contribution-to-manufacturing",
+          "slug": "l3",
           "title": {
             "ar": "إسهام القطاع في الصناعات التحويلية",
             "en": "The Sector's Contribution to Manufacturing"
@@ -470,7 +470,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "04-the-sectors-contribution-to-export-earnings",
+          "slug": "l4",
           "title": {
             "ar": "إسهام القطاع في حصيلة الصادر",
             "en": "The Sector's Contribution to Export Earnings"
@@ -486,7 +486,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "05-contribution-to-employment",
+          "slug": "l5",
           "title": {
             "ar": "الإسهام في توفير فرص العمل",
             "en": "Contribution to Employment"
@@ -502,7 +502,7 @@
           "durationMinutes": 30
         },
         {
-          "slug": "06-contribution-to-national-unity-and-security",
+          "slug": "l6",
           "title": {
             "ar": "الإسهام في الوحدة الوطنية والأمن القومي",
             "en": "Contribution to National Unity and Security"

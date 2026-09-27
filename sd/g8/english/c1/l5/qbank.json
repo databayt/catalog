@@ -1,0 +1,31 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g8",
+    "subject": "english",
+    "chapter": "c1",
+    "lesson": "l5"
+  },
+  "questions": [
+    {
+      "id": "g8-en-unit01-q009",
+      "type": "fill_blank",
+      "question": "He said, 'I am tired.' (Reported speech) → He said ___",
+      "answer": "he was tired",
+      "explanation": "Tenses shift in reported speech"
+    },
+    {
+      "id": "g8-en-unit01-q010",
+      "type": "mcq",
+      "question": "Choose the correct tag question: 'You like football, ___?'",
+      "options": [
+        "don't you?",
+        "didn't you?",
+        "won't you?",
+        "can't you?"
+      ],
+      "answer": "don't you?",
+      "explanation": "Tag questions use auxiliary verb"
+    }
+  ]
+}

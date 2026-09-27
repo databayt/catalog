@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "science",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g8-sci-unit-02-earth-space-exam",
+      "title": "Exam: Earth & Space Systems",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq01",
+          "type": "mcq",
+          "question": "Earthquakes often occur at:",
+          "options": [
+            "plate boundaries",
+            "mountain tops only",
+            "the equator",
+            "the poles"
+          ],
+          "answer": "plate boundaries",
+          "explanation": "Plates interact."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq02",
+          "type": "true_false",
+          "question": "Earth's crust is broken into moving plates.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tectonic plates."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq03",
+          "type": "fill_blank",
+          "question": "Molten rock below the surface is ___.",
+          "answer": "magma",
+          "explanation": "Becomes lava above surface."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-01-plate-tectonics-lq04",
+          "type": "short_answer",
+          "question": "What causes tectonic plates to move?",
+          "answer": "Convection currents in the mantle.",
+          "explanation": "Mantle convection."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-02-solar-system-lq01",
+          "type": "mcq",
+          "question": "The force that keeps planets in orbit is:",
+          "options": [
+            "magnetism",
+            "gravity",
+            "friction",
+            "tension"
+          ],
+          "answer": "gravity",
+          "explanation": "Sun's gravity."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-02-solar-system-lq02",
+          "type": "true_false",
+          "question": "A light-year measures distance, not time.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Distance light travels in a year."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-02-solar-system-lq03",
+          "type": "fill_blank",
+          "question": "Earth's seasons are caused by the tilt of its ___.",
+          "answer": "axis",
+          "explanation": "Axial tilt."
+        },
+        {
+          "id": "g8-sci-unit-02-earth-space-02-solar-system-lq04",
+          "type": "short_answer",
+          "question": "Why does the Moon have phases?",
+          "answer": "We see different lit portions as it orbits Earth.",
+          "explanation": "Moon phases."
+        }
+      ]
+    }
+  ]
+}

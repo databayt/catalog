@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "english-literature",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-02-poetry-01-comparison-lq01",
+      "type": "mcq",
+      "question": "Comparing poems examines theme, language and:",
+      "options": [
+        "price",
+        "structure/form",
+        "fonts",
+        "covers"
+      ],
+      "answer": "structure/form",
+      "explanation": "Comparison points."
+    },
+    {
+      "id": "g11-eng-unit-02-poetry-01-comparison-lq02",
+      "type": "true_false",
+      "question": "Two poems can share a theme but use different methods.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Compare methods."
+    },
+    {
+      "id": "g11-eng-unit-02-poetry-01-comparison-lq03",
+      "type": "fill_blank",
+      "question": "Connectives like 'whereas' signal ___ in comparison.",
+      "answer": "contrast",
+      "explanation": "Comparative writing."
+    },
+    {
+      "id": "g11-eng-unit-02-poetry-01-comparison-lq04",
+      "type": "short_answer",
+      "question": "Name three aspects to compare between poems.",
+      "answer": "e.g., theme, imagery, structure, tone (any three).",
+      "explanation": "Comparison."
+    }
+  ]
+}

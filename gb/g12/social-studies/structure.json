@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-future",
+      "slug": "c1",
       "title": {
         "en": "The UAE's Future & Innovation"
       },
       "lessons": [
         {
-          "slug": "01-innovation",
+          "slug": "l1",
           "title": {
             "en": "Innovation & the Future"
           }
         },
         {
-          "slug": "02-knowledge-economy",
+          "slug": "l2",
           "title": {
             "en": "The Knowledge Economy"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-leadership",
+      "slug": "c2",
       "title": {
         "en": "Leadership & Ethics"
       },
       "lessons": [
         {
-          "slug": "01-leadership",
+          "slug": "l1",
           "title": {
             "en": "Ethical Leadership"
           }
         },
         {
-          "slug": "02-responsibility",
+          "slug": "l2",
           "title": {
             "en": "Responsibility & Contribution"
           }

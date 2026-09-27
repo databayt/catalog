@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-cell-biology",
+      "slug": "c1",
       "title": {
         "en": "Cell Biology"
       },
       "lessons": [
         {
-          "slug": "01-cell-biology",
+          "slug": "l1",
           "title": {
             "en": "Cell Biology"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-molecular-biology",
+      "slug": "c2",
       "title": {
         "en": "Molecular Biology"
       },
       "lessons": [
         {
-          "slug": "01-molecular-biology",
+          "slug": "l1",
           "title": {
             "en": "Molecular Biology"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-genetics",
+      "slug": "c3",
       "title": {
         "en": "Genetics"
       },
       "lessons": [
         {
-          "slug": "01-genetics",
+          "slug": "l1",
           "title": {
             "en": "Genetics"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-ecology",
+      "slug": "c4",
       "title": {
         "en": "Ecology"
       },
       "lessons": [
         {
-          "slug": "01-ecology",
+          "slug": "l1",
           "title": {
             "en": "Ecology"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-evolution-and-biodiversity",
+      "slug": "c5",
       "title": {
         "en": "Evolution and Biodiversity"
       },
       "lessons": [
         {
-          "slug": "01-evolution-and-biodiversity",
+          "slug": "l1",
           "title": {
             "en": "Evolution and Biodiversity"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-human-physiology",
+      "slug": "c6",
       "title": {
         "en": "Human Physiology"
       },
       "lessons": [
         {
-          "slug": "01-human-physiology",
+          "slug": "l1",
           "title": {
             "en": "Human Physiology"
           }

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-his-unit-02-medieval-church-02-black-death-lq01",
+      "type": "mcq",
+      "question": "The Black Death of 1348 was a deadly:",
+      "options": [
+        "plague",
+        "war",
+        "famine only",
+        "fire"
+      ],
+      "answer": "plague",
+      "explanation": "Bubonic plague."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-02-black-death-lq02",
+      "type": "true_false",
+      "question": "The Black Death killed a large share of England's population.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "~a third or more."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-02-black-death-lq03",
+      "type": "fill_blank",
+      "question": "The plague was spread partly by fleas on ___.",
+      "answer": "rats",
+      "explanation": "Disease vector."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-02-black-death-lq04",
+      "type": "short_answer",
+      "question": "Name one consequence of the Black Death.",
+      "answer": "e.g., labour shortages and higher wages for peasants.",
+      "explanation": "Consequences."
+    }
+  ]
+}

@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-texts",
+      "slug": "c1",
       "title": {
         "ar": "النصوص الأدبية"
       },
       "lessons": [
         {
-          "slug": "01-analysis",
+          "slug": "l1",
           "title": {
             "ar": "تحليل النص الأدبي"
           }
         },
         {
-          "slug": "02-rhetoric",
+          "slug": "l2",
           "title": {
             "ar": "مدخل إلى البلاغة"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-bayan",
+      "slug": "c2",
       "title": {
         "ar": "علم البيان"
       },
       "lessons": [
         {
-          "slug": "01-tashbih",
+          "slug": "l1",
           "title": {
             "ar": "التشبيه"
           }
         },
         {
-          "slug": "02-istiara",
+          "slug": "l2",
           "title": {
             "ar": "الاستعارة والكناية"
           }

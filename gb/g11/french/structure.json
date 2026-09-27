@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-greetings",
+      "slug": "c1",
       "title": {
         "fr": "Greetings & Self"
       },
       "lessons": [
         {
-          "slug": "01-greetings",
+          "slug": "l1",
           "title": {
             "fr": "Greetings & Introductions"
           }
         },
         {
-          "slug": "02-numbers",
+          "slug": "l2",
           "title": {
             "fr": "Numbers & Age"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-daily-life",
+      "slug": "c2",
       "title": {
         "fr": "Daily Life & Grammar"
       },
       "lessons": [
         {
-          "slug": "01-school-food",
+          "slug": "l1",
           "title": {
             "fr": "School & Food"
           }
         },
         {
-          "slug": "02-grammar",
+          "slug": "l2",
           "title": {
             "fr": "Articles & Gender"
           }

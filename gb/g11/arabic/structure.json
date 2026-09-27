@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-poetry-prose",
+      "slug": "c1",
       "title": {
         "ar": "الشعر والنثر"
       },
       "lessons": [
         {
-          "slug": "01-poetry",
+          "slug": "l1",
           "title": {
             "ar": "الشعر العربي"
           }
         },
         {
-          "slug": "02-prose",
+          "slug": "l2",
           "title": {
             "ar": "النثر الأدبي"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-arud",
+      "slug": "c2",
       "title": {
         "ar": "العروض والقافية"
       },
       "lessons": [
         {
-          "slug": "01-arud",
+          "slug": "l1",
           "title": {
             "ar": "الوزن والبحور"
           }
         },
         {
-          "slug": "02-qafiya",
+          "slug": "l2",
           "title": {
             "ar": "القافية"
           }

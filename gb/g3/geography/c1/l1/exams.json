@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g3-geo-unit-01-maps-01-map-skills-quiz",
+      "title": "Quiz: Using Maps",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq01",
+          "type": "mcq",
+          "question": "On a compass, which direction is at the top by convention?",
+          "options": [
+            "South",
+            "North",
+            "East",
+            "West"
+          ],
+          "answer": "North",
+          "explanation": "Maps oriented north."
+        },
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq02",
+          "type": "true_false",
+          "question": "A map key explains the symbols on a map.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Legend/key."
+        },
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq03",
+          "type": "fill_blank",
+          "question": "The four main compass directions are North, East, South and ___.",
+          "answer": "West",
+          "explanation": "Cardinal points."
+        },
+        {
+          "id": "g3-geo-unit-01-maps-01-map-skills-lq04",
+          "type": "short_answer",
+          "question": "What is a grid reference used for?",
+          "answer": "To locate a precise place on a map.",
+          "explanation": "Grid references."
+        }
+      ]
+    }
+  ]
+}

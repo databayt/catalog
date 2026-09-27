@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-database-intro",
+      "slug": "c1",
       "title": {
         "ar": "مدخل إلى قواعد البيانات"
       },
@@ -28,19 +28,19 @@
       "image": "clickview/middle-data-and-information-cover.jpg",
       "lessons": [
         {
-          "slug": "01-data-tables",
+          "slug": "l1",
           "title": {
             "ar": "جداول البيانات"
           }
         },
         {
-          "slug": "02-related-tables",
+          "slug": "l2",
           "title": {
             "ar": "الجداول المرتبطة"
           }
         },
         {
-          "slug": "03-databases",
+          "slug": "l3",
           "title": {
             "ar": "قواعد البيانات"
           }
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "slug": "02-ms-access",
+      "slug": "c2",
       "title": {
         "ar": "تطبيقات قواعد البيانات باستخدام مايكروسوفت أكسس"
       },
@@ -56,37 +56,37 @@
       "image": "clickview/middle-data-and-information-cover.jpg",
       "lessons": [
         {
-          "slug": "01-main-interface",
+          "slug": "l1",
           "title": {
             "ar": "الواجهة الرئيسة للبرنامج"
           }
         },
         {
-          "slug": "02-tables",
+          "slug": "l2",
           "title": {
             "ar": "الجداول"
           }
         },
         {
-          "slug": "03-relationships",
+          "slug": "l3",
           "title": {
             "ar": "العلاقات بين الجداول"
           }
         },
         {
-          "slug": "04-forms",
+          "slug": "l4",
           "title": {
             "ar": "النماذج"
           }
         },
         {
-          "slug": "05-queries",
+          "slug": "l5",
           "title": {
             "ar": "الاستعلامات"
           }
         },
         {
-          "slug": "06-reports",
+          "slug": "l6",
           "title": {
             "ar": "التقارير"
           }
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "slug": "03-internet-basics",
+      "slug": "c3",
       "title": {
         "ar": "أساسيات الانترنت"
       },
@@ -102,37 +102,37 @@
       "image": "clickview/elementary-networks-and-the-internet-cover.jpg",
       "lessons": [
         {
-          "slug": "01-basic-concepts",
+          "slug": "l1",
           "title": {
             "ar": "مفاهيم أساسية في الانترنت"
           }
         },
         {
-          "slug": "02-internet-services",
+          "slug": "l2",
           "title": {
             "ar": "مزايا وخدمات الانترنت"
           }
         },
         {
-          "slug": "03-addresses-domains",
+          "slug": "l3",
           "title": {
             "ar": "عناوين ونطاقات الانترنت"
           }
         },
         {
-          "slug": "04-browsers",
+          "slug": "l4",
           "title": {
             "ar": "متصفحات الانترنت"
           }
         },
         {
-          "slug": "05-search-engines",
+          "slug": "l5",
           "title": {
             "ar": "محركات البحث"
           }
         },
         {
-          "slug": "06-safe-usage",
+          "slug": "l6",
           "title": {
             "ar": "الاستخدام الآمن للانترنت"
           }
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "slug": "04-internet-life",
+      "slug": "c4",
       "title": {
         "ar": "الانترنت في حياتنا"
       },
@@ -148,25 +148,25 @@
       "image": "clickview/elementary-impacts-of-computing-cover.jpg",
       "lessons": [
         {
-          "slug": "01-elearning",
+          "slug": "l1",
           "title": {
             "ar": "التعليم الإلكتروني"
           }
         },
         {
-          "slug": "02-egovernment",
+          "slug": "l2",
           "title": {
             "ar": "الحكومة الإلكترونية"
           }
         },
         {
-          "slug": "03-ecommerce",
+          "slug": "l3",
           "title": {
             "ar": "التجارة الإلكترونية"
           }
         },
         {
-          "slug": "04-iot",
+          "slug": "l4",
           "title": {
             "ar": "انترنت الأشياء"
           }

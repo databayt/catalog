@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "art",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g2-art-unit-01-elements-02-colour-lq01",
+      "type": "mcq",
+      "question": "The primary colours are red, yellow and:",
+      "options": [
+        "green",
+        "blue",
+        "pink",
+        "brown"
+      ],
+      "answer": "blue",
+      "explanation": "Primary colours."
+    },
+    {
+      "id": "g2-art-unit-01-elements-02-colour-lq02",
+      "type": "true_false",
+      "question": "Mixing blue and yellow makes green.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Secondary colour."
+    },
+    {
+      "id": "g2-art-unit-01-elements-02-colour-lq03",
+      "type": "fill_blank",
+      "question": "Red, yellow and blue are the ___ colours.",
+      "answer": "primary",
+      "explanation": "Primary colours."
+    },
+    {
+      "id": "g2-art-unit-01-elements-02-colour-lq04",
+      "type": "short_answer",
+      "question": "How do you make a secondary colour?",
+      "answer": "Mix two primary colours together.",
+      "explanation": "Colour mixing."
+    }
+  ]
+}

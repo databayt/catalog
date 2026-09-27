@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-science-measurement",
+      "slug": "c1",
       "title": {
         "ar": "العلم والقياس"
       },
@@ -29,7 +29,7 @@
       "lessons": []
     },
     {
-      "slug": "02-force-pressure",
+      "slug": "c2",
       "title": {
         "ar": "القوة والضغط"
       },
@@ -38,7 +38,7 @@
       "lessons": []
     },
     {
-      "slug": "03-matter-properties",
+      "slug": "c3",
       "title": {
         "ar": "خواص المادة"
       },
@@ -47,7 +47,7 @@
       "lessons": []
     },
     {
-      "slug": "04-cell-structure",
+      "slug": "c4",
       "title": {
         "ar": "تركيب الخلية"
       },
@@ -56,7 +56,7 @@
       "lessons": []
     },
     {
-      "slug": "05-invertebrates",
+      "slug": "c5",
       "title": {
         "ar": "الحيوانات غير الفقارية (اللافقاريات)"
       },
@@ -65,7 +65,7 @@
       "lessons": []
     },
     {
-      "slug": "06-organisms-environment",
+      "slug": "c6",
       "title": {
         "ar": "الكائنات الحية وبيئاتها"
       },

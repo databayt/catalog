@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "islamic-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-isl-unit-01-worship-akhlaq-02-parents-lq01",
+      "type": "mcq",
+      "question": "بر الوالدين يعني:",
+      "options": [
+        "الإحسان إليهما",
+        "إهمالهما",
+        "رفع الصوت",
+        "العصيان"
+      ],
+      "answer": "الإحسان إليهما",
+      "explanation": "البر."
+    },
+    {
+      "id": "g7-isl-unit-01-worship-akhlaq-02-parents-lq02",
+      "type": "true_false",
+      "question": "أمر الله بالإحسان إلى الوالدين.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "من الأخلاق."
+    },
+    {
+      "id": "g7-isl-unit-01-worship-akhlaq-02-parents-lq03",
+      "type": "fill_blank",
+      "question": "طاعة الوالدين في المعروف من ___ الوالدين.",
+      "answer": "بر",
+      "explanation": "بر الوالدين."
+    },
+    {
+      "id": "g7-isl-unit-01-worship-akhlaq-02-parents-lq04",
+      "type": "short_answer",
+      "question": "اذكر صورة من صور بر الوالدين.",
+      "answer": "مثل: طاعتهما، والدعاء لهما، وخدمتهما.",
+      "explanation": "بر الوالدين."
+    }
+  ]
+}

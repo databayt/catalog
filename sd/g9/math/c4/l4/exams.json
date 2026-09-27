@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c4",
+    "lesson": "l4"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-04-04-theorem-3-lquiz",
+      "title": "اختبار درس - النظرية (٣) - العمود النازل من مركز الدائرة على الوتر ينصف الوتر",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-lq01",
+          "type": "mcq",
+          "question": "مجموع زوايا المثلث يساوي:",
+          "options": [
+            "180°",
+            "360°",
+            "90°",
+            "270°"
+          ],
+          "answer": "180°",
+          "explanation": "مجموع زوايا أي مثلث = 180°."
+        },
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-lq02",
+          "type": "true_false",
+          "question": "القطر في الدائرة يساوي ضعف نصف القطر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "القطر = 2 × نصف القطر."
+        },
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-lq03",
+          "type": "fill_blank",
+          "question": "محيط المربع ذو الضلع 5 سم = ___ سم.",
+          "answer": "20",
+          "explanation": "محيط المربع = 4 × الضلع = 4 × 5 = 20."
+        },
+        {
+          "id": "g9-mat-unit-04-04-theorem-3-lq04",
+          "type": "short_answer",
+          "question": "ما الفرق بين المساحة والمحيط؟",
+          "answer": "المحيط هو مجموع أطوال الأضلاع، والمساحة هي حجم السطح الداخلي",
+          "explanation": "المحيط والمساحة مفهومان مختلفان في الهندسة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-c4-l4-1",
+      "title": "النظرية (٣) - العمود النازل من مركز الدائرة على الوتر ينصف الوتر",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "2019634b",
+          "type": "mcq",
+          "question": "ما هو القطر؟",
+          "options": [
+            "خط يمر بمركز الدائرة",
+            "خط يصل نقطتين على الدائرة",
+            "خط يمر بمركز الدائرة ويصل نقطتين على الدائرة",
+            "أي خط على الدائرة"
+          ],
+          "answer": "خط يمر بمركز الدائرة ويصل نقطتين على الدائرة",
+          "explanation": "القطر هو وتر يمر بالمركز"
+        },
+        {
+          "id": "568f3384",
+          "type": "fill_blank",
+          "question": "الوتر الأطول في الدائرة هو ___",
+          "answer": "القطر",
+          "explanation": "القطر هو أطول وتر ممكن"
+        },
+        {
+          "id": "e0652ae7",
+          "type": "true_false",
+          "question": "الأوتار المتساوية تقابل أقواس متساوية",
+          "answer": true,
+          "explanation": "هذه نظرية أساسية في هندسة الدائرة"
+        }
+      ]
+    }
+  ]
+}

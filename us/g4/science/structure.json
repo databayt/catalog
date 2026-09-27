@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-energy",
+      "slug": "c1",
       "title": {
         "en": "Energy"
       },
       "lessons": [
         {
-          "slug": "01-energy-forms",
+          "slug": "l1",
           "title": {
             "en": "Forms of Energy"
           }
         },
         {
-          "slug": "02-electricity",
+          "slug": "l2",
           "title": {
             "en": "Electricity & Circuits"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-earth-processes",
+      "slug": "c2",
       "title": {
         "en": "Earth Processes"
       },
       "lessons": [
         {
-          "slug": "01-weathering-erosion",
+          "slug": "l1",
           "title": {
             "en": "Weathering & Erosion"
           }
         },
         {
-          "slug": "02-fossils",
+          "slug": "l2",
           "title": {
             "en": "Fossils & Earth's Past"
           }

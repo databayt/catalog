@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-forces",
+      "slug": "c1",
       "title": {
         "en": "Forces & Motion"
       },
       "lessons": [
         {
-          "slug": "01-forces",
+          "slug": "l1",
           "title": {
             "en": "Forces & Newton's Laws"
           }
         },
         {
-          "slug": "02-motion",
+          "slug": "l2",
           "title": {
             "en": "Motion & Momentum"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-waves",
+      "slug": "c2",
       "title": {
         "en": "Waves"
       },
       "lessons": [
         {
-          "slug": "01-wave-properties",
+          "slug": "l1",
           "title": {
             "en": "Wave Properties"
           }
         },
         {
-          "slug": "02-em-spectrum",
+          "slug": "l2",
           "title": {
             "en": "The Electromagnetic Spectrum"
           }

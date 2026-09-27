@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-th-century",
+      "slug": "c1",
       "title": {
         "en": "20th-Century America"
       },
       "lessons": [
         {
-          "slug": "01-depression-newdeal",
+          "slug": "l1",
           "title": {
             "en": "Depression & the New Deal"
           }
         },
         {
-          "slug": "02-civil-rights",
+          "slug": "l2",
           "title": {
             "en": "The Civil Rights Movement"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-modern-america",
+      "slug": "c2",
       "title": {
         "en": "Modern America"
       },
       "lessons": [
         {
-          "slug": "01-postwar",
+          "slug": "l1",
           "title": {
             "en": "Postwar America"
           }
         },
         {
-          "slug": "02-contemporary",
+          "slug": "l2",
           "title": {
             "en": "Contemporary Issues"
           }

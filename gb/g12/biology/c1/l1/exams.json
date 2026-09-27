@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "biology",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g12-bio-unit-01-molecules-01-biomolecules-quiz",
+      "title": "Quiz: Carbohydrates, Lipids & Proteins",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq01",
+          "type": "mcq",
+          "question": "The monomer of proteins is the:",
+          "options": [
+            "glucose",
+            "amino acid",
+            "nucleotide",
+            "fatty acid"
+          ],
+          "answer": "amino acid",
+          "explanation": "Protein monomer."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq02",
+          "type": "true_false",
+          "question": "Enzymes are proteins that lower activation energy.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Catalysts."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq03",
+          "type": "fill_blank",
+          "question": "The monomer of starch and glycogen is ___.",
+          "answer": "glucose",
+          "explanation": "Carbohydrate monomer."
+        },
+        {
+          "id": "g12-bio-unit-01-molecules-01-biomolecules-lq04",
+          "type": "short_answer",
+          "question": "How does enzyme structure relate to function?",
+          "answer": "The specific active-site shape determines which substrate fits.",
+          "explanation": "Specificity."
+        }
+      ]
+    }
+  ]
+}

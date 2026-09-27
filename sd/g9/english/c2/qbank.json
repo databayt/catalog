@@ -1,0 +1,211 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-q01",
+      "type": "mcq",
+      "question": "What does the word 'beneficial' mean?",
+      "options": [
+        "helpful",
+        "harmful",
+        "boring",
+        "difficult"
+      ],
+      "answer": "helpful",
+      "explanation": "'Beneficial' means producing good results or advantages."
+    },
+    {
+      "id": "g9-eng-unit-02-01-a-traditional-story-q02",
+      "type": "true_false",
+      "question": "The word 'enormous' means very large.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'Enormous' means very large in size or amount."
+    },
+    {
+      "id": "g9-eng-unit-02-02-national-dress-q01",
+      "type": "mcq",
+      "question": "Which sentence uses the Present Perfect correctly?",
+      "options": [
+        "I have visited Paris twice.",
+        "I visited Paris twice.",
+        "I will visit Paris twice.",
+        "I was visiting Paris twice."
+      ],
+      "answer": "I have visited Paris twice.",
+      "explanation": "Present Perfect uses have/has + past participle for past experiences."
+    },
+    {
+      "id": "g9-eng-unit-02-02-national-dress-q02",
+      "type": "true_false",
+      "question": "In English, adjectives usually come before the noun they modify.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "In English, adjectives typically precede the noun they describe."
+    },
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-q01",
+      "type": "mcq",
+      "question": "What is the main purpose of reading comprehension exercises?",
+      "options": [
+        "To understand text meaning and develop critical thinking",
+        "To memorize vocabulary only",
+        "To practice handwriting",
+        "To learn grammar rules"
+      ],
+      "answer": "To understand text meaning and develop critical thinking",
+      "explanation": "Reading comprehension develops understanding and critical analysis skills."
+    },
+    {
+      "id": "g9-eng-unit-02-03-famous-sudanese-writers-q02",
+      "type": "true_false",
+      "question": "Skimming a text means reading it slowly and carefully.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "Skimming means reading quickly to get the general idea, not in detail."
+    },
+    {
+      "id": "g9-eng-unit-02-04-sand-art-q01",
+      "type": "mcq",
+      "question": "What is the purpose of a topic sentence in a paragraph?",
+      "options": [
+        "To state the main idea of the paragraph",
+        "To conclude the paragraph",
+        "To provide examples",
+        "To introduce new topics"
+      ],
+      "answer": "To state the main idea of the paragraph",
+      "explanation": "A topic sentence presents the main idea that the paragraph will develop."
+    },
+    {
+      "id": "g9-eng-unit-02-04-sand-art-q02",
+      "type": "true_false",
+      "question": "A concluding sentence should introduce new ideas.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "A concluding sentence summarizes the paragraph, not introduces new ideas."
+    },
+    {
+      "id": "g9-eng-unit-02-05-robinson-crusoe-q01",
+      "type": "mcq",
+      "question": "What does the word 'beneficial' mean?",
+      "options": [
+        "helpful",
+        "harmful",
+        "boring",
+        "difficult"
+      ],
+      "answer": "helpful",
+      "explanation": "'Beneficial' means producing good results or advantages."
+    },
+    {
+      "id": "g9-eng-unit-02-05-robinson-crusoe-q02",
+      "type": "true_false",
+      "question": "The word 'enormous' means very large.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'Enormous' means very large in size or amount."
+    },
+    {
+      "id": "07b71b19",
+      "type": "mcq",
+      "question": "What are the main parts of speech?",
+      "options": [
+        "Only nouns and verbs",
+        "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+        "Only adjectives",
+        "Only verbs"
+      ],
+      "answer": "Noun, verb, adjective, adverb, pronoun, preposition, conjunction",
+      "explanation": "These are the eight traditional parts of speech"
+    },
+    {
+      "id": "d92d1bcf",
+      "type": "fill_blank",
+      "question": "A ___ is a word that names a person, place, or thing",
+      "answer": "noun",
+      "explanation": "Nouns identify people, places, objects, or ideas"
+    },
+    {
+      "id": "4d1d9148",
+      "type": "true_false",
+      "question": "Verbs express action or state of being",
+      "answer": true,
+      "explanation": "Verbs show what someone does or is"
+    },
+    {
+      "id": "fa824158",
+      "type": "short_answer",
+      "question": "What is the difference between active and passive voice?",
+      "answer": "Active: subject does action; Passive: action is done to subject",
+      "explanation": "Active: She ate the apple. Passive: The apple was eaten"
+    },
+    {
+      "id": "d77ae288",
+      "type": "mcq",
+      "question": "Which sentence has correct subject-verb agreement?",
+      "options": [
+        "The dogs is playing",
+        "The dog are running",
+        "The cat plays with the ball",
+        "The cats has arrived"
+      ],
+      "answer": "The cat plays with the ball",
+      "explanation": "Subject and verb must agree in number"
+    },
+    {
+      "id": "bf31563d",
+      "type": "true_false",
+      "question": "An adjective modifies a noun or pronoun",
+      "answer": true,
+      "explanation": "Adjectives describe or modify nouns"
+    },
+    {
+      "id": "f70fcd8e",
+      "type": "fill_blank",
+      "question": "A ___ introduces a noun or pronoun",
+      "answer": "preposition",
+      "explanation": "Prepositions show relationships (in, on, at, etc.)"
+    },
+    {
+      "id": "45ba074f",
+      "type": "short_answer",
+      "question": "Identify the adverb: She ran quickly away",
+      "answer": "quickly and away",
+      "explanation": "Adverbs modify verbs and often end in -ly"
+    },
+    {
+      "id": "d57b993f",
+      "type": "mcq",
+      "question": "What is a clause?",
+      "options": [
+        "A group of words",
+        "A group of words with subject and verb",
+        "A type of sentence",
+        "Only dependent groups"
+      ],
+      "answer": "A group of words with subject and verb",
+      "explanation": "Clauses contain a subject and predicate"
+    }
+  ]
+}

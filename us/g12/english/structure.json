@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-british-world-lit",
+      "slug": "c1",
       "title": {
         "en": "British & World Literature"
       },
       "lessons": [
         {
-          "slug": "01-canon",
+          "slug": "l1",
           "title": {
             "en": "The Literary Canon"
           }
         },
         {
-          "slug": "02-critical-lens",
+          "slug": "l2",
           "title": {
             "en": "Critical Perspectives"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-college-writing",
+      "slug": "c2",
       "title": {
         "en": "College & Career Writing"
       },
       "lessons": [
         {
-          "slug": "01-analysis-essay",
+          "slug": "l1",
           "title": {
             "en": "The Analytical Essay"
           }
         },
         {
-          "slug": "02-professional",
+          "slug": "l2",
           "title": {
             "en": "Professional Communication"
           }

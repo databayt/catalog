@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g3-mat-unit-02-fractions-01-tenths-lq01",
+      "type": "mcq",
+      "question": "One part of ten equal parts is:",
+      "options": [
+        "1/5",
+        "1/10",
+        "1/2",
+        "10"
+      ],
+      "answer": "1/10",
+      "explanation": "A tenth."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-tenths-lq02",
+      "type": "true_false",
+      "question": "3/10 means 3 out of 10 equal parts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Numerator/denominator."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-tenths-lq03",
+      "type": "fill_blank",
+      "question": "7/10 + ___ = 10/10.",
+      "answer": "3/10",
+      "explanation": "Makes a whole."
+    },
+    {
+      "id": "g3-mat-unit-02-fractions-01-tenths-lq04",
+      "type": "short_answer",
+      "question": "What is a tenth of 100?",
+      "answer": "10",
+      "explanation": "100 ÷ 10."
+    }
+  ]
+}

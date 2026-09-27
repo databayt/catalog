@@ -55,19 +55,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-cells",
+      "slug": "c1",
       "title": {
         "en": "Cell Structure & Function"
       },
       "lessons": [
         {
-          "slug": "01-cell-organelles",
+          "slug": "l1",
           "title": {
             "en": "Cell Organelles"
           }
         },
         {
-          "slug": "02-transport",
+          "slug": "l2",
           "title": {
             "en": "Cell Transport"
           }
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "slug": "02-genetics",
+      "slug": "c2",
       "title": {
         "en": "Genetics & Heredity"
       },
       "lessons": [
         {
-          "slug": "01-dna",
+          "slug": "l1",
           "title": {
             "en": "DNA & Genes"
           }
         },
         {
-          "slug": "02-inheritance",
+          "slug": "l2",
           "title": {
             "en": "Patterns of Inheritance"
           }

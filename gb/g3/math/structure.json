@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-place-value-1000",
+      "slug": "c1",
       "title": {
         "en": "Place Value to 1,000"
       },
       "lessons": [
         {
-          "slug": "01-hundreds",
+          "slug": "l1",
           "title": {
             "en": "Hundreds, Tens and Ones"
           }
         },
         {
-          "slug": "02-add-sub",
+          "slug": "l2",
           "title": {
             "en": "Adding & Subtracting 3-Digit Numbers"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-fractions",
+      "slug": "c2",
       "title": {
         "en": "Fractions"
       },
       "lessons": [
         {
-          "slug": "01-tenths",
+          "slug": "l1",
           "title": {
             "en": "Tenths"
           }
         },
         {
-          "slug": "02-equiv",
+          "slug": "l2",
           "title": {
             "en": "Equivalent Fractions"
           }

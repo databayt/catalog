@@ -101,7 +101,7 @@ const SD_DB_SLUGS = new Map<string, string>()
       SD_DB_SLUGS.set(`${e.grade}/${e.subjectDir}`, e.slug)
 }
 
-/** Title fixes + English titles for Arabic-only chapters/lessons (see data/titles.json). */
+/** Title fixes: English titles for Arabic-only chapters/lessons, repaired Arabic (data/titles.json). */
 const TITLES: Record<string, { ar?: string; en?: string }> = JSON.parse(
   readFileSync(join(DATA, "titles.json"), "utf8")
 )
@@ -121,7 +121,6 @@ const report = {
   droppedQuestions: [] as string[],
   placeholderQuestions: 0,
   archived: [] as string[],
-  fallbackTopics: [] as { key: string; title: string }[],
   errors: [] as string[],
 }
 const renames = {
@@ -176,25 +175,6 @@ function slugify(s: string): string {
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
 }
-function clip(slug: string, max = 48): string {
-  if (slug.length <= max) return slug
-  const cut = slug.slice(0, max)
-  return cut.slice(0, cut.lastIndexOf("-") > 20 ? cut.lastIndexOf("-") : max).replace(/-+$/, "")
-}
-
-const ORDERED = /^\d{2}-[a-z0-9]+(-[a-z0-9]+)*$/
-const GENERIC = /^(unit|chapter|module|lesson|wahed|part|section|topic)$/
-
-/** The kebab topic an old slug already carries, if any (`unit-1-drawing` -> `drawing`). */
-function topicOfSlug(slug: string): string | null {
-  const t = slug
-    .replace(/^(unit|chapter|module|lesson|wahed|part|section)-?\d+-?/, "")
-    .replace(/^\d+-?/, "")
-  if (!t || !/^[a-z0-9-]+$/.test(t) || GENERIC.test(t) || /^(unit|lesson|chapter)-?\d*$/.test(t))
-    return null
-  return t
-}
-
 /** Dot leaders and trailing colons copied out of a printed table of contents. */
 const cleanTitle = (v: unknown) =>
   typeof v === "string"
@@ -223,34 +203,11 @@ function titleOf(
   return out
 }
 
-/** A unique `NN-topic` slug for position `i` (1-based) among `taken`. */
-function orderedSlug(
-  old: string,
-  i: number,
-  title: { ar?: string; en?: string; fr?: string },
-  taken: Set<string>,
-  fallbackKey: string,
-  kind: "unit" | "lesson"
-): string {
-  let slug: string
-  if (ORDERED.test(old) && old.length <= 64) slug = old
-  else {
-    const nn = String(i).padStart(2, "0")
-    const fixed = TITLES[fallbackKey]?.en
-    const topic =
-      (fixed && slugify(fixed)) ||
-      topicOfSlug(old) ||
-      (title.en && slugify(title.en)) ||
-      (title.fr && slugify(title.fr)) ||
-      null
-    if (!topic) report.fallbackTopics.push({ key: fallbackKey, title: title.ar ?? old })
-    slug = `${nn}-${clip(topic || kind)}`
-  }
-  let s = slug
-  for (let n = 2; taken.has(s); n++) s = `${slug}-${n}`
-  taken.add(s)
-  return s
-}
+/**
+ * Position is identity: the i-th chapter is `c<i>`, the i-th lesson WITHIN its
+ * chapter is `l<i>` (1-based, the order of the book). Titles carry the words.
+ */
+const positional = (i: number, kind: "c" | "l") => `${kind}${i}`
 
 function langOf(
   legacyDir: string,
@@ -502,7 +459,7 @@ function migrateSubject(legacyDir: string, grade: string, folder: string) {
   const chTaken = new Set<string>()
   const chapters = rawChapters.map((c, ci) => {
     const title = titleOf(c, lang, `${id}/${c.slug}`)
-    const slug = orderedSlug(c.slug, ci + 1, title, chTaken, `${id}/${c.slug}`, "unit")
+    const slug = positional(ci + 1, "c")
     chMap.set(c.slug, slug)
     if (slug !== c.slug) renames.chapters.push({ subject: id, from: c.slug, to: slug })
     const lTaken = new Set<string>()
@@ -511,7 +468,7 @@ function migrateSubject(legacyDir: string, grade: string, folder: string) {
       .filter((l) => l && typeof l === "object")
       .map((l, li) => {
         const lt = titleOf(l, lang, `${id}/${c.slug}/${l.slug}`)
-        const ls = orderedSlug(l.slug, li + 1, lt, lTaken, `${id}/${c.slug}/${l.slug}`, "lesson")
+        const ls = positional(li + 1, "l")
         lm.set(l.slug, ls)
         if (ls !== l.slug)
           renames.lessons.push({
@@ -905,7 +862,6 @@ const summary = [
   `| lesson renames | ${renames.lessons.length} |`,
   `| placeholder questions dropped ("Question N about …") | ${report.placeholderQuestions} |`,
   `| questions dropped (no question or answer) | ${report.droppedQuestions.length} |`,
-  `| topic fallbacks (Arabic-only title, no English topic) | ${report.fallbackTopics.length} |`,
   `| errors | ${report.errors.length} |`,
   ``,
   `## Errors`,
@@ -923,14 +879,5 @@ if (WRITE) {
   writeFileSync(join(import.meta.dirname, "report.md"), summary)
   writeFileSync(join(import.meta.dirname, "renames.json"), JSON.stringify(renames, null, 2) + "\n")
 }
-if (report.fallbackTopics.length)
-  writeFileSync(
-    join(DATA, "topics.todo.json"),
-    JSON.stringify(
-      Object.fromEntries(report.fallbackTopics.map((f) => [f.key, f.title])),
-      null,
-      2
-    ) + "\n"
-  )
 console.log(summary.split("## Archived")[0])
 console.log(`archived: ${report.archived.length}  (see report.md)`)

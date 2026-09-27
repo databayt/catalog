@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "design-technology",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g7-des-unit-02-materials-01-materials-lq01",
+      "type": "mcq",
+      "question": "A property of a good material for a chair leg is:",
+      "options": [
+        "strength",
+        "being edible",
+        "glowing",
+        "melting easily"
+      ],
+      "answer": "strength",
+      "explanation": "Material properties."
+    },
+    {
+      "id": "g7-des-unit-02-materials-01-materials-lq02",
+      "type": "true_false",
+      "question": "Different materials suit different purposes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Material choice."
+    },
+    {
+      "id": "g7-des-unit-02-materials-01-materials-lq03",
+      "type": "fill_blank",
+      "question": "How a material behaves (e.g., strong, flexible) is its ___.",
+      "answer": "property",
+      "explanation": "Properties."
+    },
+    {
+      "id": "g7-des-unit-02-materials-01-materials-lq04",
+      "type": "short_answer",
+      "question": "Name one factor in choosing a material.",
+      "answer": "e.g., strength, cost, weight, or sustainability.",
+      "explanation": "Material choice."
+    },
+    {
+      "id": "g7-des-unit-02-materials-02-sustainability-lq01",
+      "type": "mcq",
+      "question": "Designing to reduce waste supports:",
+      "options": [
+        "sustainability",
+        "pollution",
+        "wastefulness",
+        "nothing"
+      ],
+      "answer": "sustainability",
+      "explanation": "Sustainable design."
+    },
+    {
+      "id": "g7-des-unit-02-materials-02-sustainability-lq02",
+      "type": "true_false",
+      "question": "Products can be designed to be recycled.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Recyclability."
+    },
+    {
+      "id": "g7-des-unit-02-materials-02-sustainability-lq03",
+      "type": "fill_blank",
+      "question": "Using resources responsibly is designing for ___.",
+      "answer": "sustainability",
+      "explanation": "Sustainability."
+    },
+    {
+      "id": "g7-des-unit-02-materials-02-sustainability-lq04",
+      "type": "short_answer",
+      "question": "Name one way to design more sustainably.",
+      "answer": "e.g., use recyclable materials or reduce waste.",
+      "explanation": "Sustainable design."
+    }
+  ]
+}

@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading"
       },
       "lessons": [
         {
-          "slug": "01-summarise",
+          "slug": "l1",
           "title": {
             "en": "Summarising"
           }
         },
         {
-          "slug": "02-fact-opinion",
+          "slug": "l2",
           "title": {
             "en": "Fact & Opinion"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing"
       },
       "lessons": [
         {
-          "slug": "01-punctuation",
+          "slug": "l1",
           "title": {
             "en": "Punctuating Speech"
           }
         },
         {
-          "slug": "02-prefixes",
+          "slug": "l2",
           "title": {
             "en": "Prefixes & Suffixes"
           }

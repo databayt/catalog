@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g3-sci-unit-01-rocks-02-soil-quiz",
+      "title": "Quiz: Soil",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-sci-unit-01-rocks-02-soil-lq01",
+          "type": "mcq",
+          "question": "Soil is made partly from:",
+          "options": [
+            "plastic",
+            "broken rock and decayed matter",
+            "metal",
+            "glass"
+          ],
+          "answer": "broken rock and decayed matter",
+          "explanation": "Weathering + organic matter."
+        },
+        {
+          "id": "g3-sci-unit-01-rocks-02-soil-lq02",
+          "type": "true_false",
+          "question": "Soil contains air and water.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Pore spaces."
+        },
+        {
+          "id": "g3-sci-unit-01-rocks-02-soil-lq03",
+          "type": "fill_blank",
+          "question": "Decayed plant and animal matter in soil is ___.",
+          "answer": "organic",
+          "explanation": "Organic matter."
+        },
+        {
+          "id": "g3-sci-unit-01-rocks-02-soil-lq04",
+          "type": "short_answer",
+          "question": "Why is soil important for plants?",
+          "answer": "It provides water, nutrients and support for roots.",
+          "explanation": "Plant growth."
+        }
+      ]
+    }
+  ]
+}

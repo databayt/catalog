@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq01",
+      "type": "mcq",
+      "question": "Which links ideas across paragraphs?",
+      "options": [
+        "however",
+        "cat",
+        "green",
+        "run"
+      ],
+      "answer": "however",
+      "explanation": "Adverbial/connective."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq02",
+      "type": "true_false",
+      "question": "Cohesive devices help writing flow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Links ideas."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq03",
+      "type": "fill_blank",
+      "question": "'Meanwhile' shows a link in ___.",
+      "answer": "time",
+      "explanation": "Time connective."
+    },
+    {
+      "id": "g5-eng-unit-02-writing-01-cohesion-lq04",
+      "type": "short_answer",
+      "question": "Give a linking word for contrast.",
+      "answer": "e.g., 'however' or 'although'.",
+      "explanation": "Contrast connective."
+    }
+  ]
+}

@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-readers-writers-and-texts",
+      "slug": "c1",
       "title": {
         "en": "Readers, Writers and Texts"
       },
       "lessons": [
         {
-          "slug": "01-readers-writers-and-texts",
+          "slug": "l1",
           "title": {
             "en": "Readers, Writers and Texts"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-time-and-space",
+      "slug": "c2",
       "title": {
         "en": "Time and Space"
       },
       "lessons": [
         {
-          "slug": "01-time-and-space",
+          "slug": "l1",
           "title": {
             "en": "Time and Space"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-intertextuality-connecting-texts",
+      "slug": "c3",
       "title": {
         "en": "Intertextuality: Connecting Texts"
       },
       "lessons": [
         {
-          "slug": "01-intertextuality-connecting-texts",
+          "slug": "l1",
           "title": {
             "en": "Intertextuality: Connecting Texts"
           }

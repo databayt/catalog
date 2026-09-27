@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-01-algebra-01-straight-line-quiz",
+      "title": "Quiz: Straight-Line Graphs",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq01",
+          "type": "mcq",
+          "question": "In y = 2x + 1, the gradient is:",
+          "options": [
+            "1",
+            "2",
+            "x",
+            "3"
+          ],
+          "answer": "2",
+          "explanation": "Coefficient of x."
+        },
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq02",
+          "type": "true_false",
+          "question": "The y-intercept of y = 2x + 1 is 1.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Constant term."
+        },
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq03",
+          "type": "fill_blank",
+          "question": "A line with gradient 0 is ___.",
+          "answer": "horizontal",
+          "explanation": "Flat line."
+        },
+        {
+          "id": "g9-mat-unit-01-algebra-01-straight-line-lq04",
+          "type": "short_answer",
+          "question": "What does the gradient tell you?",
+          "answer": "How steep the line is (rate of change).",
+          "explanation": "Gradient meaning."
+        }
+      ]
+    }
+  ]
+}

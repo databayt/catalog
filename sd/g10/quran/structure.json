@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-quran-sciences",
+      "slug": "c1",
       "title": {
         "ar": "علوم القرآن الكريم"
       },
@@ -29,7 +29,7 @@
       "lessons": []
     },
     {
-      "slug": "02-tajweed",
+      "slug": "c2",
       "title": {
         "ar": "التجويد"
       },
@@ -38,7 +38,7 @@
       "lessons": []
     },
     {
-      "slug": "03-memorization",
+      "slug": "c3",
       "title": {
         "ar": "الحفظ"
       },
@@ -47,7 +47,7 @@
       "lessons": []
     },
     {
-      "slug": "04-recitation",
+      "slug": "c4",
       "title": {
         "ar": "التلاوة"
       },
@@ -56,7 +56,7 @@
       "lessons": []
     },
     {
-      "slug": "05-tafseer",
+      "slug": "c5",
       "title": {
         "ar": "التفسير"
       },

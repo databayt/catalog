@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-hadith-values",
+      "slug": "c1",
       "title": {
         "ar": "الحديث والقيم"
       },
       "lessons": [
         {
-          "slug": "01-hadith-sciences",
+          "slug": "l1",
           "title": {
             "ar": "الحديث وعلومه"
           }
         },
         {
-          "slug": "02-values",
+          "slug": "l2",
           "title": {
             "ar": "القيم الإسلامية"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-values",
+      "slug": "c2",
       "title": {
         "ar": "القيم الإسلامية"
       },
       "lessons": [
         {
-          "slug": "01-justice",
+          "slug": "l1",
           "title": {
             "ar": "العدل"
           }
         },
         {
-          "slug": "02-tolerance",
+          "slug": "l2",
           "title": {
             "ar": "التسامح"
           }

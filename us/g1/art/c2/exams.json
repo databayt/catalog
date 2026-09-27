@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "art",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g1-art-unit-02-making-exam",
+      "title": "Exam: Making Art",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g1-art-unit-02-making-01-drawing-lq01",
+          "type": "mcq",
+          "question": "Drawing what you really see in front of you is:",
+          "options": [
+            "observational drawing",
+            "copying photos",
+            "tracing",
+            "colouring only"
+          ],
+          "answer": "observational drawing",
+          "explanation": "From observation."
+        },
+        {
+          "id": "g1-art-unit-02-making-01-drawing-lq02",
+          "type": "true_false",
+          "question": "Shading can make a drawing look 3D.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Tone adds depth."
+        },
+        {
+          "id": "g1-art-unit-02-making-01-drawing-lq03",
+          "type": "fill_blank",
+          "question": "Light and dark areas in a drawing are called ___.",
+          "answer": "shading",
+          "explanation": "Tone/shading."
+        },
+        {
+          "id": "g1-art-unit-02-making-01-drawing-lq04",
+          "type": "short_answer",
+          "question": "Why look carefully before drawing an object?",
+          "answer": "To capture its real shape, detail and proportions.",
+          "explanation": "Observation."
+        },
+        {
+          "id": "g1-art-unit-02-making-02-artists-lq01",
+          "type": "mcq",
+          "question": "Studying a famous artist helps us learn about:",
+          "options": [
+            "styles and techniques",
+            "cooking",
+            "sports",
+            "maths only"
+          ],
+          "answer": "styles and techniques",
+          "explanation": "Art appreciation."
+        },
+        {
+          "id": "g1-art-unit-02-making-02-artists-lq02",
+          "type": "true_false",
+          "question": "Different artists use different styles.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Personal style."
+        },
+        {
+          "id": "g1-art-unit-02-making-02-artists-lq03",
+          "type": "fill_blank",
+          "question": "A painting of a person is called a ___.",
+          "answer": "portrait",
+          "explanation": "Portrait."
+        },
+        {
+          "id": "g1-art-unit-02-making-02-artists-lq04",
+          "type": "short_answer",
+          "question": "Name one thing you can learn from a famous artwork.",
+          "answer": "e.g., technique, colour use, or how it expresses feeling.",
+          "explanation": "Art study."
+        }
+      ]
+    }
+  ]
+}

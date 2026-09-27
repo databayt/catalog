@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g5-sci-unit-01-earth-space-01-solar-system-quiz",
+      "title": "Quiz: The Solar System",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-sci-unit-01-earth-space-01-solar-system-lq01",
+          "type": "mcq",
+          "question": "Which is at the centre of the Solar System?",
+          "options": [
+            "Earth",
+            "the Sun",
+            "the Moon",
+            "Mars"
+          ],
+          "answer": "the Sun",
+          "explanation": "Heliocentric."
+        },
+        {
+          "id": "g5-sci-unit-01-earth-space-01-solar-system-lq02",
+          "type": "true_false",
+          "question": "Earth orbits the Sun once a year.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "One orbit ≈ 365 days."
+        },
+        {
+          "id": "g5-sci-unit-01-earth-space-01-solar-system-lq03",
+          "type": "fill_blank",
+          "question": "The Moon orbits the ___.",
+          "answer": "Earth",
+          "explanation": "Earth's satellite."
+        },
+        {
+          "id": "g5-sci-unit-01-earth-space-01-solar-system-lq04",
+          "type": "short_answer",
+          "question": "Why do we have day and night?",
+          "answer": "Earth rotates on its axis.",
+          "explanation": "Rotation."
+        }
+      ]
+    }
+  ]
+}

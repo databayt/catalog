@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g7-mat-unit-02-algebra-02-equations-quiz",
+      "title": "Quiz: Linear Equations",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g7-mat-unit-02-algebra-02-equations-lq01",
+          "type": "mcq",
+          "question": "Solve x + 4 = 9:",
+          "options": [
+            "5",
+            "13",
+            "4",
+            "36"
+          ],
+          "answer": "5",
+          "explanation": "9 - 4."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-02-equations-lq02",
+          "type": "true_false",
+          "question": "To solve 2x = 10, divide both sides by 2.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "x = 5."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-02-equations-lq03",
+          "type": "fill_blank",
+          "question": "Solve 3x = 21 → x = ___.",
+          "answer": "7",
+          "explanation": "21 ÷ 3."
+        },
+        {
+          "id": "g7-mat-unit-02-algebra-02-equations-lq04",
+          "type": "short_answer",
+          "question": "Solve x - 5 = 2 and check.",
+          "answer": "x = 7; 7 - 5 = 2.",
+          "explanation": "Inverse operation + check."
+        }
+      ]
+    }
+  ]
+}

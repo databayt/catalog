@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-02-writing-01-descriptive-lq01",
+      "type": "mcq",
+      "question": "Vivid description often uses:",
+      "options": [
+        "statistics",
+        "sensory imagery",
+        "footnotes",
+        "bullet points"
+      ],
+      "answer": "sensory imagery",
+      "explanation": "Senses."
+    },
+    {
+      "id": "g10-eng-unit-02-writing-01-descriptive-lq02",
+      "type": "true_false",
+      "question": "Varying sentence length improves writing craft.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Effect/pace."
+    },
+    {
+      "id": "g10-eng-unit-02-writing-01-descriptive-lq03",
+      "type": "fill_blank",
+      "question": "A comparison using 'like' or 'as' is a ___.",
+      "answer": "simile",
+      "explanation": "Figurative device."
+    },
+    {
+      "id": "g10-eng-unit-02-writing-01-descriptive-lq04",
+      "type": "short_answer",
+      "question": "Name a technique for engaging descriptive writing.",
+      "answer": "e.g., extended metaphor, sensory detail, or personification.",
+      "explanation": "Description."
+    }
+  ]
+}

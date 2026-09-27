@@ -1,0 +1,118 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "math",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g1-mat-unit-02-addition-subtraction-exam",
+      "title": "Exam: Addition & Subtraction within 20",
+      "durationMinutes": 30,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq01",
+          "type": "mcq",
+          "question": "8 + 5 = ?",
+          "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+          ],
+          "answer": "13",
+          "explanation": "8 + 5 = 13."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq02",
+          "type": "true_false",
+          "question": "Addition can be done in any order: 6 + 9 = 9 + 6.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Addition is commutative."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq03",
+          "type": "fill_blank",
+          "question": "7 + ___ = 15.",
+          "answer": "8",
+          "explanation": "15 - 7 = 8."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-01-addition-within-20-lq04",
+          "type": "short_answer",
+          "question": "Use a number line to find 9 + 4.",
+          "answer": "13",
+          "explanation": "Start at 9 and jump 4 to reach 13."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq01",
+          "type": "mcq",
+          "question": "16 - 7 = ?",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "7"
+          ],
+          "answer": "9",
+          "explanation": "16 - 7 = 9."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq02",
+          "type": "true_false",
+          "question": "Subtraction is the opposite of addition.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "They are inverse operations."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq03",
+          "type": "fill_blank",
+          "question": "14 - ___ = 6.",
+          "answer": "8",
+          "explanation": "14 - 6 = 8."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-02-subtraction-within-20-lq04",
+          "type": "short_answer",
+          "question": "There are 12 apples; 5 are eaten. How many remain?",
+          "answer": "7",
+          "explanation": "12 - 5 = 7."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq01",
+          "type": "mcq",
+          "question": "Sam has 9 stickers and gets 6 more. How many now?",
+          "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "answer": "15",
+          "explanation": "9 + 6 = 15."
+        },
+        {
+          "id": "g1-mat-unit-02-addition-subtraction-03-word-problems-lq02",
+          "type": "true_false",
+          "question": "'How many more' problems often use subtraction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Comparison uses subtraction."
+        }
+      ]
+    }
+  ]
+}

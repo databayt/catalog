@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-environment",
+      "slug": "c1",
       "title": {
         "en": "Environment"
       },
@@ -28,53 +28,53 @@
       "image": "clickview/middle-sustainable-development-goals-cover.jpg",
       "lessons": [
         {
-          "slug": "01-drought",
+          "slug": "l1",
           "title": {
             "en": "Drought"
           }
         },
         {
-          "slug": "02-forests-deserts-and-mountains",
+          "slug": "l2",
           "title": {
             "en": "Forests, Deserts and Mountains"
           },
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "03-a-clean-environment",
+          "slug": "l3",
           "title": {
             "en": "A Clean Environment"
           }
         },
         {
-          "slug": "04-protect-the-environment",
+          "slug": "l4",
           "title": {
             "en": "Protect the Environment"
           }
         },
         {
-          "slug": "05-forest-fires-tornadoes-and-sandstorms",
+          "slug": "l5",
           "title": {
             "en": "Forest Fires, Tornadoes and Sandstorms"
           },
           "image": "clickview/middle-extreme-weather-cover.jpg"
         },
         {
-          "slug": "06-life-cycles",
+          "slug": "l6",
           "title": {
             "en": "Life Cycles"
           },
           "image": "clickview/elementary-life-cycles-cover.jpg"
         },
         {
-          "slug": "07-animals-in-danger",
+          "slug": "l7",
           "title": {
             "en": "Animals in Danger"
           },
           "image": "clickview/high-wildlife-case-studies-cover.jpg"
         },
         {
-          "slug": "08-the-world",
+          "slug": "l8",
           "title": {
             "en": "The World"
           }
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "slug": "02-stay-healthy",
+      "slug": "c2",
       "title": {
         "en": "Stay Healthy"
       },
@@ -90,53 +90,53 @@
       "image": "clickview/middle-healthy-lifestyle-cover.jpg",
       "lessons": [
         {
-          "slug": "01-hand-washing",
+          "slug": "l1",
           "title": {
             "en": "Hand Washing"
           },
           "image": "clickview/elementary-keeping-clean-and-healthy-cover.jpg"
         },
         {
-          "slug": "02-a-healthy-life",
+          "slug": "l2",
           "title": {
             "en": "A Healthy Life"
           }
         },
         {
-          "slug": "03-healthy-food",
+          "slug": "l3",
           "title": {
             "en": "Healthy Food"
           }
         },
         {
-          "slug": "04-a-visit-to-the-doctor",
+          "slug": "l4",
           "title": {
             "en": "A Visit to the Doctor"
           }
         },
         {
-          "slug": "05-first-aid",
+          "slug": "l5",
           "title": {
             "en": "First Aid"
           },
           "image": "clickview/middle-safety-cover.jpg"
         },
         {
-          "slug": "06-malaria",
+          "slug": "l6",
           "title": {
             "en": "Malaria"
           },
           "image": "clickview/elementary-health-conditions-cover.jpg"
         },
         {
-          "slug": "07-an-accident",
+          "slug": "l7",
           "title": {
             "en": "An Accident"
           },
           "image": "clickview/middle-safety-cover.jpg"
         },
         {
-          "slug": "08-healthy-and-fit",
+          "slug": "l8",
           "title": {
             "en": "Healthy and Fit"
           }
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "slug": "03-amazing-places",
+      "slug": "c3",
       "title": {
         "en": "Amazing Places"
       },
@@ -152,52 +152,52 @@
       "image": "clickview/high-global-tourism-cover.jpg",
       "lessons": [
         {
-          "slug": "01-around-my-country",
+          "slug": "l1",
           "title": {
             "en": "Around My Country"
           }
         },
         {
-          "slug": "02-the-sultans-palace",
+          "slug": "l2",
           "title": {
             "en": "The Sultan's Palace"
           }
         },
         {
-          "slug": "03-a-wonderful-building",
+          "slug": "l3",
           "title": {
             "en": "A Wonderful Building"
           }
         },
         {
-          "slug": "04-into-the-mountains",
+          "slug": "l4",
           "title": {
             "en": "Into the Mountains"
           },
           "image": "clickview/high-landforms-and-landscapes-cover.jpg"
         },
         {
-          "slug": "05-back-in-time",
+          "slug": "l5",
           "title": {
             "en": "Back in Time"
           },
           "image": "clickview/middle-being-a-historian-cover.jpg"
         },
         {
-          "slug": "06-a-place-by-the-sea",
+          "slug": "l6",
           "title": {
             "en": "A Place by the Sea"
           },
           "image": "clickview/high-oceans-cover.jpg"
         },
         {
-          "slug": "07-a-place-to-shop",
+          "slug": "l7",
           "title": {
             "en": "A Place to Shop"
           }
         },
         {
-          "slug": "08-wonderful-sudan",
+          "slug": "l8",
           "title": {
             "en": "Wonderful Sudan"
           }
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "slug": "04-school-time",
+      "slug": "c4",
       "title": {
         "en": "School Time"
       },
@@ -213,52 +213,52 @@
       "image": "clickview/elementary-the-school-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-making-friends",
+          "slug": "l1",
           "title": {
             "en": "Making Friends"
           },
           "image": "clickview/elementary-friendship-cover.jpg"
         },
         {
-          "slug": "02-school-time",
+          "slug": "l2",
           "title": {
             "en": "School Time"
           }
         },
         {
-          "slug": "03-school-rules-and-classroom-language",
+          "slug": "l3",
           "title": {
             "en": "School Rules and Classroom Language"
           }
         },
         {
-          "slug": "04-our-family",
+          "slug": "l4",
           "title": {
             "en": "Our Family"
           },
           "image": "clickview/elementary-family-cover.jpg"
         },
         {
-          "slug": "05-houses",
+          "slug": "l5",
           "title": {
             "en": "Houses"
           }
         },
         {
-          "slug": "06-first-aid",
+          "slug": "l6",
           "title": {
             "en": "First Aid"
           },
           "image": "clickview/middle-safety-cover.jpg"
         },
         {
-          "slug": "07-summer-holiday",
+          "slug": "l7",
           "title": {
             "en": "Summer Holiday"
           }
         },
         {
-          "slug": "08-eid-el-fitr",
+          "slug": "l8",
           "title": {
             "en": "Eid El Fitr"
           }
@@ -266,7 +266,7 @@
       ]
     },
     {
-      "slug": "05-animals-and-nature",
+      "slug": "c5",
       "title": {
         "en": "Animals and Nature"
       },
@@ -274,51 +274,51 @@
       "image": "clickview/middle-animals-cover.jpg",
       "lessons": [
         {
-          "slug": "01-strange-animals",
+          "slug": "l1",
           "title": {
             "en": "Strange Animals"
           }
         },
         {
-          "slug": "02-the-thirsty-animal",
+          "slug": "l2",
           "title": {
             "en": "The Thirsty Animal"
           }
         },
         {
-          "slug": "03-animals-in-danger",
+          "slug": "l3",
           "title": {
             "en": "Animals in Danger"
           },
           "image": "clickview/high-wildlife-case-studies-cover.jpg"
         },
         {
-          "slug": "04-animals-helping-people",
+          "slug": "l4",
           "title": {
             "en": "Animals Helping People"
           }
         },
         {
-          "slug": "05-dangerous-animals",
+          "slug": "l5",
           "title": {
             "en": "Dangerous Animals"
           }
         },
         {
-          "slug": "06-products-and-animals",
+          "slug": "l6",
           "title": {
             "en": "Products and Animals"
           }
         },
         {
-          "slug": "07-the-horse-and-the-soup",
+          "slug": "l7",
           "title": {
             "en": "The Horse and The Soup"
           },
           "image": "clickview/middle-literary-texts-cover.jpg"
         },
         {
-          "slug": "08-interesting-animal-facts",
+          "slug": "l8",
           "title": {
             "en": "Interesting Animal Facts"
           }
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "slug": "06-the-universe",
+      "slug": "c6",
       "title": {
         "en": "The Universe"
       },
@@ -334,53 +334,53 @@
       "image": "clickview/high-the-universe-cover.jpg",
       "lessons": [
         {
-          "slug": "01-the-night-sky",
+          "slug": "l1",
           "title": {
             "en": "The Night Sky"
           }
         },
         {
-          "slug": "02-our-solar-system",
+          "slug": "l2",
           "title": {
             "en": "Our Solar System"
           },
           "image": "clickview/high-our-solar-system-cover.jpg"
         },
         {
-          "slug": "03-astronomy",
+          "slug": "l3",
           "title": {
             "en": "Astronomy"
           }
         },
         {
-          "slug": "04-a-trip-to-the-moon",
+          "slug": "l4",
           "title": {
             "en": "A Trip to the Moon"
           },
           "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
         },
         {
-          "slug": "05-the-sun-the-earth-and-the-moon",
+          "slug": "l5",
           "title": {
             "en": "The Sun, The Earth and The Moon"
           },
           "image": "clickview/middle-the-earth-sun-and-moon-cover.jpg"
         },
         {
-          "slug": "06-life-in-space",
+          "slug": "l6",
           "title": {
             "en": "Life in Space"
           },
           "image": "clickview/high-space-exploration-cover.jpg"
         },
         {
-          "slug": "07-the-eclipse",
+          "slug": "l7",
           "title": {
             "en": "The Eclipse"
           }
         },
         {
-          "slug": "08-out-into-space",
+          "slug": "l8",
           "title": {
             "en": "Out Into Space"
           },
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "slug": "07-sport-and-health",
+      "slug": "c7",
       "title": {
         "en": "Sport and Health"
       },
@@ -397,50 +397,50 @@
       "image": "clickview/middle-personal-training-cover.jpg",
       "lessons": [
         {
-          "slug": "01-traditional-games-in-sudan",
+          "slug": "l1",
           "title": {
             "en": "Traditional Games in Sudan"
           }
         },
         {
-          "slug": "02-women-in-sport",
+          "slug": "l2",
           "title": {
             "en": "Women in Sport"
           },
           "image": "clickview/high-changing-roles-of-women-cover.jpg"
         },
         {
-          "slug": "03-the-worlds-most-popular-sport",
+          "slug": "l3",
           "title": {
             "en": "The World's Most Popular Sport"
           }
         },
         {
-          "slug": "04-african-athletes",
+          "slug": "l4",
           "title": {
             "en": "African Athletes"
           }
         },
         {
-          "slug": "05-fit-and-healthy",
+          "slug": "l5",
           "title": {
             "en": "Fit and Healthy"
           }
         },
         {
-          "slug": "06-sudanese-sports-stars",
+          "slug": "l6",
           "title": {
             "en": "Sudanese Sports Stars"
           }
         },
         {
-          "slug": "07-strange-sports",
+          "slug": "l7",
           "title": {
             "en": "Strange Sports"
           }
         },
         {
-          "slug": "08-be-active",
+          "slug": "l8",
           "title": {
             "en": "Be Active!"
           }
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "slug": "08-looking-back",
+      "slug": "c8",
       "title": {
         "en": "Looking Back"
       },
@@ -456,49 +456,49 @@
       "image": "clickview/middle-study-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-good-health",
+          "slug": "l1",
           "title": {
             "en": "Good Health"
           }
         },
         {
-          "slug": "02-protecting-animals",
+          "slug": "l2",
           "title": {
             "en": "Protecting Animals"
           }
         },
         {
-          "slug": "03-sports-time",
+          "slug": "l3",
           "title": {
             "en": "Sports Time"
           }
         },
         {
-          "slug": "04-lesson-4",
+          "slug": "l4",
           "title": {
             "en": "Lesson 4"
           }
         },
         {
-          "slug": "05-lesson-5",
+          "slug": "l5",
           "title": {
             "en": "Lesson 5"
           }
         },
         {
-          "slug": "06-lesson-6",
+          "slug": "l6",
           "title": {
             "en": "Lesson 6"
           }
         },
         {
-          "slug": "07-lesson-7",
+          "slug": "l7",
           "title": {
             "en": "Lesson 7"
           }
         },
         {
-          "slug": "08-lesson-8",
+          "slug": "l8",
           "title": {
             "en": "Lesson 8"
           }

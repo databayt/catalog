@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-local-government",
+      "slug": "c1",
       "title": {
         "en": "Local Community & Government"
       },
       "lessons": [
         {
-          "slug": "01-government",
+          "slug": "l1",
           "title": {
             "en": "Why We Have Government"
           }
         },
         {
-          "slug": "02-citizenship",
+          "slug": "l2",
           "title": {
             "en": "Rights & Responsibilities"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-geography-skills",
+      "slug": "c2",
       "title": {
         "en": "Geography Skills"
       },
       "lessons": [
         {
-          "slug": "01-map-elements",
+          "slug": "l1",
           "title": {
             "en": "Map Elements"
           }
         },
         {
-          "slug": "02-landforms",
+          "slug": "l2",
           "title": {
             "en": "Landforms & Bodies of Water"
           }

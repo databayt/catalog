@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g9",
+    "subject": "citizenship",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g9-cit-unit-01-democracy-exam",
+      "title": "Exam: Government & Democracy",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-cit-unit-01-democracy-01-democracy-lq01",
+          "type": "mcq",
+          "question": "In a democracy, leaders are chosen by:",
+          "options": [
+            "voting",
+            "force",
+            "luck",
+            "age only"
+          ],
+          "answer": "voting",
+          "explanation": "Democracy."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-01-democracy-lq02",
+          "type": "true_false",
+          "question": "Citizens can influence decisions by voting.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Participation."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-01-democracy-lq03",
+          "type": "fill_blank",
+          "question": "Choosing representatives by vote happens in an ___.",
+          "answer": "election",
+          "explanation": "Elections."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-01-democracy-lq04",
+          "type": "short_answer",
+          "question": "What is democracy?",
+          "answer": "A system where citizens vote to choose their government.",
+          "explanation": "Democracy."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-02-law-lq01",
+          "type": "mcq",
+          "question": "Laws are rules made to:",
+          "options": [
+            "keep order and protect people",
+            "confuse people",
+            "be ignored",
+            "entertain"
+          ],
+          "answer": "keep order and protect people",
+          "explanation": "Rule of law."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-02-law-lq02",
+          "type": "true_false",
+          "question": "Everyone is equal before the law.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Equality."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-02-law-lq03",
+          "type": "fill_blank",
+          "question": "Basic freedoms that belong to all people are human ___.",
+          "answer": "rights",
+          "explanation": "Rights."
+        },
+        {
+          "id": "g9-cit-unit-01-democracy-02-law-lq04",
+          "type": "short_answer",
+          "question": "Why do societies have laws?",
+          "answer": "To protect people, ensure fairness, and keep order.",
+          "explanation": "Law."
+        }
+      ]
+    }
+  ]
+}

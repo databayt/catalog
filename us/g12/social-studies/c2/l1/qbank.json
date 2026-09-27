@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g12-soc-unit-02-economics-01-micro-lq01",
+      "type": "mcq",
+      "question": "When demand rises and supply stays the same, price usually:",
+      "options": [
+        "falls",
+        "rises",
+        "disappears",
+        "freezes"
+      ],
+      "answer": "rises",
+      "explanation": "Supply & demand."
+    },
+    {
+      "id": "g12-soc-unit-02-economics-01-micro-lq02",
+      "type": "true_false",
+      "question": "Scarcity means limited resources for unlimited wants.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Basic economic problem."
+    },
+    {
+      "id": "g12-soc-unit-02-economics-01-micro-lq03",
+      "type": "fill_blank",
+      "question": "The point where supply meets demand is the ___ price.",
+      "answer": "equilibrium",
+      "explanation": "Market equilibrium."
+    },
+    {
+      "id": "g12-soc-unit-02-economics-01-micro-lq04",
+      "type": "short_answer",
+      "question": "What is scarcity?",
+      "answer": "Limited resources relative to people's unlimited wants.",
+      "explanation": "Scarcity."
+    }
+  ]
+}

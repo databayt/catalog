@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-01-linear-exam",
+      "title": "Exam: Linear Equations & Inequalities",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq01",
+          "type": "mcq",
+          "question": "Solve 2x - 3 = 7:",
+          "options": [
+            "2",
+            "5",
+            "4",
+            "10"
+          ],
+          "answer": "5",
+          "explanation": "2x=10, x=5."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq02",
+          "type": "true_false",
+          "question": "Adding the same value to both sides keeps an equation balanced.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Property of equality."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq03",
+          "type": "fill_blank",
+          "question": "Solve 3(x+2)=15 → x = ___.",
+          "answer": "3",
+          "explanation": "x+2=5."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-01-solving-linear-lq04",
+          "type": "short_answer",
+          "question": "What is the first step to solve 5x + 4 = 19?",
+          "answer": "Subtract 4 from both sides.",
+          "explanation": "Isolate the variable."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-02-inequalities-lq01",
+          "type": "mcq",
+          "question": "Solve x + 3 > 5:",
+          "options": [
+            "x>2",
+            "x<2",
+            "x>8",
+            "x=2"
+          ],
+          "answer": "x>2",
+          "explanation": "Subtract 3."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-02-inequalities-lq02",
+          "type": "true_false",
+          "question": "Dividing an inequality by a negative flips the sign.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Inequality rule."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-02-inequalities-lq03",
+          "type": "fill_blank",
+          "question": "The solution to 2x < 10 is x < ___.",
+          "answer": "5",
+          "explanation": "Divide by 2."
+        },
+        {
+          "id": "g9-mat-unit-01-linear-02-inequalities-lq04",
+          "type": "short_answer",
+          "question": "Why flip the inequality when dividing by a negative?",
+          "answer": "Because it reverses the order of the numbers.",
+          "explanation": "Sign flip."
+        }
+      ]
+    }
+  ]
+}

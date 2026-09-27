@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "psychology",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g12-psy-unit-01-approaches-01-approaches-lq01",
+      "type": "mcq",
+      "question": "The approach focusing on observable behaviour is:",
+      "options": [
+        "behaviourist",
+        "artistic",
+        "musical",
+        "random"
+      ],
+      "answer": "behaviourist",
+      "explanation": "Behaviourism."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-01-approaches-lq02",
+      "type": "true_false",
+      "question": "The cognitive approach studies mental processes.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cognitive."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-01-approaches-lq03",
+      "type": "fill_blank",
+      "question": "Studying the brain and biology of behaviour is the ___ approach.",
+      "answer": "biological",
+      "explanation": "Biological approach."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-01-approaches-lq04",
+      "type": "short_answer",
+      "question": "Name one approach in psychology.",
+      "answer": "e.g., behaviourist, cognitive, biological, or psychodynamic.",
+      "explanation": "Approaches."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-02-memory-lq01",
+      "type": "mcq",
+      "question": "The store that holds information briefly is:",
+      "options": [
+        "short-term memory",
+        "a hard drive",
+        "a muscle",
+        "a bone"
+      ],
+      "answer": "short-term memory",
+      "explanation": "Memory model."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-02-memory-lq02",
+      "type": "true_false",
+      "question": "Information can move from short-term to long-term memory.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Memory transfer."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-02-memory-lq03",
+      "type": "fill_blank",
+      "question": "Repeating information to remember it is ___.",
+      "answer": "rehearsal",
+      "explanation": "Rehearsal."
+    },
+    {
+      "id": "g12-psy-unit-01-approaches-02-memory-lq04",
+      "type": "short_answer",
+      "question": "Name the two main memory stores.",
+      "answer": "Short-term and long-term memory.",
+      "explanation": "Memory stores."
+    }
+  ]
+}

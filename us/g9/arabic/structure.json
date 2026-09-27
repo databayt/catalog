@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-inna",
+      "slug": "c1",
       "title": {
         "ar": "إنّ وأخواتها والإعراب"
       },
       "lessons": [
         {
-          "slug": "01-inna",
+          "slug": "l1",
           "title": {
             "ar": "إنّ وأخواتها"
           }
         },
         {
-          "slug": "02-irab",
+          "slug": "l2",
           "title": {
             "ar": "الإعراب"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-styles",
+      "slug": "c2",
       "title": {
         "ar": "الأساليب اللغوية"
       },
       "lessons": [
         {
-          "slug": "01-istfham",
+          "slug": "l1",
           "title": {
             "ar": "أسلوب الاستفهام"
           }
         },
         {
-          "slug": "02-nida",
+          "slug": "l2",
           "title": {
             "ar": "أسلوب النداء"
           }

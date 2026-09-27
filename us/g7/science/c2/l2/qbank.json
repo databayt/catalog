@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "science",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g7-sci-unit-02-forces-chem-02-conservation-lq01",
+      "type": "mcq",
+      "question": "If 10 g reacts fully, the products weigh:",
+      "options": [
+        "less",
+        "more",
+        "10 g",
+        "0 g"
+      ],
+      "answer": "10 g",
+      "explanation": "Mass conserved."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-02-conservation-lq02",
+      "type": "true_false",
+      "question": "Mass can be created in a chemical reaction.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": false,
+      "explanation": "It is conserved."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-02-conservation-lq03",
+      "type": "fill_blank",
+      "question": "The law of conservation of ___ states matter is not created or destroyed.",
+      "answer": "mass",
+      "explanation": "Conservation law."
+    },
+    {
+      "id": "g7-sci-unit-02-forces-chem-02-conservation-lq04",
+      "type": "short_answer",
+      "question": "Why must a chemical equation be balanced?",
+      "answer": "To show equal atoms on both sides (mass is conserved).",
+      "explanation": "Balancing."
+    }
+  ]
+}

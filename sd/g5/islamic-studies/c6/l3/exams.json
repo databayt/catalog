@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "islamic-studies",
+    "chapter": "c6",
+    "lesson": "l3"
+  },
+  "exams": [
+    {
+      "id": "g5-isl-unit-06-03-vanguards-of-migration-lquiz",
+      "title": "اختبار - طلائع الهجرة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-isl-unit-06-03-vanguards-of-migration-lq01",
+          "type": "mcq",
+          "question": "كم عدد أركان الإسلام الخمسة؟",
+          "options": [
+            "5",
+            "6",
+            "4",
+            "7"
+          ],
+          "answer": "5",
+          "explanation": "أركان الإسلام خمسة: الشهادتان والصلاة والزكاة والصوم والحج."
+        },
+        {
+          "id": "g5-isl-unit-06-03-vanguards-of-migration-lq02",
+          "type": "true_false",
+          "question": "الشهادتان هما الركن الأول في الإسلام.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "نطق الشهادتين دخول في الإسلام وأول أركانه."
+        },
+        {
+          "id": "g5-isl-unit-06-03-vanguards-of-migration-lq03",
+          "type": "fill_blank",
+          "question": "شهر رمضان هو الشهر ___ في السنة الهجرية.",
+          "answer": "التاسع",
+          "explanation": "رمضان التاسع في التقويم الهجري."
+        },
+        {
+          "id": "g5-isl-unit-06-03-vanguards-of-migration-lq04",
+          "type": "short_answer",
+          "question": "ما الفرق بين الفرض والسنة في العبادات؟",
+          "answer": "الفرض واجب ومن تركه يأثم، والسنة مستحبة ومن تركها لا يأثم.",
+          "explanation": "أحكام العبادات تتفاوت بين الفرض والسنة والمستحب."
+        }
+      ]
+    }
+  ]
+}

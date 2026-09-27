@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g3",
+    "subject": "english",
+    "chapter": "c3",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g3-eng-unit-03-writing-01-opinion-quiz",
+      "title": "Quiz: Opinion Writing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq01",
+          "type": "mcq",
+          "question": "Opinion writing states what you:",
+          "options": [
+            "measured",
+            "think/believe",
+            "copied",
+            "ate"
+          ],
+          "answer": "think/believe",
+          "explanation": "Opinion = belief with reasons."
+        },
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq02",
+          "type": "true_false",
+          "question": "Opinions should be supported with reasons.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Reasons strengthen opinions."
+        },
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq03",
+          "type": "fill_blank",
+          "question": "Words like 'because' introduce a ___.",
+          "answer": "reason",
+          "explanation": "Reason/justification."
+        },
+        {
+          "id": "g3-eng-unit-03-writing-01-opinion-lq04",
+          "type": "short_answer",
+          "question": "Write an opinion with one reason.",
+          "answer": "e.g., 'Recess is best because we can play.'",
+          "explanation": "Opinion + reason."
+        }
+      ]
+    }
+  ]
+}

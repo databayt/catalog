@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-02-functions-01-slope-intercept-quiz",
+      "title": "Quiz: Slope-Intercept Form",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq01",
+          "type": "mcq",
+          "question": "In y = mx + b, m is the:",
+          "options": [
+            "intercept",
+            "slope",
+            "input",
+            "output"
+          ],
+          "answer": "slope",
+          "explanation": "Slope = m."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq02",
+          "type": "true_false",
+          "question": "Parallel lines have equal slopes.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Same gradient."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq03",
+          "type": "fill_blank",
+          "question": "The slope between (0,1) and (2,5) is ___.",
+          "answer": "2",
+          "explanation": "(5-1)/(2-0)."
+        },
+        {
+          "id": "g9-mat-unit-02-functions-01-slope-intercept-lq04",
+          "type": "short_answer",
+          "question": "What does b represent in y = mx + b?",
+          "answer": "The y-intercept (where the line crosses the y-axis).",
+          "explanation": "Intercept."
+        }
+      ]
+    }
+  ]
+}

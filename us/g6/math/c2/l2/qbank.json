@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g6-mat-unit-02-expressions-equations-02-one-step-equations-lq01",
+      "type": "mcq",
+      "question": "Solve x + 7 = 12:",
+      "options": [
+        "5",
+        "19",
+        "7",
+        "6"
+      ],
+      "answer": "5",
+      "explanation": "12 - 7 = 5."
+    },
+    {
+      "id": "g6-mat-unit-02-expressions-equations-02-one-step-equations-lq02",
+      "type": "true_false",
+      "question": "To solve 3x = 12 you divide both sides by 3.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "x = 4."
+    },
+    {
+      "id": "g6-mat-unit-02-expressions-equations-02-one-step-equations-lq03",
+      "type": "fill_blank",
+      "question": "Solve x/2 = 6 → x = ___.",
+      "answer": "12",
+      "explanation": "Multiply both sides by 2."
+    },
+    {
+      "id": "g6-mat-unit-02-expressions-equations-02-one-step-equations-lq04",
+      "type": "short_answer",
+      "question": "Solve 4x = 20 and explain.",
+      "answer": "x = 5; divide both sides by 4.",
+      "explanation": "Inverse operation."
+    }
+  ]
+}

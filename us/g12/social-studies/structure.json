@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-government",
+      "slug": "c1",
       "title": {
         "en": "US Government & Civics"
       },
       "lessons": [
         {
-          "slug": "01-constitution",
+          "slug": "l1",
           "title": {
             "en": "The Constitution & Branches"
           }
         },
         {
-          "slug": "02-rights-participation",
+          "slug": "l2",
           "title": {
             "en": "Rights & Civic Participation"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-economics",
+      "slug": "c2",
       "title": {
         "en": "Economics"
       },
       "lessons": [
         {
-          "slug": "01-micro",
+          "slug": "l1",
           "title": {
             "en": "Markets, Supply & Demand"
           }
         },
         {
-          "slug": "02-macro",
+          "slug": "l2",
           "title": {
             "en": "The National Economy"
           }

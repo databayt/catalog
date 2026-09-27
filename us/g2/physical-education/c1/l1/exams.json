@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g2",
+    "subject": "physical-education",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g2-phy-unit-01-movement-01-locomotor-quiz",
+      "title": "Quiz: Running, Jumping & Throwing",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-phy-unit-01-movement-01-locomotor-lq01",
+          "type": "mcq",
+          "question": "Which is a locomotor (travelling) skill?",
+          "options": [
+            "running",
+            "standing still",
+            "sitting",
+            "sleeping"
+          ],
+          "answer": "running",
+          "explanation": "Movement skill."
+        },
+        {
+          "id": "g2-phy-unit-01-movement-01-locomotor-lq02",
+          "type": "true_false",
+          "question": "Warming up prepares the body for exercise.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Warm-up."
+        },
+        {
+          "id": "g2-phy-unit-01-movement-01-locomotor-lq03",
+          "type": "fill_blank",
+          "question": "Moving the body from one place to another uses ___ skills.",
+          "answer": "locomotor",
+          "explanation": "Locomotor."
+        },
+        {
+          "id": "g2-phy-unit-01-movement-01-locomotor-lq04",
+          "type": "short_answer",
+          "question": "Why do we warm up before sport?",
+          "answer": "To prepare muscles and reduce the risk of injury.",
+          "explanation": "Warm-up."
+        }
+      ]
+    }
+  ]
+}

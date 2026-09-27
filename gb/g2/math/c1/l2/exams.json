@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g2",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g2-mat-unit-01-place-value-100-02-compare-quiz",
+      "title": "Quiz: Comparing & Ordering",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq01",
+          "type": "mcq",
+          "question": "Which is greater, 34 or 43?",
+          "options": [
+            "34",
+            "43",
+            "equal",
+            "cannot tell"
+          ],
+          "answer": "43",
+          "explanation": "4 tens > 3 tens."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq02",
+          "type": "true_false",
+          "question": "28 < 30.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "28 is less than 30."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq03",
+          "type": "fill_blank",
+          "question": "Use a symbol: 56 ___ 65.",
+          "answer": "<",
+          "explanation": "56 is less than 65."
+        },
+        {
+          "id": "g2-mat-unit-01-place-value-100-02-compare-lq04",
+          "type": "short_answer",
+          "question": "Order 21, 12, 31 smallest first.",
+          "answer": "12, 21, 31",
+          "explanation": "Ascending order."
+        }
+      ]
+    }
+  ]
+}

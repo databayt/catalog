@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-sentence",
+      "slug": "c1",
       "title": {
         "ar": "أنواع الجملة"
       },
       "lessons": [
         {
-          "slug": "01-noun-verb",
+          "slug": "l1",
           "title": {
             "ar": "الاسم والفعل والحرف"
           }
         },
         {
-          "slug": "02-sentence-types",
+          "slug": "l2",
           "title": {
             "ar": "الجملة الاسمية والفعلية"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-spelling",
+      "slug": "c2",
       "title": {
         "ar": "الإملاء وعلامات الترقيم"
       },
       "lessons": [
         {
-          "slug": "01-spelling",
+          "slug": "l1",
           "title": {
             "ar": "الإملاء"
           }
         },
         {
-          "slug": "02-punctuation",
+          "slug": "l2",
           "title": {
             "ar": "علامات الترقيم"
           }

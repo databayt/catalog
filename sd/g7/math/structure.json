@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-rational-numbers",
+      "slug": "c1",
       "title": {
         "ar": "مجموعة الأعداد النسبية",
         "en": "The Set of Rational Numbers"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-rational-number",
+          "slug": "l1",
           "title": {
             "ar": "العدد النسبي",
             "en": "The Rational Number"
@@ -40,7 +40,7 @@
           "page": 3
         },
         {
-          "slug": "02-rational-number-forms-equivalent-fractions",
+          "slug": "l2",
           "title": {
             "ar": "كتابة العدد النسبي بصور مختلفة - الكسور المتكافئة",
             "en": "Writing a Rational Number in Different Forms – Equivalent Fractions"
@@ -48,7 +48,7 @@
           "page": 5
         },
         {
-          "slug": "03-rational-numbers-on-number-line",
+          "slug": "l3",
           "title": {
             "ar": "تمثيل الأعداد النسبية على خط الأعداد",
             "en": "Representing Rational Numbers on the Number Line"
@@ -56,7 +56,7 @@
           "page": 7
         },
         {
-          "slug": "04-comparing-two-rational-numbers",
+          "slug": "l4",
           "title": {
             "ar": "مقارنة عددين نسبيين",
             "en": "Comparing Two Rational Numbers"
@@ -64,7 +64,7 @@
           "page": 9
         },
         {
-          "slug": "05-multiplication-of-rational-numbers",
+          "slug": "l5",
           "title": {
             "ar": "عملية الضرب في مجموعة الأعداد النسبية",
             "en": "Multiplication in the Set of Rational Numbers"
@@ -72,7 +72,7 @@
           "page": 12
         },
         {
-          "slug": "06-division-of-rational-numbers",
+          "slug": "l6",
           "title": {
             "ar": "عملية القسمة في مجموعة الأعداد النسبية",
             "en": "Division in the Set of Rational Numbers"
@@ -80,7 +80,7 @@
           "page": 14
         },
         {
-          "slug": "07-adding-rational-numbers-same-denominators",
+          "slug": "l7",
           "title": {
             "ar": "جمع الأعداد النسبية متساوية المقامات",
             "en": "Adding Rational Numbers with Equal Denominators"
@@ -88,7 +88,7 @@
           "page": 17
         },
         {
-          "slug": "08-adding-rational-numbers-different-denominators",
+          "slug": "l8",
           "title": {
             "ar": "جمع الأعداد النسبية مختلفة المقامات",
             "en": "Adding Rational Numbers with Different Denominators"
@@ -96,7 +96,7 @@
           "page": 18
         },
         {
-          "slug": "09-subtraction-of-rational-numbers",
+          "slug": "l9",
           "title": {
             "ar": "عملية الطرح في مجموعة الأعداد النسبية",
             "en": "Subtraction in the Set of Rational Numbers"
@@ -104,7 +104,7 @@
           "page": 21
         },
         {
-          "slug": "10-properties-of-addition",
+          "slug": "l10",
           "title": {
             "ar": "خواص جمع الأعداد النسبية",
             "en": "Properties of Addition of Rational Numbers"
@@ -112,7 +112,7 @@
           "page": 23
         },
         {
-          "slug": "11-properties-of-multiplication",
+          "slug": "l11",
           "title": {
             "ar": "خواص ضرب الأعداد النسبية",
             "en": "Properties of Multiplication of Rational Numbers"
@@ -120,7 +120,7 @@
           "page": 26
         },
         {
-          "slug": "12-miscellaneous-problems",
+          "slug": "l12",
           "title": {
             "ar": "مسائل متنوعة",
             "en": "Miscellaneous Problems"
@@ -130,7 +130,7 @@
       ]
     },
     {
-      "slug": "02-mathematical-sentences-equations",
+      "slug": "c2",
       "title": {
         "ar": "الجمل الرياضية والمعادلات",
         "en": "Mathematical Sentences and Equations"
@@ -141,7 +141,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-mathematical-sentences",
+          "slug": "l1",
           "title": {
             "ar": "الجمل الرياضية",
             "en": "Mathematical Sentences"
@@ -149,7 +149,7 @@
           "page": 34
         },
         {
-          "slug": "02-replacement-set-solution-set",
+          "slug": "l2",
           "title": {
             "ar": "مجموعة التعويض ومجموعة الحل",
             "en": "Replacement Set and Solution Set"
@@ -157,7 +157,7 @@
           "page": 36
         },
         {
-          "slug": "03-equations",
+          "slug": "l3",
           "title": {
             "ar": "المعادلات",
             "en": "Equations"
@@ -165,7 +165,7 @@
           "page": 38
         },
         {
-          "slug": "04-equations-variable-both-sides",
+          "slug": "l4",
           "title": {
             "ar": "المعادلات التي يظهر فيها المتغير في كل من الطرفين",
             "en": "Equations with the Variable on Both Sides"
@@ -173,7 +173,7 @@
           "page": 42
         },
         {
-          "slug": "05-applications-word-problems",
+          "slug": "l5",
           "title": {
             "ar": "تطبيقات على حل المسائل اللفظية",
             "en": "Applications on Solving Word Problems"
@@ -181,7 +181,7 @@
           "page": 44
         },
         {
-          "slug": "06-solving-word-problems",
+          "slug": "l6",
           "title": {
             "ar": "حل المسائل اللفظية",
             "en": "Solving Word Problems"
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "slug": "03-polygons",
+      "slug": "c3",
       "title": {
         "ar": "المضلعات",
         "en": "Polygons"
@@ -202,7 +202,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-polygon",
+          "slug": "l1",
           "title": {
             "ar": "المضلع",
             "en": "The Polygon"
@@ -210,7 +210,7 @@
           "page": 51
         },
         {
-          "slug": "02-sum-of-interior-angles",
+          "slug": "l2",
           "title": {
             "ar": "مجموع الزوايا الداخلية للمضلع",
             "en": "Sum of the Interior Angles of a Polygon"
@@ -218,7 +218,7 @@
           "page": 54
         },
         {
-          "slug": "03-exterior-angles-of-polygon",
+          "slug": "l3",
           "title": {
             "ar": "الزوايا الخارجية للمضلع",
             "en": "Exterior Angles of a Polygon"
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "slug": "04-ordered-pairs-relations",
+      "slug": "c4",
       "title": {
         "ar": "الزوج المرتب والعلاقات",
         "en": "Ordered Pairs and Relations"
@@ -239,7 +239,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-ordered-pair",
+          "slug": "l1",
           "title": {
             "ar": "الزوج المرتب",
             "en": "The Ordered Pair"
@@ -247,7 +247,7 @@
           "page": 61
         },
         {
-          "slug": "02-cartesian-product",
+          "slug": "l2",
           "title": {
             "ar": "حاصل الضرب الديكارتي",
             "en": "Cartesian Product"
@@ -255,7 +255,7 @@
           "page": 63
         },
         {
-          "slug": "03-relations",
+          "slug": "l3",
           "title": {
             "ar": "العلاقات",
             "en": "Relations"
@@ -263,7 +263,7 @@
           "page": 66
         },
         {
-          "slug": "04-image-and-range-of-relation",
+          "slug": "l4",
           "title": {
             "ar": "صورة العنصر ومدى العلاقة",
             "en": "Image of an Element and Range of a Relation"
@@ -271,7 +271,7 @@
           "page": 70
         },
         {
-          "slug": "05-inverse-relation",
+          "slug": "l5",
           "title": {
             "ar": "العلاقة العكسية",
             "en": "Inverse Relation"
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "slug": "05-equivalence-of-areas",
+      "slug": "c5",
       "title": {
         "ar": "التكافؤ",
         "en": "Equivalence (Equal Areas)"
@@ -292,7 +292,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-concept-of-equivalence",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم التكافؤ",
             "en": "The Concept of Equivalence"
@@ -300,7 +300,7 @@
           "page": 81
         },
         {
-          "slug": "02-theorems-on-equivalence",
+          "slug": "l2",
           "title": {
             "ar": "نظريات على التكافؤ",
             "en": "Theorems on Equivalence"
@@ -308,7 +308,7 @@
           "page": 83
         },
         {
-          "slug": "03-theorem-2",
+          "slug": "l3",
           "title": {
             "ar": "نظرية (2)",
             "en": "Theorem (2)"
@@ -316,7 +316,7 @@
           "page": 86
         },
         {
-          "slug": "04-equivalence-of-triangles",
+          "slug": "l4",
           "title": {
             "ar": "تكافؤ المثلثات",
             "en": "Equivalence of Triangles"
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "slug": "06-binary-system",
+      "slug": "c6",
       "title": {
         "ar": "النظام الثنائي",
         "en": "The Binary System"
@@ -337,7 +337,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-history-of-numbers",
+          "slug": "l1",
           "title": {
             "ar": "نبذة تاريخية عن الأعداد",
             "en": "A Brief History of Numbers"
@@ -345,7 +345,7 @@
           "page": 93
         },
         {
-          "slug": "02-binary-system",
+          "slug": "l2",
           "title": {
             "ar": "النظام الثنائي",
             "en": "The Binary System"
@@ -353,7 +353,7 @@
           "page": 95
         },
         {
-          "slug": "03-decimal-to-binary",
+          "slug": "l3",
           "title": {
             "ar": "تحويل العدد العشري إلى ثنائي",
             "en": "Converting a Decimal Number to Binary"
@@ -361,7 +361,7 @@
           "page": 98
         },
         {
-          "slug": "04-adding-binary-numbers",
+          "slug": "l4",
           "title": {
             "ar": "جمع الأعداد الثنائية",
             "en": "Adding Binary Numbers"
@@ -369,7 +369,7 @@
           "page": 101
         },
         {
-          "slug": "05-subtracting-binary-numbers",
+          "slug": "l5",
           "title": {
             "ar": "طرح الأعداد الثنائية",
             "en": "Subtracting Binary Numbers"
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "slug": "07-similarity",
+      "slug": "c7",
       "title": {
         "ar": "التشابه",
         "en": "Similarity"
@@ -390,7 +390,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-concept-of-similarity",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم التشابه",
             "en": "The Concept of Similarity"
@@ -398,7 +398,7 @@
           "page": 106
         },
         {
-          "slug": "02-similar-triangles",
+          "slug": "l2",
           "title": {
             "ar": "تشابه المثلثات",
             "en": "Similar Triangles"
@@ -406,7 +406,7 @@
           "page": 107
         },
         {
-          "slug": "03-similar-triangles-sas",
+          "slug": "l3",
           "title": {
             "ar": "تشابه المثلثات بتناسب ضلعين وتساوي الزاوية المحصورة بينهما",
             "en": "Similarity of Triangles by Two Proportional Sides and the Included Angle"
@@ -416,7 +416,7 @@
       ]
     },
     {
-      "slug": "08-statistics",
+      "slug": "c8",
       "title": {
         "ar": "الإحصاء",
         "en": "Statistics"
@@ -427,7 +427,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-statistical-data",
+          "slug": "l1",
           "title": {
             "ar": "البيانات الإحصائية",
             "en": "Statistical Data"
@@ -435,7 +435,7 @@
           "page": 116
         },
         {
-          "slug": "02-presenting-data-drawing-conclusions",
+          "slug": "l2",
           "title": {
             "ar": "عرض البيانات واستخلاص النتائج",
             "en": "Presenting Data and Drawing Conclusions"
@@ -443,7 +443,7 @@
           "page": 118
         },
         {
-          "slug": "03-pictograms",
+          "slug": "l3",
           "title": {
             "ar": "عرض البيانات بالصور البيانية",
             "en": "Presenting Data with Pictograms"
@@ -451,7 +451,7 @@
           "page": 123
         },
         {
-          "slug": "04-bar-charts",
+          "slug": "l4",
           "title": {
             "ar": "عرض البيانات بالأعمدة",
             "en": "Presenting Data with Bar Charts"
@@ -459,7 +459,7 @@
           "page": 128
         },
         {
-          "slug": "05-pie-charts",
+          "slug": "l5",
           "title": {
             "ar": "تمثيل البيانات بطريقة القطاعات الدائرية",
             "en": "Representing Data with Pie Charts"

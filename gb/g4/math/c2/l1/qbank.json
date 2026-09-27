@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq01",
+      "type": "mcq",
+      "question": "0.3 = ?",
+      "options": [
+        "3/10",
+        "3/100",
+        "3",
+        "30"
+      ],
+      "answer": "3/10",
+      "explanation": "Tenths."
+    },
+    {
+      "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq02",
+      "type": "true_false",
+      "question": "0.25 = 25/100.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Hundredths."
+    },
+    {
+      "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq03",
+      "type": "fill_blank",
+      "question": "Half as a decimal is ___.",
+      "answer": "0.5",
+      "explanation": "1/2 = 0.5."
+    },
+    {
+      "id": "g4-mat-unit-02-decimals-01-tenths-hundredths-lq04",
+      "type": "short_answer",
+      "question": "Write 0.7 as a fraction.",
+      "answer": "7/10",
+      "explanation": "Tenths."
+    }
+  ]
+}

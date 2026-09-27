@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-citizenship",
+      "slug": "c1",
       "title": {
         "en": "Communities & Citizenship"
       },
       "lessons": [
         {
-          "slug": "01-rules-laws",
+          "slug": "l1",
           "title": {
             "en": "Rules and Laws"
           }
         },
         {
-          "slug": "02-symbols",
+          "slug": "l2",
           "title": {
             "en": "National Symbols & Holidays"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-economics",
+      "slug": "c2",
       "title": {
         "en": "Needs, Wants & Work"
       },
       "lessons": [
         {
-          "slug": "01-needs-wants",
+          "slug": "l1",
           "title": {
             "en": "Needs and Wants"
           }
         },
         {
-          "slug": "02-goods-services",
+          "slug": "l2",
           "title": {
             "en": "Goods and Services"
           }

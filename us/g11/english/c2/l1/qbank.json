@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g11",
+    "subject": "english",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq01",
+      "type": "mcq",
+      "question": "A rebuttal responds to:",
+      "options": [
+        "your own claim",
+        "a counterargument",
+        "the title",
+        "the bibliography"
+      ],
+      "answer": "a counterargument",
+      "explanation": "Refutes opposition."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq02",
+      "type": "true_false",
+      "question": "Logical fallacies weaken an argument.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Avoid faulty reasoning."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq03",
+      "type": "fill_blank",
+      "question": "An example of a fallacy is the ad ___ attack on a person.",
+      "answer": "hominem",
+      "explanation": "Ad hominem."
+    },
+    {
+      "id": "g11-eng-unit-02-argument-01-claims-evidence-lq04",
+      "type": "short_answer",
+      "question": "What is the role of a rebuttal?",
+      "answer": "To answer and weaken the opposing view.",
+      "explanation": "Rebuttal."
+    }
+  ]
+}

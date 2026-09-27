@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq01",
+      "type": "mcq",
+      "question": "A very high landform is a:",
+      "options": [
+        "valley",
+        "mountain",
+        "plain",
+        "lake"
+      ],
+      "answer": "mountain",
+      "explanation": "Mountains rise high."
+    },
+    {
+      "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq02",
+      "type": "true_false",
+      "question": "Mountains can affect local weather and climate.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Relief rainfall."
+    },
+    {
+      "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq03",
+      "type": "fill_blank",
+      "question": "A chain of mountains is a mountain ___.",
+      "answer": "range",
+      "explanation": "Range."
+    },
+    {
+      "id": "g4-geo-unit-01-mountains-volcanoes-01-mountains-lq04",
+      "type": "short_answer",
+      "question": "How are some mountains formed?",
+      "answer": "By movement and collision of Earth's tectonic plates.",
+      "explanation": "Mountain formation."
+    }
+  ]
+}

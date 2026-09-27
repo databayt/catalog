@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-exponents",
+      "slug": "c1",
       "title": {
         "en": "Exponents & Scientific Notation"
       },
       "lessons": [
         {
-          "slug": "01-exponents",
+          "slug": "l1",
           "title": {
             "en": "Laws of Exponents"
           }
         },
         {
-          "slug": "02-scientific-notation",
+          "slug": "l2",
           "title": {
             "en": "Scientific Notation"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-linear-functions",
+      "slug": "c2",
       "title": {
         "en": "Linear Equations & Functions"
       },
       "lessons": [
         {
-          "slug": "01-slope",
+          "slug": "l1",
           "title": {
             "en": "Slope & Linear Equations"
           }
         },
         {
-          "slug": "02-functions",
+          "slug": "l2",
           "title": {
             "en": "Functions"
           }

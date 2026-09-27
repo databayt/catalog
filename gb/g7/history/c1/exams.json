@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g7-his-unit-01-norman-conquest-exam",
+      "title": "Exam: The Norman Conquest",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq01",
+          "type": "mcq",
+          "question": "Who won the Battle of Hastings in 1066?",
+          "options": [
+            "Harold Godwinson",
+            "William of Normandy",
+            "Alfred the Great",
+            "Henry VIII"
+          ],
+          "answer": "William of Normandy",
+          "explanation": "William the Conqueror."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq02",
+          "type": "true_false",
+          "question": "The Norman Conquest changed who ruled England.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "New ruling class."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq03",
+          "type": "fill_blank",
+          "question": "The events of 1066 are shown on the ___ Tapestry.",
+          "answer": "Bayeux",
+          "explanation": "Bayeux Tapestry."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-01-1066-lq04",
+          "type": "short_answer",
+          "question": "Name one way the Normans controlled England.",
+          "answer": "e.g., building castles or the Domesday survey.",
+          "explanation": "Norman control."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq01",
+          "type": "mcq",
+          "question": "In the feudal system, land was granted by the king to:",
+          "options": [
+            "barons",
+            "tourists",
+            "traders only",
+            "no one"
+          ],
+          "answer": "barons",
+          "explanation": "Feudal hierarchy."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq02",
+          "type": "true_false",
+          "question": "Early Norman castles were of the motte-and-bailey type.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Wooden castles."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq03",
+          "type": "fill_blank",
+          "question": "The survey of land ordered by William was the ___ Book.",
+          "answer": "Domesday",
+          "explanation": "1086 survey."
+        },
+        {
+          "id": "g7-his-unit-01-norman-conquest-02-feudalism-lq04",
+          "type": "short_answer",
+          "question": "How did castles help the Normans?",
+          "answer": "They defended territory and showed Norman power over the people.",
+          "explanation": "Castles' purpose."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "business",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g10-bus-unit-02-finance-exam",
+      "title": "Exam: Finance & Operations",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq01",
+          "type": "mcq",
+          "question": "Revenue minus costs equals:",
+          "options": [
+            "profit",
+            "tax",
+            "price",
+            "stock"
+          ],
+          "answer": "profit",
+          "explanation": "Profit."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq02",
+          "type": "true_false",
+          "question": "A business can raise money from loans or investors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Finance sources."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq03",
+          "type": "fill_blank",
+          "question": "Income from selling goods or services is ___.",
+          "answer": "revenue",
+          "explanation": "Revenue."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-01-finance-lq04",
+          "type": "short_answer",
+          "question": "How does a business make a profit?",
+          "answer": "By earning more revenue than its costs.",
+          "explanation": "Profit."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-02-operations-lq01",
+          "type": "mcq",
+          "question": "Motivating staff can improve:",
+          "options": [
+            "productivity",
+            "nothing",
+            "losses only",
+            "prices only"
+          ],
+          "answer": "productivity",
+          "explanation": "Motivation."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-02-operations-lq02",
+          "type": "true_false",
+          "question": "Good operations management improves efficiency.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Operations."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-02-operations-lq03",
+          "type": "fill_blank",
+          "question": "Hiring the right people is part of ___ management.",
+          "answer": "human resource",
+          "explanation": "HR."
+        },
+        {
+          "id": "g10-bus-unit-02-finance-02-operations-lq04",
+          "type": "short_answer",
+          "question": "Name one way to motivate employees.",
+          "answer": "e.g., fair pay, recognition, or good working conditions.",
+          "explanation": "Motivation."
+        }
+      ]
+    }
+  ]
+}

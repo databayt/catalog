@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-worship-akhlaq",
+      "slug": "c1",
       "title": {
         "ar": "العبادات والأخلاق"
       },
       "lessons": [
         {
-          "slug": "01-worship",
+          "slug": "l1",
           "title": {
             "ar": "العبادات"
           }
         },
         {
-          "slug": "02-parents",
+          "slug": "l2",
           "title": {
             "ar": "بر الوالدين"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-quran",
+      "slug": "c2",
       "title": {
         "ar": "القرآن الكريم"
       },
       "lessons": [
         {
-          "slug": "01-tilawah",
+          "slug": "l1",
           "title": {
             "ar": "التلاوة والتجويد"
           }
         },
         {
-          "slug": "02-tadabbur",
+          "slug": "l2",
           "title": {
             "ar": "التدبر والفهم"
           }

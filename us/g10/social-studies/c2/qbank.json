@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "social-studies",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g10-soc-unit-02-modern-era-01-cold-war-lq01",
+      "type": "mcq",
+      "question": "The Cold War was a rivalry between the US and the:",
+      "options": [
+        "USSR",
+        "UK",
+        "France",
+        "Japan"
+      ],
+      "answer": "USSR",
+      "explanation": "Superpowers."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-01-cold-war-lq02",
+      "type": "true_false",
+      "question": "The Cold War rarely involved direct fighting between the superpowers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Cold conflict."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-01-cold-war-lq03",
+      "type": "fill_blank",
+      "question": "Europe was divided by the Iron ___.",
+      "answer": "Curtain",
+      "explanation": "East-West divide."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-01-cold-war-lq04",
+      "type": "short_answer",
+      "question": "Name one feature of the Cold War.",
+      "answer": "e.g., arms race, proxy wars, or ideological rivalry.",
+      "explanation": "Cold War."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-02-globalization-lq01",
+      "type": "mcq",
+      "question": "Globalization increases connections in trade, technology and:",
+      "options": [
+        "culture",
+        "deserts",
+        "oceans",
+        "fonts"
+      ],
+      "answer": "culture",
+      "explanation": "Global links."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-02-globalization-lq02",
+      "type": "true_false",
+      "question": "Technology has made the world more interconnected.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Connectivity."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-02-globalization-lq03",
+      "type": "fill_blank",
+      "question": "Worldwide economic integration is economic ___.",
+      "answer": "globalization",
+      "explanation": "Global economy."
+    },
+    {
+      "id": "g10-soc-unit-02-modern-era-02-globalization-lq04",
+      "type": "short_answer",
+      "question": "Name one benefit and one challenge of globalization.",
+      "answer": "e.g., benefit: trade/growth; challenge: inequality or job shifts.",
+      "explanation": "Globalization."
+    }
+  ]
+}

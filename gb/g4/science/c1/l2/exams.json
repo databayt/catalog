@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g4-sci-unit-01-states-02-water-cycle-quiz",
+      "title": "Quiz: The Water Cycle",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-sci-unit-01-states-02-water-cycle-lq01",
+          "type": "mcq",
+          "question": "Water turning to vapour is:",
+          "options": [
+            "condensation",
+            "evaporation",
+            "freezing",
+            "melting"
+          ],
+          "answer": "evaporation",
+          "explanation": "Liquid to gas."
+        },
+        {
+          "id": "g4-sci-unit-01-states-02-water-cycle-lq02",
+          "type": "true_false",
+          "question": "Condensation forms clouds.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Vapour to droplets."
+        },
+        {
+          "id": "g4-sci-unit-01-states-02-water-cycle-lq03",
+          "type": "fill_blank",
+          "question": "Rain and snow are ___.",
+          "answer": "precipitation",
+          "explanation": "Falling water."
+        },
+        {
+          "id": "g4-sci-unit-01-states-02-water-cycle-lq04",
+          "type": "short_answer",
+          "question": "Describe one stage of the water cycle.",
+          "answer": "e.g., evaporation: the Sun heats water into vapour.",
+          "explanation": "Cycle stage."
+        }
+      ]
+    }
+  ]
+}

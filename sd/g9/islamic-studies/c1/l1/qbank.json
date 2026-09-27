@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "islamic-studies",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g9-isl-unit-01-01-review-lq01",
+      "type": "mcq",
+      "question": "ما عدد سور القرآن الكريم؟",
+      "options": [
+        "114 سورة",
+        "100 سورة",
+        "120 سورة",
+        "110 سورة"
+      ],
+      "answer": "114 سورة",
+      "explanation": "القرآن الكريم يتكون من 114 سورة."
+    },
+    {
+      "id": "g9-isl-unit-01-01-review-lq02",
+      "type": "true_false",
+      "question": "سورة البقرة هي أطول سور القرآن الكريم.",
+      "options": [
+        "صحيح",
+        "خاطئ"
+      ],
+      "answer": true,
+      "explanation": "سورة البقرة أطول سورة بـ 286 آية."
+    },
+    {
+      "id": "g9-isl-unit-01-01-review-lq03",
+      "type": "fill_blank",
+      "question": "أول ما نزل من القرآن الكريم سورة ___.",
+      "answer": "العلق (اقرأ)",
+      "explanation": "أول ما نزل قوله تعالى 'اقرأ باسم ربك الذي خلق'."
+    },
+    {
+      "id": "g9-isl-unit-01-01-review-lq04",
+      "type": "short_answer",
+      "question": "ما أهمية تلاوة القرآن الكريم؟",
+      "answer": "تزكية النفس وهداية القلب والحصول على الأجر والثواب.",
+      "explanation": "للقرآن فضائل عظيمة في الدنيا والآخرة."
+    },
+    {
+      "id": "bb1022cc",
+      "type": "mcq",
+      "question": "كم عدد أركان الإسلام؟",
+      "options": [
+        "ثلاثة",
+        "أربعة",
+        "خمسة",
+        "ستة"
+      ],
+      "answer": "خمسة",
+      "explanation": "الأركان: الشهادة، الصلاة، الزكاة، الصوم، الحج"
+    },
+    {
+      "id": "a4e5aa55",
+      "type": "fill_blank",
+      "question": "أول ركن من أركان الإسلام هو ___",
+      "answer": "الشهادة",
+      "explanation": "الشهادة بأن لا إله إلا الله وأن محمد رسول الله"
+    },
+    {
+      "id": "7a0c3bb2",
+      "type": "true_false",
+      "question": "الصلاة عمود الدين",
+      "answer": true,
+      "explanation": "الصلاة من أهم أركان الإسلام"
+    }
+  ]
+}

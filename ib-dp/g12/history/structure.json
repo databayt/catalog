@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-authoritarian-states",
+      "slug": "c1",
       "title": {
         "en": "Authoritarian States"
       },
       "lessons": [
         {
-          "slug": "01-authoritarian-states",
+          "slug": "l1",
           "title": {
             "en": "Authoritarian States"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-the-move-to-global-war",
+      "slug": "c2",
       "title": {
         "en": "The Move to Global War"
       },
       "lessons": [
         {
-          "slug": "01-the-move-to-global-war",
+          "slug": "l1",
           "title": {
             "en": "The Move to Global War"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-causes-and-effects-of-20th-century-wars",
+      "slug": "c3",
       "title": {
         "en": "Causes and Effects of 20th-Century Wars"
       },
       "lessons": [
         {
-          "slug": "01-causes-and-effects-of-20th-century-wars",
+          "slug": "l1",
           "title": {
             "en": "Causes and Effects of 20th-Century Wars"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-the-cold-war-superpower-tensions-and-rivalries",
+      "slug": "c4",
       "title": {
         "en": "The Cold War: Superpower Tensions and Rivalries"
       },
       "lessons": [
         {
-          "slug": "01-the-cold-war-superpower-tensions-and-rivalries",
+          "slug": "l1",
           "title": {
             "en": "The Cold War: Superpower Tensions and Rivalries"
           }

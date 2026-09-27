@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-ratio-algebra",
+      "slug": "c1",
       "title": {
         "en": "Ratio & Algebra"
       },
       "lessons": [
         {
-          "slug": "01-ratio",
+          "slug": "l1",
           "title": {
             "en": "Ratio & Proportion"
           }
         },
         {
-          "slug": "02-algebra",
+          "slug": "l2",
           "title": {
             "en": "Simple Algebra"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-geometry",
+      "slug": "c2",
       "title": {
         "en": "Geometry & Measures"
       },
       "lessons": [
         {
-          "slug": "01-area-perimeter",
+          "slug": "l1",
           "title": {
             "en": "Area & Perimeter"
           }
         },
         {
-          "slug": "02-angles",
+          "slug": "l2",
           "title": {
             "en": "Angles"
           }

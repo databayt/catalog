@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-trees",
+      "slug": "c1",
       "title": {
         "en": "Trees"
       },
@@ -38,14 +38,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 6
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -53,7 +53,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -61,7 +61,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "slug": "02-young-people-today",
+      "slug": "c2",
       "title": {
         "en": "Young People Today"
       },
@@ -81,14 +81,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 22
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -96,7 +96,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -104,7 +104,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "slug": "03-doing-the-right-thing",
+      "slug": "c3",
       "title": {
         "en": "Doing the Right Thing"
       },
@@ -124,14 +124,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 42
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -139,7 +139,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -147,7 +147,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "slug": "04-education",
+      "slug": "c4",
       "title": {
         "en": "Education"
       },
@@ -167,14 +167,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 56
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -182,7 +182,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -190,7 +190,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "slug": "05-womens-participation-life-line-for-development",
+      "slug": "c5",
       "title": {
         "en": "Women's Participation: Life-line for Development"
       },
@@ -210,14 +210,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 70
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -225,7 +225,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -233,7 +233,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "slug": "06-food-and-nutrition",
+      "slug": "c6",
       "title": {
         "en": "Food and Nutrition"
       },
@@ -253,14 +253,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 86
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -268,7 +268,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -276,7 +276,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "slug": "07-development",
+      "slug": "c7",
       "title": {
         "en": "Development"
       },
@@ -296,14 +296,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 107
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -311,7 +311,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -319,7 +319,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "slug": "08-a-world-of-difference",
+      "slug": "c8",
       "title": {
         "en": "A World of Difference"
       },
@@ -339,14 +339,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 124
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -354,7 +354,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -362,7 +362,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "slug": "09-agatha-christie",
+      "slug": "c9",
       "title": {
         "en": "Agatha Christie"
       },
@@ -382,14 +382,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 142
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -397,7 +397,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -405,7 +405,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "slug": "10-science-in-action",
+      "slug": "c10",
       "title": {
         "en": "Science in Action"
       },
@@ -425,14 +425,14 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "en": "Reading"
           },
           "page": 160
         },
         {
-          "slug": "02-exploring-language",
+          "slug": "l2",
           "title": {
             "en": "Exploring Language"
           },
@@ -440,7 +440,7 @@
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
-          "slug": "03-writing",
+          "slug": "l3",
           "title": {
             "en": "Writing"
           },
@@ -448,7 +448,7 @@
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
-          "slug": "04-spine-challenge",
+          "slug": "l4",
           "title": {
             "en": "SPINE Challenge"
           },

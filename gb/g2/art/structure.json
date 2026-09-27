@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-elements",
+      "slug": "c1",
       "title": {
         "en": "Elements of Art"
       },
       "lessons": [
         {
-          "slug": "01-line-shape",
+          "slug": "l1",
           "title": {
             "en": "Line & Shape"
           }
         },
         {
-          "slug": "02-colour",
+          "slug": "l2",
           "title": {
             "en": "Colour"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-making",
+      "slug": "c2",
       "title": {
         "en": "Making Art"
       },
       "lessons": [
         {
-          "slug": "01-drawing",
+          "slug": "l1",
           "title": {
             "en": "Observational Drawing"
           }
         },
         {
-          "slug": "02-artists",
+          "slug": "l2",
           "title": {
             "en": "Looking at Artists"
           }

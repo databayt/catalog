@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-data-representation",
+      "slug": "c1",
       "title": {
         "en": "Data Representation"
       },
       "lessons": [
         {
-          "slug": "01-data-representation",
+          "slug": "l1",
           "title": {
             "en": "Data Representation"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-data-transmission",
+      "slug": "c2",
       "title": {
         "en": "Data Transmission"
       },
       "lessons": [
         {
-          "slug": "01-data-transmission",
+          "slug": "l1",
           "title": {
             "en": "Data Transmission"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-hardware",
+      "slug": "c3",
       "title": {
         "en": "Hardware"
       },
       "lessons": [
         {
-          "slug": "01-hardware",
+          "slug": "l1",
           "title": {
             "en": "Hardware"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-software",
+      "slug": "c4",
       "title": {
         "en": "Software"
       },
       "lessons": [
         {
-          "slug": "01-software",
+          "slug": "l1",
           "title": {
             "en": "Software"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-the-internet-and-its-uses",
+      "slug": "c5",
       "title": {
         "en": "The Internet and its Uses"
       },
       "lessons": [
         {
-          "slug": "01-the-internet-and-its-uses",
+          "slug": "l1",
           "title": {
             "en": "The Internet and its Uses"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-automated-and-emerging-technologies",
+      "slug": "c6",
       "title": {
         "en": "Automated and Emerging Technologies"
       },
       "lessons": [
         {
-          "slug": "01-automated-and-emerging-technologies",
+          "slug": "l1",
           "title": {
             "en": "Automated and Emerging Technologies"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-algorithm-design-and-problem-solving",
+      "slug": "c7",
       "title": {
         "en": "Algorithm Design and Problem-Solving"
       },
       "lessons": [
         {
-          "slug": "01-algorithm-design-and-problem-solving",
+          "slug": "l1",
           "title": {
             "en": "Algorithm Design and Problem-Solving"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-programming",
+      "slug": "c8",
       "title": {
         "en": "Programming"
       },
       "lessons": [
         {
-          "slug": "01-programming",
+          "slug": "l1",
           "title": {
             "en": "Programming"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-databases",
+      "slug": "c9",
       "title": {
         "en": "Databases"
       },
       "lessons": [
         {
-          "slug": "01-databases",
+          "slug": "l1",
           "title": {
             "en": "Databases"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-boolean-logic",
+      "slug": "c10",
       "title": {
         "en": "Boolean Logic"
       },
       "lessons": [
         {
-          "slug": "01-boolean-logic",
+          "slug": "l1",
           "title": {
             "en": "Boolean Logic"
           }

@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-number-to-20",
+      "slug": "c1",
       "title": {
         "en": "Number & Place Value to 20"
       },
       "lessons": [
         {
-          "slug": "01-counting",
+          "slug": "l1",
           "title": {
             "en": "Counting to 20"
           }
         },
         {
-          "slug": "02-tens-ones",
+          "slug": "l2",
           "title": {
             "en": "Tens and Ones"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-addition",
+      "slug": "c2",
       "title": {
         "en": "Addition & Subtraction to 20"
       },
       "lessons": [
         {
-          "slug": "01-add",
+          "slug": "l1",
           "title": {
             "en": "Adding to 20"
           }
         },
         {
-          "slug": "02-subtract",
+          "slug": "l2",
           "title": {
             "en": "Subtracting to 20"
           }

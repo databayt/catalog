@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-linear",
+      "slug": "c1",
       "title": {
         "en": "Linear Equations & Inequalities"
       },
       "lessons": [
         {
-          "slug": "01-solving-linear",
+          "slug": "l1",
           "title": {
             "en": "Solving Linear Equations"
           }
         },
         {
-          "slug": "02-inequalities",
+          "slug": "l2",
           "title": {
             "en": "Linear Inequalities"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-functions",
+      "slug": "c2",
       "title": {
         "en": "Functions & Systems"
       },
       "lessons": [
         {
-          "slug": "01-slope-intercept",
+          "slug": "l1",
           "title": {
             "en": "Slope-Intercept Form"
           }
         },
         {
-          "slug": "02-systems",
+          "slug": "l2",
           "title": {
             "en": "Systems of Equations"
           }

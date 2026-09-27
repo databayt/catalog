@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-trade-resources",
+      "slug": "c1",
       "title": {
         "en": "Trade & Natural Resources"
       },
       "lessons": [
         {
-          "slug": "01-resources",
+          "slug": "l1",
           "title": {
             "en": "Natural Resources"
           }
         },
         {
-          "slug": "02-trade",
+          "slug": "l2",
           "title": {
             "en": "Global Trade"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-map-fieldwork",
+      "slug": "c2",
       "title": {
         "en": "Map Skills & Fieldwork"
       },
       "lessons": [
         {
-          "slug": "01-grid-references",
+          "slug": "l1",
           "title": {
             "en": "Grid References"
           }
         },
         {
-          "slug": "02-fieldwork",
+          "slug": "l2",
           "title": {
             "en": "Geographical Fieldwork"
           }

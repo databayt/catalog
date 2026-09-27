@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "history",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g11-his-unit-01-cold-war-01-origins-quiz",
+      "title": "Quiz: Origins of the Cold War",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq01",
+          "type": "mcq",
+          "question": "The Cold War was a rivalry between the USA and the:",
+          "options": [
+            "USSR",
+            "UK",
+            "France",
+            "Japan"
+          ],
+          "answer": "USSR",
+          "explanation": "Superpower rivalry."
+        },
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq02",
+          "type": "true_false",
+          "question": "The Cold War involved tension but rarely direct fighting between the superpowers.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Cold, not hot."
+        },
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq03",
+          "type": "fill_blank",
+          "question": "Europe was divided by what Churchill called the Iron ___.",
+          "answer": "Curtain",
+          "explanation": "East-West divide."
+        },
+        {
+          "id": "g11-his-unit-01-cold-war-01-origins-lq04",
+          "type": "short_answer",
+          "question": "Name one cause of Cold War tension.",
+          "answer": "e.g., ideological differences (capitalism vs communism).",
+          "explanation": "Cold War causes."
+        }
+      ]
+    }
+  ]
+}

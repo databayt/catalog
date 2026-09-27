@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-from-sudans-history",
+      "slug": "c1",
       "title": {
         "ar": "من تاريخ السودان",
         "en": "From Sudan's History"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-stone-ages",
+          "slug": "l1",
           "title": {
             "ar": "العصور الحجرية",
             "en": "The Stone Ages"
@@ -49,7 +49,7 @@
           "image": "clickview/elementary-early-humanity-cover.jpg"
         },
         {
-          "slug": "02-the-group-civilisations-a-group-and-c-group",
+          "slug": "l2",
           "title": {
             "ar": "حضارة المجموعات",
             "en": "The Group Civilisations (A-Group and C-Group)"
@@ -57,7 +57,7 @@
           "page": 9
         },
         {
-          "slug": "03-the-kerma-civilisation",
+          "slug": "l3",
           "title": {
             "ar": "حضارة كرمة",
             "en": "The Kerma Civilisation"
@@ -65,7 +65,7 @@
           "page": 11
         },
         {
-          "slug": "04-the-kingdom-of-kush",
+          "slug": "l4",
           "title": {
             "ar": "مملكة كوش",
             "en": "The Kingdom of Kush"
@@ -73,7 +73,7 @@
           "page": 14
         },
         {
-          "slug": "05-the-kingdom-of-meroe",
+          "slug": "l5",
           "title": {
             "ar": "مملكة مروي",
             "en": "The Kingdom of Meroe"
@@ -81,7 +81,7 @@
           "page": 18
         },
         {
-          "slug": "06-some-archaeological-sites-of-the-kushite",
+          "slug": "l6",
           "title": {
             "ar": "بعض مواقع آثار حضارة كوش",
             "en": "Some Archaeological Sites of the Kushite Civilisation"
@@ -90,7 +90,7 @@
           "image": "clickview/high-being-a-historian-cover.jpg"
         },
         {
-          "slug": "07-the-arrival-of-christianity-in-sudan",
+          "slug": "l7",
           "title": {
             "ar": "دخول المسيحية إلى السودان",
             "en": "The Arrival of Christianity in Sudan"
@@ -99,7 +99,7 @@
           "image": "clickview/high-being-a-historian-cover.jpg"
         },
         {
-          "slug": "08-the-arrival-of-the-arabs-and-islam-in-sudan",
+          "slug": "l8",
           "title": {
             "ar": "دخول العرب والإسلام إلى السودان",
             "en": "The Arrival of the Arabs and Islam in Sudan"
@@ -108,7 +108,7 @@
           "image": "clickview/middle-islam-cover.jpg"
         },
         {
-          "slug": "09-stages-of-the-spread-of-islam-in-sudan",
+          "slug": "l9",
           "title": {
             "ar": "مراحل انتشار الإسلام في السودان",
             "en": "Stages of the Spread of Islam in Sudan"
@@ -117,7 +117,7 @@
           "image": "clickview/middle-islam-cover.jpg"
         },
         {
-          "slug": "10-the-emergence-of-muslim-communities-in-sudan",
+          "slug": "l10",
           "title": {
             "ar": "ظهور المجتمعات المسلمة في السودان",
             "en": "The Emergence of Muslim Communities in Sudan"
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "slug": "02-from-islamic-history",
+      "slug": "c2",
       "title": {
         "ar": "من تاريخ الإسلام",
         "en": "From Islamic History"
@@ -139,7 +139,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-geography-and-conditions-of-the-arabian",
+          "slug": "l1",
           "title": {
             "ar": "جغرافية وأحوال شبه الجزيرة العربية",
             "en": "Geography and Conditions of the Arabian Peninsula"
@@ -148,7 +148,7 @@
           "image": "clickview/high-deserts-cover.jpg"
         },
         {
-          "slug": "02-building-the-islamic-state-in-the-prophets-era",
+          "slug": "l2",
           "title": {
             "ar": "بناء الدولة الإسلامية في عهد النبي ﷺ",
             "en": "Building the Islamic State in the Prophet's Era"
@@ -156,7 +156,7 @@
           "page": 45
         },
         {
-          "slug": "03-growth-of-the-islamic-state-under-the-rightly",
+          "slug": "l3",
           "title": {
             "ar": "نمو الدولة الإسلامية في عهد الخلفاء الراشدين",
             "en": "Growth of the Islamic State under the Rightly Guided Caliphs"
@@ -165,7 +165,7 @@
           "image": "clickview/high-systems-of-government-cover.jpg"
         },
         {
-          "slug": "04-development-of-the-islamic-state-in-the-umayyad",
+          "slug": "l4",
           "title": {
             "ar": "تطور الدولة الإسلامية في العهد الأموي",
             "en": "Development of the Islamic State in the Umayyad Era"
@@ -173,7 +173,7 @@
           "page": 66
         },
         {
-          "slug": "05-development-of-the-islamic-state-in-the-abbasid",
+          "slug": "l5",
           "title": {
             "ar": "تطور الدولة الإسلامية في العهد العباسي",
             "en": "Development of the Islamic State in the Abbasid Era"
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "slug": "03-from-the-history-of-africa-and-its-civilisations",
+      "slug": "c3",
       "title": {
         "ar": "من تاريخ أفريقيا وحضاراتها",
         "en": "From the History of Africa and Its Civilisations"
@@ -194,7 +194,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-examples-of-ancient-african-civilisations",
+          "slug": "l1",
           "title": {
             "ar": "نماذج من حضارات أفريقيا القديمة",
             "en": "Examples of Ancient African Civilisations"
@@ -203,7 +203,7 @@
           "image": "clickview/high-ancient-egypt-cover.jpg"
         },
         {
-          "slug": "02-the-spread-of-christianity-in-africa",
+          "slug": "l2",
           "title": {
             "ar": "انتشار المسيحية في أفريقيا",
             "en": "The Spread of Christianity in Africa"
@@ -212,7 +212,7 @@
           "image": "clickview/high-being-a-historian-cover.jpg"
         },
         {
-          "slug": "03-the-spread-of-islam-in-africa-1",
+          "slug": "l3",
           "title": {
             "ar": "انتشار الإسلام في أفريقيا (1)",
             "en": "The Spread of Islam in Africa (1)"
@@ -220,7 +220,7 @@
           "page": 104
         },
         {
-          "slug": "04-the-spread-of-islam-in-africa-2",
+          "slug": "l4",
           "title": {
             "ar": "انتشار الإسلام في أفريقيا (2)",
             "en": "The Spread of Islam in Africa (2)"
@@ -228,7 +228,7 @@
           "page": 106
         },
         {
-          "slug": "05-the-spread-of-islam-in-africa-3",
+          "slug": "l5",
           "title": {
             "ar": "انتشار الإسلام في أفريقيا (3)",
             "en": "The Spread of Islam in Africa (3)"
@@ -236,7 +236,7 @@
           "page": 111
         },
         {
-          "slug": "06-the-spread-of-islam-in-africa-4",
+          "slug": "l6",
           "title": {
             "ar": "انتشار الإسلام في أفريقيا (4)",
             "en": "The Spread of Islam in Africa (4)"
@@ -244,7 +244,7 @@
           "page": 113
         },
         {
-          "slug": "07-means-of-the-spread-of-islam-in-africa",
+          "slug": "l7",
           "title": {
             "ar": "وسائل انتشار الإسلام في أفريقيا",
             "en": "Means of the Spread of Islam in Africa"
@@ -253,7 +253,7 @@
           "image": "clickview/high-international-trade-cover.jpg"
         },
         {
-          "slug": "08-examples-of-islamic-kingdoms-and-states-in",
+          "slug": "l8",
           "title": {
             "ar": "نماذج من الممالك والدويلات الإسلامية في أفريقيا",
             "en": "Examples of Islamic Kingdoms and States in Africa"
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "slug": "04-from-human-history-europe",
+      "slug": "c4",
       "title": {
         "ar": "من التاريخ الإنساني (أوربا)",
         "en": "From Human History (Europe)"
@@ -275,7 +275,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-greek-civilisation",
+          "slug": "l1",
           "title": {
             "ar": "الحضارة الإغريقية",
             "en": "Greek Civilisation"
@@ -283,7 +283,7 @@
           "page": 129
         },
         {
-          "slug": "02-roman-civilisation",
+          "slug": "l2",
           "title": {
             "ar": "الحضارة الرومانية",
             "en": "Roman Civilisation"
@@ -292,7 +292,7 @@
           "image": "clickview/high-ancient-rome-cover.jpg"
         },
         {
-          "slug": "03-the-feudal-system",
+          "slug": "l3",
           "title": {
             "ar": "نظام الإقطاع",
             "en": "The Feudal System"
@@ -301,7 +301,7 @@
           "image": "clickview/elementary-the-middle-ages-cover.jpg"
         },
         {
-          "slug": "04-the-european-renaissance",
+          "slug": "l4",
           "title": {
             "ar": "عصر النهضة الأوربية",
             "en": "The European Renaissance"
@@ -310,7 +310,7 @@
           "image": "clickview/high-art-styles-and-movements-cover.jpg"
         },
         {
-          "slug": "05-the-age-of-geographical-discovery",
+          "slug": "l5",
           "title": {
             "ar": "حركة الكشوف الجغرافية",
             "en": "The Age of Geographical Discovery"

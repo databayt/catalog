@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-tudors-breadth",
+      "slug": "c1",
       "title": {
         "en": "Breadth Study: The Tudors 1485-1603"
       },
       "lessons": [
         {
-          "slug": "01-establishing-dynasty",
+          "slug": "l1",
           "title": {
             "en": "Establishing the Tudor Dynasty"
           }
         },
         {
-          "slug": "02-government-religion",
+          "slug": "l2",
           "title": {
             "en": "Government & Religion"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-cold-war-depth",
+      "slug": "c2",
       "title": {
         "en": "Depth Study: The Cold War 1945-1991"
       },
       "lessons": [
         {
-          "slug": "01-superpower-relations",
+          "slug": "l1",
           "title": {
             "en": "Superpower Relations"
           }
         },
         {
-          "slug": "02-interpretations",
+          "slug": "l2",
           "title": {
             "en": "Historical Interpretations"
           }

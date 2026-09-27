@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-scientific-models",
+      "slug": "c1",
       "title": {
         "ar": "النماذج العلمية",
         "en": "Scientific Models"
@@ -29,7 +29,7 @@
       "image": "clickview/high-thinking-scientifically-cover.jpg",
       "lessons": [
         {
-          "slug": "01-scientific-models",
+          "slug": "l1",
           "title": {
             "ar": "النماذج العلمية"
           }
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "slug": "02-electric-charge-and-electric-forces",
+      "slug": "c2",
       "title": {
         "ar": "الشحنة الكهربائية والقوى الكهربائية",
         "en": "Electric Charge and Electric Forces"
@@ -46,31 +46,31 @@
       "image": "clickview/high-electricity-and-circuits-cover.jpg",
       "lessons": [
         {
-          "slug": "01-electric-charge",
+          "slug": "l1",
           "title": {
             "ar": "الشحنة الكهربائية"
           }
         },
         {
-          "slug": "02-charge-properties",
+          "slug": "l2",
           "title": {
             "ar": "خصائص الشحنة الكهربائية"
           }
         },
         {
-          "slug": "03-conductors-insulators",
+          "slug": "l3",
           "title": {
             "ar": "المواد الموصلة والعازلة"
           }
         },
         {
-          "slug": "04-charging-methods",
+          "slug": "l4",
           "title": {
             "ar": "طرق الشحن الكهربائي"
           }
         },
         {
-          "slug": "05-electric-field",
+          "slug": "l5",
           "title": {
             "ar": "المجال الكهربائي"
           }
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "slug": "03-electric-current",
+      "slug": "c3",
       "title": {
         "ar": "التيار الكهربائي",
         "en": "Electric Current"
@@ -87,55 +87,55 @@
       "image": "clickview/high-electricity-and-circuits-cover.jpg",
       "lessons": [
         {
-          "slug": "01-electric-current-concept",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم التيار الكهربائي"
           }
         },
         {
-          "slug": "02-current-intensity",
+          "slug": "l2",
           "title": {
             "ar": "شدة التيار الكهربائي وقياسها"
           }
         },
         {
-          "slug": "03-electric-potential",
+          "slug": "l3",
           "title": {
             "ar": "الجهد الكهربائي"
           }
         },
         {
-          "slug": "04-batteries",
+          "slug": "l4",
           "title": {
             "ar": "البطاريات"
           }
         },
         {
-          "slug": "05-electrical-resistance",
+          "slug": "l5",
           "title": {
             "ar": "المقاومة الكهربائية"
           }
         },
         {
-          "slug": "06-ohms-law",
+          "slug": "l6",
           "title": {
             "ar": "قانون أوم"
           }
         },
         {
-          "slug": "07-series-resistors",
+          "slug": "l7",
           "title": {
             "ar": "توصيل المقاومات على التوالي"
           }
         },
         {
-          "slug": "08-parallel-resistors",
+          "slug": "l8",
           "title": {
             "ar": "توصيل المقاومات على التوازي"
           }
         },
         {
-          "slug": "09-electricity-in-life",
+          "slug": "l9",
           "title": {
             "ar": "الكهرباء في حياتنا"
           }
@@ -143,7 +143,7 @@
       ]
     },
     {
-      "slug": "04-chemical-changes",
+      "slug": "c4",
       "title": {
         "ar": "التغيرات الكيميائية",
         "en": "Chemical Changes"
@@ -152,56 +152,56 @@
       "image": "clickview/high-properties-of-chemical-reactions-cover.jpg",
       "lessons": [
         {
-          "slug": "01-chemical-equations",
+          "slug": "l1",
           "title": {
             "ar": "المعادلات الكيميائية"
           }
         },
         {
-          "slug": "02-balancing-equations",
+          "slug": "l2",
           "title": {
             "ar": "وزن المعادلات الكيميائية"
           }
         },
         {
-          "slug": "03-types-of-reactions",
+          "slug": "l3",
           "title": {
             "ar": "أنواع التفاعلات الكيميائية"
           }
         },
         {
-          "slug": "04-combination-reactions",
+          "slug": "l4",
           "title": {
             "ar": "تفاعلات الاتحاد (التكوين)"
           }
         },
         {
-          "slug": "05-decomposition-reactions",
+          "slug": "l5",
           "title": {
             "ar": "تفاعلات التحلل (الانحلال)"
           }
         },
         {
-          "slug": "06-single-displacement",
+          "slug": "l6",
           "title": {
             "ar": "تفاعلات الإحلال البسيط"
           }
         },
         {
-          "slug": "07-double-displacement",
+          "slug": "l7",
           "title": {
             "ar": "تفاعلات الإحلال المزدوج"
           }
         },
         {
-          "slug": "08-acids-and-bases",
+          "slug": "l8",
           "title": {
             "ar": "الأحماض والقواعد"
           },
           "image": "clickview/high-acids-and-bases-cover.jpg"
         },
         {
-          "slug": "09-neutralization",
+          "slug": "l9",
           "title": {
             "ar": "تفاعل التعادل"
           },
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "slug": "05-reproduction",
+      "slug": "c5",
       "title": {
         "ar": "التكاثر",
         "en": "Reproduction"
@@ -219,34 +219,34 @@
       "image": "clickview/high-reproduction-cover.jpg",
       "lessons": [
         {
-          "slug": "01-asexual-reproduction",
+          "slug": "l1",
           "title": {
             "ar": "التكاثر اللاجنسي"
           },
           "image": "clickview/high-mitosis-and-meiosis-cover.jpg"
         },
         {
-          "slug": "02-sexual-reproduction",
+          "slug": "l2",
           "title": {
             "ar": "التكاثر الجنسي"
           }
         },
         {
-          "slug": "03-plant-reproduction",
+          "slug": "l3",
           "title": {
             "ar": "التكاثر في النبات"
           },
           "image": "clickview/high-plant-reproduction-cover.jpg"
         },
         {
-          "slug": "04-pollination-fertilization",
+          "slug": "l4",
           "title": {
             "ar": "التلقيح والإخصاب"
           },
           "image": "clickview/middle-pollination-cover.jpg"
         },
         {
-          "slug": "05-fruits-seeds",
+          "slug": "l5",
           "title": {
             "ar": "تكوين الثمار والبذور"
           },
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "slug": "06-microorganisms",
+      "slug": "c6",
       "title": {
         "ar": "الكائنات الحية الدقيقة",
         "en": "Microorganisms"
@@ -264,25 +264,25 @@
       "image": "clickview/high-classification-cover.jpg",
       "lessons": [
         {
-          "slug": "01-protozoa",
+          "slug": "l1",
           "title": {
             "ar": "الأوليات"
           }
         },
         {
-          "slug": "02-fungi",
+          "slug": "l2",
           "title": {
             "ar": "الفطريات"
           }
         },
         {
-          "slug": "03-bacteria",
+          "slug": "l3",
           "title": {
             "ar": "البكتيريا"
           }
         },
         {
-          "slug": "04-viruses",
+          "slug": "l4",
           "title": {
             "ar": "الفيروسات"
           }
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "slug": "07-the-earth",
+      "slug": "c7",
       "title": {
         "ar": "الأرض",
         "en": "The Earth"
@@ -299,19 +299,19 @@
       "image": "clickview/elementary-rocks-and-minerals-cover.jpg",
       "lessons": [
         {
-          "slug": "01-minerals",
+          "slug": "l1",
           "title": {
             "ar": "المعادن"
           }
         },
         {
-          "slug": "02-types-of-rocks",
+          "slug": "l2",
           "title": {
             "ar": "أنواع الصخور"
           }
         },
         {
-          "slug": "03-soil",
+          "slug": "l3",
           "title": {
             "ar": "التربة"
           },

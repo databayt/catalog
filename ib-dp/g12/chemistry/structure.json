@@ -21,13 +21,13 @@
   ],
   "chapters": [
     {
-      "slug": "01-stoichiometric-relationships",
+      "slug": "c1",
       "title": {
         "en": "Stoichiometric Relationships"
       },
       "lessons": [
         {
-          "slug": "01-stoichiometric-relationships",
+          "slug": "l1",
           "title": {
             "en": "Stoichiometric Relationships"
           }
@@ -35,13 +35,13 @@
       ]
     },
     {
-      "slug": "02-atomic-structure",
+      "slug": "c2",
       "title": {
         "en": "Atomic Structure"
       },
       "lessons": [
         {
-          "slug": "01-atomic-structure",
+          "slug": "l1",
           "title": {
             "en": "Atomic Structure"
           }
@@ -49,13 +49,13 @@
       ]
     },
     {
-      "slug": "03-periodicity",
+      "slug": "c3",
       "title": {
         "en": "Periodicity"
       },
       "lessons": [
         {
-          "slug": "01-periodicity",
+          "slug": "l1",
           "title": {
             "en": "Periodicity"
           }
@@ -63,13 +63,13 @@
       ]
     },
     {
-      "slug": "04-chemical-bonding-and-structure",
+      "slug": "c4",
       "title": {
         "en": "Chemical Bonding and Structure"
       },
       "lessons": [
         {
-          "slug": "01-chemical-bonding-and-structure",
+          "slug": "l1",
           "title": {
             "en": "Chemical Bonding and Structure"
           }
@@ -77,13 +77,13 @@
       ]
     },
     {
-      "slug": "05-energetics-and-thermochemistry",
+      "slug": "c5",
       "title": {
         "en": "Energetics and Thermochemistry"
       },
       "lessons": [
         {
-          "slug": "01-energetics-and-thermochemistry",
+          "slug": "l1",
           "title": {
             "en": "Energetics and Thermochemistry"
           }
@@ -91,13 +91,13 @@
       ]
     },
     {
-      "slug": "06-chemical-kinetics",
+      "slug": "c6",
       "title": {
         "en": "Chemical Kinetics"
       },
       "lessons": [
         {
-          "slug": "01-chemical-kinetics",
+          "slug": "l1",
           "title": {
             "en": "Chemical Kinetics"
           }
@@ -105,13 +105,13 @@
       ]
     },
     {
-      "slug": "07-equilibrium",
+      "slug": "c7",
       "title": {
         "en": "Equilibrium"
       },
       "lessons": [
         {
-          "slug": "01-equilibrium",
+          "slug": "l1",
           "title": {
             "en": "Equilibrium"
           }
@@ -119,13 +119,13 @@
       ]
     },
     {
-      "slug": "08-acids-and-bases",
+      "slug": "c8",
       "title": {
         "en": "Acids and Bases"
       },
       "lessons": [
         {
-          "slug": "01-acids-and-bases",
+          "slug": "l1",
           "title": {
             "en": "Acids and Bases"
           }
@@ -133,13 +133,13 @@
       ]
     },
     {
-      "slug": "09-redox-processes",
+      "slug": "c9",
       "title": {
         "en": "Redox Processes"
       },
       "lessons": [
         {
-          "slug": "01-redox-processes",
+          "slug": "l1",
           "title": {
             "en": "Redox Processes"
           }
@@ -147,13 +147,13 @@
       ]
     },
     {
-      "slug": "10-organic-chemistry",
+      "slug": "c10",
       "title": {
         "en": "Organic Chemistry"
       },
       "lessons": [
         {
-          "slug": "01-organic-chemistry",
+          "slug": "l1",
           "title": {
             "en": "Organic Chemistry"
           }
@@ -161,13 +161,13 @@
       ]
     },
     {
-      "slug": "11-measurement-and-data-processing",
+      "slug": "c11",
       "title": {
         "en": "Measurement and Data Processing"
       },
       "lessons": [
         {
-          "slug": "01-measurement-and-data-processing",
+          "slug": "l1",
           "title": {
             "en": "Measurement and Data Processing"
           }

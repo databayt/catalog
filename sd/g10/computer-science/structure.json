@@ -29,7 +29,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-digital-principles-of-the-computer",
+      "slug": "c1",
       "title": {
         "ar": "المبادئ الرقمية للحاسوب",
         "en": "Digital Principles of the Computer"
@@ -40,7 +40,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-number-systems",
+          "slug": "l1",
           "title": {
             "ar": "نظم الأعداد",
             "en": "Number Systems"
@@ -48,7 +48,7 @@
           "page": 7
         },
         {
-          "slug": "02-logic-gates",
+          "slug": "l2",
           "title": {
             "ar": "البوابات المنطقية",
             "en": "Logic Gates"
@@ -57,7 +57,7 @@
           "image": "clickview/high-electricity-and-circuits-cover.jpg"
         },
         {
-          "slug": "03-logic-circuits",
+          "slug": "l3",
           "title": {
             "ar": "الدوائر المنطقية",
             "en": "Logic Circuits"
@@ -66,7 +66,7 @@
           "image": "clickview/high-electricity-and-circuits-cover.jpg"
         },
         {
-          "slug": "04-representing-data-types-in-the-computer",
+          "slug": "l4",
           "title": {
             "ar": "تمثيل أنواع البيانات في الحاسوب",
             "en": "Representing Data Types in the Computer"
@@ -74,7 +74,7 @@
           "page": 27
         },
         {
-          "slug": "05-data-compression",
+          "slug": "l5",
           "title": {
             "ar": "ضغط البيانات",
             "en": "Data Compression"
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "slug": "02-computer-architecture",
+      "slug": "c2",
       "title": {
         "ar": "معمارية الحواسيب",
         "en": "Computer Architecture"
@@ -95,7 +95,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-computer-structure-function-and-how-it-works",
+          "slug": "l1",
           "title": {
             "ar": "الحاسوب: التركيب والوظيفة وآليات العمل",
             "en": "The Computer: Structure, Function and How It Works"
@@ -103,7 +103,7 @@
           "page": 39
         },
         {
-          "slug": "02-timeline-of-computer-development",
+          "slug": "l2",
           "title": {
             "ar": "الخط الزمني لتطور الحاسوب",
             "en": "Timeline of Computer Development"
@@ -112,7 +112,7 @@
           "image": "clickview/high-history-of-computing-cover.jpg"
         },
         {
-          "slug": "03-structure-of-the-central-processing-unit",
+          "slug": "l3",
           "title": {
             "ar": "بنية وحدة المعالجة المركزية",
             "en": "Structure of the Central Processing Unit"
@@ -120,7 +120,7 @@
           "page": 65
         },
         {
-          "slug": "04-memory-structure",
+          "slug": "l4",
           "title": {
             "ar": "بنية الذاكرة",
             "en": "Memory Structure"
@@ -128,7 +128,7 @@
           "page": 75
         },
         {
-          "slug": "05-basics-of-computer-maintenance",
+          "slug": "l5",
           "title": {
             "ar": "أساسيات صيانة الحاسوب",
             "en": "Basics of Computer Maintenance"
@@ -136,7 +136,7 @@
           "page": 98
         },
         {
-          "slug": "06-green-computing",
+          "slug": "l6",
           "title": {
             "ar": "الحوسبة الخضراء",
             "en": "Green Computing"
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "slug": "03-operating-system-concepts",
+      "slug": "c3",
       "title": {
         "ar": "مفاهيم نظم التشغيل",
         "en": "Operating System Concepts"
@@ -158,7 +158,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-concept-of-an-operating-system",
+          "slug": "l1",
           "title": {
             "ar": "مفهوم نظام التشغيل",
             "en": "The Concept of an Operating System"
@@ -166,7 +166,7 @@
           "page": 113
         },
         {
-          "slug": "02-types-of-operating-systems",
+          "slug": "l2",
           "title": {
             "ar": "أنواع نظم التشغيل",
             "en": "Types of Operating Systems"
@@ -174,7 +174,7 @@
           "page": 117
         },
         {
-          "slug": "03-distributed-and-network-operating-systems",
+          "slug": "l3",
           "title": {
             "ar": "أنظمة التشغيل الموزعة والشبكية",
             "en": "Distributed and Network Operating Systems"
@@ -182,7 +182,7 @@
           "page": 121
         },
         {
-          "slug": "04-how-an-operating-system-works",
+          "slug": "l4",
           "title": {
             "ar": "آلية عمل نظام التشغيل",
             "en": "How an Operating System Works"
@@ -190,7 +190,7 @@
           "page": 123
         },
         {
-          "slug": "05-how-the-operating-system-handles-programs-and",
+          "slug": "l5",
           "title": {
             "ar": "تعامل نظام التشغيل مع البرامج والتطبيقات",
             "en": "How the Operating System Handles Programs and Applications"
@@ -198,7 +198,7 @@
           "page": 128
         },
         {
-          "slug": "06-securing-operating-systems",
+          "slug": "l6",
           "title": {
             "ar": "تأمين نظم التشغيل",
             "en": "Securing Operating Systems"
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "slug": "04-algorithms-and-flowcharts",
+      "slug": "c4",
       "title": {
         "ar": "الخوارزميات والمخططات الانسيابية",
         "en": "Algorithms and Flowcharts"
@@ -220,7 +220,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-programming-problem",
+          "slug": "l1",
           "title": {
             "ar": "المسألة البرمجية",
             "en": "The Programming Problem"
@@ -228,7 +228,7 @@
           "page": 143
         },
         {
-          "slug": "02-algorithms",
+          "slug": "l2",
           "title": {
             "ar": "الخوارزميات",
             "en": "Algorithms"
@@ -236,7 +236,7 @@
           "page": 146
         },
         {
-          "slug": "03-types-of-flowcharts",
+          "slug": "l3",
           "title": {
             "ar": "أنواع المخططات الانسيابية",
             "en": "Types of Flowcharts"
@@ -244,7 +244,7 @@
           "page": 154
         },
         {
-          "slug": "04-relational-expressions-in-flowcharts",
+          "slug": "l4",
           "title": {
             "ar": "التعابير العلائقية في المخططات الانسيابية",
             "en": "Relational Expressions in Flowcharts"
@@ -252,7 +252,7 @@
           "page": 165
         },
         {
-          "slug": "05-the-relationship-between-algorithms-and-programs",
+          "slug": "l5",
           "title": {
             "ar": "العلاقة بين الخوارزمية والبرامج",
             "en": "The Relationship between Algorithms and Programs"
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "slug": "05-programming-in-c",
+      "slug": "c5",
       "title": {
         "ar": "البرمجة بلغة ++C",
         "en": "Programming in C++"
@@ -273,7 +273,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-introduction-to-c",
+          "slug": "l1",
           "title": {
             "ar": "مدخل للغة ++C",
             "en": "Introduction to C++"
@@ -281,7 +281,7 @@
           "page": 178
         },
         {
-          "slug": "02-getting-started-with-programming",
+          "slug": "l2",
           "title": {
             "ar": "البدء في البرمجة",
             "en": "Getting Started with Programming"
@@ -289,7 +289,7 @@
           "page": 182
         },
         {
-          "slug": "03-variables-and-data-types",
+          "slug": "l3",
           "title": {
             "ar": "المتغيرات وأنواع البيانات",
             "en": "Variables and Data Types"
@@ -298,7 +298,7 @@
           "image": "clickview/high-data-and-information-cover.jpg"
         },
         {
-          "slug": "04-operations-in-c",
+          "slug": "l4",
           "title": {
             "ar": "العمليات في ++C",
             "en": "Operations in C++"
@@ -306,7 +306,7 @@
           "page": 194
         },
         {
-          "slug": "05-conditional-control-statements",
+          "slug": "l5",
           "title": {
             "ar": "عبارات التحكم الشرطية",
             "en": "Conditional Control Statements"
@@ -314,7 +314,7 @@
           "page": 200
         },
         {
-          "slug": "06-loop-control-statements",
+          "slug": "l6",
           "title": {
             "ar": "عبارات التحكم التكرارية",
             "en": "Loop Control Statements"
@@ -322,7 +322,7 @@
           "page": 209
         },
         {
-          "slug": "07-applying-algorithms-in-c",
+          "slug": "l7",
           "title": {
             "ar": "تطبيقات على الخوارزميات بلغة ++C",
             "en": "Applying Algorithms in C++"

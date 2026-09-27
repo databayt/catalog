@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g8",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-isl-unit-02-muamalat-01-amanah-quiz",
+      "title": "Quiz: الأمانة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-isl-unit-02-muamalat-01-amanah-lq01",
+          "type": "mcq",
+          "question": "الأمانة تعني:",
+          "options": [
+            "حفظ الحقوق وأداءها",
+            "الخيانة",
+            "الإهمال",
+            "الكذب"
+          ],
+          "answer": "حفظ الحقوق وأداءها",
+          "explanation": "الأمانة."
+        },
+        {
+          "id": "g8-isl-unit-02-muamalat-01-amanah-lq02",
+          "type": "true_false",
+          "question": "رد الأمانة إلى أصحابها واجب.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "الأمانة."
+        },
+        {
+          "id": "g8-isl-unit-02-muamalat-01-amanah-lq03",
+          "type": "fill_blank",
+          "question": "ضد الأمانة هو ___.",
+          "answer": "الخيانة",
+          "explanation": "التضاد."
+        },
+        {
+          "id": "g8-isl-unit-02-muamalat-01-amanah-lq04",
+          "type": "short_answer",
+          "question": "اذكر صورة من صور الأمانة.",
+          "answer": "مثل: حفظ الأسرار ورد الودائع.",
+          "explanation": "الأمانة."
+        }
+      ]
+    }
+  ]
+}

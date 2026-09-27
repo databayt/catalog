@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-maya",
+      "slug": "c1",
       "title": {
         "en": "The Maya Civilisation"
       },
       "lessons": [
         {
-          "slug": "01-maya-life",
+          "slug": "l1",
           "title": {
             "en": "The Ancient Maya"
           }
         },
         {
-          "slug": "02-comparing-civilisations",
+          "slug": "l2",
           "title": {
             "en": "Comparing Civilisations"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-britain-wwii",
+      "slug": "c2",
       "title": {
         "en": "Britain at War (WWII Home Front)"
       },
       "lessons": [
         {
-          "slug": "01-home-front",
+          "slug": "l1",
           "title": {
             "en": "The Home Front"
           }
         },
         {
-          "slug": "02-sources",
+          "slug": "l2",
           "title": {
             "en": "Using Historical Sources"
           }

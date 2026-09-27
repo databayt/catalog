@@ -20,7 +20,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-unit-one",
+      "slug": "c1",
       "title": {
         "ar": "الوحدة الأولى",
         "en": "Unit One"
@@ -29,33 +29,33 @@
       "image": "clickview/elementary-respectful-relationships-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: عباد الرحمن"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: كن جميلاً (إيليا أبو ماضي)"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مراجعة المبني والمعرب"
           },
           "image": "clickview/middle-parts-of-speech-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: مواطن همزة الوصل"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: صفات عباد الرحمن"
           }
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "slug": "02-unit-two",
+      "slug": "c2",
       "title": {
         "ar": "الوحدة الثانية",
         "en": "Unit Two"
@@ -72,33 +72,33 @@
       "image": "clickview/high-analyzing-speeches-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: السلطنة الزرقاء"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: خطبة لعلي بن أبي طالب"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مراجعة الأسماء الخمسة والفعل المبني للمجهول"
           },
           "image": "clickview/middle-parts-of-speech-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: بعض من علامات الترقيم"
           },
           "image": "clickview/middle-punctuation-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: أهمية محو الأمية"
           }
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "slug": "03-unit-three",
+      "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة",
         "en": "Unit Three"
@@ -115,33 +115,33 @@
       "image": "clickview/middle-identity-and-community-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: كرم امرأة"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "النصوص: قريتي (للهادي آدم)"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مراجعة النكرة والمعرفة"
           },
           "image": "clickview/middle-parts-of-speech-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: همزة القطع"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: الجار"
           }
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "slug": "04-unit-four",
+      "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة",
         "en": "Unit Four"
@@ -158,34 +158,34 @@
       "image": "clickview/middle-being-a-historian-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: وصف أم معبد لرسول الله ﷺ"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: أنا الجار (لأبي فراس الحمداني)"
           },
           "image": "clickview/elementary-friendship-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مراجعة إنّ وأخواتها"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: الحذف وسط الكلمة"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: هجرة النبي ﷺ إلى المدينة"
           }
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "slug": "05-unit-five",
+      "slug": "c5",
       "title": {
         "ar": "الوحدة الخامسة",
         "en": "Unit Five"
@@ -202,34 +202,34 @@
       "image": "clickview/middle-artificial-intelligence-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: من أدب الخيال العلمي (الإنسان الآلي)"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: قصيدة النيل (لإدريس جماع)"
           },
           "image": "clickview/middle-rivers-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: الفعل المضارع المرفوع والمبتدأ والخبر"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: الهمزة وفق الحركة الإعرابية"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: قصة عن الخيال العلمي"
           }
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "slug": "06-unit-six",
+      "slug": "c6",
       "title": {
         "ar": "الوحدة السادسة",
         "en": "Unit Six"
@@ -246,34 +246,34 @@
       "image": "clickview/high-agricultural-sustainability-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: الأمن الغذائي والاكتفاء الذاتي"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: من رواية عنترة (لأحمد شوقي)"
           },
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: المجرد والمزيد (أبواب المجرد) ومزيد الثلاثي"
           },
           "image": "clickview/middle-vocabulary-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: من الدليل"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: السودان سلة غذاء العالم"
           }
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "slug": "07-unit-seven",
+      "slug": "c7",
       "title": {
         "ar": "الوحدة السابعة",
         "en": "Unit Seven"
@@ -290,34 +290,34 @@
       "image": "clickview/high-exercise-physiology-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: الرياضة والصحة"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: مرارة أب (لأمية بن أبي الصلت)"
           },
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مزيد الرباعي"
           },
           "image": "clickview/middle-vocabulary-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: علامات الترقيم"
           },
           "image": "clickview/middle-punctuation-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: أهمية الرياضة في بناء الجسم السليم"
           }
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "slug": "08-unit-eight",
+      "slug": "c8",
       "title": {
         "ar": "الوحدة الثامنة",
         "en": "Unit Eight"
@@ -334,33 +334,33 @@
       "image": "clickview/elementary-farming-and-food-production-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: أيتها الأرض (جبران خليل جبران)"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: في الريف"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: البحث في المعاجم"
           },
           "image": "clickview/middle-vocabulary-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: الأفعال معتلة الآخر"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: إجازة قضيتها في الريف"
           }
@@ -368,7 +368,7 @@
       ]
     },
     {
-      "slug": "09-unit-nine",
+      "slug": "c9",
       "title": {
         "ar": "الوحدة التاسعة",
         "en": "Unit Nine"
@@ -377,33 +377,33 @@
       "image": "clickview/high-social-media-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: الشهرة الزائفة"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: دنيا الصبا (للتجاني يوسف بشير)"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: نصب الفعل المضارع"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: الألف اللينة"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: مواقع التواصل الاجتماعي سلاح ذو حدين"
           }
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "slug": "10-unit-ten",
+      "slug": "c10",
       "title": {
         "ar": "الوحدة العاشرة",
         "en": "Unit Ten"
@@ -420,34 +420,34 @@
       "image": "clickview/high-extreme-weather-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: الكوارث الطبيعية"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: تغريبة المطر (روضة الحاج)"
           },
           "image": "clickview/high-water-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: أدوات الشرط الجازمة"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: اتصال الظروف بإذ"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: دور الشباب في الكوارث الطبيعية"
           }
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "slug": "11-unit-eleven",
+      "slug": "c11",
       "title": {
         "ar": "الوحدة الحادية عشرة",
         "en": "Unit Eleven"
@@ -464,34 +464,34 @@
       "image": "clickview/high-the-impact-of-innovation-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: ثورة المعلومات"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: يا رفاق الأمنيات الخالدة (لمحمد عثمان كجراي)"
           },
           "image": "clickview/elementary-civic-values-and-virtues-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: الإعراب التقديري للفعل المضارع"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: من الدليل"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: ثورة المعلومات"
           }
@@ -499,7 +499,7 @@
       ]
     },
     {
-      "slug": "12-unit-twelve",
+      "slug": "c12",
       "title": {
         "ar": "الوحدة الثانية عشرة",
         "en": "Unit Twelve"
@@ -508,34 +508,34 @@
       "image": "clickview/middle-biodiversity-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: من عجائب الكائنات الحية"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: دع الأيام تفعل ما تشاء"
           },
           "image": "clickview/high-resilience-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: المبتدأ النكرة"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: من علامات الترقيم"
           },
           "image": "clickview/middle-punctuation-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: هناك بعض الناس يتلونون في معاملاتهم"
           },
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "slug": "13-unit-thirteen",
+      "slug": "c13",
       "title": {
         "ar": "الوحدة الثالثة عشرة",
         "en": "Unit Thirteen"
@@ -553,34 +553,34 @@
       "image": "clickview/elementary-civic-values-and-virtues-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: ممتلكاتنا العامة"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: الناس للناس"
           },
           "image": "clickview/middle-community-engagement-and-care-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: مواضع تقديم المبتدأ على الخبر وجوباً"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: حذف ألف ما الاستفهامية باتصالها بحروف الجر"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: المحافظة على الممتلكات العامة"
           }
@@ -588,7 +588,7 @@
       ]
     },
     {
-      "slug": "14-unit-fourteen",
+      "slug": "c14",
       "title": {
         "ar": "الوحدة الرابعة عشرة",
         "en": "Unit Fourteen"
@@ -597,34 +597,34 @@
       "image": "clickview/middle-international-day-of-peace-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: طيور السلام"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: وقفة على طلل"
           },
           "image": "clickview/high-poetic-forms-and-structure-cover.jpg"
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: تقديم الخبر وجوباً"
           },
           "image": "clickview/middle-sentences-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: الحذف في آخر الكلمة"
           },
           "image": "clickview/high-spelling-rules-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: جوانب أمجاد المسلمين"
           },
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "slug": "15-unit-fifteen",
+      "slug": "c15",
       "title": {
         "ar": "الوحدة الخامسة عشرة",
         "en": "Unit Fifteen"
@@ -642,33 +642,33 @@
       "image": "clickview/middle-communication-skills-cover.jpg",
       "lessons": [
         {
-          "slug": "01-reading",
+          "slug": "l1",
           "title": {
             "ar": "القراءة: في أدب المجالسة"
           }
         },
         {
-          "slug": "02-literature",
+          "slug": "l2",
           "title": {
             "ar": "الأدب: من أمثال العرب"
           }
         },
         {
-          "slug": "03-grammar",
+          "slug": "l3",
           "title": {
             "ar": "النحو: المجرورات"
           },
           "image": "clickview/middle-parts-of-speech-cover.jpg"
         },
         {
-          "slug": "04-spelling",
+          "slug": "l4",
           "title": {
             "ar": "الإملاء: مراجعة عامة"
           },
           "image": "clickview/high-study-skills-cover.jpg"
         },
         {
-          "slug": "05-writing",
+          "slug": "l5",
           "title": {
             "ar": "التعبير: أمنية تسعى لتحقيقها بالعلم"
           },

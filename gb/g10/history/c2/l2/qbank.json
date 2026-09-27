@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g10",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq01",
+      "type": "mcq",
+      "question": "The policy of giving in to Hitler's demands was called:",
+      "options": [
+        "appeasement",
+        "containment",
+        "isolation",
+        "alliance"
+      ],
+      "answer": "appeasement",
+      "explanation": "1930s policy."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq02",
+      "type": "true_false",
+      "question": "WWII in Europe began with the invasion of Poland in 1939.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Sept 1939."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq03",
+      "type": "fill_blank",
+      "question": "Britain's PM associated with appeasement was Neville ___.",
+      "answer": "Chamberlain",
+      "explanation": "Munich 1938."
+    },
+    {
+      "id": "g10-his-unit-02-conflict-tension-02-road-to-war-lq04",
+      "type": "short_answer",
+      "question": "Why did appeasement fail?",
+      "answer": "It encouraged further aggression rather than preventing war.",
+      "explanation": "Appeasement."
+    }
+  ]
+}

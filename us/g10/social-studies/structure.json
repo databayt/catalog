@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-world-wars",
+      "slug": "c1",
       "title": {
         "en": "The World Wars"
       },
       "lessons": [
         {
-          "slug": "01-wwi",
+          "slug": "l1",
           "title": {
             "en": "World War I"
           }
         },
         {
-          "slug": "02-wwii",
+          "slug": "l2",
           "title": {
             "en": "World War II"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-modern-era",
+      "slug": "c2",
       "title": {
         "en": "The Modern Era"
       },
       "lessons": [
         {
-          "slug": "01-cold-war",
+          "slug": "l1",
           "title": {
             "en": "The Cold War"
           }
         },
         {
-          "slug": "02-globalization",
+          "slug": "l2",
           "title": {
             "en": "Globalization Today"
           }

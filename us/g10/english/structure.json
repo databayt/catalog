@@ -51,19 +51,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-world-lit",
+      "slug": "c1",
       "title": {
         "en": "World Literature"
       },
       "lessons": [
         {
-          "slug": "01-context",
+          "slug": "l1",
           "title": {
             "en": "Cultural & Historical Context"
           }
         },
         {
-          "slug": "02-tone-mood",
+          "slug": "l2",
           "title": {
             "en": "Tone & Mood"
           }
@@ -71,19 +71,19 @@
       ]
     },
     {
-      "slug": "02-research",
+      "slug": "c2",
       "title": {
         "en": "Research & Synthesis"
       },
       "lessons": [
         {
-          "slug": "01-sources",
+          "slug": "l1",
           "title": {
             "en": "Evaluating Sources"
           }
         },
         {
-          "slug": "02-synthesis",
+          "slug": "l2",
           "title": {
             "en": "Synthesizing Evidence"
           }

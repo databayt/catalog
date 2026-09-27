@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-maps",
+      "slug": "c1",
       "title": {
         "en": "Maps, Atlases & Skills"
       },
       "lessons": [
         {
-          "slug": "01-map-skills",
+          "slug": "l1",
           "title": {
             "en": "Using Maps"
           }
         },
         {
-          "slug": "02-symbols",
+          "slug": "l2",
           "title": {
             "en": "Map Symbols & Keys"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-rivers",
+      "slug": "c2",
       "title": {
         "en": "Rivers & the Water Cycle"
       },
       "lessons": [
         {
-          "slug": "01-rivers",
+          "slug": "l1",
           "title": {
             "en": "Rivers"
           }
         },
         {
-          "slug": "02-water-cycle",
+          "slug": "l2",
           "title": {
             "en": "The Water Cycle"
           }

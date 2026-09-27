@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g10",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g10-mat-unit-02-circles-area-01-circles-quiz",
+      "title": "Quiz: Circles",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq01",
+          "type": "mcq",
+          "question": "The circumference of a circle is:",
+          "options": [
+            "πr²",
+            "2πr",
+            "πd²",
+            "r/2"
+          ],
+          "answer": "2πr",
+          "explanation": "C = 2πr (= πd)."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq02",
+          "type": "true_false",
+          "question": "All radii of a circle are equal.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Constant radius."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq03",
+          "type": "fill_blank",
+          "question": "The area of a circle is π times the radius ___.",
+          "answer": "squared",
+          "explanation": "A = πr²."
+        },
+        {
+          "id": "g10-mat-unit-02-circles-area-01-circles-lq04",
+          "type": "short_answer",
+          "question": "How are diameter and radius related?",
+          "answer": "Diameter = 2 × radius.",
+          "explanation": "Circle parts."
+        }
+      ]
+    }
+  ]
+}

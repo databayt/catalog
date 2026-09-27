@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "geography",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g3-geo-unit-02-rivers-01-rivers-lq01",
+      "type": "mcq",
+      "question": "The start of a river is called its:",
+      "options": [
+        "mouth",
+        "source",
+        "bank",
+        "bed"
+      ],
+      "answer": "source",
+      "explanation": "River source."
+    },
+    {
+      "id": "g3-geo-unit-02-rivers-01-rivers-lq02",
+      "type": "true_false",
+      "question": "A river flows from high ground to the sea.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Downhill flow."
+    },
+    {
+      "id": "g3-geo-unit-02-rivers-01-rivers-lq03",
+      "type": "fill_blank",
+      "question": "Where a river meets the sea is its ___.",
+      "answer": "mouth",
+      "explanation": "River mouth."
+    },
+    {
+      "id": "g3-geo-unit-02-rivers-01-rivers-lq04",
+      "type": "short_answer",
+      "question": "Name two features of a river.",
+      "answer": "e.g., source, meander, and mouth.",
+      "explanation": "River features."
+    }
+  ]
+}

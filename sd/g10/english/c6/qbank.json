@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g10",
+    "subject": "english",
+    "chapter": "c6"
+  },
+  "questions": [
+    {
+      "id": "g10-eng-unit-06-q01",
+      "type": "mcq",
+      "question": "Choose the correct conditional: 'If I ___ you, I would apologize.'",
+      "options": [
+        "were",
+        "am",
+        "will be",
+        "was"
+      ],
+      "answer": "were",
+      "explanation": "Second conditional uses 'were' (or 'was' informal) + would + infinitive."
+    },
+    {
+      "id": "g10-eng-unit-06-q02",
+      "type": "true_false",
+      "question": "The passive voice of 'They built the bridge' is 'The bridge was built by them'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Passive: object becomes subject + was/were + past participle."
+    },
+    {
+      "id": "g10-eng-unit-06-q03",
+      "type": "fill_blank",
+      "question": "She wishes she ___ speak French fluently.",
+      "answer": "could",
+      "explanation": "Wish + subject + could expresses a desire for a current ability."
+    },
+    {
+      "id": "g10-eng-unit-06-q04",
+      "type": "short_answer",
+      "question": "Explain the difference between will and going to for future.",
+      "answer": "Will for spontaneous decisions or predictions. Going to for plans already made or evidence-based predictions.",
+      "explanation": "Both express future but with different levels of intention/evidence."
+    },
+    {
+      "id": "g10-eng-unit-06-q01-2",
+      "type": "mcq",
+      "question": "Choose the correct conditional: 'If I ___ you, I would apologize.'",
+      "options": [
+        "were",
+        "am",
+        "will be",
+        "was"
+      ],
+      "answer": "were",
+      "explanation": "Second conditional uses 'were' (or 'was' informal) + would + infinitive."
+    },
+    {
+      "id": "g10-eng-unit-06-q02-2",
+      "type": "true_false",
+      "question": "The passive voice of 'They built the bridge' is 'The bridge was built by them'.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Passive: object becomes subject + was/were + past participle."
+    },
+    {
+      "id": "g10-eng-unit-06-q03-2",
+      "type": "fill_blank",
+      "question": "She wishes she ___ speak French fluently.",
+      "answer": "could",
+      "explanation": "Wish + subject + could expresses a desire for a current ability."
+    },
+    {
+      "id": "g10-eng-unit-06-q04-2",
+      "type": "short_answer",
+      "question": "Explain the difference between will and going to for future.",
+      "answer": "Will for spontaneous decisions or predictions. Going to for plans already made or evidence-based predictions.",
+      "explanation": "Both express future but with different levels of intention/evidence."
+    }
+  ]
+}

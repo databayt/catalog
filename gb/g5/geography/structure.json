@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-settlements",
+      "slug": "c1",
       "title": {
         "en": "Settlements & Land Use"
       },
       "lessons": [
         {
-          "slug": "01-settlements",
+          "slug": "l1",
           "title": {
             "en": "Types of Settlement"
           }
         },
         {
-          "slug": "02-land-use",
+          "slug": "l2",
           "title": {
             "en": "Land Use"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-region-uae",
+      "slug": "c2",
       "title": {
         "en": "A Region Study: The UAE"
       },
       "lessons": [
         {
-          "slug": "01-uae-geography",
+          "slug": "l1",
           "title": {
             "en": "Geography of the UAE"
           }
         },
         {
-          "slug": "02-comparing-regions",
+          "slug": "l2",
           "title": {
             "en": "Comparing Regions"
           }

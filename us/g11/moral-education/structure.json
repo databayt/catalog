@@ -31,19 +31,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-identity",
+      "slug": "c1",
       "title": {
         "en": "National & Global Identity"
       },
       "lessons": [
         {
-          "slug": "01-national-identity",
+          "slug": "l1",
           "title": {
             "en": "National Identity"
           }
         },
         {
-          "slug": "02-global-citizenship",
+          "slug": "l2",
           "title": {
             "en": "Global Citizenship"
           }
@@ -51,19 +51,19 @@
       ]
     },
     {
-      "slug": "02-justice",
+      "slug": "c2",
       "title": {
         "en": "Justice & Fairness"
       },
       "lessons": [
         {
-          "slug": "01-justice",
+          "slug": "l1",
           "title": {
             "en": "Justice"
           }
         },
         {
-          "slug": "02-rights",
+          "slug": "l2",
           "title": {
             "en": "Human Rights"
           }

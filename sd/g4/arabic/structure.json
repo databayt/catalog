@@ -21,7 +21,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-values-and-manners",
+      "slug": "c1",
       "title": {
         "ar": "قيم وآداب",
         "en": "Values and Manners"
@@ -32,7 +32,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-supplications",
+          "slug": "l1",
           "title": {
             "ar": "ابتهالات",
             "en": "Supplications"
@@ -40,7 +40,7 @@
           "page": 6
         },
         {
-          "slug": "02-friendship-is-a-treasure",
+          "slug": "l2",
           "title": {
             "ar": "الصداقة كنز لا يفنى",
             "en": "Friendship Is an Everlasting Treasure"
@@ -49,7 +49,7 @@
           "image": "clickview/elementary-friendship-cover.jpg"
         },
         {
-          "slug": "03-courage-and-nobility",
+          "slug": "l3",
           "title": {
             "ar": "شجاعة ونبل",
             "en": "Courage and Nobility"
@@ -57,7 +57,7 @@
           "page": 16
         },
         {
-          "slug": "04-freedom-peace-justice",
+          "slug": "l4",
           "title": {
             "ar": "حرية سلام وعدالة",
             "en": "Freedom, Peace and Justice"
@@ -65,7 +65,7 @@
           "page": 21
         },
         {
-          "slug": "05-a-mothers-advice-to-her-daughter",
+          "slug": "l5",
           "title": {
             "ar": "نصيحة أم لابنتها",
             "en": "A Mother's Advice to Her Daughter"
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "slug": "02-the-environment",
+      "slug": "c2",
       "title": {
         "ar": "البيئة",
         "en": "The Environment"
@@ -86,7 +86,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-water-in-our-life",
+          "slug": "l1",
           "title": {
             "ar": "الماء في حياتنا",
             "en": "Water in Our Life"
@@ -95,7 +95,7 @@
           "image": "clickview/elementary-the-water-cycle-cover.jpg"
         },
         {
-          "slug": "02-the-rain",
+          "slug": "l2",
           "title": {
             "ar": "المطر",
             "en": "The Rain"
@@ -104,7 +104,7 @@
           "image": "clickview/elementary-the-water-cycle-cover.jpg"
         },
         {
-          "slug": "03-forests-of-sudan",
+          "slug": "l3",
           "title": {
             "ar": "غابات السودان",
             "en": "Forests of Sudan"
@@ -113,7 +113,7 @@
           "image": "clickview/elementary-forests-rainforests-and-grasslands-cover.jpg"
         },
         {
-          "slug": "04-the-foolish-fig-tree",
+          "slug": "l4",
           "title": {
             "ar": "التينة الحمقاء",
             "en": "The Foolish Fig Tree"
@@ -121,7 +121,7 @@
           "page": 38
         },
         {
-          "slug": "05-water-and-air-pollution",
+          "slug": "l5",
           "title": {
             "ar": "تلوث الماء والهواء",
             "en": "Water and Air Pollution"
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "slug": "03-great-people-of-my-country",
+      "slug": "c3",
       "title": {
         "ar": "عظماء من بلادي",
         "en": "Great People of My Country"
@@ -143,7 +143,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-babiker-badri",
+          "slug": "l1",
           "title": {
             "ar": "بابكر بدري",
             "en": "Babiker Badri"
@@ -151,7 +151,7 @@
           "page": 46
         },
         {
-          "slug": "02-ismail-al-azhari",
+          "slug": "l2",
           "title": {
             "ar": "إسماعيل الأزهري",
             "en": "Ismail Al-Azhari"
@@ -159,7 +159,7 @@
           "page": 50
         },
         {
-          "slug": "03-abdel-gadir-okir",
+          "slug": "l3",
           "title": {
             "ar": "عبد القادر أوكير",
             "en": "Abdel Gadir Okir"
@@ -167,7 +167,7 @@
           "page": 54
         },
         {
-          "slug": "04-sheikha-amuna",
+          "slug": "l4",
           "title": {
             "ar": "الشيخة أمونة",
             "en": "Sheikha Amuna"
@@ -175,7 +175,7 @@
           "page": 57
         },
         {
-          "slug": "05-khalil-farah",
+          "slug": "l5",
           "title": {
             "ar": "خليل فرح (المغني الثائر)",
             "en": "Khalil Farah (the Revolutionary Singer)"
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "slug": "04-animal-stories",
+      "slug": "c4",
       "title": {
         "ar": "من قصص الحيوان",
         "en": "From Animal Stories"
@@ -196,7 +196,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-animal-language",
+          "slug": "l1",
           "title": {
             "ar": "لغة الحيوان",
             "en": "Animal Language"
@@ -204,7 +204,7 @@
           "page": 64
         },
         {
-          "slug": "02-loyalty-of-animals",
+          "slug": "l2",
           "title": {
             "ar": "من وفاء الحيوان",
             "en": "From the Loyalty of Animals"
@@ -212,7 +212,7 @@
           "page": 67
         },
         {
-          "slug": "03-the-ringed-dove",
+          "slug": "l3",
           "title": {
             "ar": "الحمامة المطوقة",
             "en": "The Ringed Dove"
@@ -221,7 +221,7 @@
           "image": "clickview/elementary-birds-cover.jpg"
         },
         {
-          "slug": "04-i-was-eaten-the-day-the-white-bull-was-eaten",
+          "slug": "l4",
           "title": {
             "ar": "أكلت يوم أكل الثور الأبيض",
             "en": "I Was Eaten the Day the White Bull Was Eaten"
@@ -229,7 +229,7 @@
           "page": 76
         },
         {
-          "slug": "05-who-will-bell-the-cat",
+          "slug": "l5",
           "title": {
             "ar": "من يعلق الجرس؟",
             "en": "Who Will Bell the Cat?"
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "slug": "05-varied-topics",
+      "slug": "c5",
       "title": {
         "ar": "موضوعات متنوعة",
         "en": "Varied Topics"
@@ -250,7 +250,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-moonlight",
+          "slug": "l1",
           "title": {
             "ar": "نور القمر",
             "en": "Moonlight"
@@ -259,7 +259,7 @@
           "image": "clickview/elementary-the-moon-cover.jpg"
         },
         {
-          "slug": "02-the-hunter-and-the-skull",
+          "slug": "l2",
           "title": {
             "ar": "الصياد والجمجمة",
             "en": "The Hunter and the Skull"
@@ -267,7 +267,7 @@
           "page": 89
         },
         {
-          "slug": "03-the-flag",
+          "slug": "l3",
           "title": {
             "ar": "العلم",
             "en": "The Flag"
@@ -275,7 +275,7 @@
           "page": 93
         },
         {
-          "slug": "04-childrens-rights",
+          "slug": "l4",
           "title": {
             "ar": "حقوق الطفل",
             "en": "Children's Rights"
@@ -284,7 +284,7 @@
           "image": "clickview/elementary-childrens-rights-cover.jpg"
         },
         {
-          "slug": "05-my-country",
+          "slug": "l5",
           "title": {
             "ar": "بلادي",
             "en": "My Country"

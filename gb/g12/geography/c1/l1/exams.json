@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g12",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g12-geo-unit-01-water-carbon-01-water-cycle-quiz",
+      "title": "Quiz: The Water Cycle as a System",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq01",
+          "type": "mcq",
+          "question": "Inputs, stores, flows and outputs describe a:",
+          "options": [
+            "system",
+            "font",
+            "map",
+            "graph"
+          ],
+          "answer": "system",
+          "explanation": "Systems approach."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq02",
+          "type": "true_false",
+          "question": "The water cycle is a closed system at a global scale.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Global closed system."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq03",
+          "type": "fill_blank",
+          "question": "Water held in ice, oceans and aquifers are ___.",
+          "answer": "stores",
+          "explanation": "Water stores."
+        },
+        {
+          "id": "g12-geo-unit-01-water-carbon-01-water-cycle-lq04",
+          "type": "short_answer",
+          "question": "Why study the water cycle as a system?",
+          "answer": "To understand how inputs, stores and flows interact and change.",
+          "explanation": "Systems thinking."
+        }
+      ]
+    }
+  ]
+}

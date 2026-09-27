@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-bioenergetics",
+      "slug": "c1",
       "title": {
         "en": "Bioenergetics"
       },
       "lessons": [
         {
-          "slug": "01-photosynthesis",
+          "slug": "l1",
           "title": {
             "en": "Photosynthesis"
           }
         },
         {
-          "slug": "02-respiration",
+          "slug": "l2",
           "title": {
             "en": "Respiration"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-ecology",
+      "slug": "c2",
       "title": {
         "en": "Ecology"
       },
       "lessons": [
         {
-          "slug": "01-ecosystems",
+          "slug": "l1",
           "title": {
             "en": "Ecosystems & Interdependence"
           }
         },
         {
-          "slug": "02-cycles",
+          "slug": "l2",
           "title": {
             "en": "Cycling of Materials"
           }

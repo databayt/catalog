@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "geography",
+    "chapter": "c1",
+    "lesson": "l3"
+  },
+  "exams": [
+    {
+      "id": "g5-geo-unit-01-03-sub-directions-lquiz",
+      "title": "اختبار - الاتجاهات الفرعية",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-geo-unit-01-03-sub-directions-lq01",
+          "type": "mcq",
+          "question": "ما العاصمة التي تقع على ضفاف النيل الأزرق والنيل الأبيض؟",
+          "options": [
+            "الخرطوم",
+            "القاهرة",
+            "أديس أبابا",
+            "أسمرة"
+          ],
+          "answer": "الخرطوم",
+          "explanation": "الخرطوم عاصمة السودان تقع عند ملتقى النيلين الأزرق والأبيض."
+        },
+        {
+          "id": "g5-geo-unit-01-03-sub-directions-lq02",
+          "type": "true_false",
+          "question": "السودان يمتلك سواحل على البحر الأحمر.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "السودان لديه ساحل على البحر الأحمر في الشمال الشرقي."
+        },
+        {
+          "id": "g5-geo-unit-01-03-sub-directions-lq03",
+          "type": "fill_blank",
+          "question": "الصحراء الكبرى تغطي معظم شمال ___.",
+          "answer": "أفريقيا",
+          "explanation": "الصحراء الكبرى أكبر صحاري العالم تمتد في شمال أفريقيا."
+        },
+        {
+          "id": "g5-geo-unit-01-03-sub-directions-lq04",
+          "type": "short_answer",
+          "question": "ما أهمية نهر النيل للسودان؟",
+          "answer": "يوفر مياه الشرب والري والنقل وهو مصدر حياة للسكان على ضفافه.",
+          "explanation": "النيل شريان الحياة في السودان ومصر وشرق أفريقيا."
+        }
+      ]
+    }
+  ]
+}

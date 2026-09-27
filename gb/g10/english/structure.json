@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-reading",
+      "slug": "c1",
       "title": {
         "en": "Reading: Analysing Language & Structure"
       },
       "lessons": [
         {
-          "slug": "01-language-analysis",
+          "slug": "l1",
           "title": {
             "en": "Analysing Language"
           }
         },
         {
-          "slug": "02-structure",
+          "slug": "l2",
           "title": {
             "en": "Structural Features"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-writing",
+      "slug": "c2",
       "title": {
         "en": "Writing: Description & Narrative"
       },
       "lessons": [
         {
-          "slug": "01-descriptive",
+          "slug": "l1",
           "title": {
             "en": "Descriptive Writing"
           }
         },
         {
-          "slug": "02-narrative",
+          "slug": "l2",
           "title": {
             "en": "Narrative Writing"
           }

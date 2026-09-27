@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "science",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g4-sci-unit-02-sound-electricity-exam",
+      "title": "Exam: Sound & Electricity",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq01",
+          "type": "mcq",
+          "question": "Sound is caused by:",
+          "options": [
+            "light",
+            "vibrations",
+            "heat",
+            "gravity"
+          ],
+          "answer": "vibrations",
+          "explanation": "Vibrating objects."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq02",
+          "type": "true_false",
+          "question": "Sound needs a medium (like air) to travel.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "No sound in a vacuum."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq03",
+          "type": "fill_blank",
+          "question": "A faster vibration gives a higher ___.",
+          "answer": "pitch",
+          "explanation": "Pitch and frequency."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-01-sound-lq04",
+          "type": "short_answer",
+          "question": "How does sound reach your ear?",
+          "answer": "Vibrations travel as waves through the air.",
+          "explanation": "Sound travel."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-02-circuits-lq01",
+          "type": "mcq",
+          "question": "A bulb lights when the circuit is:",
+          "options": [
+            "open",
+            "complete (closed)",
+            "broken",
+            "wet"
+          ],
+          "answer": "complete (closed)",
+          "explanation": "Closed loop."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-02-circuits-lq02",
+          "type": "true_false",
+          "question": "A switch controls the flow of electricity.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Opens/closes circuit."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-02-circuits-lq03",
+          "type": "fill_blank",
+          "question": "Materials that let electricity flow are ___.",
+          "answer": "conductors",
+          "explanation": "Conductors."
+        },
+        {
+          "id": "g4-sci-unit-02-sound-electricity-02-circuits-lq04",
+          "type": "short_answer",
+          "question": "Why does a bulb go out if a wire is removed?",
+          "answer": "The circuit is broken, so current cannot flow.",
+          "explanation": "Open circuit."
+        }
+      ]
+    }
+  ]
+}

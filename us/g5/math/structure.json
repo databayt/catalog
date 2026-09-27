@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-decimals-operations",
+      "slug": "c1",
       "title": {
         "en": "Decimal Operations"
       },
       "lessons": [
         {
-          "slug": "01-place-value-decimals",
+          "slug": "l1",
           "title": {
             "en": "Decimal Place Value"
           }
         },
         {
-          "slug": "02-multiply-divide-decimals",
+          "slug": "l2",
           "title": {
             "en": "Multiplying & Dividing Decimals"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-fractions-advanced",
+      "slug": "c2",
       "title": {
         "en": "Fractions: Add, Subtract, Multiply"
       },
       "lessons": [
         {
-          "slug": "01-unlike-denominators",
+          "slug": "l1",
           "title": {
             "en": "Unlike Denominators"
           }
         },
         {
-          "slug": "02-multiply-fractions",
+          "slug": "l2",
           "title": {
             "en": "Multiplying Fractions"
           }
@@ -87,19 +87,19 @@
       ]
     },
     {
-      "slug": "03-volume",
+      "slug": "c3",
       "title": {
         "en": "Volume & Coordinate Plane"
       },
       "lessons": [
         {
-          "slug": "01-volume",
+          "slug": "l1",
           "title": {
             "en": "Volume of Rectangular Prisms"
           }
         },
         {
-          "slug": "02-coordinate-plane",
+          "slug": "l2",
           "title": {
             "en": "The Coordinate Plane"
           }

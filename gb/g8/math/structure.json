@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-ratio-proportion",
+      "slug": "c1",
       "title": {
         "en": "Ratio & Proportion"
       },
       "lessons": [
         {
-          "slug": "01-ratio",
+          "slug": "l1",
           "title": {
             "en": "Ratio"
           }
         },
         {
-          "slug": "02-percentage-change",
+          "slug": "l2",
           "title": {
             "en": "Percentage Change"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-geometry",
+      "slug": "c2",
       "title": {
         "en": "Geometry"
       },
       "lessons": [
         {
-          "slug": "01-angles",
+          "slug": "l1",
           "title": {
             "en": "Angles"
           }
         },
         {
-          "slug": "02-area",
+          "slug": "l2",
           "title": {
             "en": "Area & Volume"
           }

@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g8-mat-unit-02-geometry-01-angles-quiz",
+      "title": "Quiz: Angles",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq01",
+          "type": "mcq",
+          "question": "Angles in a triangle sum to:",
+          "options": [
+            "90°",
+            "180°",
+            "270°",
+            "360°"
+          ],
+          "answer": "180°",
+          "explanation": "Triangle angle sum."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq02",
+          "type": "true_false",
+          "question": "Angles on a straight line sum to 180°.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Straight line."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq03",
+          "type": "fill_blank",
+          "question": "Angles in a quadrilateral sum to ___°.",
+          "answer": "360",
+          "explanation": "Four-sided sum."
+        },
+        {
+          "id": "g8-mat-unit-02-geometry-01-angles-lq04",
+          "type": "short_answer",
+          "question": "Find the third angle of a triangle with 60° and 70°.",
+          "answer": "50°",
+          "explanation": "180 - 130."
+        }
+      ]
+    }
+  ]
+}

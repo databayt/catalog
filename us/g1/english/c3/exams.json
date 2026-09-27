@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g1",
+    "subject": "english",
+    "chapter": "c3"
+  },
+  "exams": [
+    {
+      "id": "g1-eng-unit-03-writing-exam",
+      "title": "Exam: Writing & Grammar",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq01",
+          "type": "mcq",
+          "question": "A sentence must begin with a:",
+          "options": [
+            "small letter",
+            "capital letter",
+            "number",
+            "comma"
+          ],
+          "answer": "capital letter",
+          "explanation": "Sentences start with capitals."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq02",
+          "type": "true_false",
+          "question": "A telling sentence ends with a period.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Statements end with '.'."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq03",
+          "type": "fill_blank",
+          "question": "A sentence has a naming part and a ___ part.",
+          "answer": "telling",
+          "explanation": "Subject and predicate."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-01-sentences-lq04",
+          "type": "short_answer",
+          "question": "Write a complete sentence about a dog.",
+          "answer": "e.g., 'The dog runs fast.'",
+          "explanation": "Has subject + verb, capital, period."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq01",
+          "type": "mcq",
+          "question": "Which word is a noun?",
+          "options": [
+            "run",
+            "happy",
+            "apple",
+            "quickly"
+          ],
+          "answer": "apple",
+          "explanation": "A noun names a thing."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq02",
+          "type": "true_false",
+          "question": "A verb is an action word.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "e.g., jump, eat."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq03",
+          "type": "fill_blank",
+          "question": "In 'Birds fly', the verb is ___.",
+          "answer": "fly",
+          "explanation": "Action word."
+        },
+        {
+          "id": "g1-eng-unit-03-writing-02-nouns-verbs-lq04",
+          "type": "short_answer",
+          "question": "Give one noun and one verb.",
+          "answer": "Noun: ball; Verb: kick (example).",
+          "explanation": "Naming word + action word."
+        }
+      ]
+    }
+  ]
+}

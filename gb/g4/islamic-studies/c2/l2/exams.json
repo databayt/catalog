@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g4",
+    "subject": "islamic-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "exams": [
+    {
+      "id": "g4-isl-unit-02-seerah-02-akhlaq-quiz",
+      "title": "Quiz: أخلاق النبي ﷺ",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g4-isl-unit-02-seerah-02-akhlaq-lq01",
+          "type": "mcq",
+          "question": "كان النبي ﷺ:",
+          "options": [
+            "حسن الخلق",
+            "قاسياً",
+            "غاضباً",
+            "بخيلاً"
+          ],
+          "answer": "حسن الخلق",
+          "explanation": "الأخلاق."
+        },
+        {
+          "id": "g4-isl-unit-02-seerah-02-akhlaq-lq02",
+          "type": "true_false",
+          "question": "كان النبي ﷺ رحيماً كريماً.",
+          "options": [
+            "صح",
+            "خطأ"
+          ],
+          "answer": true,
+          "explanation": "صفاته."
+        },
+        {
+          "id": "g4-isl-unit-02-seerah-02-akhlaq-lq03",
+          "type": "fill_blank",
+          "question": "قال تعالى: (وإنك لعلى خلق ___).",
+          "answer": "عظيم",
+          "explanation": "مدح أخلاقه."
+        },
+        {
+          "id": "g4-isl-unit-02-seerah-02-akhlaq-lq04",
+          "type": "short_answer",
+          "question": "اذكر خلقاً من أخلاق النبي ﷺ.",
+          "answer": "مثل: الرحمة، الصدق، الكرم.",
+          "explanation": "الأخلاق."
+        }
+      ]
+    }
+  ]
+}

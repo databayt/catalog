@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g8",
+    "subject": "history",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g8-his-unit-02-civil-war-empire-exam",
+      "title": "Exam: Civil War & Empire",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq01",
+          "type": "mcq",
+          "question": "The English Civil War was fought between the King and:",
+          "options": [
+            "Parliament",
+            "France",
+            "Scotland only",
+            "the Church"
+          ],
+          "answer": "Parliament",
+          "explanation": "King vs Parliament."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq02",
+          "type": "true_false",
+          "question": "King Charles I was executed in 1649.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Regicide."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq03",
+          "type": "fill_blank",
+          "question": "Parliament's leader who later ruled was Oliver ___.",
+          "answer": "Cromwell",
+          "explanation": "Lord Protector."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-01-civil-war-lq04",
+          "type": "short_answer",
+          "question": "What was the main cause of the Civil War?",
+          "answer": "A struggle for power between the King and Parliament.",
+          "explanation": "Civil War cause."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq01",
+          "type": "mcq",
+          "question": "The transatlantic slave trade forcibly transported people from:",
+          "options": [
+            "Africa",
+            "Antarctica",
+            "Australia",
+            "the Arctic"
+          ],
+          "answer": "Africa",
+          "explanation": "Atlantic slave trade."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq02",
+          "type": "true_false",
+          "question": "The slave trade was eventually abolished in the British Empire.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "1807/1833."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq03",
+          "type": "fill_blank",
+          "question": "Enslaved people were transported across the ___ Ocean.",
+          "answer": "Atlantic",
+          "explanation": "Middle Passage."
+        },
+        {
+          "id": "g8-his-unit-02-civil-war-empire-02-empire-slavery-lq04",
+          "type": "short_answer",
+          "question": "Why is studying the slave trade important?",
+          "answer": "To understand a grave injustice and its lasting impact.",
+          "explanation": "Significance."
+        }
+      ]
+    }
+  ]
+}

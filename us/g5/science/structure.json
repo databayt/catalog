@@ -47,19 +47,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-matter-systems",
+      "slug": "c1",
       "title": {
         "en": "Matter & Its Interactions"
       },
       "lessons": [
         {
-          "slug": "01-conservation-matter",
+          "slug": "l1",
           "title": {
             "en": "Conservation of Matter"
           }
         },
         {
-          "slug": "02-mixtures",
+          "slug": "l2",
           "title": {
             "en": "Mixtures & Solutions"
           }
@@ -67,19 +67,19 @@
       ]
     },
     {
-      "slug": "02-ecosystems",
+      "slug": "c2",
       "title": {
         "en": "Ecosystems & Energy Flow"
       },
       "lessons": [
         {
-          "slug": "01-food-webs",
+          "slug": "l1",
           "title": {
             "en": "Food Webs"
           }
         },
         {
-          "slug": "02-water-cycle",
+          "slug": "l2",
           "title": {
             "en": "The Water Cycle"
           }

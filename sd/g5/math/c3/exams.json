@@ -1,0 +1,138 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g5",
+    "subject": "math",
+    "chapter": "c3"
+  },
+  "exams": [
+    {
+      "id": "g5-mat-unit-03-quiz",
+      "title": "اختبار - الكسور العشرية والعمليات عليها",
+      "durationMinutes": 20,
+      "totalMarks": 10,
+      "questions": [
+        {
+          "id": "g5-mat-unit-03-01-decimal-concept-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-01-decimal-concept-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-03-02-decimal-places-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-02-decimal-places-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-03-03-comparing-decimals-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-03-comparing-decimals-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-03-04-adding-decimals-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-04-adding-decimals-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        },
+        {
+          "id": "g5-mat-unit-03-05-subtracting-decimals-q01",
+          "type": "mcq",
+          "question": "ما قيمة الكسر 3/4 كعدد عشري؟",
+          "options": [
+            "0.75",
+            "0.34",
+            "0.43",
+            "0.25"
+          ],
+          "answer": "0.75",
+          "explanation": "3 ÷ 4 = 0.75."
+        },
+        {
+          "id": "g5-mat-unit-03-05-subtracting-decimals-q02",
+          "type": "true_false",
+          "question": "الكسر 1/2 يساوي 0.5.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "1 ÷ 2 = 0.5."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g12",
+    "subject": "math",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq01",
+      "type": "mcq",
+      "question": "A limit describes a function's value as x:",
+      "options": [
+        "equals a point",
+        "approaches a value",
+        "is deleted",
+        "is squared"
+      ],
+      "answer": "approaches a value",
+      "explanation": "Limit concept."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq02",
+      "type": "true_false",
+      "question": "Limits are foundational to calculus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Basis of derivatives/integrals."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq03",
+      "type": "fill_blank",
+      "question": "The limit of f(x)=x as x→3 is ___.",
+      "answer": "3",
+      "explanation": "Direct substitution."
+    },
+    {
+      "id": "g12-mat-unit-02-functions-limits-02-limits-lq04",
+      "type": "short_answer",
+      "question": "Why study limits before calculus?",
+      "answer": "They define continuity, derivatives, and integrals.",
+      "explanation": "Limit importance."
+    }
+  ]
+}

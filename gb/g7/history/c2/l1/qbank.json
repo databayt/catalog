@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g7",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "questions": [
+    {
+      "id": "g7-his-unit-02-medieval-church-01-church-power-lq01",
+      "type": "mcq",
+      "question": "Most people in medieval England were:",
+      "options": [
+        "Christian",
+        "atheist",
+        "scientists",
+        "explorers"
+      ],
+      "answer": "Christian",
+      "explanation": "Catholic Church central."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-01-church-power-lq02",
+      "type": "true_false",
+      "question": "The medieval Church was very wealthy and powerful.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Land and influence."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-01-church-power-lq03",
+      "type": "fill_blank",
+      "question": "The head of the medieval Western Church was the ___.",
+      "answer": "Pope",
+      "explanation": "Papal authority."
+    },
+    {
+      "id": "g7-his-unit-02-medieval-church-01-church-power-lq04",
+      "type": "short_answer",
+      "question": "Why was the Church powerful in the Middle Ages?",
+      "answer": "It controlled belief, education, land and influenced kings.",
+      "explanation": "Church power."
+    }
+  ]
+}

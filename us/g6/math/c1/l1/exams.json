@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g6",
+    "subject": "math",
+    "chapter": "c1",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g6-mat-unit-01-ratios-rates-01-ratios-quiz",
+      "title": "Quiz: Understanding Ratios",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq01",
+          "type": "mcq",
+          "question": "The ratio of 6 boys to 9 girls in simplest form is:",
+          "options": [
+            "6:9",
+            "2:3",
+            "3:2",
+            "1:2"
+          ],
+          "answer": "2:3",
+          "explanation": "Divide both by 3."
+        },
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq02",
+          "type": "true_false",
+          "question": "A ratio of 4:2 is equivalent to 2:1.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Divide both by 2."
+        },
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq03",
+          "type": "fill_blank",
+          "question": "If the ratio of cats to dogs is 3:5 and there are 9 cats, there are ___ dogs.",
+          "answer": "15",
+          "explanation": "3:5 = 9:15."
+        },
+        {
+          "id": "g6-mat-unit-01-ratios-rates-01-ratios-lq04",
+          "type": "short_answer",
+          "question": "What does the ratio 2:1 mean?",
+          "answer": "Two of the first quantity for every one of the second.",
+          "explanation": "Ratio meaning."
+        }
+      ]
+    }
+  ]
+}

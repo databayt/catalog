@@ -55,19 +55,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-atomic",
+      "slug": "c1",
       "title": {
         "en": "Atomic Structure & the Periodic Table"
       },
       "lessons": [
         {
-          "slug": "01-atom",
+          "slug": "l1",
           "title": {
             "en": "Structure of the Atom"
           }
         },
         {
-          "slug": "02-periodic-table",
+          "slug": "l2",
           "title": {
             "en": "The Periodic Table"
           }
@@ -75,19 +75,19 @@
       ]
     },
     {
-      "slug": "02-bonding-reactions",
+      "slug": "c2",
       "title": {
         "en": "Bonding & Reactions"
       },
       "lessons": [
         {
-          "slug": "01-bonding",
+          "slug": "l1",
           "title": {
             "en": "Chemical Bonding"
           }
         },
         {
-          "slug": "02-reactions",
+          "slug": "l2",
           "title": {
             "en": "Chemical Reactions"
           }

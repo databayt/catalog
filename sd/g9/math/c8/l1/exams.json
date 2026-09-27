@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c8",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-08-01-volume-concept-lquiz",
+      "title": "اختبار درس - مفهوم الحجم ووحدة قياسه",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-08-01-volume-concept-lq01",
+          "type": "mcq",
+          "question": "أي العمليات الحسابية التالية صحيحة؟",
+          "options": [
+            "15 ÷ 3 = 5",
+            "15 ÷ 3 = 6",
+            "15 ÷ 3 = 4",
+            "15 ÷ 3 = 3"
+          ],
+          "answer": "15 ÷ 3 = 5",
+          "explanation": "15 ÷ 3 = 5 صحيحة."
+        },
+        {
+          "id": "g9-mat-unit-08-01-volume-concept-lq02",
+          "type": "true_false",
+          "question": "الأعداد السالبة تقع على يسار الصفر في خط الأعداد.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "الأعداد السالبة على يسار الصفر."
+        },
+        {
+          "id": "g9-mat-unit-08-01-volume-concept-lq03",
+          "type": "fill_blank",
+          "question": "ناتج 7 × 8 = ___.",
+          "answer": "56",
+          "explanation": "7 × 8 = 56."
+        },
+        {
+          "id": "g9-mat-unit-08-01-volume-concept-lq04",
+          "type": "short_answer",
+          "question": "ما القانون المستخدم لحل الفصل 8 في مادة الرياضيات؟",
+          "answer": "يعتمد على القوانين الأساسية للمادة المدروسة في هذا الفصل.",
+          "explanation": "كل فصل له قوانينه الخاصة."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-c8-l1-1",
+      "title": "مفهوم الحجم ووحدة قياسه",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "f1870cd4",
+          "type": "mcq",
+          "question": "ما حجم متوازي المستطيلات بأبعاد 2، 3، 4؟",
+          "options": [
+            "9",
+            "12",
+            "24",
+            "32"
+          ],
+          "answer": "24",
+          "explanation": "الحجم = 2 × 3 × 4 = 24"
+        },
+        {
+          "id": "7c74db8d",
+          "type": "fill_blank",
+          "question": "حجم المكعب بضلع 5 سم = ___ سم³",
+          "answer": "125",
+          "explanation": "حجم المكعب = 5³ = 125"
+        },
+        {
+          "id": "6dfd942f",
+          "type": "true_false",
+          "question": "حجم الأسطوانة = πr²h",
+          "answer": true,
+          "explanation": "هذه صيغة حجم الأسطوانة الصحيحة"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g5",
+    "subject": "social-studies",
+    "chapter": "c2",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g5-soc-unit-02-us-geography-02-movement-people-lq01",
+      "type": "mcq",
+      "question": "Westward movement of settlers was called westward:",
+      "options": [
+        "expansion",
+        "shrinking",
+        "freezing",
+        "ending"
+      ],
+      "answer": "expansion",
+      "explanation": "Manifest Destiny era."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-02-movement-people-lq02",
+      "type": "true_false",
+      "question": "Geography influenced where people settled.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Settlement patterns."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-02-movement-people-lq03",
+      "type": "fill_blank",
+      "question": "People who move to a new country are ___.",
+      "answer": "immigrants",
+      "explanation": "Immigration."
+    },
+    {
+      "id": "g5-soc-unit-02-us-geography-02-movement-people-lq04",
+      "type": "short_answer",
+      "question": "Why did people move west in US history?",
+      "answer": "For land, opportunity and resources.",
+      "explanation": "Westward expansion."
+    }
+  ]
+}

@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-plants",
+      "slug": "c1",
       "title": {
         "en": "Plants"
       },
       "lessons": [
         {
-          "slug": "01-plant-parts",
+          "slug": "l1",
           "title": {
             "en": "Parts of a Plant"
           }
         },
         {
-          "slug": "02-seasons",
+          "slug": "l2",
           "title": {
             "en": "Seasonal Changes"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-animals",
+      "slug": "c2",
       "title": {
         "en": "Animals, Including Humans"
       },
       "lessons": [
         {
-          "slug": "01-animal-groups",
+          "slug": "l1",
           "title": {
             "en": "Animal Groups"
           }
         },
         {
-          "slug": "02-senses",
+          "slug": "l2",
           "title": {
             "en": "The Five Senses"
           }

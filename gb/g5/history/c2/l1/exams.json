@@ -1,0 +1,58 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g5",
+    "subject": "history",
+    "chapter": "c2",
+    "lesson": "l1"
+  },
+  "exams": [
+    {
+      "id": "g5-his-unit-02-early-islamic-01-baghdad-quiz",
+      "title": "Quiz: Baghdad, c. AD 900",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq01",
+          "type": "mcq",
+          "question": "A great centre of learning in early Islamic civilisation was:",
+          "options": [
+            "Baghdad",
+            "London",
+            "Rome",
+            "Paris"
+          ],
+          "answer": "Baghdad",
+          "explanation": "House of Wisdom."
+        },
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq02",
+          "type": "true_false",
+          "question": "Scholars in Baghdad made advances in maths and medicine.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Golden Age."
+        },
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq03",
+          "type": "fill_blank",
+          "question": "The centre of learning in Baghdad was the House of ___.",
+          "answer": "Wisdom",
+          "explanation": "Bayt al-Hikma."
+        },
+        {
+          "id": "g5-his-unit-02-early-islamic-01-baghdad-lq04",
+          "type": "short_answer",
+          "question": "Why was early Islamic civilisation important?",
+          "answer": "It preserved and advanced knowledge in science, maths and medicine.",
+          "explanation": "Golden Age."
+        }
+      ]
+    }
+  ]
+}

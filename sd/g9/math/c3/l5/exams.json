@@ -1,0 +1,93 @@
+{
+  "scope": {
+    "curriculum": "sd",
+    "grade": "g9",
+    "subject": "math",
+    "chapter": "c3",
+    "lesson": "l5"
+  },
+  "exams": [
+    {
+      "id": "g9-mat-unit-03-05-elimination-method-lquiz",
+      "title": "اختبار درس - الطريقة الثانية: طريقة الحذف بالمقابلة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "totalMarks": 4,
+      "questions": [
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-lq01",
+          "type": "mcq",
+          "question": "ما حل المعادلة 2x + 6 = 14?",
+          "options": [
+            "x = 4",
+            "x = 10",
+            "x = 7",
+            "x = 3"
+          ],
+          "answer": "x = 4",
+          "explanation": "2x = 14 - 6 = 8, x = 4."
+        },
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-lq02",
+          "type": "true_false",
+          "question": "المعادلة x² = 9 لها حلان هما x = 3 وx = -3.",
+          "options": [
+            "صحيح",
+            "خاطئ"
+          ],
+          "answer": true,
+          "explanation": "المعادلة التربيعية x²=9 تعطي x=±3."
+        },
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-lq03",
+          "type": "fill_blank",
+          "question": "حل المعادلة x - 5 = 10 هو x = ___.",
+          "answer": "15",
+          "explanation": "x = 10 + 5 = 15."
+        },
+        {
+          "id": "g9-mat-unit-03-05-elimination-method-lq04",
+          "type": "short_answer",
+          "question": "كيف تحل المعادلة 3x - 9 = 0؟",
+          "answer": "3x = 9، x = 3",
+          "explanation": "نضيف 9 للطرفين ثم نقسم على 3."
+        }
+      ]
+    },
+    {
+      "id": "sd-g9-math-c3-l5-1",
+      "title": "الطريقة الثانية: طريقة الحذف بالمقابلة",
+      "kind": "quiz",
+      "durationMinutes": 10,
+      "questions": [
+        {
+          "id": "fb2976f2",
+          "type": "mcq",
+          "question": "في المستوى الديكارتي، كم عدد المحاور؟",
+          "options": [
+            "واحد",
+            "اثنان",
+            "ثلاثة",
+            "أربعة"
+          ],
+          "answer": "اثنان",
+          "explanation": "المستوى الديكارتي يحتوي على محور x ومحور y"
+        },
+        {
+          "id": "f2f665cc",
+          "type": "fill_blank",
+          "question": "النقطة (3, 5) تقع في الربع ___",
+          "answer": "الأول",
+          "explanation": "الإحداثيات موجبة، إذاً النقطة في الربع الأول"
+        },
+        {
+          "id": "f0021948",
+          "type": "true_false",
+          "question": "معادلة الخط المستقيم ax + by + c = 0 من الدرجة الأولى في متغيرين",
+          "answer": true,
+          "explanation": "هذه الصيغة العامة للمعادلة الخطية في متغيرين"
+        }
+      ]
+    }
+  ]
+}

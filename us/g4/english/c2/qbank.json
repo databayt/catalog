@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g4",
+    "subject": "english",
+    "chapter": "c2"
+  },
+  "questions": [
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq01",
+      "type": "mcq",
+      "question": "Context clues help you find a word's:",
+      "options": [
+        "spelling",
+        "meaning",
+        "syllables",
+        "rhyme"
+      ],
+      "answer": "meaning",
+      "explanation": "Surrounding words hint meaning."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq02",
+      "type": "true_false",
+      "question": "Nearby sentences can define an unknown word.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Context provides clues."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq03",
+      "type": "fill_blank",
+      "question": "Using surrounding words to find meaning uses context ___.",
+      "answer": "clues",
+      "explanation": "Context clues."
+    },
+    {
+      "id": "g4-eng-unit-02-language-01-context-clues-lq04",
+      "type": "short_answer",
+      "question": "Name one type of context clue.",
+      "answer": "e.g., a definition, example, or synonym in the sentence.",
+      "explanation": "Clue types."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq01",
+      "type": "mcq",
+      "question": "The prefix 're-' means:",
+      "options": [
+        "not",
+        "again",
+        "before",
+        "without"
+      ],
+      "answer": "again",
+      "explanation": "'redo' = do again."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq02",
+      "type": "true_false",
+      "question": "The suffix '-less' means without.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "'fearless' = without fear."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq03",
+      "type": "fill_blank",
+      "question": "'un-' + 'happy' = ___.",
+      "answer": "unhappy",
+      "explanation": "Prefix changes meaning."
+    },
+    {
+      "id": "g4-eng-unit-02-language-02-prefixes-suffixes-lq04",
+      "type": "short_answer",
+      "question": "How do prefixes change a word?",
+      "answer": "They add meaning to the start of a base word.",
+      "explanation": "Word-part meaning."
+    }
+  ]
+}

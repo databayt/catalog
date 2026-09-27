@@ -1,0 +1,86 @@
+{
+  "scope": {
+    "curriculum": "us",
+    "grade": "g7",
+    "subject": "english",
+    "chapter": "c1"
+  },
+  "questions": [
+    {
+      "id": "g7-eng-unit-01-reading-01-inference-lq01",
+      "type": "mcq",
+      "question": "An inference combines text clues with:",
+      "options": [
+        "random guesses",
+        "prior knowledge",
+        "the title only",
+        "page count"
+      ],
+      "answer": "prior knowledge",
+      "explanation": "Clues + knowledge."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-01-inference-lq02",
+      "type": "true_false",
+      "question": "Authors can imply ideas without stating them.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Implicit meaning."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-01-inference-lq03",
+      "type": "fill_blank",
+      "question": "Drawing a conclusion from clues is making an ___.",
+      "answer": "inference",
+      "explanation": "Inferring."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-01-inference-lq04",
+      "type": "short_answer",
+      "question": "How do you support an inference?",
+      "answer": "Cite specific text evidence.",
+      "explanation": "Evidence-based."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-02-author-purpose-lq01",
+      "type": "mcq",
+      "question": "Writing meant to convince is mainly to:",
+      "options": [
+        "entertain",
+        "persuade",
+        "describe",
+        "list"
+      ],
+      "answer": "persuade",
+      "explanation": "Persuasive purpose."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-02-author-purpose-lq02",
+      "type": "true_false",
+      "question": "Point of view affects how a story is told.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": true,
+      "explanation": "Perspective matters."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-02-author-purpose-lq03",
+      "type": "fill_blank",
+      "question": "PIE stands for persuade, inform, and ___.",
+      "answer": "entertain",
+      "explanation": "Author's purposes."
+    },
+    {
+      "id": "g7-eng-unit-01-reading-02-author-purpose-lq04",
+      "type": "short_answer",
+      "question": "How can you tell an author's purpose?",
+      "answer": "Look at word choice, tone, and the type of text.",
+      "explanation": "Purpose clues."
+    }
+  ]
+}

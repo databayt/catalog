@@ -39,19 +39,19 @@
   ],
   "chapters": [
     {
-      "slug": "01-tectonics",
+      "slug": "c1",
       "title": {
         "en": "Tectonic Hazards"
       },
       "lessons": [
         {
-          "slug": "01-earthquakes",
+          "slug": "l1",
           "title": {
             "en": "Earthquakes"
           }
         },
         {
-          "slug": "02-volcanoes",
+          "slug": "l2",
           "title": {
             "en": "Volcanoes"
           }
@@ -59,19 +59,19 @@
       ]
     },
     {
-      "slug": "02-weather-climate",
+      "slug": "c2",
       "title": {
         "en": "Weather & Climate"
       },
       "lessons": [
         {
-          "slug": "01-weather-systems",
+          "slug": "l1",
           "title": {
             "en": "Weather Systems"
           }
         },
         {
-          "slug": "02-climate-change",
+          "slug": "l2",
           "title": {
             "en": "Climate Change"
           }

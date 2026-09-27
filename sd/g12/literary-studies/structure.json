@@ -28,7 +28,7 @@
   ],
   "chapters": [
     {
-      "slug": "01-literary-criticism",
+      "slug": "c1",
       "title": {
         "ar": "النقد",
         "en": "Literary Criticism"
@@ -39,7 +39,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-from-the-history-of-criticism",
+          "slug": "l1",
           "title": {
             "ar": "من تاريخ النقد",
             "en": "From the History of Criticism"
@@ -47,7 +47,7 @@
           "page": 1
         },
         {
-          "slug": "02-examples-of-criticism",
+          "slug": "l2",
           "title": {
             "ar": "نماذج من النقد",
             "en": "Examples of Criticism"
@@ -55,7 +55,7 @@
           "page": 1
         },
         {
-          "slug": "03-text-analysis",
+          "slug": "l3",
           "title": {
             "ar": "تحليل النصوص",
             "en": "Text Analysis"
@@ -63,7 +63,7 @@
           "page": 17
         },
         {
-          "slug": "04-examples-of-analysis",
+          "slug": "l4",
           "title": {
             "ar": "نماذج التحليل",
             "en": "Examples of Analysis"
@@ -71,7 +71,7 @@
           "page": 23
         },
         {
-          "slug": "05-first-example-the-poem-evening",
+          "slug": "l5",
           "title": {
             "ar": "النموذج الأول: قصيدة المساء",
             "en": "First Example: The Poem 'Evening'"
@@ -79,7 +79,7 @@
           "page": 23
         },
         {
-          "slug": "06-second-example-the-poem-the-eagle",
+          "slug": "l6",
           "title": {
             "ar": "النموذج الثاني: قصيدة النسر",
             "en": "Second Example: The Poem 'The Eagle'"
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "slug": "02-a-poet-and-a-poem",
+      "slug": "c2",
       "title": {
         "ar": "شاعر وقصيدة",
         "en": "A Poet and a Poem"
@@ -100,7 +100,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-text-of-the-poem",
+          "slug": "l1",
           "title": {
             "ar": "نص القصيدة",
             "en": "The Text of the Poem"
@@ -108,7 +108,7 @@
           "page": 36
         },
         {
-          "slug": "02-explanation-of-the-poem",
+          "slug": "l2",
           "title": {
             "ar": "شرح القصيدة",
             "en": "Explanation of the Poem"
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "slug": "03-introduction-to-prosody",
+      "slug": "c3",
       "title": {
         "ar": "مقدمة في علم العروض",
         "en": "Introduction to Prosody"
@@ -129,7 +129,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-the-form-of-the-arabic-poem",
+          "slug": "l1",
           "title": {
             "ar": "صورة القصيدة العربية",
             "en": "The Form of the Arabic Poem"
@@ -137,7 +137,7 @@
           "page": 76
         },
         {
-          "slug": "02-the-music-of-poetry",
+          "slug": "l2",
           "title": {
             "ar": "موسيقا الشعر",
             "en": "The Music of Poetry"
@@ -145,7 +145,7 @@
           "page": 82
         },
         {
-          "slug": "03-poetic-metres",
+          "slug": "l3",
           "title": {
             "ar": "بحور الشعر",
             "en": "Poetic Metres"
@@ -153,7 +153,7 @@
           "page": 84
         },
         {
-          "slug": "04-prosodic-notation",
+          "slug": "l4",
           "title": {
             "ar": "الخط العروضي",
             "en": "Prosodic Notation"
@@ -161,7 +161,7 @@
           "page": 85
         },
         {
-          "slug": "05-selected-metres",
+          "slug": "l5",
           "title": {
             "ar": "بحور مختارة",
             "en": "Selected Metres"
@@ -169,7 +169,7 @@
           "page": 90
         },
         {
-          "slug": "06-the-development-of-poetic-music",
+          "slug": "l6",
           "title": {
             "ar": "تطور موسيقا الشعر",
             "en": "The Development of Poetic Music"
@@ -177,7 +177,7 @@
           "page": 103
         },
         {
-          "slug": "07-poetic-licence",
+          "slug": "l7",
           "title": {
             "ar": "من ضرورات الشعر",
             "en": "Poetic Licence"
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "slug": "04-fragments-of-linguistics",
+      "slug": "c4",
       "title": {
         "ar": "شذرات من علم اللغة",
         "en": "Fragments of Linguistics"
@@ -198,7 +198,7 @@
       "lessonsGeneric": false,
       "lessons": [
         {
-          "slug": "01-dictionaries",
+          "slug": "l1",
           "title": {
             "ar": "المعاجم",
             "en": "Dictionaries"
@@ -206,7 +206,7 @@
           "page": 108
         },
         {
-          "slug": "02-the-main-lexicographic-schools",
+          "slug": "l2",
           "title": {
             "ar": "أهم المدارس المعجمية",
             "en": "The Main Lexicographic Schools"
@@ -214,7 +214,7 @@
           "page": 109
         },
         {
-          "slug": "03-the-school-of-alphabetical-order-by-final",
+          "slug": "l3",
           "title": {
             "ar": "مدرسة الترتيب الألفبائي حسب أواخر الكلمات",
             "en": "The School of Alphabetical Order by Final Letters"
@@ -222,7 +222,7 @@
           "page": 111
         },
         {
-          "slug": "04-the-school-of-alphabetical-order-by-initial",
+          "slug": "l4",
           "title": {
             "ar": "مدرسة الترتيب الألفبائي حسب أوائل الكلمات",
             "en": "The School of Alphabetical Order by Initial Letters"

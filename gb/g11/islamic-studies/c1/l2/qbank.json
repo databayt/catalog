@@ -1,0 +1,49 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "islamic-studies",
+    "chapter": "c1",
+    "lesson": "l2"
+  },
+  "questions": [
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq01",
+      "type": "mcq",
+      "question": "التسامح في الإسلام يعني:",
+      "options": [
+        "قبول الآخر والرفق",
+        "العنف",
+        "التعصب",
+        "القطيعة"
+      ],
+      "answer": "قبول الآخر والرفق",
+      "explanation": "التسامح."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq02",
+      "type": "true_false",
+      "question": "العدل قيمة دعا إليها الإسلام.",
+      "options": [
+        "صح",
+        "خطأ"
+      ],
+      "answer": true,
+      "explanation": "العدل."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq03",
+      "type": "fill_blank",
+      "question": "معاملة الناس بإنصاف هو ___.",
+      "answer": "العدل",
+      "explanation": "العدل والإنصاف."
+    },
+    {
+      "id": "g11-isl-unit-01-hadith-values-02-values-lq04",
+      "type": "short_answer",
+      "question": "اذكر قيمة إسلامية وأثرها في المجتمع.",
+      "answer": "مثل: التعاون يقوي روابط المجتمع.",
+      "explanation": "القيم."
+    }
+  ]
+}

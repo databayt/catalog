@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g3",
+    "subject": "computer-science",
+    "chapter": "c1"
+  },
+  "exams": [
+    {
+      "id": "g3-com-unit-01-algorithms-exam",
+      "title": "Exam: Algorithms & Programming",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g3-com-unit-01-algorithms-01-algorithms-lq01",
+          "type": "mcq",
+          "question": "An algorithm is a set of step-by-step:",
+          "options": [
+            "instructions",
+            "colours",
+            "sounds",
+            "prices"
+          ],
+          "answer": "instructions",
+          "explanation": "Algorithm."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-01-algorithms-lq02",
+          "type": "true_false",
+          "question": "Computers follow instructions in order.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Sequence."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-01-algorithms-lq03",
+          "type": "fill_blank",
+          "question": "A clear list of steps to solve a problem is an ___.",
+          "answer": "algorithm",
+          "explanation": "Algorithm."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-01-algorithms-lq04",
+          "type": "short_answer",
+          "question": "Why must algorithm steps be in the right order?",
+          "answer": "Because the computer follows them exactly in sequence.",
+          "explanation": "Sequencing."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-02-programming-lq01",
+          "type": "mcq",
+          "question": "A bug in a program is a(n):",
+          "options": [
+            "error",
+            "insect pet",
+            "colour",
+            "sound"
+          ],
+          "answer": "error",
+          "explanation": "Bug = error."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-02-programming-lq02",
+          "type": "true_false",
+          "question": "Debugging means finding and fixing errors.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Debugging."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-02-programming-lq03",
+          "type": "fill_blank",
+          "question": "Repeating a set of instructions is called a ___.",
+          "answer": "loop",
+          "explanation": "Loops."
+        },
+        {
+          "id": "g3-com-unit-01-algorithms-02-programming-lq04",
+          "type": "short_answer",
+          "question": "What is debugging?",
+          "answer": "Finding and fixing mistakes in a program.",
+          "explanation": "Debugging."
+        }
+      ]
+    }
+  ]
+}

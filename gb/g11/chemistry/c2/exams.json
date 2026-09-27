@@ -1,0 +1,94 @@
+{
+  "scope": {
+    "curriculum": "gb",
+    "grade": "g11",
+    "subject": "chemistry",
+    "chapter": "c2"
+  },
+  "exams": [
+    {
+      "id": "g11-che-unit-02-rates-energy-exam",
+      "title": "Exam: Rates & Energy Changes",
+      "durationMinutes": 30,
+      "totalMarks": 8,
+      "questions": [
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq01",
+          "type": "mcq",
+          "question": "Increasing temperature usually makes a reaction:",
+          "options": [
+            "slower",
+            "faster",
+            "stop",
+            "freeze"
+          ],
+          "answer": "faster",
+          "explanation": "More collisions."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq02",
+          "type": "true_false",
+          "question": "A catalyst speeds up a reaction without being used up.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Catalysis."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq03",
+          "type": "fill_blank",
+          "question": "Increasing concentration increases the ___ of reaction.",
+          "answer": "rate",
+          "explanation": "Rate."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-01-rates-lq04",
+          "type": "short_answer",
+          "question": "Explain rate using collision theory.",
+          "answer": "Faster/more frequent successful collisions increase the rate.",
+          "explanation": "Collision theory."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-02-energy-lq01",
+          "type": "mcq",
+          "question": "A reaction that releases heat is:",
+          "options": [
+            "endothermic",
+            "exothermic",
+            "neutral",
+            "frozen"
+          ],
+          "answer": "exothermic",
+          "explanation": "Releases energy."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-02-energy-lq02",
+          "type": "true_false",
+          "question": "Endothermic reactions take in energy from the surroundings.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": true,
+          "explanation": "Absorb heat."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-02-energy-lq03",
+          "type": "fill_blank",
+          "question": "Combustion is an ___ reaction.",
+          "answer": "exothermic",
+          "explanation": "Releases heat."
+        },
+        {
+          "id": "g11-che-unit-02-rates-energy-02-energy-lq04",
+          "type": "short_answer",
+          "question": "Give one example of an endothermic process.",
+          "answer": "e.g., thermal decomposition or dissolving certain salts.",
+          "explanation": "Endothermic."
+        }
+      ]
+    }
+  ]
+}
