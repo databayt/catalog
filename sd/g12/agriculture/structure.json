@@ -31,6 +31,16 @@
     "edition": "مبادئ الإنتاج الزراعي والحيواني — الصف الثالث الثانوي — الطبعة الثانية المنقحة ٢٠٠٩م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية المنقحة ٢٠٠٩م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: NCERD Bakht er-Ruda, «الطبعة الثانية المنقحة ٢٠٠٩م»; no ISBN or legal deposit printed on p2/p3/p149",
+    "pdfSha256": "53ee70414df9092ca94b4f2d29465838d63f20b33a9695a0e2c62bea62352689",
+    "pages": 149,
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book",
     "note": "2026-09-06: unit-1 lesson 07 page corrected from the book (39); l05/l06 split at the book's ثانيا: الفواكه (p33–34 / p35–38)"

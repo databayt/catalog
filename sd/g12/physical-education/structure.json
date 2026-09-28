@@ -17,6 +17,24 @@
     "edition": "التربية الرياضية — الصف الثالث الثانوي — رقم الإيداع ٧٩٣/٢٠٠٨",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement on p2/p3/p143; رقم الإيداع ٧٩٣/٢٠٠٨ p3 dates it. Imprint p2 prints «بحت الرضا» for بخت الرضا, and الناشرون / الطابعون with no name after them",
+    "pdfSha256": "da763959b07165f7116b34e930b850fef80ee489e4c4216bf309eb974f6cfb2e",
+    "pages": 143,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/tarbiardia3_1664866475.pdf",
+        "bytes": 6410447,
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Byte-identical to the mdl.edu.sd copy — same file."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

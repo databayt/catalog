@@ -28,7 +28,18 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "≈2006–2008"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "≈2006–2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p3/p196; imprint p3 names وزارة التربية والتعليم / المركز القومي للمناهج والبحث التربوي / بخت الرضا. Dated by series and authoring team, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "44445e40059f7d35780391b5c69ef1ffdfe5273ca12ad3fb384f0f01298fe57d",
+    "pages": 196,
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
   },
   "history": {
     "authoredOn": "2026-09-05"

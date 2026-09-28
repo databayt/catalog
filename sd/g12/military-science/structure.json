@@ -17,6 +17,16 @@
     "edition": "العلوم العسكرية — الصف الثالث الثانوي — الطبعة الثانية ٢٠٠٨م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية – ٢٠٠٨م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الثانية – ٢٠٠٨م»; رقم الإيداع 781/2008 p174",
+    "pdfSha256": "752c557b8520d2b6c86fd4d22c334ae03eecaaa781270ebc8f092287ca971078",
+    "pages": 174,
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

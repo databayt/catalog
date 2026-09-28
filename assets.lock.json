@@ -1,5 +1,5 @@
 {
- "$comment": "Binaries that belong to the catalog but live on the CDN, not in git. Key = CDN key = 'catalog/' + path under curricula/. Maintained by `pnpm assets lock`.",
+ "$comment": "Binaries that belong to the catalog but live on the CDN, not in git. Key = CDN key = 'catalog/' + repo path (the repo mirrors the CDN). Maintained by `pnpm assets lock`.",
  "bucket": "databayt-cdn",
  "cdn": "https://cdn.databayt.org",
  "assets": {

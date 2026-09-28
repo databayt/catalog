@@ -17,6 +17,23 @@
     "edition": "Méthode de Français 3 «Allons-y !» — Livre de l'élève — Bakht er Ruda / CNMRP — édition 2015",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "2015",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p3/p186; p2 credits Centre National des Méthodes et de la Recherche Pédagogique / Bakhterruda with the وزارة التربية والتعليم logo, p186 the Ambassade de France au Soudan. Dated by the 2015 francophonie map on p91 and a 2015-08-11 PDF date, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "f73af9717f33ceb829def298d7e90b5c8732181179c97f45854a1dfebd9f39e6",
+    "pages": 186,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/French3_1678863360.pdf",
+        "bytes": 25432830,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

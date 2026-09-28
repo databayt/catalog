@@ -17,6 +17,24 @@
     "edition": "التربية الإسلامية — الصف الثالث الثانوي — طبعة منقحة ١٤٢٩هـ / ٢٠٠٨م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "طبعة منقحة ١٤٢٩هـ – ٢٠٠٨م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «طبعة منقحة ١٤٢٩هـ – ٢٠٠٨م»; رقم الإيداع ٧٨٢/٢٠٠٨ p180",
+    "pdfSha256": "2368da277877286d63104f4a70da0a77676421053d75ae4decf69b4eba3a1dd7",
+    "pages": 180,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A_1664717789.pdf",
+        "bytes": 2823463,
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Byte-identical to the mdl.edu.sd copy — same file."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

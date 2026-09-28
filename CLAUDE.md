@@ -10,20 +10,25 @@ This is the standalone curriculum repository. Apps (hogwarts first) consume it t
 4. **ASCII kebab-case paths.** Arabic lives in `title.ar`. Chapters and lessons are positional: `c<N>` in book order, `l<N>` within the chapter (validator rule `structure.position`). Titles carry the words.
 5. **Subjects come from `vocab/subjects.json`.** Add an alias rather than a synonym folder.
 6. **Binaries are never committed.** Put them in place, run `pnpm assets lock` and commit the lockfile. Uploading is `pnpm assets push --apply`.
-7. **Replacing a pre-catalog CDN key is opt-in** (`--overwrite` on `assets push` and `publish:cdn`). Keys written before `CATALOG_EPOCH` (`scripts/lib/s3.ts`) belong to other apps, and hogwarts still reads the old `structure.json`/`textbook.md` there until its cutover. Keys the catalog wrote itself update freely.
+7. **Replacing a pre-catalog CDN key is opt-in** (`--overwrite` on `assets push` and `publish:cdn`). Keys written before `CATALOG_EPOCH` (`scripts/lib/s3.ts`) belong to other apps. Keys the catalog wrote itself update freely. Narrow an overwrite with a prefix — `pnpm assets push sd/g12 --overwrite --apply` — so a one-subject fix cannot replace another grade's binaries.
+8. **A subject earns its files, in order: `book` -> `structure` -> `twin` -> `assessment`.** `pnpm validate` says a file is well formed; `pnpm gate` says the subject was allowed to have it. A twin or a question bank under an unverified book is a violation, not a head start. The book gate is bound to the bytes (`verification.pdfSha256` vs `assets.lock.json`), so re-locking a replaced PDF invalidates the verdict and everything under it. Method: `docs/verification.md`. Never hand-write a `verification` block — `pnpm verify` writes it.
 
 ## Commands
 
 | Command                                        | Does                                                 |
 | ---------------------------------------------- | ---------------------------------------------------- |
-| `pnpm validate`                                | the gate: schema, naming, vocabulary, tree, lockfile |
+| `pnpm validate`                                | schema, naming, vocabulary, tree, lockfile           |
+| `pnpm gate [cur] [--grade g] [--enforce lvl]`  | the phase gate: book → structure → twin → assessment |
+| `pnpm verify plan\|sources\|apply`             | the book gate's evidence pass                        |
 | `pnpm index` / `--check`                       | regenerate / check `index.json`                      |
 | `pnpm schema:json` / `--check`                 | regenerate / check `schema/*.schema.json`            |
 | `pnpm assets lock\|status\|push\|pull\|verify` | binaries vs the CDN                                  |
 | `pnpm publish:cdn [--apply] [--overwrite]`     | text → CDN, then a CloudFront invalidation           |
 | `pnpm typecheck`                               | tsc                                                  |
 
-After any content change, run `pnpm validate && pnpm index` and commit the index.
+After any content change, run `pnpm validate && pnpm index && pnpm gate` and commit the index.
+
+CI enforces the gate only over scopes whose books are verified (`.github/workflows/ci.yml`); raise a scope's `--enforce` from `book` to `structure`, `twin`, then `all` as each phase completes it.
 
 ## Infra
 
@@ -34,6 +39,7 @@ After any content change, run `pnpm validate && pnpm index` and commit the index
 ## History
 
 - `scripts/migrate/` holds the one-off 2026-09-27 restructure from `hogwarts/curriculum/`. `renames.json` has every old→new path, slug and DB slug, and drives the consumer cutover. `report.md` records what was kept, renamed, archived and dropped.
-- `docs/history/` holds the build and textbook audit logs from before the move. Paths in them are pre-migration.
+- `docs/history/` holds the build and textbook audit logs from before the move. Paths in them are pre-migration, and their verdicts are history — the checkable record is each subject's `verification` block.
+- `catalog/sd/g12/islamic/` and `catalog/sd/g1/islamic/` are orphaned pre-`CATALOG_EPOCH` prefixes, left serving on purpose: the subjects were renamed to `islamic-studies` and old clients may still hold those URLs. They have no local directory and no lockfile entry, so no tool touches them.
 
 Git: work on `main`, use conventional commits, and never force-push.

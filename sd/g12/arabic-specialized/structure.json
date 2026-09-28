@@ -32,6 +32,24 @@
     "edition": "اللغة العربية الخاصة — الصف الثالث الثانوي — الطبعة الأولى ١٤٢٩هـ / ٢٠٠٨م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ١٤٢٩هـ - ٢٠٠٨م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى / ١٤٢٩هـ - ٢٠٠٨م»",
+    "pdfSha256": "6ee358c7b4dd95ba0c2185f7e2a41ce579312736aaa519a99d69f760336400c3",
+    "pages": 209,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/arabiamotakhasasia3_1678864990.pdf",
+        "bytes": 5121648,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Our 209-page scan is not the mdl.edu.sd copy (5,121,648 B); the local file (3,441,488 B) is the one the page renders and the lockfile agree with."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

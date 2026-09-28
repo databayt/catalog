@@ -32,6 +32,24 @@
     "edition": "العلوم التجارية (التبادل التجاري – المحاسبة المالية – الأسواق المالية) — الصف الثالث الثانوي — الطبعة الثانية المنقحة ٢٠١١م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية المنقحة ٢٠١١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الثانية المنقحــة ٢٠١١م»; ISBN 978-99942-53-06-7 p3; رقم الإيداع 789/2008 p157",
+    "pdfSha256": "62888c7675ac5fb90556efe5067007d194a581546e3cfa16b3aeb790df951c3c",
+    "pages": 157,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A_1664717739.pdf",
+        "bytes": 52467979,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Edition year ٢٠١١ and deposit year 2008 disagree as printed."
+  },
   "textbook": {
     "pageNumbers": "book",
     "note": "2026-09-06: unit-2 lessons 11–12 pages corrected from the book (91, 102); lesson 13 keeps the TOC's 102"

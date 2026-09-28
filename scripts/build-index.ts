@@ -15,6 +15,7 @@ import { existsSync, readdirSync, readFileSync, statSync, writeFileSync } from "
 import { join } from "node:path"
 
 import type { Curriculum, Exams, QBank, Structure } from "../schema/index.ts"
+import { gateReports } from "./lib/gate.ts"
 import { REPO, contentDirs } from "./lib/tree.ts"
 import { gradeOrder } from "./lib/vocab.ts"
 
@@ -29,18 +30,25 @@ const read = <T>(p: string): T => JSON.parse(readFileSync(p, "utf8")) as T
 const dirs = (p: string) =>
   readdirSync(p).filter((n) => !n.startsWith(".") && statSync(join(p, n)).isDirectory())
 
+/**
+ * Questions are counted as DISTINCT ids, not as a sum over files. Chapter- and
+ * subject-level `qbank.json` are roll-ups of the lesson banks beneath them, so the
+ * same question id appears at up to three levels; summing would treble the count.
+ */
 function assessments(dir: string) {
-  let questions = 0
+  const questions = new Set<string>()
   let exams = 0
   const walk = (d: string) => {
     if (existsSync(join(d, "qbank.json")))
-      questions += read<QBank>(join(d, "qbank.json")).questions.length
+      for (const q of read<QBank>(join(d, "qbank.json")).questions) questions.add(q.id)
     if (existsSync(join(d, "exams.json"))) exams += read<Exams>(join(d, "exams.json")).exams.length
     for (const n of dirs(d)) if (/^[cl][1-9]\d*$/.test(n)) walk(join(d, n))
   }
   walk(dir)
-  return { questions, exams }
+  return { questions: questions.size, exams }
 }
+
+const gates = new Map(gateReports().map((r) => [r.id, r.gates]))
 
 const curricula = contentDirs(ROOT).map((cur) => {
   const c = read<Curriculum>(join(ROOT, cur, "curriculum.json"))
@@ -78,6 +86,8 @@ const curricula = contentDirs(ROOT).map((cur) => {
               pages,
               pagesMd,
             },
+            /** The phase gate — see scripts/lib/gate.ts. A consumer should show only what passed. */
+            gates: gates.get(s.id),
           }
         }),
     }))

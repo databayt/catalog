@@ -32,6 +32,16 @@
     "edition": "الجغرافيا والدراسات البيئية — الصف الثالث الثانوي — الطبعة المنقحة ٢٠٠٩م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠٠٩م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة المنقحة ٢٠٠٩ م»; no ISBN or legal deposit printed",
+    "pdfSha256": "b7908e8d195cecc39e69f354f58a202cbbf2cc9570e806150583d88f077148b2",
+    "pages": 230,
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

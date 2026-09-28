@@ -32,6 +32,23 @@
     "edition": "علوم الحاسوب — الصف الثالث الثانوي — الطبعة المنقحة ٢٠١٠م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠١٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة المنقحة ٢٠١٠م»; رقم الإيداع 787/2008 p186",
+    "pdfSha256": "51226e273a74ae626c0ca2aa5a30c77b8f5ca34a54593d332a23169ccbab7489",
+    "pages": 186,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/hasoob3_1678864717.pdf",
+        "bytes": 37449256,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

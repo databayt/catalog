@@ -29,7 +29,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "≈2006"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "≈2006",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p102; imprint p2 names وزارة التعليم العام / المركز القومي للمناهج والبحث التربوي / بخت الرضا. Year from the PDF creation date 2006-12-21, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "f303b35488014151120d0b28245071998a39a7359b928def786ade7be9aca89e",
+    "pages": 102,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/plagawtabeer3_compressed_1678864434.pdf",
+        "bytes": 10348344,
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Byte-identical to the mdl.edu.sd copy — same file, not merely the same edition."
   },
   "history": {
     "authoredOn": "2026-09-05"

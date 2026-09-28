@@ -32,6 +32,23 @@
     "edition": "الفنون والتصميم — الصف الثالث الثانوي — الطبعة المنقحة ٢٠٠٧م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠٠٧م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة المنقحة ٢٠٠٧م»; ISBN «978-99942-53-7-4» p3 (printed one group short of an ISBN-13, as printed); رقم الإيداع 788/2008 p161",
+    "pdfSha256": "4aa5297ef4502654070117c372de57b4017cc5cbaa0630175ce97668dad0c2e8",
+    "pages": 161,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/phnonwatasmim3_compressed_1678860825.pdf",
+        "bytes": 16847380,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

@@ -32,6 +32,23 @@
     "edition": "الرياضيات الأساسية — الصف الثالث الثانوي — أكتوبر ٢٠٠٩م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "أكتوبر ٢٠٠٩م",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement on p2/p3/p164; imprint p3 prints the date «أكتوبر ٢٠٠٩م» under وزارة التعليم العام / المركز القومي للمناهج والبحث التربوي / بخت الرضا",
+    "pdfSha256": "1475753db2db628794607b1dadba52c470687f178e7b9364badfa5554f712cab",
+    "pages": 164,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/riadiatasasia3_1659465577.pdf",
+        "bytes": 1817001,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

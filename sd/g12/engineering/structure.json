@@ -32,6 +32,23 @@
     "edition": "العلوم الهندسية — الصف الثالث الثانوي — بلا تاريخ طبع (ISBN 978-99942-53-15-9، ملف المكتبة ٢٠٠٨)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "≈2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p3/p227; imprint p3 names المركز القومي للمناهج والبحث التربوي / بخت الرضا / التعليم الثانوي. Dated by ISBN 978-99942-53-15-9 and a 2008-08-13 library file, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "2e2419e1727acfadb33373ccd13eca0af0e694bd392131f14dec2e88324ba6eb",
+    "pages": 227,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D9%87%D9%86%D8%AF%D8%B3%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A_1664717581.pdf",
+        "bytes": 15073156,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

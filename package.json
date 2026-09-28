@@ -10,9 +10,15 @@
     "./schema": "./schema/index.ts",
     "./vocab/*": "./vocab/*"
   },
-  "files": ["src", "schema", "vocab"],
+  "files": [
+    "src",
+    "schema",
+    "vocab"
+  ],
   "scripts": {
     "validate": "tsx scripts/validate.ts",
+    "gate": "tsx scripts/gate.ts",
+    "verify": "tsx scripts/verify.ts",
     "index": "tsx scripts/build-index.ts",
     "assets": "tsx scripts/assets.ts",
     "publish:cdn": "tsx scripts/publish.ts",
@@ -31,5 +37,7 @@
     "typescript": "^5.9.0"
   },
   "packageManager": "pnpm@10.24.0",
-  "engines": { "node": ">=22" }
+  "engines": {
+    "node": ">=22"
+  }
 }

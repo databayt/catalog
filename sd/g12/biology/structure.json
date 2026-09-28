@@ -29,7 +29,18 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "revised edition, year not printed (≈2010s)"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "revised edition, year not printed (≈2010s)",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p3/p253; p3 names لجنة إعداد الكتاب وتطويره under المركز القومي للمناهج والبحث التربوي. Scan created 2014-10-12, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "ccb35b67a316a58128d7463c7a09282606667fa2db3e84a16674f3b2128097b7",
+    "pages": 253,
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
   },
   "textbook": {
     "pageNumbers": "book",

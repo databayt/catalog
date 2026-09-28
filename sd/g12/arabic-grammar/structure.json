@@ -29,7 +29,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "≈2006–2008"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "≈2006–2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement, ISBN or legal deposit on p2/p3/p144; imprint p3 names وزارة التعليم العام / المركز القومي للمناهج والبحث التربوي. Year from the PDF creation date 2006-12-21 and the NCERD 2008–11 ISBN block, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "d6f392b057733c31b0dcfeeb4c0937779515bffe944d2e16402d6af8e349d4c9",
+    "pages": 144,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/nahw3_1678863142.pdf",
+        "bytes": 13019589,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Cover reads «قواعد النحو», title page «قواعد اللغة العربية» — the two differ as printed."
   },
   "history": {
     "authoredOn": "2026-09-05"

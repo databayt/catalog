@@ -17,6 +17,24 @@
     "edition": "SPINE 6 — Sudan Practical Integrated National English, Book 6 (177 pp)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "2009",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement; ISBN 978-99942-919-8-9 in a box on p3; رقم الإيداع ٢٣٣/٢٠٠٩ p177 dates it. p2 credits THE NATIONAL CENTRE FOR CURICULUM DEVELOPMENT AND EDUCATIONAL RESEARCH (printed with one r)",
+    "pdfSha256": "03a9d9fa242c4ad886418747658e24c0817c9732739af3c8a58bcc3defa0f6ea",
+    "pages": 177,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/Spine6_1678863249.pdf",
+        "bytes": 4535117,
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "SPINE SERIES: PUPIL'S BOOK 6. Byte-identical to the mdl.edu.sd copy — same file."
+  },
   "textbook": {
     "pageNumbers": "pdf"
   },

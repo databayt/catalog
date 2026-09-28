@@ -17,6 +17,23 @@
     "edition": "دراسات أدبية ولغوية — الصف الثالث الثانوي — بلا تاريخ طبع",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement on p2/p3/p139; ISBN 978-99942-53-03-6 p3 and رقم الإيداع 792/2008 p139 date it. Imprint p2 names وزارة التربية والتعليم / المركز القومي للمناهج والبحث التربوي / بخت الرضا",
+    "pdfSha256": "49138ad43120252dcbe62b99ab9aa45379fd26bdab53c1e06f5e301a056ea11f",
+    "pages": 139,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D8%AF%D8%A8%D9%8A%D8%A9%20%D9%88%D9%84%D8%BA%D9%88%D9%8A%D8%A9_compressed_1678860245.pdf",
+        "bytes": 19086443,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

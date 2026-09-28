@@ -17,6 +17,23 @@
     "edition": "العلوم الأسرية — الصف الثالث الثانوي — ٢٠٠٩م (بطاقة الفهرسة، ISBN 978-99942-53-05-0)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "2009",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement on p2/p3/p168; رقم الإيداع ٧٩٠/٢٠٠٨ p168, and the National Library cataloguing card with ISBN 978-99942-53-05-0 dates it 2009, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "ca5e4b7bb4769ce520301ca449c7745190acc6c47616ebddbdb7bfbd63762c60",
+    "pages": 168,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/alwmaosarai3_1678864608.pdf",
+        "bytes": 10398199,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

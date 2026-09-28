@@ -17,6 +17,24 @@
     "edition": "التربية المسيحية — الصف الثالث الثانوي — رقم الإيداع ٧٨٣/٢٠٠٨",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ١٤٣٠هـ – ٢٠٠٩م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2/p3: «الطبعة الأولى ١٤٣٠هـ – ٢٠٠٩م»; رقم الإيداع ٧٨٣/٢٠٠٨ p3",
+    "pdfSha256": "31e6ba87e97e675aa03096e6c21bd3a7277f8d04a494053600998de633d68372",
+    "pages": 170,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/masyhia3_1678864823.pdf",
+        "bytes": 1260382,
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Edition year ٢٠٠٩ and deposit year ٢٠٠٨ disagree as printed. الناشرون and الطابعون are printed with no name after them. Byte-identical to the mdl.edu.sd copy."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

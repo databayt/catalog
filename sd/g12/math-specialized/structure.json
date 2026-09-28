@@ -32,6 +32,29 @@
     "edition": "الرياضيات المتخصصة — الصف الثالث الثانوي — الكتاب الأول (180 صفحة) + الكتاب الثاني (207 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "≈2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement or legal deposit on p2/p3/p387; ISBN 978-99942-53-18-0 in a box on p3 places it in the NCERD 2008–11 block, corroborated by docs/history/sd-textbook-audit.md (2026-09-04)",
+    "pdfSha256": "5283f260caa9eb52383d98b4f53399bd19f01d1c7cf4fddbf5d3398800a15fc7",
+    "pages": 387,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A7%D9%88%D9%84_1664716566.pdf",
+        "bytes": 14858853,
+        "identical": false
+      },
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%D8%A9%20%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A_1664716637.pdf",
+        "bytes": 11621637,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01",
+    "note": "Two volumes bound into one 387-page scan; p2 titles it «الجزء الأول». mdl.edu.sd serves them as two files (14,858,853 + 11,621,637 B), so a byte match is not expected."
+  },
   "textbook": {
     "pageNumbers": "book",
     "note": "corrected 2026-09-06: lesson pages are the printed book pages (pdf = book + 7 for units 1–5, + 6 from unit 6)"

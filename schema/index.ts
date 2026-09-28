@@ -141,6 +141,46 @@ export const Source = z.strictObject({
   note: z.string().optional(),
 })
 
+/**
+ * The book gate. A subject may not advance to a twin or to assessments until its
+ * textbook has been verified as the latest official edition — and the verdict is
+ * bound to the bytes, so replacing the PDF invalidates it. `scripts/gate.ts` reads
+ * this; `docs/verification.md` records the method.
+ */
+export const Verification = z.strictObject({
+  /** The gate every later phase reads. */
+  book: z.enum(["unverified", "verified", "superseded"]),
+  /** Verbatim from the imprint page; absent when the book prints none. */
+  edition: z.string().optional(),
+  /** Whether `edition` is printed in the book or inferred from ISBN/deposit/PDF dates. */
+  editionBasis: z.enum(["printed", "inferred"]),
+  /** Where the claim comes from: "imprint p2", "legal deposit 785/2008", "ISBN 978-…". */
+  evidence: z.string().min(1),
+  /** Must equal the assets.lock.json sha256 for this subject's textbook.pdf. */
+  pdfSha256: z.string().regex(/^[a-f0-9]{64}$/),
+  /** Must equal the pages/*.webp count. */
+  pages: z.number().int().positive(),
+  /** The circulating copies compared against, and the result. */
+  comparedWith: z
+    .array(
+      z.strictObject({
+        url: z.url(),
+        bytes: z.number().int().positive(),
+        md5: z
+          .string()
+          .regex(/^[a-f0-9]{32}$/)
+          .optional(),
+        identical: z.boolean(),
+      })
+    )
+    .optional(),
+  verifiedOn: IsoDate,
+  /** Sudan's reform cohort reaches g12 in 2027/28 — look again before then. */
+  recheckAfter: IsoDate.optional(),
+  note: z.string().optional(),
+})
+export type Verification = z.infer<typeof Verification>
+
 export const Structure = z.strictObject({
   $schema: z.string().optional(),
   /** `<curriculum>-<grade>-<subject>` — the stable id every app keys on. */
@@ -161,6 +201,8 @@ export const Structure = z.strictObject({
     })
     .optional(),
   source: Source,
+  /** The book gate — see Verification. Absent means unverified. */
+  verification: Verification.optional(),
   textbook: z
     .strictObject({
       /** Whether `page` fields count printed book pages or PDF pages. */

@@ -8,9 +8,10 @@
  *
  *   pnpm assets lock              hash every local binary -> assets.lock.json
  *   pnpm assets status            lockfile vs the bucket: what is missing or differs
- *   pnpm assets push [--apply] [--overwrite]
+ *   pnpm assets push [prefix] [--apply] [--overwrite]
  *                                 upload locked binaries the bucket lacks (dry run by default);
- *                                 --overwrite also replaces live objects that differ
+ *                                 --overwrite also replaces live objects that differ;
+ *                                 a prefix narrows the blast radius (e.g. sd/g12)
  *   pnpm assets pull [prefix]     download locked binaries missing locally (public CDN, no creds)
  *   pnpm assets verify            re-hash local binaries against the lockfile
  *
@@ -32,7 +33,7 @@ import {
 import { dirname, join, relative } from "node:path"
 
 import { BINARY_EXT, keyToPath, pathToKey } from "../src/paths.ts"
-import { BUCKET, CDN, contentType, listPrefix, pool, s3 } from "./lib/s3.ts"
+import { BUCKET, CDN, contentType, invalidate, listPrefix, pool, s3 } from "./lib/s3.ts"
 import { REPO, contentDirs } from "./lib/tree.ts"
 
 const LOCK = join(REPO, "assets.lock.json")
@@ -95,12 +96,14 @@ async function lock() {
   console.log(`locked ${Object.keys(next).length} binaries (${hashed} hashed)`)
 }
 
-async function remoteState() {
+async function remoteState(prefix = "") {
   const { assets } = readLock()
   const remote = await listPrefix("catalog/")
   const missing: string[] = []
   const differs: string[] = []
+  const scope = `catalog/${prefix}`
   for (const [key, e] of Object.entries(assets)) {
+    if (!key.startsWith(scope)) continue
     const r = remote.get(key)
     if (!r) missing.push(key)
     else if (r.size !== e.bytes) differs.push(key)
@@ -108,10 +111,12 @@ async function remoteState() {
   return { assets, remote, missing, differs }
 }
 
-async function status() {
-  const { assets, missing, differs } = await remoteState()
+async function status(prefix: string) {
+  const { missing, differs } = await remoteState(prefix)
+  const { assets } = readLock()
+  const inScope = Object.keys(assets).filter((k) => k.startsWith(`catalog/${prefix}`)).length
   console.log(
-    `${Object.keys(assets).length} locked · ${missing.length} missing on ${BUCKET} · ${differs.length} differ in size`
+    `${inScope} locked${prefix ? ` under ${prefix}` : ""} · ${missing.length} missing on ${BUCKET} · ${differs.length} differ in size`
   )
   for (const k of missing.slice(0, 20)) console.log(`  missing  ${k}`)
   if (missing.length > 20) console.log(`  … ${missing.length - 20} more`)
@@ -119,14 +124,15 @@ async function status() {
   if (differs.length > 20) console.log(`  … ${differs.length - 20} more`)
 }
 
-async function push(apply: boolean, overwrite: boolean) {
-  const { missing, differs } = await remoteState()
+async function push(apply: boolean, overwrite: boolean, prefix: string) {
+  const { missing, differs } = await remoteState(prefix)
   // Replacing a live object is opt-in: it changes what every app serves, and the
   // CDN caches catalog keys as immutable, so it also needs an invalidation.
   const wanted = overwrite ? [...missing, ...differs] : missing
   if (differs.length && !overwrite)
     console.log(
-      `${differs.length} live object(s) differ from the lockfile — pass --overwrite to replace them`
+      `${differs.length} live object(s) differ from the lockfile — pass --overwrite to replace them` +
+        (prefix ? "" : " (narrow the blast radius with a prefix: `pnpm assets push sd/g12 --overwrite`)")
     )
   const todo = wanted.filter((k) => existsSync(join(REPO, keyToPath(k))))
   const absent = wanted.length - todo.length
@@ -154,6 +160,10 @@ async function push(apply: boolean, overwrite: boolean) {
     if (++done % 100 === 0) console.log(`  ${done}/${todo.length}`)
   })
   console.log(`uploaded ${done}`)
+  // A replaced binary is cached `immutable` for a year — without this the edge keeps
+  // serving the old bytes. A brand-new key has nothing cached, so only replacements matter.
+  const replaced = todo.filter((k) => differs.includes(k))
+  if (replaced.length) await invalidate(replaced)
 }
 
 async function pull(prefix: string) {
@@ -207,10 +217,10 @@ switch (cmd) {
     await lock()
     break
   case "status":
-    await status()
+    await status(arg && !arg.startsWith("--") ? arg : "")
     break
   case "push":
-    await push(apply, process.argv.includes("--overwrite"))
+    await push(apply, process.argv.includes("--overwrite"), arg && !arg.startsWith("--") ? arg : "")
     break
   case "pull":
     await pull(arg && !arg.startsWith("--") ? arg : "")
@@ -219,6 +229,8 @@ switch (cmd) {
     await verify()
     break
   default:
-    console.log("usage: pnpm assets <lock|status|push [--apply]|pull [prefix]|verify>")
+    console.log(
+      "usage: pnpm assets <lock|status [prefix]|push [prefix] [--apply] [--overwrite]|pull [prefix]|verify>"
+    )
     process.exit(1)
 }

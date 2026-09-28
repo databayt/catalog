@@ -17,6 +17,23 @@
     "edition": "الدراسات الإسلامية (اختياري) — الصف الثالث الثانوي — الطبعة الثانية المنقحة ٢٠٠٩م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية المنقحة ٢٠٠٩م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الثانية المنقحة ٢٠٠٩م»; ISBN 978-99942-53-21-0 and www.nccer.edu.sd p3; رقم الإيداع 774/2008 p149",
+    "pdfSha256": "05e8b33807e0bfe1ec737da8ef96681e5219ff7143f623b6cc7793a29728a178",
+    "pages": 149,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/drasatislamia3_compressed_1678864947.pdf",
+        "bytes": 2560878,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

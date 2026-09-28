@@ -32,6 +32,23 @@
     "edition": "الفيزياء — الصف الثالث الثانوي — الطبعة الثانية ٢٠٠٥م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية ٢٠٠٥",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الثانية ٢٠٠٥» (printed without م), under مراجعة الطبعة الثانية; no ISBN or legal deposit printed",
+    "pdfSha256": "3087c99760dfa8ab94d71e4c73fc22628652ca9cc1e20f275d48502df6130340",
+    "pages": 218,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/physics3_1678863058.pdf",
+        "bytes": 6295128,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

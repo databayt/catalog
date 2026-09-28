@@ -17,6 +17,23 @@
     "edition": "التاريخ — الصف الثالث الثانوي — الطبعة المنقحة ٢٠٠٩م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠٠٩م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة المنقحة ٢٠٠٩م»; no ISBN or legal deposit printed",
+    "pdfSha256": "cff9ef49c748fcfbd593fbc301ba592ec80488bbaa4e5bda6a516c895d49ed1a",
+    "pages": 276,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/history3_1678863432.pdf",
+        "bytes": 36243545,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

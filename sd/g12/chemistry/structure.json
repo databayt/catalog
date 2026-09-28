@@ -29,7 +29,25 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "2008"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2008",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement on p2/p3/p409; رقم الإيداع 785/2008 on p409 dates it. Imprint p3 names وزارة التعليم العام / المركز القومي للمناهج والبحث التربوي / بخت الرضا",
+    "pdfSha256": "c87a408c4be8a28849d8d98b715ba21528ce1a952155db8b59779d9a659746b5",
+    "pages": 409,
+    "comparedWith": [
+      {
+        "url": "https://mdl.edu.sd/img/bookpdf/%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A1_1664716451.pdf",
+        "bytes": 29833473,
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-09-28",
+    "recheckAfter": "2027-06-01"
   },
   "history": {
     "authoredOn": "2026-09-05"

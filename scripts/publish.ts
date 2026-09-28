@@ -19,14 +19,13 @@
  *   pnpm publish:cdn --apply sd gb          limit to some curricula
  */
 
-import { CloudFrontClient, CreateInvalidationCommand } from "@aws-sdk/client-cloudfront"
 import { DeleteObjectsCommand, PutObjectCommand } from "@aws-sdk/client-s3"
 import { createHash } from "node:crypto"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import { join, relative } from "node:path"
 
 import { pathToKey } from "../src/paths.ts"
-import { BUCKET, DISTRIBUTION, REGION, contentType, listPrefix, pool, s3 } from "./lib/s3.ts"
+import { BUCKET, contentType, invalidate, listPrefix, pool, s3 } from "./lib/s3.ts"
 import { REPO, contentDirs } from "./lib/tree.ts"
 
 const apply = process.argv.includes("--apply")
@@ -127,23 +126,4 @@ for (let i = 0; i < orphans.length; i += 1000) {
 }
 if (orphans.length) console.log(`deleted ${orphans.length} orphan(s)`)
 
-// Collapse to subject-level wildcards (or the file itself above subject level).
-const paths = new Set<string>()
-for (const key of [...changed.map((c) => c.key), ...orphans]) {
-  const parts = key.split("/")
-  paths.add(parts.length > 5 ? `/${parts.slice(0, 4).join("/")}/*` : `/${key}`)
-}
-if (paths.size) {
-  const list = paths.size > 300 ? ["/catalog/*"] : [...paths]
-  const cf = new CloudFrontClient({ region: REGION })
-  const r = await cf.send(
-    new CreateInvalidationCommand({
-      DistributionId: DISTRIBUTION,
-      InvalidationBatch: {
-        CallerReference: `catalog-${Date.now()}`,
-        Paths: { Quantity: list.length, Items: list },
-      },
-    })
-  )
-  console.log(`invalidation ${r.Invalidation?.Id}: ${list.length} path(s)`)
-}
+await invalidate([...changed.map((c) => c.key), ...orphans])

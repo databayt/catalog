@@ -1,6 +1,7 @@
 // Copyright (c) 2025-present databayt
 // Licensed under MIT -- see LICENSE for details
 
+import { CloudFrontClient, CreateInvalidationCommand } from "@aws-sdk/client-cloudfront"
 import { ListObjectsV2Command, S3Client } from "@aws-sdk/client-s3"
 
 /** The CDN origin. Private; read through CloudFront at cdn.databayt.org. */
@@ -59,4 +60,34 @@ export async function pool<T>(items: T[], n: number, fn: (x: T) => Promise<void>
       while (i < items.length) await fn(items[i++]!)
     })
   )
+}
+
+/**
+ * Invalidate the edge for a set of keys. Collapsed to subject-level wildcards (or the
+ * file itself above subject level), and to `/catalog/*` past 300 paths.
+ *
+ * Every replaced object needs this, binaries most of all: they are served
+ * `immutable, max-age=1y`, so without an invalidation a new upload keeps serving the
+ * old bytes from the edge for a year and the fix only looks done.
+ */
+export async function invalidate(keys: string[]): Promise<string | undefined> {
+  const paths = new Set<string>()
+  for (const key of keys) {
+    const parts = key.split("/")
+    paths.add(parts.length > 5 ? `/${parts.slice(0, 4).join("/")}/*` : `/${key}`)
+  }
+  if (!paths.size) return
+  const list = paths.size > 300 ? ["/catalog/*"] : [...paths]
+  const cf = new CloudFrontClient({ region: REGION })
+  const r = await cf.send(
+    new CreateInvalidationCommand({
+      DistributionId: DISTRIBUTION,
+      InvalidationBatch: {
+        CallerReference: `catalog-${Date.now()}`,
+        Paths: { Quantity: list.length, Items: list },
+      },
+    })
+  )
+  console.log(`invalidation ${r.Invalidation?.Id}: ${list.length} path(s)`)
+  return r.Invalidation?.Id
 }
