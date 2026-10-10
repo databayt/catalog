@@ -10072,12 +10072,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 149,
-        "pagesMd": 0
+        "pagesMd": 149
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
@@ -10103,12 +10103,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 144,
-        "pagesMd": 0
+        "pagesMd": 144
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
@@ -10165,12 +10165,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 102,
-        "pagesMd": 0
+        "pagesMd": 102
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
@@ -10723,12 +10723,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 387,
-        "pagesMd": 42
+        "pagesMd": 387
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
