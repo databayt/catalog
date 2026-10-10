@@ -67,6 +67,24 @@ pnpm assets lock                  # after adding or replacing a binary, re-pin i
 pnpm assets push --apply          # upload what the bucket lacks (maintainers)
 ```
 
+## Textbook URLs
+
+Every subject serves its textbook at two URLs, derived from its id and nothing else:
+
+```
+https://cdn.databayt.org/catalog/<curriculum>/<grade>/<subject>/textbook.pdf   the book
+https://cdn.databayt.org/catalog/<curriculum>/<grade>/<subject>/textbook.md    its Markdown twin
+```
+
+For example `sd-g12-biology` → `…/catalog/sd/g12/biology/textbook.pdf` and `…/textbook.md`. That pattern is the whole contract: no URL fields, no override table, no per-book exceptions. Build them with `catalogKey` + `catalogUrl`; from a stored PDF key use `catalogSibling(key, "textbook.md")`. `index.json` records presence (`assets.textbook`, `assets.markdown`); how far a twin can be trusted is in its front matter (`extraction`, `agreement`) and the twin gate.
+
+```bash
+pnpm twins sd --grade g12          # both URLs per subject, extraction, agreement, twin gate (offline)
+pnpm twins sd --grade g12 --cdn    # also checks both URLs answer 200 and the live .md matches the repo
+```
+
+`twins` exits non-zero when a subject is missing either file, or with `--cdn` when the CDN disagrees with the repo. The twins themselves are produced by kun's `textbook` pipeline (vision transcription, blind re-reads, adjudication); see [docs/verification.md](docs/verification.md).
+
 ## Working on it
 
 ```bash
@@ -77,7 +95,7 @@ pnpm schema:json       # regenerate schema/*.schema.json from schema/index.ts
 pnpm publish:cdn       # dry run of the text publish (maintainers add --apply)
 ```
 
-CI runs `validate`, `index --check`, `schema:json --check` and `typecheck` on every push and PR.
+CI runs `validate`, `gate`, `twins`, `index --check`, `schema:json --check` and `typecheck` on every push and PR.
 
 ## Using it from an app
 

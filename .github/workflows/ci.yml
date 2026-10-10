@@ -22,5 +22,8 @@ jobs:
       # raise its `--enforce` to structure, twin, then all as each phase completes.
       - run: pnpm gate --enforce none
       - run: pnpm gate sd --grade g12 --enforce book
+      # The textbook URL contract: every sd g12 subject has a locked textbook.pdf and a
+      # textbook.md at its derived key. Offline here; the textbook loop adds --cdn.
+      - run: pnpm twins sd --grade g12
       - run: pnpm index --check
       - run: pnpm schema:json --check

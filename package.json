@@ -24,7 +24,8 @@
     "publish:cdn": "tsx scripts/publish.ts",
     "schema:json": "tsx scripts/schema-json.ts",
     "typecheck": "tsc --noEmit",
-    "migrate": "tsx scripts/migrate/run.ts"
+    "migrate": "tsx scripts/migrate/run.ts",
+    "twins": "tsx scripts/twins.ts"
   },
   "dependencies": {
     "zod": "^4.1.0"
