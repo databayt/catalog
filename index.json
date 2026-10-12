@@ -10630,12 +10630,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 149,
-        "pagesMd": 0
+        "pagesMd": 149
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
