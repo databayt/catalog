@@ -10196,12 +10196,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 209,
-        "pagesMd": 0
+        "pagesMd": 209
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
