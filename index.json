@@ -10320,12 +10320,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 170,
-        "pagesMd": 0
+        "pagesMd": 170
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
