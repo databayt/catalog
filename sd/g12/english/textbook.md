@@ -24,7 +24,7 @@ notes:
   - "Headline agreement is the RANDOM sample only (24 pages, seed 31); the risk-weighted tail scored 0.9901 over 12 suspect pages and is not part of the grade."
   - "Failure classes on the sample: {'clean':18,'structure':17,'wording':1}. 13 pages repaired by adjudication against the scan; post-repair text is NOT independently re-scored."
   - "Unresolved after adjudication (illegible marker kept): pages 48, 166."
-  - "Table direction verified by right-edge crops; mirrored tables reversed on pages 12, 32, 39, 40, 51, 54, 64, 67, 77, 90, 106, 128, 139, 151, 167, 175."
+  - "Table direction verified by right-edge crops (LTR book): all 17 tables on pages 12, 32, 39, 40, 51, 54, 64, 67, 77, 90, 106, 128, 139, 151, 167, 175 read left-to-right as printed."
 ---
 
 # اللغة الإنجليزية
@@ -233,18 +233,18 @@ A. Copy the table below into your notebook, then go back to passage 1 about 'Tre
 
 ![figure](pages/12.webp)
 
-|  |  |  |  | Nouns ending in ..................... |
+| Nouns ending in ..................... |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ...th | ...ity | ...ion | ...ment | ...tion |
+| ...tion | ...ment | ...ion | ...ity | ...th |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 B. Now do the same thing for adjectives.
 
-|  |  |  |  | Adjectives ending in ........... |
+| Adjectives ending in ........... |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| ...uous | ...d/ed | ...al | ...ive | ...y |
+| ...y | ...ive | ...al | ...d/ed | ...uous |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -705,15 +705,15 @@ thigh, bough, through, although, height, light, weigh
 
 Example: light - bite
 
-| B | A |
+| A | B |
 | --- | --- |
-| a. late | 1. through |
-| b. so | 2. bough |
-| c. say | 3. eight |
-| d. true | 4. high |
-| e. now | 5. neighbour |
-| f. tie | 6. weigh |
-| g. labour | 7. though |
+| 1. through | a. late |
+| 2. bough | b. so |
+| 3. eight | c. say |
+| 4. high | d. true |
+| 5. neighbour | e. now |
+| 6. weigh | f. tie |
+| 7. though | g. labour |
 
 ### ② Grammar Corner: Indirect Questions
 
@@ -890,14 +890,14 @@ Words of Wisdom
 
 Match column A with column B to make an English proverb about work. What do you think the proverbs mean? Do you agree with them?
 
-| B | A |
+| A | B |
 | --- | --- |
-| a make light work. | 1 A bad workman |
-| b what you can do today. | 2 If a job is worth doing |
-| c blames his tools. | 3 Many hands |
-| d makes Jack a dull boy | 4Never put off till tomorrow |
-| g catches the worm. | 5 All work and no play |
-| f it's worth doing well. | 6 The early bird |
+| 1 A bad workman | a make light work. |
+| 2 If a job is worth doing | b what you can do today. |
+| 3 Many hands | c blames his tools. |
+| 4Never put off till tomorrow | d makes Jack a dull boy |
+| 5 All work and no play | g catches the worm. |
+| 6 The early bird | f it's worth doing well. |
 
 <!-- page 40 -->
 
@@ -907,16 +907,16 @@ Find the words which describe things that young people like
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| S | C | I | N | C | I | P | T | S | P |
-| S | S | N | H | Y | P | M | R | P | U |
-| C | D | D | S | A | L | A | A | A | Z |
-| O | K | S | E | M | A | G | V | R | Z |
-| O | E | P | F | G | Y | A | E | T | L |
-| T | F | O | W | H | S | Z | L | I | E |
-| E | H | R | Q | J | T | I | Y | E | S |
-| R | V | T | E | K | R | N | U | S | I |
-| S | F | X | S | D | N | E | I | R | F |
-| K | J | N | O | I | H | S | A | F | O |
+| P | S | T | P | I | C | N | I | C | S |
+| U | P | R | M | P | Y | H | N | S | S |
+| Z | A | A | A | L | A | S | D | D | C |
+| Z | R | V | G | A | M | E | S | K | O |
+| L | T | E | A | Y | G | F | P | E | O |
+| E | I | L | Z | S | H | W | O | F | T |
+| S | E | Y | I | T | J | Q | R | H | E |
+| I | S | U | N | R | K | E | T | V | R |
+| F | R | I | E | N | D | S | X | F | S |
+| O | F | A | S | H | I | O | N | J | K |
 
 If you find 10 or more
 
@@ -1224,12 +1224,12 @@ Thursdays, Fridays, Sundays, holidays?
 
 4. Past tense quiz. Test your knowledge of the past simple tense by completing the table as fast as you can.
 
-|  | eat | caught | catch |
+| catch | caught | eat |  |
 | --- | --- | --- | --- |
-|  | buy |  | run |
-|  | see |  | go |
-|  | worry |  | do |
-|  | invite |  | give |
+| run |  | buy |  |
+| go |  | see |  |
+| do |  | worry |  |
+| give |  | invite |  |
 
 5. Now use the words to make up 'tall stories'. (A 'tall story' is a story which could not possibly be true!)
 
@@ -1290,22 +1290,22 @@ As ........................... as ................................
 
 |  |  |
 | --- | --- |
-| a a lion | 1 bright |
-| b ice | 2 black |
-| c ABC | 3 brave |
-| d dust | 4 busy |
-| e an arrow | 5 clear |
-| f snow | 6 cold |
-| g coal | 7 cunning |
-| h a button | 8 easy |
-| I water | 9 cool |
-| j silk | 10 dry |
-| k a bee | 11 good |
-| l a fox | 12 straight |
-| m gold | 13 strong |
-| n a cucumber | 14 white |
-| o day | 15 weak |
-| p an ox | 16 smooth |
+| 1 bright | a a lion |
+| 2 black | b ice |
+| 3 brave | c ABC |
+| 4 busy | d dust |
+| 5 clear | e an arrow |
+| 6 cold | f snow |
+| 7 cunning | g coal |
+| 8 easy | h a button |
+| 9 cool | I water |
+| 10 dry | j silk |
+| 11 good | k a bee |
+| 12 straight | l a fox |
+| 13 strong | m gold |
+| 14 white | n a cucumber |
+| 15 weak | o day |
+| 16 smooth | p an ox |
 
 <!-- page 55 -->
 
@@ -1510,9 +1510,9 @@ Progress  Education  Specialist
 
 We all like listening to stories or reading them. Some of the most interesting stories are very old. Like many old songs, dances and proverbs, such stories are part of the national culture. They are not only pleasant and amusing stories, but a source of wisdom and good advice as well. Some stories are based on fact. Some are called legends: they are about imaginary heroes and gods. But the most popular stories are about ordinary people, like the short stories about Joha.
 
-| uncountable | countable |
+| countable | uncountable |
 | --- | --- |
-| culture | stories |
+| stories | culture |
 |  |  |
 |  |  |
 
@@ -1594,12 +1594,12 @@ My main hobby is playing the guitar. I usually play classical music but I can al
 
 |  |  |  |
 | --- | --- | --- |
-| my .. is...; I don't ....; Something cannot.... | present simple | describing present habits |
-| I am still ...ing | present continuous | describing continuing habits |
-| used to/when I was .... | past tense | describing past habits |
-| usually, often, etc. | adverbs of frequency | expressing frequency |
-| such as; for example; for instance |  | giving examples |
-| but; and; because... | connectors | joining ideas |
+| describing present habits | present simple | my .. is...; I don't ....; Something cannot.... |
+| describing continuing habits | present continuous | I am still ...ing |
+| describing past habits | past tense | used to/when I was .... |
+| expressing frequency | adverbs of frequency | usually, often, etc. |
+| giving examples |  | such as; for example; for instance |
+| joining ideas | connectors | but; and; because... |
 
 Over to you
 
@@ -1817,9 +1817,9 @@ For example:
 
 landlord/ actor/ bull/ teenager/ musician/ king/ scientist/ aunt/ landlady/ teacher/ hairdresser/ nurse/ cousin/ queen/ person/ doctor/manager/ headmaster/ head teacher/ chairperson/ waiter
 
-| both | female | male |
+| male | female | both |
 | --- | --- | --- |
-| musician | aunt | actor |
+| actor | aunt | musician |
 |  |  |  |
 
 4. Here are some sentences in which the masculine or feminine gender words are underlined. Which of these refer only to men or women and which refer to people in general? Change the general ones into gender neutral words. (Choose from the list of words given below and add others if you need them).
@@ -2119,14 +2119,14 @@ and keep your body at the right temperature. In Sudan, because of the hot weathe
 
 B. *Copy the table below into your notebook. Now go back to the nutrients and read about them carefully to fill in the table.*
 
-| USES | NUTRIENTS |
+| NUTRIENTS | USES |
 | --- | --- |
-|  | Proteins |
-|  | Carbohydrates |
-|  | Fats |
-|  | Vitamins |
-|  | Minerals |
-|  | Water |
+| Proteins |  |
+| Carbohydrates |  |
+| Fats |  |
+| Vitamins |  |
+| Minerals |  |
+| Water |  |
 
 C. *Discuss these questions.*
 
@@ -2566,15 +2566,15 @@ Find the hidden words about food in this box .
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| D | F | S | E | O | T | A | T | O | P |
-| A | I | S | N | A | E | B | O | K | E |
-| T | S | X | R | T | A | E | M | R | P |
-| E | H | B | Q | S | X | Z | A | A | S |
-| S | N | O | M | E | L | N | T | C | I |
-| Z | S | E | G | N | A | R | O | K | C |
-| S | E | O | G | N | A | M | E | D | O |
-| S | E | N | I | D | R | A | S | T | L |
-| Y | R | E | B | M | U | C | U | C | A |
+| P | O | T | A | T | O | E | S | F | D |
+| E | K | O | B | E | A | N | S | I | A |
+| P | R | M | E | A | T | R | X | S | T |
+| S | A | A | Z | X | S | Q | B | H | E |
+| I | C | T | N | L | E | M | O | N | S |
+| C | K | O | R | A | N | G | E | S | Z |
+| O | D | E | M | A | N | G | O | E | S |
+| L | T | S | A | R | D | I | N | E | S |
+| A | C | U | C | U | M | B | E | R | Y |
 
 <!-- page 107 -->
 
@@ -3063,13 +3063,13 @@ C. *Read the text again carefully and answer these questions.*
    d. patting a child's head in Thailand
 5. Find the words or phrases in column A which have the same meaning as those in column B.
 
-| B | A |
+| A | B |
 | --- | --- |
-| bad-mannered | punctual |
-| sign | rude |
-| way | symbol |
-| on time | hard and fast |
-| strict | style |
+| punctual | bad-mannered |
+| rude | sign |
+| symbol | way |
+| hard and fast | on time |
+| style | strict |
 
 D. *Discuss these questions.*
 
@@ -3364,16 +3364,16 @@ Word search around the world!
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| A | Y | N | A | P | A | J | I | A | T |
-| U | E | D | N | A | L | G | N | E | H |
-| S | M | E | O | G | I | O | D | S | A |
-| T | E | N | R | J | B | M | I | D | I |
-| R | N | M | W | K | Y | A | A | F | L |
-| A | K | A | A | D | A | N | A | C | A |
-| L | O | R | Y | N | I | A | P | S | N |
-| I | R | K | L | I | Z | A | R | B | D |
-| A | E | A | I | N | A | Z | N | A | T |
-| L | A | N | B | Q | N | A | D | U | S |
+| T | A | I | J | A | P | A | N | Y | A |
+| H | E | N | G | L | A | N | D | E | U |
+| A | S | D | O | I | G | O | E | M | S |
+| I | D | I | M | B | J | R | N | E | T |
+| L | F | A | A | Y | K | W | M | N | R |
+| A | C | A | N | A | D | A | A | K | A |
+| N | S | P | A | I | N | Y | R | O | L |
+| D | B | R | A | Z | I | L | K | R | I |
+| T | A | N | Z | A | N | I | A | E | A |
+| S | U | D | A | N | Q | B | N | A | L |
 
 <!-- page 140 -->
 
@@ -3630,9 +3630,9 @@ A little, but they always do it well.
 
 <!-- page 151 -->
 
-| C | B | A |
+| A | B | C |
 | --- | --- | --- |
-| a. but I prefer detective stories.<br>b. but I prefer reading.<br>c. but only to people abroad.<br>d. but they always do it well.<br>e. although I used to take 4 spoonfuls.<br>f. but people are trying to plant trees to stop it. | A few,<br>A little, | 1. Do students in your school get a lot of homework?<br>2. Do you read any English novels?<br>3. Is there much desertification in your area?<br>4. Do you watch much TV?<br>5. Do you write many letters to people?<br>6. Do you take a lot of sugar in you tea? |
+| 1. Do students in your school get a lot of homework?<br>2. Do you read any English novels?<br>3. Is there much desertification in your area?<br>4. Do you watch much TV?<br>5. Do you write many letters to people?<br>6. Do you take a lot of sugar in you tea? | A few,<br>A little, | a. but I prefer detective stories.<br>b. but I prefer reading.<br>c. but only to people abroad.<br>d. but they always do it well.<br>e. although I used to take 4 spoonfuls.<br>f. but people are trying to plant trees to stop it. |
 
 3. Ahmed is not happy about what is happening around him. *Complete these sentences to find out what he is complaining about.*
 a. It is a pity that .......... people care about the poor.
@@ -3989,16 +3989,16 @@ B. Adjectives and Nouns
 
 *Complete the following table with the correct noun or adjective.*
 
-| NOUN | ADJECTIVE |
+| ADJECTIVE | NOUN |
 | --- | --- |
-| power |  |
-|  | energetic |
-|  | available |
-| electricity |  |
-|  | natural |
-|  | accessible |
-| importance |  |
-| difference |  |
+|  | power |
+| energetic |  |
+| available |  |
+|  | electricity |
+| natural |  |
+| accessible |  |
+|  | importance |
+|  | difference |
 
 <!-- page 168 -->
 
@@ -4166,16 +4166,16 @@ How many means of transport can you find?
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| H | G | D | F | C | I | X | A | T | B |
-| J | R | O | T | O | M | Q | Y | R | V |
-| E | C | N | A | L | U | B | M | A | S |
-| K | L | K | P | N | S | B | Z | I | C |
-| M | Q | E | K | I | B | I | Y | N | O |
-| T | S | Y | R | R | E | F | P | R | O |
-| R | A | C | S | Z | D | S | J | K | T |
-| A | T | W | N | A | V | O | P | N | E |
-| M | U | Y | R | R | O | L | X | L | R |
-| Y | D | X | B | W | L | E | M | A | C |
+| B | T | A | X | I | C | F | D | G | H |
+| V | R | Y | Q | M | O | T | O | R | J |
+| S | A | M | B | U | L | A | N | C | E |
+| C | I | Z | B | S | N | P | K | L | K |
+| O | N | Y | I | B | I | K | E | Q | M |
+| O | R | P | F | E | R | R | Y | S | T |
+| T | K | J | S | D | Z | S | C | A | R |
+| E | N | P | O | V | A | N | W | T | A |
+| R | L | X | L | O | R | R | Y | U | M |
+| C | A | M | E | L | W | B | X | D | Y |
 
 <!-- page 176: blank -->
 
