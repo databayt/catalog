@@ -10227,12 +10227,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 161,
-        "pagesMd": 0
+        "pagesMd": 161
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
