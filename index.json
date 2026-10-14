@@ -10444,12 +10444,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 177,
-        "pagesMd": 0
+        "pagesMd": 177
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
