@@ -10568,12 +10568,12 @@
         "thumbnail": true,
         "banner": true,
         "pages": 168,
-        "pagesMd": 0
+        "pagesMd": 168
        },
        "gates": {
         "book": true,
         "structure": true,
-        "twin": false,
+        "twin": true,
         "assessment": false
        }
       },
