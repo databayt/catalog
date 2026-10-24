@@ -68,7 +68,7 @@ pnpm sources almualm sd g10 --fetch    # -> .work/verify/sources/almualm-sd-g10.
 
 The script crawls almualm.com from the grade page through the subject page («مادة …») to the book post («كتاب …»). It collects every Google Drive and `wp-content/uploads` PDF in the post, after stripping HTML comments, where older links hide. Each file keeps the label the post gives it: «الكتاب الجديد», «الكتاب القديم», or `only` when the post has one file.
 
-With `--fetch`, the script downloads each file and compares it with our locked PDF in two ways. First it checks md5. Then it compares **visual similarity**: difference hashes of five content pages of ours against theirs, at page offsets −1…+2.
+With `--fetch`, the script downloads each file and compares it with our locked PDF in two ways. First it checks md5. Then it compares **visual similarity**. Five content pages of ours are matched against theirs at page offsets −1…+2. Each page is cropped to its ink and summarised as ink-per-row and ink-per-column (its line layout), and the score is the correlation of those profiles. Cropping matters: the same edition circulates as scans with different page sizes and margins, and a plain image hash scored an identical chemistry page 0.79.
 
 Page counts on their own mislead. almualm's copies are consistently ours plus one promo leaf, so g10 history matched the _old_ copy on page count while it is the new one.
 
@@ -76,10 +76,11 @@ Measured on g10 (2026-10-24), the score separates cleanly:
 
 | Comparison                          | Similarity |
 | ----------------------------------- | ---------- |
-| Same edition, re-saved              | 0.995–1.0  |
-| Another edition of the same subject | 0.60–0.83  |
+| Byte-identical copy | 1.0 |
+| Same edition, another scan (g12 biology, chemistry, history…) | 0.88–0.96 |
+| Another edition of the same subject (incl. g10 history's old edition, which has our page count) | 0.33–0.61 |
 
-In that run, 16 of 18 subjects were the copy almualm calls new or only. english and geography matched nothing, so both imprints must be read. A match is corroboration that goes into `comparedWith`. **The imprint still decides.**
+The match threshold is 0.8. On g10, 16 of 18 books are the copy almualm calls new or only; on g12, all 8 subjects almualm carries match ours. g10 english and geography matched nothing, so both imprints must be read. A match is corroboration that goes into `comparedWith`. **The imprint still decides.**
 
 ## Sources
 

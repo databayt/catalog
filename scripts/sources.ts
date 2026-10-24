@@ -56,9 +56,18 @@ const lock: Record<string, { sha256: string; bytes: number }> = JSON.parse(
   readFileSync(join(REPO, "assets.lock.json"), "utf8")
 ).assets
 
-const get = async (url: string) => {
-  const res = await fetch(encodeURI(decodeURI(url)), { headers: UA, redirect: "follow" })
-  return res.ok ? res.text() : ""
+const get = async (url: string): Promise<string> => {
+  // almualm times out now and then (2026-10-24: one connect timeout killed an all-grades crawl)
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    try {
+      const res = await fetch(encodeURI(decodeURI(url)), { headers: UA, redirect: "follow", signal: AbortSignal.timeout(30_000) })
+      return res.ok ? res.text() : ""
+    } catch (e) {
+      if (attempt === 3) { console.log(`  ! ${decodeURI(url).slice(-60)} — ${String(e).slice(0, 80)}`); return "" }
+      await new Promise((r) => setTimeout(r, 2000 * attempt))
+    }
+  }
+  return ""
 }
 const hrefs = (html: string, re: RegExp) => [...new Set([...html.matchAll(re)].map((m) => m[1]!))]
 const slugText = (url: string) =>
@@ -159,55 +168,73 @@ function pdfPages(file: string): number | undefined {
   }
 }
 
-/** Difference hash of one page: 17x16 grey render (pdftoppm), 256 bits, cached per file+page. */
-const hashCache = new Map<string, boolean[] | null>()
-function pageHash(file: string, page: number): boolean[] | null {
+/**
+ * Line-layout profile of one page's PRINTED CONTENT: the page is rendered ~560 px (long side), cropped to the
+ * bounding box of its ink, and summarised as ink-per-row and ink-per-column, each resampled to 96
+ * bins. Cropping + profiles survive what separates two scans of one edition — page size, margins,
+ * scan quality (sd-g12-chemistry: identical p100, a 16x16 hash scored it 0.79-0.83).
+ */
+const profCache = new Map<string, number[] | null>()
+function pageProfile(file: string, page: number): number[] | null {
   const k = `${file}#${page}`
-  if (hashCache.has(k)) return hashCache.get(k)!
-  let bits: boolean[] | null = null
+  if (profCache.has(k)) return profCache.get(k)!
+  let out: number[] | null = null
   try {
-    const root = join(outDir, ".hash", createHash("md5").update(k).digest("hex"))
-    mkdirSync(join(outDir, ".hash"), { recursive: true })
-    execFileSync(
-      "pdftoppm",
-      [
-        "-f",
-        String(page),
-        "-l",
-        String(page),
-        "-gray",
-        "-scale-to-x",
-        "17",
-        "-scale-to-y",
-        "16",
-        "-singlefile",
-        file,
-        root,
-      ],
-      { stdio: "ignore" }
-    )
-    const buf = readFileSync(`${root}.pgm`)
-    // P5\n17 16\n255\n<272 bytes>
-    let off = 0,
-      fields = 0
-    while (fields < 4) {
-      while (buf[off] === 0x20 || buf[off] === 0x0a) off++
-      while (buf[off] !== 0x20 && buf[off] !== 0x0a) off++
-      fields++
+    const root = join(outDir, ".prof", createHash("md5").update(k).digest("hex"))
+    mkdirSync(join(outDir, ".prof"), { recursive: true })
+    const pgm = `${root}.pgm`
+    if (!existsSync(pgm))
+      execFileSync("pdftoppm", ["-f", String(page), "-l", String(page), "-gray", "-scale-to", "560", "-singlefile", file, root], { stdio: "ignore" })
+    const buf = readFileSync(pgm)
+    const head: number[] = []
+    let off = 2
+    while (head.length < 3) {
+      while (buf[off] === 0x20 || buf[off] === 0x0a || buf[off] === 0x0d) off++
+      let n = 0
+      while (buf[off]! >= 0x30 && buf[off]! <= 0x39) n = n * 10 + buf[off++]! - 0x30
+      head.push(n)
     }
+    const [w, h] = head as [number, number]
     const px = buf.subarray(off + 1)
-    bits = []
-    for (let y = 0; y < 16; y++)
-      for (let x = 0; x < 16; x++) bits.push(px[y * 17 + x]! > px[y * 17 + x + 1]!)
+    const ink = (x: number, y: number) => px[y * w + x]! < 160
+    let x0 = w, y0 = h, x1 = -1, y1 = -1
+    for (let y = 0; y < h; y++)
+      for (let x = 0; x < w; x++)
+        if (ink(x, y)) {
+          if (x < x0) x0 = x
+          if (x > x1) x1 = x
+          if (y < y0) y0 = y
+          if (y > y1) y1 = y
+        }
+    if (x1 > x0 + 10 && y1 > y0 + 10) {
+      const rows = new Array(y1 - y0 + 1).fill(0), cols = new Array(x1 - x0 + 1).fill(0)
+      for (let y = y0; y <= y1; y++) for (let x = x0; x <= x1; x++) if (ink(x, y)) { rows[y - y0]++; cols[x - x0]++ }
+      const resample = (v: number[], bins = 96) => {
+        const max = Math.max(...v, 1)
+        return Array.from({ length: bins }, (_, i) => {
+          const t = (i * (v.length - 1)) / (bins - 1), lo = Math.floor(t), hi = Math.min(lo + 1, v.length - 1)
+          return (v[lo]! + (v[hi]! - v[lo]!) * (t - lo)) / max
+        })
+      }
+      out = [...resample(rows), ...resample(cols)]
+    }
   } catch {}
-  hashCache.set(k, bits)
-  return bits
+  profCache.set(k, out)
+  return out
+}
+
+function pearson(a: number[], b: number[]) {
+  const n = a.length, ma = a.reduce((x, y) => x + y) / n, mb = b.reduce((x, y) => x + y) / n
+  let sab = 0, saa = 0, sbb = 0
+  for (let i = 0; i < n; i++) { const da = a[i]! - ma, db = b[i]! - mb; sab += da * db; saa += da * da; sbb += db * db }
+  return saa && sbb ? sab / Math.sqrt(saa * sbb) : 0
 }
 
 /**
- * Visual similarity of two PDFs (0..1): five content pages of ours against theirs at offsets
- * -1..+2 — circulating copies add a promo leaf (almualm: ours + 1 page, consistently).
- * The same edition re-saved scores ~0.95+; a different edition of the subject scores far lower.
+ * Visual similarity of two PDFs (Pearson of the layout profiles, 0..1): five content pages of ours
+ * against theirs at offsets -1..+2 — circulating copies add a promo leaf (almualm: ours + 1 page).
+ * Measured 2026-10-24: byte-identical 1.0 · same edition, another scan 0.90-0.95 · another edition
+ * of the subject 0.34-0.54 (g10 history's OLD edition has OUR page count and still scores 0.54).
  */
 function similarity(ours: string, oursPages: number, theirs: string, theirPages: number) {
   const probes = [0.1, 0.3, 0.5, 0.7, 0.9].map((f) => Math.max(3, Math.round(oursPages * f)))
@@ -217,9 +244,8 @@ function similarity(ours: string, oursPages: number, theirs: string, theirPages:
     for (const p of probes) {
       const q = p + offset
       if (q < 1 || q > theirPages) continue
-      const a = pageHash(ours, p),
-        b = pageHash(theirs, q)
-      if (a && b) scores.push(a.filter((v, i) => v === b[i]).length / a.length)
+      const a = pageProfile(ours, p), b = pageProfile(theirs, q)
+      if (a && b) scores.push(pearson(a, b))
     }
     const s = scores.length ? scores.reduce((x, y) => x + y) / scores.length : 0
     if (s > best.score) best = { score: Math.round(s * 1000) / 1000, offset }
@@ -297,7 +323,8 @@ for (const grade of grades) {
       for (const b of r.books) {
         const file = join(outDir, `${cur}-${grade}-${o.subject}-${b.driveId}.pdf`)
         if (!existsSync(file)) {
-          const res = await fetch(b.url, { headers: UA, redirect: "follow" })
+          const res = await fetch(b.url, { headers: UA, redirect: "follow" }).catch(() => null)
+          if (!res) continue
           if (!res.ok || (res.headers.get("content-type") ?? "").includes("html")) continue // a Drive confirm page, not a file
           writeFileSync(file, Buffer.from(await res.arrayBuffer()))
         }
@@ -310,7 +337,7 @@ for (const grade of grades) {
         }
       }
       // byte-identical, else the visually closest copy at >= 0.9 (page counts alone mislead: +1 promo leaf)
-      const SAME = 0.9
+      const SAME = 0.8
       const match =
         r.books.find((b) => b.md5 === mine.md5) ??
         [...r.books].filter((b) => (b.similarity ?? 0) >= SAME).sort((x, y) => (y.similarity ?? 0) - (x.similarity ?? 0))[0]
