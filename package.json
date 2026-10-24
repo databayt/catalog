@@ -25,7 +25,8 @@
     "schema:json": "tsx scripts/schema-json.ts",
     "typecheck": "tsc --noEmit",
     "migrate": "tsx scripts/migrate/run.ts",
-    "twins": "tsx scripts/twins.ts"
+    "twins": "tsx scripts/twins.ts",
+    "sources": "tsx scripts/sources.ts"
   },
   "dependencies": {
     "zod": "^4.1.0"

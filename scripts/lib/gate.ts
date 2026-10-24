@@ -138,6 +138,12 @@ export function inspect(cur: string, grade: string, subject: string): Report {
   else if (Number(fm.sourcePages) !== v!.pages)
     reasons.push(`twin: front-matter sourcePages ${fm.sourcePages} ≠ ${v!.pages}`)
   else if (!/^[a-f0-9]{32}$/.test(fm.sourceMd5 ?? "")) reasons.push("twin: no sourceMd5 in front matter")
+  // A twin that CLAIMS full coverage must have witnessed every page and settled every disagreement;
+  // a sampled twin (no `coverage`) still passes on the sample until full coverage is required.
+  else if (fm.coverage === "full" && Number(fm.verifiedPages) !== v!.pages)
+    reasons.push(`twin: coverage full but ${fm.verifiedPages ?? "no"} of ${v!.pages} pages witnessed`)
+  else if (fm.coverage === "full" && Number(fm.unsettled) !== 0)
+    reasons.push(`twin: coverage full but ${fm.unsettled ?? "an unknown number of"} pages unsettled`)
   else gates.twin = true
 
   // ---------------------------------------------------------------- assessment

@@ -25,6 +25,7 @@ Three things, and the first is the only one that decides:
    legal-deposit number, an ISBN block or the PDF's own metadata, which `evidence` must
    name. Thirteen of grade 12's twenty-five are `inferred`; that is a property of the
    books, not a weakness in the pass.
+
 2. **Nothing newer is in circulation.** The copies on the circulating libraries and
    aggregators were fetched and measured. `comparedWith` records each URL, its byte
    length, and whether it is identical to ours.
@@ -59,14 +60,35 @@ Imprint pages are read with the `transcribe` agent from the already-rendered
 partially legible year or deposit number. A `[غير مقروء]` in a transcription is a result,
 not a failure.
 
+## Finding the circulating copies — `pnpm sources`
+
+```bash
+pnpm sources almualm sd g10 --fetch    # -> .work/verify/sources/almualm-sd-g10.json (+ the PDFs)
+```
+
+The script crawls almualm.com from the grade page through the subject page («مادة …») to the book post («كتاب …»). It collects every Google Drive and `wp-content/uploads` PDF in the post, after stripping HTML comments, where older links hide. Each file keeps the label the post gives it: «الكتاب الجديد», «الكتاب القديم», or `only` when the post has one file.
+
+With `--fetch`, the script downloads each file and compares it with our locked PDF in two ways. First it checks md5. Then it compares **visual similarity**: difference hashes of five content pages of ours against theirs, at page offsets −1…+2.
+
+Page counts on their own mislead. almualm's copies are consistently ours plus one promo leaf, so g10 history matched the _old_ copy on page count while it is the new one.
+
+Measured on g10 (2026-10-24), the score separates cleanly:
+
+| Comparison                          | Similarity |
+| ----------------------------------- | ---------- |
+| Same edition, re-saved              | 0.995–1.0  |
+| Another edition of the same subject | 0.60–0.83  |
+
+In that run, 16 of 18 subjects were the copy almualm calls new or only. english and geography matched nothing, so both imprints must be read. A match is corroboration that goes into `comparedWith`. **The imprint still decides.**
+
 ## Sources
 
-| Source | What it is | Use |
-| --- | --- | --- |
-| the scan's own imprint page | the book | the verdict |
-| `mdl.edu.sd` (مكتبة الميزاب الرقمية) | a non-profit digital library on the `.edu.sd` domain — **not** the ministry | primary corroboration; has a grade-12 shelf, and 5 of our 25 files are byte-identical to its copies |
-| afedne.com, alktab24.com, al-amgaad.com, almualm.com, almasarplus.com | aggregators, mostly Google Drive folders | secondary; their "الطبعة الجديدة 2026" labels are marketing on old books and prove nothing |
-| the Khartoum-state ministry's own statements | curriculum status, not files | why a book is or is not superseded |
+| Source                                                                | What it is                                                                  | Use                                                                                                 |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| the scan's own imprint page                                           | the book                                                                    | the verdict                                                                                         |
+| `mdl.edu.sd` (مكتبة الميزاب الرقمية)                                  | a non-profit digital library on the `.edu.sd` domain — **not** the ministry | primary corroboration; has a grade-12 shelf, and 5 of our 25 files are byte-identical to its copies |
+| afedne.com, alktab24.com, al-amgaad.com, almualm.com, almasarplus.com | aggregators, mostly Google Drive folders                                    | secondary; their "الطبعة الجديدة 2026" labels are marketing on old books and prove nothing          |
+| the Khartoum-state ministry's own statements                          | curriculum status, not files                                                | why a book is or is not superseded                                                                  |
 
 ## When to look again
 

@@ -75,6 +75,8 @@ export type Twin = {
   extraction: string
   agreement: number | null
   agreementSample: number | null
+  /** "full" when every page had an independent witness (kun textbook coverage:"full"), else "sample". */
+  coverage: "full" | "sample" | ""
   quality: string
   pages: number | null
   pagesMd: number
@@ -115,6 +117,7 @@ for (const r of reports) {
       (fm.generator?.includes("tesseract") ? "ocr" : fm.generator ? "text-layer" : "none"),
     agreement: num(fm.agreement),
     agreementSample: num(fm.agreementSample),
+    coverage: fm.coverage === "full" ? "full" : fm.extraction === "vision" ? "sample" : "",
     quality: fm.quality ?? "",
     pages: structure.verification?.pages ?? null,
     pagesMd: existsSync(pagesMdDir)
@@ -163,6 +166,7 @@ const summary = {
   pdf: twins.filter((t) => t.pdf.locked).length,
   md: twins.filter((t) => t.md.exists).length,
   vision: twins.filter((t) => t.extraction === "vision").length,
+  full: twins.filter((t) => t.coverage === "full").length,
   twinGate: twins.filter((t) => t.twinGate).length,
   ...(cdn
     ? {
@@ -189,7 +193,7 @@ else {
   const w = Math.max(28, ...twins.map((t) => t.id.length))
   const yes = (b: boolean | undefined) => (b === undefined ? "  " : b ? "✅" : "❌")
   console.log(
-    `${"subject".padEnd(w)}  pdf md  ${cdn ? "live  sync " : ""}extraction  agree   pages-md  twin`
+    `${"subject".padEnd(w)}  pdf md  ${cdn ? "live  sync " : ""}extraction  agree   cov     pages-md  twin`
   )
   for (const t of twins)
     console.log(
@@ -199,12 +203,13 @@ else {
         cdn ? ` ${yes(t.pdf.status === 200 && t.md.status === 200)}  ${yes(t.md.published)} ` : "",
         ` ${t.extraction.padEnd(10)}`,
         ` ${t.agreement === null ? "  —  " : t.agreement.toFixed(3)}`,
+        `  ${(t.coverage || "—").padEnd(6)}`,
         ` ${String(t.pagesMd).padStart(4)}/${String(t.pages ?? "?").padEnd(4)}`,
         ` ${yes(t.twinGate)}`,
       ].join("")
     )
   console.log(
-    `\n${summary.subjects} subjects — pdf ${summary.pdf} · md ${summary.md} · vision ${summary.vision} · twin gate ${summary.twinGate}` +
+    `\n${summary.subjects} subjects — pdf ${summary.pdf} · md ${summary.md} · vision ${summary.vision} · full coverage ${summary.full} · twin gate ${summary.twinGate}` +
       (cdn ? ` · live ${summary.pdfLive}/${summary.mdLive} · md drift ${summary.mdDrift}` : "")
   )
   console.log(`URLs: ${CDN}/catalog/<curriculum>/<grade>/<subject>/textbook.{pdf,md}`)
