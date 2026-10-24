@@ -296,10 +296,21 @@ for (const grade of grades) {
           const t = norm(o.title)
           return t && (t === key || t.includes(key) || key.includes(t))
         })
-    const posts = hrefs(
+    const candidates = hrefs(
       await get(sp),
       /href="(https:\/\/www\.almualm\.com\/20\d\d\/\d\d\/[^"]+\.html)"/g
-    ).filter((p) => /^كتاب/.test(slugText(p)))
+    )
+    // a book post's slug starts «كتاب»; some are numeric ("2023_98.html", g1 math) and only
+    // their <title> says what they are
+    const posts: string[] = []
+    for (const p of candidates) {
+      const slug = slugText(p)
+      if (/^كتاب/.test(slug)) posts.push(p)
+      else if (!/[\u0600-\u06FF]/.test(slug)) {
+        const title = /<title>([^<]*)/.exec(await get(p))?.[1] ?? ""
+        if (/^\s*كتاب/.test(title)) posts.push(p)
+      }
+    }
     const books: Found[] = []
     for (const p of posts) books.push(...(await drivesIn(p)))
     for (const b of books) await head(b)
@@ -342,7 +353,9 @@ for (const grade of grades) {
         r.books.find((b) => b.md5 === mine.md5) ??
         [...r.books].filter((b) => (b.similarity ?? 0) >= SAME).sort((x, y) => (y.similarity ?? 0) - (x.similarity ?? 0))[0]
       verdict = !match
-        ? "differs — read both imprints"
+        ? r.books.length
+          ? "differs — read both imprints"
+          : "no copy found on almualm"
         : match.label === "old"
           ? "same-old — SUPERSEDED candidate"
           : "same-new"
