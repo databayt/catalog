@@ -13,15 +13,35 @@
   "concept": "physics",
   "source": {
     "publisher": "sd-ncerd",
-    "basis": "official-toc-2026-09",
-    "edition": "الفيزياء للصف الثاني الثانوي — بخت الرضا — الطبعة الثانية (غير مؤرخة؛ ملف PDF ٢٠١٢م)",
+    "basis": "official-toc-2026-10",
+    "edition": "الطبعة الأولى ٢٠٢٦م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٦م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٦م»; rights to المركز and وزارة التعليم والتربية الوطنية",
+    "pdfSha256": "a97f41d4fb520d4dae43ece285e31eab92acad83aa9fc830db4d3230f32b835f",
+    "pages": 232,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/09/%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8.pdf",
+        "bytes": 11506196,
+        "md5": "ffb757bbfa9de66323bd218452f076ae",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "the almualm.com copy with its inserted almualm ad page and 28–30 handwritten ink annotations (a phone number) removed; replaces the old-curriculum book"
+  },
   "textbook": {
-    "pageNumbers": "book"
+    "pageNumbers": "book",
+    "pageOffset": 6
   },
   "history": {
-    "appliedOn": "2026-09-05",
+    "appliedOn": "2026-10-25",
     "supersedes": "_old/2026-09-05-legacy-pdftotext"
   },
   "contributors": [
@@ -31,8 +51,8 @@
     {
       "slug": "c1",
       "title": {
-        "ar": "الوحدة الأولى: المتجهات",
-        "en": "Unit 1: Vectors"
+        "ar": "الميكانيكا",
+        "en": "Mechanics"
       },
       "concept": "physics",
       "image": "clickview/high-measuring-force-cover.jpg",
@@ -42,320 +62,452 @@
         {
           "slug": "l1",
           "title": {
-            "ar": "مقدمة في المتجهات",
-            "en": "Introduction to Vectors"
+            "ar": "الحركة الدورانية",
+            "en": "Rotational Motion"
           },
-          "page": 3
+          "page": 2
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "محصلة عدة متجهات",
-            "en": "The Resultant of Several Vectors"
+            "ar": "وصف وخصائص الحركة الدورانية",
+            "en": "Description and Properties of Rotational Motion"
           },
-          "page": 8
+          "page": 4
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "طريقة رسم المتجهات لإيجاد المحصلة",
-            "en": "The Graphical Method for Finding a Resultant"
+            "ar": "متغيرات الحركة الدورانية",
+            "en": "Variables of Rotational Motion"
           },
-          "page": 9
+          "page": 5
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "قاعدة متوازي الأضلاع",
-            "en": "The Parallelogram Rule"
+            "ar": "عزم القوة",
+            "en": "Torque (Moment of Force)"
           },
           "page": 12
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "قاعدة المثلث لإيجاد محصلة متجهين",
-            "en": "The Triangle Rule for Two Vectors"
+            "ar": "الدفع والزخم",
+            "en": "Impulse and Momentum"
           },
-          "page": 22
+          "page": 30
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "تحليل المتجه إلى مركبتين متعامدتين",
-            "en": "Resolving a Vector into Perpendicular Components"
+            "ar": "نظرية الدفع - الزخم",
+            "en": "Impulse-Momentum Theorem"
           },
-          "page": 30
+          "page": 33
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدفع في الفضاء",
+            "en": "Propulsion in Space"
+          },
+          "page": 42
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الشغل والطاقة",
+            "en": "Work and Energy"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "نظريات الشغل -الطاقة",
+            "en": "Work-Energy Theorems"
+          },
+          "page": 57
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "طاقة الوضع (الطاقة الكامنة)",
+            "en": "Potential Energy"
+          },
+          "page": 60
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "طاقة المرونة",
+            "en": "Elastic Energy"
+          },
+          "page": 63
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "الموائع",
+            "en": "Fluids"
+          },
+          "page": 67
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "خصائص الموائع",
+            "en": "Properties of Fluids"
+          },
+          "page": 68
+        },
+        {
+          "slug": "l14",
+          "title": {
+            "ar": "الضغط في الموائع",
+            "en": "Pressure in Fluids"
+          },
+          "page": 74
+        },
+        {
+          "slug": "l15",
+          "title": {
+            "ar": "قوانين الغازات",
+            "en": "Gas Laws"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l16",
+          "title": {
+            "ar": "التمدد الحراري للمواد",
+            "en": "Thermal Expansion of Materials"
+          },
+          "page": 87
+        },
+        {
+          "slug": "l17",
+          "title": {
+            "ar": "البلازما",
+            "en": "Plasma"
+          },
+          "page": 90
+        },
+        {
+          "slug": "l18",
+          "title": {
+            "ar": "القوى في الموائع",
+            "en": "Forces in Fluids"
+          },
+          "page": 96
+        },
+        {
+          "slug": "l19",
+          "title": {
+            "ar": "النظرية الجزيئية للتوتر السطحي",
+            "en": "Molecular Theory of Surface Tension"
+          },
+          "page": 98
+        },
+        {
+          "slug": "l20",
+          "title": {
+            "ar": "التبخر والتكاثف",
+            "en": "Evaporation and Condensation"
+          },
+          "page": 101
+        },
+        {
+          "slug": "l21",
+          "title": {
+            "ar": "الموائع الساكنة والموائع المتحركة",
+            "en": "Static and Moving Fluids"
+          },
+          "page": 104
+        },
+        {
+          "slug": "l22",
+          "title": {
+            "ar": "قاعدة باسكال",
+            "en": "Pascal's Principle"
+          },
+          "page": 104
+        },
+        {
+          "slug": "l23",
+          "title": {
+            "ar": "الطفو وقاعدة أرخميدس",
+            "en": "Buoyancy and Archimedes' Principle"
+          },
+          "page": 108
+        },
+        {
+          "slug": "l24",
+          "title": {
+            "ar": "الموائع المتحركة",
+            "en": "Moving Fluids"
+          },
+          "page": 113
+        },
+        {
+          "slug": "l25",
+          "title": {
+            "ar": "قاعدة برنولي",
+            "en": "Bernoulli's Principle"
+          },
+          "page": 117
+        },
+        {
+          "slug": "l26",
+          "title": {
+            "ar": "تطبيقات معادلة برنولي",
+            "en": "Applications of Bernoulli's Equation"
+          },
+          "page": 122
         }
       ]
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "الوحدة الثانية: المقذوفات",
-        "en": "Unit 2: Projectiles"
+        "ar": "الديناميكيا الحرارية",
+        "en": "Thermodynamics"
       },
       "concept": "physics",
       "image": "clickview/high-newton-s-laws-of-motion-cover.jpg",
-      "page": 43,
+      "page": 129,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "حركة الجسم المقذوف",
-            "en": "Motion of a Projectile"
+            "ar": "الطاقة الحرارية",
+            "en": "Thermal Energy"
           },
-          "page": 45
+          "page": 131
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "حساب السرعات الأفقية والرأسية",
-            "en": "Horizontal and Vertical Velocities"
+            "ar": "الاتزان والقياس الحراري",
+            "en": "Thermal Equilibrium and Thermometry"
           },
-          "page": 49
+          "page": 135
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "الإزاحة الأفقية والإزاحة الرأسية",
-            "en": "Horizontal and Vertical Displacement"
+            "ar": "مقاييس درجة الحرارة",
+            "en": "Temperature Scales"
           },
-          "page": 50
+          "page": 137
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "السرعة الكلية وقاعدة الإشارات",
-            "en": "Total Velocity and the Sign Convention"
+            "ar": "الحرارة وتدفق الطاقة الحرارية",
+            "en": "Heat and the Flow of Thermal Energy"
           },
-          "page": 54
+          "page": 139
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "أمثلة وتمارين على المقذوفات",
-            "en": "Worked Examples and Exercises"
+            "ar": "طرق توصيل الحرارة",
+            "en": "Methods of Heat Transfer"
           },
-          "page": 57
+          "page": 142
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "التحريك الحراري",
+            "en": "Thermal Agitation"
+          },
+          "page": 150
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "القانون الأول للديناميكا الحرارية",
+            "en": "First Law of Thermodynamics"
+          },
+          "page": 152
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الأنتروبيا",
+            "en": "Entropy"
+          },
+          "page": 154
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "القانون الثاني للديناميكا الحرارية",
+            "en": "Second Law of Thermodynamics"
+          },
+          "page": 157
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الحرارة الكامنة",
+            "en": "Latent Heat"
+          },
+          "page": 158
         }
       ]
     },
     {
       "slug": "c3",
       "title": {
-        "ar": "الوحدة الثالثة: العزم والاتزان",
-        "en": "Unit 3: Moments and Equilibrium"
+        "ar": "الاهتزازات والموجات",
+        "en": "Vibrations and Waves"
       },
       "concept": "physics",
       "image": "clickview/high-mechanical-systems-cover.jpg",
-      "page": 69,
+      "page": 168,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "عزم القوة",
-            "en": "The Moment of a Force"
+            "ar": "الخواص العامة للاهتزازة والموجة",
+            "en": "General Properties of Vibrations and Waves"
           },
-          "page": 71
+          "page": 169
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "قانون العزوم والاتزان",
-            "en": "The Principle of Moments and Equilibrium"
+            "ar": "الحركة الدورية",
+            "en": "Periodic Motion"
           },
-          "page": 76
+          "page": 170
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "الازدواج",
-            "en": "Couples"
+            "ar": "البندول البسيط",
+            "en": "The Simple Pendulum"
           },
-          "page": 82
+          "page": 175
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "اتزان القوى المتلاقية: مثلث القوى وقاعدة لامي والقانون العام",
-            "en": "Equilibrium of Concurrent Forces: Triangle of Forces, Lami's Theorem and the General Law"
+            "ar": "الرنين",
+            "en": "Resonance"
           },
-          "page": 88
+          "page": 178
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "مركز الثقل والاتزان",
-            "en": "Centre of Gravity and Equilibrium"
+            "ar": "الموجات الميكانيكية",
+            "en": "Mechanical Waves"
           },
-          "page": 99
+          "page": 179
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "حالات اتزان الأجسام",
-            "en": "States of Equilibrium"
+            "ar": "تمثيل الموجات",
+            "en": "Representing Waves"
           },
-          "page": 102
-        }
-      ]
-    },
-    {
-      "slug": "c4",
-      "title": {
-        "ar": "الوحدة الرابعة: الشغل والطاقة والقدرة",
-        "en": "Unit 4: Work, Energy and Power"
-      },
-      "concept": "physics",
-      "image": "clickview/high-forms-of-energy-cover.jpg",
-      "page": 110,
-      "lessonsGeneric": false,
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "الشغل ووحداته",
-            "en": "Work and Its Units"
-          },
-          "page": 112
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "القدرة ووحداتها",
-            "en": "Power and Its Units"
-          },
-          "page": 118
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "الطاقة ومصادرها",
-            "en": "Energy and Its Sources"
-          },
-          "page": 125
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "الطاقة الميكانيكية: الحركية وطاقة الوضع",
-            "en": "Mechanical Energy: Kinetic and Potential"
-          },
-          "page": 127
-        },
-        {
-          "slug": "l5",
-          "title": {
-            "ar": "تحولات الطاقة الميكانيكية وحفظها",
-            "en": "Transformations and Conservation of Mechanical Energy"
-          },
-          "page": 136
-        },
-        {
-          "slug": "l6",
-          "title": {
-            "ar": "قاعدة برنولي",
-            "en": "Bernoulli's Principle"
-          },
-          "page": 143,
-          "image": "clickview/high-properties-of-fluids-cover.jpg"
-        }
-      ]
-    },
-    {
-      "slug": "c5",
-      "title": {
-        "ar": "الوحدة الخامسة: الحرارة وقانونا الديناميكا الحرارية",
-        "en": "Unit 5: Heat and the Two Laws of Thermodynamics"
-      },
-      "concept": "physics",
-      "image": "clickview/high-thermodynamics-cover.jpg",
-      "page": 157,
-      "lessonsGeneric": false,
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "مقدمة وكمية الحرارة",
-            "en": "Introduction and Quantity of Heat"
-          },
-          "page": 159
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "السعة الحرارية",
-            "en": "Heat Capacity"
-          },
-          "page": 163
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "الحرارة النوعية للمادة",
-            "en": "Specific Heat Capacity"
-          },
-          "page": 165
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "حفظ الطاقة الحرارية",
-            "en": "Conservation of Heat Energy"
-          },
-          "page": 171
-        },
-        {
-          "slug": "l5",
-          "title": {
-            "ar": "تعيين الحرارة النوعية بطريقة الخلط",
-            "en": "Determining Specific Heat by the Method of Mixtures"
-          },
-          "page": 174
-        },
-        {
-          "slug": "l6",
-          "title": {
-            "ar": "حالات المادة",
-            "en": "States of Matter"
-          },
-          "page": 179,
-          "image": "clickview/high-changes-in-matter-cover.jpg"
+          "page": 184
         },
         {
           "slug": "l7",
           "title": {
-            "ar": "نقطة الانصهار والحرارة الكامنة للانصهار",
-            "en": "Melting Point and Latent Heat of Fusion"
+            "ar": "سلوك الموجات",
+            "en": "Wave Behavior"
           },
-          "page": 180
+          "page": 188
         },
         {
           "slug": "l8",
           "title": {
-            "ar": "التصعيد والتبخر ونقطة الغليان والحرارة الكامنة للتصعيد",
-            "en": "Vaporisation, Evaporation, Boiling Point and Latent Heat of Vaporisation"
+            "ar": "انعكاس الموجات",
+            "en": "Wave Reflection"
           },
-          "page": 189
+          "page": 188
         },
         {
           "slug": "l9",
           "title": {
-            "ar": "القانون الأول للديناميكا الحرارية",
-            "en": "The First Law of Thermodynamics"
+            "ar": "تراكب الموجات",
+            "en": "Wave Superposition"
           },
-          "page": 199
+          "page": 190
         },
         {
           "slug": "l10",
           "title": {
-            "ar": "القانون الثاني للديناميكا الحرارية والقصور الحراري",
-            "en": "The Second Law of Thermodynamics and Thermal Inertia"
+            "ar": "تداخل الموجات",
+            "en": "Wave Interference"
           },
-          "page": 203
+          "page": 191
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "موجات الصوت",
+            "en": "Sound Waves"
+          },
+          "page": 200
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "طبيعة اصدار الصوت",
+            "en": "Nature of Sound Production"
+          },
+          "page": 201
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "انعكاس الصوت",
+            "en": "Reflection of Sound"
+          },
+          "page": 205
+        },
+        {
+          "slug": "l14",
+          "title": {
+            "ar": "الكشف عن موجات الضغط",
+            "en": "Detecting Pressure Waves"
+          },
+          "page": 206
+        },
+        {
+          "slug": "l15",
+          "title": {
+            "ar": "تأثير دوبلر",
+            "en": "The Doppler Effect"
+          },
+          "page": 208
+        },
+        {
+          "slug": "l16",
+          "title": {
+            "ar": "تطبيقات حياتية لظاهرة دوبلر",
+            "en": "Everyday Applications of the Doppler Effect"
+          },
+          "page": 212
+        },
+        {
+          "slug": "l17",
+          "title": {
+            "ar": "الرنين في الأوتار",
+            "en": "Resonance in Strings"
+          },
+          "page": 219
         }
       ]
     }

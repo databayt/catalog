@@ -17,6 +17,25 @@
     "edition": "العلوم العسكرية — الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م (ردمك 978-99942-53-23-4)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية ٢٠٠٨م",
+    "editionBasis": "printed",
+    "evidence": "title page p3: «الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م»; deposit p95 «رقم الإيداع: 772|2008»",
+    "pdfSha256": "d0f5abac66276823fff7dbfab98a1c8c70a4e82178d57d91f9679a160aaba7fb",
+    "pages": 96,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Q_8XIDgKh7pdyLbhWPQ7t9U9g8iOmWLt&export=download",
+        "bytes": 11108617,
+        "md5": "d33e98a87249f3def9f4a963d06c834b",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad', 'p96: blank', 'p95: copyright/deposit page placed at end']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

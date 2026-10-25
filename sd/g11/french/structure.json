@@ -17,6 +17,24 @@
     "edition": "Méthode de Français 2 «Allons-y !» — Livre de l'élève — Bakht er Ruda / CNMRP — édition non datée (fichier 2015)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p1-8 and p195-196 read: p1 aggregator cover; p2 cover «Méthode de Français 2»; p3 «Ce livre n'est pas destiné à la vente»; p4 coordinator/authors/relecture GREF (Neimat Karamalla Hamid Ahmed, Suad Ali Mirghani Saad, Abderrahim Amrani); p5-6 table of matières (Modules 3 and 4); p196 French embassy support. No edition, year, ISBN or deposit printed",
+    "pdfSha256": "06c84f83b8d799e3ccf986bfbdffada3d0c42d9646597fbeca20b581efc5a348",
+    "pages": 196,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kkTi95Qe7f9UShQtBCT7zK4-lhUcebLN&export=download",
+        "bytes": 94262055,
+        "md5": "b9cf1f52aea2df123ad6a1a08cedc16f",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', \"p3: «Ce livre n'est pas destiné à la vente» page\", 'p5: contents (page numbered continuing book numbering; p7 blank-ish)', 'p195: blank', 'p196: back cover with French embassy credit']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

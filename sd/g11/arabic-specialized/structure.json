@@ -17,6 +17,43 @@
     "edition": "اللغة العربية الخاصة — الصف الثاني الثانوي — الطبعة الأولى رجب ١٤٢٨هـ / يوليو ٢٠٠٧م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى : رجب ١٤٢٨هـ – يوليو ٢٠٠٧م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى : رجب ١٤٢٨هـ – يوليو ٢٠٠٧م»",
+    "pdfSha256": "9e46466368b25796f67bef097bc3a5f010e3a0d6f0b04cff215c5b1e510838f9",
+    "pages": 141,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1k6COPTlthC7jAiw7u5S9M2e1sLM5x__m&export=download",
+        "bytes": 86609316,
+        "md5": "399897b8855d296a8eb9d1cfd90bbb65",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=13t5WV_8ErdB2tQ6Psd6gA2tY2qfj3p0R&export=download",
+        "bytes": 96635463,
+        "md5": "2c8380a25793f4aa097c236d0214bf86",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1KVgkjUgQz-FQeF2tg1ZaXNtJP6s5iO2m&export=download",
+        "bytes": 20714616,
+        "md5": "189b8f81a03aa154ca40b4d90d501714",
+        "identical": false
+      },
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/09/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8.pdf",
+        "bytes": 1833385,
+        "md5": "d527407dda3ab420a9b9b87a3da21f68",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

@@ -17,6 +17,24 @@
     "edition": "علم الأحياء — الصف الثاني (التعليم الثانوي) — بخت الرضا، لجنة إعداد وتطوير — طبعة غير مؤرخة (ملف PDF ٢٠١٤م)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p1-8 read: p1 Rowad al-Tamayoz aggregator cover «الصف الثاني ثانوي»; p2 cover «علم الأحياء الصف الثاني»; p3 title + committees; p4 rights + supervisors, no date; p5 توطئة; p6 contents. No edition, year, ISBN or deposit printed anywhere in p1-8 or last 2 pages (p179-180 are body text, printed pp 173-174)",
+    "pdfSha256": "f7ad488376c58cf6e37852ce8b15fc06b28cf882be0c6e241ef0da0bd8aa1559",
+    "pages": 180,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1OSqm9tnAnG4e-6_0K3qhE72aJT20cIaf&export=download",
+        "bytes": 19051757,
+        "md5": "f122cc66a28b6230f9cd33c3a14968b3",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (هدية من شبكة رواد التميز السودانية, www.rowadaltamayoz.com)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

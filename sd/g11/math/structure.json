@@ -13,15 +13,35 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "basis": "official-toc-2026-09",
-    "edition": "الرياضيات للصف الثاني الثانوي — بخت الرضا — طبعة غير مؤرخة (ملف PDF ٢٠١٠م)",
+    "basis": "official-toc-2026-10",
+    "edition": "الطبعة الأولى ٢٠٢٦م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٦م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٦م»; copyright box says rights reserved to the Center and print/publish rights to وزارة التربية والتعليم الوطنية",
+    "pdfSha256": "232b59c85c526c62e7ce2647c86f0d2b7fd0c54ad7791430d113a26d52eed182",
+    "pages": 239,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/09/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8.pdf",
+        "bytes": 25580315,
+        "md5": "68756ba1e8d1dbc38a0df84178522142",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "the almualm.com copy with its inserted almualm ad page and 28–30 handwritten ink annotations (a phone number) removed; replaces the old-curriculum book"
+  },
   "textbook": {
-    "pageNumbers": "book"
+    "pageNumbers": "book",
+    "pageOffset": 0
   },
   "history": {
-    "appliedOn": "2026-09-05",
+    "appliedOn": "2026-10-25",
     "supersedes": "_old/2026-09-05-legacy-pdftotext"
   },
   "contributors": [
@@ -31,288 +51,503 @@
     {
       "slug": "c1",
       "title": {
-        "ar": "الوحدة الأولى: الهندسة التحليلية (الإحداثية)",
-        "en": "Unit 1: Analytic (Coordinate) Geometry"
+        "ar": "الدوال الأسية واللوغاريثمية",
+        "en": "Exponential and Logarithmic Functions"
       },
       "concept": "math",
       "image": "clickview/high-analytic-geometry-cover.jpg",
-      "page": 1,
+      "page": 5,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "المعادلات الخطية",
-            "en": "Linear Equations"
+            "ar": "الأسس الكسرية والجذور",
+            "en": "Fractional Powers and Radicals"
           },
-          "page": 3
+          "page": 9
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "طول العمود النازل من نقطة معلومة على مستقيم معلوم",
-            "en": "Distance from a Point to a Line"
+            "ar": "العمليات على الجذور",
+            "en": "Operations on Radicals"
           },
-          "page": 17
+          "page": 12
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدالة الأسية",
+            "en": "Exponential Function"
+          },
+          "page": 15
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "المعادلات الأسية",
+            "en": "Exponential Equations"
+          },
+          "page": 19
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "اللوغاريثمات",
+            "en": "Logarithms"
+          },
+          "page": 22
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدوال اللوغاريثمية",
+            "en": "Logarithmic Functions"
+          },
+          "page": 24
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "خصائص اللوغاريثمات",
+            "en": "Properties of Logarithms"
+          },
+          "page": 27
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "المعادلات اللوغاريثمية",
+            "en": "Logarithmic Equations"
+          },
+          "page": 32
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "اللوغاريثمات العشرية",
+            "en": "Common Logarithms"
+          },
+          "page": 34
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "صيغة تغير الأساس",
+            "en": "The Change of Base Formula"
+          },
+          "page": 36
         }
       ]
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "الوحدة الثانية: الدوال الأسية واللوغريثمية",
-        "en": "Unit 2: Exponential and Logarithmic Functions"
+        "ar": "الهندسة التحليلية (الإحداثية)",
+        "en": "Analytic (Coordinate) Geometry"
       },
       "concept": "math",
       "image": "clickview/high-logarithms-cover.jpg",
-      "page": 24,
+      "page": 40,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "الأس",
-            "en": "Exponents"
-          },
-          "page": 26,
-          "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "الأسس الكسرية",
-            "en": "Fractional Exponents"
-          },
-          "page": 29,
-          "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "المعادلات الأسية",
-            "en": "Exponential Equations"
-          },
-          "page": 38,
-          "image": "clickview/high-exponents-powers-and-radicals-cover.jpg"
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "اللوغريثم",
-            "en": "Logarithms"
-          },
-          "page": 42
-        },
-        {
-          "slug": "l5",
-          "title": {
-            "ar": "الدالة اللوغريثمية",
-            "en": "The Logarithmic Function"
+            "ar": "مفاهيم أساسية لمعادلات الخط المستقيم",
+            "en": "Basic Concepts of the Equations of a Straight Line"
           },
           "page": 45
         },
         {
+          "slug": "l2",
+          "title": {
+            "ar": "معادلات الخطوط المستقيمة المائلة: معادلة الخط المستقيم بصيغة النقطتين",
+            "en": "Equations of Oblique Straight Lines: Equation of a Straight Line in Two-Point Form"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "معادلة الخط المستقيم بصيغة الميل م والنقطة (س١، ص١)",
+            "en": "Equation of a Straight Line in Point-Slope Form"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "معادلة الخط المستقيم بصيغة الميل والجزء المقطوع من المحور الصادي",
+            "en": "Equation of a Straight Line in Slope-Intercept Form"
+          },
+          "page": 51
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "معادلة الخط المستقيم بصيغة المقطعين",
+            "en": "Equation of a Straight Line in Intercept Form"
+          },
+          "page": 53
+        },
+        {
           "slug": "l6",
           "title": {
-            "ar": "أهم خواص الدالة اللوغريثمية",
-            "en": "Main Properties of the Logarithmic Function"
-          },
-          "page": 48
-        },
-        {
-          "slug": "l7",
-          "title": {
-            "ar": "المعادلات اللوغريثمية",
-            "en": "Logarithmic Equations"
-          },
-          "page": 54
-        },
-        {
-          "slug": "l8",
-          "title": {
-            "ar": "اللوغريثمات العشرية باستخدام الآلة الحاسبة",
-            "en": "Common Logarithms with a Calculator"
+            "ar": "معادلة الخط المستقيم إذا علم طول العمود النازل عليه من نقطة الأصل و زاوية ميل هذا العمود",
+            "en": "Equation of a Straight Line Given the Length of the Perpendicular from the Origin and Its Angle of Inclination"
           },
           "page": 57
         },
         {
-          "slug": "l9",
+          "slug": "l7",
           "title": {
-            "ar": "الأعداد المقابلة للوغريثمات العشرية",
-            "en": "Antilogarithms"
+            "ar": "طول العمود النازل من نقطة معلومة على مستقيم معلوم",
+            "en": "The Length of the Perpendicular from a Given Point to a Given Straight Line"
           },
-          "page": 59
+          "page": 60
         }
       ]
     },
     {
       "slug": "c3",
       "title": {
-        "ar": "الوحدة الثالثة: الجذور الصم",
-        "en": "Unit 3: Surds"
+        "ar": "المتباينات والبرمجة الخطية",
+        "en": "Inequalities and Linear Programming"
       },
       "concept": "math",
       "image": "clickview/high-exponents-powers-and-radicals-cover.jpg",
-      "page": 66,
+      "page": 65,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "تمهيد",
-            "en": "Preliminaries"
+            "ar": "معادلة القيمة المطلقة",
+            "en": "Absolute Value Equation"
           },
           "page": 68
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "الجذور الصم",
-            "en": "Surds"
+            "ar": "متباينة القيمة المطلقة",
+            "en": "Absolute Value Inequality"
           },
-          "page": 71
+          "page": 72
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "العمليات الأربع في الجذور الصم",
-            "en": "The Four Operations on Surds"
+            "ar": "المتباينة الخطية بمتغيرين",
+            "en": "Linear Inequality in Two Variables"
           },
-          "page": 75
+          "page": 76
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "حل نظام المتباينات الخطية بمتغيرين بيانياً",
+            "en": "Solving a System of Linear Inequalities in Two Variables Graphically"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "تطبيقات على التمثيل البياني للمتباينة الخطية بمتغيرين: البرمجة الخطية",
+            "en": "Applications of the Graphical Representation of Linear Inequalities in Two Variables: Linear Programming"
+          },
+          "page": 84
         }
       ]
     },
     {
       "slug": "c4",
       "title": {
-        "ar": "الوحدة الرابعة: نظرية الباقي والعامل",
-        "en": "Unit 4: The Remainder and Factor Theorems"
+        "ar": "الإحصاء",
+        "en": "Statistics"
       },
       "concept": "math",
       "image": "clickview/high-quadratics-and-polynomials-cover.jpg",
-      "page": 85,
+      "page": 93,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "نظرية الباقي",
-            "en": "The Remainder Theorem"
+            "ar": "الوسط الحسابي من الجداول التكرارية",
+            "en": "Arithmetic Mean from Frequency Tables"
           },
-          "page": 87
+          "page": 98
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "نظرية العامل",
-            "en": "The Factor Theorem"
+            "ar": "الوسط الحسابي من الجداول التكرارية ذات الفئات",
+            "en": "Arithmetic Mean from Grouped Frequency Tables (Class Intervals)"
           },
-          "page": 89
+          "page": 102
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "جذور المعادلة من درجة أكبر من ٢",
-            "en": "Roots of Equations of Degree Greater than 2"
+            "ar": "الوسيط من الجداول التكرارية",
+            "en": "Median from Frequency Tables"
           },
-          "page": 92
+          "page": 105
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الوسيط من الجداول التكرارية ذات الفئات",
+            "en": "Median from Grouped Frequency Tables (Classes)"
+          },
+          "page": 108
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "المنوال من الجداول التكرارية",
+            "en": "Mode from Frequency Tables"
+          },
+          "page": 112
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "المنوال من الجداول التكرارية ذات الفئات",
+            "en": "Mode from Grouped Frequency Tables (Classes)"
+          },
+          "page": 114
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "مميزات وعيوب مقاييس النزعة المركزية",
+            "en": "Advantages and Disadvantages of Measures of Central Tendency"
+          },
+          "page": 118
         }
       ]
     },
     {
       "slug": "c5",
       "title": {
-        "ar": "الوحدة الخامسة: حساب المثلثات",
-        "en": "Unit 5: Trigonometry"
+        "ar": "حساب المثلثات",
+        "en": "Trigonometry"
       },
       "concept": "math",
       "image": "clickview/high-functions-cover.jpg",
-      "page": 96,
+      "page": 124,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "مراجعة عامة",
-            "en": "General Review"
+            "ar": "الدوال المثلثية للزاوية (-هـ)",
+            "en": "Trigonometric Functions of the Angle (-θ)"
           },
-          "page": 100
+          "page": 128
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "النسب المثلثية للزاوية (−هـ)",
-            "en": "Trigonometric Ratios of a Negative Angle"
+            "ar": "النسب المثلثية لمجموع وفرق زاويتين",
+            "en": "Trigonometric Ratios for the Sum and Difference of Two Angles"
           },
-          "page": 106
+          "page": 130
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "النسب المثلثية لمجموع وفرق الزاويتين",
-            "en": "Ratios of the Sum and Difference of Two Angles"
+            "ar": "النسب المثلثية لضعف الزاوية",
+            "en": "Trigonometric Double-Angle Ratios"
           },
-          "page": 107
+          "page": 133
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "النسب المثلثية لضعف الزاوية ونصفها",
-            "en": "Double- and Half-Angle Ratios"
+            "ar": "النسب المثلثية لنصف الزاوية",
+            "en": "Trigonometric Half-Angle Ratios"
           },
-          "page": 112
+          "page": 135
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "الزوايا المنتسبة",
-            "en": "Related Angles"
+            "ar": "الدوال المثلثية للزوايا المنتسبة",
+            "en": "Trigonometric Functions of Associated Angles"
           },
-          "page": 117
+          "page": 139
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "تحويل حاصل ضرب جيبين أو جيبي تمام إلى مجموع أو فرق",
-            "en": "Products of Sines or Cosines as Sums or Differences"
+            "ar": "تحويل حاصل ضرب الدوال المثلثية إلى مجموع أو فرق",
+            "en": "Converting the Product of Trigonometric Functions into a Sum or Difference"
           },
-          "page": 123
+          "page": 143
         },
         {
           "slug": "l7",
           "title": {
-            "ar": "تحويل مجموع أو فرق جيبين أو جيبي تمام إلى حاصل ضرب",
-            "en": "Sums or Differences of Sines or Cosines as Products"
+            "ar": "تحويل مجموع أو فرق الدوال المثلثية إلى ضرب",
+            "en": "Converting the Sum or Difference of Trigonometric Functions into a Product"
           },
-          "page": 127
+          "page": 146
         },
         {
           "slug": "l8",
           "title": {
-            "ar": "المتطابقات المثلثية",
-            "en": "Trigonometric Identities"
+            "ar": "حل المعادلات المثلثية",
+            "en": "Solving Trigonometric Equations"
           },
-          "page": 131
-        },
-        {
-          "slug": "l9",
-          "title": {
-            "ar": "المعادلات المثلثية",
-            "en": "Trigonometric Equations"
-          },
-          "page": 134
+          "page": 149
         }
       ]
     },
     {
       "slug": "c6",
       "title": {
-        "ar": "الوحدة السادسة: المتتاليات",
-        "en": "Unit 6: Sequences"
+        "ar": "التحويلات الهندسية",
+        "en": "Geometric Transformations"
       },
       "concept": "math",
       "image": "clickview/high-number-sequences-cover.jpg",
-      "page": 140,
+      "page": 156,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "التناظر (التماثل)",
+            "en": "Symmetry"
+          },
+          "page": 160
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الانعكاس",
+            "en": "Reflection"
+          },
+          "page": 164
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الانتقال (الانسحاب)",
+            "en": "Translation"
+          },
+          "page": 171
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدوران",
+            "en": "Rotation"
+          },
+          "page": 175
+        }
+      ]
+    },
+    {
+      "slug": "c7",
+      "title": {
+        "ar": "الأعداد المركّبة",
+        "en": "Complex Numbers"
+      },
+      "concept": "math",
+      "image": "clickview/high-systems-of-equations-cover.jpg",
+      "page": 182,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الكمية الحقيقية و الكمية التخيلية",
+            "en": "The Real Part and the Imaginary Part"
+          },
+          "page": 185
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "العامل التخيلي (الوحدة التخيلية)",
+            "en": "The Imaginary Unit"
+          },
+          "page": 186
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "القِوى الصحيحة للعامل التخيلي ت",
+            "en": "Integer Powers of the Imaginary Unit"
+          },
+          "page": 187
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "تساوي الأعداد المركّبة",
+            "en": "Equality of Complex Numbers"
+          },
+          "page": 189
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "عمليتا الجمع و الطرح في مجموعة الأعداد المركّبة",
+            "en": "Addition and Subtraction of Complex Numbers"
+          },
+          "page": 190
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "عملية الضرب في مجموعة الأعداد المركّبة",
+            "en": "Multiplication of Complex Numbers"
+          },
+          "page": 194
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "مرافق العدد المركّب",
+            "en": "Conjugates of a Complex Number"
+          },
+          "page": 196
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "عملية القسمة في مجموعة الأعداد المركّبة",
+            "en": "Division of Complex Numbers"
+          },
+          "page": 198
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "مقلوب العدد المركّب (النظير الضربي)",
+            "en": "The Reciprocal of a Complex Number (Multiplicative Inverse)"
+          },
+          "page": 200
+        }
+      ]
+    },
+    {
+      "slug": "c8",
+      "title": {
+        "ar": "المتتاليات",
+        "en": "Sequences"
+      },
+      "concept": "math",
+      "image": "clickview/high-algebraic-notation-and-operations-cover.jpg",
+      "page": 205,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -321,153 +556,55 @@
             "ar": "المتتاليات",
             "en": "Sequences"
           },
-          "page": 142
+          "page": 208
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "المتتالية الحسابية",
-            "en": "Arithmetic Sequences"
-          },
-          "page": 146
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "مجموع المتتالية الحسابية",
-            "en": "Sum of an Arithmetic Sequence"
-          },
-          "page": 150
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "المتتالية الهندسية",
-            "en": "Geometric Sequences"
-          },
-          "page": 157
-        },
-        {
-          "slug": "l5",
-          "title": {
-            "ar": "مجموع المتتالية الهندسية",
-            "en": "Sum of a Geometric Sequence"
-          },
-          "page": 162
-        },
-        {
-          "slug": "l6",
-          "title": {
-            "ar": "مجموع المتتالية الهندسية اللانهائية",
-            "en": "Sum of an Infinite Geometric Sequence"
-          },
-          "page": 167
-        }
-      ]
-    },
-    {
-      "slug": "c7",
-      "title": {
-        "ar": "الوحدة السابعة: المتباينات والبرمجة الخطية",
-        "en": "Unit 7: Inequalities and Linear Programming"
-      },
-      "concept": "math",
-      "image": "clickview/high-systems-of-equations-cover.jpg",
-      "page": 179,
-      "lessonsGeneric": false,
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "المتباينات",
-            "en": "Inequalities"
-          },
-          "page": 181
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "المتباينة الخطية في متغيرين",
-            "en": "Linear Inequalities in Two Variables"
-          },
-          "page": 187
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "حل نظام المتباينات الخطية في متغيرين",
-            "en": "Solving Systems of Linear Inequalities in Two Variables"
-          },
-          "page": 195
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "تطبيقات على التمثيل البياني للمتباينة في متغيرين (البرمجة الخطية)",
-            "en": "Applications of Graphing Inequalities: Linear Programming"
-          },
-          "page": 201
-        }
-      ]
-    },
-    {
-      "slug": "c8",
-      "title": {
-        "ar": "الوحدة الثامنة: العمليات الثنائية",
-        "en": "Unit 8: Binary Operations"
-      },
-      "concept": "math",
-      "image": "clickview/high-algebraic-notation-and-operations-cover.jpg",
-      "page": 211,
-      "lessonsGeneric": false,
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "تمهيد",
-            "en": "Preliminaries"
+            "ar": "الصيغة الارتدادية للمتتالية",
+            "en": "Recursive Formula of a Sequence"
           },
           "page": 213
         },
         {
-          "slug": "l2",
-          "title": {
-            "ar": "العمليات الداخلية",
-            "en": "Closed Operations"
-          },
-          "page": 215
-        },
-        {
           "slug": "l3",
           "title": {
-            "ar": "البنية الجبرية والنظام الرياضي",
-            "en": "Algebraic Structures and Mathematical Systems"
+            "ar": "المتتاليات الحسابية",
+            "en": "Arithmetic Sequences"
           },
-          "page": 220
+          "page": 216
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "الحساب ذو المقياس",
-            "en": "Modular Arithmetic"
+            "ar": "مجموع المتتالية الحسابية",
+            "en": "Sum of an Arithmetic Series"
           },
-          "page": 223
+          "page": 221
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "الضرب بمقياس ن",
-            "en": "Multiplication Modulo n"
+            "ar": "المتتاليات الهندسية",
+            "en": "Geometric Sequences"
           },
-          "page": 225
+          "page": 224
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "خواص العملية الثنائية في النظام الرياضي",
-            "en": "Properties of a Binary Operation in a Mathematical System"
+            "ar": "مجموع المتتالية الهندسية",
+            "en": "Sum of a Geometric Series"
           },
-          "page": 227
+          "page": 229
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "المتتاليات الهندسية اللانهائية",
+            "en": "Infinite Geometric Sequences"
+          },
+          "page": 234
         }
       ]
     }

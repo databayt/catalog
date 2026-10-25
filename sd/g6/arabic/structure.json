@@ -13,8 +13,27 @@
   "concept": "language",
   "source": {
     "publisher": "sd-ncerd",
-    "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "basis": "official-toc-2026-10",
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الثانية"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الثانية» (no year printed; foreword cites «وثيقة المناهج ٢٠١٣م»); replaces our «الطبعة الأولى ٢٠٢٠م»",
+    "pdfSha256": "610ac1e26c2fd677c0a846ea839168526d7ff9872b59c2e1bd145c4aa1195477",
+    "pages": 188,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/07/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 6266613,
+        "md5": "ee0a00435be330f9c9eeeca3119ca690",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "note": "the almualm.com copy with its inserted almualm ad page removed; bytes otherwise as circulated"
   },
   "contributors": [
     "databayt"
@@ -28,109 +47,127 @@
       },
       "concept": "language",
       "image": "clickview/middle-literary-texts-cover.jpg",
-      "page": 2,
+      "page": 1,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "أكرم من هاتم الطائي",
-            "en": "The Generosity of Hatim al-Ta'i"
-          },
-          "page": 2
+            "ar": "أكرم من حاتم",
+            "en": "More Generous than Hatim"
+          }
         },
         {
           "slug": "l2",
           "title": {
             "ar": "ترشيد استهلاك المياه",
             "en": "Rationalizing Water Consumption"
-          },
-          "page": 5
+          }
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "المأمون ومؤدب ولده",
-            "en": "Al-Ma'mun and His Son's Tutor"
-          },
-          "page": 8
+            "ar": "المأمون ومؤدب ولديه",
+            "en": "Al-Ma'mun and His Sons' Tutor"
+          }
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "من وصايا الحكيم",
-            "en": "From the Wise Man's Counsels"
-          },
-          "page": 11
+            "ar": "من وصايا حكيم",
+            "en": "From a Sage's Counsels"
+          }
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أغنية الشمس",
+            "en": "The Song of the Sun"
+          }
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "من خطبة حجة الوداع",
+            "en": "From the Farewell Pilgrimage Sermon"
+          }
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الإعاقة",
+            "en": "Disability"
+          }
         }
       ]
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "الوحدة الثانية: فن الكتابة",
-        "en": "Unit 2: The Art of Writing"
+        "ar": "الوحدة الثانية: قيم وآداب",
+        "en": "Unit 2: Values and Manners"
       },
       "concept": "language",
       "image": "clickview/middle-writing-skills-cover.jpg",
-      "page": 13,
+      "page": 30,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "مفتاح النجاح",
-            "en": "The Key to Success"
+            "ar": "الحرب الناعمة",
+            "en": "The Soft War"
           },
-          "page": 14
+          "page": 31
         },
         {
           "slug": "l2",
           "title": {
             "ar": "أهمية الوقت",
             "en": "The Importance of Time"
-          },
-          "page": 18
+          }
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "الحرية",
-            "en": "Freedom"
-          },
-          "page": 21
+            "ar": "حكم وفضائل",
+            "en": "Maxims and Virtues"
+          }
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "وفاء الكلب",
-            "en": "The Dog's Loyalty"
-          },
-          "page": 24
+            "ar": "الحرية",
+            "en": "Freedom"
+          }
         },
         {
           "slug": "l5",
           "title": {
             "ar": "عمل لائق",
             "en": "Decent Work"
-          },
-          "page": 28
+          }
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "ثورة الكتب",
-            "en": "The Revolt of the Books"
-          },
-          "page": 31
+            "ar": "جمال الفتاة في أخلاقها",
+            "en": "A Girl's Beauty Lies in Her Character"
+          }
         },
         {
           "slug": "l7",
           "title": {
-            "ar": "حكم وأمثال",
-            "en": "Wisdoms and Proverbs"
-          },
-          "page": 37
+            "ar": "ثورة الكتب",
+            "en": "The Revolution of Books"
+          }
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "أخلاق كريمة",
+            "en": "Noble Character"
+          }
         }
       ]
     },
@@ -138,20 +175,19 @@
       "slug": "c3",
       "title": {
         "ar": "الوحدة الثالثة: حكم وطرائف",
-        "en": "Unit 3: Wisdom and Anecdotes"
+        "en": "Unit 3: Maxims and Anecdotes"
       },
       "concept": "language",
       "image": "clickview/middle-genre-cover.jpg",
-      "page": 44,
+      "page": 78,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
             "ar": "من أخبار الحمقى والمغفلين",
-            "en": "Tales of Fools and the Simple-Minded"
-          },
-          "page": 45
+            "en": "Tales of the Foolish and the Gullible"
+          }
         },
         {
           "slug": "l2",
@@ -159,31 +195,49 @@
             "ar": "من أخبار البخلاء",
             "en": "Tales of the Misers"
           },
-          "page": 48
+          "page": 86
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "أوقاتي",
-            "en": "My Times"
-          },
-          "page": 51
+            "ar": "إلى أخواتي",
+            "en": "To My Sisters"
+          }
         },
         {
           "slug": "l4",
           "title": {
             "ar": "أمثال وحكم",
-            "en": "Proverbs and Sayings"
-          },
-          "page": 59
+            "en": "Proverbs and Maxims"
+          }
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "قراءة البدوي",
-            "en": "The Bedouin's Reading"
-          },
-          "page": 64
+            "ar": "حذاء الطنبوري",
+            "en": "Al-Tanburi's Shoes"
+          }
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "صحبة الزمان",
+            "en": "Companionship of Time"
+          }
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "جحا والحكماء الثلاثة",
+            "en": "Juha and the Three Sages"
+          }
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "خير الكلام",
+            "en": "The Best of Speech"
+          }
         }
       ]
     },
@@ -191,60 +245,62 @@
       "slug": "c4",
       "title": {
         "ar": "الوحدة الرابعة: متفرقات",
-        "en": "Unit 4: Miscellaneous"
+        "en": "Unit 4: Miscellany"
       },
       "concept": "language",
       "image": "clickview/middle-inference-cover.jpg",
-      "page": 70,
+      "page": 120,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
             "ar": "في بيته يؤتى الحكم",
-            "en": "In His House Wisdom Is Sought"
-          },
-          "page": 71
+            "en": "Judgment Is Brought to His Home"
+          }
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "أبناء المدارس",
-            "en": "Sons of the Schools"
+            "ar": "فراسة البدوي",
+            "en": "The Bedouin's Perceptiveness"
           },
-          "page": 73
+          "page": 123
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "قضاء الطنبوري",
-            "en": "The Judgment of Al-Tanbouri"
-          },
-          "page": 76
+            "ar": "أبناء المدارس",
+            "en": "Schoolchildren"
+          }
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "جمال الفتاة في أخلاقها",
-            "en": "A Girl's Beauty Is in Her Character"
-          },
-          "page": 81
+            "ar": "صفات الحاكم العادل",
+            "en": "Qualities of the Just Ruler"
+          }
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "طبيب الأسنان",
-            "en": "The Dentist"
-          },
-          "page": 85
+            "ar": "رئيس القوم",
+            "en": "The Chief of the People"
+          }
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "رئيس القوم",
-            "en": "The Leader of the People"
-          },
-          "page": 93
+            "ar": "المنصور والطيور",
+            "en": "Al-Mansur and the Birds"
+          }
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "ذكاء صبي",
+            "en": "A Boy's Intelligence"
+          }
         }
       ]
     },
@@ -256,51 +312,67 @@
       },
       "concept": "language",
       "image": "clickview/middle-imagery-cover.jpg",
-      "page": 96,
+      "page": 152,
       "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
             "ar": "حدائق البحر المرجانية",
-            "en": "The Coral Gardens of the Sea"
-          },
-          "page": 97
+            "en": "The Coral Sea Gardens"
+          }
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "نشيد نوبي",
-            "en": "A Nubian Anthem"
+            "ar": "نشيد قومي",
+            "en": "A National Anthem"
           },
-          "page": 103,
-          "image": "clickview/high-poetic-devices-cover.jpg"
+          "page": 159
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "التجاني الماحي",
-            "en": "Al-Tijani Al-Mahi"
-          },
-          "page": 111
+            "ar": "عبقري الرواية العربية",
+            "en": "Genius of the Arabic Novel"
+          }
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "محمية الدندر السياحية",
-            "en": "The Dinder Tourist Reserve"
-          },
-          "page": 115
+            "ar": "التجاني الماحي",
+            "en": "Al-Tijani Al-Mahi"
+          }
         },
         {
           "slug": "l5",
           "title": {
+            "ar": "محمية الدندر",
+            "en": "Dinder Reserve"
+          }
+        },
+        {
+          "slug": "l6",
+          "title": {
             "ar": "عرس السودان",
-            "en": "Sudan's Wedding"
-          },
-          "page": 119
+            "en": "The Sudanese Wedding"
+          }
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "السودان سلة غذاء العالم",
+            "en": "Sudan, the World's Breadbasket"
+          }
         }
       ]
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 4
+  },
+  "history": {
+    "appliedOn": "2026-10-25"
+  }
 }

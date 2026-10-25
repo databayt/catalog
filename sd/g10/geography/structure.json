@@ -13,7 +13,27 @@
   "concept": "geography",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "basis": "official-toc-2026-10",
+    "edition": "الطبعة الأولى ٢٠٢٥م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٥ م», 4 units incl. نظم المعلومات الجغرافية; replaces our «الطبعة المنقحة ٢٠١٢»",
+    "pdfSha256": "32f6bd46d3b1e7b8084ccd2956b1800a68b4be2ccf78f2a5bdaf3d4fd5e857b9",
+    "pages": 195,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1AFBpZ_oWwAgTVUXahtuCH9VElA2MWtik&export=download",
+        "bytes": 31042087,
+        "md5": "612206d16c5bfe050a503a248f5e6cae",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "note": "the almualm.com copy with its inserted almualm ad page removed; bytes otherwise as circulated"
   },
   "contributors": [
     "databayt"
@@ -27,99 +47,52 @@
       },
       "concept": "earth",
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "الكون"
-          },
-          "image": "clickview/high-the-universe-cover.jpg"
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "الأرض"
-          },
-          "image": "clickview/high-our-solar-system-cover.jpg"
-        },
-        {
-          "slug": "l3",
-          "title": {
-            "ar": "المناخ والخرائط المناخية"
-          }
-        },
-        {
-          "slug": "l4",
-          "title": {
-            "ar": "النطاقات المناخية"
-          }
-        },
-        {
-          "slug": "l5",
-          "title": {
-            "ar": "الإشعاع الشمسي"
-          },
-          "image": "clickview/high-atmosphere-cover.jpg"
-        },
-        {
-          "slug": "l6",
-          "title": {
-            "ar": "القشرة الأرضية"
-          },
-          "image": "clickview/high-tectonic-landforms-cover.jpg"
-        },
-        {
-          "slug": "l7",
-          "title": {
-            "ar": "العوامل المؤثرة في ارتفاع سطح الأرض"
-          },
-          "image": "clickview/high-plate-tectonics-cover.jpg"
-        },
-        {
-          "slug": "l8",
-          "title": {
-            "ar": "الصخور"
-          },
-          "image": "clickview/middle-rock-cycle-cover.jpg"
-        },
-        {
-          "slug": "l9",
-          "title": {
-            "ar": "عمليات التعرية"
-          },
-          "image": "clickview/elementary-weathering-and-erosion-cover.jpg"
-        },
-        {
-          "slug": "l10",
-          "title": {
-            "ar": "المياه"
-          },
-          "image": "clickview/high-water-cover.jpg"
-        }
-      ]
+      "page": 5,
+      "lessonsGeneric": false,
+      "lessons": []
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "المناخ والظواهر الطبيعية",
-        "en": "Climate and Natural Phenomena"
+        "ar": "المُناخ والنبات الطبيعي",
+        "en": "Climate and Natural Vegetation"
       },
       "concept": "earth",
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
-      "lessons": [
-        {
-          "slug": "l1",
-          "title": {
-            "ar": "تعريف علم المناخ"
-          }
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "المناخ والطقس"
-          }
-        }
-      ]
+      "page": 65,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "c3",
+      "title": {
+        "ar": "علم الخرائط",
+        "en": "Cartography"
+      },
+      "concept": "earth",
+      "image": "clickview/high-earth-systems-and-climate-cover.jpg",
+      "page": 114,
+      "lessonsGeneric": false,
+      "lessons": []
+    },
+    {
+      "slug": "c4",
+      "title": {
+        "ar": "نظم المعلومات الجغرافية",
+        "en": "Geographic Information Systems"
+      },
+      "concept": "earth",
+      "image": "clickview/high-earth-systems-and-climate-cover.jpg",
+      "page": 179,
+      "lessonsGeneric": false,
+      "lessons": []
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 0
+  },
+  "history": {
+    "appliedOn": "2026-10-25"
+  }
 }

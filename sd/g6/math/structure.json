@@ -13,7 +13,27 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "basis": "official-toc-2026-10",
+    "edition": "الطبعة الثانية ٢٠٢٣م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية ٢٠٢٣م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الثانية ٢٠٢٣م»; replaces our «الطبعة الأولى ٢٠٢٠م»",
+    "pdfSha256": "c137b7e835fe0b577f99228c6fcb500534b25ac68fdab60591ef3db237011a48",
+    "pages": 188,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/08/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 10662102,
+        "md5": "267ca11c4be9effd9d64125e2e83a5c2",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "note": "the almualm.com copy with its inserted almualm ad page removed; bytes otherwise as circulated"
   },
   "contributors": [
     "databayt"
@@ -22,235 +42,468 @@
     {
       "slug": "c1",
       "title": {
-        "ar": "المجموعات",
-        "en": "Sets"
+        "ar": "الوحدة الأولى: المجموعات",
+        "en": "Unit 1: Sets"
       },
       "concept": "math",
       "image": "clickview/high-discrete-math-cover.jpg",
+      "page": 5,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "مفهوم المجموعة والعنصر"
-          }
+            "ar": "الدرس الأول – مفهوم المجموعة والعنصر",
+            "en": "Lesson 1 – The Concept of a Set and an Element"
+          },
+          "page": 6
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "وصف المجموعات"
-          }
+            "ar": "الدرس الثاني – طرق التعبير عن المجموعة",
+            "en": "Lesson 2 – Ways of Expressing a Set"
+          },
+          "page": 10
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "أنواع المجموعات"
-          }
+            "ar": "الدرس الثالث – طرق التعبير عن المجموعة",
+            "en": "Lesson 3 – Ways of Expressing a Set"
+          },
+          "page": 12
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "المجموعة الجزئية"
-          }
+            "ar": "الدرس الرابع – الانتماء ورمزه",
+            "en": "Lesson 4 – Membership and Its Symbol"
+          },
+          "page": 16
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "مخططات فن"
-          }
+            "ar": "الدرس الخامس – المجموعة الخالية والمجموعة الاحادية",
+            "en": "Lesson 5 – The Empty Set and the Singleton Set"
+          },
+          "page": 19
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس السادس – المجموعة المنتهية والمجموعة غير المنتهية",
+            "en": "Lesson 6 – Finite and Infinite Sets"
+          },
+          "page": 21
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس السابع – أشكال فن",
+            "en": "Lesson 7 – Venn Diagrams"
+          },
+          "page": 23
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس الثامن – المجموعة الجزئية",
+            "en": "Lesson 8 – Subsets"
+          },
+          "page": 26
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "الدرس التاسع – المجموعات المتساوية",
+            "en": "Lesson 9 – Equal Sets"
+          },
+          "page": 30
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الدرس العاشر – المجموعة الشاملة",
+            "en": "Lesson 10 – The Universal Set"
+          },
+          "page": 33
         }
       ]
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "مجموعة الأعداد الصحيحة",
-        "en": "The Set of Integers"
+        "ar": "الوحدة الثانية: مجموعة الأعداد الصحيحة والعمليات عليها",
+        "en": "Unit 2: The Set of Integers and Operations on Them"
       },
       "concept": "math",
       "image": "clickview/middle-whole-number-operations-cover.jpg",
+      "page": 39,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "الأعداد الصحيحة"
-          }
+            "ar": "الدرس الأول – مجموعة الأعداد الصحيحة",
+            "en": "Lesson 1 – The Set of Integers"
+          },
+          "page": 40
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "مقارنة الأعداد الصحيحة"
-          }
+            "ar": "الدرس الثاني – تمثيل الأعداد الصحيحة على الخط العددي ومقارنتها",
+            "en": "Lesson 2 – Representing Integers on the Number Line and Comparing Them"
+          },
+          "page": 44
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "جمع الأعداد الصحيحة"
-          }
+            "ar": "الدرس الثالث – القيمة المطلقة لعدد صحيح",
+            "en": "Lesson 3 – The Absolute Value of an Integer"
+          },
+          "page": 48
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "طرح الأعداد الصحيحة"
-          }
+            "ar": "الدرس الرابع – عملية الجمع في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 4 – Addition in the Set of Integers"
+          },
+          "page": 51
         },
         {
           "slug": "l5",
           "title": {
-            "ar": "ضرب الأعداد الصحيحة"
-          }
+            "ar": "الدرس الخامس – جمع الأعداد الصحيحة مختلفة الإشارة",
+            "en": "Lesson 5 – Adding Integers with Different Signs"
+          },
+          "page": 54
         },
         {
           "slug": "l6",
           "title": {
-            "ar": "قسمة الأعداد الصحيحة"
-          }
+            "ar": "الدرس السادس – عملية الطرح في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 6 – Subtraction in the Set of Integers"
+          },
+          "page": 57
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس السابع – خواص عملية الجمع في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 7 – Properties of Addition in the Set of Integers"
+          },
+          "page": 59
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس الثامن – عملية الضرب في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 8 – Multiplication in the Set of Integers"
+          },
+          "page": 64
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "الدرس التاسع – خواص عملية الضرب في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 9 – Properties of Multiplication in the Set of Integers"
+          },
+          "page": 69
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الدرس العاشر – عملية القسمة في مجموعة الأعداد الصحيحة",
+            "en": "Lesson 10 – Division in the Set of Integers"
+          },
+          "page": 72
         }
       ]
     },
     {
       "slug": "c3",
       "title": {
-        "ar": "النسبة المئوية",
-        "en": "Percentages"
+        "ar": "الوحدة الثالثة: النسبة المئوية والعمليات عليها",
+        "en": "Unit 3: Percentage and Operations on It"
       },
       "concept": "math",
       "image": "clickview/middle-decimals-and-percentages-cover.jpg",
+      "page": 75,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "مفهوم النسبة المئوية"
-          }
+            "ar": "الدرس الأول – مفهوم النسبة المئوية",
+            "en": "Lesson 1 – The Concept of Percentage"
+          },
+          "page": 76
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "تحويل النسبة المئوية"
-          }
+            "ar": "الدرس الثاني – تحويل النسبة المئوية الى كسر عادي أو عشري",
+            "en": "Lesson 2 – Converting a Percentage to a Common or Decimal Fraction"
+          },
+          "page": 78
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "تطبيقات على النسبة المئوية"
-          }
+            "ar": "الدرس الثالث – تحويل الكسر العادي أو الكسر العشري إلي نسبة مئوية",
+            "en": "Lesson 3 – Converting a Common or Decimal Fraction to a Percentage"
+          },
+          "page": 82
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس الرابع – النسبة المئوية من عدد أو كمية",
+            "en": "Lesson 4 – A Percentage of a Number or Quantity"
+          },
+          "page": 85
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس الخامس – الزيادة والنقصان في المئة",
+            "en": "Lesson 5 – Percentage Increase and Decrease"
+          },
+          "page": 88
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس السادس – الربح والخسارة",
+            "en": "Lesson 6 – Profit and Loss"
+          },
+          "page": 91
         }
       ]
     },
     {
       "slug": "c4",
       "title": {
-        "ar": "التعابير الجبرية",
-        "en": "Algebraic Expressions"
+        "ar": "الوحدة الرابعة: التعابير الجبرية والعمليات عليها",
+        "en": "Unit 4: Algebraic Expressions and Operations on Them"
       },
       "concept": "math",
       "image": "clickview/middle-equations-and-expressions-cover.jpg",
+      "page": 99,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "التعابير الجبرية"
-          }
+            "ar": "الدرس الأول – المتغير و الثابت",
+            "en": "Lesson 1 – Variable and Constant"
+          },
+          "page": 100
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "تبسيط التعابير الجبرية"
-          }
+            "ar": "الدرس الثاني – الحد و التعبير (المقدار) الجبري",
+            "en": "Lesson 2 – The Term and the Algebraic Expression"
+          },
+          "page": 103
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "المعادلات"
-          }
+            "ar": "الدرس الثالث – الحدود الجبرية المتشابهة",
+            "en": "Lesson 3 – Like Algebraic Terms"
+          },
+          "page": 106
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس الرابع – جمع وطرح الحدود الجبرية المتشابهة",
+            "en": "Lesson 4 – Adding and Subtracting Like Algebraic Terms"
+          },
+          "page": 108
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس الخامس – جمع وطرح التعابير (المقادير) الجبرية",
+            "en": "Lesson 5 – Adding and Subtracting Algebraic Expressions"
+          },
+          "page": 111
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس السادس – القيمة العددية للمقدار الجبري",
+            "en": "Lesson 6 – The Numerical Value of an Algebraic Expression"
+          },
+          "page": 113
         }
       ]
     },
     {
       "slug": "c5",
       "title": {
-        "ar": "العمليات على المجموعات",
-        "en": "Operations on Sets"
+        "ar": "الوحدة الخامسة: العمليات على المجموعات",
+        "en": "Unit 5: Operations on Sets"
       },
       "concept": "math",
       "image": "clickview/high-discrete-math-cover.jpg",
+      "page": 118,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "الاتحاد"
-          }
+            "ar": "الدرس الأول - تقاطع مجموعتين",
+            "en": "Lesson 1 – Intersection of Two Sets"
+          },
+          "page": 119
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "التقاطع"
-          }
+            "ar": "الدرس الثاني – إتحاد مجموعتين",
+            "en": "Lesson 2 – Union of Two Sets"
+          },
+          "page": 123
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "المتممة"
-          }
+            "ar": "الدرس الثالث – الفرق بين مجموعتين",
+            "en": "Lesson 3 – Difference of Two Sets"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس الرابع – المجموعة المتممة",
+            "en": "Lesson 4 – The Complement of a Set"
+          },
+          "page": 129
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس الخامس – مسائل متنوِّعة",
+            "en": "Lesson 5 – Various Problems"
+          },
+          "page": 135
         }
       ]
     },
     {
       "slug": "c6",
       "title": {
-        "ar": "مساحة الأشكال الهندسية",
-        "en": "Area of Geometric Shapes"
+        "ar": "الوحدة السادسة: مساحة الأشكال الهندسية",
+        "en": "Unit 6: Area of Geometric Shapes"
       },
       "concept": "math",
       "image": "clickview/middle-area-perimeter-surface-area-and-volume-cover.jpg",
+      "page": 140,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "مساحة المثلث"
-          }
+            "ar": "الدرس الأول – المساحة ووحدة قياسها",
+            "en": "Lesson 1 – Area and Its Unit of Measurement"
+          },
+          "page": 141
         },
         {
           "slug": "l2",
           "title": {
-            "ar": "مساحة متوازي الأضلاع"
-          }
+            "ar": "الدرس الثاني – المستطيل",
+            "en": "Lesson 2 – The Rectangle"
+          },
+          "page": 142
         },
         {
           "slug": "l3",
           "title": {
-            "ar": "مساحة شبه المنحرف"
-          }
+            "ar": "الدرس الثالث – الـمربع",
+            "en": "Lesson 3 – The Square"
+          },
+          "page": 145
         },
         {
           "slug": "l4",
           "title": {
-            "ar": "مساحة الدائرة"
-          }
+            "ar": "الدرس الرابع – متوازي الأضلاع",
+            "en": "Lesson 4 – The Parallelogram"
+          },
+          "page": 149
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس الخامس – مساحة المثلث",
+            "en": "Lesson 5 – Area of the Triangle"
+          },
+          "page": 153
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس السادس – الـمعين",
+            "en": "Lesson 6 – The Rhombus"
+          },
+          "page": 157
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس السابع – شبه المنحرف",
+            "en": "Lesson 7 – The Trapezium"
+          },
+          "page": 160
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس الثامن – مساحة الدائرة",
+            "en": "Lesson 8 – Area of the Circle"
+          },
+          "page": 165
         }
       ]
     },
     {
       "slug": "c7",
       "title": {
-        "ar": "نظرية فيثاغورث",
-        "en": "The Pythagorean Theorem"
+        "ar": "الوحدة السابعة: نظرية فيثاغورث وتطابق المثلثات",
+        "en": "Unit 7: The Pythagorean Theorem and Congruence of Triangles"
       },
       "concept": "math",
       "image": "clickview/middle-pythagorean-theorem-cover.jpg",
+      "page": 168,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "ar": "نظرية فيثاغورث"
-          }
-        },
-        {
-          "slug": "l2",
-          "title": {
-            "ar": "تطبيقات نظرية فيثاغورث"
-          }
+            "ar": "الدرس الأول – نظرية فيثاغورث",
+            "en": "Lesson 1 – The Pythagorean Theorem"
+          },
+          "page": 169
         }
       ]
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 0
+  },
+  "history": {
+    "appliedOn": "2026-10-25"
+  }
 }

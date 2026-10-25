@@ -13,7 +13,27 @@
   "concept": "english",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "basis": "official-toc-2026-10",
+    "edition": "2nd Edition"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2nd Edition",
+    "editionBasis": "printed",
+    "evidence": "title page p1: «SMILE Book 6, Pupil's Book, Grade 6: Basic Level, 2nd Edition», NCCER; replaces a mis-filed Macmillan reader («Anna and the Fighter»)",
+    "pdfSha256": "71d7fb6918d2dfba0eceb246a4ac965510d800816bdae7d65b32e60e80892584",
+    "pages": 131,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/08/Grade-6-Pupil_s-Book.pdf-%D8%B3%D8%A7%D8%AF%D8%B3-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.pdf",
+        "bytes": 41989983,
+        "md5": "ac9190fb12a6c420c71fd6a707fe5bfd",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "note": "the almualm.com copy with its inserted almualm ad page removed; bytes otherwise as circulated"
   },
   "contributors": [
     "databayt"
@@ -22,48 +42,548 @@
     {
       "slug": "c1",
       "title": {
-        "en": "Unit 1: Anna and the Fighter"
+        "ar": "الوحدة 1: العودة إلى المدرسة",
+        "en": "Back to School"
       },
       "concept": "english",
       "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 1,
+      "lessonsGeneric": false,
       "lessons": [
         {
           "slug": "l1",
           "title": {
-            "en": "Chapter 1: Anna"
-          }
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 1
         },
         {
           "slug": "l2",
           "title": {
-            "en": "Chapter 2: The Fighter"
-          }
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 2
         },
         {
           "slug": "l3",
           "title": {
-            "en": "Chapter 3: The Journey Begins"
-          }
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 3
         },
         {
           "slug": "l4",
           "title": {
-            "en": "Chapter 4: Challenges and Discoveries"
-          }
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 4
         },
         {
           "slug": "l5",
           "title": {
-            "en": "Chapter 5: The Quest Continues"
-          }
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 5
         },
         {
           "slug": "l6",
           "title": {
-            "en": "Chapter 6: Lessons Learned"
-          }
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 6
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 7
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 8
+        }
+      ]
+    },
+    {
+      "slug": "c2",
+      "title": {
+        "ar": "الوحدة 2: الرياضيات في حياتنا",
+        "en": "Maths in our Life"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 9,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 10
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 12
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 13
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 14
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 15
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 16
+        }
+      ]
+    },
+    {
+      "slug": "c3",
+      "title": {
+        "ar": "الوحدة 3: اختراعات وأشياء جديدة",
+        "en": "Inventions and New Things"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 17,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 17
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 18
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 19
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 20
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 21
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 22
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 23
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 24
+        }
+      ]
+    },
+    {
+      "slug": "c4",
+      "title": {
+        "ar": "الوحدة 4: عجائب العالم",
+        "en": "Wonders of the World"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 25,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 25
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 26
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 27
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 28
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 29
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 30
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 31
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 32
+        }
+      ]
+    },
+    {
+      "slug": "c5",
+      "title": {
+        "ar": "الوحدة 5: أيام خاصة",
+        "en": "Special Days"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 33,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 33
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 34
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 35
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 36
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 37
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 38
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 39
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 40
+        }
+      ]
+    },
+    {
+      "slug": "c6",
+      "title": {
+        "ar": "الوحدة 6: الصحة",
+        "en": "Health"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 41,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 41
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 42
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 43
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 44
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 45
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 47
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 48
+        }
+      ]
+    },
+    {
+      "slug": "c7",
+      "title": {
+        "ar": "الوحدة 7: مرة أخرى",
+        "en": "One More Time"
+      },
+      "concept": "english",
+      "image": "clickview/middle-literary-texts-cover.jpg",
+      "page": 49,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الدرس 1",
+            "en": "Lesson 1"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الدرس 2",
+            "en": "Lesson 2"
+          },
+          "page": 50
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الدرس 3",
+            "en": "Lesson 3"
+          },
+          "page": 51
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدرس 4",
+            "en": "Lesson 4"
+          },
+          "page": 52
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الدرس 5",
+            "en": "Lesson 5"
+          },
+          "page": 53
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الدرس 6",
+            "en": "Lesson 6"
+          },
+          "page": 54
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الدرس 7",
+            "en": "Lesson 7"
+          },
+          "page": 55
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الدرس 8: مراجعة",
+            "en": "Lesson 8: Revision"
+          },
+          "page": 56
         }
       ]
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 6
+  },
+  "history": {
+    "appliedOn": "2026-10-25"
+  }
 }

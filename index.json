@@ -3,9 +3,9 @@
  "totals": {
   "curricula": 6,
   "subjects": 471,
-  "chapters": 1624,
-  "lessons": 5592,
-  "questions": 12438
+  "chapters": 1630,
+  "lessons": 5695,
+  "questions": 12345
  },
  "curricula": [
   {
@@ -7738,21 +7738,21 @@
        "concept": "language",
        "publisher": "sd-ncerd",
        "chapters": 5,
-       "lessons": 27,
-       "questions": 13,
-       "exams": 1,
+       "lessons": 37,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 188,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7799,22 +7799,22 @@
        "status": "official",
        "concept": "english",
        "publisher": "sd-ncerd",
-       "chapters": 1,
-       "lessons": 6,
-       "questions": 4,
-       "exams": 8,
+       "chapters": 7,
+       "lessons": 56,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 131,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7955,21 +7955,21 @@
        "concept": "math",
        "publisher": "sd-ncerd",
        "chapters": 7,
-       "lessons": 26,
-       "questions": 12,
-       "exams": 34,
+       "lessons": 46,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 188,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9183,21 +9183,21 @@
        "status": "official",
        "concept": "geography",
        "publisher": "sd-ncerd",
-       "chapters": 2,
-       "lessons": 12,
-       "questions": 4,
-       "exams": 29,
+       "chapters": 4,
+       "lessons": 0,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 195,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false
@@ -9477,7 +9477,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 132,
         "pagesMd": 0
        },
        "gates": {
@@ -9508,7 +9508,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 186,
         "pagesMd": 0
        },
        "gates": {
@@ -9539,7 +9539,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 126,
         "pagesMd": 0
        },
        "gates": {
@@ -9570,12 +9570,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 141,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9601,12 +9601,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 104,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9632,12 +9632,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 180,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9663,12 +9663,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 119,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9694,12 +9694,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 193,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9725,12 +9725,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 74,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9756,12 +9756,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 181,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9787,12 +9787,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 186,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9818,12 +9818,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 196,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9849,12 +9849,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 238,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9880,12 +9880,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 163,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9911,12 +9911,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 179,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9933,21 +9933,21 @@
        "concept": "math",
        "publisher": "sd-ncerd",
        "chapters": 8,
-       "lessons": 42,
-       "questions": 60,
-       "exams": 1,
+       "lessons": 57,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
-        "markdown": true,
+        "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 239,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -9973,11 +9973,11 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 96,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false
@@ -9994,22 +9994,22 @@
        "status": "official",
        "concept": "physics",
        "publisher": "sd-ncerd",
-       "chapters": 5,
-       "lessons": 33,
+       "chapters": 3,
+       "lessons": 53,
        "questions": 0,
        "exams": 0,
        "assets": {
         "textbook": true,
-        "markdown": true,
+        "markdown": false,
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 232,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -10035,12 +10035,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 191,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }

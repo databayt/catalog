@@ -17,6 +17,25 @@
     "edition": "SPINE 5 — Sudan Practical Integrated National English, Pupil's Book 5 (first published 1996; 2009 printing, ISBN 978-99942-919-9-6, 186 pp)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "First Published 1996",
+    "editionBasis": "printed",
+    "evidence": "imprint p5: «First Published 1996»; p4: «الدويم: المركز القومي ... 2009م» + ردمك 978-99942-919-9-6; p186 deposit «165|2009»",
+    "pdfSha256": "1efd6023724bbf124314ad1e4f2de8f5565a66d2f0a41a37c4821aba14cb7bc0",
+    "pages": 186,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1XUTX_uU_oxklYBvHutvx_5507NA73NNz&export=download",
+        "bytes": 4841301,
+        "md5": "fcd72fb92aaa55f0f925e52225f6694e",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p185: word-search exercise page, printed p179 (last content page)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "pdf"
   },

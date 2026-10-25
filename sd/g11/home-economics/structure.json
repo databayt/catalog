@@ -17,6 +17,25 @@
     "edition": "العلوم الأسرية للصفين الأول والثاني (التعليم الثانوي) — الطبعة المنقحة ٢٠١٠م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة: ٢٠١٠م",
+    "editionBasis": "printed",
+    "evidence": "title page p2: «للصفين الأول والثاني — الطبعة المنقحة : ٢٠١٠م»",
+    "pdfSha256": "f8dd4eabf138b2c586abf04385ed2deefb531cd849e814870c9522f73eab2292",
+    "pages": 163,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=17QpWeFmR-HdvyK2rChA0LEcrLNl6VBqs&export=download",
+        "bytes": 4056434,
+        "md5": "ea0cf1250902b5583610798bb03ab48a",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "old-curriculum book for grades 1 and 2 together; complete body (constant offset 7, ends p.156); the scan lacks the contents rows for printed pp.91–123 between pdf p3 and p4"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

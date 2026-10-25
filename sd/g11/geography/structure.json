@@ -17,6 +17,25 @@
     "edition": "الجغرافيا والدراسات البيئية — الصف الثاني الثانوي — الطبعة المنقحة ٢٠١٢م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠١٢ م",
+    "editionBasis": "printed",
+    "evidence": "title page p3: «الطبعة المنقحة ٢٠١٢ م»; intro p5 refers to «كتاب الصف الأول ... الطبعة المنقحة»",
+    "pdfSha256": "b8e9686135d2b923d274d4ee5427586e65b893a2de80555650e6aaa6a8332ada",
+    "pages": 238,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1natPcFQIrX8mLYgubqyiYDTCwajs-9_N&export=download",
+        "bytes": 66750855,
+        "md5": "f5a1f7d11fb20b845e4c77ce7a843289",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

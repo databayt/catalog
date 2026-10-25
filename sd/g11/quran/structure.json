@@ -17,6 +17,25 @@
     "edition": "القرآن الكريم وعلومه — الصف الثاني الثانوي — الطبعة الثانية المنقحة ٢٠١٠م",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية المنقحة ٢٠١٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الثانية المنقحة ٢٠١٠م»",
+    "pdfSha256": "4e32d6c7e0e220af7d4cf60389a7dbf0c86276fd0ed12966b5c9179196145c23",
+    "pages": 191,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11odQBNY4sjpfRoB7eMpB4pIJ1aQ5oaSw&export=download",
+        "bytes": 33039499,
+        "md5": "3e4f2998d633ea76e5f255bc8c512932",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

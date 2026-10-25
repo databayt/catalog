@@ -17,6 +17,24 @@
     "edition": "الفنون والتصميم للصفين الأول والثاني (التعليم الثانوي) — بخت الرضا — ردمك 978-99942-53-46-3، غير مؤرخ",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — read pp1-7 and last 2 (103-104): no edition line, no year, no deposit number; title page p3, ISBN p4; intro p7 says «ضمن البرامج الجديدة في مناهج المدرسة الثانوية»; one book covers grades 1 and 2 (g10+g11)",
+    "pdfSha256": "526035c0b9bf80c45627a99635b4e2691fd0d609494266b69e98f7f283d2c564",
+    "pages": 104,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gmEVMzqWoOcPPKXIxVciFc0CVU_f4gkc&export=download",
+        "bytes": 13237892,
+        "md5": "00470a64e8aef8d4192fd8d62a13557b",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad (Rwad Al-Tamayoz, www.rowadaltamayoz.com)', 'p2: publisher cover', 'p4: ISBN-only page', 'p6: contents cont.']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

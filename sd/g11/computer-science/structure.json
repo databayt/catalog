@@ -17,6 +17,25 @@
     "edition": "مقدمة في نظم معالجة البيانات والبرمجة — الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م (ردمك 978-99942-53-26-5)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية ٢٠٠٨م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الثانية ٢٠٠٨م» (title «مقدمة في نظم معالجة البيانات والبرمجة»); ISBN p4; contents p5; deposit on last page p74: «رقم الإيداع: 769|2008»",
+    "pdfSha256": "d4aae9dac8b80aae7fc0f792b13132250a57f7a23ae18a5fa53d4aaea9e96624",
+    "pages": 74,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1aERVGgm5MHb3hexvtoUrx273dX8YRjP-&export=download",
+        "bytes": 8696192,
+        "md5": "f0e17d5f7f871038ffed50ad6cb8c026",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p73: blank']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },
