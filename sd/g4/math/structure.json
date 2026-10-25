@@ -17,6 +17,24 @@
     "edition": "الرياضيات — الصف الرابع — الطبعة الثانية ٢٠٢١م (119 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية : ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf3 bottom: «الطبعة الثانية : ٢٠٢١م»; pdf5 foreword «وفقاً لرؤية المؤتمر القومي للتعليم ٢٠٢٠م … مرحلة التعليم الابتدائي»",
+    "pdfSha256": "a20bd3ebd69e94846559769492617403b41ac6c8a97e82936e5f632136b7f4cf",
+    "pages": 119,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ZkR0BN2PC5Sl3_p_Gk_EaxjcuWYwS-nW&export=download",
+        "bytes": 8789814,
+        "md5": "ed60b95a7a415c856d7c1892dbec14b1",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

@@ -13,7 +13,26 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى: ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى: ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى : ٢٠٢٤ م»; foreword p4: «كتاب الرياضيات للصف الثالث من مرحلة التعليم المتوسط وفقاً لرؤية المؤتمر القومي للتعليم ٢٠٢٠م … وقد جاء المقرر امتداداً لمقرري الصف الأول والثاني متوسط»",
+    "pdfSha256": "2be058bad457f7a25ba6944f4dc7eb4460a9daf5b7302fed4820c77a860eeb9e",
+    "pages": 304,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Pccs5n28OeDAPPLXUzpVpVvxln49D1IU&export=download",
+        "bytes": 7417776,
+        "md5": "97f0458c3eef94bc25e0251b395fae66",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

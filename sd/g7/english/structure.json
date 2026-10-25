@@ -13,7 +13,26 @@
   "concept": "english",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "2nd Edition 2024"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2nd Edition 2024",
+    "editionBasis": "printed",
+    "evidence": "cover pdf p1: «2nd Edition 2024»; p2 acknowledgements mention SMILE Series 1st Edition",
+    "pdfSha256": "4b27ebf7a8499c0714ab70bd573307b733dfbe96893a9e76f53a7d1840fdb06a",
+    "pages": 66,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1xJzrjoFa7KWSFvBYvsu9Z6n8-bQs8LSG&export=download",
+        "bytes": 54248259,
+        "md5": "ca99c4fc3a859a2dca744861d252f6fc",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

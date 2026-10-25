@@ -13,7 +13,26 @@
   "concept": "faith",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢١م»; cover p1 «الصف الأول» المرحلة المتوسطة; footer «التربية الإسلامية – الصف الأول – المرحلة المتوسطة»",
+    "pdfSha256": "ccd9d7694f105eb069b5ce8cb14134d90a2a3df884de000f0fc712b30f0597fc",
+    "pages": 150,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-6XOuwlDq7LFR4oQQg7olPVIAJltiAl5&export=download",
+        "bytes": 12309518,
+        "md5": "8ae811aeb33f32d516152b71130ee5c8",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

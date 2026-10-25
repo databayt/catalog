@@ -15,6 +15,23 @@
     "publisher": "sd-ncerd",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "pdf p2 title page and p3 rights page («حقوق الإعداد والطبع والنشر محفوظة للمركز القومي للمناهج ...») read; no edition line, no year, no ISBN/deposit",
+    "pdfSha256": "2724f97279ceef8802e76d7f06df126fe14b55c90e91bb1e76e6d5d3bdf5f8f0",
+    "pages": 115,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1iCyd3NIsLnjHlHD6ZhGaCNeO6971MzVy&export=download",
+        "bytes": 29770602,
+        "md5": "00a2f261cec09a558f87a6bee01fce7d",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "contributors": [
     "databayt"
   ],

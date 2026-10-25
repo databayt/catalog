@@ -15,6 +15,23 @@
     "publisher": "sd-ncerd",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "pp1-7 read (title p1, credits p2, intro p3, acknowledgements p4, series title p5, copyright p6, contents p7): no edition statement, no year, no ISBN. Intro p3 says SMILE is a new curriculum replacing SPINE; sibling Arabic-medium g9 books carry 2024 first edition but that is not printed here.",
+    "pdfSha256": "1de1c90fcdaf29439c5660704becbf2c2864aa2ca4d97a6147e728e2db08be54",
+    "pages": 72,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/06/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A7%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86.pdf",
+        "bytes": 20773419,
+        "md5": "3dfe09d641a28dc1ba4a75714c14238e",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "contributors": [
     "databayt"
   ],

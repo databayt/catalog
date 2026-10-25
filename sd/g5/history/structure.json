@@ -13,7 +13,26 @@
   "concept": "history",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "[لا سنة مطبوعة في الصفحات 1-8]"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "[لا سنة مطبوعة في الصفحات 1-8]",
+    "editionBasis": "inferred",
+    "evidence": "pp1-8 read: no edition line, no year; p2 credits (د. معاوية السر قشي، أ.د. أسامة عبدالله), same cover/credits design and ministry/center block as the 2021 first-edition grade-5 books (geography, ICT) and mentions الصف الخامس ابتدائي",
+    "pdfSha256": "7c8793d3cff445e2297f3d52f2a3162c768a5123ed5dc0341b598b7f398471fd",
+    "pages": 121,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1u-iHkQ-p6-cjjjz_97_2XZJR6R7Hv9PA&export=download",
+        "bytes": 21125599,
+        "md5": "f6d0345f3f1d3d02df6566c95af4daa7",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

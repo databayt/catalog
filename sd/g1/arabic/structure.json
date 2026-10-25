@@ -13,7 +13,26 @@
   "concept": "language",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٠م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٠م»; intro p5: «وفق السلم التعليمي الجديد … تنقيح لكتاب التعليم الأساسي الذي وضع بعد تغيير المنهج في عام ٢٠١٣م»",
+    "pdfSha256": "b362d5cead483edd4e898158ecf983423f73166d3281692a8f8192bd37e92c0a",
+    "pages": 128,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1PU-HGxxTUnicd-We25tMuSVC7YhJn7WW&export=download",
+        "bytes": 15638850,
+        "md5": "8c923fe50e49c1ef5fe6169f5618ae46",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

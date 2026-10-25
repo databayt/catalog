@@ -13,7 +13,26 @@
   "concept": "art",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "2021م (cover only)"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2021م (cover only)",
+    "editionBasis": "inferred",
+    "evidence": "pdf1 front cover «الصّف الرابع ٢٠٢١م»; pdf2 title page; pdf3 copyright «حقوق الإعداد والطبع والنشر محفوظة للمركز القومي للمناهج» with no edition line; pdfs 4-8 read, none. Edition inferred from the cover year only",
+    "pdfSha256": "91c5b26068ad98f47167f7402b4900b9f4ee97a9054357a7a3347294814696ce",
+    "pages": 52,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1lguNJlQ6c91r1WPxxbLc8pl4VsptyMPr&export=download",
+        "bytes": 19051318,
+        "md5": "8977ba3841089fc46ddc461310a66512",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

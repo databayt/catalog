@@ -13,7 +13,26 @@
   "concept": "language",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطّبْعَة الأولى ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطّبْعَة الأولى ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطّبْعَة الأولى ٢٠٢٤م» under copyright box",
+    "pdfSha256": "40b97012f0e09e5ff63743b0258c866ac65669590170392290e72f5639ba8b5f",
+    "pages": 236,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1e7q4wJsznsANdisupUxwcycXtsbHRoyp&export=download",
+        "bytes": 5372697,
+        "md5": "d38d6f34ffd5337e45d496a5dbd70ad9",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

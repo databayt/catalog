@@ -14,7 +14,27 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p4: «الطبعة الأولى ٢٠٢١م» under rights notice; printer IGPP on back cover p84",
+    "pdfSha256": "5925575baf022e1839ee3d7e01b303a8c23598262126bd2bf695e4f8084a0af8",
+    "pages": 84,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1L9LB0RrPAnfORPMPbVShxydtu78XpTYR&export=download",
+        "bytes": 15272541,
+        "md5": "7e8188a24decf71b147f6ff20929e349",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "design differs from the other g6 books; curriculum marker not printed."
   },
   "contributors": [
     "databayt"

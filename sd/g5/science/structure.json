@@ -14,7 +14,18 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf p3: «الطبعة الأولى ٢٠٢١م» under copyright box (حقوق الإعداد والطبع والنشر محفوظة لوزارة التربية والتعليم)",
+    "pdfSha256": "446ea407ff69188ea037c8aeaddf63793339c19d7da739162802cf0923513dc8",
+    "pages": 67,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

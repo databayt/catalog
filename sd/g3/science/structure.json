@@ -17,6 +17,23 @@
     "edition": "العلوم — الصف الثالث — المنهج الجديد (سلسلة 2020) — نسخة الوزارة (59 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "pdf p2 title page, p3 rights page («حقوق الإعداد والطبع والنشر محفوظة لوزارة التربية والتعليم») read; no edition line, no year, no ISBN/deposit",
+    "pdfSha256": "c58b8fa8fc830defed252d8ed7a7f5ea7976e199d2f4347745ff3f10d97e684f",
+    "pages": 59,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zdq1ncOS0jVMWQqY4w1UF8xDX2T-C-RH&export=download",
+        "bytes": 15712316,
+        "md5": "06487aafcfdc6d8ca1fef823b7da3fc6",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

@@ -13,7 +13,26 @@
   "concept": "skills",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى : ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى : ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى : ٢٠٢٤م»; foreword p4: «مقرر الصف الثالث للمرحلة المتوسطة الكتاب الثاني لسلسلة أساسيات التربية التقنية»",
+    "pdfSha256": "824fb89fcd5430341b571394cae284835697197143b17d747a41431a06cc7002",
+    "pages": 160,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-xD47oyqc8wqsG3gnXGTmF8WdXJj9ny3&export=download",
+        "bytes": 26886132,
+        "md5": "dfc751978a8d9fc9c23fa27ee038173d",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

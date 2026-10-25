@@ -13,7 +13,26 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة المنقحة ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة المنقحة ٢٠٢١م»; intro p5 cites 2020 national education conference vision",
+    "pdfSha256": "e7ec889969d4b963514a03fed9c3f2b57d2559e534197378cbc9bb73e4a5413c",
+    "pages": 76,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zZK4DpFezhgZ7DmTmkCzw0ufci6Savwh&export=download",
+        "bytes": 9243449,
+        "md5": "c2bb59f602834a1f75bd32d45a6a9541",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

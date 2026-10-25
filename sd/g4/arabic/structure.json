@@ -16,6 +16,23 @@
     "basis": "official-toc-2026-08",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "pdf1 title page «المرحلة الابتدائية / اللغة العربية / الصف الرابع»; pdf2 copyright box has no edition or year; pdf3 contents; pdf4 مقدمة (المؤلفون); pdf5-8 read, no edition line. Last pages pdf103-104 are printed pp.103-104 (unit 5 ends p.104 per contents)",
+    "pdfSha256": "31b96e6267708b0d23eb0163c2f0c086defe5773d6a56b94a883d52bc075aaf5",
+    "pages": 104,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Vl_vl_jGnBf7W8eOnewDwVi4-GPWn8TZ&export=download",
+        "bytes": 4133523,
+        "md5": "89feb11b94f0e05546b2d434f2f08377",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "contributors": [
     "databayt"
   ],

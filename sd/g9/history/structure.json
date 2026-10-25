@@ -13,7 +13,26 @@
   "concept": "history",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى : ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى : ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى : ٢٠٢٤م» under copyright box",
+    "pdfSha256": "b39bd11e5c8af151999eb251c0b6d426f1883c6b3801abb259a9c12b4810c471",
+    "pages": 120,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1kQizFSI-RJup_0jSyAmc9I4KwDPQGOzt&export=download",
+        "bytes": 13117070,
+        "md5": "8b5b8cd5ba695d3b7eba54f7b1031db2",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

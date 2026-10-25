@@ -16,6 +16,23 @@
     "basis": "official-toc-2026-08",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "pdf p2 title page, p3 rights page (printed p2) and p5 foreword read; no edition line, no year, no ISBN/deposit. p5 foreword: «هذا كتاب اللغة العربية للصف الثالث ... وفق السلم التعليمي الجديد، وهو تنقيح للكتاب القديم»",
+    "pdfSha256": "3564b5f8e4a95f3186f9c29b3da803521a796555aa037ee914c93b915194d381",
+    "pages": 131,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1vSyZfY1JLa2dr5B3AtVLHVo3UHYd4LXc&export=download",
+        "bytes": 35160063,
+        "md5": "ebba196aaad15bafde080ca19c591f78",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "contributors": [
     "databayt"
   ],

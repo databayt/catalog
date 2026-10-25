@@ -13,7 +13,19 @@
   "concept": "science",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى : ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى : ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى : ٢٠٢٤م»; foreword p4: «كتاب العلوم الطبيعية … في نسخته الثالثة»; footer «العلوم - الصف الثالث – المرحلة المتوسطة»",
+    "pdfSha256": "ebb4d059f2c4e727e4ecdc7df5ef07856ef10f10938ee3f911c4ae8b68634bb9",
+    "pages": 192,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "every page carries a small «CamScanner» stamp."
   },
   "contributors": [
     "databayt"

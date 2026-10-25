@@ -90,7 +90,11 @@ if (cmd === "plan") {
     const dir = join(REPO, cur, grade, subject)
     const base = `catalog/${cur}/${grade}/${subject}`
     const pdf = lock[`${base}/textbook.pdf`]
-    if (!pdf) throw new Error(`${subject}: textbook.pdf is not in assets.lock.json`)
+    // A subject with no book yet (g8 art) has nothing to verify; the book gate fails it anyway.
+    if (!pdf) {
+      console.log(`  ${subject}: no textbook.pdf in assets.lock.json — skipped`)
+      continue
+    }
     const pages = Object.keys(lock).filter((k) => k.startsWith(`${base}/pages/`)).length
     const s = read<Structure>(join(dir, "structure.json"))
     const was = prior?.subjects[subject]

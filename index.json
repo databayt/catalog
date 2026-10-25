@@ -6606,12 +6606,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 128,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6637,12 +6637,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 94,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6668,12 +6668,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 36,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6699,12 +6699,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 84,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6735,12 +6735,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 101,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6766,12 +6766,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 95,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6797,12 +6797,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 56,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6828,12 +6828,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 76,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6864,12 +6864,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 131,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6895,7 +6895,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 118,
         "pagesMd": 0
        },
        "gates": {
@@ -6926,7 +6926,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 130,
         "pagesMd": 0
        },
        "gates": {
@@ -6957,12 +6957,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 72,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -6988,12 +6988,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 115,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7019,12 +7019,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 59,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7055,12 +7055,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 104,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7086,12 +7086,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 52,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7117,7 +7117,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 127,
         "pagesMd": 0
        },
        "gates": {
@@ -7148,7 +7148,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 75,
         "pagesMd": 0
        },
        "gates": {
@@ -7179,12 +7179,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 68,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7210,12 +7210,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 81,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7241,12 +7241,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 119,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7272,12 +7272,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 97,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7308,7 +7308,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 155,
         "pagesMd": 0
        },
        "gates": {
@@ -7339,7 +7339,7 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 251,
         "pagesMd": 0
        },
        "gates": {
@@ -7370,7 +7370,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 27,
         "pagesMd": 0
        },
        "gates": {
@@ -7401,7 +7401,7 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 129,
         "pagesMd": 0
        },
        "gates": {
@@ -7432,7 +7432,7 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 210,
         "pagesMd": 0
        },
        "gates": {
@@ -7463,7 +7463,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 119,
         "pagesMd": 0
        },
        "gates": {
@@ -7494,12 +7494,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 37,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7525,12 +7525,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 121,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7556,7 +7556,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 129,
         "pagesMd": 0
        },
        "gates": {
@@ -7587,12 +7587,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 58,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7618,12 +7618,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 105,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7649,12 +7649,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 156,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7680,12 +7680,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 67,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7711,12 +7711,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 58,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7778,11 +7778,11 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 113,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false
@@ -7840,12 +7840,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 68,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7871,12 +7871,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 84,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7902,12 +7902,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 55,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7933,12 +7933,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 113,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -7995,12 +7995,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 93,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8031,12 +8031,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 208,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8062,11 +8062,11 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 53,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false
@@ -8093,12 +8093,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 66,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8124,12 +8124,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 104,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8155,12 +8155,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 119,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8186,12 +8186,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 82,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8217,12 +8217,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 150,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8248,12 +8248,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 145,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8279,11 +8279,11 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 152,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false
@@ -8315,12 +8315,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 191,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8377,7 +8377,7 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 67,
         "pagesMd": 0
        },
        "gates": {
@@ -8408,12 +8408,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 126,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8439,12 +8439,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 102,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8470,12 +8470,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 175,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8501,12 +8501,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 191,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8532,12 +8532,12 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 53,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8563,12 +8563,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 132,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8594,12 +8594,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 81,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8630,12 +8630,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 236,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8661,12 +8661,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 72,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8692,12 +8692,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 160,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8723,12 +8723,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 120,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8754,12 +8754,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 92,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8785,12 +8785,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 184,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8816,12 +8816,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 304,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8847,12 +8847,12 @@
         "cover": true,
         "thumbnail": true,
         "banner": true,
-        "pages": 0,
+        "pages": 192,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
-        "structure": false,
+        "book": true,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8878,11 +8878,11 @@
         "cover": true,
         "thumbnail": false,
         "banner": false,
-        "pages": 0,
+        "pages": 160,
         "pagesMd": 0
        },
        "gates": {
-        "book": false,
+        "book": true,
         "structure": false,
         "twin": false,
         "assessment": false

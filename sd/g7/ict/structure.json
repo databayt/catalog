@@ -13,7 +13,26 @@
   "concept": "computer",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢١م»; cover p1: «الصف الأول» المرحلة المتوسطة; running footer «أول متوسط»",
+    "pdfSha256": "3ab16049db7c2cfec5013c41e3bb27357e9182a407e47a06a6957ab2b8627015",
+    "pages": 82,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1RacQxtc6i9UrHkNAHUaZuD-PcHrVcM6E&export=download",
+        "bytes": 8002598,
+        "md5": "33e555bdd4665ee6fa160c2c8315a441",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

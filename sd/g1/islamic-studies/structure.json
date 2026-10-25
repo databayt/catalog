@@ -13,7 +13,26 @@
   "concept": "faith",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٠م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٠م» with Sudan Currency Printing Press logo",
+    "pdfSha256": "16dd15c15b6e7dd298bbce54f78ec6e37fa2c150bc44a84681996bf7bc87bf1e",
+    "pages": 36,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Za6cQfHnDBOmcjtEDv_K_yfkaoxchz_5&export=download",
+        "bytes": 7510958,
+        "md5": "3a142b807c5d92749035deca71bbffe9",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

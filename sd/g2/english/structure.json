@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "2nd Edition 2020"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2nd Edition 2020",
+    "editionBasis": "printed",
+    "evidence": "title page p1: «2nd Edition 2020»; p2 acknowledgements refer to SMILE Series 1st Edition",
+    "pdfSha256": "7db654926067788e10d31d4c6d2eb52d739e9e09a353056f8240fdf75c27ab54",
+    "pages": 95,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1OJ1dDoKsyLnjsUZmmZUIqoR2gMdOL1h-&export=download",
+        "bytes": 14768182,
+        "md5": "8f05a7d3d362ecc5345fb3362123edee",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

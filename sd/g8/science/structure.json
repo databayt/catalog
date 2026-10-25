@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٢م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٢م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٢م»; no ISBN/deposit seen. Foreword p5 calls it «في نسخته الثانية» (second version of the series) and cites 21st-century skills / vision 2030",
+    "pdfSha256": "2d36670a96644e025d6b52f56971a1b0cc660da385bfe68ec4049a1566152766",
+    "pages": 132,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1go0vCmisuIaUnOqJPn4t5qmTiI8d_gcd&export=download",
+        "bytes": 8830551,
+        "md5": "91cf0afb0476968bc985488b6da2b50d",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

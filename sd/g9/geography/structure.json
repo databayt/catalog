@@ -13,7 +13,26 @@
   "concept": "geography",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢٤م» under copyright box",
+    "pdfSha256": "cbb29fa4210911e2c62dbd0fdff3d7e6383b5e7cf4c37c38732404a940dc6815",
+    "pages": 160,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11Dj1qECHzdHoMOYB9u7aet1kPq8Xgb7L&export=download",
+        "bytes": 13733766,
+        "md5": "55b59fb3e0cc6afc51f46633a971d5ab",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

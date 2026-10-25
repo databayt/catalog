@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١ م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١ م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p3 (printed «أ»): «الطبعة الأولى ٢٠٢١ م»; cover p1 (two-page cover spread, left half cover, right half logo) «الصف الأول» المرحلة المتوسطة",
+    "pdfSha256": "9a0b1db5e3767850915eebf558f0990d5fa13903c750ce9b140e963f0e152913",
+    "pages": 145,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1EQjeDyoI3pJtJMpXjKcO6qwRO-RgNuS_&export=download",
+        "bytes": 9417532,
+        "md5": "f7bfa1d144c358ba463b429a4439fc8e",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

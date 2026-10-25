@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٠م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى ٢٠٢٠م» above Sudan Currency Printing Press logo",
+    "pdfSha256": "c92398e21f2021bd09886225544e687c130b8e054556c233feb88acea7250590",
+    "pages": 68,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1-dSFgdCR3IqfJFZ3l4USpXdPNB52ZSN8&export=download",
+        "bytes": 10774792,
+        "md5": "1f5017b3acb8bc3447f87b94e123941f",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

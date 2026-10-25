@@ -13,7 +13,26 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الثانية ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf p3: «الطبعة الثانية ٢٠٢١م» under copyright box (حقوق الإعداد والطبع والنشر محفوظة للمركز القومي للمناهج والبحث التربوي)",
+    "pdfSha256": "5161bb5ecd3dbd1be0c4c49be115d945cf2a235abe62d6fdede6705967a6e81c",
+    "pages": 156,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Z52WPwLHDb-Rkjie1h585LiOtMahmKCD&export=download",
+        "bytes": 8963543,
+        "md5": "492f0747c25f24777e9bad0b73045743",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

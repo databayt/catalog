@@ -17,6 +17,16 @@
     "edition": "التربية الفنية — الصف السادس — الطبعة الأولى ٢٠٢١م (113 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى ٢٠٢١م» ٢٠٢١م",
+    "pdfSha256": "539f7e40b62b51fe661fbabe283265f77fd1d68f32c9296e5c5808d6e157a890",
+    "pages": 113,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

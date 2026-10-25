@@ -17,6 +17,17 @@
     "edition": "العلوم — الصف الرابع — الطبعة الأولى ٢٠٢١م (97 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf3 bottom: «الطبعة الأولى ٢٠٢١م»",
+    "pdfSha256": "6cb6369b1728f1f24e05d7c3ce842aff09d2d8e6aea575c2cdee4cc2caddff76",
+    "pages": 97,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "file ends at printed p91, mid-exercise of unit 8 — may lack its final page."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

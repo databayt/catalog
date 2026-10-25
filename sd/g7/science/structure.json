@@ -13,7 +13,18 @@
   "concept": "science",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢١م»; cover p1 «الصف الأول» المرحلة المتوسطة",
+    "pdfSha256": "fbaf5c77d1487dd3860182e0b83a345ee8ad7465b84b1f131a6a8420fcc86313",
+    "pages": 152,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

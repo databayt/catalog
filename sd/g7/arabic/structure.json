@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١ م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١ م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢١ م»; cover p1 «المرحلة المتوسطة / اللغة العربية / الصف الأول»",
+    "pdfSha256": "ecdc043346d44b3a0b13ee965324a62cb656f142e064678377f086d36130ff2e",
+    "pages": 208,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1q8HUMnEKDTBDf07OWPV97A2621fs9fKN&export=download",
+        "bytes": 2705405,
+        "md5": "72732eadd5a2e4de2a6d5e8683e342b2",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

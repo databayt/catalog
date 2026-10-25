@@ -13,7 +13,32 @@
   "concept": "geography",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢١م» under the copyright box; cover p1 says «تم إعداد الكتاب بواسطة لجنة من المعلمين والخبراء بتكليف ومتابعة وإشراف من المركز القومي للمناهج والبحث التربوي»",
+    "pdfSha256": "1efabebd93c28e3d07ac6645dfb33b10fc724a2ba65dfaf86207c4f91b627a07",
+    "pages": 37,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1bZvAk23beGaLBT3YMAxfZXyM75cU7vBF&export=download",
+        "bytes": 7554967,
+        "md5": "4cf082d3f360df463ae1033fd957a2e1",
+        "identical": true
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1bZvAk23beGaLBT3YMAxfZXyM75cU7vBF&export=download",
+        "bytes": 7554967,
+        "md5": "4cf082d3f360df463ae1033fd957a2e1",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

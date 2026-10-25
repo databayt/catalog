@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٢م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٢م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٢م»; no ISBN/deposit seen",
+    "pdfSha256": "58ce7a5ebd34b9f04d918aab28560c0c6bfd3272ba33685f7f45c64146e65b0e",
+    "pages": 81,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1jKUhJQQKWuQR5QjSbBmlQIfhiYlTe_GL&export=download",
+        "bytes": 6413021,
+        "md5": "61bb9dd3769871392e9d6d1b101e138b",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

@@ -13,7 +13,26 @@
   "concept": "english",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "2nd Edition 2020"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "2nd Edition 2020",
+    "editionBasis": "printed",
+    "evidence": "title page p1: «2nd Edition 2020»; p2 acknowledges British Council and World Bank (BERP)",
+    "pdfSha256": "43be751fef9fea74b796c826bba37ae20a7a53d75b703ea3073e1f2bc52f06c1",
+    "pages": 94,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1FVM5cCIf0rw1QVgtv2FJCTLBO8FU_82z&export=download",
+        "bytes": 12601155,
+        "md5": "b06685143a12a442778c1f2b17da69f8",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

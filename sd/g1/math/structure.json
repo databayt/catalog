@@ -13,7 +13,26 @@
   "concept": "math",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٠م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٠م» with Sudan Currency Printing Press",
+    "pdfSha256": "5056dfbdb9bb4aeea41eeb70f92c2aed34114bb94db6247e590aa591dfc6d52f",
+    "pages": 84,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1WB74Dj5RYTeeKSBLKPix7WbqaEwik6JB&export=download",
+        "bytes": 27292226,
+        "md5": "ffad6b39aeac5e721cc50298b1048c60",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

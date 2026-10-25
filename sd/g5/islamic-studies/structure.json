@@ -13,7 +13,26 @@
   "concept": "faith",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf p3: «الطبعة الأولى ٢٠٢١م» under copyright box (حقوق الاعداد للمركز القومي للمناهج والبحث التربوي وحقوق الطبع والنشر محفوظة لوزارة التربية والتعليم); p2 title page; p4 foreword",
+    "pdfSha256": "c5cec3b2a28cac1504cdbd0279cfab798d89ef2a20a4aef2e6a653f3c40c5c81",
+    "pages": 105,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=14G7TPoisrd8fddQQEfovYvCGKO8e7A6b&export=download",
+        "bytes": 19415765,
+        "md5": "761b4de2a37ccd411bab61835e518692",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

@@ -17,6 +17,16 @@
     "edition": "العلوم — الصف السادس — الطبعة الأولى ٢٠٢٠م (مسح ضوئي، 93 صفحة)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٠م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى ٢٠٢٠م» above Sudan Currency Printing Press logo",
+    "pdfSha256": "c5fbfb342c2c49a2e612caab3d8b66235105b510f75150fc092531ebf54d0855",
+    "pages": 93,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

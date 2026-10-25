@@ -13,7 +13,26 @@
   "concept": "faith",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٤م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٤م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبّعة الأولى ٢٠٢٤ م»; cover p1 «المرحلة المتوسطة – التربية الإسلامية – الصف الثالث»; running footer «التربية الإسلامية – ثالث متوسط»",
+    "pdfSha256": "fd36b7ea011d1895125a9e862f1a454c9f6780653e1b7f0021323c9b48bec91e",
+    "pages": 184,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/06/%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB-%D9%85%D8%AA%D9%88%D8%B3%D8%B7-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 11130274,
+        "md5": "81787458a77cfe57200633a03a3a32ba",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

@@ -14,7 +14,27 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢٢م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٢م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى ٢٠٢٢م»; no ISBN/deposit seen in p1-5 or last 2. Pages carry a diagonal watermark «المراجعة الأولية» (first-review draft) on p2,3,4,190,191 — draft/review copy of the book, not a clean print",
+    "pdfSha256": "fb04bebe2331b684ccad59e72b2588315748c5594455e2032277f2ff17e338c4",
+    "pages": 191,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1gF1AGjbtghrDgfFCsZREL-DD8gBa5rSG&export=download",
+        "bytes": 7448105,
+        "md5": "fb25a78fc576be14d4ede59db6afff63",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "pages carry a diagonal «المراجعة الأولية» watermark — a pre-press review copy; it is the only circulating file."
   },
   "contributors": [
     "databayt"

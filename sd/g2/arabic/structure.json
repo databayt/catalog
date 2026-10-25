@@ -14,7 +14,26 @@
   "source": {
     "publisher": "sd-ncerd",
     "basis": "official-toc-2026-08",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "imprint p3: «الطبعة الأولى ٢٠٢١م»; cover p1 and title p2 show الصف الثاني / المرحلة الابتدائية; intro p5: «وفق السلم التعليمي الجديد»",
+    "pdfSha256": "b0a63a2bc145f0fabf0e0704731f615f1f3d01da51b3bed531a7772e6439a3ee",
+    "pages": 101,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1zqeH8pFQBICbuaeFg6YuZ-HdzuVkTxXA&export=download",
+        "bytes": 45735463,
+        "md5": "5238451626a4d1c3c6217c3e3a1acffa",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

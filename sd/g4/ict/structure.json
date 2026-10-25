@@ -13,7 +13,26 @@
   "concept": "computer",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf3 copyright box bottom: «الطبعة الأولى ٢٠٢١م»",
+    "pdfSha256": "68d901822f7c12221284c0fb6f4a86ef92a2703f6f20ba48dbf74144fb084d73",
+    "pages": 68,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1rq9hpCEFh_U12No2cOLUbiaumwzP_alG&export=download",
+        "bytes": 24181685,
+        "md5": "b7536f587cd36f025a8624ea87074c6b",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"

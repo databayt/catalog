@@ -17,6 +17,17 @@
     "edition": "الجغرافيا — الصف الثاني المتوسط — الطبعة الأولى ٢٠٢٢م (126 صفحة، نسخة مراجعة بعلامة مائية)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٢م",
+    "editionBasis": "printed",
+    "evidence": "imprint p2: «الطبعة الأولى» ٢٠٢٢م",
+    "pdfSha256": "f14bc0d60e787586b362104b5a1115c82ff5886606016b0eda59f5e548168f65",
+    "pages": 126,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "scan carries an afedne.com header and a diagonal «للمراجعة» watermark — a pre-press review copy; almualm's clean copy is the same edition."
+  },
   "textbook": {
     "pageNumbers": "book"
   },

@@ -13,7 +13,18 @@
   "concept": "computer",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الأولى ٢٠٢١م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢١م",
+    "editionBasis": "printed",
+    "evidence": "pdf p3: «الطبعة الأولى ٢٠٢١م» under copyright box (حقوق الإعداد والطبع والنشر محفوظة للمركز القومي للمناهج)",
+    "pdfSha256": "3d42ddf69294d5ece7d69ca1aba791015adb8762e6e0c02d16bd40888a7285af",
+    "pages": 58,
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01"
   },
   "contributors": [
     "databayt"
