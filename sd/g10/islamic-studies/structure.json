@@ -17,6 +17,31 @@
     "edition": "التربية الإسلامية — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢٥م»",
+    "pdfSha256": "ae9822d4e25ce2d11cc2c5cd121eec69cdc242f6e2a568df5a97d0bb6e759641",
+    "pages": 214,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1GuLz0hsaByA4inu-mJgWNEYNOfOSWGjg&export=download",
+        "bytes": 19135911,
+        "md5": "896a20f25a05feb323a0e515591411a9",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1L3A_1J-Y0zL0cOIOIDM-4Q7zubUOgZWM&export=download",
+        "bytes": 28596745,
+        "md5": "b241fb78f1f761c749c1fb110b07d144",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [215] of the 215-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

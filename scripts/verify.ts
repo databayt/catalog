@@ -112,7 +112,9 @@ if (cmd === "plan") {
 
   mkdirSync(dirname(out), { recursive: true })
   writeFileSync(out, JSON.stringify(sheet, null, 2) + "\n")
-  console.log(`${out}\n${Object.keys(sheet.subjects).length} subjects — fill book/edition/evidence, then \`pnpm verify apply\``)
+  console.log(
+    `${out}\n${Object.keys(sheet.subjects).length} subjects — fill book/edition/evidence, then \`pnpm verify apply\``
+  )
 }
 
 if (cmd === "sources") {
@@ -188,6 +190,8 @@ if (cmd === "apply") {
     // recorded edition in `source` too — that is what a consumer reads.
     const next: Record<string, unknown> = {}
     for (const [k, val] of Object.entries(raw)) {
+      // A re-verify replaces the old block; copying it here would overwrite the new one.
+      if (k === "verification") continue
       next[k] = val
       if (k === "source") {
         // `verification.edition` is the precise line off the imprint page. `source.edition`

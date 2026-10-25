@@ -28,7 +28,8 @@
     "recheckAfter": "2027-06-01"
   },
   "textbook": {
-    "pageNumbers": "book"
+    "pageNumbers": "book",
+    "pageOffset": 7
   },
   "history": {
     "appliedOn": "2026-09-05",
@@ -48,7 +49,48 @@
       "image": "clickview/high-systems-of-government-cover.jpg",
       "page": 1,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تقديم",
+            "en": "Introduction"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تعريف الاستراتيجية",
+            "en": "Definition of Strategy"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أهمية الاستراتيجية",
+            "en": "The Importance of Strategy"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مبادئ الاستراتيجية الوطنية",
+            "en": "Principles of National Strategy"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "العوامل المؤثرة في اختيار الاستراتيجية",
+            "en": "Factors Influencing the Choice of Strategy"
+          },
+          "page": 12
+        }
+      ]
     },
     {
       "slug": "c2",
@@ -60,7 +102,48 @@
       "image": "clickview/high-decision-making-cover.jpg",
       "page": 15,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 15
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "مفهوم الاستراتيجية العسكرية",
+            "en": "The Concept of Military Strategy"
+          },
+          "page": 17
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "العوامل المؤثرة على استراتيجية الدولة العسكرية",
+            "en": "Factors Affecting a State's Military Strategy"
+          },
+          "page": 18
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مطالب وضع الاستراتيجية العسكرية",
+            "en": "Requirements for Formulating Military Strategy"
+          },
+          "page": 20
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أشكال الاستراتيجية العسكرية",
+            "en": "Forms of Military Strategy"
+          },
+          "page": 20
+        }
+      ]
     },
     {
       "slug": "c3",
@@ -72,7 +155,72 @@
       "image": "clickview/high-philosophy-cover.jpg",
       "page": 24,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "ماهية العقيدة العسكرية؟",
+            "en": "What Is Military Doctrine?"
+          },
+          "page": 24
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "العقيدة العسكرية والاستراتيجية العسكرية",
+            "en": "Military Doctrine and Military Strategy"
+          },
+          "page": 25
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أسس وضع وتطوير العقيدة العسكرية",
+            "en": "Foundations for Establishing and Developing Military Doctrine"
+          },
+          "page": 26
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "محتوى العقيدة العسكرية",
+            "en": "Content of Military Doctrine"
+          },
+          "page": 28
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الوجه السياسي للعقيدة العسكرية",
+            "en": "The Political Face of Military Doctrine"
+          },
+          "page": 28
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الوجه العسكري للعقيدة العسكرية",
+            "en": "The Military Face of Military Doctrine"
+          },
+          "page": 31
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "العقيدة العسكرية الإسلامية",
+            "en": "Islamic Military Doctrine"
+          },
+          "page": 33
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "النظريات الاستراتيجية للحرب في الإسلام",
+            "en": "Strategic Theories of War in Islam"
+          },
+          "page": 35
+        }
+      ]
     },
     {
       "slug": "c4",
@@ -84,7 +232,24 @@
       "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg",
       "page": 37,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 37
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "فن الحرب",
+            "en": "The Art of War"
+          },
+          "page": 38
+        }
+      ]
     },
     {
       "slug": "c5",
@@ -96,7 +261,64 @@
       "image": "clickview/high-the-vietnam-war-cover.jpg",
       "page": 43,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "المقدمة",
+            "en": "Introduction"
+          },
+          "page": 43
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "جوهر الحرب",
+            "en": "The Essence of War"
+          },
+          "page": 43
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المفهوم الاستراتيجي الإسرائيلي",
+            "en": "The Israeli Strategic Concept"
+          },
+          "page": 45
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أنواع الحروب",
+            "en": "Types of Wars"
+          },
+          "page": 45
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أنواع القوات",
+            "en": "Types of Forces"
+          },
+          "page": 48
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الحروب المحلية",
+            "en": "Local Wars"
+          },
+          "page": 54
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الخاتمة",
+            "en": "Conclusion"
+          },
+          "page": 57
+        }
+      ]
     },
     {
       "slug": "c6",
@@ -108,7 +330,40 @@
       "image": "clickview/high-space-cover.jpg",
       "page": 59,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 59
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "حقيقة حرب النجوم",
+            "en": "The Reality of Star Wars"
+          },
+          "page": 60
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "كيف يعمل نظام مبادرة الدفاع الاستراتيجي؟",
+            "en": "How Does the Strategic Defense Initiative System Work?"
+          },
+          "page": 61
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الصعوبات التي تواجه المشروع",
+            "en": "Difficulties Facing the Project"
+          },
+          "page": 63
+        }
+      ]
     },
     {
       "slug": "c7",
@@ -120,7 +375,56 @@
       "image": "clickview/high-personal-training-cover.jpg",
       "page": 65,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "أهمية التربية العسكرية",
+            "en": "The Importance of Military Education"
+          },
+          "page": 65
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "عملية التربية العسكرية",
+            "en": "The Process of Military Education"
+          },
+          "page": 66
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "سبل تحبيب العسكرية",
+            "en": "Ways of Making Military Service Appealing"
+          },
+          "page": 67
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الأسس التربوية والنفسية في البيئة العسكرية",
+            "en": "Educational and Psychological Foundations in the Military Environment"
+          },
+          "page": 68
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "تربية الجندي المسلم",
+            "en": "Educating the Muslim Soldier"
+          },
+          "page": 70
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "أهداف تدريب الجندي المسلم",
+            "en": "Objectives of Training the Muslim Soldier"
+          },
+          "page": 73
+        }
+      ]
     },
     {
       "slug": "c8",
@@ -132,7 +436,24 @@
       "image": "clickview/high-leadership-skills-cover.jpg",
       "page": 77,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 77
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "صفات القائد",
+            "en": "Qualities of the Leader"
+          },
+          "page": 78
+        }
+      ]
     },
     {
       "slug": "c9",
@@ -144,7 +465,32 @@
       "image": "clickview/high-ethical-debates-cover.jpg",
       "page": 88,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الرسالة الأولى",
+            "en": "The First Letter"
+          },
+          "page": 88
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الرسالة الثانية",
+            "en": "The Second Letter"
+          },
+          "page": 89
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الرسالة الثالثة",
+            "en": "The Third Letter"
+          },
+          "page": 94
+        }
+      ]
     },
     {
       "slug": "c10",
@@ -156,7 +502,24 @@
       "image": "clickview/high-historical-inquiry-cover.jpg",
       "page": 97,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "القائد خالد بن الوليد",
+            "en": "The Commander Khalid ibn al-Walid"
+          },
+          "page": 97
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "مونتقمري",
+            "en": "Montgomery"
+          },
+          "page": 105
+        }
+      ]
     },
     {
       "slug": "c11",
@@ -168,7 +531,40 @@
       "image": "clickview/high-macroeconomics-cover.jpg",
       "page": 118,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 118
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "إعداد الاقتصاد للحرب",
+            "en": "Preparing the Economy for War"
+          },
+          "page": 119
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "إعداد أرض الدولة كمسرح للعمليات الحربية",
+            "en": "Preparing the State's Territory as a Theatre of War Operations"
+          },
+          "page": 122
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "إدارة السياسة الخارجية لصالح الدفاع عن الدولة",
+            "en": "Conducting Foreign Policy in Support of the State's Defence"
+          },
+          "page": 123
+        }
+      ]
     },
     {
       "slug": "c12",
@@ -180,7 +576,64 @@
       "image": "clickview/high-world-war-ii-cover.jpg",
       "page": 126,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "التخطيط الاستراتيجي",
+            "en": "Strategic Planning"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تحديد وتكوين حجم القوات المسلحة لوقتي السلم والحرب",
+            "en": "Determining and Forming the Size of the Armed Forces in Peace and War"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الانفتاح الاستراتيجي للقوات المسلحة",
+            "en": "Strategic Deployment of the Armed Forces"
+          },
+          "page": 127
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "تعبئة القوات المسلحة",
+            "en": "Mobilisation of the Armed Forces"
+          },
+          "page": 127
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "التدريب القتالي والمعنوي للقوات والقيادات",
+            "en": "Combat and Morale Training of Forces and Commands"
+          },
+          "page": 128
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "تأمين الاستعداد القتالي العالي للقوات المسلحة",
+            "en": "Ensuring High Combat Readiness of the Armed Forces"
+          },
+          "page": 128
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "تنظيم وإدارة المخابرات الاستراتيجية",
+            "en": "Organising and Running Strategic Intelligence"
+          },
+          "page": 129
+        }
+      ]
     },
     {
       "slug": "c13",
@@ -192,7 +645,32 @@
       "image": "clickview/high-world-war-i-cover.jpg",
       "page": 130,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "غزوة بدر الكبرى",
+            "en": "The Great Battle of Badr"
+          },
+          "page": 130
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "معركة شيكان",
+            "en": "The Battle of Shaykan"
+          },
+          "page": 140
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "معركة العلمين",
+            "en": "The Battle of El Alamein"
+          },
+          "page": 156
+        }
+      ]
     }
   ]
 }

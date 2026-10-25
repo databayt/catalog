@@ -22,8 +22,8 @@
     "edition": "First Published 1996",
     "editionBasis": "printed",
     "evidence": "imprint p5: «First Published 1996»; p4: «الدويم: المركز القومي ... 2009م» + ردمك 978-99942-919-9-6; p186 deposit «165|2009»",
-    "pdfSha256": "1efd6023724bbf124314ad1e4f2de8f5565a66d2f0a41a37c4821aba14cb7bc0",
-    "pages": 186,
+    "pdfSha256": "f8eb645f8c22813529e29a8e119875da8167923c5ac5e606a830c812660c0d1f",
+    "pages": 185,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1XUTX_uU_oxklYBvHutvx_5507NA73NNz&export=download",
@@ -34,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p185: word-search exercise page, printed p179 (last content page)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p185: word-search exercise page, printed p179 (last content page)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "pdf"
@@ -54,7 +54,7 @@
       },
       "concept": "english",
       "image": "clickview/high-community-engagement-and-care-cover.jpg",
-      "page": 7,
+      "page": 6,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -62,21 +62,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 7
+          "page": 6
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 10
+          "page": 9
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 7,
+          "page": 6,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -84,7 +84,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 21,
+          "page": 20,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -92,7 +92,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 23,
+          "page": 22,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -104,7 +104,7 @@
       },
       "concept": "english",
       "image": "clickview/middle-population-and-urbanization-cover.jpg",
-      "page": 27,
+      "page": 26,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -112,21 +112,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 27
+          "page": 26
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 29
+          "page": 28
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 27,
+          "page": 26,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -134,7 +134,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 37,
+          "page": 36,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -142,7 +142,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 27,
+          "page": 26,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -154,7 +154,7 @@
       },
       "concept": "english",
       "image": "clickview/high-changing-roles-of-women-cover.jpg",
-      "page": 43,
+      "page": 42,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -162,21 +162,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 43
+          "page": 42
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 43
+          "page": 42
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 49,
+          "page": 48,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -184,7 +184,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 53,
+          "page": 52,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -192,7 +192,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 54,
+          "page": 53,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -204,7 +204,7 @@
       },
       "concept": "english",
       "image": "clickview/high-community-engagement-and-care-cover.jpg",
-      "page": 59,
+      "page": 58,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -212,21 +212,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 59
+          "page": 58
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 62
+          "page": 61
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 65,
+          "page": 64,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -234,7 +234,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 69,
+          "page": 68,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -242,7 +242,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 59,
+          "page": 58,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -254,7 +254,7 @@
       },
       "concept": "english",
       "image": "clickview/high-healthy-lifestyle-cover.jpg",
-      "page": 75,
+      "page": 74,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -262,21 +262,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 75
+          "page": 74
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 78
+          "page": 77
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 75,
+          "page": 74,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -284,7 +284,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 83,
+          "page": 82,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -292,7 +292,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 85,
+          "page": 84,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -304,7 +304,7 @@
       },
       "concept": "english",
       "image": "clickview/high-climate-change-cover.jpg",
-      "page": 89,
+      "page": 88,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -312,21 +312,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 89
+          "page": 88
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 93
+          "page": 92
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 89,
+          "page": 88,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -334,7 +334,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 98,
+          "page": 97,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -342,7 +342,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 89,
+          "page": 88,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -354,7 +354,7 @@
       },
       "concept": "english",
       "image": "clickview/high-learning-cover.jpg",
-      "page": 105,
+      "page": 104,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -362,21 +362,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 105
+          "page": 104
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 107
+          "page": 106
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 109,
+          "page": 108,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -384,7 +384,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 112,
+          "page": 111,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -392,7 +392,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 113,
+          "page": 112,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -404,7 +404,7 @@
       },
       "concept": "english",
       "image": "clickview/high-wildlife-case-studies-cover.jpg",
-      "page": 115,
+      "page": 114,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -412,21 +412,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 115
+          "page": 114
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 117
+          "page": 116
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 121,
+          "page": 120,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -434,7 +434,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 115,
+          "page": 114,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -442,7 +442,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 115,
+          "page": 114,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -454,7 +454,7 @@
       },
       "concept": "english",
       "image": "clickview/high-digital-media-cover.jpg",
-      "page": 131,
+      "page": 130,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -462,21 +462,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 131
+          "page": 130
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 134
+          "page": 133
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 136,
+          "page": 135,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -484,7 +484,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 131,
+          "page": 130,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -492,7 +492,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 142,
+          "page": 141,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -504,7 +504,7 @@
       },
       "concept": "english",
       "image": "clickview/high-the-impact-of-innovation-cover.jpg",
-      "page": 145,
+      "page": 144,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -512,21 +512,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 145
+          "page": 144
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 148
+          "page": 147
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 145,
+          "page": 144,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -534,7 +534,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 156,
+          "page": 155,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -542,7 +542,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 158,
+          "page": 157,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -554,7 +554,7 @@
       },
       "concept": "english",
       "image": "clickview/high-unconventional-contributors-cover.jpg",
-      "page": 160,
+      "page": 159,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -562,21 +562,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 160
+          "page": 159
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 162
+          "page": 161
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 166,
+          "page": 165,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -584,7 +584,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 169,
+          "page": 168,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -592,7 +592,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 170,
+          "page": 169,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]
@@ -604,7 +604,7 @@
       },
       "concept": "english",
       "image": "clickview/high-personal-training-cover.jpg",
-      "page": 173,
+      "page": 172,
       "lessonsGeneric": false,
       "lessons": [
         {
@@ -612,21 +612,21 @@
           "title": {
             "en": "Reading I"
           },
-          "page": 173
+          "page": 172
         },
         {
           "slug": "l2",
           "title": {
             "en": "Reading II"
           },
-          "page": 176
+          "page": 175
         },
         {
           "slug": "l3",
           "title": {
             "en": "Exploring Language"
           },
-          "page": 178,
+          "page": 177,
           "image": "clickview/high-sentences-cover.jpg"
         },
         {
@@ -634,7 +634,7 @@
           "title": {
             "en": "Writing"
           },
-          "page": 173,
+          "page": 172,
           "image": "clickview/high-writing-structures-and-conventions-cover.jpg"
         },
         {
@@ -642,7 +642,7 @@
           "title": {
             "en": "SPINE Challenge"
           },
-          "page": 173,
+          "page": 172,
           "image": "clickview/high-study-skills-cover.jpg"
         }
       ]

@@ -19,13 +19,14 @@
   },
   "verification": {
     "book": "verified",
+    "edition": "مقدمة في العلوم التجارية (محاسبة مالية، اقتصاد عام، رياضة مالية) — الصف الثاني الثانوي — رقم الإيداع ٧٦٨/٢٠٠٨",
     "editionBasis": "inferred",
     "evidence": "no edition statement printed — read pp1-7 and 192-193: copyright page p3 has «رقم الإيداع: ٧٦٨|٢٠٠٨», publisher/printer lines blank, no «الطبعة» line; title page p2",
-    "pdfSha256": "0748d81081c5bf37157e337c1aaa2875b5df80ed40c83daf574d697872cf6925",
-    "pages": 193,
+    "pdfSha256": "f66de9d9fc47dea5826bb15f4b1a31fe83fa9aa1796d5564bfe27d8fa80e8302",
+    "pages": 192,
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "old-curriculum book; no 2026 edition on almualm 2026-10-24 (not carried there). Complete: contents ends p.182, book ends p.183 on a full stop; pdf−printed offset grows 8→10 between pdf 50 and 150 (no duplicate or blank pages found — likely unnumbered unit dividers); pdf p1 is an aggregator ad"
+    "note": "old-curriculum book; no 2026 edition on almualm 2026-10-24 (not carried there). Complete: contents ends p.182, book ends p.183 on a full stop; pdf−printed offset grows 8→10 between pdf 50 and 150 (no duplicate or blank pages found — likely unnumbered unit dividers); pdf p1 is an aggregator ad; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

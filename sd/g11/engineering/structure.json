@@ -19,10 +19,11 @@
   },
   "verification": {
     "book": "verified",
+    "edition": "أساسيات العلوم الهندسية — الصف الثاني الثانوي — رقم الإيداع ٧٦٤/٢٠٠٨",
     "editionBasis": "inferred",
     "evidence": "no edition statement printed — imprint p4: rights box with empty «الناشرون :» and «الطابعون :» fields and «رقم الإيداع: ٧٦٤|٢٠٠٨»; no «الطبعة» line in p1-8 or last 2 pages (p180-181 body, printed pp 168-169). Edition value inferred only from the deposit year 2008, not a printed edition statement",
-    "pdfSha256": "a537c76a47fd21075db632804904ce333e9a25edb42b860662f12b772db97a07",
-    "pages": 181,
+    "pdfSha256": "925b0dd1210c9c262eb78e6426b82c22b2627eee39787592470ca13edec11c71",
+    "pages": 180,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1LqvvQrD0wyGFEFskzgECdyvEJE3ZrrG6&export=download",
@@ -33,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

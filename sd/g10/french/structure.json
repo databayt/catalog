@@ -15,6 +15,24 @@
     "publisher": "sd-ncerd",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p2 cover, p3 Avant-propos, p4 Remerciements, p5-6 TABLE DES MATIÈRES, p7 Légende, p8 MODULE 1; p200 embassy support credit; p199 blank numbered 198. Footer on p3: 'Ce livre n'est pas destiné à la vente'. 'inferred' value is null: no edition statement, year, ISBN or deposit anywhere in the pages read; book number '1' comes from cover only",
+    "pdfSha256": "7541f80d1c9f44acb8f7fdb1e1792a5cc7af726436d828b3f50527dccdc3504e",
+    "pages": 199,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1sVdeZyMpENxbIM4pnDn7ZKpIdN5wMrHs&export=download",
+        "bytes": 40985947,
+        "md5": "eb584524f2629378f714b7a1f84ca6ee",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [1] of the 200-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "contributors": [
     "databayt"
   ],

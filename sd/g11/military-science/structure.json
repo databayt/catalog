@@ -22,8 +22,8 @@
     "edition": "الطبعة الثانية ٢٠٠٨م",
     "editionBasis": "printed",
     "evidence": "title page p3: «الصف الثاني الثانوي — الطبعة الثانية ٢٠٠٨م»; deposit p95 «رقم الإيداع: 772|2008»",
-    "pdfSha256": "d0f5abac66276823fff7dbfab98a1c8c70a4e82178d57d91f9679a160aaba7fb",
-    "pages": 96,
+    "pdfSha256": "9fa6529caebb0103c5818c49295a3e76f5b7dcb9a7ae110214c58468f5148170",
+    "pages": 95,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1Q_8XIDgKh7pdyLbhWPQ7t9U9g8iOmWLt&export=download",
@@ -34,10 +34,11 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad', 'p96: blank', 'p95: copyright/deposit page placed at end']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad', 'p96: blank', 'p95: copyright/deposit page placed at end']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
-    "pageNumbers": "book"
+    "pageNumbers": "book",
+    "pageOffset": 7
   },
   "history": {
     "appliedOn": "2026-09-05",
@@ -57,7 +58,80 @@
       "image": "clickview/high-personal-training-cover.jpg",
       "page": 1,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "ذكر الله في ساحة المعركة وعند البأس",
+            "en": "Remembering God on the Battlefield and in Hardship"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الصبر في ميدان القتال على المشقات العسكرية",
+            "en": "Patience on the Battlefield Through Military Hardships"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الثبات في الحرب",
+            "en": "Steadfastness in War"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الشجاعة وعدم الفرار",
+            "en": "Courage and Not Fleeing"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "إحساس المقاتل بأنه يقاتل في سبيل الحق وأنه موعود بالنصر",
+            "en": "The Fighter's Sense That He Fights for the Truth and Is Promised Victory"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الرغبة في النصر أو نيل الشهادة",
+            "en": "The Desire for Victory or Martyrdom"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "التعاون بين المقاتلين وعدم الاختلاف فيما بينهم",
+            "en": "Cooperation Among Fighters and Avoiding Disagreement"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الحذر واليقظة",
+            "en": "Caution and Vigilance"
+          },
+          "page": 4
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "التدريب",
+            "en": "Training"
+          },
+          "page": 4
+        }
+      ]
     },
     {
       "slug": "c2",
@@ -69,7 +143,56 @@
       "image": "clickview/high-leadership-skills-cover.jpg",
       "page": 11,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "القيادة والقائد لغة واصطلاحاً",
+            "en": "Leadership and the Leader: Linguistic and Technical Meaning"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "القيادة والقائد حسب المفهوم العسكري",
+            "en": "Leadership and the Leader in the Military Sense"
+          },
+          "page": 12
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "القيادة الإدارية",
+            "en": "Administrative Leadership"
+          },
+          "page": 12
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مفاهيم القيادة في مدارس أخرى",
+            "en": "Concepts of Leadership in Other Schools"
+          },
+          "page": 13
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "ممارسة القيادة",
+            "en": "Exercising Leadership"
+          },
+          "page": 14
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "متطلبات القيادة",
+            "en": "Requirements of Leadership"
+          },
+          "page": 17
+        }
+      ]
     },
     {
       "slug": "c3",
@@ -111,7 +234,16 @@
       "image": "clickview/high-revolutionary-war-tactics-and-artifacts-cover.jpg",
       "page": 40,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "أحكام القتال في الإسلام",
+            "en": "Rules of Combat in Islam"
+          },
+          "page": 42
+        }
+      ]
     },
     {
       "slug": "c5",
@@ -123,7 +255,56 @@
       "image": "clickview/high-resilience-cover.jpg",
       "page": 48,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 48
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "ماهية الروح المعنوية",
+            "en": "The Nature of Morale"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "العوامل المؤثرة على الروح المعنوية",
+            "en": "Factors Affecting Morale"
+          },
+          "page": 50
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أسس بناء الروح المعنوية",
+            "en": "Foundations of Building Morale"
+          },
+          "page": 52
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "دراسات في الروح المعنوية في الحياة المدنية",
+            "en": "Studies of Morale in Civilian Life"
+          },
+          "page": 54
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "دراسات في الروح المعنوية في الحياة العسكرية",
+            "en": "Studies of Morale in Military Life"
+          },
+          "page": 56
+        }
+      ]
     },
     {
       "slug": "c6",
@@ -135,7 +316,64 @@
       "image": "clickview/high-systems-of-government-cover.jpg",
       "page": 58,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تعريف الأمن القومي",
+            "en": "Definition of National Security"
+          },
+          "page": 58
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "مفهوم الأمن",
+            "en": "The Concept of Security"
+          },
+          "page": 59
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "مفهوم الأمن القومي بعد الحرب العالمية الثانية",
+            "en": "The Concept of National Security After the Second World War"
+          },
+          "page": 61
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مهددات الأمن القومي",
+            "en": "Threats to National Security"
+          },
+          "page": 62
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "خصائص الأمن القومي",
+            "en": "Characteristics of National Security"
+          },
+          "page": 63
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "مرتكزات الأمن القومي",
+            "en": "Pillars of National Security"
+          },
+          "page": 63
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "دور المواطنين في تحقيق الأمن القومي",
+            "en": "The Role of Citizens in Achieving National Security"
+          },
+          "page": 64
+        }
+      ]
     },
     {
       "slug": "c7",
@@ -147,7 +385,72 @@
       "image": "clickview/high-psychology-concepts-and-theories-cover.jpg",
       "page": 69,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تمهيد",
+            "en": "Preface"
+          },
+          "page": 69
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تعريف الحرب النفسية",
+            "en": "Definition of Psychological Warfare"
+          },
+          "page": 70
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أهداف الحرب النفسية",
+            "en": "Aims of Psychological Warfare"
+          },
+          "page": 71
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أهمية الحرب النفسية",
+            "en": "Importance of Psychological Warfare"
+          },
+          "page": 72
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "صور الحرب النفسية في الإسلام",
+            "en": "Forms of Psychological Warfare in Islam"
+          },
+          "page": 73
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "أسس الحرب النفسية",
+            "en": "Foundations of Psychological Warfare"
+          },
+          "page": 76
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "طرق الوقاية من الحرب النفسية",
+            "en": "Ways of Protection from Psychological Warfare"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "أمثلة لبعض عمليات الحرب النفسية في إحدى الحروب",
+            "en": "Examples of Psychological Warfare Operations in One War"
+          },
+          "page": 82
+        }
+      ]
     }
   ]
 }

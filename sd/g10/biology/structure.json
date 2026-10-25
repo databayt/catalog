@@ -17,6 +17,25 @@
     "edition": "الأحياء — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "pdf p2 below copyright box",
+    "pdfSha256": "b5dc97fdb80cb1ebaf667ee145739e23b90756fc05e2332582a835665303ddc1",
+    "pages": 195,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/02/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%88%D9%84-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 18191605,
+        "md5": "e74258b4046e129dbaa6d570886b58f2",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [196] of the 196-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

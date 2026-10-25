@@ -15,6 +15,24 @@
     "publisher": "sd-ncerd",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p3 title page «للصف الأول»; p4 copyright box with «الناشرون :» and «الطابعون :» left blank and «رقم الإيداع: ٧٥٢|٢٠٠٨»; no edition line anywhere in pp1-5 or 83-84. 'inferred' year from deposit number only",
+    "pdfSha256": "bc30d061d04fc24e8202b1e0fc74b8f2bf1ef8d31b2c16b14cdb8b62ce5f4284",
+    "pages": 83,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1uK6k2ojnWPtteulVQDUsOfOxYqs75_eo&export=download",
+        "bytes": 8455802,
+        "md5": "5f535c54c7e92cc578c095505e2d5614",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [1] of the 84-page circulating file removed 2026-10-25; 'identical' compares the file before removal; old-curriculum book; no 2025 edition found in circulation 2026-10-24"
+  },
   "contributors": [
     "databayt"
   ],

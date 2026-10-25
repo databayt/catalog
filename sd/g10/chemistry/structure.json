@@ -17,6 +17,25 @@
     "edition": "الكيمياء — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الكيمياء — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p1 cover, p2-3 contents (أ، ب), p4-5 introduction (ج، د), p6 unit-1 divider, p7-8 text; last book page pdf p165 'تم بحمد الله' (printed 159). No edition/copyright page in the PDF.",
+    "pdfSha256": "a5a41fb65f1b0127e9480c95f476492323aba2c7a89c902b184b092ab59dcee0",
+    "pages": 165,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/02/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%88%D9%84-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 3020070,
+        "md5": "f1e351cd8fbf57f38b7363d3093ff7dc",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [166] of the 166-page circulating file removed 2026-10-25; 'identical' compares the file before removal; no imprint page; older ministry name and design than the 2025 g10 books, and the introduction says five units while the contents lists six — may be the pre-2025 book; recheck"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

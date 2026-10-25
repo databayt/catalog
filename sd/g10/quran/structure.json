@@ -13,7 +13,27 @@
   "concept": "faith",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة الثانية المنقحة ٢٠٠٩"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثانية المنقحة ٢٠٠٩",
+    "editionBasis": "printed",
+    "evidence": "pdf p2 title page: «الطبعة الثانية المنقحة ٢٠٠٩»; ISBN pdf p3; deposit pdf p160",
+    "pdfSha256": "cb1497a3efc9c124d637527bff4f4bf901c6eab487b55b6e78460d61b4d3e3d7",
+    "pages": 160,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/05/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%A3%D9%88%D9%84-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-_-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 4239725,
+        "md5": "d31479fe3c409b574c3e8548d4e5bc90",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "old-curriculum book; no 2025 edition found in circulation 2026-10-24"
   },
   "contributors": [
     "databayt"
@@ -35,7 +55,41 @@
       },
       "concept": "faith",
       "image": "clickview/high-sound-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "علم التجويد",
+            "en": "The Science of Tajweed"
+          },
+          "page": 65
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "مخارج الحروف",
+            "en": "Articulation Points of the Letters"
+          },
+          "page": 67
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الإظهار",
+            "en": "Idhhar (Clear Pronunciation)"
+          },
+          "page": 71
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الإدغام",
+            "en": "Idgham (Merging)"
+          },
+          "page": 74
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c3",
@@ -44,7 +98,89 @@
       },
       "concept": "faith",
       "image": "clickview/high-study-skills-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تفسير سورة الحجرات",
+            "en": "Interpretation of Surat al-Hujurat"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "سورة الحجرات",
+            "en": "Surat al-Hujurat"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "في مكارم الأخلاق ورعاية الآداب مع الله تعالى والرسول ﷺ",
+            "en": "On Noble Character and Observing Manners Toward God and the Messenger"
+          },
+          "page": 6
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "التثبت في الأخبار",
+            "en": "Verifying Reports"
+          },
+          "page": 13
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أدب الإسلام في التوفيق بين المسلمين",
+            "en": "Islam's Etiquette in Reconciling Muslims"
+          },
+          "page": 19
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "أدب الاجتماع والمعاشرة",
+            "en": "Etiquette of Gathering and Social Dealings"
+          },
+          "page": 24
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "صفات الأعراب وحالهم في الإيمان والإسلام",
+            "en": "The Traits of the Bedouin and Their State in Faith and Islam"
+          },
+          "page": 34
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "نفي الشريك والولد عن الله – والنهي عن سب آلهة المشركين (من سورة الأنعام)",
+            "en": "Denying Partner and Son to God, and the Prohibition of Insulting the Idols of the Polytheists (from Surat al-An'am)"
+          },
+          "page": 41
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "من مشاهد القيامة (من سورة الحج)",
+            "en": "Scenes of the Resurrection (from Surat al-Hajj)"
+          },
+          "page": 47
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "صفات الداعية وأساليب الدعوة (من سورة فصلت)",
+            "en": "Qualities of the Caller and Methods of Da'wah (from Surat Fussilat)"
+          },
+          "page": 54
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c4",
@@ -53,7 +189,25 @@
       },
       "concept": "faith",
       "image": "clickview/middle-sound-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "آداب التلاوة",
+            "en": "Etiquette of Recitation"
+          },
+          "page": 59
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "فضل القرآن الكريم وتلاوته",
+            "en": "The Merit of the Holy Quran and Its Recitation"
+          },
+          "page": 62
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c5",
@@ -62,7 +216,117 @@
       },
       "concept": "faith",
       "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "علم التفسير",
+            "en": "The Science of Tafsir"
+          },
+          "page": 76
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "التفسير في عهد الرسول ﷺ",
+            "en": "Tafsir in the Time of the Messenger"
+          },
+          "page": 76
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أسباب اختلاف الصحابة في فهم القرآن",
+            "en": "Reasons for the Companions' Differences in Understanding the Quran"
+          },
+          "page": 77
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مصادر التفسير في عهد الصحابة",
+            "en": "Sources of Tafsir in the Companions' Era"
+          },
+          "page": 78
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "المصدر الثاني: السنة النبوية",
+            "en": "Second Source: The Prophetic Sunnah"
+          },
+          "page": 79
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "المصدر الثالث: الاجتهاد وقوة الاستنباط",
+            "en": "Third Source: Ijtihad and Power of Deduction"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "المصدر الرابع: أهل الكتاب (اليهود والنصارى)",
+            "en": "Fourth Source: The People of the Book (Jews and Christians)"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "التفسير في عصر التابعين",
+            "en": "Tafsir in the Era of the Successors"
+          },
+          "page": 82
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "من أشهر مدارس التفسير",
+            "en": "The Best-Known Schools of Tafsir"
+          },
+          "page": 85
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "التفسير بالمأثور",
+            "en": "Tafsir by Transmission"
+          },
+          "page": 85
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "التفسير بالرأي",
+            "en": "Tafsir by Opinion"
+          },
+          "page": 89
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "تفسير الصوفية",
+            "en": "Sufi Tafsir"
+          },
+          "page": 94
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "التفسير الموضوعي",
+            "en": "Thematic Tafsir"
+          },
+          "page": 97
+        }
+      ],
+      "lessonsGeneric": false
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 7
+  }
 }

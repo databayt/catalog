@@ -22,8 +22,8 @@
     "edition": "الطبعة الأولى : رجب ١٤٢٨هـ – يوليو ٢٠٠٧م",
     "editionBasis": "printed",
     "evidence": "imprint p3: «الطبعة الأولى : رجب ١٤٢٨هـ – يوليو ٢٠٠٧م»",
-    "pdfSha256": "9e46466368b25796f67bef097bc3a5f010e3a0d6f0b04cff215c5b1e510838f9",
-    "pages": 141,
+    "pdfSha256": "d81d14f44c7a0b70bf43bd5ae7c103dd240973f6b3bbc2f84b0686a944afa1f5",
+    "pages": 140,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1k6COPTlthC7jAiw7u5S9M2e1sLM5x__m&export=download",
@@ -52,7 +52,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

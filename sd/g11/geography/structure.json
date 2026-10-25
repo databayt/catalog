@@ -22,8 +22,8 @@
     "edition": "الطبعة المنقحة ٢٠١٢ م",
     "editionBasis": "printed",
     "evidence": "title page p3: «الطبعة المنقحة ٢٠١٢ م»; intro p5 refers to «كتاب الصف الأول ... الطبعة المنقحة»",
-    "pdfSha256": "b8e9686135d2b923d274d4ee5427586e65b893a2de80555650e6aaa6a8332ada",
-    "pages": 238,
+    "pdfSha256": "7068317b284c6c113d0341102e05c0cfd497696300682401362a00efca3a0ad3",
+    "pages": 237,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1natPcFQIrX8mLYgubqyiYDTCwajs-9_N&export=download",
@@ -34,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

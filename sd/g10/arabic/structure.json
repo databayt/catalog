@@ -17,6 +17,61 @@
     "edition": "اللغة العربية (الكتاب الموحد) — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "اللغة العربية (الكتاب الموحد) — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
+    "editionBasis": "inferred",
+    "evidence": "no cover/imprint pages in the scan (starts at the preface) — byte-identical to almualm.com g10 Arabic «الكتاب الجديد» before ad removal",
+    "pdfSha256": "e184537e42588d37dc0261edf3b1d3cf3691826b4ecd8748d1b393f0fb4cd03c",
+    "pages": 244,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1sRP6v1acdLHAfKFQA_GGDplwX2ldU-2Y&export=download",
+        "bytes": 3448984,
+        "md5": "70c211333133ef9a2d56db31124edf01",
+        "identical": false
+      },
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/02/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A3%D8%AF%D8%A8_%D9%88%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A9_%D8%A3%D9%88%D9%84_%D8%AB%D8%A7%D9%86%D9%88%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 1899028,
+        "md5": "afc64f36d45f3718f8fe55632c21315e",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1NB3rcKFay9ABH7QwCPIfmLI6mm_JkJOd&export=download",
+        "bytes": 1403854,
+        "md5": "259db37d6795b98c1c3ce5de48ef43c5",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11VGBaSfbCiyk02yES6Jiwr3_R7iVpIPv&export=download",
+        "bytes": 2024973,
+        "md5": "bd0f9d415bba19fcbd53423e65ea1b98",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1FPo4VBsPPjkso72PszlXLOGh_z0s2BxH&export=download",
+        "bytes": 24959722,
+        "md5": "01132a3966db4b975963a5ded24eae11",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=11VGBaSfbCiyk02yES6Jiwr3_R7iVpIPv&export=download",
+        "bytes": 2024973,
+        "md5": "bd0f9d415bba19fcbd53423e65ea1b98",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1XR31j03wNNOtu5cWQhzzGmsbrcSnsbrI&export=download",
+        "bytes": 25723280,
+        "md5": "91b3cf1bf511cd7e71ad912be17f8ac4",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [245] of the 245-page circulating file removed 2026-10-25; 'identical' compares the file before removal; the scan has no cover or imprint pages (it starts at the preface); edition per the circulating file label; old-curriculum book; no 2025 edition found in circulation 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book",
     "coverNote": "The scan carries no printed cover (page 1 is the preface, the last page is the aggregator splash) and none is online; the subject uses the concept cover until a real cover is found."

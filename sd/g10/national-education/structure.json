@@ -17,6 +17,25 @@
     "edition": "التربية الوطنية — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢٥م»",
+    "pdfSha256": "cae08e2ffab94c216595775719fd2f5d7e0039e053a29f98436b37e339b134e9",
+    "pages": 67,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/12/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%88%D9%84-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 4445515,
+        "md5": "cab18390e6b94083a2f7a43912a640fc",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [68] of the 68-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

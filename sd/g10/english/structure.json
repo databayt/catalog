@@ -13,7 +13,33 @@
   "concept": "english",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "First Published 1995 / Third Published 2000 / Fourth Published 2001"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "First Published 1995 / Third Published 2000 / Fourth Published 2001",
+    "editionBasis": "printed",
+    "evidence": "pdf p1 cover, p2 title/credits, p3 ISBN, p4 publication/edition lines, p225 Arabic copyright + deposit",
+    "pdfSha256": "99ac386300f64d8307c0ed72571c2d4a82987d53232652a59037022b062c4927",
+    "pages": 225,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1ll9cchqODnbPPogn4mql_nW8dy_W7339&export=download",
+        "bytes": 88739703,
+        "md5": "9aae080429136e6fd16350b64e3af2d2",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1rGIUuPJzs5W0uPl6BzVwQkxHVJ0yHPSk&export=download",
+        "bytes": 26631142,
+        "md5": "fabc7a7f83e661593a9d8a830ccfeaf9",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "almualm.com files SMILE g7/g8 books under g10 English; no newer g10 English book was found in circulation — recheck"
   },
   "contributors": [
     "databayt"
@@ -26,7 +52,97 @@
       },
       "concept": "english",
       "image": "clickview/high-english-as-an-additional-language-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الأميرة والبازلاء",
+            "en": "The Princess And The Pea"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "البيوت في السودان",
+            "en": "Houses in the Sudan"
+          },
+          "page": 5
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أثاث المنزل",
+            "en": "Home Furniture"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أثاث المكتب",
+            "en": "Office Furniture"
+          },
+          "page": 12
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الحياة في المدينة (1)",
+            "en": "City Life (1)"
+          },
+          "page": 14
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "حادث مروع",
+            "en": "A Terrible Accident"
+          },
+          "page": 16
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الحياة في المدينة (2): لندن",
+            "en": "City Life (II) London"
+          },
+          "page": 19
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "التلوث",
+            "en": "Pollution"
+          },
+          "page": 22
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "ركن القواعد",
+            "en": "Grammar Corner"
+          },
+          "page": 25
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "أعضاء النطق",
+            "en": "Organs of Speech"
+          },
+          "page": 28
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "مراجعة",
+            "en": "Revision"
+          },
+          "page": 31
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c2",
@@ -35,7 +151,105 @@
       },
       "concept": "english",
       "image": "clickview/high-sentences-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الرياضة في العالم",
+            "en": "Sport Worldwide"
+          },
+          "page": 32
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "سوء الحظ",
+            "en": "Bad Luck"
+          },
+          "page": 35
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الإسعافات الأولية",
+            "en": "First Aid"
+          },
+          "page": 37
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "جمال الطبيعة",
+            "en": "The Beauty of Nature"
+          },
+          "page": 41
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "ملاحظات عن الأزياء",
+            "en": "Fashion Notes"
+          },
+          "page": 43
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "من الأفضل؟",
+            "en": "Who's Best?"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "حفلات الزفاف (1)",
+            "en": "Weddings (1)"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "حفلات الزفاف (2)",
+            "en": "Weddings (2)"
+          },
+          "page": 52
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "مفاجأة عيد الميلاد",
+            "en": "Birthday Surprise"
+          },
+          "page": 56
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "حقيقة أم خيال",
+            "en": "Fact or Fiction"
+          },
+          "page": 59
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "في الوحل",
+            "en": "In the Mud"
+          },
+          "page": 61
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "مراجعة",
+            "en": "Revision"
+          },
+          "page": 64
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c3",
@@ -44,7 +258,105 @@
       },
       "concept": "english",
       "image": "clickview/high-punctuation-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "رسالة ديفيد",
+            "en": "David's Letter"
+          },
+          "page": 66
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "خريطة المدينة (1)",
+            "en": "Town Plan (1)"
+          },
+          "page": 69
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "خريطة المدينة (2)",
+            "en": "Town Plan (2)"
+          },
+          "page": 72
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "يوميات ديفيد",
+            "en": "David's Diary"
+          },
+          "page": 74
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "من الأذكى؟",
+            "en": "Who is the cleverest?"
+          },
+          "page": 76
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "بحيرة لوخ نِس",
+            "en": "Loch Ness"
+          },
+          "page": 79
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "مروي",
+            "en": "Merowe"
+          },
+          "page": 81
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "رحلة إلى كريمة (1)",
+            "en": "A Journey to Karima (1)"
+          },
+          "page": 83
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "وضع الخطط",
+            "en": "Making Plans"
+          },
+          "page": 85
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "رحلة إلى كريمة (2)",
+            "en": "Journey to Karima (2)"
+          },
+          "page": 87
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "سيدي العزيز ...",
+            "en": "Dear sir ........."
+          },
+          "page": 90
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "درس مراجعة",
+            "en": "Revision Lesson"
+          },
+          "page": 95
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c4",
@@ -53,7 +365,105 @@
       },
       "concept": "english",
       "image": "clickview/high-genre-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "يوم في حياة سلمى",
+            "en": "A Day in Salma's Life"
+          },
+          "page": 97
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "هجرة الطيور",
+            "en": "Migration of Birds"
+          },
+          "page": 100
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المزيد عن الطيور",
+            "en": "More About Birds"
+          },
+          "page": 103
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "سكرتيرة ماهرة",
+            "en": "A good Secretary"
+          },
+          "page": 104
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "اللعب بالكلمات",
+            "en": "Play with Words"
+          },
+          "page": 107
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "قصص الحياة",
+            "en": "Life Stories"
+          },
+          "page": 109
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "تغييرات نحو الأفضل؟",
+            "en": "Changes for the Better?"
+          },
+          "page": 113
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "اتصال هاتفي!",
+            "en": "Phone In!"
+          },
+          "page": 116
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "قراءة اللافتات",
+            "en": "Reading Signs"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "ماذا فعلت؟",
+            "en": "What Have You Done?"
+          },
+          "page": 125
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "كيف تكون كاتبًا جيدًا",
+            "en": "How To Be A Good Writer"
+          },
+          "page": 130
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "هوايتي",
+            "en": "My Hobby"
+          },
+          "page": 132
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c5",
@@ -62,7 +472,105 @@
       },
       "concept": "english",
       "image": "clickview/high-writing-structures-and-conventions-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مزرعة الأسرة",
+            "en": "The Family Farm"
+          },
+          "page": 137
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "إعلان",
+            "en": "Advertisement"
+          },
+          "page": 141
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الأسد والضبع والثعلب",
+            "en": "The Lion, The Hyena and the Fox"
+          },
+          "page": 145
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "نقوم بالأشياء بأنفسنا",
+            "en": "We Do Things Ourselves"
+          },
+          "page": 149
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الطقس في شمال السودان",
+            "en": "The Weather in Northern Sudan"
+          },
+          "page": 154
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "عيد الميلاد",
+            "en": "Christmas"
+          },
+          "page": 158
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "رمضان",
+            "en": "Ramadan"
+          },
+          "page": 163
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "تقرير صحفي",
+            "en": "Newspaper Report"
+          },
+          "page": 165
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "العناية بنفسك",
+            "en": "Looking After yourself"
+          },
+          "page": 168
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "العلاقات الأسرية",
+            "en": "Family Relations"
+          },
+          "page": 171
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "المزيد عن الحيوانات",
+            "en": "More about Animals"
+          },
+          "page": 174
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "مراجعة",
+            "en": "Revision"
+          },
+          "page": 178
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c6",
@@ -71,25 +579,101 @@
       },
       "concept": "english",
       "image": "clickview/high-debating-and-public-speaking-cover.jpg",
-      "lessons": []
-    },
-    {
-      "slug": "c7",
-      "title": {
-        "en": "Unit 7"
-      },
-      "concept": "english",
-      "image": "clickview/high-language-and-text-analysis-skills-cover.jpg",
-      "lessons": []
-    },
-    {
-      "slug": "c8",
-      "title": {
-        "en": "Unit 8"
-      },
-      "concept": "english",
-      "image": "clickview/high-imagery-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "رسالة ودية",
+            "en": "A Friendly Letter"
+          },
+          "page": 179
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "يوم هدى",
+            "en": "Huda's Day"
+          },
+          "page": 184
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "عشاء في مطعم",
+            "en": "Supper in a restaurant"
+          },
+          "page": 188
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "تعلم قيادة السيارة",
+            "en": "Learning How to Drive"
+          },
+          "page": 191
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "قواعد الطريق",
+            "en": "Rules of the road"
+          },
+          "page": 196
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "زيارة إلى حديقة الحيوان",
+            "en": "A Visit to the Zoo"
+          },
+          "page": 199
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "أنواع الحيوانات",
+            "en": "Types of Animals"
+          },
+          "page": 203
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الأيام الخوالي",
+            "en": "The Good Old Days"
+          },
+          "page": 206
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "أنواع الطيور",
+            "en": "Types of Birds"
+          },
+          "page": 210
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الدجاجة التي تبيض بيضًا ذهبيًا",
+            "en": "The Hen That Lay Golden Eggs"
+          },
+          "page": 213
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "مراجعة",
+            "en": "Revision"
+          },
+          "page": 219
+        }
+      ],
+      "lessonsGeneric": false
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 5
+  }
 }

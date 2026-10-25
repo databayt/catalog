@@ -22,8 +22,8 @@
     "edition": "الطبعة الثانية المنقحة",
     "editionBasis": "printed",
     "evidence": "pdf p6 (مقدمة ج): «نقدم لكم كتاب الدراسات الإسلامية – للصف الثاني الثانوي – الطبعة الثانية المنقحة»; imprint p3 itself has no edition line or year",
-    "pdfSha256": "1c407d46ee3d89037d9a9c06d30dae61bcfea7c7b8cc03e82237c0dd7c352569",
-    "pages": 179,
+    "pdfSha256": "388c74056f1946b2db3b90d1e71b059ca59bb1289e53e8012514010d3f97b9b7",
+    "pages": 178,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1TjfQNDuIpQLKvh0-dzYJfD1It5aju_2n&export=download",
@@ -34,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

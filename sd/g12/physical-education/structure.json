@@ -55,7 +55,72 @@
       "image": "clickview/high-healthy-lifestyle-cover.jpg",
       "page": 1,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "أهمية النشاط البدني في ظروف الحياة الحديثة",
+            "en": "The Importance of Physical Activity in Modern Life"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "النشاط البدني وحياة الإنسان",
+            "en": "Physical Activity and Human Life"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "ممارسة الرياضة والوقاية من الأمراض",
+            "en": "Exercise and Disease Prevention"
+          },
+          "page": 1
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الرياضة والصحة البدنية",
+            "en": "Sport and Physical Health"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "غذاء الرياضيين",
+            "en": "Athletes' Nutrition"
+          },
+          "page": 4
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "وجبة الرياضيين قبل المسابقات",
+            "en": "Athletes' Pre-Competition Meal"
+          },
+          "page": 5
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الرياضة والصوم",
+            "en": "Sport and Fasting"
+          },
+          "page": 5
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "التغذية والنشاط الرياضي",
+            "en": "Nutrition and Sporting Activity"
+          },
+          "page": 6
+        }
+      ]
     },
     {
       "slug": "c2",
@@ -67,7 +132,56 @@
       "image": "clickview/high-soccer-cover.jpg",
       "page": 9,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "المقدمة",
+            "en": "Introduction"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "ملعب كرة القدم",
+            "en": "The Football Pitch"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المهارات الأساسية في كرة القدم",
+            "en": "Basic Skills in Football"
+          },
+          "page": 15
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الأسس والمبادئ التي يعتمد عليها الفريق",
+            "en": "Principles the Team Relies On"
+          },
+          "page": 22
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "قواعد اللعب في القانون",
+            "en": "Laws of the Game"
+          },
+          "page": 23
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "شغب الجماهير في ملاعب كرة القدم",
+            "en": "Crowd Violence in Football Stadiums"
+          },
+          "page": 25
+        }
+      ]
     },
     {
       "slug": "c3",
@@ -79,7 +193,48 @@
       "image": "clickview/high-basketball-cover.jpg",
       "page": 27,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 27
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "ملعب كرة السلة",
+            "en": "The Basketball Court"
+          },
+          "page": 28
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "مهارات كرة السلة",
+            "en": "Basketball Skills"
+          },
+          "page": 31
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "بعض قواعد اللعب في القانون",
+            "en": "Some Rules of the Game"
+          },
+          "page": 38
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "تحكيم كرة السلة",
+            "en": "Basketball Officiating"
+          },
+          "page": 43
+        }
+      ]
     },
     {
       "slug": "c4",
@@ -91,7 +246,40 @@
       "image": "clickview/high-personal-training-cover.jpg",
       "page": 46,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "ملعب الكرة الطائرة",
+            "en": "The Volleyball Court"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المهارات الأساسية للكرة الطائرة",
+            "en": "Basic Volleyball Skills"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "بعض قواعد اللعب",
+            "en": "Some Rules of the Game"
+          },
+          "page": 58
+        }
+      ]
     },
     {
       "slug": "c5",
@@ -103,7 +291,40 @@
       "image": "clickview/high-sports-psychology-cover.jpg",
       "page": 63,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 63
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "ملعب كرة اليد",
+            "en": "The Handball Court"
+          },
+          "page": 63
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المهارات الأساسية في كرة اليد",
+            "en": "Basic Skills in Handball"
+          },
+          "page": 66
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "بعض قواعد لعبة كرة اليد",
+            "en": "Some Rules of Handball"
+          },
+          "page": 70
+        }
+      ]
     },
     {
       "slug": "c6",
@@ -115,7 +336,40 @@
       "image": "clickview/high-tennis-cover.jpg",
       "page": 74,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 74
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "أدوات تنس الطاولة",
+            "en": "Table Tennis Equipment"
+          },
+          "page": 74
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المهارات الأساسية لتنس الطاولة",
+            "en": "Basic Table Tennis Skills"
+          },
+          "page": 77
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "بعض قواعد اللعب",
+            "en": "Some Rules of the Game"
+          },
+          "page": 89
+        }
+      ]
     },
     {
       "slug": "c7",
@@ -127,7 +381,32 @@
       "image": "clickview/high-running-cover.jpg",
       "page": 92,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "أهداف الألعاب الشعبية الصغيرة",
+            "en": "Aims of Small Traditional Games"
+          },
+          "page": 93
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الألعاب الشعبية",
+            "en": "Traditional Games"
+          },
+          "page": 93
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الألعاب الصغيرة",
+            "en": "Small Games"
+          },
+          "page": 96
+        }
+      ]
     },
     {
       "slug": "c8",
@@ -139,7 +418,48 @@
       "image": "clickview/high-exercise-physiology-cover.jpg",
       "page": 100,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الإجهاد والتقلص العضلي",
+            "en": "Strain and Muscle Cramp"
+          },
+          "page": 100
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "إسعاف المصاب بالطرق السليمة",
+            "en": "Giving First Aid by Sound Methods"
+          },
+          "page": 101
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "التمزق الغضروفي في مفصل الركبة",
+            "en": "Cartilage Tear in the Knee Joint"
+          },
+          "page": 104
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "التواءات القدم",
+            "en": "Foot Sprains"
+          },
+          "page": 105
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "كسر أصابع اليد",
+            "en": "Fractured Fingers"
+          },
+          "page": 105
+        }
+      ]
     },
     {
       "slug": "c9",
@@ -151,7 +471,64 @@
       "image": "clickview/high-leadership-skills-cover.jpg",
       "page": 107,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تعريف الدورات الرياضية",
+            "en": "Definition of Sports Tournaments"
+          },
+          "page": 107
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "أهم طرق تنظيم الدورات الرياضية",
+            "en": "Main Ways of Organising Tournaments"
+          },
+          "page": 107
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "نموذج لتنظيم دورة بطريقة خروج المغلوب",
+            "en": "A Model Knockout Tournament"
+          },
+          "page": 109
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "النشاط الرياضي الداخلي",
+            "en": "Internal (Intramural) Sports Activity"
+          },
+          "page": 112
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "النشاط الرياضي الخارجي",
+            "en": "External Sports Activity"
+          },
+          "page": 113
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "المعسكرات والرحلات المدرسية",
+            "en": "School Camps and Trips"
+          },
+          "page": 114
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الحفلات الرياضية",
+            "en": "Sports Festivals"
+          },
+          "page": 116
+        }
+      ]
     },
     {
       "slug": "c10",
@@ -163,7 +540,88 @@
       "image": "clickview/high-2024-olympic-games-cover.jpg",
       "page": 119,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 119
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "اللجنة الأولمبية الدولية",
+            "en": "The International Olympic Committee"
+          },
+          "page": 119
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "بعث الأولمبياد القديمة",
+            "en": "The Revival of the Ancient Olympiad"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "اللجان الأولمبية الأهلية",
+            "en": "National Olympic Committees"
+          },
+          "page": 121
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "تشكيل اللجان الأولمبية الأهلية",
+            "en": "Forming the National Olympic Committees"
+          },
+          "page": 122
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "في البروتوكول الأولمبي",
+            "en": "In Olympic Protocol"
+          },
+          "page": 124
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الشعار الأولمبي",
+            "en": "The Olympic Emblem"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "حفل الافتتاح",
+            "en": "The Opening Ceremony"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "الموسيقا والشعلة",
+            "en": "Music and the Torch"
+          },
+          "page": 127
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "افتتاح الدورة الأولمبية",
+            "en": "Opening the Olympic Games"
+          },
+          "page": 127
+        }
+      ]
     }
   ]
 }

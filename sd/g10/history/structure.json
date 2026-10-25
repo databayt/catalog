@@ -17,6 +17,31 @@
     "edition": "التاريخ — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "imprint pdf p2: «الطبعة الأولى ٢٠٢٥م»",
+    "pdfSha256": "d6127f3383eac766b850f7931868210eb9281ec829a2f0b9d9b259148ae13d31",
+    "pages": 151,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1tt47KpFMNauT8zYoe5yME6r91KVgXsyY&export=download",
+        "bytes": 27129580,
+        "md5": "edd3f6a046f9d2331efba3fdd638b262",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1Xe10yKzplxb0UjBAcfnCt8AKcHY6BlUs&export=download",
+        "bytes": 14581880,
+        "md5": "767f7b9328afa032a105cd94a729c861",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [152] of the 152-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

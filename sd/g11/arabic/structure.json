@@ -1,0 +1,656 @@
+{
+  "$schema": "../../../schema/structure.schema.json",
+  "id": "sd-g11-arabic",
+  "curriculum": "sd",
+  "grade": "g11",
+  "subject": "arabic",
+  "title": {
+    "ar": "اللغة العربية",
+    "en": "Arabic Language"
+  },
+  "lang": "ar",
+  "status": "official",
+  "concept": "language",
+  "source": {
+    "publisher": "sd-ncerd",
+    "basis": "official-toc-2026-10",
+    "edition": "كتاب اللغة العربية (الكتاب الموحد) — الصف الثاني الثانوي — ٢٠٢٦م",
+    "license": "LicenseRef-Publisher"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "كتاب اللغة العربية — ٢٠٢٦م",
+    "editionBasis": "inferred",
+    "evidence": "no edition statement printed — pdf p1 title page «كتاب اللغة العربية — الصف الثاني — المرحلة الثانوية» (NCERD, بخت الرضا); pdf p2 «٢٠٢٦م» under the copyright box",
+    "pdfSha256": "d4b7dfc7a4d1b10ac70b42c314d9e549516a201bc7973cf4d56bb9b23df5422f",
+    "pages": 245,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2026/09/%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8.pdf",
+        "bytes": 1833385,
+        "md5": "d527407dda3ab420a9b9b87a3da21f68",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "the unified 2026 Arabic book that replaces the split grammar/literature/rhetoric books; almualm.com copy with its ad page removed (the post mislabels it «اللغة العربية الخاصة»)"
+  },
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 7
+  },
+  "history": {
+    "appliedOn": "2026-10-25",
+    "supersedes": "sd-g11-arabic-grammar, sd-g11-arabic-literature, sd-g11-arabic-rhetoric"
+  },
+  "contributors": [
+    "databayt"
+  ],
+  "chapters": [
+    {
+      "slug": "c1",
+      "title": {
+        "ar": "الفصل الأول",
+        "en": "Chapter One"
+      },
+      "concept": "language",
+      "page": 1,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "المجرورات",
+            "en": "Genitive (Majrurat) Nouns"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الجملة الفعلية",
+            "en": "The Verbal Sentence"
+          },
+          "page": 4
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "منصوبات الأسماء",
+            "en": "Accusative Nouns"
+          },
+          "page": 8
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "بعض الأساليب النحوية: أسلوب الاختصاص",
+            "en": "Some Grammatical Styles: The Style of Specification (Ikhtisas)"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أسلوب الإغراء والتحذير",
+            "en": "The Style of Urging (Igra') and Warning (Tahdhir)"
+          },
+          "page": 17
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "أنواع المعارف",
+            "en": "Types of Definite Nouns"
+          },
+          "page": 25
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "العلم وأقسامه",
+            "en": "The Proper Noun and Its Divisions"
+          },
+          "page": 25
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "المعرف بالألف واللام",
+            "en": "Definite by Alif and Lam"
+          },
+          "page": 29
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "الضمائر",
+            "en": "Pronouns"
+          },
+          "page": 32
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "أسماء الموصول",
+            "en": "Relative Pronouns"
+          },
+          "page": 36
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "أسماء الإشارة",
+            "en": "Demonstrative Pronouns"
+          },
+          "page": 39
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "المعرف بالإضافة",
+            "en": "Definite by Annexation (Idafa)"
+          },
+          "page": 42
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "الإعلال والإبدال: قلب الواو والياء همزة",
+            "en": "Weakening and Substitution: Turning Waw and Ya' into Hamza"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l14",
+          "title": {
+            "ar": "قلب الواو والياء ألفاً",
+            "en": "Turning Waw and Ya' into Alif"
+          },
+          "page": 49
+        },
+        {
+          "slug": "l15",
+          "title": {
+            "ar": "قلب الألف واواً وياءً",
+            "en": "Turning Alif into Waw and Ya'"
+          },
+          "page": 51
+        },
+        {
+          "slug": "l16",
+          "title": {
+            "ar": "قلب الواو ياءً",
+            "en": "Turning Waw into Ya'"
+          },
+          "page": 53
+        },
+        {
+          "slug": "l17",
+          "title": {
+            "ar": "قلب الياء واواً",
+            "en": "Turning Ya' into Waw"
+          },
+          "page": 56
+        },
+        {
+          "slug": "l18",
+          "title": {
+            "ar": "الإعلال بالتسكين أو النقل",
+            "en": "Weakening by Quiescence or Transfer"
+          },
+          "page": 58
+        },
+        {
+          "slug": "l19",
+          "title": {
+            "ar": "فاء الافتعال وتاؤه",
+            "en": "The Fa' and Ta' of the Ifti'al Form"
+          },
+          "page": 61
+        }
+      ]
+    },
+    {
+      "slug": "c2",
+      "title": {
+        "ar": "الفصل الثاني",
+        "en": "Chapter Two"
+      },
+      "concept": "language",
+      "page": 64,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الأفعال: تقسيم الفعل إلى صحيح ومعتل",
+            "en": "Verbs: Dividing the Verb into Sound and Weak"
+          },
+          "page": 64
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "أبواب الفعل الثلاثي المجرّد (وجوه مضارع الفعل الثلاثي)",
+            "en": "Patterns of the Bare Triliteral Verb (Forms of the Imperfect of the Triliteral Verb)"
+          },
+          "page": 71
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أحكام الفعل المعتل: أولاً: المثال",
+            "en": "Rules of the Weak Verb: First: The Assimilated Verb (Mithal)"
+          },
+          "page": 79
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "ثانياً: الأجوف",
+            "en": "Second: The Hollow Verb (Ajwaf)"
+          },
+          "page": 82
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "ثالثاً: الناقص",
+            "en": "Third: The Defective Verb (Naqis)"
+          },
+          "page": 86
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "تدريبات عامة على أنواع الفعل المعتل",
+            "en": "General Exercises on the Types of the Weak Verb"
+          },
+          "page": 89
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "المصادر: أولاً: مصادر الأفعال الثلاثية",
+            "en": "Verbal Nouns: First: Verbal Nouns of Triliteral Verbs"
+          },
+          "page": 91
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "ثانياً: مصادر الأفعال الرباعية",
+            "en": "Second: Verbal Nouns of Quadriliteral Verbs"
+          },
+          "page": 96
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "ثالثاً: مصادر الأفعال الخماسية",
+            "en": "Third: Verbal Nouns of Quinqueliteral Verbs"
+          },
+          "page": 99
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "رابعاً: مصادر السداسي",
+            "en": "Fourth: Verbal Nouns of Sexiliteral Verbs"
+          },
+          "page": 100
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "الأخطاء الشائعة في اللغة العربية",
+            "en": "Common Errors in the Arabic Language"
+          },
+          "page": 102
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "مقدمة في علم المعاني",
+            "en": "Introduction to the Science of Meanings (Ilm al-Ma'ani)"
+          },
+          "page": 105
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "الخبر والإنشاء",
+            "en": "Declarative (Khabar) and Performative (Insha') Speech"
+          },
+          "page": 108
+        },
+        {
+          "slug": "l14",
+          "title": {
+            "ar": "الأسلوب الخبري: الغرض الحقيقي للخبر",
+            "en": "The Declarative Style: The Real Purpose of the Khabar"
+          },
+          "page": 114
+        },
+        {
+          "slug": "l15",
+          "title": {
+            "ar": "أغراض الخبر التي تستفاد من السياق",
+            "en": "Purposes of the Khabar Derived from Context"
+          },
+          "page": 117
+        },
+        {
+          "slug": "l16",
+          "title": {
+            "ar": "أضرب الخبر",
+            "en": "Types of the Khabar"
+          },
+          "page": 121
+        },
+        {
+          "slug": "l17",
+          "title": {
+            "ar": "الإنشاء",
+            "en": "Performative Speech (Insha')"
+          },
+          "page": 125
+        },
+        {
+          "slug": "l18",
+          "title": {
+            "ar": "الأمر",
+            "en": "The Command"
+          },
+          "page": 128
+        },
+        {
+          "slug": "l19",
+          "title": {
+            "ar": "النهي",
+            "en": "The Prohibition"
+          },
+          "page": 134
+        },
+        {
+          "slug": "l20",
+          "title": {
+            "ar": "الاستفهام، أدواته واستخدامها",
+            "en": "Interrogation: Its Particles and Their Use"
+          },
+          "page": 139
+        },
+        {
+          "slug": "l21",
+          "title": {
+            "ar": "أغراض الاستفهام",
+            "en": "Purposes of Interrogation"
+          },
+          "page": 144
+        },
+        {
+          "slug": "l22",
+          "title": {
+            "ar": "النداء",
+            "en": "The Vocative"
+          },
+          "page": 149
+        },
+        {
+          "slug": "l23",
+          "title": {
+            "ar": "المحسنات المعنوية: الطباق",
+            "en": "Semantic Embellishments: Antithesis (Tibaq)"
+          },
+          "page": 154
+        },
+        {
+          "slug": "l24",
+          "title": {
+            "ar": "المقابلة",
+            "en": "Contrast (Muqabala)"
+          },
+          "page": 156
+        },
+        {
+          "slug": "l25",
+          "title": {
+            "ar": "مختارات للاطلاع الذاتي: من كتاب الله",
+            "en": "Selections for Self-Study: From the Book of God"
+          },
+          "page": 158
+        },
+        {
+          "slug": "l26",
+          "title": {
+            "ar": "من أحاديث الرسول",
+            "en": "From the Sayings of the Messenger"
+          },
+          "page": 159
+        },
+        {
+          "slug": "l27",
+          "title": {
+            "ar": "وجه القمر",
+            "en": "The Face of the Moon"
+          },
+          "page": 160
+        },
+        {
+          "slug": "l28",
+          "title": {
+            "ar": "في الغزل",
+            "en": "On Love Poetry (Ghazal)"
+          },
+          "page": 163
+        }
+      ]
+    },
+    {
+      "slug": "c3",
+      "title": {
+        "ar": "الفصل الثالث",
+        "en": "Chapter Three"
+      },
+      "concept": "language",
+      "page": 164,
+      "lessonsGeneric": false,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "من تاريخ الأدب في العصر العباسي والمملوكي والعثماني",
+            "en": "From the History of Literature in the Abbasid, Mamluk and Ottoman Eras"
+          },
+          "page": 165
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "أداء الأعمال",
+            "en": "Performing One's Duties"
+          },
+          "page": 168
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "بشار بن برد يصف جيشاً",
+            "en": "Bashshar ibn Burd Describes an Army"
+          },
+          "page": 170
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أبو تمام يرثي محمد بن حميد الطوسي",
+            "en": "Abu Tammam Mourns Muhammad ibn Humayd al-Tusi"
+          },
+          "page": 174
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "ظبية البان",
+            "en": "The Gazelle of the Ban Tree"
+          },
+          "page": 178
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "نصيحة غالية",
+            "en": "Precious Advice"
+          },
+          "page": 181
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "أبو فراس في الأسر",
+            "en": "Abu Firas in Captivity"
+          },
+          "page": 183
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "لامية العجم",
+            "en": "Lamiyyat al-Ajam"
+          },
+          "page": 187
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "في الفخر",
+            "en": "On Boasting (Fakhr)"
+          },
+          "page": 191
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "المقامات",
+            "en": "The Maqamat"
+          },
+          "page": 197
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "المقامة البغدادية",
+            "en": "The Baghdadi Maqama"
+          },
+          "page": 198
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "الربيع شباب الأرض",
+            "en": "Spring Is the Youth of the Earth"
+          },
+          "page": 203
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "الأدب الاندلسي",
+            "en": "Andalusian Literature"
+          },
+          "page": 206
+        },
+        {
+          "slug": "l14",
+          "title": {
+            "ar": "رثاء الاندلس",
+            "en": "Elegy for Andalusia"
+          },
+          "page": 207
+        },
+        {
+          "slug": "l15",
+          "title": {
+            "ar": "فن المقال",
+            "en": "The Art of the Essay"
+          },
+          "page": 211
+        },
+        {
+          "slug": "l16",
+          "title": {
+            "ar": "رجال مع الرسول : صورة من حياة عمر",
+            "en": "Men with the Messenger: A Portrait from the Life of Umar"
+          },
+          "page": 213
+        },
+        {
+          "slug": "l17",
+          "title": {
+            "ar": "يعجبني الشباب إذا",
+            "en": "I Admire Youth When"
+          },
+          "page": 217
+        },
+        {
+          "slug": "l18",
+          "title": {
+            "ar": "المسيد",
+            "en": "Al-Masid (the Quranic School)"
+          },
+          "page": 219
+        },
+        {
+          "slug": "l19",
+          "title": {
+            "ar": "المكتبة الرقمية",
+            "en": "The Digital Library"
+          },
+          "page": 223
+        },
+        {
+          "slug": "l20",
+          "title": {
+            "ar": "المواطنة",
+            "en": "Citizenship"
+          },
+          "page": 225
+        },
+        {
+          "slug": "l21",
+          "title": {
+            "ar": "الشافعي الأديب",
+            "en": "Al-Shafi'i the Man of Letters"
+          },
+          "page": 227
+        },
+        {
+          "slug": "l22",
+          "title": {
+            "ar": "ذكرى المولد",
+            "en": "The Mawlid Commemoration"
+          },
+          "page": 231
+        },
+        {
+          "slug": "l23",
+          "title": {
+            "ar": "الشيخ أحمد العاقب",
+            "en": "Sheikh Ahmad al-Aqib"
+          },
+          "page": 233
+        },
+        {
+          "slug": "l24",
+          "title": {
+            "ar": "ساتي ماجد",
+            "en": "Sati Majid"
+          },
+          "page": 236
+        }
+      ]
+    }
+  ]
+}

@@ -20,8 +20,8 @@
     "book": "verified",
     "editionBasis": "inferred",
     "evidence": "no edition statement printed — pdf p1-8 read: p1 aggregator cover; p2 cover with periodic table «الصف الثاني»; p3 title + committee «الصف الثاني الثانوي»; p4 contents (6 units); p5 مقدمة لجنة التطوير; p6 unit 1 divider. No edition/year/ISBN/deposit printed; p118-119 are body exercises (printed pp 113-114)",
-    "pdfSha256": "3bd204db85b5726db6338b3d8dd28bc4d7eaa455ab02c7e00527f2b43f704ebc",
-    "pages": 119,
+    "pdfSha256": "4c45395b23e89e4d126dc5d6c75a99c269c83bc2a86c35a743d4f25ebc1fa5ba",
+    "pages": 118,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1VqdWLISDtS4Y9mUkFF2SlaLt6iprTRvA&export=download",
@@ -32,7 +32,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "contributors": [
     "databayt"

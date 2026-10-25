@@ -17,6 +17,31 @@
     "edition": "الرياضيات — الصف الأول الثانوي — الطبعة الثالثة ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الثالثة ٢٠٢٥ م",
+    "editionBasis": "printed",
+    "evidence": "pdf p2 (copyright box then red line الطبعة الثالثة ٢٠٢٥ م); title pdf p1; intro pdf p4",
+    "pdfSha256": "6028dd81cd52392dd7304fd422032dee665a20773f82eac05cde183540145d37",
+    "pages": 281,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1UJ4PBEcIGdOlXdlz3Qfh-NM_qsA2iHUB&export=download",
+        "bytes": 63814904,
+        "md5": "13fa322475cc7922bd5ccf6372e3788e",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1hjZt6yvzkiriQpA5m7WzomHknvECh_wh&export=download",
+        "bytes": 3977968,
+        "md5": "2b6693b08d2b4041ac617ee70f6a357e",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [282] of the 282-page circulating file removed 2026-10-25; 'identical' compares the file before removal; old-curriculum book; no 2025 edition found in circulation 2026-10-24"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

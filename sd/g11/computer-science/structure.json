@@ -22,8 +22,8 @@
     "edition": "الطبعة الثانية ٢٠٠٨م",
     "editionBasis": "printed",
     "evidence": "imprint p3: «الطبعة الثانية ٢٠٠٨م» (title «مقدمة في نظم معالجة البيانات والبرمجة»); ISBN p4; contents p5; deposit on last page p74: «رقم الإيداع: 769|2008»",
-    "pdfSha256": "d4aae9dac8b80aae7fc0f792b13132250a57f7a23ae18a5fa53d4aaea9e96624",
-    "pages": 74,
+    "pdfSha256": "ba7474548ff0d6101b87d668e8a43018285359ffc002feae6fb9056e212548ed",
+    "pages": 73,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1aERVGgm5MHb3hexvtoUrx273dX8YRjP-&export=download",
@@ -34,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p73: blank']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: aggregator cover (رواد التميز)', 'p73: blank']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

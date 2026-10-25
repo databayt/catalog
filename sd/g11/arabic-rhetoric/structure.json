@@ -19,10 +19,11 @@
   },
   "verification": {
     "book": "superseded",
+    "edition": "البلاغة والتعبير للصف الثاني الثانوي — بخت الرضا — طبعة غير مؤرخة (ملف PDF ٢٠٠٦م)",
     "editionBasis": "inferred",
     "evidence": "no edition statement printed — pp1-7 read: no «الطبعة» line, year, ISBN or deposit; p3 committee page (عباس الريح، فاروق الطيب البشير…); p7 states «كتابنا هذا مازال في طور التجريب»",
-    "pdfSha256": "fbf580950fff6fbf16afe5ce58d8b20352631edb0c3cf3666c3154f68a825a9b",
-    "pages": 126,
+    "pdfSha256": "6c24b5cb90feb26635e7f5b509fcc75a906e40ef3da68b178b0fab6263b5a63b",
+    "pages": 125,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=13t5WV_8ErdB2tQ6Psd6gA2tY2qfj3p0R&export=download",
@@ -33,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "superseded in the 2026 curriculum by the unified «كتاب اللغة العربية» (٢٠٢٦م on its p3, 246 pages, almualm g11 Arabic post); the split grammar/literature/rhetoric books are the old curriculum"
+    "note": "superseded in the 2026 curriculum by the unified «كتاب اللغة العربية» (٢٠٢٦م on its p3, 246 pages, almualm g11 Arabic post); the split grammar/literature/rhetoric books are the old curriculum; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

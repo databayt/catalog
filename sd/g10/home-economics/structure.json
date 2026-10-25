@@ -13,7 +13,27 @@
   "concept": "life",
   "source": {
     "publisher": "sd-ncerd",
-    "license": "LicenseRef-Publisher"
+    "license": "LicenseRef-Publisher",
+    "edition": "الطبعة المنقحة : ٢٠١٠م"
+  },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة المنقحة : ٢٠١٠م",
+    "editionBasis": "printed",
+    "evidence": "pdf p3 title page: «للصفين الأول والثاني / الطبعة المنقحة : ٢٠١٠م»; p2 cover; p4-5 contents (Part 1 units 1-3, Part 2 units 4-6, pp ١-١٤٧); last pages p163-164 printed 155-156 (sewing pattern)",
+    "pdfSha256": "759773e947dfd6ffc05d22dd10a7bf23d0d68903c18133e0d47b1ed106c3ab63",
+    "pages": 163,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1p06eh7zKqZGlsCbw2seGfOL1W8JXb61c&export=download",
+        "bytes": 4056434,
+        "md5": "ea0cf1250902b5583610798bb03ab48a",
+        "identical": true
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [1] of the 164-page circulating file removed 2026-10-25; 'identical' compares the file before removal; old-curriculum book; no 2025 edition found in circulation 2026-10-24"
   },
   "contributors": [
     "databayt"

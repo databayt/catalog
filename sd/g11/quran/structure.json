@@ -22,8 +22,8 @@
     "edition": "الطبعة الثانية المنقحة ٢٠١٠م",
     "editionBasis": "printed",
     "evidence": "imprint p3: «الطبعة الثانية المنقحة ٢٠١٠م»",
-    "pdfSha256": "4e32d6c7e0e220af7d4cf60389a7dbf0c86276fd0ed12966b5c9179196145c23",
-    "pages": 191,
+    "pdfSha256": "bffff8ed3c58ca93fb464fc77ebba657092921d94412d1399bc32a8735e6b652",
+    "pages": 190,
     "comparedWith": [
       {
         "url": "https://drive.usercontent.google.com/download?id=11odQBNY4sjpfRoB7eMpB4pIJ1aQ5oaSw&export=download",
@@ -34,7 +34,7 @@
     ],
     "verifiedOn": "2026-10-25",
     "recheckAfter": "2027-03-01",
-    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24"
+    "note": "non-book pages in the PDF: ['p1: rowadaltamayoz.com aggregator cover/ad']; old-curriculum book; g11 moves to the 2026 curriculum by subject — almualm had no 2026 edition of this subject on 2026-10-24; aggregator cover p1 removed 2026-10-25 — pdf page numbers in evidence predate the removal (subtract 1); 'identical' compares the file before removal"
   },
   "textbook": {
     "pageNumbers": "book"

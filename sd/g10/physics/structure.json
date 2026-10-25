@@ -17,6 +17,31 @@
     "edition": "الفيزياء — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "pdf p2 below copyright box",
+    "pdfSha256": "958c2be5916331a2ce3192ed81b893a35a0b536a6c9e4a248f2c7962f31b73c0",
+    "pages": 162,
+    "comparedWith": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1jVUaOwAB5IKi3MClq-yVp9vZYsqCHXgK&export=download",
+        "bytes": 16059800,
+        "md5": "eb40e99fe9b9fa236c09550f30df81b9",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=12lgbL63jCxYTjkCNx6mNcVE5qt0EVpP9&export=download",
+        "bytes": 37501041,
+        "md5": "4c4ab0de5923d3ea0160bc37714e8ddc",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [163] of the 163-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

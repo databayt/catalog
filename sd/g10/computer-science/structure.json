@@ -17,6 +17,31 @@
     "edition": "تكنولوجيا المعلومات والاتصالات — الصف الأول الثانوي — الطبعة الأولى ٢٠٢٥م (NCCER)",
     "license": "LicenseRef-Publisher"
   },
+  "verification": {
+    "book": "verified",
+    "edition": "الطبعة الأولى ٢٠٢٥م",
+    "editionBasis": "printed",
+    "evidence": "pdf p2 below copyright box",
+    "pdfSha256": "2bdbe2365d0ef67b21c98a201fa87c548746e1b0cc4f0dc8aec411a908d7b277",
+    "pages": 233,
+    "comparedWith": [
+      {
+        "url": "https://www.almualm.com/wp-content/uploads/2025/12/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%88%D9%84-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A.pdf",
+        "bytes": 28155061,
+        "md5": "37a526ab41bb531b04ba85b39243203a",
+        "identical": false
+      },
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1u0a4pd-Jj5D3hHo2Wy7DbxcE3V7K8oPe&export=download",
+        "bytes": 3097990,
+        "md5": "de1b0b4b609feafa629f0a09b916ec58",
+        "identical": false
+      }
+    ],
+    "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
+    "note": "aggregator ad page(s) [234] of the 234-page circulating file removed 2026-10-25; 'identical' compares the file before removal"
+  },
   "textbook": {
     "pageNumbers": "book"
   },

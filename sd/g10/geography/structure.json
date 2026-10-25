@@ -33,6 +33,7 @@
       }
     ],
     "verifiedOn": "2026-10-25",
+    "recheckAfter": "2027-03-01",
     "note": "the almualm.com copy with its inserted almualm ad page removed; bytes otherwise as circulated"
   },
   "contributors": [
@@ -49,7 +50,80 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "page": 5,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تعريف علم الجغرافيا",
+            "en": "Definition of Geography"
+          },
+          "page": 7
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الاتجاهات الحديثة في الجغرافيا والجغرافيا الرقمية",
+            "en": "Modern Trends in Geography and Digital Geography"
+          },
+          "page": 8
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أهمية الجغرافيا في حياة الفرد والجماعة",
+            "en": "The Importance of Geography in the Life of the Individual and the Group"
+          },
+          "page": 8
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الجغرافيا الفلكية",
+            "en": "Astronomical Geography"
+          },
+          "page": 9
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الأرض وحركتها",
+            "en": "The Earth and Its Motion"
+          },
+          "page": 12
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "تضاريس الأرض في العالم",
+            "en": "Earth's Relief in the World"
+          },
+          "page": 22
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "خطوط الطول ودوائر العرض",
+            "en": "Lines of Longitude and Circles of Latitude"
+          },
+          "page": 24
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "أغلفة الأرض",
+            "en": "The Earth's Spheres"
+          },
+          "page": 31
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "قشرة الأرض والعوامل المؤثرة في تضاريسها",
+            "en": "The Earth's Crust and the Factors Shaping Its Relief"
+          },
+          "page": 40
+        }
+      ]
     },
     {
       "slug": "c2",
@@ -61,7 +135,104 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "page": 65,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "طبيعة علم المُناخ",
+            "en": "The Nature of Climatology"
+          },
+          "page": 67
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "عناصر المُناخ",
+            "en": "Elements of Climate"
+          },
+          "page": 67
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الإشعاع الشمسي والحرارة",
+            "en": "Solar Radiation and Heat"
+          },
+          "page": 68
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "درجة الحرارة",
+            "en": "Temperature"
+          },
+          "page": 73
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الضغط الجوي",
+            "en": "Atmospheric Pressure"
+          },
+          "page": 79
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الرياح",
+            "en": "Winds"
+          },
+          "page": 83
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الرطوبة",
+            "en": "Humidity"
+          },
+          "page": 88
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "التكاثف",
+            "en": "Condensation"
+          },
+          "page": 89
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "التساقط",
+            "en": "Precipitation"
+          },
+          "page": 91
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الأقاليم المُناخية",
+            "en": "Climatic Regions"
+          },
+          "page": 95
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "النباتات الطبيعية",
+            "en": "Natural Vegetation"
+          },
+          "page": 99
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "التغير المُناخي",
+            "en": "Climate Change"
+          },
+          "page": 107
+        }
+      ]
     },
     {
       "slug": "c3",
@@ -73,7 +244,104 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "page": 114,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "مقدمة",
+            "en": "Introduction"
+          },
+          "page": 116
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تطور الخرائط",
+            "en": "The Development of Maps"
+          },
+          "page": 116
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أنواع الخرائط",
+            "en": "Types of Maps"
+          },
+          "page": 118
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "عنوان الخريطة",
+            "en": "The Map Title"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "المفتاح (الرموز)",
+            "en": "The Key (Symbols)"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الاتجاهات",
+            "en": "Directions"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "مقياس الرسم",
+            "en": "Map Scale"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "طرق الانتفاع بمقياس الرسم",
+            "en": "Ways of Using the Map Scale"
+          },
+          "page": 134
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "خطوط الكنتور",
+            "en": "Contour Lines"
+          },
+          "page": 141
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "المبالغة الرأسية",
+            "en": "Vertical Exaggeration"
+          },
+          "page": 147
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "قراءة التضاريس وتحليلها من الخرائط الكنتورية",
+            "en": "Reading and Analysing Relief from Contour Maps"
+          },
+          "page": 150
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "تحديد الرؤية في الخرائط الكنتورية",
+            "en": "Determining Visibility on Contour Maps"
+          },
+          "page": 168
+        }
+      ]
     },
     {
       "slug": "c4",
@@ -85,7 +353,56 @@
       "image": "clickview/high-earth-systems-and-climate-cover.jpg",
       "page": 179,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "نظم المعلومات الجغرافية (GIS): التعريف",
+            "en": "Geographic Information Systems (GIS): Definition"
+          },
+          "page": 181
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "أهمية نظم المعلومات الجغرافية",
+            "en": "The Importance of Geographic Information Systems"
+          },
+          "page": 181
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الأدوات",
+            "en": "Tools"
+          },
+          "page": 182
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "مميزات نظم المعلومات الجغرافية",
+            "en": "Features of Geographic Information Systems"
+          },
+          "page": 182
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "خطوات تطبيق نظام معلومات جغرافي",
+            "en": "Steps of Applying a Geographic Information System"
+          },
+          "page": 191
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "تفاصيل مراحل إنجاز المشروع",
+            "en": "Details of the Project Stages"
+          },
+          "page": 192
+        }
+      ]
     }
   ],
   "textbook": {
