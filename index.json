@@ -4,8 +4,8 @@
   "curricula": 6,
   "subjects": 472,
   "chapters": 1630,
-  "lessons": 6132,
-  "questions": 12336
+  "lessons": 6139,
+  "questions": 12332
  },
  "curricula": [
   {
@@ -9432,9 +9432,9 @@
        "concept": "faith",
        "publisher": "sd-ncerd",
        "chapters": 5,
-       "lessons": 29,
-       "questions": 8,
-       "exams": 11,
+       "lessons": 36,
+       "questions": 4,
+       "exams": 9,
        "assets": {
         "textbook": true,
         "markdown": false,
@@ -9446,7 +9446,7 @@
        },
        "gates": {
         "book": true,
-        "structure": false,
+        "structure": true,
         "twin": false,
         "assessment": false
        }

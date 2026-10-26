@@ -42,11 +42,69 @@
     {
       "slug": "c1",
       "title": {
-        "ar": "علوم القرآن الكريم"
+        "ar": "الإيمان في القرآن الكريم",
+        "en": "Faith in the Holy Quran"
       },
       "concept": "faith",
       "image": "clickview/middle-literary-texts-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تعريف الإيمان",
+            "en": "Definition of faith"
+          },
+          "page": 100
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "زيادة الإيمان ونقصانه",
+            "en": "Increase and decrease of faith"
+          },
+          "page": 101
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أسلوب القرآن الكريم في الدعوة للإيمان",
+            "en": "The Quran's method of calling to faith"
+          },
+          "page": 102
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أركان الإيمان وأثرها في حياة الإنسان",
+            "en": "The pillars of faith and their effect on human life"
+          },
+          "page": 107
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "ما يكمل الإيمان وما ينقضه",
+            "en": "What completes faith and what nullifies it"
+          },
+          "page": 126
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الإيمان باليوم الآخر",
+            "en": "Belief in the Last Day"
+          },
+          "page": 136
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "من مشاهد يوم القيامة",
+            "en": "Scenes of the Day of Resurrection"
+          },
+          "page": 148
+        }
+      ]
     },
     {
       "slug": "c2",
