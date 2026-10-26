@@ -3,9 +3,9 @@
  "totals": {
   "curricula": 6,
   "subjects": 472,
-  "chapters": 1631,
-  "lessons": 6055,
-  "questions": 12345
+  "chapters": 1630,
+  "lessons": 6132,
+  "questions": 12336
  },
  "curricula": [
   {
@@ -7769,7 +7769,7 @@
        "concept": "art",
        "publisher": "sd-ncerd",
        "chapters": 4,
-       "lessons": 9,
+       "lessons": 22,
        "questions": 0,
        "exams": 0,
        "assets": {
@@ -7783,7 +7783,7 @@
        },
        "gates": {
         "book": true,
-        "structure": false,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8053,7 +8053,7 @@
        "concept": "art",
        "publisher": "sd-ncerd",
        "chapters": 5,
-       "lessons": 0,
+       "lessons": 17,
        "questions": 0,
        "exams": 0,
        "assets": {
@@ -8067,7 +8067,7 @@
        },
        "gates": {
         "book": true,
-        "structure": false,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8270,7 +8270,7 @@
        "concept": "science",
        "publisher": "sd-ncerd",
        "chapters": 6,
-       "lessons": 0,
+       "lessons": 21,
        "questions": 0,
        "exams": 0,
        "assets": {
@@ -8284,7 +8284,7 @@
        },
        "gates": {
         "book": true,
-        "structure": false,
+        "structure": true,
         "twin": false,
         "assessment": false
        }
@@ -8868,10 +8868,10 @@
        "status": "official",
        "concept": "skills",
        "publisher": "sd-ncerd",
-       "chapters": 6,
-       "lessons": 0,
-       "questions": 9,
-       "exams": 7,
+       "chapters": 5,
+       "lessons": 26,
+       "questions": 0,
+       "exams": 0,
        "assets": {
         "textbook": true,
         "markdown": false,
@@ -8883,7 +8883,7 @@
        },
        "gates": {
         "book": true,
-        "structure": false,
+        "structure": true,
         "twin": false,
         "assessment": false
        }

@@ -37,7 +37,37 @@
       },
       "concept": "art",
       "image": "clickview/middle-artistic-skills-and-techniques-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "السياحة في السودان"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "رسم بقلم الرصاص"
+          },
+          "page": 10
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "العلاقة بين الأشكال المخروطية والمثلثات والجبال والأهرامات"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "رسم المباني القديمة"
+          },
+          "page": 12
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c2",
@@ -46,7 +76,30 @@
       },
       "concept": "art",
       "image": "clickview/middle-design-thinking-skills-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تصميم ملصقات وعائية ورسوم الكاريكاتير"
+          },
+          "page": 14
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الألوان في الزخارف السودانية"
+          },
+          "page": 18
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "ألوان الزخارف التراثية على الأواني"
+          },
+          "page": 21
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c3",
@@ -55,7 +108,51 @@
       },
       "concept": "art",
       "image": "clickview/middle-elements-of-art-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "المجسمات ذات البعدين"
+          },
+          "page": 24
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "المجسمات ذات الأبعاد الثلاثة « ثلاثية الأبعاد »"
+          },
+          "page": 27
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "تجسيم الأهرامات وأشكال الجبال والبيوت القديمة"
+          },
+          "page": 29
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "تجسيم البيوت التراثية القديمة في السودان"
+          },
+          "page": 31
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "التشكيل بالخامات المحلية"
+          },
+          "page": 34
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الطباعة المسامية « استنسل »"
+          },
+          "page": 36
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c4",
@@ -64,7 +161,23 @@
       },
       "concept": "art",
       "image": "clickview/high-evaluating-art-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "التذوق الفني الجمالي"
+          },
+          "page": 39
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "« أعمال فنان تشكيلي سوداني »"
+          },
+          "page": 41
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c5",
@@ -73,7 +186,27 @@
       },
       "concept": "art",
       "image": "clickview/middle-world-art-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "كتابة الحروف بخط الرقعة"
+          },
+          "page": 46
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "كتابة الكلمات والجمل بخط الرقعة"
+          },
+          "page": 48
+        }
+      ],
+      "lessonsGeneric": false
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 3
+  }
 }

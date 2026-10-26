@@ -41,56 +41,248 @@
     {
       "slug": "c1",
       "title": {
-        "ar": "الرسم الفني"
+        "ar": "المجال الهندسي"
       },
       "concept": "career",
       "image": "clickview/high-engineering-design-cover.jpg",
-      "lessons": []
+      "page": 1,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "التكنولوجيا"
+          },
+          "page": 2
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "المواد الهندسية"
+          },
+          "page": 10
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المعادن"
+          },
+          "page": 13
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c2",
       "title": {
-        "ar": "الأعمال الخشبية"
+        "ar": "تقنيات الطاقة الشمسية"
       },
-      "concept": "career",
-      "image": "clickview/middle-woodwork-cover.jpg",
-      "lessons": []
+      "concept": "physics",
+      "image": "clickview/high-ecosystem-energy-and-health-cover.jpg",
+      "page": 20,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "تقنيات الطاقة الشمسية"
+          },
+          "page": 21
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تقنيات الطاقة الشمسية وتطبيقاتها"
+          },
+          "page": 26
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الطاقة الشمسية في السودان"
+          },
+          "page": 30
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الخلايا الشمسية"
+          },
+          "page": 33
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "كيفية وضع ألواح الطاقة الشمسية"
+          },
+          "page": 38
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "منظومة الطاقة الشمسية"
+          },
+          "page": 43
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c3",
       "title": {
-        "ar": "الأعمال المعدنية"
+        "ar": "المجال الزراعي"
       },
       "concept": "career",
-      "image": "clickview/middle-mechanical-systems-cover.jpg",
-      "lessons": []
+      "image": "clickview/high-agricultural-technology-cover.jpg",
+      "page": 47,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الغابات"
+          },
+          "page": 48
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "التصحر"
+          },
+          "page": 56
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "صناعة الدواجن في السودان وتربيتها"
+          },
+          "page": 60
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "حضانة الكتاكيت"
+          },
+          "page": 68
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "أمراض الدجاج"
+          },
+          "page": 73
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c4",
       "title": {
-        "ar": "الكهرباء"
+        "ar": "ريادة الأعمال"
       },
-      "concept": "physics",
-      "image": "clickview/high-electricity-and-circuits-cover.jpg",
-      "lessons": []
+      "concept": "career",
+      "image": "clickview/high-entrepreneurship-cover.jpg",
+      "page": 76,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الإنتاج"
+          },
+          "page": 78
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "مصادر المشروعات التجارية"
+          },
+          "page": 85
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "دراسة وتقييم المشروع التجاري"
+          },
+          "page": 97
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "التخطيط لتنفيذ المشروع التجاري"
+          },
+          "page": 105
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "تسويق المنتجات"
+          },
+          "page": 109
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "ريادة الأعمال الاجتماعية"
+          },
+          "page": 113
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c5",
       "title": {
-        "ar": "الإلكترونيات"
-      },
-      "concept": "physics",
-      "image": "clickview/high-hardware-and-software-cover.jpg",
-      "lessons": []
-    },
-    {
-      "slug": "c6",
-      "title": {
-        "ar": "الصيانة"
+        "ar": "نماذج من الريادة الملهمة"
       },
       "concept": "career",
-      "image": "clickview/high-workplace-skills-cover.jpg",
-      "lessons": []
+      "image": "clickview/high-entrepreneurial-skills-cover.jpg",
+      "page": 118,
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "عوضية للأسماك"
+          },
+          "page": 120
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "جمهورية القهوة"
+          },
+          "page": 124
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "التخطيط لتنفيذ الفكرة"
+          },
+          "page": 131
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "شركة اسبرينجين للصحة و الجمال الطبيعي"
+          },
+          "page": 140
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "بنك غرامين (بنك القرية)"
+          },
+          "page": 146
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "الادخار كمصدر لريادة الأعمال"
+          },
+          "page": 151
+        }
+      ],
+      "lessonsGeneric": false
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 4
+  }
 }

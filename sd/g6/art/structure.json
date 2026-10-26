@@ -28,7 +28,8 @@
     "recheckAfter": "2027-03-01"
   },
   "textbook": {
-    "pageNumbers": "book"
+    "pageNumbers": "book",
+    "pageOffset": 1
   },
   "history": {
     "appliedOn": "2026-09-04"
@@ -157,9 +158,101 @@
       },
       "concept": "art",
       "image": "clickview/middle-world-art-cover.jpg",
-      "page": 70,
+      "page": 69,
       "lessonsGeneric": false,
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الألف"
+          },
+          "page": 73
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الباء والتاء والثاء"
+          },
+          "page": 76
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الجيم والحاء والخاء"
+          },
+          "page": 80
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الدال والذال"
+          },
+          "page": 84
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الراء والزاي"
+          },
+          "page": 86
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "السين والشين"
+          },
+          "page": 90
+        },
+        {
+          "slug": "l7",
+          "title": {
+            "ar": "الصاد والضاد"
+          },
+          "page": 92
+        },
+        {
+          "slug": "l8",
+          "title": {
+            "ar": "الطاء والظاء"
+          },
+          "page": 94
+        },
+        {
+          "slug": "l9",
+          "title": {
+            "ar": "العين والغين"
+          },
+          "page": 96
+        },
+        {
+          "slug": "l10",
+          "title": {
+            "ar": "الفاء والقاف"
+          },
+          "page": 100
+        },
+        {
+          "slug": "l11",
+          "title": {
+            "ar": "اللام والكاف"
+          },
+          "page": 102
+        },
+        {
+          "slug": "l12",
+          "title": {
+            "ar": "الميم والنون"
+          },
+          "page": 106
+        },
+        {
+          "slug": "l13",
+          "title": {
+            "ar": "الهاء والواو والياء"
+          },
+          "page": 108
+        }
+      ]
     }
   ]
 }

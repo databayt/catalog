@@ -37,7 +37,30 @@
       },
       "concept": "science",
       "image": "clickview/middle-science-inquiry-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "العلم وعملياته"
+          },
+          "page": 3
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "القياس"
+          },
+          "page": 11
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "قياس المادة"
+          },
+          "page": 15
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c2",
@@ -46,7 +69,16 @@
       },
       "concept": "physics",
       "image": "clickview/middle-force-and-pressure-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "القوة والضغط"
+          },
+          "page": 26
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c3",
@@ -55,7 +87,37 @@
       },
       "concept": "chemistry",
       "image": "clickview/middle-matter-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "خواص المادة"
+          },
+          "page": 58
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "العناصر"
+          },
+          "page": 64
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "أنواع المادة"
+          },
+          "page": 75
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "تركيب المادة (مكونات المادة)"
+          },
+          "page": 80
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c4",
@@ -64,7 +126,37 @@
       },
       "concept": "life",
       "image": "clickview/middle-cellular-structure-and-function-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "اكتشاف الخلية"
+          },
+          "page": 87
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "تركيب الخلية الحية"
+          },
+          "page": 89
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الخلية النباتية"
+          },
+          "page": 92
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "أنواع الخلايا"
+          },
+          "page": 94
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c5",
@@ -73,7 +165,51 @@
       },
       "concept": "life",
       "image": "clickview/elementary-invertebrates-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "الرخويات"
+          },
+          "page": 101
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "الاسفنجيات (المساميات)"
+          },
+          "page": 104
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "الجوفمعويات"
+          },
+          "page": 107
+        },
+        {
+          "slug": "l4",
+          "title": {
+            "ar": "الجلدشوكيات"
+          },
+          "page": 109
+        },
+        {
+          "slug": "l5",
+          "title": {
+            "ar": "الديدان"
+          },
+          "page": 111
+        },
+        {
+          "slug": "l6",
+          "title": {
+            "ar": "مفصليات الأرجل"
+          },
+          "page": 114
+        }
+      ],
+      "lessonsGeneric": false
     },
     {
       "slug": "c6",
@@ -82,7 +218,34 @@
       },
       "concept": "nature",
       "image": "clickview/middle-ecosystems-cover.jpg",
-      "lessons": []
+      "lessons": [
+        {
+          "slug": "l1",
+          "title": {
+            "ar": "بيئة الكائنات الحية"
+          },
+          "page": 122
+        },
+        {
+          "slug": "l2",
+          "title": {
+            "ar": "النظام البيئي"
+          },
+          "page": 127
+        },
+        {
+          "slug": "l3",
+          "title": {
+            "ar": "المشاكل البيئية التي تواجه الإنسان وحلولها (التلوث البيئي)"
+          },
+          "page": 136
+        }
+      ],
+      "lessonsGeneric": false
     }
-  ]
+  ],
+  "textbook": {
+    "pageNumbers": "book",
+    "pageOffset": 5
+  }
 }
